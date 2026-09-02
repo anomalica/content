@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a7d2e651305f21d096809458d974b88e8b246e9ec490c543aa257e92624055c8
+brief_hash: fc6dce70b86f9ed72a6d4c54b89252f3cc87dcc74effc4f58e0bd0096548dc16
 page:
   kind: entity
   node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
@@ -9,11 +9,21 @@ page:
   claim_count: 93
   claim_count_total: 93
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 93
   tokens_estimated: 14802
   sized_against: 1050000
+entailment:
+  assessed: 93
+  unassessed: 0
+  entails: 45
+  neutral: 48
+  contradicts: 0
+  entailed_by_quote: 17
+  entailed_by_window: 28
+  entailed_by_quote_fraction: 0.183
+  entailed_by_window_fraction: 0.301
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -224,6 +239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -255,6 +275,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -287,6 +312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -321,6 +351,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -356,6 +391,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -390,6 +430,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -421,6 +466,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -458,6 +508,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.871
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -496,6 +551,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -531,6 +591,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -564,6 +629,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -601,6 +671,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43e72c74-2757-4480-84c9-8190a53c42d1
         title: Mario Godinho
@@ -642,6 +717,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -682,6 +762,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0357aebd-9157-4be6-9eea-c690bf5424a1
         title: Portugal, Minde
@@ -718,6 +803,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -756,6 +846,11 @@ claims:
         - an interview with John Haffert in 1960
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 366e3c09-68c1-4928-8fe5-bf00b87d7e4e
         title: Mr. Mendes
@@ -795,6 +890,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1e2030c8-db0c-4b09-8306-71c3985d618d
         title: Guilhermina Lopes da Silva
@@ -833,6 +933,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b16e5e43-a076-4cf3-9d5b-c4be36e7c586
         title: Portugal, San Pedro de Muel
@@ -871,6 +976,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -903,6 +1013,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -933,6 +1048,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -967,6 +1087,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1001,6 +1126,11 @@ claims:
         - an interview with John Haffert in 1960
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.729
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a117460c-94ee-4ab3-977f-c33dd6064dd9
         title: John Haffert
@@ -1039,6 +1169,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
         title: Catholic Church
@@ -1076,6 +1211,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
         title: Catholic Church
@@ -1111,6 +1251,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1144,6 +1289,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.864
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1175,6 +1325,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1205,6 +1360,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1237,6 +1397,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
         title: Catholic Church
@@ -1272,6 +1437,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1305,6 +1475,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1339,6 +1514,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.919
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -1374,6 +1554,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -1409,6 +1594,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1444,6 +1634,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -1477,6 +1672,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1509,6 +1709,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1539,6 +1744,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1574,6 +1784,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.569
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 28ee65cc-0d0e-4478-984f-0f75b0f6c4a3
         title: Pope Pius XI
@@ -1610,6 +1825,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1646,6 +1866,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1684,6 +1909,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -1719,6 +1949,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1750,6 +1985,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1782,6 +2022,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1815,6 +2060,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -1852,6 +2102,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1890,6 +2145,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.917
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1923,6 +2183,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1956,6 +2221,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1989,6 +2259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2021,6 +2296,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2059,6 +2339,11 @@ claims:
         - letter to Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2095,6 +2380,11 @@ claims:
         - letter to Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2126,6 +2416,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -2161,6 +2456,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2193,6 +2493,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38ecab4b-4ae9-4556-97b6-221dcd957341
         title: Assassination attempt on John Paul II (1981-05-13)
@@ -2229,6 +2534,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.676
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2262,6 +2572,11 @@ claims:
         - historical accounts of the Fatima apparitions
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -2302,6 +2617,11 @@ claims:
         - historical accounts of the Fatima apparitions
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.548
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -2342,6 +2662,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -2375,6 +2700,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -2416,6 +2746,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2446,6 +2781,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.602
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2481,6 +2821,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2518,6 +2863,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2557,6 +2907,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2596,6 +2951,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2631,6 +2991,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2664,6 +3029,11 @@ claims:
         - Jacques Vallee's account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2699,6 +3069,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.405
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -2740,6 +3115,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2775,6 +3155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2806,6 +3191,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2836,6 +3226,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2868,6 +3263,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.763
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2903,6 +3303,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2943,6 +3348,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.817
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -2980,6 +3390,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.834
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -3017,6 +3432,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -3055,6 +3475,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.747
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -3092,6 +3517,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -3129,6 +3559,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.405
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -3165,6 +3600,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -3197,6 +3637,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -3237,6 +3682,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3280,6 +3730,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.705
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3323,6 +3778,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -3363,6 +3823,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -3402,6 +3867,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
         title: Miracle of the Sun at Fatima
@@ -3423,7 +3893,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
-    claim_hash: 61d19418c0924fe81ee74108def5b2ee292acb44b1ce4a0c8767633e5518a71f
+    claim_hash: 4da1e9976b686468f3eb02beaaa743fb1b95c3ba990a5f0d0d02eeeae02468cb
     content: The Holy See (the Vatican) confiscated a written prophecy given to the children who witnessed the Fatima Marian
       apparitions, and Jesse Michels believes that prophecy was more complex than the historical portrayal of a sun or Virgin
       Mary appearance.
@@ -3440,6 +3910,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells

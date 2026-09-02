@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 34d4832a448e82b58fd73c8dedeaf4faa8a3a000e03563cd9cb99f2cb6081873
+brief_hash: e465909df017b931639b47e9c130b3593f4ceac0b74f4d24a5849d5900af26c4
 page:
   kind: entity
   node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
@@ -9,11 +9,21 @@ page:
   claim_count: 28
   claim_count_total: 28
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 28
   tokens_estimated: 4229
   sized_against: 1050000
+entailment:
+  assessed: 28
+  unassessed: 0
+  entails: 25
+  neutral: 1
+  contradicts: 2
+  entailed_by_quote: 5
+  entailed_by_window: 20
+  entailed_by_quote_fraction: 0.179
+  entailed_by_window_fraction: 0.714
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -187,6 +197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -224,6 +239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34f6fb01-4897-42df-9ce9-b7a964e7275f
         title: USA, Washington, Renton, Boeing Company office
@@ -270,6 +290,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.49
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -312,6 +337,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.878
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -355,6 +385,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -395,6 +430,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -435,6 +475,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.863
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -473,6 +518,11 @@ claims:
         - Paul Hudson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -511,6 +561,11 @@ claims:
         - Paul Hudson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -548,6 +603,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -586,6 +646,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.533
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -623,6 +688,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -663,6 +733,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -706,6 +781,11 @@ claims:
         - Richard C. Hoagland
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -740,6 +820,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -778,6 +863,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
         title: F/A-18F Super Hornet
@@ -815,6 +905,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
         title: F/A-18F Super Hornet
@@ -857,6 +952,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
         title: F/A-18F Super Hornet
@@ -896,6 +996,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.825
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -938,6 +1043,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -965,7 +1075,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 406b4c0a-9bbe-4be1-8d8f-bb00c035c258
-    claim_hash: d8a69885aebeb8488bff528bb762a25c7c8d92625bee3ede6e52b2671028fb55
+    claim_hash: f37f134b222189686aac35359f8c208b2e709a3fa2e7cd7b4445e80552b25e60
     content: In 2003, a large group of Boeing contractors operating near a launch facility at Vandenberg Air Force Base observed
       a large, approximately 90-metre red square object approach the base from the ocean and hover at low altitude over one
       of the launch facilities.
@@ -984,7 +1094,15 @@ claims:
         - a witness who approached Ryan Graves at Americans for Safe Aerospace
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 234ed29f-c8b9-4baa-bbd4-e4048361514a
+        title: USA, California, Vandenberg Air Force Base
+        slug: california-vandenberg-air-force-base-usa
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
         slug: boeing
@@ -994,9 +1112,6 @@ claims:
       - node_id: 785548fb-ff5e-444f-8db9-5de154ea4cf1
         title: 2003 Vandenberg Air Force Base Unidentified Aerial Phenomena / Unidentified Anomalous Phenomena (UAP) incident
         slug: 2003-vandenberg-air-force-base-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap-incident
-      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
-        title: USA, California, Edwards Air Force Base
-        slug: california-edwards-air-force-base-usa
     date: '2003'
     date_end: null
     location_in_record: char:73551-73830
@@ -1007,7 +1122,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: a85682b5-4712-4b84-8f6b-044b8eb77b69
@@ -1028,6 +1143,11 @@ claims:
         - Ryan Graves
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -1045,9 +1165,55 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: b5c87687-4878-4768-b435-084dc902ecea
+    claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
+    content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency (DARPA) developed the RQ-3 Dark Star
+      in the mid-to-late 1990s.
+    original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the mid-to-late 1990s.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+        title: Boeing
+        slug: boeing
+      - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
+        title: Dark Star
+        slug: dark-star
+      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+        title: Lockheed Martin
+        slug: lockheed-martin
+      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+        title: Defense Advanced Research Projects Agency (DARPA)
+        slug: defense-advanced-research-projects-agency-darpa
+    date: null
+    date_end: null
+    location_in_record: char:141208-141282
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e59c0f57-d34c-4691-b499-4cc425233baf
     claim_hash: c0cee287df4fa09d0c029bb8c9b7a178207cc4032a6dc46291c54fd5e894f2ec
     content: Luis Elizondo's primary job in counterintelligence was to lock down sensitive, top secret technology from foreign
@@ -1065,6 +1231,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -1090,7 +1261,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1114,6 +1285,11 @@ claims:
         - told confidentially to Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
         title: BAE Systems
@@ -1151,7 +1327,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1173,6 +1349,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -1198,7 +1379,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1216,6 +1397,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -1232,51 +1418,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b5c87687-4878-4768-b435-084dc902ecea
-    claim_hash: 9ccb2013a6cf08d6aa37456d640053033cb1ab3a218ac064c808df1be38b2ee5
-    content: Lockheed Martin, Boeing, and the Defense Advanced Research Projects Agency (DARPA) developed the RQ-3 Dark Star
-      in the mid-to-late 1990s.
-    original_excerpt: Lockheed Martin, Boeing, and DARPA developed Dark Star in the mid-to-late 1990s.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
-        title: Boeing
-        slug: boeing
-      - node_id: 6ed8cca1-7933-45ad-94ca-0718946c8cb2
-        title: Dark Star
-        slug: dark-star
-      - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
-        title: Lockheed Martin
-        slug: lockheed-martin
-      - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
-        title: Defense Advanced Research Projects Agency (DARPA)
-        slug: defense-advanced-research-projects-agency-darpa
-    date: null
-    date_end: null
-    location_in_record: char:141208-141282
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 2733ea11-98d7-4838-bc67-434e245d61f5
     claim_hash: 849fd00ef5619642a61e9f6b818c2d3c1b9c1ab157f8b1ba9fda99969466f795
     content: Ross Coulthart considers members of the control group overseeing the legacy UFO retrieval programme to be present
@@ -1294,6 +1439,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program

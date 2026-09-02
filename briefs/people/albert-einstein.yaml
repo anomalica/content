@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e0be90b3594383922747714b25a55a70aae9290116d6bd85a15f0b9fcfc88e10
+brief_hash: 2de073b57d771eea22b49e31de9d70f783903445895a63e0869451829dcf586f
 page:
   kind: entity
   node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
@@ -9,11 +9,21 @@ page:
   claim_count: 67
   claim_count_total: 67
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 67
   tokens_estimated: 11760
   sized_against: 1050000
+entailment:
+  assessed: 67
+  unassessed: 0
+  entails: 44
+  neutral: 22
+  contradicts: 1
+  entailed_by_quote: 18
+  entailed_by_window: 26
+  entailed_by_quote_fraction: 0.269
+  entailed_by_window_fraction: 0.388
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -29,9 +39,9 @@ related_nodes:
     slug: j-robert-oppenheimer
     shared_claims: 35
   - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-    title: General Theory of Relativity
+    title: General relativity
     node_type: topic
-    slug: general-theory-of-relativity
+    slug: general-relativity
     shared_claims: 4
   - node_id: 853735d3-bbb9-42fa-b95f-d1ad429d9516
     title: London Daily Mail interview with Albert Einstein, 1920-01
@@ -48,10 +58,10 @@ related_nodes:
     node_type: place
     slug: new-jersey-princeton-usa
     shared_claims: 3
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+    title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     shared_claims: 2
   - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
     title: Frank Edwards
@@ -189,6 +199,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.666
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -224,6 +239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -259,6 +279,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 204c1263-8b3f-43f8-bf9b-7e8eea8588a6
         title: Law Among Planetary Peoples
@@ -299,6 +324,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -334,6 +364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -369,6 +404,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -404,6 +444,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -438,6 +483,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -474,6 +524,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -507,6 +562,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
         title: USA, New Jersey, Princeton
@@ -543,6 +603,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -579,6 +644,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -615,6 +685,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.411
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -651,6 +726,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.413
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -686,6 +766,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -722,6 +807,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.407
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -763,6 +853,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -800,6 +895,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -837,6 +937,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -874,6 +979,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.412
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -909,6 +1019,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.398
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -946,6 +1061,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -983,6 +1103,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1019,6 +1144,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1056,6 +1186,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1095,6 +1230,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1131,6 +1271,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1168,6 +1313,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1203,6 +1353,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1238,6 +1393,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.401
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1277,6 +1437,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1315,6 +1480,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1352,6 +1522,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.907
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a889f24-c2a6-45c1-8f1d-141d98372e59
         title: James M. McCampbell
@@ -1397,6 +1572,11 @@ claims:
         - Corrado Balducci's article 'Prophecy and Reality'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1431,6 +1611,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.406
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -1468,6 +1653,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ea1f9a1-2046-4738-be95-0cfbb16b63c5
         title: Max Planck
@@ -1510,6 +1700,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
         title: Hyper-dimensional physics theory
@@ -1548,6 +1743,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38056c94-8e88-4ea8-8761-89856badf530
         title: James Clerk Maxwell
@@ -1590,10 +1790,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General Theory of Relativity
-        slug: general-theory-of-relativity
+        title: General relativity
+        slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
@@ -1628,6 +1833,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1660,6 +1870,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1694,10 +1909,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General Theory of Relativity
-        slug: general-theory-of-relativity
+        title: General relativity
+        slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
@@ -1736,6 +1956,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.504
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1776,6 +2001,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1810,6 +2040,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.718
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
@@ -1847,6 +2082,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1880,10 +2120,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General Theory of Relativity
-        slug: general-theory-of-relativity
+        title: General relativity
+        slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
@@ -1917,6 +2162,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.86
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1947,6 +2197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1960,7 +2215,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1980,6 +2235,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -1993,7 +2253,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2015,6 +2275,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -2055,6 +2320,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 853735d3-bbb9-42fa-b95f-d1ad429d9516
         title: London Daily Mail interview with Albert Einstein, 1920-01
@@ -2094,6 +2364,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 853735d3-bbb9-42fa-b95f-d1ad429d9516
         title: London Daily Mail interview with Albert Einstein, 1920-01
@@ -2132,6 +2407,11 @@ claims:
         - Chris Ramsey's narration
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1dc656ed-989a-45d0-9c09-d39ba41238ee
         title: Giulielmo Marconi
@@ -2156,7 +2436,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 4da013bd-4a3a-44fe-8727-26465f1e0672
-    claim_hash: 000dc3eff94b02e7f315c48a4bc19e4ee56ded39ede7cb342de2e22c197264ad
+    claim_hash: 6e58c7d44fd860aae73c60e73ac3e47538b0f13aa63f4b09fe03fd2f9a9ba4a6
     content: According to the Irish Times report of 1947-07-09, Albert Einstein told a United Press correspondent he had absolutely
       no comment to make regarding the Roswell reports.
     original_excerpt: Professor Einstein told a U.P. correspondent he had absolutely no comment to make.
@@ -2169,6 +2449,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -2193,7 +2478,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: dff5cd39-a375-41c1-864f-9197878cce3c
-    claim_hash: 999ffa55c333872eaf5a4594e0a4f3df5bfc9b70c3558dd1cdc62bd56e882e92
+    claim_hash: bfe67cd78de2b743d19748a73e5da2b661c52d074cbf24a5a37ff60b465bedaa
     content: During the 1952 Washington, D.C. UFO flap, Reverend Lewis A. Gardner sent Albert Einstein a letter asking whether
       he believed flying saucers came from space, specifically Mars or Venus, or were advanced military technology experiments
       created by the United States Air Force or America's foes.
@@ -2209,6 +2494,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -2216,12 +2506,12 @@ claims:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d5fed245-3fb2-4859-ba58-f13aa8c895d0
         title: Reverend Lewis A. Gardner
         slug: reverend-lewis-a-gardner
+      - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+        title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+        slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     date: 1952-07
     date_end: null
     location_in_record: 00:07:06.5-00:07:22.1
@@ -2253,6 +2543,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
         title: USA, New Jersey, Princeton
@@ -2280,7 +2575,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 2692579f-295f-44c3-af8f-05a20f269bc5
-    claim_hash: 68de96e44f6b85146b5a6cc9300ec8cac1442854670bfa39323ae71f3fe764b8
+    claim_hash: db18599f5c8f70f9a7818c2b4444ac355855e94b193bfd5509b132770a750fc1
     content: Frank Edwards, in a 1956 lecture, maintained that in 1952 Albert Einstein had delivered an urgent message to
       then-President Harry Truman warning that Truman's shoot-down policy toward UFOs over Washington, D.C. was unwise.
     original_excerpt: Edwards maintained that just four years prior in 1952, Albert Einstein had delivered an urgent message
@@ -2297,6 +2592,11 @@ claims:
         - Frank Edwards's sources and understanding of historical circumstance
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -2304,12 +2604,12 @@ claims:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
         title: Frank Edwards
         slug: frank-edwards
+      - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+        title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+        slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     date: '1956'
     date_end: null
     location_in_record: 00:08:40.5-00:08:54.2
@@ -2342,6 +2642,11 @@ claims:
         - Frank Edwards's sources and understanding of historical circumstance
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -2366,7 +2671,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
-    claim_hash: 6c821f4527124c8b4dda8b616a7bde845d4dccad5580862a44e04d31a6859299
+    claim_hash: df5353b98709faff101cdf47ae0396cb7db7958e3adc76978c96fb8c34f62a31
     content: In a confession tape, Shirley Wright said she studied under Albert Einstein at Princeton and was taken to the
       crash site of the 1947 Roswell UFO crash, given a tour inside the craft, shown eight dead bodies and one living entity,
       and had an exchange and communication with one of the entities.
@@ -2385,6 +2690,11 @@ claims:
         - a confession tape recorded by Shirley Wright
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -2431,6 +2741,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
@@ -2468,6 +2783,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -2507,6 +2827,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
         title: USA, New Jersey, Princeton
@@ -2550,6 +2875,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -2593,6 +2923,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -2630,10 +2965,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2940c428-15f6-4b10-8be9-41fb469e76c1
-        title: General Theory of Relativity
-        slug: general-theory-of-relativity
+        title: General relativity
+        slug: general-relativity
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
@@ -2668,6 +3008,11 @@ claims:
         - quoted by Chris Mellon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein

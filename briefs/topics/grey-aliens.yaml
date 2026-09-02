@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: af8ce9ac1f7ca41001e1320ad16eb67bb29d78356effc1feb01999a8e1d9f832
+brief_hash: 37bbf2b2f7cbdff9f06a8d3d02a1fb744777bd9082447c4cb664c824f0cf3bad
 page:
   kind: entity
   node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
@@ -9,11 +9,21 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 17
   tokens_estimated: 2067
   sized_against: 1050000
+entailment:
+  assessed: 17
+  unassessed: 0
+  entails: 13
+  neutral: 2
+  contradicts: 2
+  entailed_by_quote: 4
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.235
+  entailed_by_window_fraction: 0.529
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -126,6 +136,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.781
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -165,6 +180,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -202,6 +222,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
         title: Mantid beings
@@ -245,6 +270,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.624
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
         title: Mantid beings
@@ -275,7 +305,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: bf65cfe9-9f12-4a70-9fb0-ef4ca4cf7f9f
-    claim_hash: f081cd9217a1b7ad145033aefd61492827e33c8975eab838ebbca4bede3298f9
+    claim_hash: c842b1845e8a9d197a495ddd3403a0e59fcd9f7a6706d817b63f16a48662715f
     content: Jesse Michels considers grey aliens to have a robotic, droid-like mandate, showing up, saying do not fear, inserting
       a thing and subduing the witness, which feels automated.
     original_excerpt: even gray aliens, which seem to have this very robotic droid, like kind of mandate. where they show
@@ -292,6 +322,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -330,6 +365,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -370,6 +410,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -408,6 +453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -449,6 +499,11 @@ claims:
         - private off-camera conversations with Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -490,6 +545,11 @@ claims:
         - private off-camera conversations with Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -530,6 +590,11 @@ claims:
         - private off-camera conversations with Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -571,6 +636,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -609,6 +679,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.778
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -646,6 +721,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -687,6 +767,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.659
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
@@ -738,6 +823,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens
@@ -775,6 +865,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
         title: Grey aliens

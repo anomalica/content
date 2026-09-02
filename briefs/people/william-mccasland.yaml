@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 84521d7239d2d0535e6ec0ea97124b90663ef1fb9c6e980626a16b17ea37c99b
+brief_hash: 584675101445c1dbe2a68e8c63510c1d81f49797b610718eba4491d51d136297
 page:
   kind: entity
   node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
   node_type: person
   title: William McCasland
   slug: william-mccasland
-  claim_count: 12
-  claim_count_total: 12
+  claim_count: 19
+  claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 12
-  tokens_estimated: 1420
+  claims: 19
+  tokens_estimated: 3014
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 7
+  neutral: 8
+  contradicts: 4
+  entailed_by_quote: 4
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.211
+  entailed_by_window_fraction: 0.158
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,13 +31,13 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 12
+  unreviewed: 19
 related_nodes:
   - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
     title: Tom DeLonge
     node_type: person
     slug: tom-delonge
-    shared_claims: 4
+    shared_claims: 8
   - node_id: 5a80bd9f-223c-4ae2-a727-68b084532d35
     title: Disappearance of William Neal McCasland
     node_type: event
@@ -38,10 +48,30 @@ related_nodes:
     node_type: person
     slug: jason-samosa
     shared_claims: 3
+  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+    title: John Podesta
+    node_type: person
+    slug: john-podesta
+    shared_claims: 3
   - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
     title: Michael Carey
     node_type: person
     slug: michael-carey
+    shared_claims: 3
+  - node_id: acde03ee-7227-486d-854c-9673dd837619
+    title: USA, Ohio, Wright-Patterson Air Force Base
+    node_type: place
+    slug: ohio-wright-patterson-air-force-base-usa
+    shared_claims: 3
+  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+    title: Robert Weiss
+    node_type: person
+    slug: robert-weiss
+    shared_claims: 2
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
     shared_claims: 2
   - node_id: beb9eb48-6799-4f9b-a465-6fccb65370bd
     title: Secret Machines
@@ -52,6 +82,11 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
+    shared_claims: 2
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
     shared_claims: 2
   - node_id: a7705a12-ecb2-4419-9d8b-9fb34ca5a02b
     title: Air Force Research Laboratory
@@ -68,11 +103,6 @@ related_nodes:
     node_type: person
     slug: jamshid-reza
     shared_claims: 1
-  - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
-    title: John Podesta
-    node_type: person
-    slug: john-podesta
-    shared_claims: 1
   - node_id: abbce015-edd5-42c5-82db-857732163668
     title: Michael Hayden
     node_type: person
@@ -83,20 +113,15 @@ related_nodes:
     node_type: document
     slug: podesta-email-leak-correspondence-with-tom-delonge
     shared_claims: 1
-  - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
-    title: Robert Weiss
+  - node_id: bd910084-6353-434a-9a71-b6fc6791881d
+    title: Susan McCasland Wilkerson
     node_type: person
-    slug: robert-weiss
+    slug: susan-mccasland-wilkerson
     shared_claims: 1
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    node_type: event
-    slug: roswell-incident-1947
-    shared_claims: 1
-  - node_id: acde03ee-7227-486d-854c-9673dd837619
-    title: USA, Ohio, Wright-Patterson Air Force Base
-    node_type: place
-    slug: ohio-wright-patterson-air-force-base-usa
+  - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+    title: The White House
+    node_type: organisation
+    slug: the-white-house
     shared_claims: 1
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
@@ -109,6 +134,329 @@ related_nodes:
     slug: whitley-strieber
     shared_claims: 1
 claims:
+  - claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
+    claim_hash: ae8509e1998f47fdf4af36d5d53f5d83b8b702a85465da5b4de5f0316d0ad689
+    content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one of America's most senior private aerospace
+      chief executives, a campaign manager for Hillary Clinton, and two senior recently retired US Air Force generals, and
+      that UAP were discussed among them.
+    original_excerpt: they revealed beyond any doubt whatsoever that punk rock star Tom DeLonge truly was in contact with
+      one of America's most senior private aerospace chief executives, a campaign manager for Hillary Clinton, and two very
+      senior recently retired air force generals – and UAPs were discussed
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: leaked Podesta emails
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+        title: Michael Carey
+        slug: michael-carey
+      - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+        title: Robert Weiss
+        slug: robert-weiss
+    date: null
+    date_end: null
+    location_in_record: ch20:10178-10455
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 482877fc-950a-4d57-8cdf-f157a3d5eaeb
+    claim_hash: 310dc093a370ef3b2255efb64f8c41f34040a2b7a5c91d7d0a731c338477b31b
+    content: In an email, Tom DeLonge told John Podesta that 'The General (from Wright Patt R&D)' and he talked every other
+      day, and that this official was excited and thought the Department of Defense would embrace DeLonge's project because
+      it was intended to show the positive things people had done on the topic.
+    original_excerpt: '''The General (from Wright Patt R&D) and I talk every other day. He and I talked on the phone the other
+      night and he is excited; he really thinks that the DOD is going to embrace my project because I am out to show all the
+      positive things people have done on this topic. And I am eager to take direction from leadership to do a good and needed
+      public service.'''
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - an email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.878
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+        title: John Podesta
+        slug: john-podesta
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch20:13446-13822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d8eb21a7-d2ae-4102-9dcd-40844c2352b1
+    claim_hash: 3299a2a8e783d72d28704039c13a7160d92f2959b5b1ba67a807132a3260c782
+    content: A leaked email dated 2016-09-24 included recommendations from William Neil McCasland for a White House memo setting
+      out instructions for divulging information in coordination with the Department of Defense, the Director of National
+      Intelligence, and the National Oceanic and Atmospheric Administration.
+    original_excerpt: One intriguing line in the 24 September 2016 email included recommendations from Neil McCasland for
+      a White House memo, presumably to come from a future Hillary Clinton presidency, that would set out instructions for
+      divulging 'information' in coordination with the Defence Department, the Director of National Intelligence and the National
+      Oceanic and Atmospheric Administration.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email dated 2016-09-24
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+        title: The White House
+        slug: the-white-house
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: '2016-09-24'
+    date_end: null
+    location_in_record: ch20:14120-14487
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3786887c-74d0-44f9-9d84-4c730499a674
+    claim_hash: f15eda262ef307e014291bc796012adfef277d3623a9c5b0b38cd3f7bc179a67
+    content: Susan McCasland Wilkerson is married to former Major General William Neil McCasland.
+    original_excerpt: who also happens to be married to former Major General William Neil McCasland
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.895
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: bd910084-6353-434a-9a71-b6fc6791881d
+        title: Susan McCasland Wilkerson
+        slug: susan-mccasland-wilkerson
+    date: null
+    date_end: null
+    location_in_record: ch20:7833-7901
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 692be948-667e-47a5-a940-0cc9d7161f21
+    claim_hash: 2e9c54cbec7fe592edde92e17ef7e0b81ec13d81f3b65750ed581013dbe1d6ab
+    content: William Neil McCasland was the commander of the US Air Force's research laboratory at Wright-Patterson Air Force
+      Base until July 2013.
+    original_excerpt: the commander of the US Air Force's research laboratory at Wright-Patterson Air Force Base until July
+      2013
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: 2013-07
+    date_end: null
+    location_in_record: ch20:7912-8014
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f5333ac7-5a05-4637-8e77-b905151b8277
+    claim_hash: d4a21d3af527683baa1991fb454ddcbe908763e21059b1becb69bb6c6bd65ed7
+    content: Another Podesta email suggested that the UAP meeting took place the day after the 2016-01-24 email, and that
+      Tom DeLonge came out of it disappointed that William Neil McCasland had pulled his punches on the UAP issue.
+    original_excerpt: Another Podesta email suggested that the UAP meeting took place the following day, and that DeLonge
+      came out of it disappointed that Neil McCasland had pulled his punches on the UAP issue.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: a leaked Podesta email
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: '2016-01-25'
+    date_end: null
+    location_in_record: ch20:8720-8902
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
+    claim_hash: 68c75a33d89f03a4450d513d66dd57c7aef9f18e1fa8d061e13620cd2b10e2d4
+    content: In a 2016 email, Tom DeLonge wrote that Neil McCasland claimed to be a sceptic but really was not, that DeLonge
+      had worked with him for four months and recently given him a four-hour presentation on the entire project, that advice
+      was already being provided on how to proceed, and that when Roswell crashed the wreckage was shipped to the laboratory
+      at Wright-Patterson Air Force Base, which McCasland had been in charge of until a couple of years earlier, and that
+      McCasland had helped assemble DeLonge's advisory team.
+    original_excerpt: '''He mentioned he''s a sceptic, he''s not,'' a clearly frustrated DeLonge wrote after the 2016 meeting.
+      ''I''ve been working with him for four months. I just got done giving him a four-hour presentation on the entire project
+      a few weeks ago. Trust me, the advice is already been happening on how to do all this. He just has to say that out loud,
+      but he is very, very aware – as he was in charge of all of the stuff. When Roswell crashed, they shipped it to the laboratory
+      at Wright-Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.
+      He not only knows what I''m trying to achieve, he helped assemble my advisory team. He''s a very important man.'''
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay:
+        - an email to John Podesta
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: '2016'
+    date_end: null
+    location_in_record: ch20:8997-9721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ac782b6f-d7af-48d0-9b95-02648cf20b87
     claim_hash: a0cb45103b4cf29bb8d82fc67b0e06505d30bb70ca005243b3502fa086812e9c
     content: After his initial phone call with Tom DeLonge, William Neal McCasland warned that DeLonge might find a group
@@ -129,6 +477,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -153,7 +506,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
-    claim_hash: c658673f687fd2c0b41afe47e2ad01d414812d24fda84069d05cbe09b434aec3
+    claim_hash: e894e386fa6b5064cd469b3caa37c6abd0804ba1648c161d0a0ffbba9999a154
     content: William Neal McCasland is a general who ran the Air Force Research Laboratory (AFRL) at Wright-Patterson Air
       Force Base, the laboratory where the Roswell wreckage was rumoured to have been taken.
     original_excerpt: Neil McCasland, uh, is a general who ran the lab where the Roswell wreckage was rumored to have been
@@ -169,6 +522,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -213,6 +571,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -252,6 +615,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -292,6 +660,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -336,6 +709,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -371,6 +749,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -406,6 +789,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -449,6 +837,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -489,6 +882,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -526,6 +924,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -567,6 +970,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.928
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland

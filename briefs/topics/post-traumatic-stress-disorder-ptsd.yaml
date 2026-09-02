@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: bb360c6cb39d4296f1cc2fbbcdeac47c8450dab399140589dbe4784eab8c3785
+brief_hash: 54c82fce84b34a6e54891c4ad8194bebc4ae35e7b08148738f56184921d8cf99
 page:
   kind: entity
   node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
@@ -9,11 +9,21 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 15
   tokens_estimated: 2158
   sized_against: 1050000
+entailment:
+  assessed: 15
+  unassessed: 0
+  entails: 13
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 9
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.6
+  entailed_by_window_fraction: 0.267
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -85,7 +95,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 4b512441-8151-45a6-a8e4-b0ed2a2449a5
-    claim_hash: 1a69fc25271dcd341de90cea35283e93d11e8efcd7cc329cec1fa87329cdb88c
+    claim_hash: 6262c593b0a528d6999075fb72b8bad6ffab8d43f2882a3fe23111c5ab955af0
     content: The female client, severely depressed from ongoing extraterrestrial contact, attempted suicide by cutting her
       wrists and was hospitalised.
     original_excerpt: Severely depressed, she attempted suicide by slitting her wrists and was hospitalized.
@@ -101,6 +111,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -125,7 +140,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: e7c724d8-0374-4442-863f-d892179335d7
-    claim_hash: d1b3bbe4b3f1aa62785ebfaea57aa4ef4726aa9264a020eac5a5089ae6ae43f4
+    claim_hash: 23f8ac59866958e53faf76928ecac8ab609f4442cb3c647b37fe59e20baeab73
     content: Alien abduction experiences are often accompanied by emotional trauma, sometimes severe, manifesting as post-traumatic
       stress disorder (PTSD).
     original_excerpt: It has often emotional trauma associated with it, sometimes severe, called post-traumatic stress disorder.
@@ -140,6 +155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.809
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -164,7 +184,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: 67b8842c-1bbe-4b4f-830f-eb7cb0013b7f
-    claim_hash: 3341bd86acc74ae87cd1708b2aa9e1fae1d1740afb67b96896d67f275f3818fe
+    claim_hash: 74018dc281229c40932e73d94b85448e9931f0690eeb2bd33abb3b44c1ea9251
     content: The hippocampus shrinks in size due to exposure to stress hormones like cortisol.
     original_excerpt: The hippocampus, which, as we have seen is essential to memory and learning, shrinks in size due to
       exposure to stress hormones like cortisol.
@@ -177,6 +197,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
         title: Post-traumatic stress disorder (PTSD)
@@ -195,7 +220,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: e9732cc8-9759-4b65-88e0-9d04e9a7781b
-    claim_hash: efaa2032b632237fe01748a2656a683a5c743859ac9bf9ddbbcbb9a0f17446b0
+    claim_hash: 337546fa17ec33c082a3c3aacc68637a988864ff8463743dfa8d8b426d93c5af
     content: Whitley Strieber believes the entire Younger Dryas population would have suffered from post-traumatic stress
       disorder (PTSD).
     original_excerpt: In people with post-traumatic stress disorder, which would have included the entire Younger Dryas population
@@ -210,6 +235,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
         title: Younger Dryas
@@ -231,7 +261,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 9fe80f1e-a408-4aca-ba19-e3da5c278fab
-    claim_hash: 574763877b45782906c1cb83e527c6461cdc0af869e4ce864c6effa248ef43eb
+    claim_hash: aadcdb949262a9d8e4663803eb746830fc21f29903f9fbcab01a6fd6f34a2d01
     content: In people with post-traumatic stress disorder (PTSD), changes in the hippocampus are responsible for an inability
       to distinguish between past and present experiences and to form new memories.
     original_excerpt: In people with post-traumatic stress disorder, which would have included the entire Younger Dryas population,
@@ -246,6 +276,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.919
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
         title: Younger Dryas
@@ -281,6 +316,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 85687100-9edf-4780-9111-ae7215a839c4
         title: Afghanistan
@@ -323,6 +363,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
         title: Post-traumatic stress disorder (PTSD)
@@ -361,6 +406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1e7db324-7094-4476-9d77-7220562ccdca
         title: David Grusch congressional testimony (2023-07-26)
@@ -402,6 +452,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
         title: Post-traumatic stress disorder (PTSD)
@@ -442,6 +497,11 @@ claims:
         - a telephone call to David Grusch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -481,6 +541,11 @@ claims:
         - Phil McGraw
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.616
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 85687100-9edf-4780-9111-ae7215a839c4
         title: Afghanistan
@@ -521,6 +586,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.692
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -559,6 +629,11 @@ claims:
         - Julia Mossbridge
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -604,6 +679,11 @@ claims:
         - Julia Mossbridge
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -646,6 +726,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

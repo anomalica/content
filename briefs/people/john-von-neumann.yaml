@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 28d27f2ef7b00aec1ad8a76883b5170638eb642f7cb9c6309a2a612c7460c8f4
+brief_hash: 10fcc8123f0fc0549f15d913b200c0cbc7da8ca60e6ef57bb1bb42d9f99b5930
 page:
   kind: entity
   node_id: 26448fd2-26bf-4101-b653-420bf22433d8
@@ -9,11 +9,21 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 17
   tokens_estimated: 2171
   sized_against: 1050000
+entailment:
+  assessed: 17
+  unassessed: 0
+  entails: 13
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 8
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.471
+  entailed_by_window_fraction: 0.294
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -107,6 +117,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -125,7 +140,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 5d490747-fd90-4ed8-8f61-11e1b69d246a
-    claim_hash: 7c8a75e8da92ff1f06b60a67723b4288e2626c88a716bc1ac395fc65fb999d03
+    claim_hash: 2f2dfc6201e56216aba31c510d500ca6d9ed6c224509dc24bafaa758cad7e184
     content: John von Neumann is thought to have been on the scientific team that studied the Roswell materials in the late
       1940s and early 1950s.
     original_excerpt: is thought to have been on the scientific team that studied the Roswell materials back in the late 1940s
@@ -139,6 +154,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.507
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -172,6 +192,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -210,6 +235,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -249,6 +279,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -287,6 +322,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -323,6 +363,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 021a8eaf-08e0-46cc-bf4e-88d24e4a55ba
         title: Leo Szilard
@@ -368,6 +413,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -412,6 +462,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -449,6 +504,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -485,6 +545,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -524,6 +589,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -558,6 +628,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -599,6 +674,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -633,6 +713,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -672,6 +757,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -705,6 +795,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann

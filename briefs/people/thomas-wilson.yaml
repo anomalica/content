@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5fabef1b8c674070e522d61ef1752210fe090b8a2e4c48e4fa5765b0d74f98b8
+brief_hash: fa3d57b8ece29f1af09f9d4dc23652ee1e5ed408006d5a97a1793be2dbc2f21b
 page:
   kind: entity
   node_id: 8161270a-248d-424a-8aaa-f76999efc02b
@@ -9,11 +9,21 @@ page:
   claim_count: 253
   claim_count_total: 253
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 253
   tokens_estimated: 34880
   sized_against: 1050000
+entailment:
+  assessed: 253
+  unassessed: 0
+  entails: 140
+  neutral: 99
+  contradicts: 14
+  entailed_by_quote: 46
+  entailed_by_window: 94
+  entailed_by_quote_fraction: 0.182
+  entailed_by_window_fraction: 0.372
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -43,11 +53,11 @@ related_nodes:
     node_type: person
     slug: steven-greer
     shared_claims: 25
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+    title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 18
+    slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
+    shared_claims: 20
   - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
     title: Oke Shannon
     node_type: person
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.676
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -226,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -264,6 +284,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.816
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -303,6 +328,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -343,6 +373,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -390,6 +425,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -441,6 +481,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.512
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -483,6 +528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -520,6 +570,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.653
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -560,6 +615,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
         title: Marshal Ward
@@ -599,6 +659,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -638,6 +703,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -677,6 +747,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -717,6 +792,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -760,6 +840,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.851
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
         title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
@@ -813,6 +898,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7ebc1bdd-f6f6-4d2a-8feb-25f0cc0909f0
         title: Special Access Programs Coordination Office (SAPCO)
@@ -853,6 +943,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.581
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dc9d57e-784d-4528-b532-4a533d16782a
         title: Special Access Program Oversight Committee
@@ -894,6 +989,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -933,6 +1033,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -971,6 +1076,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1005,6 +1115,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1042,6 +1157,11 @@ claims:
         - Michael Kostelnik's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -1080,6 +1200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -1118,6 +1243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5b8d9629-50c7-4ad3-8a5f-64712c0d7b17
         title: Judith Daly
@@ -1164,6 +1294,11 @@ claims:
         - Judith Daly's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.739
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5b8d9629-50c7-4ad3-8a5f-64712c0d7b17
         title: Judith Daly
@@ -1201,6 +1336,11 @@ claims:
         - Judith Daly's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5b8d9629-50c7-4ad3-8a5f-64712c0d7b17
         title: Judith Daly
@@ -1237,6 +1377,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -1272,6 +1417,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -1307,6 +1457,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -1345,6 +1500,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.767
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -1366,7 +1526,7 @@ claims:
       content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
       friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
   - claim_id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
-    claim_hash: 2d20148feed9e523a3577c74d30798bd4d62f8fecd893d3d2d83fcdef87ca7fb
+    claim_hash: 878ea2aeffb17c8585d391f97f5451723bc494c6400891a76de9aa115d898fe7
     content: After the April 1997 Pentagon briefing group broke up, Will Miller and Thomas Wilson talked privately for two
       hours about UFOs, Majestic 12 (MJ-12), the 1947 Roswell UFO incident, and crashed UFOs and alien bodies.
     original_excerpt: After group broke up, Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien
@@ -1382,6 +1542,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
         title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
@@ -1428,6 +1593,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -1473,6 +1643,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1509,6 +1684,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
         title: UFO crash retrieval
@@ -1552,6 +1732,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1589,6 +1774,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -1629,6 +1819,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1665,6 +1860,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1701,6 +1901,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -1738,6 +1943,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1772,6 +1982,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1807,6 +2022,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1847,6 +2067,11 @@ claims:
         - The Watch Committee's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -1890,6 +2115,11 @@ claims:
         - The Watch Committee's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -1930,6 +2160,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1972,6 +2207,11 @@ claims:
         - The Watch Committee's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2011,6 +2251,11 @@ claims:
         - The Watch Committee's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2054,6 +2299,11 @@ claims:
         - The Watch Committee's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.742
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dc9d57e-784d-4528-b532-4a533d16782a
         title: Special Access Program Oversight Committee
@@ -2094,6 +2344,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2132,6 +2387,11 @@ claims:
         - Thomas Wilson's account relayed to Eric W. Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -2173,6 +2433,11 @@ claims:
         - The Watch Committee's statement to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2212,6 +2477,11 @@ claims:
         - The Watch Committee's statement to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2251,6 +2521,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2288,6 +2563,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.623
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -2334,6 +2614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2377,6 +2662,11 @@ claims:
         - The Watch Committee's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2418,6 +2708,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2453,6 +2748,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.863
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2489,6 +2789,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2524,6 +2829,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2562,6 +2872,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.841
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2597,6 +2912,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2632,6 +2952,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2667,6 +2992,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.697
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2705,6 +3035,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -2744,6 +3079,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.588
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2782,6 +3122,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2818,6 +3163,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.58
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2858,6 +3208,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -2895,6 +3250,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -2932,6 +3292,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -2969,6 +3334,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -3006,6 +3376,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -3046,6 +3421,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -3083,6 +3463,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -3123,6 +3508,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -3163,6 +3553,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -3200,6 +3595,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71454f99-aad7-4fbb-9d89-688c8b7acc37
         title: Reverse-engineering program of recovered technological hardware (unnamed SAP)
@@ -3238,6 +3638,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3270,6 +3675,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3303,6 +3713,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3341,6 +3756,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3381,6 +3801,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3419,6 +3844,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3454,6 +3884,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3489,6 +3924,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3526,6 +3966,11 @@ claims:
         - Eric W. Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3571,6 +4016,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3610,6 +4060,11 @@ claims:
         - Will Miller
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -3654,6 +4109,11 @@ claims:
         - Will Miller
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3695,6 +4155,11 @@ claims:
         - Will Miller
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3736,6 +4201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3770,6 +4240,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -3812,6 +4287,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3851,6 +4331,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.393
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3886,6 +4371,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -3923,6 +4413,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dc9d57e-784d-4528-b532-4a533d16782a
         title: Special Access Program Oversight Committee
@@ -3965,6 +4460,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4003,6 +4503,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4039,6 +4544,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.575
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
         title: Jacques Gansler
@@ -4077,6 +4587,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -4119,6 +4634,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
         title: Jacques Gansler
@@ -4158,6 +4678,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
         title: Jacques Gansler
@@ -4194,6 +4719,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.637
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
         title: Jacques Gansler
@@ -4233,6 +4763,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.533
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
         title: Jacques Gansler
@@ -4270,6 +4805,11 @@ claims:
         - Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.401
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
         title: Jacques Gansler
@@ -4308,6 +4848,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
         title: Kit Green
@@ -4346,6 +4891,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4381,6 +4931,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -4417,6 +4972,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4452,6 +5012,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
         title: Kit Green
@@ -4489,6 +5054,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4521,6 +5091,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01f3efc1-0717-4a90-b078-836796fc104b
         title: Mary Elizabeth Elliot
@@ -4559,6 +5134,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4598,6 +5178,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.798
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4638,6 +5223,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01f3efc1-0717-4a90-b078-836796fc104b
         title: Mary Elizabeth Elliot
@@ -4677,6 +5267,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01f3efc1-0717-4a90-b078-836796fc104b
         title: Mary Elizabeth Elliot
@@ -4713,6 +5308,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4748,6 +5348,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.849
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -4786,6 +5391,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4819,6 +5429,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -4854,6 +5469,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -4889,6 +5509,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.727
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -4926,6 +5551,11 @@ claims:
         - Oke Shannon's briefing of Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.811
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -4968,6 +5598,11 @@ claims:
         - Oke Shannon's assessment relayed to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.784
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5008,6 +5643,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ed6f08f-55b3-4d70-99ad-9e70ba96bea2
         title: Eric Davis meeting with Admiral Thomas Wilson, 2002-10-16
@@ -5051,6 +5691,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.842
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -5092,6 +5737,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5132,6 +5782,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.833
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5168,6 +5823,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5203,6 +5863,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -5243,6 +5908,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -5279,6 +5949,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 50f24790-c72a-4537-a81d-117637c4d8fc
         title: National Nuclear Security Administration (NNSA)
@@ -5329,6 +6004,11 @@ claims:
         - Rich and Doug's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
         title: USA, Nevada, Las Vegas
@@ -5375,6 +6055,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -5420,6 +6105,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5459,6 +6149,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -5503,6 +6198,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -5546,6 +6246,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -5591,6 +6296,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -5633,6 +6343,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
         title: USA, Nevada, Las Vegas
@@ -5673,6 +6388,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5712,6 +6432,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5754,6 +6479,11 @@ claims:
         - Oke Shannon's argument relayed by Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5795,6 +6525,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -5833,6 +6568,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -5876,6 +6616,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -5914,6 +6659,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -5954,6 +6704,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -5999,6 +6754,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -6037,6 +6797,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -6056,7 +6821,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6075,6 +6840,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
         title: 1991 Nellis Air Force Base security lockdown
@@ -6097,12 +6867,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 672c4936-34c3-4b7f-ba71-940f39a64eab
-    claim_hash: 9e021fcadd0f17f630a4a63b5048c0505b168b9bdd03ef9dab1a0555ce54e07f
+    claim_hash: fbccbb97aa1da9c00a327226ad1ee9cb8cdbd03b9a6678bb24d77c5320138936
     content: Steven Greer alleges that at the April 1997 Pentagon meeting, Admiral Thomas Wilson recognised one of the codenamed
       entities on the leaked list, made an inquiry, and found it was being run by a contractor who told him 'you don't have
       a need to know' and hung up and blocked his line.
@@ -6122,13 +6892,18 @@ claims:
         - Admiral Thomas Wilson's alleged account to Greer
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6141,12 +6916,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
-    claim_hash: 008e7c12fa6245dc285e69ec7b574dcb16f60ccca155c87053af52c4cd418ecf
+    claim_hash: c22ca618389340fe13ca0832705b7916e0862f66c554a4c69aeb87bab712c42a
     content: Steven Greer, Willard Miller and Edgar Mitchell presented Admiral Thomas Wilson with what they were convinced
       was strong witness evidence to support their belief that the US government was covering up alien visitations to Earth,
       recovered spacecraft and alien bodies, and technological breakthroughs derived from those discoveries.
@@ -6163,16 +6938,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6188,12 +6968,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 94f565f5-4115-4176-b4de-fc3dec1167ab
-    claim_hash: a9ba538387fedf4e123c426fec6462897512ab792f168d15ed66556fe065bd72
+    claim_hash: 9722c1120c3cab7c3721a6faafb707bc87b9eecfb618ff5964a112bc42c5b968
     content: Steven Greer says that as the April 1997 Pentagon briefing progressed, Admiral Thomas Wilson began cancelling
       other appointments because he was so interested in the information.
     original_excerpt: '''As the briefing progressed,'' Greer says, ''he began cancelling other appointments – he was so interested
@@ -6209,13 +6989,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-        title: 1997 Pentagon UAP Briefing
-        slug: 1997-pentagon-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6228,12 +7013,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 931de085-d4dd-4f3a-afcb-a98ad1cb14b3
-    claim_hash: 37970dfd6d6cae131dcd7312fd0f20471fda1a0b3006693b7f2cb427b696e599
+    claim_hash: c484d2bb105565433514350a89fdc201178463d92c944640a1cf26a58cd2a8e3
     content: Edgar Mitchell later confirmed to many friends that the April 1997 Admiral Wilson meeting happened as Steven
       Greer described.
     original_excerpt: Edgar Mitchell later confirmed to many friends that this meeting happened as Greer described.
@@ -6246,16 +7031,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6268,7 +7058,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6291,6 +7081,11 @@ claims:
         - John Audette
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -6316,12 +7111,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ade03666-fb02-471b-91e5-44b987726c58
-    claim_hash: b8da72d4b86567e3ef7d818e629017fb261c8ba539a5dbaf26e844872c7dc9e7
+    claim_hash: 032abfe5527ad0fee6c1c0855539ff8ad0ae45b6663978659b14c81c1fa8b7e7
     content: Retired Navy Commander Willard Miller supported Steven Greer's account of Admiral Thomas Wilson's frustration
       at the April 1997 Pentagon briefing.
     original_excerpt: Retired Navy Commander Willard Miller also supported Greer's account of Admiral Wilson's frustration.
@@ -6336,13 +7131,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-        title: 1997 Pentagon UAP Briefing
-        slug: 1997-pentagon-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6358,12 +7158,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
-    claim_hash: ef381c864fa85dbdf8715ebbfb05f8fcb60c0a6561425efc3d4425e01953761d
+    claim_hash: c892d88ab25e554ee01eac8d74eb0f9821670ba47f7737ea513e4a9537b9b8c4
     content: Willard Miller claimed that just before they left the April 1997 meeting, an aide to Admiral Thomas Wilson made
       the admission that the UAP conspiracy theory called Majestic MJ-12 was actually real.
     original_excerpt: He even claimed that, just before they left the meeting, an aide to the admiral made the extraordinary
@@ -6379,6 +7179,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -6386,6 +7191,9 @@ claims:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
         slug: willard-miller
@@ -6398,12 +7206,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 97e71932-9336-475b-9c9b-320b2f0e8228
-    claim_hash: 671239027ca65c06cc4c70193b29bcb6c75e9b8f4045473307338bc37b42e808
+    claim_hash: 775c207237238d7eb5730827cc5257a3952c9ba79842de90bc3293f6c620b1e7
     content: Steven Greer claims that an aide to Admiral Thomas Wilson told him that the subject of Majestic MJ-12 came up
       and there had been a lot of debate as to whether it was real, and that the aide said 'we know it exists', but that the
       Directorate for the Joint Staff did not have the need to know what MJ-12 does.
@@ -6423,10 +7231,18 @@ claims:
         - an aide to Admiral Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
       - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
         title: Joint Chiefs of Staff
         slug: joint-chiefs-of-staff
@@ -6442,12 +7258,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b79323bc-807d-4c02-8888-dbd9e34bd663
-    claim_hash: 61a416d623b1f9d068e8198f7caab9dfb489fe80772fa571922df66cb21c0257
+    claim_hash: fb3c2510671aa6059e94973a6547bbf24eec45bca17303a4b6bdea36234943d0
     content: In another account given by Steven Greer, Admiral Thomas Wilson reacted with horror during the briefing, saying,
       'Well I have no doubt this is true, but I am horrified that I hadn't known about it.'
     original_excerpt: 'In another account given by Greer, Admiral Wilson (whom Greer had not named at this point) reacted
@@ -6465,13 +7281,18 @@ claims:
         - Admiral Thomas Wilson's alleged statement to Greer
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6484,12 +7305,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: dd01e1a8-054f-4770-bd64-936d1c61d019
-    claim_hash: 456f6c0089f8983613c1b5d8ccab8470b429fe3a9416add2e7c695ea59cc0c38
+    claim_hash: e2fe2f7f758f5c5202dabfdc595b6e8c1a92c9cee2ccab14273d4f8931beb9a3
     content: Steven Greer claimed Admiral Thomas Wilson was angry at the illegality of the alleged UAP cover-up, saying that
       during their briefing they discussed the risk this rogue group posed to the United States, the rule of law and to national
       security.
@@ -6507,13 +7328,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6526,7 +7352,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6549,6 +7375,11 @@ claims:
         - Admiral Thomas Wilson's alleged statement to Greer
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -6565,12 +7396,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
-    claim_hash: 43728ccd07a1c16572a00ca8edf9d7c5c0a7afc421aa0505f1c0d439eb22236e
+    claim_hash: 878ced32e3d46a5e75b20f2ded8fdd3a1d4c54dafe6d2060daede44dceec8943
     content: In 1998, Steven Greer was invited back to the Defense Intelligence Agency, again with Commander Willard Miller,
       to brief the then Director, Admiral Thomas Wilson's immediate superior, Lieutenant General Patrick Hughes, on UFOs.
     original_excerpt: It is to Greer's credit, for example, that he was invited back in 1998 to the Defence Intelligence Agency,
@@ -6585,6 +7416,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.624
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -6595,9 +7431,9 @@ claims:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b55296f0-f4ba-4dfd-90f4-a0152f15ab1f
+        title: 1998 Defense Intelligence Agency Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6613,7 +7449,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6636,6 +7472,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.861
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -6658,7 +7499,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6677,6 +7518,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -6696,12 +7542,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 990d55d0-bb27-44ad-a734-6cedc3669b3d
-    claim_hash: 6d9cc8357e1d89b048f8c83f2729d3e1a2d908f57183c09efd1c7a5ef5673503
+    claim_hash: 960697f8851df0b766cf34ae1bff4f138f9cf899e9736cb52b72257ec29c1596
     content: Admiral Tom Wilson confirmed the 1997 Pentagon meeting with Steven Greer and Edgar Mitchell in an interview with
       Richard Dolan more than a decade after the meeting.
     original_excerpt: The admiral confirmed the 1997 Pentagon meeting with Greer and Mitchell in an interview with Richard
@@ -6718,19 +7564,24 @@ claims:
         - Richard Dolan's interview
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.872
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
         title: Richard Dolan
         slug: richard-dolan
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6743,7 +7594,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6764,6 +7615,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
         title: Richard Dolan
@@ -6783,12 +7639,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 5376f5ea-1e55-4367-b5f8-36d1dee475c2
-    claim_hash: bf06a5138797a938d7baa886e2f77bbd4c6d4ecbffcb747d26e129c55cb3f1fe
+    claim_hash: 80025c06e86b0aab83c73378579560ecefff4ef55d3a7e56050bacbff2f550c5
     content: Admiral Tom Wilson described everything else about the 1997 Pentagon meeting as claimed by Steven Greer as poppycock,
       and then hung up on Richard Dolan.
     original_excerpt: Wilson claimed everything else about the meeting described by Greer was ‘poppycock’ and he then hung
@@ -6804,16 +7660,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
         title: Richard Dolan
         slug: richard-dolan
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -6826,12 +7687,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9aa518f7-4756-49e2-aadd-f9089710a3f2
-    claim_hash: 85acbc9935530ee5fdc28bd0818cc0e348b104761232dbd3d76d2d17be408f8e
+    claim_hash: ff245505ec2751f36b9f983ce955a17ee17c91c1c1f32cc8ac0f88a1105ecaab
     content: In a detailed letter, Admiral Tom Wilson acknowledged the April 1997 Pentagon meeting happened and that it was
       a briefing.
     original_excerpt: His detailed letter in reply23 acknowledged the meeting happened, and that it was indeed a ‘briefing’
@@ -6847,13 +7708,18 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-        title: 1997 Pentagon UAP Briefing
-        slug: 1997-pentagon-uap-briefing
     date: null
     date_end: null
     location_in_record: ch14:21849-21941
@@ -6863,7 +7729,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -6885,6 +7751,11 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -6901,12 +7772,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: cf1bd5c8-50a4-43d0-973e-3a3c1fd47378
-    claim_hash: ba163611ae48e46e05378e48146d6aeef3eb38c59b273d2505a009daccb742c5
+    claim_hash: 0ebc15ebac06f94cd48acf466609dc82b99f813538e8ea8252e3e975df0d8b5d
     content: Admiral Tom Wilson recalled the 1997 Pentagon meeting was scheduled for 30 minutes but possibly lasted a bit
       longer.
     original_excerpt: I recall the meeting was scheduled for 30 minutes, but possibly lasted a bit longer than that.
@@ -6922,13 +7793,18 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch14:22214-22303
@@ -6938,12 +7814,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a328ce58-0270-4c02-b96e-4ef6eb99473f
-    claim_hash: 175d2cfd48a94aa47b476342c727e30b99ba68584b11c88148940846418ccc8a
+    claim_hash: 8919d2214a55c3ac3f1df42fc6e15a6f2362d35c15a753f4f8277fbe0ea38a78
     content: Admiral Tom Wilson recalled that his visitors at the 1997 Pentagon meeting raised concerns about possible special
       access programs dealing with UFOs.
     original_excerpt: Wilson recalled ‘my visitors’ concerns about possible “special access programs” dealing with that subject.
@@ -6959,16 +7835,21 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
         slug: special-access-program-sap
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch14:22310-22408
@@ -6978,7 +7859,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7000,6 +7881,11 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -7019,7 +7905,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7041,6 +7927,11 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -7057,12 +7948,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: c3458b3b-d1ab-418a-a973-88179616f6e3
-    claim_hash: ca20e1d7714b8ccdc83d9a066c397c16904357fe990c81ea42d207a2ba86dae4
+    claim_hash: 25d4891be44ff80defc91d75c22dd59afd2239db73a510a8cd4f8c3e53e5e09e
     content: Admiral Tom Wilson said his polite acceptance of the 1997 briefing and understanding of his visitors' concerns
       may have left an impression he would look into the issues raised, but he never had any intent to do so.
     original_excerpt: While they may have chosen to interpret that my polite acceptance of their briefing and understanding
@@ -7080,13 +7971,18 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch14:22787-23005
@@ -7096,12 +7992,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 29adc409-eabf-47fb-98a1-8150112c2289
-    claim_hash: f744f45486ca381f9b113f84c2ed28d63a45de0723011be38945b9c178cd8227
+    claim_hash: a241f8d409853b2be78cb7c2ed298d624097c66cb3332caedc0a7ba5b49ec0fc
     content: Ross Coulthart suspects the two Defense Intelligence Agency officials involved in the 1997 Pentagon meeting were
       more interested in UAPs than they publicly admit.
     original_excerpt: I suspect, in actual fact, the two Defence Intelligence Agency officials were more interested than they
@@ -7117,19 +8013,24 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
         slug: patrick-hughes
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
         slug: defense-intelligence-agency-dia
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -7142,12 +8043,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: bf6a0798-7fad-42a8-9f4e-65f066fd8924
-    claim_hash: 9b76f747a5052b4a6cf28bb8abff2c64d10109a25e1c176de15e0da6844db39a
+    claim_hash: b4e59f76ed4a624be5e649ba52dd9b40d8826962c5b3d2f5bd9fe4f56fb1c539
     content: Ross Coulthart considers it difficult, given the number of witnesses to the 1997 Pentagon meeting, to escape
       the conclusion that Admiral Tom Wilson gave the impression to Steven Greer's group that he was improperly blocked from
       accessing UFO information.
@@ -7164,13 +8065,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -7186,12 +8092,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
-    claim_hash: 5226f10e926c8dc95bda7147a0100f457a4aa8aacccf907fcbc4836b97fa4b63
+    claim_hash: baa5f97d3c825a862a126d22f7691bc4044d5c5265379e51c531ce7a4d4c0065
     content: In April 1997, Edgar Mitchell's renown as an astronaut opened the way for an extraordinary briefing with the
       Deputy Director of Intelligence for the US military's Joint Chiefs of Staff, Admiral Thomas Wilson.
     original_excerpt: Which was why in April 1997, Mitchell's renown opened the way for an extraordinary briefing with the
@@ -7205,7 +8111,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
@@ -7215,9 +8129,6 @@ claims:
       - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
         title: Joint Chiefs of Staff
         slug: joint-chiefs-of-staff
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: 1997-04
     date_end: null
     location_in_record: ch14:8565-8758
@@ -7227,7 +8138,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7244,6 +8155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -7260,7 +8176,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7279,6 +8195,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -7301,7 +8222,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7322,6 +8243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -7344,7 +8270,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7364,6 +8290,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -7389,7 +8320,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7413,6 +8344,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -7438,7 +8374,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7459,6 +8395,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -7481,7 +8422,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7502,6 +8443,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -7521,7 +8467,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7544,6 +8490,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -7569,7 +8520,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7590,6 +8541,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.631
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -7606,7 +8562,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7623,6 +8579,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
         title: Billy Cox
@@ -7642,7 +8603,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7665,6 +8626,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
         title: Billy Cox
@@ -7690,7 +8656,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7708,6 +8674,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30987514-d732-4d23-83a1-f10d63a21cbe
         title: Billy Cox
@@ -7730,7 +8701,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7750,6 +8721,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -7772,7 +8748,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7794,6 +8770,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -7819,12 +8800,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 91ac7dad-5511-4c6c-b255-26414bc9012b
-    claim_hash: e35e81060127f8517e77cb9dfd0bf626de5e88c430b59a35ec04abbcc89b1486
+    claim_hash: 1bf81838992193a4416249b2940439ff3b049e3071d2e2a59527541192b1995b
     content: In the memo, Tom Wilson is reported as saying he was told of 'a special projects record group not belonging to
       usual SAP - a special subset of the unacknowledged/carve-outs/waived programs'.
     original_excerpt: ‘They told me of a special projects record group not belonging to usual SAP – a special subset of the
@@ -7839,6 +8820,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -7861,7 +8847,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7881,6 +8867,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -7903,7 +8894,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7922,6 +8913,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -7938,7 +8934,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7958,6 +8954,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -7977,7 +8978,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -7995,6 +8996,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8014,7 +9020,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8034,6 +9040,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8053,7 +9064,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8073,6 +9084,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8089,7 +9105,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8108,6 +9124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8124,7 +9145,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8144,6 +9165,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8160,7 +9186,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8179,6 +9205,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -8195,7 +9226,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8216,6 +9247,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.549
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8232,7 +9268,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8252,6 +9288,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.539
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8268,7 +9309,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8288,6 +9329,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8304,7 +9350,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8325,6 +9371,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8341,12 +9392,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6ccf361f-680e-4d98-baba-1d8dae0116a6
-    claim_hash: df7beae3f342aad7ada70529fe35b51f5c8dc8ee15c6dc38801e71f3fa0e6814
+    claim_hash: 647e5dad4beaca0324c4715a55ef86785022093eda89ab5bc222260f76c358d3
     content: In the memo, Tom Wilson asked the contractor representatives about their crashed UFO program and MJ-12 and demanded
       a formal briefing as Deputy Director of the Defence Intelligence Agency and Assistant Joint Chief of Staff J-2.
     original_excerpt: and demanded a formal briefing as Deputy Director of the Defence Intelligence Agency and Assistant Joint
@@ -8361,6 +9412,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8368,6 +9424,9 @@ claims:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
     date: null
     date_end: null
     location_in_record: ch26:17832-17954
@@ -8377,7 +9436,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8398,6 +9457,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -8417,7 +9481,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8439,6 +9503,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8455,7 +9524,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8475,6 +9544,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8491,7 +9565,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8514,6 +9588,11 @@ claims:
         - The Admiral Wilson Memo (EWD Notes)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8533,7 +9612,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8556,6 +9635,11 @@ claims:
         - The Admiral Wilson Memo (EWD Notes)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8575,7 +9659,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8594,6 +9678,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8613,7 +9702,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8634,6 +9723,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.875
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8650,7 +9744,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8673,6 +9767,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8689,7 +9788,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8710,6 +9809,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8732,7 +9836,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8750,6 +9854,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8766,7 +9875,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8787,6 +9896,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8803,7 +9917,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8823,6 +9937,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -8842,7 +9961,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8865,6 +9984,11 @@ claims:
         - The Admiral Wilson Memo (EWD Notes)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8887,7 +10011,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8909,6 +10033,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -8928,7 +10057,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8949,6 +10078,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -8971,7 +10105,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -8992,6 +10126,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9014,7 +10153,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9037,6 +10176,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9062,7 +10206,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9082,6 +10226,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9104,12 +10253,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
-    claim_hash: 48d3657488f5d15e365c287c1dcf62ca180f06130ea9d39482a4cee41e072893
+    claim_hash: 699837a62a87aec055dc3515553bb4e10834ff5d671abf50d3cbbb45ab636430
     content: The Admiral Wilson memorandum, on its face, supports what Steven Greer, Edgar Mitchell, Willard Miller, Steven
       Lovekin and Shari Adamiak each said they were told by Tom Wilson at their April 1997 Pentagon meeting about a supposed
       UAP cover-up.
@@ -9125,10 +10274,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.523
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11432bdc-8b19-431e-8a9c-dd49bd3b3d52
         title: Shari Adamiak
         slug: shari-adamiak
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
         slug: the-admiral-wilson-memo
@@ -9141,9 +10298,6 @@ claims:
       - node_id: 885a50ed-1c16-4c97-aa8a-5fad14b157aa
         title: Steven Lovekin
         slug: steven-lovekin
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -9159,12 +10313,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: eb17d750-9b2b-4fc1-a7d7-69c676a47745
-    claim_hash: e370a109c066926f1814641c0a4a273664a33ab6862bca9a59303e8cf663fbf8
+    claim_hash: 0bf8015c038b33612c01d1405a53e8f4f3f9d641f022601551040e54e292f060
     content: If authentic, the memo means Tom Wilson told the April 1997 Pentagon meeting attendees that he investigated codenames
       in a document leaked to him by Steven Greer, discovered a secret group working on recovered alien technology, and was
       blocked from finding out more about it.
@@ -9181,16 +10335,21 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
         slug: the-admiral-wilson-memo
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -9203,7 +10362,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9222,6 +10381,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
         title: USA, Nevada, Las Vegas
@@ -9247,7 +10411,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9267,6 +10431,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.804
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9286,7 +10455,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9306,6 +10475,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9322,7 +10496,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9343,6 +10517,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.917
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
         title: USA, Nevada, Las Vegas
@@ -9368,7 +10547,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9389,6 +10568,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9408,7 +10592,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9429,6 +10613,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9451,7 +10640,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9475,6 +10664,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -9497,7 +10691,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9516,6 +10710,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
         title: USA, Nevada, Las Vegas
@@ -9535,7 +10734,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9556,6 +10755,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
         title: USA, Nevada, Las Vegas
@@ -9578,7 +10782,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9599,6 +10803,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dd422fa-d5c7-414a-8870-c93eb6be84c0
         title: USA, Maine
@@ -9618,12 +10827,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a75906a3-36eb-4985-95df-d37722088e7f
-    claim_hash: baad47e1418c58bab21d0168fc46683e6b103c3ca86daebd787032058411a8d1
+    claim_hash: 7d164aa7900932325a7406e8efeef4dfa01755d5a3bb64b79a1a4201902d3db4
     content: Vice Admiral Tom Wilson met with UAP researchers in the Pentagon in 1997.
     original_excerpt: As detailed earlier, we know for sure that Vice Admiral Tom Wilson met with UAP researchers in the Pentagon
       in 1997.
@@ -9636,16 +10845,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
       - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
         title: United States Pentagon
         slug: united-states-pentagon
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: '1997'
     date_end: null
     location_in_record: ch26:7957-8068
@@ -9655,12 +10869,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3fac67b7-a5ef-4724-8b5d-3b40ea2b3417
-    claim_hash: 7a6c799c5904330379d83991b1ffa39cb3c87ae91da66515836ecd48c830ba48
+    claim_hash: 3fad1bf052ad18b22a050df11cde2abd8c4d80ad95a8a2597fb8dee64cb0911c
     content: Multiple first-hand witnesses from the 1997 Pentagon meeting, including astronaut Edgar Mitchell, said that Tom
       Wilson admitted he had discovered a secret US government UAP program.
     original_excerpt: Multiple first-hand witnesses from that 1997 meeting, including astronaut Edgar Mitchell, said that
@@ -9676,16 +10890,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: '1997'
     date_end: null
     location_in_record: ch26:8074-8235
@@ -9695,7 +10914,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9713,6 +10932,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9732,7 +10956,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9752,6 +10976,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -9771,7 +11000,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9788,6 +11017,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9804,7 +11038,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -9826,6 +11060,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9845,7 +11084,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -9867,6 +11106,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.642
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9880,7 +11124,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -9902,6 +11146,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9915,7 +11164,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -9937,6 +11186,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9950,7 +11204,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -9972,6 +11226,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.559
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -9985,7 +11244,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -10007,6 +11266,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -10026,7 +11290,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -10043,6 +11307,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.681
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -10059,7 +11328,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -10076,6 +11345,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c8f095b-bb35-4459-b507-0289a699ce98
         title: United States Atlantic Command
@@ -10092,7 +11366,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -10109,6 +11383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -10125,7 +11404,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -10144,6 +11423,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -10160,7 +11444,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

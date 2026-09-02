@@ -1,23 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 95c54de8c60291a65a83df9f8c3f9d2807d8d0f9ac94716643fad5c3e55221ba
+brief_hash: 1eff1c3c0624e28e7c9be27ec9e37627095af5061b294a5635051543312661a8
 page:
   kind: entity
   node_id: 87be216c-2fde-4e95-9755-8c97df856b06
   node_type: event
   title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
   slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
-  claim_count: 13
+  claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 13
-  tokens_estimated: 1605
+  claims: 14
+  tokens_estimated: 1754
   sized_against: 1050000
-truncated:
-  kept: 13
-  available: 14
-  why: an event narrates from at most 5 sources; claims from the others are not carried
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 8
+  neutral: 6
+  contradicts: 0
+  entailed_by_quote: 5
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.357
+  entailed_by_window_fraction: 0.214
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -42,10 +48,10 @@ related_nodes:
     node_type: event
     slug: roswell-incident-1947
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: d6394787-29e2-4208-b126-47abda22b414
+    title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: new-mexico-unidentified-flying-object-ufo-crash-1947-aztec
     shared_claims: 1
   - node_id: 1d5fba74-cdbd-403d-ba78-51cac069376b
     title: Maury Island incident
@@ -91,6 +97,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.607
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -129,6 +140,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -168,6 +184,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -184,7 +205,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -206,6 +227,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -225,7 +251,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -246,6 +272,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -262,7 +293,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -279,6 +310,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
         title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
@@ -292,7 +328,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -311,6 +347,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 194c0d2e-e212-4dcd-a263-4a4539773488
         title: United Airlines
@@ -327,10 +368,55 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f14cba03-5b02-422b-8b43-c1d566982d92
+    claim_hash: e1d4f36a934a810c979fcc906ebb2e945d29d587984a85aa02abbd722dd87448
+    content: After Kenneth Arnold's 1947 UAP sighting, which occurred a couple of weeks before the Roswell crashes, he and
+      his family allegedly had balls of light appear in their home.
+    original_excerpt: After the pilot Kenneth Arnold’s famous 1947 UAP sighting, which was a couple of weeks before the Roswell
+      crashes, he and his family allegedly had balls of light in their home.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: verified
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+        title: Kenneth Arnold
+        slug: kenneth-arnold
+      - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
+        title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+        slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch14:3473-3644
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: b2daf98a-8ed2-41e7-8a24-3e488b0a9ca9
     claim_hash: 8fbfa4dbf5e3d88eb28622043b7ae041eaa8aac361fc40dfb1d6bbb1de8e013e
     content: Chris Ramsey believes the 1947 Kenneth Arnold UFO sighting also occurred in June 1947.
@@ -346,6 +432,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -379,6 +470,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
         title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
@@ -413,6 +509,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
         title: Kenneth Arnold
@@ -446,6 +547,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
         title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
@@ -467,7 +573,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 5cf33c62-1a47-4179-af3f-1dd976071aae
-    claim_hash: 2140d93eba944b666455220195ecd84d1452ce2948e0132305b9ee9a4666430d
+    claim_hash: 98cb1c24f8d72f82dd067bc7cdb1b09e14c444b92ab81b21f6919fd39b580c8a
     content: Chris Ramsey states that the Roswell crash and the sighting by Kenneth Arnold, followed by the Aztec crash, prompted
       government and military interest in UFOs, leading to the formation of Project Grudge, which later turned into Project
       Blue Book.
@@ -484,6 +590,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
         title: Project GRUDGE
@@ -497,12 +608,12 @@ claims:
       - node_id: 87be216c-2fde-4e95-9755-8c97df856b06
         title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
         slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
+      - node_id: d6394787-29e2-4208-b126-47abda22b414
+        title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
+        slug: new-mexico-unidentified-flying-object-ufo-crash-1947-aztec
     date: null
     date_end: null
     location_in_record: 00:37:22.6-00:37:42.0
@@ -531,6 +642,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.919
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1d5fba74-cdbd-403d-ba78-51cac069376b
         title: Maury Island incident

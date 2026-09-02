@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fbe59308de5ba2763499cdc81681a21644ba5a05062653011c47569cd80a3ef4
+brief_hash: 110854074c62128ff39494c3fbbafd5e102e2b3cca77d133e28cacc2f65557f6
 page:
   kind: entity
   node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
@@ -9,11 +9,21 @@ page:
   claim_count: 34
   claim_count_total: 34
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 34
   tokens_estimated: 5157
   sized_against: 1050000
+entailment:
+  assessed: 34
+  unassessed: 0
+  entails: 22
+  neutral: 9
+  contradicts: 3
+  entailed_by_quote: 8
+  entailed_by_window: 14
+  entailed_by_quote_fraction: 0.235
+  entailed_by_window_fraction: 0.412
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -123,6 +133,11 @@ related_nodes:
     node_type: organisation
     slug: united-states-congress
     shared_claims: 2
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 2
   - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
     title: Apollo 11
     node_type: project
@@ -137,11 +152,6 @@ related_nodes:
     title: Barack Obama
     node_type: person
     slug: barack-obama
-    shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
     shared_claims: 1
   - node_id: ef50574e-39d2-42c0-ac5c-1123ef6a9beb
     title: Congressional Research Service (CRS)
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9b42c06f-0a41-4f13-bc8a-a81867e9dad0
         title: USS Dunbar (educational project)
@@ -230,6 +245,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
         title: John Kleinberg
@@ -254,7 +274,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 154436ee-e289-4bb7-872c-f8942c6083a5
-    claim_hash: f32d52a2838fbb28edcc04f9cc4b957e90fd8163ae80b09bcf106b767827ada5
+    claim_hash: deb96803851209e9a9900589cb4b3e43d05a64d324cf63aa9043d400f9607e80
     content: George Herbert Walker Bush proposed the Space Exploration Initiative in 1989, which met resistance over its large
       budgetary requirements and was subsequently killed by his successor, President Bill Clinton.
     original_excerpt: This was a considerably more modest proposal than the so-called "Space Exploration Initiative" proposed
@@ -269,13 +289,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.701
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
         title: Space Exploration Initiative (SEI)
         slug: space-exploration-initiative-sei
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
         slug: george-herbert-walker-bush
@@ -309,6 +334,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34f6fb01-4897-42df-9ce9-b7a964e7275f
         title: USA, Washington, Renton, Boeing Company office
@@ -353,6 +383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
@@ -392,6 +427,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.621
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a4e23c30-3b72-4690-b855-906d80d76a17
         title: John Kleinberg
@@ -436,6 +476,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
         title: Richard Dolan
@@ -470,6 +515,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01901068-df09-4d46-8c2d-aca4db216069
         title: Gulf War
@@ -506,6 +556,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
         title: George Herbert Walker Bush
@@ -541,6 +596,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
         title: Space Exploration Initiative (SEI)
@@ -576,6 +636,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
         title: Apollo 11 Moon landing, 1969-07-20
@@ -618,6 +683,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.512
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -659,6 +729,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
         title: Lyndon B. Johnson
@@ -697,6 +772,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.817
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
         title: Space Exploration Initiative (SEI)
@@ -738,6 +818,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.719
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
         title: Space Exploration Initiative (SEI)
@@ -777,6 +862,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 324c90e2-454f-4dc3-910e-7f9a409b5c67
         title: Hoagland CNN Crossfire invitation, 1989-07-20
@@ -820,6 +910,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -859,6 +954,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.723
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -899,6 +999,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.625
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -939,6 +1044,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 666178f1-932b-4413-b63b-ffd33ea7b12b
         title: Space Exploration Initiative (SEI)
@@ -980,6 +1090,11 @@ claims:
         - Paul Hudson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -1017,6 +1132,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -1061,6 +1181,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1083,7 +1208,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1104,6 +1229,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1129,7 +1259,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1146,6 +1276,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1165,7 +1300,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1185,6 +1320,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1204,7 +1344,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1225,6 +1365,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
         title: Lyndon B. Johnson
@@ -1262,7 +1407,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1284,6 +1429,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.743
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
         title: Mantid beings
@@ -1334,6 +1484,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1381,6 +1536,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1424,6 +1584,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
         title: Eric Davis
@@ -1463,6 +1628,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -1510,6 +1680,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -1518,8 +1693,8 @@ claims:
         title: Richard Nixon
         slug: richard-nixon
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -1554,6 +1729,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.642
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells

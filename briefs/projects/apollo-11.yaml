@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: bc57716d8d4927ee359ef4a0b7f26e582effcd5ba011a1a0dfacbf623a65de92
+brief_hash: 3fa703a37e74d931ed489a1251bcd905837700ffd197d5245d9be70523b618e4
 page:
   kind: entity
   node_id: 86002941-4b26-48e5-8629-0d332b938ca9
@@ -9,11 +9,21 @@ page:
   claim_count: 89
   claim_count_total: 89
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 89
   tokens_estimated: 14189
   sized_against: 1050000
+entailment:
+  assessed: 89
+  unassessed: 0
+  entails: 81
+  neutral: 7
+  contradicts: 1
+  entailed_by_quote: 43
+  entailed_by_window: 38
+  entailed_by_quote_fraction: 0.483
+  entailed_by_window_fraction: 0.427
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -193,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -243,6 +258,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
         title: NASA Jet Propulsion Laboratory (JPL)
@@ -286,6 +306,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.641
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -325,6 +350,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -364,6 +394,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.491
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -401,6 +436,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -436,6 +476,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -473,6 +518,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -510,6 +560,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
         title: Horus
@@ -552,6 +607,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -588,6 +648,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 07612f4b-f330-41ef-a39b-4a528c7252a4
         title: Apollo 8 Lunar Orbit Insertion
@@ -632,6 +697,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -683,6 +753,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -720,6 +795,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 07612f4b-f330-41ef-a39b-4a528c7252a4
         title: Apollo 8 Lunar Orbit Insertion
@@ -756,6 +836,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4d94d590-5dde-4d26-b604-77c201475f05
         title: Kennedy Joint Session of Congress speech, 1961-05-25
@@ -796,6 +881,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -834,6 +924,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -872,6 +967,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -918,6 +1018,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7cf8be35-d757-470c-950a-0dc03832258d
         title: Saint Columba
@@ -954,6 +1059,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -995,6 +1105,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -1037,6 +1152,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.865
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1083,6 +1203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -1121,6 +1246,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -1169,6 +1299,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1211,6 +1346,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.875
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -1252,6 +1392,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -1292,6 +1437,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -1329,6 +1479,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -1372,6 +1527,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -1407,6 +1567,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1442,6 +1607,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1485,6 +1655,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.931
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e06c01a-b053-4096-8332-73e342ca67b4
         title: Southern Jurisdiction, Scottish Rite
@@ -1509,7 +1684,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 69a12590-bf77-4f9d-83a4-7d64c8ee72b7
-    claim_hash: d812096ba5faa8e3c26774cd440cc259d6dcebc5c4d2a9e5ac110b991eb0a558
+    claim_hash: 1014071350c6535df65a797f47a1008b735a4db4d63004cdeba93e52ed7a00ed
     content: The Society for Planetary SETI Research (SPSR) cited the Apollo program and the cessation of unmanned lunar probes
       a few years afterward as an example supporting their funding-protection theory.
     original_excerpt: They cite the Apollo program (and the cessation of the unmanned lunar probes a few years before) as
@@ -1523,13 +1698,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.855
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
-        slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
         slug: apollo-11
+      - node_id: ca640715-7454-4feb-8900-ef3f7106da63
+        title: Society for Planetary SETI Research
+        slug: society-for-planetary-seti-research
     date: null
     date_end: null
     location_in_record: ch15:4507-4649
@@ -1560,6 +1740,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d0208fc-51d3-41de-aabc-50a93a9d5241
         title: Ranger program
@@ -1605,6 +1790,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1649,6 +1839,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 181965e7-04c6-49e2-8891-554a925dfb62
         title: Armstrong 25th anniversary Apollo 11 White House remarks, 1994-07-20
@@ -1689,6 +1884,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1ec7a755-4d5f-4b36-8498-fe6887e9f9b8
         title: Science Channel
@@ -1729,6 +1929,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1765,6 +1970,11 @@ claims:
         - Science Channel programme, July 2006
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.458
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -1801,6 +2011,11 @@ claims:
         - Science Channel programme, July 2006
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.732
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -1840,6 +2055,11 @@ claims:
         - Science Channel programme, July 2006
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -1880,6 +2100,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.564
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1926,6 +2151,11 @@ claims:
         - Science Channel programme, July 2006
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.595
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -1959,6 +2189,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1998,6 +2233,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -2034,6 +2274,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.512
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2077,6 +2322,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.771
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3491ae64-d16b-4797-8e37-80bb1fe56d1a
         title: Farouk El-Baz
@@ -2125,6 +2375,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -2163,6 +2418,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2195,6 +2455,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 429e821a-95a5-4bdc-8306-70c079f7af30
         title: Goldstone Tracking Station
@@ -2235,6 +2500,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2267,6 +2537,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2300,6 +2575,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.646
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2336,6 +2616,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.514
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2368,6 +2653,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.538
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2402,6 +2692,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.491
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 429e821a-95a5-4bdc-8306-70c079f7af30
         title: Goldstone Tracking Station
@@ -2445,6 +2740,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2489,6 +2789,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2530,6 +2835,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59020b67-d31b-444e-b1c3-fba4a58e924e
         title: USA, Maryland, Greenbelt, Goddard Space Flight Center (GSFC)
@@ -2563,6 +2873,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2598,6 +2913,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59020b67-d31b-444e-b1c3-fba4a58e924e
         title: USA, Maryland, Greenbelt, Goddard Space Flight Center (GSFC)
@@ -2639,6 +2959,11 @@ claims:
         - a NASA paper by Bill Wood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.737
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 429e821a-95a5-4bdc-8306-70c079f7af30
         title: Goldstone Tracking Station
@@ -2666,7 +2991,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: b14155f6-b6bc-4549-8184-9346fab56b4e
-    claim_hash: 854521ac541472294571a0ee20f5eea8b4761cfb690d661300006e36d56cf831
+    claim_hash: a6f9a5c01e55606eaf560a186564fcea0af32f0ffc786f95cba03adba3f6d673
     content: According to Chariots for Apollo, the official National Aeronautics and Space Administration (NASA) history of
       the Apollo missions, Max Faget was more than mildly upset that so much of the television, motion and still photography
       planned for Apollo 11 would be in black and white, calling it "almost unbelievable" that the culmination of a $20-billion
@@ -2683,10 +3008,12 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 06314a49-1b2b-4e67-befe-e14e0d518be4
-        title: Chariots for Apollo (National Aeronautics and Space Administration (NASA) official history)
-        slug: chariots-for-apollo-national-aeronautics-and-space-administration-nasa-official-history
       - node_id: 1578594f-953f-4b96-92a8-98026c783656
         title: Max Faget
         slug: max-faget
@@ -2696,6 +3023,9 @@ claims:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
         slug: apollo-11
+      - node_id: a3da806d-ec1f-47ea-833f-05226b6d5de6
+        title: Chariots for Apollo (NASA official history)
+        slug: chariots-for-apollo-nasa-official-history
     date: null
     date_end: null
     location_in_record: ch20:7760-8041
@@ -2724,6 +3054,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2756,6 +3091,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2791,6 +3131,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2826,6 +3171,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.832
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2863,6 +3213,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.648
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
         title: Alignment Optical Telescope (AOT)
@@ -2901,6 +3256,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2935,6 +3295,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2975,6 +3340,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -3012,6 +3382,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.833
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 63ba055e-bedc-4b6a-9382-29e2b2971473
         title: Walter Cronkite
@@ -3039,7 +3414,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: d21b3116-d4b5-4b72-9e51-10b61275ddbb
-    claim_hash: dba8a19356677b0173ef4eb2ccb4ba7a6ed495579a0b5bb4df20d02c7b67fbfb
+    claim_hash: 7607061a12aba0a73d3956fb905af2541688204fd2676ec280150588d6d1a6b8
     content: For the Apollo 11 flight, Richard C. Hoagland was assigned, at his own request, to the Downey, California facility
       of North American Rockwell, the prime contractor for the Apollo Command and Service Modules.
     original_excerpt: For the actual flight of Apollo 11, I was assigned (at my own request) to the Downey, California facility
@@ -3055,6 +3430,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 44be4886-5198-456b-94d2-680790566c53
         title: North American Rockwell
@@ -3099,6 +3479,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.401
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 44be4886-5198-456b-94d2-680790566c53
         title: North American Rockwell
@@ -3143,6 +3528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 63ba055e-bedc-4b6a-9382-29e2b2971473
         title: Walter Cronkite
@@ -3182,6 +3572,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 04807dcf-6d16-4250-9c59-f72ee651a88b
         title: USA, Pacific Ocean, South Pacific splashdown zone
@@ -3219,6 +3614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.69
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39b4f5c0-c47b-4f19-add0-62074c07723f
         title: Mariner 9
@@ -3262,6 +3662,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.912
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 63ba055e-bedc-4b6a-9382-29e2b2971473
         title: Walter Cronkite
@@ -3307,6 +3712,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 04807dcf-6d16-4250-9c59-f72ee651a88b
         title: USA, Pacific Ocean, South Pacific splashdown zone
@@ -3357,6 +3767,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -3380,87 +3795,6 @@ claims:
       record_reference: null
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
-  - claim_id: 455e23b6-becd-4984-94b6-d985c2c4d689
-    claim_hash: b5f76e1ca8e416b8635c4a1e9dbf491f4c06c6081491fc23eda37b0494b9e9da
-    content: The Spaceman's home contains a large collection of memorabilia from America's 1960s and 1970s Mercury, Gemini
-      and Apollo spaceflight programmes.
-    original_excerpt: His home is an extraordinary shrine to America's 1960s and 1970s Mercury, Gemini and Apollo spaceflight
-      programs, an obsession that began when he was a young boy. He has a prodigious collection of space program memorabilia.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
-        title: The Spaceman
-        slug: the-spaceman
-      - node_id: 7bc64a64-1e74-4364-afe2-fb6717016903
-        title: Gemini space program
-        slug: gemini-space-program
-      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
-        title: Apollo 11
-        slug: apollo-11
-    date: null
-    date_end: null
-    location_in_record: ch25:3392-3603
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 93aef464-d0e3-4ebb-8a56-955d4674e2ca
-    claim_hash: a8771332cb5f818571461d80c3ce2c78b1cd0e9683f094a17f68c42418d28f27
-    content: In the final months of his life, Edgar Mitchell told The Spaceman that he believed every Apollo mission was closely
-      watched by intelligently guided craft of unknown origin, though he could not scientifically prove it.
-    original_excerpt: It was only in the last months of Mitchell's life that the astronaut finally took his friend into his
-      confidence and told him that, incredibly, he believed – but could not prove scientifically – that every Apollo mission
-      was closely watched by intelligently guided craft of unknown origin, and that he had seen these strange objects with
-      his own eyes.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
-      title: The Spaceman
-    provenance_chain:
-      origin_kind: named
-      origin: Edgar Mitchell
-      relay:
-        - The Spaceman
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
-        title: The Spaceman
-        slug: the-spaceman
-      - node_id: 59476464-a679-46ce-9247-b0adcb287762
-        title: Edgar Mitchell
-        slug: edgar-mitchell
-      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
-        title: Apollo 11
-        slug: apollo-11
-    date: null
-    date_end: null
-    location_in_record: ch25:7054-7400
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 1a791a5f-0333-4b8c-8c50-d99d571033c2
     claim_hash: db8683263027f882b40b3fc56921fdcff4c8683877ba6cb3d043da59e83fdc05
     content: There was no television picture of the Apollo 11 Moon landing on 1969-07-20 itself; what viewers watched at the
@@ -3477,6 +3811,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3516,6 +3855,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.872
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3556,6 +3900,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.809
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3598,6 +3947,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3637,6 +3991,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3663,6 +4022,97 @@ claims:
       record_reference: https://www.youtube.com/watch?v=AMU_84_Re3o
       content_hash: sha256:8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c01d0c76a
       friendly_name: null
+  - claim_id: 455e23b6-becd-4984-94b6-d985c2c4d689
+    claim_hash: b5f76e1ca8e416b8635c4a1e9dbf491f4c06c6081491fc23eda37b0494b9e9da
+    content: The Spaceman's home contains a large collection of memorabilia from America's 1960s and 1970s Mercury, Gemini
+      and Apollo spaceflight programmes.
+    original_excerpt: His home is an extraordinary shrine to America's 1960s and 1970s Mercury, Gemini and Apollo spaceflight
+      programs, an obsession that began when he was a young boy. He has a prodigious collection of space program memorabilia.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: 7bc64a64-1e74-4364-afe2-fb6717016903
+        title: Gemini space program
+        slug: gemini-space-program
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+    date: null
+    date_end: null
+    location_in_record: ch25:3392-3603
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 93aef464-d0e3-4ebb-8a56-955d4674e2ca
+    claim_hash: a8771332cb5f818571461d80c3ce2c78b1cd0e9683f094a17f68c42418d28f27
+    content: In the final months of his life, Edgar Mitchell told The Spaceman that he believed every Apollo mission was closely
+      watched by intelligently guided craft of unknown origin, though he could not scientifically prove it.
+    original_excerpt: It was only in the last months of Mitchell's life that the astronaut finally took his friend into his
+      confidence and told him that, incredibly, he believed – but could not prove scientifically – that every Apollo mission
+      was closely watched by intelligently guided craft of unknown origin, and that he had seen these strange objects with
+      his own eyes.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+      title: The Spaceman
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - The Spaceman
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
+        title: The Spaceman
+        slug: the-spaceman
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+        title: Apollo 11
+        slug: apollo-11
+    date: null
+    date_end: null
+    location_in_record: ch25:7054-7400
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 68eeea8f-e9fe-4595-a966-6141dc6fac9a
     claim_hash: 2c753934b97fd93b38a2fed553dd21e39ced0270127a59d88fd25ff893618d5d
     content: Luis Elizondo drew a comparison between the manoeuvring of the object in the GIMBAL video and the docking manoeuvres
@@ -3680,6 +4130,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -3699,7 +4154,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

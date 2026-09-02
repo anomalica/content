@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 4fc806b1f7cd376361819edfa422708b91e7fff53b4a0e8cfaab1c88950d7154
+brief_hash: c8a7aa182bd241a01f237eef764227ae500cf245525f8dd1e32364d33b62ce3b
 page:
   kind: entity
   node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
   node_type: topic
   title: Precognition
   slug: precognition
-  claim_count: 80
-  claim_count_total: 80
+  claim_count: 45
+  claim_count_total: 45
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 80
-  tokens_estimated: 12331
+  claims: 45
+  tokens_estimated: 6808
   sized_against: 1050000
+entailment:
+  assessed: 45
+  unassessed: 0
+  entails: 37
+  neutral: 6
+  contradicts: 2
+  entailed_by_quote: 20
+  entailed_by_window: 17
+  entailed_by_quote_fraction: 0.444
+  entailed_by_window_fraction: 0.378
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,38 +31,18 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 80
+  unreviewed: 45
 related_nodes:
   - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
     title: Julia Mossbridge
     node_type: person
     slug: julia-mossbridge
     shared_claims: 16
-  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-    title: Loyd Auerbach
-    node_type: person
-    slug: loyd-auerbach
-    shared_claims: 12
   - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
     title: Robert Monroe
     node_type: person
     slug: robert-monroe
     shared_claims: 10
-  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-    title: Lois
-    node_type: person
-    slug: lois
-    shared_claims: 8
-  - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-    title: Donna McCormick
-    node_type: person
-    slug: donna-mccormick
-    shared_claims: 7
-  - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
-    title: Chris (Pat's son)
-    node_type: person
-    slug: chris-pats-son
-    shared_claims: 5
   - node_id: c3e9bb65-7e60-4ffd-a7b8-dc49ba4d39ae
     title: Graham Nichols
     node_type: person
@@ -63,13 +53,8 @@ related_nodes:
     node_type: person
     slug: daryl-bem
     shared_claims: 4
-  - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-    title: Haunting (place memory)
-    node_type: topic
-    slug: haunting-place-memory
-    shared_claims: 4
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 4
@@ -88,21 +73,6 @@ related_nodes:
     node_type: topic
     slug: informational-substrate
     shared_claims: 3
-  - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-    title: Pat
-    node_type: person
-    slug: pat
-    shared_claims: 3
-  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-    title: Telepathy
-    node_type: topic
-    slug: telepathy
-    shared_claims: 3
-  - node_id: d144aa64-9866-4afd-a25b-9c905c57614d
-    title: Alex Tanous
-    node_type: person
-    slug: alex-tanous
-    shared_claims: 2
   - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
     title: Boundary conditions
     node_type: topic
@@ -113,46 +83,16 @@ related_nodes:
     node_type: topic
     slug: clairvoyance
     shared_claims: 2
-  - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-    title: Deathbed visions
-    node_type: topic
-    slug: deathbed-visions
-    shared_claims: 2
-  - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-    title: Erlendur Haraldsson
-    node_type: person
-    slug: erlendur-haraldsson
-    shared_claims: 2
-  - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-    title: Perceptual insertion
-    node_type: topic
-    slug: perceptual-insertion
-    shared_claims: 2
-  - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-    title: Poltergeist
-    node_type: topic
-    slug: poltergeist
-    shared_claims: 2
   - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
     title: Precognitive Remote Viewing
     node_type: topic
     slug: precognitive-remote-viewing
     shared_claims: 2
-  - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-    title: Psi (psychic functioning)
+  - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+    title: Telepathy
     node_type: topic
-    slug: psi-psychic-functioning
+    slug: telepathy
     shared_claims: 2
-  - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-    title: Survival hypothesis
-    node_type: topic
-    slug: survival-hypothesis
-    shared_claims: 2
-  - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
-    title: After-death communication (ADC)
-    node_type: topic
-    slug: after-death-communication-adc
-    shared_claims: 1
   - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
     title: Betty Hill
     node_type: person
@@ -166,12 +106,77 @@ related_nodes:
   - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
     title: Chris
     node_type: person
-    slug: chris
+    slug: chris-c04b2337
     shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
     node_type: person
     slug: chris-ramsay
+    shared_claims: 1
+  - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+    title: Consciousness studies
+    node_type: topic
+    slug: consciousness-studies
+    shared_claims: 1
+  - node_id: da534c9a-7c8b-4ed3-a029-ab3d5310903f
+    title: Intuitive Forecasting
+    node_type: project
+    slug: intuitive-forecasting
+    shared_claims: 1
+  - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
+    title: Lois
+    node_type: person
+    slug: lois
+    shared_claims: 1
+  - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
+    title: Loyd Auerbach
+    node_type: person
+    slug: loyd-auerbach
+    shared_claims: 1
+  - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+    title: Mediumship
+    node_type: topic
+    slug: mediumship
+    shared_claims: 1
+  - node_id: ae2a3399-8c70-4272-a9c0-5250f2f5cb4b
+    title: Meta-analysis
+    node_type: topic
+    slug: meta-analysis
+    shared_claims: 1
+  - node_id: 13974edc-43fa-472c-9482-e4e5dc5fa85f
+    title: Micro-Psychokinesis (PK)
+    node_type: topic
+    slug: micro-psychokinesis-pk
+    shared_claims: 1
+  - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+    title: Nonlocal consciousness
+    node_type: topic
+    slug: nonlocal-consciousness
+    shared_claims: 1
+  - node_id: 72cb2492-82b5-41c3-938e-122b8d563316
+    title: Presentiment
+    node_type: topic
+    slug: presentiment
+    shared_claims: 1
+  - node_id: e861f9fb-e23b-491e-9b25-c5510d7ddb9d
+    title: Psi
+    node_type: topic
+    slug: psi
+    shared_claims: 1
+  - node_id: 0ec85735-02ef-409f-a54c-c763da7087b9
+    title: Remote Influencing
+    node_type: topic
+    slug: remote-influencing
+    shared_claims: 1
+  - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+    title: Robert Bigelow
+    node_type: person
+    slug: robert-bigelow
+    shared_claims: 1
+  - node_id: 4af83358-958a-4db1-a9e8-01a486c7d91d
+    title: UK, England, London, Soho, Old Compton Street
+    node_type: place
+    slug: england-london-soho-old-compton-street-uk
     shared_claims: 1
 claims:
   - claim_id: c0177d30-d413-4d2f-b8e7-ff00bf47c136
@@ -191,6 +196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -231,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -267,6 +282,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13974edc-43fa-472c-9482-e4e5dc5fa85f
         title: Micro-Psychokinesis (PK)
@@ -307,6 +327,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.917
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0ec85735-02ef-409f-a54c-c763da7087b9
         title: Remote Influencing
@@ -344,6 +369,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -381,6 +411,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.742
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -418,6 +453,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -454,6 +494,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.584
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -489,6 +534,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -527,6 +577,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.685
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -566,6 +621,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -603,6 +663,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -640,6 +705,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -676,6 +746,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -696,977 +771,6 @@ claims:
       record_reference: null
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
-  - claim_id: 31af4ba4-074f-4bea-ab52-e7a5be9151f4
-    claim_hash: 50a07607ddde8fb2c780175a2226a6aceff7ddc79319ca8b0f882bcdb4ce5a92
-    content: The first attempt at a systematic scientific study of deathbed apparitions was made by Sir William Barrett, a
-      physicist.
-    original_excerpt: The first attempt at a systematic scientific study of these apparitions was made by Sir William Barrett,
-      a physicist
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 533f1693-aed7-4da9-ad5a-88921e78adc8
-        title: William Barrett
-        slug: william-barrett
-      - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-        title: Deathbed visions
-        slug: deathbed-visions
-    date: null
-    date_end: null
-    location_in_record: ch20:3490-3597
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 72d494e6-c910-4b8b-9e29-f8c3069e5d66
-    claim_hash: 3329723d89211918dbe2bc14164797e872ff28193f0af041e7ac523da8af8d8e
-    content: Deathbed-vision cases where the visitor is occasionally seen by other people, in Peter Fenwick's assessment,
-      exclude those visions from the category of hallucination, so they must instead be regarded as apparitions.
-    original_excerpt: The fact that the visitors are occasionally seen by other people automatically removes them from the
-      category of hallucinations; we have to regard them rather as apparitions
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
-      title: Peter Fenwick
-    provenance_chain:
-      origin_kind: speaker
-      origin: Peter Fenwick
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0994420f-7645-4f8c-b2ea-7d18f2e0146d
-        title: Peter Fenwick
-        slug: peter-fenwick
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: f00ee898-537f-4c5e-986c-88511f61b0a2
-        title: Deathbed visions
-        slug: deathbed-visions
-    date: null
-    date_end: null
-    location_in_record: ch20:9395-9557
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 8dcd0da7-b856-4734-9772-1a1122b2d95e
-    claim_hash: 89d97bf57eabcad767d765e3b4e9def99ee2d988c9677916a62134e1d3d32c9c
-    content: After many years of research, Erlendur Haraldsson found that apparition cases also contained a much higher percentage
-      of appearances from those who had suffered a violent death, compared with the general population.
-    original_excerpt: In addition, after many years of research, Haraldsson found that apparition cases also contained a much
-      higher percentage of appearances from those who had suffered a violent death, when compared with the general population.
-    claim_type: measurement
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Erlendur Haraldsson
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-        title: Erlendur Haraldsson
-        slug: erlendur-haraldsson
-    date: null
-    date_end: null
-    location_in_record: ch30:11443-11656
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
-    claim_hash: c40ebfb5ea4f7e14f48a9547d67cacbd49ea3d330ac142044e1b7cd39f6ffe57
-    content: Erlendur Haraldsson states that persons suffering a violent death feature predominantly in cases of apparitions
-      of the dead, in cases of the reincarnation type, and in mediumship, including both direct communicators and drop-ins.
-    original_excerpt: Persons suffering a violent death feature predominantly in cases of apparitions of the dead and in cases
-      of the reincarnation type, as well as in mediumship, including both direct communicators and drop-ins.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-      title: Erlendur Haraldsson
-    provenance_chain:
-      origin_kind: speaker
-      origin: Erlendur Haraldsson
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
-        title: Drop-in communicators
-        slug: drop-in-communicators
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
-        title: Erlendur Haraldsson
-        slug: erlendur-haraldsson
-      - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
-        title: Reincarnation
-        slug: reincarnation
-    date: null
-    date_end: null
-    location_in_record: ch30:11722-11925
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 59bb984a-93aa-4ad2-8f1e-ac83d8881d19
-    claim_hash: 24386d58b02e57ae4deb692217eb0a37b401e0e8862df1c6ef0907e12d5054a8
-    content: During Leslie Kean's apparition experience at the family summer house, she was suddenly and instantaneously awoken
-      and saw a dark, cloaked, headless-featured figure standing near the window at the foot of the bed.
-    original_excerpt: I saw a dark figure standing nearby, beside the window toward the end of the bed... the body was like
-      a dark cloak—no arms or legs, just a cloaked form.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: 953f6232-9902-437f-ad4c-add4fd080043
-      title: Leslie Kean
-    provenance_chain:
-      origin_kind: speaker
-      origin: Leslie Kean
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
-        title: Leslie Kean
-        slug: leslie-kean
-      - node_id: c7cb0a60-3b8d-4284-a8ad-03f3c24d4c3c
-        title: Leslie Kean's apparition experience at the family summer house (2015-08)
-        slug: leslie-keans-apparition-experience-at-the-family-summer-house-2015-08
-    date: null
-    date_end: null
-    location_in_record: ch30:28202-28317
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 2a7858c6-9a99-404d-bc7a-41835fbb3dcd
-    claim_hash: 25ef1a26293456d10a830f40a9f5bfaddca16e54966a2bc48990bd509c4175dd
-    content: In 1985, Donna McCormick provided Loyd Auerbach with an example of an ongoing apparition case.
-    original_excerpt: In 1985, Donna McCormick, a knowledgeable and very careful researcher whom I worked with for a few years,
-      provided me with an example of an interesting, ongoing apparition case.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-    date: '1985'
-    date_end: null
-    location_in_record: ch31:10787-10959
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 758ba7dc-7310-4816-8d6a-69cfe51f6263
-    claim_hash: 860a563ec1ab16fcb33c8013998d0475b37902044eced0624ba1f08313fa9bd8
-    content: A family began hearing footsteps coming up the stairs, a lock turning, a door opening and closing, ending at
-      the children's bedroom, shortly after the grandfather of the woman of the couple died.
-    original_excerpt: It began shortly after her [the woman of the couple] grandfather died. She was extremely close to him.
-      They lived on the second floor of a two-family house. They would hear footsteps coming up the stairs, the lock being
-      turned, the door opening, the door closing, the footsteps coming in, then ending up at the children’s bedroom, the nursery,
-      or going straight to their room.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: acd92bbb-a5de-40b0-b511-cad866103001
-      title: Donna McCormick
-    provenance_chain:
-      origin_kind: named
-      origin: Donna McCormick
-      relay:
-        - Donna McCormick's investigation notes relayed to Loyd Auerbach
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-    date: null
-    date_end: null
-    location_in_record: ch31:11214-11585
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: bcce36f4-b279-4233-b4e2-5f3a78fd3835
-    claim_hash: 8fef42e3aabdde70fb854dcb1e8420f75adf9030a2f2a58b90bed7d387404f22
-    content: Visitors to the family's house sometimes saw clear, concrete-seeming apparitions of the individual and asked
-      who was in the house, while other times only vague shadows were seen.
-    original_excerpt: They’d see apparitions of this individual. Some of them were clear sightings, very concrete seeming,
-      to the point where people who were visiting would ask, “Who’s that in the house?” Other times, just vague shadows would
-      be seen.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: acd92bbb-a5de-40b0-b511-cad866103001
-      title: Donna McCormick
-    provenance_chain:
-      origin_kind: named
-      origin: Donna McCormick
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-    date: null
-    date_end: null
-    location_in_record: ch31:11717-11941
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 9b4a82a0-2246-4ac3-9810-9f47c7e53098
-    claim_hash: 1fa15ec179c8401c6bc0ad4eb6cc72fbaa8cea7ea1b2c41ae56eb4958663d3e0
-    content: Loyd Auerbach's apparition experience was silent and disappeared quickly, possibly in reaction to his fear.
-    original_excerpt: The apparition I witnessed was silent and disappeared quickly, possibly in “reaction” to my fear.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-    date: null
-    date_end: null
-    location_in_record: ch31:119-211
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 254d90c1-9b4d-431e-ac85-5239a91dc6ae
-    claim_hash: 6907ce50adf14b57e30e37703386e33c91909bcc71d0429e0ad561e21fa7f20e
-    content: Psychics Alex Tanous and two others, presented with several photographs including one of the grandfather, each
-      independently picked the grandfather's photograph and gave descriptions matching what he was like in life.
-    original_excerpt: We brought Alex in, and Ingrid, and Ann, and they all gave descriptions of the grandfather. She had
-      a picture of him, so we put that among several others for the psychics to choose from, and each one picked the grandfather’s.
-      They all gave good descriptions of what he was like in life, interactions that occurred, where the phenomena occurred,
-      really an excellent case of everything being very clear-cut.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: acd92bbb-a5de-40b0-b511-cad866103001
-      title: Donna McCormick
-    provenance_chain:
-      origin_kind: named
-      origin: Donna McCormick
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 4fd84898-ccea-43c2-83f0-3f8ff9289979
-        title: Psychometry
-        slug: psychometry
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-      - node_id: d144aa64-9866-4afd-a25b-9c905c57614d
-        title: Alex Tanous
-        slug: alex-tanous
-    date: null
-    date_end: null
-    location_in_record: ch31:12009-12410
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: c66668dd-d96b-4bdc-8528-f0b331f175fa
-    claim_hash: 4cb8f99fef5328b79e359351018c2eed1485a00c1561bf624e0229af27ef5822
-    content: After the family in the case investigated by Donna McCormick moved to a new location, the apparition phenomena
-      continued there, suggesting the phenomena were person-related rather than house-related.
-    original_excerpt: Also, the family moved recently, and the phenomena are still continuing at their new location, which
-      suggests that it’s person-related rather than house-related.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: acd92bbb-a5de-40b0-b511-cad866103001
-      title: Donna McCormick
-    provenance_chain:
-      origin_kind: named
-      origin: Donna McCormick
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-      - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: Haunting (place memory)
-        slug: haunting-place-memory
-    date: null
-    date_end: null
-    location_in_record: ch31:12419-12572
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: f59d8e7b-4692-41d9-a05d-675dd458e672
-    claim_hash: f4c5326a19c429ca9d43f51cb9f2242d6f36737981f5e59eb08df0153cc74538
-    content: The psychics investigating the case explained that the grandfather's apparition was watching over the family,
-      knowing he was dead and keeping an eye on them rather than being earthbound.
-    original_excerpt: The psychics had given the explanation that the grandfather was watching over them. He’s not “earthbound,”
-      as some people like to characterize these things. He knows he’s dead and is just keeping an eye on the family.
-    claim_type: opinion
-    attestation: second_hand
-    speaker:
-      node_id: acd92bbb-a5de-40b0-b511-cad866103001
-      title: Donna McCormick
-    provenance_chain:
-      origin_kind: named
-      origin: Alex Tanous
-      relay:
-        - Donna McCormick
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-      - node_id: d144aa64-9866-4afd-a25b-9c905c57614d
-        title: Alex Tanous
-        slug: alex-tanous
-    date: null
-    date_end: null
-    location_in_record: ch31:12581-12791
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 87ee3562-2c16-4244-a333-adf7c749dd85
-    claim_hash: d99219fb73ed331e3156d9bbeec8220c507e4a37454310fac2c9662fb7db55bf
-    content: The family in the apparition case reported experiences suggesting the children were being looked after, such
-      as finding a blanket pulled up over the baby who previously had no blanket.
-    original_excerpt: They have had experiences that suggest that the children are being looked upon; blankets being pulled
-      up over the children. The baby a few months old lying in the crib wouldn’t have a blanket on him, but then they’d find
-      a blanket on him.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: acd92bbb-a5de-40b0-b511-cad866103001
-      title: Donna McCormick
-    provenance_chain:
-      origin_kind: named
-      origin: Donna McCormick
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: acd92bbb-a5de-40b0-b511-cad866103001
-        title: Donna McCormick
-        slug: donna-mccormick
-    date: null
-    date_end: null
-    location_in_record: ch31:12984-13218
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: ae5202dd-d547-4d88-ae45-ab3ebcb590bd
-    claim_hash: 27e9de321dea3552456ae163df9a602bfad66ead40faf5b73990512adf48d6d6
-    content: The grandfather in the case investigated by Donna McCormick had not lived with the family, and the apparition's
-      activity was seemingly independent of his activity when he was alive.
-    original_excerpt: The grandfather had not lived with the family, and the activity was seemingly independent of the activity
-      of the grandfather when he was alive.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:13224-13361
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: bd59dac0-5ced-4e67-83bd-341fb7871fa2
-    claim_hash: afe455b5e4ef0b801509c45712efcb698bdef2daa4b6dcfab774716157a425e5
-    content: Pat learned that her son Chris had been having conversations with a ghost he identified as the previous owner
-      of their home, occurring almost daily for well over a year.
-    original_excerpt: Only a short time before the call, she learned that her son had been having conversations with a “ghost”
-      he identified as that of the woman who had been the previous owner of their home. She also learned that these almost
-      daily conversations had been going on for well over a year.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: named
-      origin: Pat
-      relay:
-        - Loyd Auerbach
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
-        title: Chris (Pat's son)
-        slug: chris-pats-son
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-        title: Pat
-        slug: pat
-    date: null
-    date_end: null
-    location_in_record: ch31:13930-14206
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 9effca54-3121-43fe-8dcf-97a8e02a8c7a
-    claim_hash: 3ab1b50838f416161cf5fcadd0a7923524c6a4957aa44a313cd75598a52f9776
-    content: Since moving into the house, Pat, her husband, her mother, and more frequently her son Chris had seen an apparition
-      of an elderly woman appearing and disappearing in the house.
-    original_excerpt: Since moving into the house, Pat, as well as her husband, her mother (on visits), and more frequently
-      her son Chris, had seen an apparition appearing and disappearing in the house.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: named
-      origin: Pat
-      relay:
-        - Loyd Auerbach
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
-        title: Chris (Pat's son)
-        slug: chris-pats-son
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 8d646306-6faf-4916-9946-256c1d8478af
-        title: Mark (Pat's husband)
-        slug: mark-pats-husband
-      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-        title: Pat
-        slug: pat
-    date: null
-    date_end: null
-    location_in_record: ch31:14688-14862
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 1cd2e486-062d-424b-8415-19763900b761
-    claim_hash: 12892800e61b8208911ae88584ba89ca0df17ebc85daa57ff3f1830fda1d3505
-    content: The initial apparition sightings in Pat's house came shortly after the family moved in, when Chris was eleven,
-      showing the figure of an elderly woman walking through the living room, typically toward the stairs.
-    original_excerpt: The initial sightings had come shortly after they moved in, when Chris was eleven. They spotted the
-      apparition of an elderly woman walking through the living room, typically toward the stairs.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: named
-      origin: Pat
-      relay:
-        - Loyd Auerbach
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
-        title: Chris (Pat's son)
-        slug: chris-pats-son
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:14869-15054
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 6a047c19-0658-4f8b-a101-e10f5c75b3f9
-    claim_hash: 931f635f42b4a5dd58ea833df140e6c20e33326e19ac7c9cf67bbb211755e6e1
-    content: In a number of instances, the apparition figure in Pat's house waved at the percipient and disappeared a few
-      seconds later.
-    original_excerpt: In a number of instances, the figure waved at the percipient and would disappear a few seconds later.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: named
-      origin: Pat
-      relay:
-        - Loyd Auerbach
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:15062-15157
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: dc0afe6a-62ec-4187-aec9-a63d68f0e77f
-    claim_hash: 6faefeed1eb963d4ff04bbd8d2c3ddc346f683f8c0d4c88699f1393f1c292043
-    content: Loyd Auerbach considered the interactive waving behaviour of the apparition in Pat's house more likely to demonstrate
-      awareness of witnesses than to be a psychic imprint of the woman's past activity.
-    original_excerpt: This kind of behavior appeared to demonstrate an awareness of the presence of the witnesses and an attempt
-      by the apparition to interact, but it also could have been a minor variation of a psychic imprint of the woman’s activity
-      when she was alive. Based on what else Pat told me, the former was much more likely than the latter.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-      - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: Haunting (place memory)
-        slug: haunting-place-memory
-    date: null
-    date_end: null
-    location_in_record: ch31:15164-15486
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 8916e582-b386-45a0-9248-3cf28320e21f
-    claim_hash: a7d46058024a59961dad4ccca94379e9a58d7c7c3dcd5a63c04d1dc09305e020
-    content: Loyd Auerbach has been investigating cases of apparitions, hauntings, and poltergeists for over thirty-five years.
-    original_excerpt: He has been investigating cases of apparitions, hauntings, and poltergeists for over thirty-five years
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-      - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-        title: Poltergeist
-        slug: poltergeist
-      - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: Haunting (place memory)
-        slug: haunting-place-memory
-    date: null
-    date_end: null
-    location_in_record: ch31:1584-1681
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: cb0ccffa-4817-45a0-b348-77426989276e
-    claim_hash: 3e438096b49a1129c48811a9e7e3a3b19d1d35837c113023c2ede00d0b97d7c0
-    content: Chris reported that the apparition of Lois had appeared to him every day since he first saw her and waved back,
-      and that she approached him and began communicating rather than disappearing.
-    original_excerpt: Chris reported to his family that she had appeared to him every day since the first time he saw her,
-      when he waved back at the figure he saw. He said that the woman did not disappear once he waved at her, but rather approached
-      him and began communicating.
-    claim_type: testimony
-    attestation: third_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: named
-      origin: Chris (Pat's son)
-      relay:
-        - Pat
-        - Loyd Auerbach
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
-        title: Chris (Pat's son)
-        slug: chris-pats-son
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:17342-17583
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 115bd7fb-7870-45d5-81c8-4172d58c4ee0
-    claim_hash: 3a73eb4d94c6a62f15180f4d9fd2f0c7baedda6fda3564027f26f94f4f304ea5
-    content: Pat told Loyd Auerbach that Chris was able to get verifiable information from Lois, which Loyd Auerbach considers
-      a rarity in apparition cases.
-    original_excerpt: I was quite excited to interview the family and observe the environment, especially since Pat stated
-      that Chris was able to get verifiable information from Lois. This is a rarity when it comes to apparition cases.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
-        title: Lois
-        slug: lois
-      - node_id: 3d7a3a98-eb61-403d-9c2c-d228b86e9c56
-        title: Chris (Pat's son)
-        slug: chris-pats-son
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-      - node_id: dfd0d1ef-aa13-4e4a-8578-4d650877ea55
-        title: Pat
-        slug: pat
-    date: null
-    date_end: null
-    location_in_record: ch31:18009-18216
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: b10a7f9d-7dd3-407b-95d4-71a545b7437b
-    claim_hash: 3f0d1c542db96b4bfe334aa5118121d3d88675a9d488143026861bab37fec8eb
-    content: Loyd Auerbach considers perceptual insertion an explanation for why only some people experience apparitions,
-      since their perceptual processes are susceptible to telepathic projection.
-    original_excerpt: This explains why only some people might experience apparitions—their perceptual processes are susceptible
-      to such insertion by telepathic projection.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-        title: Perceptual insertion
-        slug: perceptual-insertion
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-      - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
-        title: Telepathy
-        slug: telepathy
-    date: null
-    date_end: null
-    location_in_record: ch31:25780-25919
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 85e44f7d-7276-469e-9e54-8351fb6076a7
-    claim_hash: 54a6cb7a859a952b2b8907f7a2cb6f11e6304be0fd3ce477a122a3bccceb154a
-    content: Loyd Auerbach considers perceptual insertion an explanation for why genuine photos or videos of ghosts are not
-      seen, since apparitions have no physical form to reflect light.
-    original_excerpt: It also explains why one doesn’t expect to see genuine photos or videos of ghosts. They have no form
-      to reflect light.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 34fc3ced-c7d7-4a23-bfe6-edf5e108bbb0
-        title: Perceptual insertion
-        slug: perceptual-insertion
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-    date: null
-    date_end: null
-    location_in_record: ch31:25931-26043
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: d6e9a6b3-8174-4ff2-9ce6-9e8874feed92
     claim_hash: e7199ce6509c66e51723e9079285d1bcf0d310e354f7f84b389b2166b91bb54b
     content: Loyd Auerbach considers it more likely, given corroborating witnesses to Lois manifesting visually and Chris's
@@ -1686,6 +790,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
         title: Lois
@@ -1701,427 +810,10 @@ claims:
         slug: loyd-auerbach
       - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
         title: Chris
-        slug: chris
+        slug: chris-c04b2337
     date: null
     date_end: null
     location_in_record: ch31:31549-31880
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 7353bbc0-e6d6-4d4e-a1b5-80fd31555c06
-    claim_hash: d47604d4ed2d4d8b32163dad05073e121deaa055aaf75d10dbfce5ce104482e6
-    content: Loyd Auerbach directly experienced an apparition himself as part of another investigation.
-    original_excerpt: As part of another investigation, I actually experienced an apparition myself—directly, and closer than
-      one might imagine possible.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-    date: null
-    date_end: null
-    location_in_record: ch31:32771-32893
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: e44b2947-5ce4-4e4b-88e6-710819be8f17
-    claim_hash: eb0616b517314db0b69a600bd17a7e53913d8b883559eb2bf9c883abc682e19f
-    content: Loyd Auerbach considers most apparition cases to be onetime and personal, involving perception of a just-deceased
-      loved one, relative, or friend, rather than continuing over time.
-    original_excerpt: Most apparition cases are onetime and personal in nature—involving the perception of a just-deceased
-      loved one, relative, or friend—rather than continuing over time.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-    date: null
-    date_end: null
-    location_in_record: ch31:37175-37335
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 20be2967-df7e-4b92-a393-6a503bc490dd
-    claim_hash: be3bb9487ed26d4796427e258eaf96ad0dd12f7573338b69e15d061e8c28cb2d
-    content: Loyd Auerbach considers the philosophical divide in parapsychology to be not whether apparitional phenomena exist,
-      but whether they are caused by human psi alone rather than by a disembodied consciousness.
-    original_excerpt: The philosophical divide in parapsychology is not whether such phenomena exist, but whether they are
-      caused by human psi alone or some other human manifestation, rather than by a disembodied consciousness.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-      - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: Psi (psychic functioning)
-        slug: psi-psychic-functioning
-    date: null
-    date_end: null
-    location_in_record: ch31:37892-38083
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: dd13000f-3f3c-44c5-b1ff-13d1ecfd006c
-    claim_hash: 6eb79536d1629e319a1c73cd9bc39f515d678a960b59a9e8be00e24122ceaf32
-    content: Loyd Auerbach considers, based on his many years of investigations and experiences, the evidence weighted heavily
-      toward the survival hypothesis in explaining apparitions.
-    original_excerpt: Based on my many years of investigations and experiences, I think the evidence is weighted heavily toward
-      the survival hypothesis in explaining apparitions.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: Survival hypothesis
-        slug: survival-hypothesis
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-        title: Loyd Auerbach
-        slug: loyd-auerbach
-    date: null
-    date_end: null
-    location_in_record: ch31:38907-39051
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 64ef0025-7a9b-4f38-9adc-2fc5065ecc54
-    claim_hash: 650b3a24c613dea255bfb92ade815287a6e56b057a1c9739ca716664ff7564c3
-    content: For an apparition to represent evidence for survival past death, it must be capable of communicating or interacting
-      with those around it in a conscious way.
-    original_excerpt: For the apparition to represent evidence for survival past death, it must be capable of communicating
-      or interacting with those around it in a conscious way.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
-        title: Survival hypothesis
-        slug: survival-hypothesis
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:3919-4072
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 09cb2858-2994-4879-b630-8da0f86a6184
-    claim_hash: f79a3ba8b1660d5869c0950b4b2b4c1e8d6b9fc8f40bc5ebca22b0d59d2572e9
-    content: 'The key element distinguishing apparitions from hauntings is consciousness: hauntings cannot interact or adapt
-      to new people or situations, while apparitions, representing a person''s consciousness, can.'
-    original_excerpt: The key element distinguishing apparitions from hauntings is consciousness. Video or audio recordings
-      are not conscious and cannot interact or adapt to new people or new situations. In the same way, hauntings cannot interact,
-      but apparitions, ostensibly representing a person’s consciousness, can.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: fe6edf88-0be3-453e-8a6b-449709eae1e7
-        title: Haunting (place memory)
-        slug: haunting-place-memory
-    date: null
-    date_end: null
-    location_in_record: ch31:7754-8047
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: a86b9ba2-c020-497f-a84e-ce01e0b3aabb
-    claim_hash: 720e4b6cd9de446df7120b8c8848b27430dc09958ab29fae32b43955a9e5aab2
-    content: Collective apparitions, seen by multiple witnesses at the same time or by several witnesses at different times,
-      are considered the most persuasive apparition cases.
-    original_excerpt: Most persuasive are “collective apparitions”—those that are seen by multiple witnesses at the same time
-      or by several witnesses at different times.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:781-922
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 52fad5a8-597a-4299-a22f-d206dc94451d
-    claim_hash: 22cef05f518ac1a5aed95df6986ba1f50a94fbb1bbcb3d85381306558d290552
-    content: Apparitional psychokinesis (PK) appears to be more deliberate than the more common, chaotic PK stemming from
-      living people, caused by poltergeists.
-    original_excerpt: Apparitional PK appears to be more deliberate than the more common, chaotic PK stemming from living
-      people (caused by “poltergeists,” discussed in the next chapter).
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: 5b384d44-dd7a-44bb-aaca-69cd59b8bb75
-        title: Psychokinesis (PK)
-        slug: psychokinesis-pk
-      - node_id: cb4a5fa0-4215-4340-8c43-4e7091f6b650
-        title: Poltergeist
-        slug: poltergeist
-    date: null
-    date_end: null
-    location_in_record: ch31:8405-8561
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 76a42eca-70f5-4030-b236-5894d5e3fe3e
-    claim_hash: 6f4f5638454d481a5b2a25346f2e4c11c3a707a1b9ca887116c76c40cbacd409
-    content: Loyd Auerbach considers a postmortem apparition's perception of the world to involve psi, the same mechanism
-      by which a medium understands communications from a consciousness speaking through her.
-    original_excerpt: And how does a postmortem apparition, effectively a consciousness without physical senses, perceive
-      the world and people around itself? This too involves psi, and is the same mechanism by which a medium understands her
-      communications—the consciousness speaking through her uses its psi to send the messages to her, which she is able to
-      access through her own similar faculties.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: ba0c3542-ce21-4be8-b13d-89820c11475f
-        title: Trance mediumship
-        slug: trance-mediumship
-      - node_id: e7eb0766-9fee-4759-b721-38beb853ee1d
-        title: Psi (psychic functioning)
-        slug: psi-psychic-functioning
-    date: null
-    date_end: null
-    location_in_record: ch31:8825-9192
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 895dd746-f037-435b-a61f-33a7ab85986f
-    claim_hash: 22f1e3d7b666e20a0e043c09c0645157304ea381a53f01ea262b7a1858936aee
-    content: Apparitions can directly affect the environment and are not solely visual, creating sounds or smells.
-    original_excerpt: Apparitions can directly affect the environment and are not solely visual; they also create sounds or
-      smells, and sometimes pets or other animals demonstrate awareness of them.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
-      title: Loyd Auerbach
-    provenance_chain:
-      origin_kind: speaker
-      origin: Loyd Auerbach
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-    date: null
-    date_end: null
-    location_in_record: ch31:929-1100
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 13811789-0024-43c3-b0ad-1d8345dbf5a5
-    claim_hash: ae58d7cbb6dc2de23ff488c149e6206ca88abc24147c98f2d265cfba23048148
-    content: Hereward Carrington acknowledged that mediumship phenomena can sometimes manifest spontaneously, as seen with
-      after-death communications (ADC) and apparitions.
-    original_excerpt: He does acknowledge, however, that sometimes the phenomena can manifest spontaneously; we have seen
-      just that with regard to after-death communications and apparitions, for example.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
-      title: Hereward Carrington
-    provenance_chain:
-      origin_kind: speaker
-      origin: Hereward Carrington
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
-        title: Hereward Carrington
-        slug: hereward-carrington
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
-      - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
-        title: After-death communication (ADC)
-        slug: after-death-communication-adc
-    date: null
-    date_end: null
-    location_in_record: ch37:31097-31270
     evidence:
       score: null
       independent_sources: 1
@@ -2145,6 +837,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2175,6 +872,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2216,6 +918,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2259,6 +966,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.794
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2296,6 +1008,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2337,6 +1054,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2377,6 +1099,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -2388,7 +1115,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
         title: Clairvoyance
@@ -2425,6 +1152,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2465,6 +1197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2502,6 +1239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2539,6 +1281,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.621
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -2547,7 +1294,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
     date: null
     date_end: null
@@ -2579,6 +1326,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -2619,6 +1371,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.817
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -2660,6 +1417,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
         title: Boundary conditions
@@ -2703,6 +1465,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2392cee9-5f74-465f-9e78-b6e4aaab6c16
         title: Boundary conditions
@@ -2743,6 +1510,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2782,6 +1554,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2820,6 +1597,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2858,6 +1640,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2893,6 +1680,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2933,6 +1725,11 @@ claims:
         - Julia Mossbridge
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -2971,12 +1768,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
         slug: precognition
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 4af113d4-cbaa-45d5-82b1-279d7b68d016
         title: Daryl Bem
@@ -3011,6 +1813,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -3046,12 +1853,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
         slug: precognition
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
@@ -3090,6 +1902,11 @@ claims:
         - Julia Mossbridge reading the question aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -3128,6 +1945,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -3166,6 +1988,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -3208,6 +2035,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -3249,6 +2081,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.616
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -3290,6 +2127,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition

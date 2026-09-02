@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 13
   tokens_estimated: 1976
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 10
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 3
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.231
+  entailed_by_window_fraction: 0.538
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -124,6 +134,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176bf904-ba3e-4641-9a8f-336401532900
         title: James L. Tuck
@@ -161,6 +176,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176bf904-ba3e-4641-9a8f-336401532900
         title: James L. Tuck
@@ -195,6 +215,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176bf904-ba3e-4641-9a8f-336401532900
         title: James L. Tuck
@@ -231,6 +256,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.389
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176bf904-ba3e-4641-9a8f-336401532900
         title: James L. Tuck
@@ -270,6 +300,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
         title: USA, New Mexico, Los Alamos
@@ -307,6 +342,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
         title: USA, New Mexico, Los Alamos
@@ -343,6 +383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -365,7 +410,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -388,6 +433,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.676
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
         title: Trinity nuclear test
@@ -428,6 +478,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 554dfab0-ba18-433c-b995-dcdeca6b8b42
         title: USA, New Mexico, Kirtland Field
@@ -468,6 +523,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -505,6 +565,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.611
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
         title: USA, Nevada, S4
@@ -550,6 +615,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
         title: Steve Bannon
@@ -596,6 +666,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
         title: 1949 Los Alamos classified conference on unexplained sightings over nuclear sites

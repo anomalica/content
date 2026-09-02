@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 44aa2f338545025fb27b293f65a7d6f2d9e7a78a8331da6f1d555e473907e15c
+brief_hash: e3aea8eb48f3dc275b91ec6ab047b496376a07852eac83fb5cfbb227571c0c0f
 page:
   kind: entity
   node_id: e95835fe-733e-4777-bb60-740d9727e2c8
@@ -9,11 +9,21 @@ page:
   claim_count: 29
   claim_count_total: 29
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 29
   tokens_estimated: 4120
   sized_against: 1050000
+entailment:
+  assessed: 29
+  unassessed: 0
+  entails: 26
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 14
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.483
+  entailed_by_window_fraction: 0.414
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
         title: 1944 Normandy landings
@@ -229,6 +244,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -266,6 +286,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.532
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
         title: 1944 Normandy landings
@@ -305,6 +330,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -340,6 +370,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -374,6 +409,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7fee53d0-5e14-48a6-aef1-fc546fc5a9f7
         title: Germany, Düsseldorf
@@ -407,6 +447,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 83a5ac93-e63d-4766-b1fc-947b71aadfb1
         title: German invasion of Poland (1939-09-01)
@@ -431,7 +476,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
-    claim_hash: 81c6fcd58de7e6a5c213b5ae85d20ab31d39634715b252d5f3581842f7ccb01e
+    claim_hash: 89d62cbed56a0432f6041fc53da28e7f6d54503c306450fef8a309a4245c870d
     content: On 1939-09-02, Great Britain and France sent Hitler an ultimatum demanding the end of all military action by
       1939-09-03.
     original_excerpt: On September 2, Great Britain and France sent him an ultimatum demanding the end of all military action
@@ -445,6 +490,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.794
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -481,6 +531,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.538
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
         title: Joseph Stalin
@@ -519,6 +574,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -556,6 +616,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.516
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -589,6 +654,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.472
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -625,6 +695,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -669,6 +744,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -714,6 +794,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
         title: Heinrich Himmler
@@ -762,6 +847,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
         title: Orion (Apollo 16 Lunar Module)
@@ -800,6 +890,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
         title: Wernher von Braun
@@ -834,6 +929,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 021c3825-858e-41b2-b3b4-af181f35d70c
         title: Walter Dornberger
@@ -872,6 +972,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3dda57d8-c397-48d6-a3c5-d00e07ec5761
         title: Hitler visit to Von Braun's rocket labs, 1939
@@ -910,6 +1015,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
         title: Heinrich Himmler
@@ -947,6 +1057,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cf9d0841-4c94-4e97-ad97-131b028af237
         title: Schutzstaffel (SS)
@@ -982,6 +1097,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17011d27-e3b5-4be6-90a7-2e7371cca217
         title: Heinrich Himmler
@@ -1029,6 +1149,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7e213c84-f41b-4dd5-bdd6-d36f13e5a7dd
         title: Frederick Barbarossa
@@ -1071,6 +1196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19c7009f-60ab-42a7-9403-65d7bbc6e5f0
         title: V-2 bombing of London, 1944
@@ -1104,6 +1234,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
         title: Adolf Hitler
@@ -1140,6 +1275,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1186,6 +1326,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
         title: Google
@@ -1229,6 +1374,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1269,6 +1419,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

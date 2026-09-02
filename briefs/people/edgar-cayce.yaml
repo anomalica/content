@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 9
   tokens_estimated: 1215
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 7
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 7
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.778
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -80,6 +90,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -123,6 +138,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -157,6 +177,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -196,6 +221,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -234,6 +264,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -268,6 +303,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -305,6 +345,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.777
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -342,6 +387,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.886
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce
@@ -380,6 +430,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
         title: Edgar Cayce

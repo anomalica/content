@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 2d0126dc1660bcfe8ae57d7133f06fe9d3b3a736cd9c29cfbcf49d2546a045b7
+brief_hash: 49fe6577c66cdf3e77a73c7bc8c98acb9b0d782fb845a1a14fcc5df046a807ab
 page:
   kind: entity
   node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 10
   tokens_estimated: 1703
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 7
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -80,7 +90,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: b47bbe0c-9ff8-40ac-bc70-2d8d1d9c979e
-    claim_hash: 788c131e8272bf0b753866e1d0f4927188cbd843f802c1feff7b5c9d826a5a99
+    claim_hash: 190d3228b2c56307a0ae2ffdfba3ec9d955d811f3052b48fa530d57596ec9440
     content: 'The San Francisco Chronicle, under the headline "DISC: SOLUTION COLLAPSES," reported that General Roger M. Ramey
       said the Roswell wreckage was a "high-altitude weather observation device" consisting of a box kite and a balloon.'
     original_excerpt: 'Under the headline DISC: SOLUTION COLLAPSES the *Chronicle* reported that General Roger M. Ramey had
@@ -95,6 +105,11 @@ claims:
         - San Francisco Chronicle
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -119,7 +134,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: de085f16-60cb-4778-a8c5-6197ec7266cd
-    claim_hash: d66715dbc1b701323610f6a41009ca20069d7958417628ba99ce2bed733c6ca6
+    claim_hash: 023e2de66344fe9c168540113b451d28180ba3f7cc31c36ba12f7c4b19b918cd
     content: Later in the same San Francisco Chronicle story, General Roger M. Ramey was reported to have said the Roswell
       wreckage was a "star-shaped tinfoil target designed to reflect radar."
     original_excerpt: Later in the same story General Ramey is reported to have said that it was a "starshaped tinfoil target
@@ -134,6 +149,11 @@ claims:
         - San Francisco Chronicle
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -158,7 +178,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: fde3593f-caf1-4023-91ba-36e4f35eca08
-    claim_hash: 483a7a6b9342f36eb912b4a6e81c875add65b6b3de5a7406e1b71f684c3d7782
+    claim_hash: 98f037c9ef39e0c804ba388c12155593edcd64b68ad46888ce9556fba77fba28
     content: General Roger M. Ramey claimed to have the Roswell debris in his office, yet gave inconsistent identifications
       of it.
     original_excerpt: Since General Ramey claimed to have the debris in his office, it is strange that he could not seem to
@@ -172,6 +192,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -209,6 +234,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -237,7 +267,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -256,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -275,7 +310,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -295,6 +330,11 @@ claims:
         - Associated Press
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -314,7 +354,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -337,6 +377,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -356,7 +401,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -377,6 +422,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.901
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
         title: Thomas J. DuBose
@@ -421,6 +471,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -442,7 +497,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
-    claim_hash: 849fcf1a0743a0bcf36cc4dfb14e93bd579a462955a5a66ad789d0145ca63004
+    claim_hash: 4c27d41b9772777a6a8e17669eb76aa039cfe7d338407bc0242d471ef168c1da
     content: Upon his return from Fort Worth, Jesse Marcel described to Walter Haut taking pieces of the 1947 Roswell wreckage
       to Roger Ramey's office and, after returning from a map room, finding the remains of a weather balloon and a radar kite
       substituted in place of the original wreckage.
@@ -461,6 +516,11 @@ claims:
         - Jesse Marcel's account, described to Walter Haut
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut

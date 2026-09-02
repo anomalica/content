@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4bbaa48653fed4792b04596cbd73a6643dd8c00656ae4e9e016b0b86b3fac8fc
+brief_hash: c292dc2257d34535fc4e7f63e91748be6b9647493a38bb19b1bde2cc849bb9f6
 page:
   kind: entity
   node_id: acde03ee-7227-486d-854c-9673dd837619
@@ -9,11 +9,21 @@ page:
   claim_count: 51
   claim_count_total: 51
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 51
   tokens_estimated: 7011
   sized_against: 1050000
+entailment:
+  assessed: 51
+  unassessed: 0
+  entails: 23
+  neutral: 22
+  contradicts: 6
+  entailed_by_quote: 11
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.216
+  entailed_by_window_fraction: 0.235
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -78,6 +88,11 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 3
+  - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+    title: William McCasland
+    node_type: person
+    slug: william-mccasland
+    shared_claims: 3
   - node_id: 1ac8dec7-3797-4a1b-adae-8a2707211628
     title: Wright-Patterson titanium alloy fragment examined by Nat Kobitz
     node_type: object
@@ -103,20 +118,20 @@ related_nodes:
     node_type: event
     slug: nat-kobitzs-visit-to-examine-a-metal-fragment-at-wright-patterson-air-force-base
     shared_claims: 2
-  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-    title: Neil McCasland
-    node_type: person
-    slug: neil-mccasland
-    shared_claims: 2
   - node_id: b83da5e3-e3b2-4a45-970e-1fb61796f3df
     title: Reverse engineering of non-human technology
     node_type: topic
     slug: reverse-engineering-of-non-human-technology
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: cfe9c55e-d42c-4bc6-bcd2-286e47680707
+    title: 1956 Takala Unidentified Aerial Phenomena (UAP) landing
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1956-takala-unidentified-aerial-phenomena-uap-landing
+    shared_claims: 1
+  - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+    title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
+    node_type: event
+    slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     shared_claims: 1
   - node_id: a7705a12-ecb2-4419-9d8b-9fb34ca5a02b
     title: Air Force Research Laboratory
@@ -147,11 +162,6 @@ related_nodes:
     title: Immaculate Constellation
     node_type: project
     slug: immaculate-constellation
-    shared_claims: 1
-  - node_id: 6827e480-df41-4f9b-bfbb-a5f3c02ab953
-    title: Michigan UAP Sightings 1966
-    node_type: event
-    slug: michigan-uap-sightings-1966
     shared_claims: 1
   - node_id: d150fdea-ca54-4d4e-97d3-9ddb860b2416
     title: NKA Science
@@ -193,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.679
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -230,6 +245,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.841
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -268,6 +288,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
         title: Barry Goldwater
@@ -292,7 +317,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
-    claim_hash: 85f8e65a4a10c91893f3d1e95e3c69a51e7ded57b9a6c8c5b009a951296e27a7
+    claim_hash: 96c604c0afe710d479dbb12a997354437ce313bbfc2a87cb9fd4849b41132970
     content: Jacques Vallee called J. Allen Hynek to alert him to the March 1966 Michigan UFO sightings, and Hynek in turn
       called Project Blue Book in Dayton, Ohio, to propose an immediate investigation.
     original_excerpt: I called Dr. Hynek to alert him to the sightings, and he in turn called Project Blue Book in Dayton,
@@ -308,13 +333,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
         slug: jacques-vallee
-      - node_id: 6827e480-df41-4f9b-bfbb-a5f3c02ab953
-        title: Michigan UAP Sightings 1966
-        slug: michigan-uap-sightings-1966
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
@@ -324,6 +351,9 @@ claims:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+        title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
+        slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     date: '1966-03-21'
     date_end: null
     location_in_record: ch10:7530-7673
@@ -354,6 +384,11 @@ claims:
         - J. Allen Hynek told Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -394,6 +429,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -420,6 +460,44 @@ claims:
       record_reference: null
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
+  - claim_id: abf0e9da-8693-4761-ab8b-af418e3758b4
+    claim_hash: b222083cb73d5f23224afc93c4e39d7d4a161c4909c4dbf93d24fe4e0cdf196b
+    content: The National Air and Space Intelligence Center is headquartered at Wright-Patterson Air Force Base.
+    original_excerpt: NASIC, headquartered at Wright Patterson Air Force Base
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: acde03ee-7227-486d-854c-9673dd837619
+        title: USA, Ohio, Wright-Patterson Air Force Base
+        slug: ohio-wright-patterson-air-force-base-usa
+    date: null
+    date_end: null
+    location_in_record: char:14479-14530
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: 8e0d8781-d634-4990-b713-58afff5960f4
     claim_hash: 25d91146e5175b784fa580278421f387ed0af712ae63083f933e9aa63b6f7bc9
     content: Operation Blue Fly was proposed to deliver recovered objects to the Foreign Technology Division at Wright-Patterson
@@ -435,6 +513,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
         title: Foreign Technology Division
@@ -451,12 +534,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 692be948-667e-47a5-a940-0cc9d7161f21
-    claim_hash: 328f21c45471bc0b338146a25b06c459fb69dd308524682ff14f907412409d82
+    claim_hash: 2e9c54cbec7fe592edde92e17ef7e0b81ec13d81f3b65750ed581013dbe1d6ab
     content: William Neil McCasland was the commander of the US Air Force's research laboratory at Wright-Patterson Air Force
       Base until July 2013.
     original_excerpt: the commander of the US Air Force's research laboratory at Wright-Patterson Air Force Base until July
@@ -470,10 +553,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-        title: Neil McCasland
-        slug: neil-mccasland
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
@@ -486,7 +574,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -503,6 +591,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
         title: Foreign Technology Division
@@ -519,7 +612,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -538,6 +631,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -551,12 +649,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: bae97258-0aac-4690-b461-502f1b8a7df7
-    claim_hash: e543d81a92915726ea6adfbc96817ec347b1b5418841a0f3784ee148a4f7f4b4
+    claim_hash: 68c75a33d89f03a4450d513d66dd57c7aef9f18e1fa8d061e13620cd2b10e2d4
     content: In a 2016 email, Tom DeLonge wrote that Neil McCasland claimed to be a sceptic but really was not, that DeLonge
       had worked with him for four months and recently given him a four-hour presentation on the entire project, that advice
       was already being provided on how to proceed, and that when Roswell crashed the wreckage was shipped to the laboratory
@@ -580,10 +678,15 @@ claims:
         - an email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-        title: Neil McCasland
-        slug: neil-mccasland
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
@@ -602,7 +705,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -622,6 +725,11 @@ claims:
         - letters from the anonymous army sergeant 'A Friend' to Art Bell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -638,7 +746,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -659,6 +767,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.74
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1ac8dec7-3797-4a1b-adae-8a2707211628
         title: Wright-Patterson titanium alloy fragment examined by Nat Kobitz
@@ -687,7 +800,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -706,6 +819,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -725,7 +843,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -744,6 +862,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.618
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -760,7 +883,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -778,6 +901,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -794,7 +922,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -815,6 +943,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -837,7 +970,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -858,6 +991,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 56287749-46c9-4885-b98c-f188672d6edf
         title: Curtis LeMay
@@ -877,7 +1015,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -898,6 +1036,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 56287749-46c9-4885-b98c-f188672d6edf
         title: Curtis LeMay
@@ -917,7 +1060,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -936,6 +1079,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -949,7 +1097,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -967,6 +1115,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
         title: Foreign Technology Division
@@ -983,7 +1136,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1002,6 +1155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -1018,7 +1176,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1039,6 +1197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1ac8dec7-3797-4a1b-adae-8a2707211628
         title: Wright-Patterson titanium alloy fragment examined by Nat Kobitz
@@ -1055,7 +1218,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1076,6 +1239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1ac8dec7-3797-4a1b-adae-8a2707211628
         title: Wright-Patterson titanium alloy fragment examined by Nat Kobitz
@@ -1092,12 +1260,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a76b00d8-a8fb-42e6-b924-de31b0d72c5e
-    claim_hash: 0c4da0d12907541a531ffc1206964a3a95fbcbbb7d0f8a6e11af515b3cd28b9f
+    claim_hash: 575e64bf6f91f405850bb29f1496817b65c1fd6c0cf7bd5eafb92d198071ceae
     content: Wright-Patterson Air Force Base in the USA was the recipient of the 1956 cables reporting the Takala UAP landing.
     original_excerpt: Wright Patterson Air Force Base in the USA was the recipient of these cables.
     claim_type: administrative
@@ -1109,13 +1277,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cfe9c55e-d42c-4bc6-bcd2-286e47680707
+        title: 1956 Takala Unidentified Aerial Phenomena (UAP) landing
+        slug: 1956-takala-unidentified-aerial-phenomena-uap-landing
     date: '1956'
     date_end: null
     location_in_record: ch9:3948-4018
@@ -1125,14 +1298,14 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: abf0e9da-8693-4761-ab8b-af418e3758b4
-    claim_hash: b222083cb73d5f23224afc93c4e39d7d4a161c4909c4dbf93d24fe4e0cdf196b
-    content: The National Air and Space Intelligence Center is headquartered at Wright-Patterson Air Force Base.
-    original_excerpt: NASIC, headquartered at Wright Patterson Air Force Base
+  - claim_id: 29899d23-8304-45af-ac3d-01b0230882e8
+    claim_hash: 012241b1117dc7a2809e4920dea5d5276f6d5840ecee9740a0397610e3e6b461
+    content: Project BLUE BOOK was based at Wright-Patterson Air Force Base near Dayton, Ohio.
+    original_excerpt: Based at Wright-Patterson Air Force Base near Dayton, Ohio
     claim_type: administrative
     attestation: null
     speaker: null
@@ -1142,26 +1315,32 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-        title: National Air and Space Intelligence Center (NASIC)
-        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
     date: null
     date_end: null
-    location_in_record: char:14479-14530
+    location_in_record: char:41727-41781
     evidence:
       score: null
       independent_sources: 1
     provenance:
-      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-      record_date: '2023-06-05'
-      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 53cadf97-5e8c-4d12-84dc-9e262df25d59
     claim_hash: 4fbd260d87af6428c2972532c264c6765f6d02099bc8dafa0b09adca2ea6e4e6
     content: Eric Davis and other colleagues were familiar with a rumoured crash-retrieval programme run by TRW out of Wright-Patterson
@@ -1179,6 +1358,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
         title: TRW Inc.
@@ -1198,46 +1382,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 29899d23-8304-45af-ac3d-01b0230882e8
-    claim_hash: 012241b1117dc7a2809e4920dea5d5276f6d5840ecee9740a0397610e3e6b461
-    content: Project BLUE BOOK was based at Wright-Patterson Air Force Base near Dayton, Ohio.
-    original_excerpt: Based at Wright-Patterson Air Force Base near Dayton, Ohio
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-        title: Project Blue Book
-        slug: project-blue-book
-      - node_id: acde03ee-7227-486d-854c-9673dd837619
-        title: USA, Ohio, Wright-Patterson Air Force Base
-        slug: ohio-wright-patterson-air-force-base-usa
-    date: null
-    date_end: null
-    location_in_record: char:41727-41781
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 1b8d57da-86b6-4f45-acf5-d60b14f16261
-    claim_hash: 2affcc4b5c5791fa5d5fdfc77191e5b7a870b0efca7564de5b4f3f49710193a7
+    claim_hash: dcc872dd6e8f59ebee6d90795c8cb68ae99321544157fb92bd1923ba9a72dc88
     content: Crashed craft from the 1947 Roswell incident were reportedly dragged to USA, Ohio, Wright-Patterson Air Force
       Base.
     original_excerpt: And we knew that these were crashed crafts that were apparently dragged down to Wright-Patterson Air
@@ -1253,6 +1403,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -1290,6 +1445,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
         title: Immaculate Constellation
@@ -1311,7 +1471,7 @@ claims:
       content_hash: sha256:8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27cd24cdd58
       friendly_name: null
   - claim_id: de5b1435-d2ca-45d9-a876-ac8aa548bcad
-    claim_hash: 581ca3a55599626c8f9600270bb65038d607583b36521a4a2d0eaa68f1f97636
+    claim_hash: 87fa427d1b6f2f9339e70010c1a5c87e9638c58819262cd56a72f4e9b07ab702
     content: USA, Ohio, Wright-Patterson Air Force Base has a historic reputation and has been rumoured to house craft retrieved
       from the 1947 Roswell incident.
     original_excerpt: Wright-Patterson has a historic reputation and has been rumored to house, you know, the crafts that
@@ -1327,6 +1487,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.562
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -1362,6 +1527,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
         title: Arthur Exon
@@ -1399,6 +1569,11 @@ claims:
         - Arthur Exon told Whitley Strieber directly
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.814
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1423,7 +1598,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ab2a2e0c-f9cd-424e-b9c4-dca386c08d1d
-    claim_hash: c658673f687fd2c0b41afe47e2ad01d414812d24fda84069d05cbe09b434aec3
+    claim_hash: e894e386fa6b5064cd469b3caa37c6abd0804ba1648c161d0a0ffbba9999a154
     content: William Neal McCasland is a general who ran the Air Force Research Laboratory (AFRL) at Wright-Patterson Air
       Force Base, the laboratory where the Roswell wreckage was rumoured to have been taken.
     original_excerpt: Neil McCasland, uh, is a general who ran the lab where the Roswell wreckage was rumored to have been
@@ -1439,6 +1614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1483,6 +1663,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.798
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
@@ -1518,6 +1703,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
         title: Arthur Exon
@@ -1556,6 +1746,11 @@ claims:
         - a conversation with Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.738
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1599,6 +1794,11 @@ claims:
         - a conversation with Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
         title: Arthur Exon
@@ -1645,6 +1845,11 @@ claims:
         - a conversation with Whitley Strieber in 1988
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.785
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -1689,6 +1894,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -1730,6 +1940,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -1767,6 +1982,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -1807,6 +2027,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -1851,6 +2076,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.753
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -1892,6 +2122,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -1932,6 +2167,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -1975,6 +2215,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -2016,6 +2261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2052,6 +2302,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.808
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2093,6 +2348,11 @@ claims:
         - told directly to Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2117,7 +2377,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: 7ee501b6-23a3-4c72-be64-b52448e0e1c6
-    claim_hash: 1d707abe4b9d1980321834241794c9aa505bbd65513349470fff6e1435cc77b9
+    claim_hash: 6ec53ef94d93c5512e7a7ed9188fe50310710d974ef40997d2609a59b1adb872
     content: Ross Coulthart states that the Roswell wreckage was allegedly taken to Wright-Patterson Air Force Base, where
       Arthur Ernest Exon was a former commanding general.
     original_excerpt: you were reached out to by a former commanding general of Wright-Patterson Air Force Base, where the
@@ -2133,6 +2393,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
         title: Arthur Exon

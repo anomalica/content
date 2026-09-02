@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: c2312dd26e33196d78124dd8d3b2f90fe7c67fe17f069d22512cde9d273fc102
+brief_hash: ce1f5a5ba0b62c49814b66640de99eb1a1222a3588c2fb683da6d86ac4365b6e
 page:
   kind: entity
   node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
@@ -9,11 +9,21 @@ page:
   claim_count: 55
   claim_count_total: 55
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 55
   tokens_estimated: 8341
   sized_against: 1050000
+entailment:
+  assessed: 55
+  unassessed: 0
+  entails: 40
+  neutral: 14
+  contradicts: 1
+  entailed_by_quote: 20
+  entailed_by_window: 20
+  entailed_by_quote_fraction: 0.364
+  entailed_by_window_fraction: 0.364
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -58,6 +68,11 @@ related_nodes:
     node_type: document
     slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
     shared_claims: 2
+  - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+    title: 1964 Socorro UAP encounter
+    node_type: event
+    slug: 1964-socorro-uap-encounter
+    shared_claims: 2
   - node_id: b0155e35-6757-4f3e-843c-edf49933d920
     title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
     node_type: event
@@ -89,7 +104,7 @@ related_nodes:
     slug: office-of-naval-intelligence
     shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 2
@@ -117,16 +132,6 @@ related_nodes:
     title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
     node_type: event
     slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-    shared_claims: 1
-  - node_id: d453ccde-7f73-40eb-b5fd-32c0b6319f1f
-    title: 1964 Socorro Butane-Tank UAP FBI Report
-    node_type: event
-    slug: 1964-socorro-butane-tank-uap-fbi-report
-    shared_claims: 1
-  - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
-    title: 1964 Socorro UAP encounter
-    node_type: event
-    slug: 1964-socorro-uap-encounter
     shared_claims: 1
   - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
     title: 1996 Brazil Unidentified Flying Object (UFO) crash
@@ -158,11 +163,6 @@ related_nodes:
     node_type: person
     slug: beverly-oliver
     shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
-    shared_claims: 1
   - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
     title: Bruce Maccabee
     node_type: person
@@ -172,6 +172,16 @@ related_nodes:
     title: Bureau of Alcohol, Tobacco, and Firearms
     node_type: organisation
     slug: tobacco-and-firearms-bureau-of-alcohol
+    shared_claims: 1
+  - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
+    title: Church Committee
+    node_type: organisation
+    slug: church-committee
+    shared_claims: 1
+  - node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
+    title: Clarence Kelley
+    node_type: person
+    slug: clarence-kelley
     shared_claims: 1
 claims:
   - claim_id: a4804ba5-3583-4175-a6fc-3ed6853f0bd6
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.692
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1f332ee0-b97e-41af-a02c-7a920f224b93
         title: 1996 Brazil Unidentified Flying Object (UFO) crash
@@ -229,6 +244,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.548
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589ae4ed-e41d-4514-85e7-72038302a442
         title: Floyd K. Haskell
@@ -270,6 +290,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
         title: Cattle mutilations phenomenon
@@ -305,6 +330,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 27dfc73a-0513-4921-b833-54ef9e9fc4c3
         title: Bureau of Alcohol, Tobacco, and Firearms
@@ -344,6 +374,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.559
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a789545b-0778-4fee-80fe-0741297014c2
         title: Mitochondrial Deoxyribonucleic Acid (DNA) hypervariable region I analysis of Peter Khoury's alien hair sample
@@ -380,6 +415,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
         title: Deoxyribonucleic Acid (DNA) profiling
@@ -416,6 +456,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
         title: Beverly Oliver
@@ -454,6 +499,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.551
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
         title: Jack Parsons
@@ -492,6 +542,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -527,6 +582,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
         title: Joseph McMoneagle
@@ -564,6 +624,11 @@ claims:
         - Paris newsmen
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -599,6 +664,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.665
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -619,376 +689,6 @@ claims:
       record_reference: null
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
-  - claim_id: 3a57dade-5e71-4555-8cdb-83d5530d7df4
-    claim_hash: 789cb66b1fb86c06a13877068e84cce133fed29dedbc681565fa1681e6aabd8a
-    content: The Federal Bureau of Investigation and some UAP researchers have dismissed the Majestic-12 documents as an elaborate
-      hoax.
-    original_excerpt: However, the Federal Bureau of Investigation (FBI) and even some UAP researchers have dismissed the
-      documents as an elaborate hoax.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Federal Bureau of Investigation (FBI)
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch14:15850-15976
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b19fdeef-526a-4314-9cbd-ac22e651ba3c
-    claim_hash: 4cf09df9d7a8c1f95ad2abe430a1bf201c6a2e6d2844f8fbb98e868fd3ce3f29
-    content: Raleigh Tafoya Sr was derisive about the 1980 FBI report on cattle mutilations and even more derisive of the
-      investigative ability of the FBI investigator, who he said insulted the intelligence of ranchers who had lost animals
-      to cattle mutilations in the 1970s.
-    original_excerpt: ‘was derisive about the FBI report in 1980 on cattle mutilations and even more derisive of the investigative
-      ability of the FBI investigator . . . who, he said, insulted the intelligence of ranchers who had lost animals to cattle
-      mutilations in the 1970s’.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
-      title: Raleigh Tafoya Sr
-    provenance_chain:
-      origin_kind: speaker
-      origin: Raleigh Tafoya Sr
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
-        title: Raleigh Tafoya Sr
-        slug: raleigh-tafoya-sr
-      - node_id: b0155e35-6757-4f3e-843c-edf49933d920
-        title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
-        slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch15:26843-27091
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ab0d8ddd-9e7d-4c62-b454-d1355da6c018
-    claim_hash: d4f757ac881913e8e2ee708ff1926cdaf5c55dec7ca36c060ffd09cd1fb05e0c
-    content: It is a matter of public record, observed by police, FBI agents and local veterinarians, that there have continued
-      to be thousands of physical evidence reports of suspicious cattle mutilations across a huge swathe of the US for decades.
-    original_excerpt: It is a matter of public record, observed by police, FBI agents and local veterinarians, that there
-      have continued to be thousands of physical evidence reports of what witnesses say are clearly suspicious cattle mutilations
-      across a huge swathe of the US for decades.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch15:3493-3752
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: f9591521-8b12-4e92-842b-8da9721c6b48
-    claim_hash: 32996c4ce8ddcd2369055e65089e44f4ced084de6606a14f9d4805000d6cd689
-    content: An FBI investigation conceded in 1980 that there were cattle mutilation cases that could not be prosaically explained,
-      while concluding without evidence that the mutilations were predominantly the result of natural predation.
-    original_excerpt: An FBI investigation had conceded in 1980 that there were mutilation cases that could not be prosaically
-      explained, concluding, without any evidence, that the mutilations were predominantly the result of natural predation.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Federal Bureau of Investigation (FBI)
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: b0155e35-6757-4f3e-843c-edf49933d920
-        title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
-        slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: '1980'
-    date_end: null
-    location_in_record: ch15:6125-6337
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 7ba807c7-051e-4207-b833-5e8c54f96e55
-    claim_hash: 68f7d4513654c7579ecf43d5de145b5958c00bffc555fccd2c16481db4d209c7
-    content: A 100-agent FBI investigation into suspected human involvement in cattle mutilations, demanded by three US State
-      Attorneys-General, failed to solve the mystery.
-    original_excerpt: A massive 100 agent FBI investigation into suspected human involvement, demanded by three US State Attorneys-General,
-      failed to solve the mystery.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Federal Bureau of Investigation (FBI)
-      relay:
-        - Ben Mezrich
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch15:7652-7790
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 879a7419-3c8d-4c6c-af20-caa0140d273a
-    claim_hash: e425bf02d4ec03ec0ff804928c2c7c8a2587faf2580f09f688cef3d1c8b1ca38
-    content: Ross Coulthart is most sure that in 1950 there was a determined effort by the FBI and the US Air Force to smear
-      businessman and scientist Silas Newton, who was pushing the story of a recovered craft at Aztec, New Mexico.
-    original_excerpt: What I come away most sure about is that in 1950 there was a determined effort by the FBI and the air
-      force to smear businessman and scientist Silas Newton, who was pushing the story of a recovered craft at Aztec.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-      title: Ross Coulthart
-    provenance_chain:
-      origin_kind: speaker
-      origin: Ross Coulthart
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 3b640ddc-58be-44eb-bdf9-2bd0864f2622
-        title: Silas Newton
-        slug: silas-newton
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-        title: Ross Coulthart
-        slug: ross-coulthart
-    date: '1950'
-    date_end: null
-    location_in_record: ch17:14948-15155
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a27a2822-d617-4f37-9a46-41e05813114e
-    claim_hash: f4721a9eefb138e7d46a1639608637a222b3ce87bb6e632f151aeef28fe70c6b
-    content: Sur Novel described Nat Kobitz's facial reaction to seeing the ARV Fluxliner drawing as one of surprise, not
-      alarm, as if he recognised what it was rather than treating it as something to report to the FBI or a national security
-      threat.
-    original_excerpt: '''The look on [Kobitz''] face was kind of like, what are you doing with this? It wasn''t like, call
-      the FBI and arrest this guy, national security or anything like that. It was just kind of like, you know it. You know,''
-      Sur said.'
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
-      title: Sur Novel
-    provenance_chain:
-      origin_kind: speaker
-      origin: Sur Novel
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
-        title: Sur Novel
-        slug: sur-novel
-      - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
-        title: Nat Kobitz
-        slug: nat-kobitz
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-      - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
-        title: Fluxliner alien reproduction vehicle
-        slug: fluxliner-alien-reproduction-vehicle
-    date: null
-    date_end: null
-    location_in_record: ch27:7743-7963
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
-    claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
-    content: Guy Hottel was the head of the FBI's Washington DC field office at the time he wrote the 1950 memo.
-    original_excerpt: The report, from Guy Hottel, the then head of the FBI's Washington DC field office
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
-        title: Guy Hottel
-        slug: guy-hottel
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch8:4509-4585
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4d8fef51-4615-46fc-b29e-f7c58f0996a6
-    claim_hash: 71e821df1e9ce637296cb6eb00368ec428a089bf4f149718b336722ba146c616
-    content: The 1950 Guy Hottel FBI memo remains the most controversial and most popular file in the FBI's archive.
-    original_excerpt: remains the most controversial, and the most popular, file in the FBI's archive
-    claim_type: opinion
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
-        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
-        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch8:4593-4665
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ce17cad1-c452-4f60-ac5f-2b56b1cad793
-    claim_hash: 6f98c0416138c3137daa317ef6dd9b5427c5dae015a29893e7f0a09ea96d47c5
-    content: The FBI's website states that the Hottel report was never confirmed or investigated, and that the memo does not
-      prove the existence of aliens.
-    original_excerpt: the FBI, no doubt jaded by flying saucer conspiracists seizing on the memo, asserts that the Hottel
-      report was never confirmed or investigated, and that the memo does not prove the existence of aliens
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Federal Bureau of Investigation (FBI)
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
-        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
-        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch8:4711-4905
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4bc30ea8-341e-43a9-8249-4edb77a19e6d
     claim_hash: 3f9721c540ce578092fd2dc5c1b5fef184d9f8e7d9fc45b5b7d51518a9b1fd89
     content: David Mahler said that for decades the United States Air Force, Federal Bureau of Investigation, and Central
@@ -1006,6 +706,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 025270b1-d5bc-4fbd-a423-b5e58b124973
         title: David Marler
@@ -1051,6 +756,11 @@ claims:
         - an interviewer's book research
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.489
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
         title: Cattle mutilations phenomenon
@@ -1087,12 +797,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
         slug: ed-dames
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -1127,6 +842,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
@@ -1165,12 +885,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.897
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
         slug: ed-dames
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -1201,6 +926,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 16e1a583-54bc-4965-8ed6-02cb10afeeaf
         title: Jason Derrick Brown
@@ -1221,6 +951,429 @@ claims:
       record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
       content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
       friendly_name: null
+  - claim_id: 3a57dade-5e71-4555-8cdb-83d5530d7df4
+    claim_hash: b3b05624c0818197e3746e5280e0167489158facca5cf3c02be4fb923f34fb20
+    content: The Federal Bureau of Investigation and some UAP researchers have dismissed the Majestic-12 documents as an elaborate
+      hoax.
+    original_excerpt: However, the Federal Bureau of Investigation (FBI) and even some UAP researchers have dismissed the
+      documents as an elaborate hoax.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch14:15850-15976
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b19fdeef-526a-4314-9cbd-ac22e651ba3c
+    claim_hash: 4cf09df9d7a8c1f95ad2abe430a1bf201c6a2e6d2844f8fbb98e868fd3ce3f29
+    content: Raleigh Tafoya Sr was derisive about the 1980 FBI report on cattle mutilations and even more derisive of the
+      investigative ability of the FBI investigator, who he said insulted the intelligence of ranchers who had lost animals
+      to cattle mutilations in the 1970s.
+    original_excerpt: ‘was derisive about the FBI report in 1980 on cattle mutilations and even more derisive of the investigative
+      ability of the FBI investigator . . . who, he said, insulted the intelligence of ranchers who had lost animals to cattle
+      mutilations in the 1970s’.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
+      title: Raleigh Tafoya Sr
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raleigh Tafoya Sr
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9fc0f248-6b0c-4d22-84d9-4176d1aca5a7
+        title: Raleigh Tafoya Sr
+        slug: raleigh-tafoya-sr
+      - node_id: b0155e35-6757-4f3e-843c-edf49933d920
+        title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
+        slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch15:26843-27091
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ab0d8ddd-9e7d-4c62-b454-d1355da6c018
+    claim_hash: d4f757ac881913e8e2ee708ff1926cdaf5c55dec7ca36c060ffd09cd1fb05e0c
+    content: It is a matter of public record, observed by police, FBI agents and local veterinarians, that there have continued
+      to be thousands of physical evidence reports of suspicious cattle mutilations across a huge swathe of the US for decades.
+    original_excerpt: It is a matter of public record, observed by police, FBI agents and local veterinarians, that there
+      have continued to be thousands of physical evidence reports of what witnesses say are clearly suspicious cattle mutilations
+      across a huge swathe of the US for decades.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch15:3493-3752
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f9591521-8b12-4e92-842b-8da9721c6b48
+    claim_hash: 32996c4ce8ddcd2369055e65089e44f4ced084de6606a14f9d4805000d6cd689
+    content: An FBI investigation conceded in 1980 that there were cattle mutilation cases that could not be prosaically explained,
+      while concluding without evidence that the mutilations were predominantly the result of natural predation.
+    original_excerpt: An FBI investigation had conceded in 1980 that there were mutilation cases that could not be prosaically
+      explained, concluding, without any evidence, that the mutilations were predominantly the result of natural predation.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: b0155e35-6757-4f3e-843c-edf49933d920
+        title: 1980 Federal Bureau of Investigation (FBI) cattle mutilation investigation
+        slug: 1980-federal-bureau-of-investigation-fbi-cattle-mutilation-investigation
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: '1980'
+    date_end: null
+    location_in_record: ch15:6125-6337
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7ba807c7-051e-4207-b833-5e8c54f96e55
+    claim_hash: 68f7d4513654c7579ecf43d5de145b5958c00bffc555fccd2c16481db4d209c7
+    content: A 100-agent FBI investigation into suspected human involvement in cattle mutilations, demanded by three US State
+      Attorneys-General, failed to solve the mystery.
+    original_excerpt: A massive 100 agent FBI investigation into suspected human involvement, demanded by three US State Attorneys-General,
+      failed to solve the mystery.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay:
+        - Ben Mezrich
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch15:7652-7790
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 879a7419-3c8d-4c6c-af20-caa0140d273a
+    claim_hash: e425bf02d4ec03ec0ff804928c2c7c8a2587faf2580f09f688cef3d1c8b1ca38
+    content: Ross Coulthart is most sure that in 1950 there was a determined effort by the FBI and the US Air Force to smear
+      businessman and scientist Silas Newton, who was pushing the story of a recovered craft at Aztec, New Mexico.
+    original_excerpt: What I come away most sure about is that in 1950 there was a determined effort by the FBI and the air
+      force to smear businessman and scientist Silas Newton, who was pushing the story of a recovered craft at Aztec.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 3b640ddc-58be-44eb-bdf9-2bd0864f2622
+        title: Silas Newton
+        slug: silas-newton
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: '1950'
+    date_end: null
+    location_in_record: ch17:14948-15155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a27a2822-d617-4f37-9a46-41e05813114e
+    claim_hash: f4721a9eefb138e7d46a1639608637a222b3ce87bb6e632f151aeef28fe70c6b
+    content: Sur Novel described Nat Kobitz's facial reaction to seeing the ARV Fluxliner drawing as one of surprise, not
+      alarm, as if he recognised what it was rather than treating it as something to report to the FBI or a national security
+      threat.
+    original_excerpt: '''The look on [Kobitz''] face was kind of like, what are you doing with this? It wasn''t like, call
+      the FBI and arrest this guy, national security or anything like that. It was just kind of like, you know it. You know,''
+      Sur said.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+      title: Sur Novel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Sur Novel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.643
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
+        title: Sur Novel
+        slug: sur-novel
+      - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
+        title: Nat Kobitz
+        slug: nat-kobitz
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: fb349523-76fb-4f68-ad4c-e11301eb09f8
+        title: Fluxliner alien reproduction vehicle
+        slug: fluxliner-alien-reproduction-vehicle
+    date: null
+    date_end: null
+    location_in_record: ch27:7743-7963
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
+    claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
+    content: Guy Hottel was the head of the FBI's Washington DC field office at the time he wrote the 1950 memo.
+    original_excerpt: The report, from Guy Hottel, the then head of the FBI's Washington DC field office
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
+        title: Guy Hottel
+        slug: guy-hottel
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4509-4585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4d8fef51-4615-46fc-b29e-f7c58f0996a6
+    claim_hash: 71e821df1e9ce637296cb6eb00368ec428a089bf4f149718b336722ba146c616
+    content: The 1950 Guy Hottel FBI memo remains the most controversial and most popular file in the FBI's archive.
+    original_excerpt: remains the most controversial, and the most popular, file in the FBI's archive
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
+        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
+        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4593-4665
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ce17cad1-c452-4f60-ac5f-2b56b1cad793
+    claim_hash: 6f98c0416138c3137daa317ef6dd9b5427c5dae015a29893e7f0a09ea96d47c5
+    content: The FBI's website states that the Hottel report was never confirmed or investigated, and that the memo does not
+      prove the existence of aliens.
+    original_excerpt: the FBI, no doubt jaded by flying saucer conspiracists seizing on the memo, asserts that the Hottel
+      report was never confirmed or investigated, and that the memo does not prove the existence of aliens
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Federal Bureau of Investigation (FBI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
+        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
+        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4711-4905
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d227955c-cd8d-4f91-8eeb-69e89838ebe9
     claim_hash: 5dfef6187bdb88233a682f44fb4fc779bac8acb9dcf31ee47f51ec260744956e
     content: The Central Intelligence Agency and the Federal Bureau of Investigation have sometimes posted unclassified Unidentified
@@ -1237,6 +1390,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1253,12 +1411,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
-    claim_hash: 4b269b9105d305307bdf3b66ef5f0918093025179ebefd456a5a7d8df09df82b
+    claim_hash: dd2434747ee641e35cdab08de0ee559e030033fa1aec08dc86dba6ca8d40ed3b
     content: The Federal Bureau of Investigation investigated the 1964 Lonnie Zamora UAP encounter at Socorro, New Mexico.
     original_excerpt: The Zamora case attracted a plethora of investigators. Local law enforcement, of course. The FBI. The
       US Army. The Air Force.
@@ -1271,6 +1429,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
         title: 1964 Socorro UAP encounter
@@ -1287,12 +1450,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: b7c6650d-8920-404a-9cdd-d6e616f813f7
-    claim_hash: e99bab143272a1a2f2b16c88b48390648a171dc4109169d9c68830e7a0d9bb75
+    claim_hash: 79dfbfc839ef7d973e8abb271dc53631dcbacc7330918495e22378121d285153
     content: Edgar Mitchell's family was among the Roswell families threatened by the Federal Bureau of Investigation (FBI)
       after the 1947 Roswell UAP crash.
     original_excerpt: He once confided to Hal and Eric that his family was among the Roswell families who were threatened
@@ -1310,6 +1473,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1329,12 +1497,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
-    claim_hash: 53d00770e9f2037d1ee68cf1dc15147f73614d54e06a52d185a732ed2e22504d
+    claim_hash: a67ee48f9abf076547a47bf66f37f406bf89083c70c18a1d1259510870198c4c
     content: Federal Bureau of Investigation (FBI) agents visited ranchers in the Roswell, New Mexico region door-to-door
       to deliver the message that anyone who spoke about the 1947 Roswell UAP crash would be killed.
     original_excerpt: 'FBI agents visited ranchers in the region, going door-to-door to deliver the threatening message: if
@@ -1352,6 +1520,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -1371,12 +1544,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 418e41b5-05d8-42dd-9c48-31fbb73a0862
-    claim_hash: c28888f610cd61ad5a082b7e18e37550810fedfa32ccdbf88c6874349f091293
+    claim_hash: 3dd7ab451ce85f80bdc51b2227768032105be39a1dcde1a6593de36833a6269f
     content: In April 1964, the FBI reported finding a downed craft near Socorro, New Mexico, described as "shaped like a
       butane tank" and about as long as a telephone pole, that had narrowly missed a witness's father's farmhouse; the witness
       was deemed "sober and frightened".
@@ -1395,13 +1568,18 @@ claims:
         - a historical report reviewed by Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
         slug: federal-bureau-of-investigation-fbi
-      - node_id: d453ccde-7f73-40eb-b5fd-32c0b6319f1f
-        title: 1964 Socorro Butane-Tank UAP FBI Report
-        slug: 1964-socorro-butane-tank-uap-fbi-report
       - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
         title: USA, New Mexico, Socorro
         slug: new-mexico-socorro-usa
@@ -1414,7 +1592,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1434,6 +1612,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -1447,7 +1630,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1468,6 +1651,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -1484,7 +1672,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1506,6 +1694,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1528,7 +1721,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1552,6 +1745,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1568,7 +1766,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1589,6 +1787,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
         title: United States Department of Energy (DOE)
@@ -1614,7 +1817,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1637,6 +1840,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1659,7 +1867,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1680,6 +1888,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.811
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
         title: Task Force Dagger
@@ -1705,7 +1918,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1726,6 +1939,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31fa0086-0c60-42a7-a1c3-aedeb4e2cf06
         title: Task Force Dagger
@@ -1745,7 +1963,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1765,6 +1983,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1784,7 +2007,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1807,6 +2030,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1835,7 +2063,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1856,6 +2084,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1878,7 +2111,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1898,6 +2131,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
         title: United States military
@@ -1938,6 +2176,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 579e2838-2beb-4f7b-a4fd-9fc791eaa04e
         title: Frank Sturgis
@@ -1979,6 +2222,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
         title: The White House
@@ -2022,6 +2270,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -2030,8 +2283,8 @@ claims:
         title: Bruce Maccabee
         slug: bruce-maccabee
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2067,6 +2320,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2108,6 +2366,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.84
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17219d26-7e0c-4716-9747-c390e5fdc936
         title: Guy Banister
@@ -2148,6 +2411,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2184,6 +2452,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -2221,6 +2494,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -2257,6 +2535,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
         title: Church Committee
@@ -2306,6 +2589,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

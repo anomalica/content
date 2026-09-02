@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: e037cb80f3438eb6c2de334f3f948b2712d07744b2b901bbe615961949442f4c
+brief_hash: 12ac4156bffcaba0fd0be6f0529e769d4fe5c23db6ee2e277ab1963be45b10e2
 page:
   kind: entity
   node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
   node_type: place
   title: USA, District of Columbia, Washington
   slug: district-of-columbia-washington-usa
-  claim_count: 72
-  claim_count_total: 72
+  claim_count: 65
+  claim_count_total: 65
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 72
-  tokens_estimated: 11360
+  claims: 65
+  tokens_estimated: 10289
   sized_against: 1050000
+entailment:
+  assessed: 65
+  unassessed: 0
+  entails: 44
+  neutral: 19
+  contradicts: 2
+  entailed_by_quote: 13
+  entailed_by_window: 31
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.477
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,27 +31,22 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 72
+  unreviewed: 65
 related_nodes:
   - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
     title: Richard C. Hoagland
     node_type: person
     slug: richard-c-hoagland
     shared_claims: 9
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+    title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 8
+    slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
+    shared_claims: 4
   - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
     title: Going Within
     node_type: document
     slug: going-within
-    shared_claims: 4
-  - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
-    title: Harborview Medical Center
-    node_type: organisation
-    slug: harborview-medical-center
     shared_claims: 4
   - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
     title: Shirley MacLaine
@@ -58,20 +63,10 @@ related_nodes:
     node_type: person
     slug: jacques-vallee
     shared_claims: 3
-  - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-    title: Kimberly Clark Sharp
-    node_type: person
-    slug: kimberly-clark-sharp
-    shared_claims: 3
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
     node_type: person
     slug: luis-elizondo
-    shared_claims: 3
-  - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
-    title: Maria
-    node_type: person
-    slug: maria
     shared_claims: 3
   - node_id: b396a2fd-f1e1-4356-941a-5dc6b2379925
     title: National Press Club
@@ -133,6 +128,11 @@ related_nodes:
     node_type: person
     slug: robert-monroe
     shared_claims: 2
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: UK, London
+    node_type: place
+    slug: london-uk
+    shared_claims: 2
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
@@ -158,6 +158,16 @@ related_nodes:
     node_type: event
     slug: 1944-normandy-landings
     shared_claims: 1
+  - node_id: 2913c814-9144-42ef-aa0f-51d1e2dd6618
+    title: 1952 Salem Lights Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1952-salem-lights-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
+  - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+    title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+    node_type: event
+    slug: dc-unidentified-flying-object-ufo-flap-1952-washington
+    shared_claims: 1
   - node_id: b2fbe5b0-23fe-483b-b999-45527a0cdee8
     title: 1952 Washington, D.C. Unidentified Flying Object (UFO) sightings
     node_type: event
@@ -168,10 +178,10 @@ related_nodes:
     node_type: event
     slug: 1961-07-13-cape-cod-hyannis-kennedy-out-of-body-experience-robert-monroe
     shared_claims: 1
-  - node_id: 94aec5f3-f829-438d-b744-7d9cc66edfdc
-    title: 1986-03 press conference on ozone layer depletion
+  - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+    title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
     node_type: event
-    slug: 1986-03-press-conference-on-ozone-layer-depletion
+    slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     shared_claims: 1
 claims:
   - claim_id: 302e3e46-644d-443e-b884-a5ba576fd72d
@@ -189,6 +199,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 40d18355-b10b-4329-80ae-38f03e36ad2d
         title: 1944 Normandy landings
@@ -226,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -266,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -304,6 +329,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.458
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -325,7 +355,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    claim_hash: 7014a78b74ee9b9e2e75d749ee05e5a66bc89171ebb05248828c4133b2f42353
     content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
       help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
     original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
@@ -339,6 +369,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -372,7 +407,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
-    claim_hash: b10f2794b54e717b8c565733fd5d31930a4e5b983ed7b6963b99c8605194d9c7
+    claim_hash: 117703fd676658f0c1be49e3581117096fb53016873827e41699b6e3fa1504d3
     content: The diplomatic version of the Third Secret of Fatima had allegedly been sent by the Vatican to the governments
       of Washington, London, and Moscow during the height of the Cuban Missile Crisis (1962-10) a year before its publication.
     original_excerpt: which had allegedly been sent by the Vatican to the governments of Washington, London, and Moscow during
@@ -386,6 +421,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 134433ac-c317-4826-9edd-5f732f74521c
         title: UK, London
@@ -419,7 +459,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 56067770-abe8-4a87-8bb3-ae139e7f2f75
-    claim_hash: 28c0579d9a29665dbce27af25624e869df54cac91b7dda236d5c48e463b030ca
+    claim_hash: e46c0551a57422272590ab009f8f337764a9d8e99162303ebd7c039bd4752d9a
     content: According to European News, the agreement signed by the foreign ministers of the United Kingdom and Russia and
       the U.S. secretary of state to stop atomic bomb tests was due to intervention by the Vatican.
     original_excerpt: According to the magazine the agreement signed by the foreign ministers of the United Kingdom and Russia,
@@ -433,7 +473,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
@@ -443,9 +491,6 @@ claims:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
         slug: vatican
-      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
-        title: UK
-        slug: uk
       - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
         title: Russia, Moscow
         slug: moscow-russia
@@ -478,6 +523,11 @@ claims:
         - Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a69219c-3b8c-4824-adb9-4f0d7bda13bd
         title: Hannah (Sally's roommate)
@@ -516,6 +566,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c68f24e-3789-4d6e-925c-def676dc00c6
         title: USA, District of Columbia, Dunbar Senior High School
@@ -559,6 +614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 73d4f081-a30f-4212-a93f-f697d6a73051
         title: Mars Observer
@@ -604,6 +664,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
@@ -653,6 +718,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 42ce80ea-3ca5-47e2-91c5-58ca47839fdc
         title: Lynn Bondurant
@@ -696,6 +766,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
         title: National Press Club press conference, Washington DC, 1996-03-21
@@ -738,6 +813,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7cf30d3b-0060-4aca-aab3-c91874d779d6
         title: National Press Club press conference, Washington DC, 1996-03-21
@@ -788,6 +868,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -832,6 +917,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.524
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -874,6 +964,11 @@ claims:
         - National Aeronautics and Space Administration (NASA) and Congressional records
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4d94d590-5dde-4d26-b604-77c201475f05
         title: Kennedy Joint Session of Congress speech, 1961-05-25
@@ -920,6 +1015,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d86b537-9d9e-43e6-a442-674f3bc00e58
         title: Luther A. Smith
@@ -964,6 +1064,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
         title: Joint Chiefs of Staff
@@ -1008,6 +1113,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.705
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8fdb41d6-4a8f-42d0-b077-962820a39d5b
         title: National Press Club press conference, Washington DC, 2007-10
@@ -1055,6 +1165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
         title: Joseph McMoneagle
@@ -1079,7 +1194,7 @@ claims:
       content_hash: sha256:498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4d6dbbe35
       friendly_name: 2013-03-22-ebook-remote-viewing-secrets
   - claim_id: 3c55873f-1a0f-46eb-b9b9-447273a8c987
-    claim_hash: d63cdfeb719a2cf035ecb1e7a8cd335c2af8a93557e62f6d95c3cd6fe883352d
+    claim_hash: d109334ea631b6e8326adcbe0517b3bfeaad81e4f83f77af4b35db908023d594
     content: In March 1986, Whitley Strieber called a press conference of environmental reporters in Washington, D.C. to discuss
       the book he wrote with James Kunetka, Nature's End, and to warn about the ozone layer hole detected over Antarctica.
     original_excerpt: In March I called a dress conference of environmental reporters in Washington, D.C., to discuss a book
@@ -1096,6 +1211,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c03bf56-cce6-4187-ab6f-7b934ff72c8b
         title: Nature's End (1987 book by Whitley Strieber)
@@ -1126,7 +1246,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: a73959da-0e65-4531-939e-9c66d01d3055
-    claim_hash: 4536498d58aa8b80d4ab05d061081d93bb0a50e714e1762f14e30f05b08bcffb
+    claim_hash: 131aa6166cf1f3150ebf9ff2dc5e7af34b51796f49d646d1471b625226e5dd73
     content: Gerald Ford, then a local politician, demanded that full attention be given to what had become known as the Swamp
       Gas scandal, carrying the case to Washington, D.C.
     original_excerpt: Public reaction following the swamp gas statement carried the case to Washington, with help from a then
@@ -1140,6 +1260,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -1147,9 +1272,9 @@ claims:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+        title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
+        slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     date: '1966'
     date_end: null
     location_in_record: ch10:9633-9852
@@ -1164,7 +1289,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 81cd517e-e81e-4c99-9474-87b396f5d6fc
-    claim_hash: 19821816a121c27a0004471ed2e548500b58628a060ce8cda32e6ad3310a5652
+    claim_hash: 45fa1727dde3107fcf45e722f73f28ca7ff2769a664feb68c3eac1099316fa58
     content: On 1959-07-06 in Washington, D.C., three intelligence officers exchanged questions with the alleged space intelligence
       AFFA (alleged entity from Uranus), who answered 'No' to whether Catholics are the Chosen People.
     original_excerpt: Are Catholics the Chosen People? —No. Signed AFFA.
@@ -1177,6 +1302,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -1198,7 +1328,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 8042b65f-5cf0-4da1-9eff-505789ee0eb3
-    claim_hash: 94b5adb2c547e52d8113042b8e1e0a1c020bcce53e2f9f74078202d68df9e531
+    claim_hash: 1e2693d517826fd2a9e3fc1d4b924cfca5c180d3d3aa37bdceb1481ea2fda10f
     content: At 2 P.M. on 1959-07-06, the three men saw a disk-shaped object with clear edges and a dark centre fly over Washington,
       D.C.
     original_excerpt: It was 2 P.M. on that day, July 6, 1959, when the three men saw the disk-shaped object. It flew over
@@ -1212,6 +1342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -1230,7 +1365,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: b99b0591-6824-4c32-aefc-d4f84a27f379
-    claim_hash: 2d54062fe8884c80c685ff5f8dab932dc83c127c3bc27155286ac8d415401432
+    claim_hash: 438785bd75851310f2b6339e65fb5d1554041b5be4633fa9d4329cab5d67a0d6
     content: When the men called the radar centre after seeing the disk-shaped object over Washington, D.C. on 1959-07-06,
       they were told the radar return was blocked in the sector they indicated, for an unknown reason.
     original_excerpt: They called the radar center and were told that, for an unknown reason, the radar return was blocked
@@ -1244,6 +1379,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -1262,7 +1402,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 40c5a454-d3c6-4566-b99e-17fd5b844b6b
-    claim_hash: eeed2dd03e5e669e02b3d946ec9a6ad539cca067d3803ec7d56d072dbab41d50
+    claim_hash: dd0a043c4c1da771ae865767a90b0e171ed27069fbf0adb648f48e1000aabe4a
     content: The memorandum concluded that the leader of the interaction at the Washington, D.C. meeting appeared to be a
       man with a fine analytic mind, whose only motivation in the case was his respect for Commander Curtis.
     original_excerpt: The leader of the interaction, it was stated, appeared to be a man with a fine analytic mind. His only
@@ -1276,6 +1416,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -1297,7 +1442,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 3bbd6042-3372-4f73-9fa0-0736ddc2f486
-    claim_hash: 3b30e5a51b21f2507faa311a6198e44cb943509ae669d8e2665e0deebdf6da30
+    claim_hash: 60732d0ac45528ff6a78f2ba26d87dc4c6261fd78d62d71d14b6f179f623cf0e
     content: The memorandum concluded that Mr. Talman was 'a man with both feet firmly on the ground' and that there was no
       question that the object seen over Washington, D.C. on 1959-07-06 was a flying saucer.
     original_excerpt: Talman was said to be “a man with both feet firmly on the ground.” “*There is no question,”* the author
@@ -1311,6 +1456,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 026e65f7-b55e-4253-af5e-316e24f9dc65
         title: Mr. Talman
@@ -1332,7 +1482,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: d25e5206-49a9-4408-bac3-eddc5f054c68
-    claim_hash: c57763c472fd2deb6ab4f25a9d43d9d9bcd86b853a88aed73222f29613dfdc11
+    claim_hash: 3ea828e60ed2ab0854d7c8bd14e05e7eaf038738f6f4f6743ba5f8852e0722f3
     content: When three intelligence officers were told in 1959 that World War III would not take place and were shown a flying
       saucer over Washington, D.C., they were in direct communication with the entity AFFA, whose Enochian name means 'empty.'
     original_excerpt: When the three intelligence officers were being told in 1959 that World War III would not take place,
@@ -1349,6 +1499,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.765
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -1370,7 +1525,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: f0c333b7-4dde-4b2d-bccf-cf71f74501f1
-    claim_hash: 22eef1b74a0f36518849792489993d286cd20085b4cb81492bc6d1c7645a7ef2
+    claim_hash: 95f1d433606a2a3caab008619955f3e043fd0191a4fb09f0cb702984900d14f9
     content: Shortly after the turn of the twentieth century, a cult similar to that of Mrs. Keech flourished in Washington,
       D.C., called the Order of the Initiates of Tibet, presided over by Miss Marsland, daughter of George Marsland, founder
       of the American Bankers' Association.
@@ -1386,6 +1541,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 858fac07-91b9-482f-a116-71a4b41c69c8
         title: Mrs. Keech
@@ -1419,7 +1579,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 961f6571-cbee-4389-8882-197e6e935a55
-    claim_hash: 5acb026109122adc49ee4d41836b5ba3c68e1e73902d2ee5ce29395971934aa0
+    claim_hash: 0f34cf56ea69bb0e27770a6e79bddc0724b5d9f4bf4741bbd4fd920b11fe75ec
     content: On 1959-07-06 in Washington, D.C., a man referred to as Mr. Talman had an experience that caused him to contact
       Colonel Friend, then head of Project Blue Book, concerning Talman's personal experiences with psychic phenomena connected
       with UFOs.
@@ -1437,6 +1597,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 026e65f7-b55e-4253-af5e-316e24f9dc65
         title: Mr. Talman
@@ -1464,7 +1629,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: d46ab3c6-3bd1-4542-be73-cc799e1e65eb
-    claim_hash: 15bebda3d891cae39df32a2c9f45201e9c19db1db0a49f2014f6e7b215d53b80
+    claim_hash: da440be1e88ffbdf89336089f340e9763a5224d410967d2cb43bc748cd04e7ae
     content: During the 1961-07-13 Cape Cod Hyannis Kennedy out-of-body experience, the tall man asked Robert Monroe how they
       could be sure he was loyal to the United States, and Robert Monroe replied that proper information on him was in Washington,
       D.C.
@@ -1481,6 +1646,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.736
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -1505,7 +1675,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: b63d70fc-4dab-47a6-8b00-8377eeadc411
-    claim_hash: 7bc1bbc51d839286ba4fe982282cd2606d0f8fdfef9aadb17830f886629c82a6
+    claim_hash: c16aeb883f00d855fb2932d26555a5cb698279560728036e2a4a53c91038db00
     content: In the fall of 1970, Charles T. Tart briefly visited Robert Monroe in Virginia while en route to a conference
       in Washington, D.C.
     original_excerpt: The second puzzling “experiment” occurred in the fall of 1970 when I briefly visited Mr. Monroe in Virginia,
@@ -1521,6 +1691,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.65
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -1548,7 +1723,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: c25c0d7e-52f3-4401-ae81-b42defd12680
-    claim_hash: 5c02526f39c5908f1296fc060e1692e15c7cae86b3994c06aa5367d6e20672b1
+    claim_hash: 17571951868d2eb414e50e797dff89a1352e1e0c410bab165a85f56b29d04e98
     content: Bob Fish lives in northern California but occasionally travels to Washington, D.C. for business activities.
     original_excerpt: I live in northern Cal but occasionally travel to DC for business activities
     claim_type: administrative
@@ -1562,6 +1737,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
         title: Robert Fish
@@ -1582,216 +1762,8 @@ claims:
       record_reference: https://wikileaks.org/podesta-emails/emailid/18724
       content_hash: sha256:b0efee0dd10f7ec50a5155952d1fbaa0c7c924e913d49d032c59f46ba03c85f5
       friendly_name: 2015-03-05-web-re-leslie-kean-book-comment
-  - claim_id: 58a3d59f-ee90-47a1-896a-242d9cb0692b
-    claim_hash: c6a4a49ba2131c4c6fac32930d28301a6cbca876dde41ee1f96bf594937667e0
-    content: In 1977-04, a middle-aged Mexican migrant worker named Maria came to Seattle to visit friends, suffered a massive
-      heart attack upon arrival, and was admitted through the Harborview emergency room to the coronary care unit.
-    original_excerpt: My life was forever changed that April by a middle-aged Mexican migrant worker named Maria. She had
-      come to Seattle to visit friends, but upon arrival suffered a massive heart attack, and was admitted through the Harborview
-      emergency room to the coronary care unit.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-      title: Kimberly Clark Sharp
-    provenance_chain:
-      origin_kind: speaker
-      origin: Kimberly Clark Sharp
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
-        title: Maria
-        slug: maria
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
-        title: Harborview Medical Center
-        slug: harborview-medical-center
-    date: 1977-04
-    date_end: null
-    location_in_record: ch15:1212-1472
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: da050590-b4e1-4cd7-8ee2-18e5f5cb8881
-    claim_hash: 15c760d25207dce9ede2f7834b74c9603bc897c63f860f6feed6fcb98b0b9e74
-    content: Kimberly Clark Sharp was a pioneer in the fields of critical care and coronary care social work during her ten
-      years at Harborview Medical Center in Seattle, Washington.
-    original_excerpt: She was a pioneer in the fields of critical care and coronary care social work during her ten years
-      at Harborview Medical Center in Seattle, Washington
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
-        title: Harborview Medical Center
-        slug: harborview-medical-center
-      - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-        title: Kimberly Clark Sharp
-        slug: kimberly-clark-sharp
-    date: null
-    date_end: null
-    location_in_record: ch15:189-330
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: d9ef87b7-f889-4785-b104-f32aee926c8f
-    claim_hash: 041634dd2196c630346714f86f9686bbda93f247f3b43dc26711ea8b9aa5af5c
-    content: In 1977, Kimberly Clark Sharp was a young social worker employed at Harborview Medical Center in Seattle, a large
-      trauma centre with a busy coronary care unit and medical intensive care unit.
-    original_excerpt: n 1977, I was a young social worker employed at Harborview Medical Center in Seattle, a large trauma
-      center with a busy coronary care unit and medical intensive care unit.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-      title: Kimberly Clark Sharp
-    provenance_chain:
-      origin_kind: speaker
-      origin: Kimberly Clark Sharp
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
-        title: Harborview Medical Center
-        slug: harborview-medical-center
-      - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-        title: Kimberly Clark Sharp
-        slug: kimberly-clark-sharp
-    date: '1977'
-    date_end: null
-    location_in_record: ch15:949-1115
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: 63a430ca-2d1f-4bfc-81bd-6cb971f0dbd7
-    claim_hash: 82d9bd9ad4b1bc927bcb78fa1ca065dfddf3f153a7f34f1c0851026d6295557a
-    content: Pim van Lommel considers the veridical out-of-body experience of Maria in Seattle to provide the strongest evidence
-      for the existence of consciousness outside and separate from the body.
-    original_excerpt: In fact, veridical OBEs, such as that of the well-known case of Maria in Seattle, provide the strongest
-      evidence for the existence of consciousness outside and separate from the body.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
-      title: Pim van Lommel
-    provenance_chain:
-      origin_kind: speaker
-      origin: Pim van Lommel
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1fedd9a7-6f2a-4382-99f8-476772ecaaa0
-        title: Veridical out-of-body perception
-        slug: veridical-out-of-body-perception
-      - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
-        title: Maria
-        slug: maria
-      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-        title: Out-of-Body Experience (OBE)
-        slug: out-of-body-experience-obe
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: null
-    date_end: null
-    location_in_record: ch18:15527-15705
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
-  - claim_id: a55ffe5a-6314-4e13-88ef-9008d9fa8a3f
-    claim_hash: 3d850b4d36bab36af959be24dd8e4b0fc886a196df93e3ed88acf1392a85b90c
-    content: At the Harborview Medical Center in Seattle, Washington, social worker Kimberly Clark Sharp discovered a tennis
-      shoe on a ledge as requested by her patient Maria.
-    original_excerpt: The Harborview Medical Center in Seattle, Washington, where social worker Kimberly Sharp discovered
-      the tennis shoe on the ledge as requested by her patient Maria.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-      title: Kimberly Clark Sharp
-    provenance_chain:
-      origin_kind: speaker
-      origin: Kimberly Clark Sharp
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 054adb6a-2c86-4d01-8999-e96edd2dd4b1
-        title: Maria's tennis shoe (Harborview ledge, 1977)
-        slug: 1977-marias-tennis-shoe-harborview-ledge
-      - node_id: 7d618f64-556b-469c-b75e-3a7b103bdb81
-        title: Maria
-        slug: maria
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: c15dfad3-798d-4293-bff3-8db89a8b57c4
-        title: Harborview Medical Center
-        slug: harborview-medical-center
-      - node_id: e9ec8062-a1f2-498c-b930-2490afa4185e
-        title: Kimberly Clark Sharp
-        slug: kimberly-clark-sharp
-    date: null
-    date_end: null
-    location_in_record: ch21:4364-4521
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 36c2dba5-ece0-44af-9712-8c06665f8ce8
-      record_title: Surviving Death
-      record_date: '2017-03-07'
-      record_reference: null
-      content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
-      friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: e53200a2-98ef-4e4b-b044-c25e310d72dc
-    claim_hash: 3208fbed219e4773f254c9054e51cdb9143304b21d6e71d2c154e127b7680abb
+    claim_hash: 483c4f616ce6355aa2398a97935fa66d7f218a42ae7e1eb81389d3aadf202e89
     content: A few days after the experiment worked, Tyler D. and the professor were called to Washington, D.C. and were interrogated
       in a basement by a two-star general demanding to know who came up with the idea for the experiment.
     original_excerpt: A few days after the experiment worked, me and the professor were called to Washington, DC.... a two-star
@@ -1807,6 +1779,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -1828,7 +1805,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 4ca93e5e-7af9-4227-b64b-6034322e896b
-    claim_hash: 6f1b03068256290d5c9ef7d9ab1855b161df5e0358eedc96d7d45bbf48c6d72c
+    claim_hash: 70fe728d3b5b8feee0c2b47dcd7d1522156390fa7cc3af5cb49bce4fedb65928
     content: Three reporters shared bylines on the 2017 New York Times story about Luis Elizondo, including freelancer Leslie
       Kean, who met Elizondo in a nondescript Washington, D.C. hotel where he sat with his back to the wall, keeping an eye
       on the door.
@@ -1843,6 +1820,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1870,7 +1852,7 @@ claims:
       content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
       friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
   - claim_id: a768d42f-51cd-4189-9420-46c88f54a07e
-    claim_hash: e08e834f3f27da8abfcc5a11e479cec2f4537dbd8d81d924f391156ddda6ca13
+    claim_hash: d57830a3f908323153d0dbaae180492ad8269ed9ca12697bea008f9ba48efca6
     content: Bryan Bender considers Luis Elizondo and Chris Mellon part of an unmatched team of former high-level government
       officials to come forward on the UFO issue, noting they still have security clearances and networks in Washington, D.C.
     original_excerpt: “If you were trying to come up with the A-team of former, high-level government officials who would
@@ -1888,6 +1870,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
         title: Bryan Bender
@@ -1914,651 +1901,8 @@ claims:
       record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
       content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
       friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
-  - claim_id: a680d3de-2c29-4450-a857-53fee5decf1a
-    claim_hash: e2f4dac981bf80628314569ea4c9f0340dc82426263b24a4d827646e7be7107c
-    content: Daniel Sheehan was General Counsel for the US National Jesuit Headquarters in Washington DC at the time he was
-      asked by Marcia Smith to help.
-    original_excerpt: Sheehan was General Counsel for the US National Jesuit Headquarters in Washington DC at the time, but
-      had already cemented an illustrious legal career as a federal civil rights attorney
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2362b25b-e09b-469c-a38e-fbcc69386ba0
-        title: United States National Jesuit Headquarters
-        slug: united-states-national-jesuit-headquarters
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
-        title: Daniel Sheehan
-        slug: daniel-sheehan
-    date: null
-    date_end: null
-    location_in_record: ch11:16053-16230
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cc3fb47c-85f3-4281-aac1-4824e59b2a65
-    claim_hash: af5615f474dbb0d2e67a378b22794e20f313487d49fb46ec2ee403a41a987ce4
-    content: After the 1986 Japan Airlines Flight 1628 UAP sighting, a meeting was held at the Federal Aviation Administration's
-      Washington office in which Central Intelligence Agency agents confiscated all the radar evidence.
-    original_excerpt: Overwhelming evidence in support of an official cover-up in the JAL sighting was exposed when, after
-      the sighting, a meeting was held at the Federal Aviation Administration's Washington office in which Central Intelligence
-      Agency (CIA) agents confiscated all the radar evidence.
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: John Callahan
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
-        title: Federal Aviation Administration (FAA)
-        slug: federal-aviation-administration-faa
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: null
-    date_end: null
-    location_in_record: ch12:14534-14803
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: af29f31b-3b75-452d-a162-81356fcbd668
-    claim_hash: 8016fd0481c87934548aba92eef20cd6a554b20122e60f74cace36fdb565a073
-    content: For a decade from 1988 to 1998, Charles Richard 'Dick' D'Amato served first as chief counsel then as minority
-      counsel for the Senate Appropriations Committee in Washington DC under Senator Robert Byrd.
-    original_excerpt: For a decade from 1988 to 1998, Charles Richard 'Dick' D'Amato served first as the chief counsel then
-      as minority counsel for the powerful Senate Appropriations Committee in Washington DC under Senator Robert Byrd.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 392444cc-6103-4c81-9cb7-0198efa8c3f7
-        title: Robert Byrd
-        slug: robert-byrd
-      - node_id: 6b218c85-53fe-4838-ac4d-7bcbb32c6caa
-        title: United States Senate Appropriations Committee
-        slug: united-states-senate-appropriations-committee
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: '1988'
-    date_end: null
-    location_in_record: ch13:32731-32940
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
-    claim_hash: f1609f2438a6c2a6a75f39dff8ebcbc82bb52280fdba70f7d6ae369195139758
-    content: Christopher Mellon was a staffer to the United States Senate Select Committee on Intelligence in Washington DC.
-    original_excerpt: A staffer to the powerful US Senate Select Committee on Intelligence in Washington DC
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: null
-    date_end: null
-    location_in_record: ch13:7678-7761
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
-    claim_hash: 1c0c1b4622e2eac373a2c01aa2be82f2c7586c2cbdb7a735277527e89cceb39f
-    content: On entering the White House in 1993, both Bill Clinton and Hillary Clinton took a strong interest in UAPs.
-    original_excerpt: What is known is that, on entering the White House in 1993, both Bill and Hillary Clinton took a strong
-      interest in UAPs
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
-        title: Hillary Clinton
-        slug: hillary-clinton
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: '1993'
-    date_end: null
-    location_in_record: ch14:1424-1540
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ad53c3a8-daf2-4a4b-a0d1-56c772e9b4fb
-    claim_hash: 5b959b8ed1e11bed51ea4c515779cdd2d079fc5201e5f6ad8dfcf814c15f66b2
-    content: On 2017-10-11, Tom DeLonge took to a stage in Seattle, Washington to officially announce, as president and CEO,
-      the formation of To The Stars Academy of Arts & Sciences (TTSA).
-    original_excerpt: On 11 October 2017, Tom DeLonge took to a Seattle stage to officially announce, as president and CEO,
-      the formation of To The Stars Academy of Arts & Sciences (TTSA).
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-        title: 2017 To The Stars Academy of Arts & Sciences launch event
-        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-        title: Tom DeLonge
-        slug: tom-delonge
-    date: '2017-10-11'
-    date_end: null
-    location_in_record: ch21:123-283
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 73bd4b36-456d-4244-a492-d64f58851790
-    claim_hash: 6473545d7477c0ccc5802dc46516bd8e73d711404b6d7190cf3c74318131a799
-    content: The surviving Roswell alien was allegedly placed onboard a US Air Force transport aircraft on a flight to Washington
-      DC, and the plane disappeared during the flight with all aboard, including the alien, in mysterious circumstances.
-    original_excerpt: one day, the ET was placed onboard a US Air Force transport aircraft on a flight to Washington DC. But
-      the plane and all aboard, including its alien occupant, disappeared during the flight in mysterious and disturbing circumstances.
-    claim_type: hearsay
-    attestation: third_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: a person claiming to be the grandson of a US Army veteran who took part in a Roswell retrieval team
-      relay:
-        - the grandfather's diary
-        - letters from the anonymous army sergeant 'A Friend' to Art Bell
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: null
-    date_end: null
-    location_in_record: ch23:2032-2250
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 01049525-027c-4d44-9bc8-e3d9033752e4
-    claim_hash: bdb767d5a4df4baa9d873420155b17adf2760e14adb4ebf460edce04a130640d
-    content: Ross Coulthart finds it hard to believe that such a preposterous secret could be kept inside the leak-prone and
-      gossipy bureaucracy of Washington, but considers that if the Admiral Wilson Memo (EWD Notes) is a hoax, it is an extremely
-      clever one.
-    original_excerpt: It also strains my cynical journalist’s brain to contemplate the possibility that such a preposterous
-      secret could have been kept inside the notoriously leak-prone and gossipy bureaucracy frequenting the Potomac Washington
-      swamp. But then, if it is a hoax, it is an extremely clever one.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-      title: Ross Coulthart
-    provenance_chain:
-      origin_kind: speaker
-      origin: Ross Coulthart
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
-        title: The Admiral Wilson Memo
-        slug: the-admiral-wilson-memo
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: null
-    date_end: null
-    location_in_record: ch26:24455-24738
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 6c0ba0f4-48cb-4435-b61c-579d72f91e4e
-    claim_hash: e13569038ba2b7c6c9ee5303bed4298cd22c76b01af007274a17100d95a4f9ce
-    content: Three days after the 1952 Salem Lights sighting, Washington DC was buzzed by unknown objects in a massive Unidentified
-      Aerial Phenomena (UAP) flap.
-    original_excerpt: Three days later, Washington DC was buzzed by unknown objects in a massive Unidentified Aerial Phenomenon
-      flap.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '1952-07-19'
-    date_end: null
-    location_in_record: ch37:1039-1145
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
-    claim_hash: bdf187800b34c48ad8f7b9a1cd55963f9ca8fa34ec48c3c68e341d7a6494ecbd
-    content: In May 1947, Rear Admiral Roscoe Hillenkoetter was settling into his new job as Director of Central Intelligence
-      in Washington DC.
-    original_excerpt: About the same time as the southern Australia sightings, in May 1947, on the other side of the planet
-      in Washington DC, Rear Admiral Roscoe Hillenkoetter was settling into his new job as the Director of Central Intelligence,
-      which later that year became the Central Intelligence Agency (CIA).
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
-        title: Roscoe Hillenkoetter
-        slug: roscoe-hillenkoetter
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: 1947-05
-    date_end: null
-    location_in_record: ch7:5036-5323
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: bc2e1826-05db-4e8e-8331-ddd0120b5193
-    claim_hash: c308242721dbe04dfdf0b3307e6b6596d483d0728b0a6d467412ac810d311f48
-    content: 'J. Allen Hynek said two schools of thought dominated the air force''s approach to UAP investigations: one that
-      they should be taken seriously as probable extra-terrestrial craft, and a debunking view eventually embraced by top
-      officials in Washington DC.'
-    original_excerpt: 'He said two schools of thought dominated the approach to UAPs in their investigations: the first acknowledged
-      that they should be taken very seriously as probable ET craft and the second was the debunking view eventually embraced
-      by the top brass in Washington DC'
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-      title: J. Allen Hynek
-    provenance_chain:
-      origin_kind: speaker
-      origin: J. Allen Hynek
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-        title: J. Allen Hynek
-        slug: j-allen-hynek
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: null
-    date_end: null
-    location_in_record: ch8:12205-12466
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 9c47ce30-b15e-4d0e-ad48-6ddefc27335d
-    claim_hash: 9dfc5a70cf4fa5dd47d73143dea7223357170c353e03cf60d5dada3c7ab39e64
-    content: In July 1952, two pilots witnessed a flat and round flying saucer-shaped object hovering over the Atomic Energy
-      Commission's Hanford nuclear bomb factory in Richland, Washington.
-    original_excerpt: In July 1952, two pilots witnessed a flat and round flying saucer–shaped object hovering over the highly
-      secure facility
-    claim_type: observation
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: two unnamed pilots
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
-        title: United States Atomic Energy Commission
-        slug: united-states-atomic-energy-commission
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: 1952-07
-    date_end: null
-    location_in_record: ch8:15524-15636
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 01d78fe1-10aa-48a3-b233-02528480725a
-    claim_hash: d0beb874404c962a42e40cd8a3d383c4ce3d9780d07c31137901f16c096a6af7
-    content: On 19 July 1952, radar operators at Washington DC's National Airport detected a large formation of UAPs near
-      Andrews Air Force Base.
-    original_excerpt: on 19 July, radar operators across on the east coast at Washington DC's National Airport detected a
-      large formation of UAPs near Andrews Air Force Base
-    claim_type: observation
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: unnamed radar operators at Washington DC's National Airport
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '1952-07-19'
-    date_end: null
-    location_in_record: ch8:16090-16237
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: df9fe004-6339-4395-8cda-281472f55962
-    claim_hash: f355fe8ef3f00b322a6d4959bdc7e1946afa2fff15bda4275e059eefdbe1cda1
-    content: Pilots flying over Washington DC during the 1952 UFO flap saw the objects as orange lights, hovering over the
-      White House and the Capitol building.
-    original_excerpt: Pilots flying over the capital saw the objects as orange lights, hovering right over America's seats
-      of power – the White House and the Capitol building
-    claim_type: observation
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: unnamed pilots flying over Washington DC
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '1952-07-19'
-    date_end: null
-    location_in_record: ch8:16623-16767
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: f7d040b7-1d02-4486-880f-22856253f8c1
-    claim_hash: 3c65fe4d356b08f254c712ef90248bdda2eadfc219d3d048ede00a8c64dda64f
-    content: Exactly one week after the first sighting, on 26 July 1952, a dozen UAPs were again tracked on radar and seen
-      by pilots flying slowly over Washington DC.
-    original_excerpt: On 26 July, a dozen UAPs were again tracked on radar and seen by pilots flying slowly over the capital
-    claim_type: observation
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: unnamed radar operators and pilots over Washington DC
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '1952-07-26'
-    date_end: null
-    location_in_record: ch8:16934-17029
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
-    claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
-    content: Guy Hottel was the head of the FBI's Washington DC field office at the time he wrote the 1950 memo.
-    original_excerpt: The report, from Guy Hottel, the then head of the FBI's Washington DC field office
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
-        title: Guy Hottel
-        slug: guy-hottel
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch8:4509-4585
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 099197f5-dd40-48bb-8c25-0dcf0ed011e3
-    claim_hash: 0148448c5b5725b76503f230de4ebc20e56f62b59bf7deecb9da6daafe84b796
-    content: While at a conference in Washington DC in September 1950, Wilbert Smith read the newly published book Behind
-      the Flying Saucers by Frank Scully.
-    original_excerpt: While at a conference in Washington DC in September that year, he read the just published Behind the
-      Flying Saucers book by Frank Scully
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
-        title: Frank Scully
-        slug: frank-scully
-      - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
-        title: Wilbert Smith
-        slug: wilbert-smith
-      - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
-        title: Behind the Flying Saucers
-        slug: behind-the-flying-saucers
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: 1950-09
-    date_end: null
-    location_in_record: ch8:6764-6898
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3225efc5-1fc3-47b6-b908-9bc20b50f42d
-    claim_hash: f12e7c7d98e45c4ecc34b701cdaaf23a9b807c19a1c28ea34603993592606d68
+    claim_hash: 26771ddbcfa1bc6e4de65bdb5acfa4f206e5a3484a4aa31571241e82f26d6a22
     content: Leslie Kean was summoned to a meeting in a hotel lobby in Washington, D.C., where Christopher Mellon was present,
       for the purpose of introducing her to Luis Elizondo.
     original_excerpt: Chris Mellon was there, and of course the purpose of it was for me to meet Lou Elizondo, so he was there.
@@ -2574,6 +1918,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -2601,7 +1950,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: e4107499-d164-4fa0-a043-ea16d5b4a3c1
-    claim_hash: 1147820e89222d19dacd0e2d64f952bdeb049a22422e443ffa83944dcf79c0db
+    claim_hash: e71c49e7e6912e7b14fc95401b43a114114d16ffee8662261abf7b191de2110e
     content: David Charles Grusch is represented by Charles McCullough III, senior partner of the Compass Rose Legal Group
       in Washington, D.C.
     original_excerpt: Grusch is represented by Charles McCullough III, senior partner of the Compass Rose Legal Group in Washington
@@ -2614,6 +1963,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -2641,7 +1995,7 @@ claims:
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: fd0ea385-ff45-48b1-964b-6dcb43b2db11
-    claim_hash: cad796d409258305101c20170a2bcdb4ad3e15c57b8883d5771a87a79e2a48b4
+    claim_hash: 1e1b51d1520139048c601f74b43bff2dc90225861ff7526c1fd135d0480ac78c
     content: Jonathan Grey considers the hypothesis that the United States alone has bullied other nations into maintaining
       secrecy about non-human intelligence for nearly a century to remain the primary consensus among the public at large.
     original_excerpt: Grey noted that the hypothesis that the United States alone has bullied the other nations into maintaining
@@ -2657,6 +2011,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a5fb3fe-29d2-4e3c-bd17-afdcde2b6339
         title: Jonathan Grey
@@ -2678,7 +2037,7 @@ claims:
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: 8c95c4e9-b027-49bb-a09a-4a443831aaf5
-    claim_hash: 887ee6c61d936125bbb048b40338ad878825e86652b4bfcb9651cea2319f85a9
+    claim_hash: a2dbd775174c8dcf75fc6a9b0076fc288a4468da3b5d5ae2a2ed35ac7bf1e412
     content: The House Subcommittee on National Security, the Border, and Foreign Affairs met on 2023-07-26 at 10:06 a.m.
       in room 2154 of the Rayburn Office Building in Washington, D.C., with Glenn Grothman presiding as Chairman.
     original_excerpt: The Subcommittee met, pursuant to notice, at 10:06 a.m., in room 2154, Rayburn Office Building, Hon.
@@ -2692,6 +2051,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.686
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
         title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
@@ -2715,11 +2079,653 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: a680d3de-2c29-4450-a857-53fee5decf1a
+    claim_hash: e2f4dac981bf80628314569ea4c9f0340dc82426263b24a4d827646e7be7107c
+    content: Daniel Sheehan was General Counsel for the US National Jesuit Headquarters in Washington DC at the time he was
+      asked by Marcia Smith to help.
+    original_excerpt: Sheehan was General Counsel for the US National Jesuit Headquarters in Washington DC at the time, but
+      had already cemented an illustrious legal career as a federal civil rights attorney
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 2362b25b-e09b-469c-a38e-fbcc69386ba0
+        title: United States National Jesuit Headquarters
+        slug: united-states-national-jesuit-headquarters
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: fe68fb63-77de-4c67-8021-e4b9e520ed6a
+        title: Daniel Sheehan
+        slug: daniel-sheehan
+    date: null
+    date_end: null
+    location_in_record: ch11:16053-16230
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cc3fb47c-85f3-4281-aac1-4824e59b2a65
+    claim_hash: 3b7224195dd5bf4db3c1bd0e04af3fba8c0606156d8ee492bc6cf0674fb9ede1
+    content: After the 1986 Japan Airlines Flight 1628 UAP sighting, a meeting was held at the Federal Aviation Administration's
+      Washington office in which Central Intelligence Agency agents confiscated all the radar evidence.
+    original_excerpt: Overwhelming evidence in support of an official cover-up in the JAL sighting was exposed when, after
+      the sighting, a meeting was held at the Federal Aviation Administration's Washington office in which Central Intelligence
+      Agency (CIA) agents confiscated all the radar evidence.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: John Callahan
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
+      - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+        title: Federal Aviation Administration (FAA)
+        slug: federal-aviation-administration-faa
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: ch12:14534-14803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: af29f31b-3b75-452d-a162-81356fcbd668
+    claim_hash: 8016fd0481c87934548aba92eef20cd6a554b20122e60f74cace36fdb565a073
+    content: For a decade from 1988 to 1998, Charles Richard 'Dick' D'Amato served first as chief counsel then as minority
+      counsel for the Senate Appropriations Committee in Washington DC under Senator Robert Byrd.
+    original_excerpt: For a decade from 1988 to 1998, Charles Richard 'Dick' D'Amato served first as the chief counsel then
+      as minority counsel for the powerful Senate Appropriations Committee in Washington DC under Senator Robert Byrd.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 392444cc-6103-4c81-9cb7-0198efa8c3f7
+        title: Robert Byrd
+        slug: robert-byrd
+      - node_id: 6b218c85-53fe-4838-ac4d-7bcbb32c6caa
+        title: United States Senate Appropriations Committee
+        slug: united-states-senate-appropriations-committee
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: '1988'
+    date_end: null
+    location_in_record: ch13:32731-32940
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
+    claim_hash: f1609f2438a6c2a6a75f39dff8ebcbc82bb52280fdba70f7d6ae369195139758
+    content: Christopher Mellon was a staffer to the United States Senate Select Committee on Intelligence in Washington DC.
+    original_excerpt: A staffer to the powerful US Senate Select Committee on Intelligence in Washington DC
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:7678-7761
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5e2d2d7b-6470-4d6a-87c6-e95a892c2b19
+    claim_hash: de2601b6c9ad8713083d6b3ab5491fe2de2f9d66cf0ec3c04cf477a4e00c8c98
+    content: On entering the White House in 1993, both Bill Clinton and Hillary Clinton took a strong interest in UAPs.
+    original_excerpt: What is known is that, on entering the White House in 1993, both Bill and Hillary Clinton took a strong
+      interest in UAPs
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
+        title: Hillary Clinton
+        slug: hillary-clinton
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: '1993'
+    date_end: null
+    location_in_record: ch14:1424-1540
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 73bd4b36-456d-4244-a492-d64f58851790
+    claim_hash: 6473545d7477c0ccc5802dc46516bd8e73d711404b6d7190cf3c74318131a799
+    content: The surviving Roswell alien was allegedly placed onboard a US Air Force transport aircraft on a flight to Washington
+      DC, and the plane disappeared during the flight with all aboard, including the alien, in mysterious circumstances.
+    original_excerpt: one day, the ET was placed onboard a US Air Force transport aircraft on a flight to Washington DC. But
+      the plane and all aboard, including its alien occupant, disappeared during the flight in mysterious and disturbing circumstances.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be the grandson of a US Army veteran who took part in a Roswell retrieval team
+      relay:
+        - the grandfather's diary
+        - letters from the anonymous army sergeant 'A Friend' to Art Bell
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch23:2032-2250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 01049525-027c-4d44-9bc8-e3d9033752e4
+    claim_hash: bdb767d5a4df4baa9d873420155b17adf2760e14adb4ebf460edce04a130640d
+    content: Ross Coulthart finds it hard to believe that such a preposterous secret could be kept inside the leak-prone and
+      gossipy bureaucracy of Washington, but considers that if the Admiral Wilson Memo (EWD Notes) is a hoax, it is an extremely
+      clever one.
+    original_excerpt: It also strains my cynical journalist’s brain to contemplate the possibility that such a preposterous
+      secret could have been kept inside the notoriously leak-prone and gossipy bureaucracy frequenting the Potomac Washington
+      swamp. But then, if it is a hoax, it is an extremely clever one.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
+        title: The Admiral Wilson Memo
+        slug: the-admiral-wilson-memo
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: ch26:24455-24738
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6c0ba0f4-48cb-4435-b61c-579d72f91e4e
+    claim_hash: 77f42541f468a2eb2d83f3dab21c5dea3db83172d34b4cef5b1148af4e80555f
+    content: Three days after the 1952 Salem Lights sighting, Washington DC was buzzed by unknown objects in a massive Unidentified
+      Aerial Phenomena (UAP) flap.
+    original_excerpt: Three days later, Washington DC was buzzed by unknown objects in a massive Unidentified Aerial Phenomenon
+      flap.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 2913c814-9144-42ef-aa0f-51d1e2dd6618
+        title: 1952 Salem Lights Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1952-salem-lights-unidentified-aerial-phenomena-uap-sighting
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+        title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+        slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
+    date: '1952-07-19'
+    date_end: null
+    location_in_record: ch37:1039-1145
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 81697f7d-8545-4d1e-8a38-632f67d8c68b
+    claim_hash: bdf187800b34c48ad8f7b9a1cd55963f9ca8fa34ec48c3c68e341d7a6494ecbd
+    content: In May 1947, Rear Admiral Roscoe Hillenkoetter was settling into his new job as Director of Central Intelligence
+      in Washington DC.
+    original_excerpt: About the same time as the southern Australia sightings, in May 1947, on the other side of the planet
+      in Washington DC, Rear Admiral Roscoe Hillenkoetter was settling into his new job as the Director of Central Intelligence,
+      which later that year became the Central Intelligence Agency (CIA).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+        title: Roscoe Hillenkoetter
+        slug: roscoe-hillenkoetter
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: 1947-05
+    date_end: null
+    location_in_record: ch7:5036-5323
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bc2e1826-05db-4e8e-8331-ddd0120b5193
+    claim_hash: c308242721dbe04dfdf0b3307e6b6596d483d0728b0a6d467412ac810d311f48
+    content: 'J. Allen Hynek said two schools of thought dominated the air force''s approach to UAP investigations: one that
+      they should be taken seriously as probable extra-terrestrial craft, and a debunking view eventually embraced by top
+      officials in Washington DC.'
+    original_excerpt: 'He said two schools of thought dominated the approach to UAPs in their investigations: the first acknowledged
+      that they should be taken very seriously as probable ET craft and the second was the debunking view eventually embraced
+      by the top brass in Washington DC'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+      title: J. Allen Hynek
+    provenance_chain:
+      origin_kind: speaker
+      origin: J. Allen Hynek
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: ch8:12205-12466
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 01d78fe1-10aa-48a3-b233-02528480725a
+    claim_hash: e267d48994baeb1962754449eb96059f05cc5a7125082dc9255d34ce474bd2ca
+    content: On 19 July 1952, radar operators at Washington DC's National Airport detected a large formation of UAPs near
+      Andrews Air Force Base.
+    original_excerpt: on 19 July, radar operators across on the east coast at Washington DC's National Airport detected a
+      large formation of UAPs near Andrews Air Force Base
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed radar operators at Washington DC's National Airport
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+        title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+        slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
+    date: '1952-07-19'
+    date_end: null
+    location_in_record: ch8:16090-16237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: df9fe004-6339-4395-8cda-281472f55962
+    claim_hash: 90525b9e782a31d17007fc1ab78fd6ffb26add649102648fe1acb3a99df5b3c2
+    content: Pilots flying over Washington DC during the 1952 UFO flap saw the objects as orange lights, hovering over the
+      White House and the Capitol building.
+    original_excerpt: Pilots flying over the capital saw the objects as orange lights, hovering right over America's seats
+      of power – the White House and the Capitol building
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed pilots flying over Washington DC
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+        title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+        slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
+    date: '1952-07-19'
+    date_end: null
+    location_in_record: ch8:16623-16767
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f7d040b7-1d02-4486-880f-22856253f8c1
+    claim_hash: 1a4de82d674c6998010e4653fb4637219fb456556e1a568cc4b75f9e1344dd13
+    content: Exactly one week after the first sighting, on 26 July 1952, a dozen UAPs were again tracked on radar and seen
+      by pilots flying slowly over Washington DC.
+    original_excerpt: On 26 July, a dozen UAPs were again tracked on radar and seen by pilots flying slowly over the capital
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: unnamed radar operators and pilots over Washington DC
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+        title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+        slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
+    date: '1952-07-26'
+    date_end: null
+    location_in_record: ch8:16934-17029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bda76c77-8f53-4fae-969b-f4f841e94a4c
+    claim_hash: 2f14b42c4ce98f34e02d9e70d2d31e5da9ed5da341cb62a7edac2e0f80ed3522
+    content: Guy Hottel was the head of the FBI's Washington DC field office at the time he wrote the 1950 memo.
+    original_excerpt: The report, from Guy Hottel, the then head of the FBI's Washington DC field office
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 19a378eb-9e49-4fbf-957e-8c7080da2ad4
+        title: Guy Hottel
+        slug: guy-hottel
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch8:4509-4585
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 099197f5-dd40-48bb-8c25-0dcf0ed011e3
+    claim_hash: 0148448c5b5725b76503f230de4ebc20e56f62b59bf7deecb9da6daafe84b796
+    content: While at a conference in Washington DC in September 1950, Wilbert Smith read the newly published book Behind
+      the Flying Saucers by Frank Scully.
+    original_excerpt: While at a conference in Washington DC in September that year, he read the just published Behind the
+      Flying Saucers book by Frank Scully
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 2f8cffec-0159-478d-b8e3-20129f4e29f6
+        title: Frank Scully
+        slug: frank-scully
+      - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+        title: Wilbert Smith
+        slug: wilbert-smith
+      - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+        title: Behind the Flying Saucers
+        slug: behind-the-flying-saucers
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: 1950-09
+    date_end: null
+    location_in_record: ch8:6764-6898
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4ef2fd6f-363d-4ede-9a52-0190ccc40a80
-    claim_hash: 8918df2d682e0961cda6c3494d4244939f40224c092198c4ba33031e91004be7
+    claim_hash: 4fe86ada4e2928ccc028b9fa2094ca4484e0550f960fcb53c20dd19c4cc27307
     content: After an increase in UFO sightings in 1952, particularly those that gained widespread attention over the Washington,
       D.C. area during that summer, Central Intelligence Agency (CIA) Deputy Director for Intelligence Robert Amory Jr. tasked
       the CIA Office of Scientific Intelligence's (OSI) Physics and Electronics Division to review UFO cases.
@@ -2735,6 +2741,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -2762,11 +2773,11 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 8ae92692-3bd9-4069-a995-4810989e11bb
-    claim_hash: 765fa6c05389775db5ce7b3f88456b76445c5a8bf7bc572478f12518524985d1
+    claim_hash: bd9ec7a15db6d084ef223dd1982eb62047854e9aa867552775fd126ca5c27018
     content: The 2024 United States congressional hearing on UAPs (13 November) was the second congressional hearing on Unidentified
       Aerial Phenomena held in Washington, D.C.
     original_excerpt: What you are looking at right now is the second congressional hearing on UAPs in Washington, D.C.
@@ -2779,6 +2790,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2803,7 +2819,7 @@ claims:
       content_hash: sha256:4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b172d5591
       friendly_name: null
   - claim_id: f67b2a27-764b-4d43-987d-7d2f31ce0598
-    claim_hash: bc39bea6ddc41a89c04cc188a4ef83c91309dbe1974a7eb07174c3dcdda1c78b
+    claim_hash: d29348932ded271e4ce1e2979a5a6384ff5a3ab324ca31fb7aa92be46a65d000
     content: During the 1952 Washington, D.C. UFO flap, press headlines read "saucers swarm over capital".
     original_excerpt: the press went wild with the headlines reading saucers swarm over capital
     claim_type: administrative
@@ -2815,13 +2831,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+        title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+        slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     date: 1952-07
     date_end: null
     location_in_record: 00:06:58.4-00:07:02.9
@@ -2852,6 +2873,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2895,6 +2921,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8103e54b-3c46-43a4-b5e0-93a7437f9436
         title: Smedley Butler
@@ -2936,6 +2967,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
@@ -2978,6 +3014,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.802
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
@@ -3008,7 +3049,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
-    claim_hash: fb9fa3191a43816fc01b339ed326ab9cbca3429ba7c30b48e64e1cf447efc93a
+    claim_hash: 4d3a5fae8105dd3e2d6efec0b3230d42fed8d7a929623372652bda7d7d13ab03
     content: An experiencer present at the Washington DC meeting described in Shirley MacLaine's Going Within claimed she
       was part of an alien hybrid programme and that her foetus went missing three months into the pregnancy, according to
       Jesse Michels.
@@ -3027,6 +3068,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -3073,6 +3119,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b706134-940a-4110-809b-ae3c42dcc2f4
         title: Hans-Adam II

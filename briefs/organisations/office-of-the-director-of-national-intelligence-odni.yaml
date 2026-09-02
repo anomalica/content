@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: c82353d7057321f4f233b8aeeeff2f1cd2af2ce366f0986ecbd1218dd46df202
+brief_hash: 3f55ec00ddd96f1d1bb99025dfb8ac0d51be586e196c8a6be66346f2cec3cc0a
 page:
   kind: entity
   node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
@@ -9,11 +9,21 @@ page:
   claim_count: 47
   claim_count_total: 47
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 47
   tokens_estimated: 7818
   sized_against: 1050000
+entailment:
+  assessed: 47
+  unassessed: 0
+  entails: 41
+  neutral: 3
+  contradicts: 3
+  entailed_by_quote: 15
+  entailed_by_window: 26
+  entailed_by_quote_fraction: 0.319
+  entailed_by_window_fraction: 0.553
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -123,11 +133,6 @@ related_nodes:
     node_type: organisation
     slug: us-senate-select-committee-on-intelligence
     shared_claims: 2
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
-    node_type: project
-    slug: unidentified-aerial-phenomena-task-force-uaptf
-    shared_claims: 2
   - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
     title: All-domain Anomaly Resolution Office (AARO)
     node_type: organisation
@@ -173,9 +178,14 @@ related_nodes:
     node_type: person
     slug: james-r-clapper
     shared_claims: 1
+  - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+    title: Liberation Times
+    node_type: organisation
+    slug: liberation-times
+    shared_claims: 1
 claims:
   - claim_id: 01b8ace2-f4da-4ade-a479-5bf2b2fd0d42
-    claim_hash: 545cf6aca6807bd1c098ede0382b5f7969c2e545412861de40e167442f04a88d
+    claim_hash: ca2111a244387c5d32a64681e7ce4fe34153629726e6b68f7b1f22ff1374167a
     content: The Cultural Knowledge Consortium (CKC) is a Department of Naval Intelligence (DNI) directed task to develop
       and facilitate access, storage, analysis and collaboration while supporting Department of Defense (DoD) and Combat Command
       (COCOM) requirements.
@@ -192,6 +202,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.562
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1ec5f56f-f6d2-44fc-bf33-867e0b9ee390
         title: Combat Command (COCOM)
@@ -219,82 +234,6 @@ claims:
       record_reference: https://apps.dtic.mil/sti/tr/pdf/ADA568628.pdf
       content_hash: sha256:be0c3e98efc520700596801e7aa4ab046d6146f8cdb40c7eefdcd23b1fab985b
       friendly_name: 2012-05-pdf-conference-report-cultural-and-linguistic-advancement-for
-  - claim_id: 1a20249e-4ace-493b-aa19-c91da85eb9f7
-    claim_hash: c26d25261bc46e4a4410a15493cb2936c019c004301ab463c8085a2384cb6c62
-    content: Luis Elizondo was a former career counter-intelligence officer with the Defence Department, who most recently
-      worked out of the office of the Director of National Intelligence.
-    original_excerpt: Luis Elizondo was a former career counter-intelligence officer with the Defence Department, who worked
-      most recently out of the office of the Director of National Intelligence.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: unattributed narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-    date: null
-    date_end: null
-    location_in_record: ch24:8112-8275
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
-    claim_hash: 43d1d54f79b79cc35ba6574a5930df720002b4955ee6ee74ac542bb19521e322
-    content: Christopher Mellon believed North American Aerospace Defense Command (NORAD) did not include in the Office of
-      the Director of National Intelligence (ODNI) report any of the thousands of 'Uncorrelated Tracks' that its radars identify
-      each year over North America.
-    original_excerpt: It is my understanding that NORAD did not include in the ODNI report any of the thousands of "Uncorrelated
-      Tracks" that its radars identify each year over North America.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
-        title: North American Aerospace Defense Command (NORAD)
-        slug: north-american-aerospace-defense-command-norad
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-    date: null
-    date_end: null
-    location_in_record: ch29:22868-23029
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
     claim_hash: fbe7d61bfd4cc4dbfaed5ddfbc4418f2e1db28b709877092cb296ad09ae125a6
     content: The US Senate's Intelligence Committee ordered the Director of National Intelligence and the Secretary of Defense
@@ -310,6 +249,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -352,6 +296,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -399,6 +348,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -416,7 +370,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 00112eb9-acc7-43ba-a313-163a0c0fb926
@@ -435,6 +389,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -452,9 +411,415 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 1a20249e-4ace-493b-aa19-c91da85eb9f7
+    claim_hash: c26d25261bc46e4a4410a15493cb2936c019c004301ab463c8085a2384cb6c62
+    content: Luis Elizondo was a former career counter-intelligence officer with the Defence Department, who most recently
+      worked out of the office of the Director of National Intelligence.
+    original_excerpt: Luis Elizondo was a former career counter-intelligence officer with the Defence Department, who worked
+      most recently out of the office of the Director of National Intelligence.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch24:8112-8275
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4a16b3e4-90df-403c-8ecf-f16a11424492
+    claim_hash: 43d1d54f79b79cc35ba6574a5930df720002b4955ee6ee74ac542bb19521e322
+    content: Christopher Mellon believed North American Aerospace Defense Command (NORAD) did not include in the Office of
+      the Director of National Intelligence (ODNI) report any of the thousands of 'Uncorrelated Tracks' that its radars identify
+      each year over North America.
+    original_excerpt: It is my understanding that NORAD did not include in the ODNI report any of the thousands of "Uncorrelated
+      Tracks" that its radars identify each year over North America.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: ch29:22868-23029
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
+    claim_hash: b63b012802fe67a78337139e7c95b51d8a4a204c07e891a2518c01892b87ae98
+    content: According to the Office of the Director of National Intelligence's Preliminary Assessment on Unidentified Aerial
+      Phenomena, UAP are objects that are not immediately identifiable and lack a single explanation.
+    original_excerpt: 'According to the Office of the Director of National Intelligence''s Preliminary Assessment on UAP,
+      UAP are objects that are not immediately identifiable, lack a single explanation, and fall into one of five potential
+      explanatory categories: airborne clutter, natural atmospheric phenomena, U.S. Government or industry developmental programs,
+      foreign adversary systems, and a catchall "other" category.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Preliminary Assessment on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.549
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:4256-4647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
+    claim_hash: 28ad49c1834f0e6d7b8ef5cd93b87a36f0346eb44566a52502eb6b60fea49674
+    content: 'The Office of the Director of National Intelligence''s Preliminary Assessment on Unidentified Aerial Phenomena
+      states that UAP fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena,
+      U.S. Government or industry developmental programs, foreign adversary systems, and a catchall "other" category.'
+    original_excerpt: '...fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena,
+      U.S. Government or industry developmental programs, foreign adversary systems, and a catchall "other" category.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Preliminary Assessment on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:4440-4647
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
+    claim_hash: baed3b8d3f96a31442a8bdf293f9091807e0abc907f558db7b1fcdc0efa5bb15
+    content: In June 2021, the UAP Task Force (UAPTF) and the Office of the Director of National Intelligence (ODNI) issued
+      the congressionally mandated Preliminary Assessment on Unidentified Aerial Phenomena.
+    original_excerpt: In June 2021, the UAPTF and the Office of the Director of National Intelligence issued the congressionally
+      mandated Preliminary Assessment on UAP, which stated that UAP reporting data are largely inconclusive, as well as a
+      consolidation of reports across the U.S. Government is inconsistent.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 868bce53-3091-453e-9401-1980adc195dd
+        title: Unidentified Anomalous Phenomena (UAP) Task Force (UAPTF)
+        slug: unidentified-anomalous-phenomena-uap-task-force-uaptf
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: 2021-06
+    date_end: null
+    location_in_record: char:6426-6704
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
+    claim_hash: 694c6e5b5a8fb8cd9611c6a93730c429e3eb14260669bd1cb4e11d687f0284de
+    content: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office
+      of the Director of National Intelligence (ODNI), in consultation with the Secretary of Defense, to submit an intelligence
+      assessment of the threat posed by UAP and to report on the progress the Unidentified Aerial Phenomena Task Force (UAPTF)
+      had made in understanding this threat.
+    original_excerpt: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed
+      the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an
+      intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding
+      this threat.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Senate Report 116-233
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.449
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
+        title: Intelligence Authorization Act for Fiscal Year 2021
+        slug: intelligence-authorization-act-for-fiscal-year-2021
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 6606efec-699d-49cf-a109-c439cebf5471
+        title: Senate Report 116-233
+        slug: senate-report-116-233
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+    date: null
+    date_end: null
+    location_in_record: char:65262-65604
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
+    claim_hash: 03122ae1e393504e6df6da5738010e2755c7da1c38055814c84c5a55b91a3bdd
+    content: Consistent with congressional direction, the All-Domain Anomaly Resolution Office (AARO) provides quarterly reports,
+      semiannual briefings, and an annual report to the United States Congress in coordination with the Office of the Director
+      of National Intelligence (ODNI).
+    original_excerpt: Consistent with congressional direction, AARO provides quarterly reports, semiannual briefings, and
+      an annual report to Congress in coordination with the ODNI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.708
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:70175-70329
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 7d56d186-56f3-45c9-9823-e259eaae6666
+    claim_hash: c57bb67efbb23b92ae71176c9771ab036234c1c11fb9bd9d670bb7aa736798ab
+    content: On 2023-01-12, the Office of the Director of National Intelligence (ODNI) submitted the 2022 Annual Report on
+      Unidentified Aerial Phenomena to the United States Congress.
+    original_excerpt: on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to Congress.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2022 Annual Report on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e1f95e58-faec-4498-b3e0-468529965e45
+        title: 2022 Annual Report on Unidentified Aerial Phenomena
+        slug: 2022-annual-report-on-unidentified-aerial-phenomena
+    date: '2023-01-12'
+    date_end: null
+    location_in_record: char:70348-70447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: cd7533a6-f671-4183-8421-b83cf2290fba
+    claim_hash: 0bbcb63ba6c202d1ca950748505f468efd94989984df9218beeb6dc43be3b50e
+    content: The 510 total UAP reports in the 2022 Annual Report on Unidentified Aerial Phenomena included the 144 UAP reports
+      covered during the 17 years of reporting in the Office of the Director of National Intelligence's (ODNI) preliminary
+      assessment, as well as 247 new reports and 119 reports that were subsequently discovered or reported.
+    original_excerpt: This included the 144 UAP reports covered during the 17 years of reporting included in the ODNI's preliminary
+      assessment, as well as 247 new reports and 119 reports that subsequently were discovered or reported.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 2022 Annual Report on Unidentified Aerial Phenomena
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: e1f95e58-faec-4498-b3e0-468529965e45
+        title: 2022 Annual Report on Unidentified Aerial Phenomena
+        slug: 2022-annual-report-on-unidentified-aerial-phenomena
+    date: null
+    date_end: null
+    location_in_record: char:70618-70820
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 60ffab77-82cf-441a-ad9a-cfe09ba7a51b
     claim_hash: b034169402c92d0fb9ece2d85948b157aa5ec9d996c93421141d621d2fd3fcf1
     content: In 2010, Devon Woods, who previously served as a senior leader at the Office of the Director of National Intelligence
@@ -472,6 +837,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -491,7 +861,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -512,6 +882,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.778
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
         title: Devon Woods
@@ -531,7 +906,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -552,6 +927,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
         title: Devon Woods
@@ -571,7 +951,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -591,6 +971,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -610,7 +995,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -631,6 +1016,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -647,7 +1037,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -665,6 +1055,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -681,7 +1076,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -703,6 +1098,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -728,295 +1128,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
-    claim_hash: b63b012802fe67a78337139e7c95b51d8a4a204c07e891a2518c01892b87ae98
-    content: According to the Office of the Director of National Intelligence's Preliminary Assessment on Unidentified Aerial
-      Phenomena, UAP are objects that are not immediately identifiable and lack a single explanation.
-    original_excerpt: 'According to the Office of the Director of National Intelligence''s Preliminary Assessment on UAP,
-      UAP are objects that are not immediately identifiable, lack a single explanation, and fall into one of five potential
-      explanatory categories: airborne clutter, natural atmospheric phenomena, U.S. Government or industry developmental programs,
-      foreign adversary systems, and a catchall "other" category.'
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Preliminary Assessment on Unidentified Aerial Phenomena
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-    date: null
-    date_end: null
-    location_in_record: char:4256-4647
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
-        Anomalous Phenomena," August 15, 2023
-      record_date: '2024-01-24'
-      record_reference: null
-      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
-  - claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
-    claim_hash: 28ad49c1834f0e6d7b8ef5cd93b87a36f0346eb44566a52502eb6b60fea49674
-    content: 'The Office of the Director of National Intelligence''s Preliminary Assessment on Unidentified Aerial Phenomena
-      states that UAP fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena,
-      U.S. Government or industry developmental programs, foreign adversary systems, and a catchall "other" category.'
-    original_excerpt: '...fall into one of five potential explanatory categories: airborne clutter, natural atmospheric phenomena,
-      U.S. Government or industry developmental programs, foreign adversary systems, and a catchall "other" category.'
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Preliminary Assessment on Unidentified Aerial Phenomena
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-    date: null
-    date_end: null
-    location_in_record: char:4440-4647
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
-        Anomalous Phenomena," August 15, 2023
-      record_date: '2024-01-24'
-      record_reference: null
-      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
-  - claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
-    claim_hash: a604dcd7ca69e7e84406fa77aad636481077fe8e2b46cd3bb6fdb0c253626253
-    content: In June 2021, the UAP Task Force (UAPTF) and the Office of the Director of National Intelligence (ODNI) issued
-      the congressionally mandated Preliminary Assessment on Unidentified Aerial Phenomena.
-    original_excerpt: In June 2021, the UAPTF and the Office of the Director of National Intelligence issued the congressionally
-      mandated Preliminary Assessment on UAP, which stated that UAP reporting data are largely inconclusive, as well as a
-      consolidation of reports across the U.S. Government is inconsistent.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-        title: Unidentified Aerial Phenomena Task Force (UAPTF)
-        slug: unidentified-aerial-phenomena-task-force-uaptf
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-    date: 2021-06
-    date_end: null
-    location_in_record: char:6426-6704
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
-        Anomalous Phenomena," August 15, 2023
-      record_date: '2024-01-24'
-      record_reference: null
-      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
-  - claim_id: 88f21ca9-0b1e-4f7f-a587-95a20c388204
-    claim_hash: 694c6e5b5a8fb8cd9611c6a93730c429e3eb14260669bd1cb4e11d687f0284de
-    content: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed the Office
-      of the Director of National Intelligence (ODNI), in consultation with the Secretary of Defense, to submit an intelligence
-      assessment of the threat posed by UAP and to report on the progress the Unidentified Aerial Phenomena Task Force (UAPTF)
-      had made in understanding this threat.
-    original_excerpt: Senate Report 116-233, accompanying the Intelligence Authorization Act for Fiscal Year 2021, directed
-      the Office of the Director of National Intelligence (ODNI) in consultation with the Secretary of Defense to submit an
-      intelligence assessment of the threat posed by UAP and to report on the progress the UAPTF had made in understanding
-      this threat.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Senate Report 116-233
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 02e24822-765a-4ee4-bed8-a005c2713f66
-        title: Intelligence Authorization Act for Fiscal Year 2021
-        slug: intelligence-authorization-act-for-fiscal-year-2021
-      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-        title: Unidentified Aerial Phenomena Task Force (UAPTF)
-        slug: unidentified-aerial-phenomena-task-force-uaptf
-      - node_id: 6606efec-699d-49cf-a109-c439cebf5471
-        title: Senate Report 116-233
-        slug: senate-report-116-233
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-    date: null
-    date_end: null
-    location_in_record: char:65262-65604
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: f4752996-d097-401d-ab3f-3d608104c9b7
-    claim_hash: 03122ae1e393504e6df6da5738010e2755c7da1c38055814c84c5a55b91a3bdd
-    content: Consistent with congressional direction, the All-Domain Anomaly Resolution Office (AARO) provides quarterly reports,
-      semiannual briefings, and an annual report to the United States Congress in coordination with the Office of the Director
-      of National Intelligence (ODNI).
-    original_excerpt: Consistent with congressional direction, AARO provides quarterly reports, semiannual briefings, and
-      an annual report to Congress in coordination with the ODNI.
-    claim_type: administrative
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: All-Domain Anomaly Resolution Office (AARO)
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-        title: United States Congress
-        slug: united-states-congress
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-        title: All-domain Anomaly Resolution Office (AARO)
-        slug: all-domain-anomaly-resolution-office-aaro
-    date: null
-    date_end: null
-    location_in_record: char:70175-70329
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 7d56d186-56f3-45c9-9823-e259eaae6666
-    claim_hash: c57bb67efbb23b92ae71176c9771ab036234c1c11fb9bd9d670bb7aa736798ab
-    content: On 2023-01-12, the Office of the Director of National Intelligence (ODNI) submitted the 2022 Annual Report on
-      Unidentified Aerial Phenomena to the United States Congress.
-    original_excerpt: on January 12, 2023, the ODNI submitted the 2022 Annual Report on Unidentified Aerial Phenomena to Congress.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 2022 Annual Report on Unidentified Aerial Phenomena
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-        title: United States Congress
-        slug: united-states-congress
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-      - node_id: e1f95e58-faec-4498-b3e0-468529965e45
-        title: 2022 Annual Report on Unidentified Aerial Phenomena
-        slug: 2022-annual-report-on-unidentified-aerial-phenomena
-    date: '2023-01-12'
-    date_end: null
-    location_in_record: char:70348-70447
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: cd7533a6-f671-4183-8421-b83cf2290fba
-    claim_hash: 0bbcb63ba6c202d1ca950748505f468efd94989984df9218beeb6dc43be3b50e
-    content: The 510 total UAP reports in the 2022 Annual Report on Unidentified Aerial Phenomena included the 144 UAP reports
-      covered during the 17 years of reporting in the Office of the Director of National Intelligence's (ODNI) preliminary
-      assessment, as well as 247 new reports and 119 reports that were subsequently discovered or reported.
-    original_excerpt: This included the 144 UAP reports covered during the 17 years of reporting included in the ODNI's preliminary
-      assessment, as well as 247 new reports and 119 reports that subsequently were discovered or reported.
-    claim_type: measurement
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 2022 Annual Report on Unidentified Aerial Phenomena
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
-        title: Office of the Director of National Intelligence (ODNI)
-        slug: office-of-the-director-of-national-intelligence-odni
-      - node_id: e1f95e58-faec-4498-b3e0-468529965e45
-        title: 2022 Annual Report on Unidentified Aerial Phenomena
-        slug: 2022-annual-report-on-unidentified-aerial-phenomena
-    date: null
-    date_end: null
-    location_in_record: char:70618-70820
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 45334181-cfe9-4519-b7d2-5cbc55e0418d
     claim_hash: dcd96ea3f0e8fc2d23ed240337d4a2d242d7d2902fdfa83c7be6c033fc4f16f1
     content: David Grusch will use his expertise to support Eric Burlison and help the United States Congress restore full
@@ -1038,6 +1153,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3cba540c-c46f-42fc-8265-e97e17cc3d3d
         title: United States Department of Justice (DOJ)
@@ -1086,6 +1206,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1123,6 +1248,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1164,6 +1294,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
         title: The White House
@@ -1207,6 +1342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1241,6 +1381,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1279,6 +1424,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -1324,6 +1474,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -1364,6 +1519,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
         title: Sean Kirkpatrick
@@ -1404,6 +1564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.879
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1437,6 +1602,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -1477,6 +1647,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1511,6 +1686,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.859
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
         title: Director's Initiatives Group (DIG)
@@ -1554,6 +1734,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.64
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 20328e3c-bc7e-4529-82d9-3e7b5bcac165
         title: Director's Initiatives Group (DIG)
@@ -1595,6 +1780,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1640,6 +1830,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -1677,6 +1872,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1713,6 +1913,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
         title: Sensitive Compartmented Information Facility (SCIF)
@@ -1747,6 +1952,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
         title: Sensitive Compartmented Information Facility (SCIF)
@@ -1782,6 +1992,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1821,6 +2036,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1861,6 +2081,11 @@ claims:
         - Liberation Times
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.548
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1904,6 +2129,11 @@ claims:
         - Liberation Times
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1939,6 +2169,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.535
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
@@ -1978,6 +2213,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -2017,6 +2257,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper

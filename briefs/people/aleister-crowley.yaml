@@ -9,11 +9,21 @@ page:
   claim_count: 24
   claim_count_total: 24
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 24
   tokens_estimated: 3130
   sized_against: 1050000
+entailment:
+  assessed: 24
+  unassessed: 0
+  entails: 22
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 8
+  entailed_by_window: 14
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.583
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -140,6 +150,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -182,6 +197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -222,6 +242,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -254,6 +279,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -289,6 +319,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.504
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -326,6 +361,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -364,6 +404,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -405,6 +450,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -446,6 +496,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.524
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -482,6 +537,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.643
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -515,6 +575,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.716
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -548,6 +613,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -590,6 +660,11 @@ claims:
         - a letter to Aleister Crowley
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -630,6 +705,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2bc776a8-dbd0-416c-92e1-9543f4156b26
         title: Paul Rydeen
@@ -671,6 +751,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -710,6 +795,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -749,6 +839,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.49
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -789,6 +884,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.631
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -830,6 +930,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -867,6 +972,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -900,6 +1010,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -933,6 +1048,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -965,6 +1085,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -1002,6 +1127,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley

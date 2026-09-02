@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: dd3b9a876e7474f92e53b285162333234d21b2cc8052628e43aecc04dc2a8a2a
+brief_hash: eff54e1362e6fa78ebc86c07cc32ea582d88379e4bca969d4c6331bcec458252
 page:
   kind: entity
   node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
@@ -9,11 +9,21 @@ page:
   claim_count: 53
   claim_count_total: 53
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 53
   tokens_estimated: 7871
   sized_against: 1050000
+entailment:
+  assessed: 53
+  unassessed: 0
+  entails: 25
+  neutral: 28
+  contradicts: 0
+  entailed_by_quote: 21
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.396
+  entailed_by_window_fraction: 0.075
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,7 +48,7 @@ related_nodes:
     node_type: person
     slug: barack-obama
     shared_claims: 6
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -83,6 +93,11 @@ related_nodes:
     node_type: person
     slug: victor-borisovich-netyksho
     shared_claims: 3
+  - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+    title: William McCasland
+    node_type: person
+    slug: william-mccasland
+    shared_claims: 3
   - node_id: 58fec0aa-60f1-424f-a896-4fab810b562f
     title: Center for American Progress
     node_type: organisation
@@ -102,11 +117,6 @@ related_nodes:
     title: Lockheed Martin Skunk Works
     node_type: organisation
     slug: lockheed-martin-skunk-works
-    shared_claims: 2
-  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-    title: Neil McCasland
-    node_type: person
-    slug: neil-mccasland
     shared_claims: 2
   - node_id: 3afaa632-5c7b-42e6-a549-54cf733101e4
     title: Russian General Staff Main Intelligence Directorate (GRU)
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.667
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -227,6 +242,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.791
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -263,6 +283,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -301,6 +326,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
         title: Milia Fisher
@@ -332,7 +362,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -354,6 +384,11 @@ claims:
         - 2015 WikiLeaks release
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -373,7 +408,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -394,6 +429,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -413,7 +453,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -433,6 +473,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -452,7 +497,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -472,6 +517,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -488,7 +538,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -508,6 +558,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -524,7 +579,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -549,6 +604,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -565,7 +625,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -587,6 +647,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
         title: RC-135 reconnaissance aircraft
@@ -612,7 +677,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -640,6 +705,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.893
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -662,7 +732,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -680,6 +750,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -696,7 +771,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -717,6 +792,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -733,12 +813,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 12340195-1080-4fa6-94bd-8fb2123d8392
-    claim_hash: 824dc16c97987cc9c618688b6d391ee338a2608907a8b7bcb56ce8f7009b3e28
+    claim_hash: a195a070201592e22ab81bc27d758556854f643b734489972c740ad8b4a5230b
     content: John Podesta was a political consultant who served as President Bill Clinton's Chief of Staff in the White House
       from 1998 to 2001.
     original_excerpt: John Podesta, a political consultant who served as President Clinton’s Chief of Staff in the White House
@@ -752,11 +832,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
@@ -771,7 +856,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -788,6 +873,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -804,12 +894,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: c5d92a41-e368-42fe-b2fb-763f561d9c5e
-    claim_hash: 08038dc04940258844b78011f750edfe457f7476e4965695b0631d35726b3bab
+    claim_hash: 33509b8e3394e4632f5c126b1908193e0a1425d99d5a82b538153e2429d195e7
     content: In 2002, shortly after leaving the Clinton White House, John Podesta supported a lawsuit fighting to get government
       records released on the 1965 UAP incident in Kecksburg, Pennsylvania.
     original_excerpt: In 2002, shortly after leaving the Clinton White House, he supported a lawsuit fighting to get government
@@ -823,6 +913,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -842,7 +937,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -866,6 +961,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.862
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -882,7 +982,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -903,6 +1003,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -919,12 +1024,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d18570b9-0086-4346-ba6a-ef8f49fbcca9
-    claim_hash: ecf7c2646a4a9109cd654085c5111574647c9f0db5189557ab8cea2aafffe4d2
+    claim_hash: 1c256df945d67a314bccf42539e3a5082798c7131da4312da82135db0e1678dc
     content: John Podesta had secured Executive Order 12958 under President Bill Clinton, declassifying millions of pages
       of national security documents, including many Unidentified Aerial Phenomena (UAP) files.
     original_excerpt: Podesta had enjoyed huge success securing Executive Order 12958 under President Clinton, declassifying
@@ -938,11 +1043,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: 818a10c9-e3e1-4110-b544-e1ca790fcfbd
@@ -957,12 +1067,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
-    claim_hash: 162d48a1a9408a2ffc0c8c478e11623f0ad5e10c34848a6058d585d6a5b0c0e6
+    claim_hash: ae8509e1998f47fdf4af36d5d53f5d83b8b702a85465da5b4de5f0316d0ad689
     content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one of America's most senior private aerospace
       chief executives, a campaign manager for Hillary Clinton, and two senior recently retired US Air Force generals, and
       that UAP were discussed among them.
@@ -978,13 +1088,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-        title: Neil McCasland
-        slug: neil-mccasland
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
         slug: tom-delonge
@@ -1003,7 +1118,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1021,6 +1136,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1037,7 +1157,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1058,6 +1178,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1074,7 +1199,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1092,6 +1217,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.861
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1114,12 +1244,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 482877fc-950a-4d57-8cdf-f157a3d5eaeb
-    claim_hash: 0fa21970eb42a9aab2a8f70c952b04ad3777bbc7618e88ccd3525979a87e17ba
+    claim_hash: 310dc093a370ef3b2255efb64f8c41f34040a2b7a5c91d7d0a731c338477b31b
     content: In an email, Tom DeLonge told John Podesta that 'The General (from Wright Patt R&D)' and he talked every other
       day, and that this official was excited and thought the Department of Defense would embrace DeLonge's project because
       it was intended to show the positive things people had done on the topic.
@@ -1139,13 +1269,18 @@ claims:
         - an email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.878
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-        title: Neil McCasland
-        slug: neil-mccasland
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
@@ -1161,7 +1296,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1180,6 +1315,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1196,7 +1336,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1218,6 +1358,11 @@ claims:
         - an email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1240,7 +1385,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1261,6 +1406,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1277,7 +1427,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1299,6 +1449,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1315,12 +1470,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
-    claim_hash: 0c37a3ee459ae207a17bdcd41e3d2acea2eb50387cf12d6d5369b7b279cad845
+    claim_hash: 6d348a68b86c9de725ef24361e73ffdc78e33819a873a2ee9d06d3e2cd7b90ef
     content: John Podesta held top-secret/Sensitive Compartmented Information (SCI) clearances in his past roles with both
       Presidents Obama and Clinton.
     original_excerpt: He is a senior and well-respected public servant who held top-secret/SCI clearances in his past roles
@@ -1334,16 +1489,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
         title: Sensitive Compartmented Information Facility (SCIF)
         slug: sensitive-compartmented-information-facility-scif
@@ -1356,7 +1516,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1374,6 +1534,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1390,7 +1555,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1409,6 +1574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1425,7 +1595,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1444,6 +1614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1466,7 +1641,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1483,6 +1658,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1505,7 +1685,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1527,6 +1707,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1555,7 +1740,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1572,6 +1757,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1588,7 +1778,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1614,6 +1804,11 @@ claims:
         - an email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1633,7 +1828,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1652,6 +1847,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1668,7 +1868,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1685,6 +1885,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1701,12 +1906,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
-    claim_hash: 17507cc7ac340628f769ca5c968cd239b659e228fcd8f94c6c33867355a68344
+    claim_hash: 9ea0c94853ef660494d986ed282c39d2e339a185d3c55096c678f2d9d1c8b11c
     content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
     original_excerpt: John Podesta, the confidant of Presidents Clinton and Obama
     claim_type: administrative
@@ -1718,16 +1923,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch28:28552-28606
@@ -1737,12 +1947,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
-    claim_hash: 45754e20ef3a42e4bd4f398a9169de548f2afcc08e0200402a9014d6b868a5e2
+    claim_hash: 7909cb798bb6ce57a7fb7f7d7f499d7c4267871847a27ab6d7483cd3583833bd
     content: John Podesta served as chief of staff to President Bill Clinton, counselor to President Barack Obama, and campaign
       manager to Hillary Clinton.
     original_excerpt: John Podesta, who had served as chief of staff to President Clinton, counselor to President Barack Obama,
@@ -1756,6 +1966,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1763,12 +1978,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch29:13091-13242
@@ -1778,7 +1993,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1799,6 +2014,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1818,7 +2038,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1838,6 +2058,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.81
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1879,6 +2104,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1914,6 +2144,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1957,6 +2192,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2001,6 +2241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2038,6 +2283,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2077,6 +2327,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2115,6 +2370,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2155,6 +2415,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2194,6 +2459,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -2231,6 +2501,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta

@@ -1,0 +1,1202 @@
+schema: anomalica/brief/1
+brief_hash: 8daea813d1a7c39252bb1e420eddf7c1cb88c21b02d089cc8116c0bd74d72b69
+page:
+  kind: entity
+  node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+  node_type: project
+  title: All-Domain Anomaly Resolution Office (AARO)
+  slug: all-domain-anomaly-resolution-office-aaro
+  claim_count: 24
+  claim_count_total: 24
+generated:
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
+size:
+  claims: 24
+  tokens_estimated: 3619
+  sized_against: 1050000
+entailment:
+  assessed: 24
+  unassessed: 0
+  entails: 15
+  neutral: 1
+  contradicts: 8
+  entailed_by_quote: 1
+  entailed_by_window: 14
+  entailed_by_quote_fraction: 0.042
+  entailed_by_window_fraction: 0.583
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 24
+related_nodes:
+  - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+    title: David Charles Grusch
+    node_type: person
+    slug: david-charles-grusch
+    shared_claims: 8
+  - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+    title: Sean Kirkpatrick
+    node_type: person
+    slug: sean-kirkpatrick
+    shared_claims: 7
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 4
+  - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+    title: United States Department of Defense (DoD)
+    node_type: organisation
+    slug: united-states-department-of-defense-dod
+    shared_claims: 4
+  - node_id: 8fc1e173-ac79-4fa9-bcf7-84a8d5eb38cb
+    title: Unidentified Aerospace Phenomena Task Force (UAP Task Force)
+    node_type: project
+    slug: unidentified-aerospace-phenomena-task-force-uap-task-force
+    shared_claims: 3
+  - node_id: bec04557-78dd-4b40-9fd6-ef824b3281b8
+    title: National Defense Authorization Act for Fiscal Year 2022
+    node_type: document
+    slug: national-defense-authorization-act-for-fiscal-year-2022
+    shared_claims: 2
+  - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+    title: Ryan Graves
+    node_type: person
+    slug: ryan-graves
+    shared_claims: 2
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    node_type: project
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 2
+  - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+    title: Advanced Aerospace Threat Identification Program (AATIP)
+    node_type: project
+    slug: advanced-aerospace-threat-identification-program-aatip
+    shared_claims: 1
+  - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+    title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+    node_type: project
+    slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    shared_claims: 1
+  - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+    title: Christopher K. Mellon
+    node_type: person
+    slug: christopher-k-mellon
+    shared_claims: 1
+  - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+    title: Luis Elizondo
+    node_type: person
+    slug: luis-elizondo
+    shared_claims: 1
+  - node_id: e7cfab5c-f78f-41c7-b4a6-f5bce173f865
+    title: New York Times Advanced Aerospace Threat Identification Program (AATIP) article, 2017-12
+    node_type: document
+    slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
+    shared_claims: 1
+  - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+    title: NewsNation
+    node_type: organisation
+    slug: newsnation
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 1
+  - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+    title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
+    node_type: project
+    slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+    shared_claims: 1
+  - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+    title: United States Navy (USN)
+    node_type: organisation
+    slug: united-states-navy-usn
+    shared_claims: 1
+  - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+    title: United States Senate
+    node_type: organisation
+    slug: united-states-senate
+    shared_claims: 1
+claims:
+  - claim_id: 346e7c33-c4df-45ea-bc82-54fe11f9b7cf
+    claim_hash: 1325eb396a71498976b98c242bdeafb581e317d53299ebfc3fd8f6ccb86c80e8
+    content: At one point, the Advanced Aerospace Weapon System Applications Program employed 50 full-time investigators,
+      far more than Project Blue Book, the Unidentified Aerospace Phenomena Task Force, or the All-Domain Anomaly Resolution
+      Office.
+    original_excerpt: At one point, it employed 50 full time investigators, far more than Project Blue Book or the UAP Task
+      Force, or AARO.
+    claim_type: measurement
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.583
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 8fc1e173-ac79-4fa9-bcf7-84a8d5eb38cb
+        title: Unidentified Aerospace Phenomena Task Force (UAP Task Force)
+        slug: unidentified-aerospace-phenomena-task-force-uap-task-force
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: char:10408-10520
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
+    claim_hash: 3df9d086a6353f6b5021e44afb952924c414fd61cee91bc7a031ad3ffffcb976
+    content: Lue Elizondo's public exposure of the existence of the Advanced Aerospace Threat Identification Program was a
+      major factor in the eventual creation of the Unidentified Aerospace Phenomena Task Force and later the All-Domain Anomaly
+      Resolution Office.
+    original_excerpt: His exposure of the existence of AATIP was a major factor in the eventual creation of the UAP Task Force
+      and later, of AARO.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 8fc1e173-ac79-4fa9-bcf7-84a8d5eb38cb
+        title: Unidentified Aerospace Phenomena Task Force (UAP Task Force)
+        slug: unidentified-aerospace-phenomena-task-force-uap-task-force
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:13315-13434
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: 195f907f-3606-4e92-9c5c-4094b1bd32f9
+    claim_hash: 7df19421acbbb3adba7f1fc7be1e8c55f5d44c302ce8b245972d093a32bbd5ad
+    content: The New York Times AATIP article was largely responsible for the creation by Congress of the Unidentified Aerospace
+      Phenomena Task Force, which later became the All-Domain Anomaly Resolution Office.
+    original_excerpt: was largely responsible for the creation by Congress of the UAP Task Force, which later morphed into
+      AARO, the current UFO program approved by Congress.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 8fc1e173-ac79-4fa9-bcf7-84a8d5eb38cb
+        title: Unidentified Aerospace Phenomena Task Force (UAP Task Force)
+        slug: unidentified-aerospace-phenomena-task-force-uap-task-force
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: e7cfab5c-f78f-41c7-b4a6-f5bce173f865
+        title: New York Times Advanced Aerospace Threat Identification Program (AATIP) article, 2017-12
+        slug: 2017-12-new-york-times-advanced-aerospace-threat-identification-program-aatip-article
+    date: null
+    date_end: null
+    location_in_record: char:9218-9361
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ac3e9de5-6c3a-444c-9e8d-5e10b81e4108
+      record_title: Statement to Congress
+      record_date: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+      content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
+      friendly_name: undated-pdf-statement-to-congress
+  - claim_id: aa66c486-2ae7-4966-adee-1d2a5a33b229
+    claim_hash: 04dac2bb302d8d41c4cdb573fb894cc7e4d70a0b38ac98291106ff0d3dc1e8dc
+    content: The Unidentified Aerial Phenomena Task Force has since been reorganised and expanded into the All-Domain Anomaly
+      Resolution Office to include investigations of objects operating underwater.
+    original_excerpt: It has since been reorganized and expanded into the All-Domain Anomaly Resolution Office to include
+      investigations of objects operating underwater.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:1858-1994
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 68c6863e-92d9-448b-a773-e43b72b50bf0
+    claim_hash: 0f999cad262cbd8461672a52606f1c666b703009cac56ba5ae149b6a7c0d6495
+    content: Christopher Mellon says a number of potential sources do not trust the leadership of the All-Domain Anomaly Resolution
+      Office established by the United States Congress.
+    original_excerpt: This is made harder by the fact that, rightly or wrongly, a number of potential sources do not trust
+      the leadership of the All-Domain Anomaly Resolution Office established by Congress.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:4761-4936
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
+    claim_hash: 33ab9e8e426af55f004fe7734bf873fb5811b6cb32761f1cc789476a34454e03
+    content: In a statement to NewsNation, the United States Department of Defense denied that the All-domain Anomaly Resolution
+      Office had uncovered the sort of activity alleged by David Grusch.
+    original_excerpt: In a statement to NewsNation, the Department of Defense denied that the Pentagon’s new UFO office has
+      uncovered the sort of activity alleged by Grusch.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay:
+        - a statement to NewsNation
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.417
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+        title: NewsNation
+        slug: newsnation
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:2788-3001
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: 06171d55-f777-4549-8338-708d3b3f6889
+    claim_hash: e781a2be50d91e09638fd196dccd07718f8c31dcb7c98354e84b5799e00831e8
+    content: The All-domain Anomaly Resolution Office has not discovered any verifiable information to substantiate claims
+      that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the
+      past or exist currently.
+    original_excerpt: the Pentagon’s new UFO office “has not discovered any verifiable information to substantiate claims
+      that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the
+      past or exist currently.”
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+      title: United States Department of Defense (DoD)
+    provenance_chain:
+      origin_kind: named
+      origin: United States Department of Defense (DoD)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.827
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: '2023-06-09'
+    date_end: null
+    location_in_record: char:5931-6161
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: ff36a6e7-6c37-4f2d-a64d-1b78e965e101
+    claim_hash: 7a2a9c9fe5af6387036cd17bcb48d4b49159e458aec72447f48d0ee72d9a0c1e
+    content: Marik von Rennenkampff considers it conceivable that the All-domain Anomaly Resolution Office, the Department
+      of Defense's current UFO analysis effort, is not privy to the alleged UFO Retrieval and Reverse Engineering Program,
+      like its predecessor organisations.
+    original_excerpt: it is conceivable that, like its predecessor organizations, the All-domain Anomaly Resolution Office
+      (the Defense Department’s current UFO analysis effort) is simply not privy to the alleged program
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b2f3a105-5f9e-4a13-9705-eca70d64476d
+      title: Marik von Rennenkampff
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marik von Rennenkampff
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+        title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
+        slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:6508-6699
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ca27c972-be68-47c9-8b9a-90d1e176b3e8
+      record_title: Claims that UFO information was inappropriately withheld from Congress deemed ‘credible,’ ‘urgent’
+      record_date: '2023-06-09'
+      record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
+      content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
+      friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: 4a82f055-45d4-4350-ba99-fca454419dd6
+    claim_hash: f39222acacbacf495feb8fb5e7e194c1630a2ca8cdfb627b3386c8687769264e
+    content: Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office, testified before the United States Senate
+      that his unit has found no evidence of extraterrestrial activity.
+    original_excerpt: I also want to note that Mr. Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office,
+      the component of the DoD office that investigates UAP data, has testified before the Senate this year that his unit
+      has found no evidence of extraterrestrial activity.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+      title: Glenn Grothman
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+        title: United States Senate
+        slug: united-states-senate
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:22503-22762
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 87c31854-6693-4007-b024-e2a999c013aa
+    claim_hash: 2c52305584e55b8d7e3c1e9c3f38c882fd8696100628d1f1b0017f67652602d3
+    content: Congress created the All-Domain Anomaly Resolution Office in the National Defense Authorization Act of 2022.
+    original_excerpt: Congress created the All-Domain Resolution Office in the NDAA of 2022.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
+      title: Jared Moskowitz
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jared Moskowitz
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.39
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: bec04557-78dd-4b40-9fd6-ef824b3281b8
+        title: National Defense Authorization Act for Fiscal Year 2022
+        slug: national-defense-authorization-act-for-fiscal-year-2022
+    date: null
+    date_end: null
+    location_in_record: char:28915-28980
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: a922f584-2270-4146-b2d5-7cd8b3ef67d3
+    claim_hash: 8581d29ca2b3bfc7345ffce9c87d016cbb5f0e69232c471274790f749848b54b
+    content: The All-Domain Anomaly Resolution Office's initial analysis reported 171 uncharacterised UAP reports that appear
+      to have demonstrated unusual flight characteristics or performance capabilities.
+    original_excerpt: In its initial analysis there are 171 uncharacterized UAP reports—and this is the words from the report—that
+      appear to have demonstrated unusual flight characteristics or performance capabilities.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: d9d1a305-5d69-4cc4-b7ef-bb743ba9d8be
+      title: Jared Moskowitz
+    provenance_chain:
+      origin_kind: document
+      origin: All-Domain Anomaly Resolution Office initial analysis report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.906
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:28987-29170
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: c90b0e17-1e52-4e0f-aa60-927b537972d3
+    claim_hash: 237c18451d48bc3ff07bcf039090645177cd24ec45bb7637dc8a85fe5d4784ea
+    content: David Grusch was his agency's co-lead in unidentified anomalous phenomena and trans-medium object analysis, reporting
+      to the Unidentified Anomalous Phenomena Task Force and eventually to the All-Domain Anomaly Resolution Office.
+    original_excerpt: I was my agency's co-lead in unidentified anomalous phenomena and trans medium object analysis as well
+      as reporting to the UAP Task Force—UAPTF—and eventually, once it was established, the All-Domain Anomaly Resolution
+      Office—AARO.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:36599-36825
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 0d3e7d37-36b1-4a43-8b18-4ba8bc2f923a
+    claim_hash: 27082552bf9bf411b0ade895c20dde2f7a979c268ec4f02bb80c2a35e4ae940f
+    content: Since Ryan Graves's initial East Coast encounters, unidentified anomalous phenomena have been detected across
+      the world wherever United States Navy operations are conducted, according to All-Domain Anomaly Resolution Office (AARO)
+      reporting.
+    original_excerpt: Since the events initially occurred, I have learned that the objects have been detected, essentially,
+      where all operations—our Navy operations are being conducted across the world and that is from the All-Domain Anomaly
+      Resolutions Office reporting.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: named
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay:
+        - Ryan Graves
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:66045-66284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 642c7c22-f37a-4ef2-a0a7-017823384ca9
+    claim_hash: c1e7503142647b05928361cb7cd8d4366dc33af8ce538c4442e59f6c33d04a8a
+    content: On 2023-04-19, Sean Kirkpatrick, head of the All-Domain Anomaly Resolution Office (AARO), stated that he did
+      not find any evidence of unidentified anomalous phenomena.
+    original_excerpt: On the 19th of April, Dr. Kirkpatrick, head of AARO, had said that he did not find any evidence of UAPs.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+      title: Anna Paulina Luna
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay:
+        - Anna Paulina Luna
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: '2023-04-19'
+    date_end: null
+    location_in_record: char:71855-71954
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 84d3c7c3-af28-4106-99b6-89360c1331f9
+    claim_hash: d5e8c9b23aff37eb3e39f1f9280072a0a7b8b23ef1ca914bef353719c91da813
+    content: In April 2022, before Sean Kirkpatrick took over the All-Domain Anomaly Resolution Office (AARO) in July 2022,
+      David Grusch had a classified conversation with him and provided him concerns regarding pertinent national security
+      information.
+    original_excerpt: Him and I had a classified conversation in April 2022 before he took over AARO in July 2022 and I provided
+      him some concerns I had.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: 2022-04
+    date_end: null
+    location_in_record: char:72197-72324
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 41d40c84-1130-4d8f-8712-e7096b7d86c5
+    claim_hash: 8d2097536a23f7c4f3bab7a1765bcb4f7cdd6268d3d8192de650735756998ee0
+    content: David Grusch does not know why Sean Kirkpatrick did not follow up with him after their April 2022 conversation,
+      but wishes he had, and states he was happy to give counsel to Kirkpatrick when Kirkpatrick took over the All-Domain
+      Anomaly Resolution Office (AARO).
+    original_excerpt: Unfortunately, I cannot read his mind. I wish he did. I was happy to give sage counsel to him on where
+      to look when he took the helm of AARO.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.732
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:72409-72545
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 02bcfdba-d8f1-4475-a665-539a1fa9e66c
+    claim_hash: 56a66fd0c6f31a70724b28c22cdfd9cbb7671bd0a1cc3db62f51159358d7258c
+    content: The National Defense Authorization Act of 2022 established the All-Domain Anomaly Resolution Office (AARO) to
+      conduct or coordinate efforts across the Department of Defense and other federal agencies to detect, identify, and investigate
+      UAP.
+    original_excerpt: The National Defense Authorization Act of 2022 established the all-domain anomaly resolution officer—AARO—to
+      conduct or to coordinate efforts across the Department of Defense and other Federal agents to detect, identify, and
+      investigate UAPs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: bec04557-78dd-4b40-9fd6-ef824b3281b8
+        title: National Defense Authorization Act for Fiscal Year 2022
+        slug: national-defense-authorization-act-for-fiscal-year-2022
+    date: '2022'
+    date_end: null
+    location_in_record: char:7509-7746
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 076bfdfc-2fe5-4369-ae65-a1ef52f08bf7
+    claim_hash: 4a7575e60d56cac54b8e5def45f1a12f73f7c5d3dee329c239e798db3048c8a4
+    content: The All-Domain Anomaly Resolution Office's budget remains classified.
+    original_excerpt: However, AARO's budget remains classified, prohibiting meaningful oversight from Congress.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 903557d1-d572-49fe-89ff-2cde42e50f78
+      title: Glenn Grothman
+    provenance_chain:
+      origin_kind: speaker
+      origin: Glenn Grothman
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.504
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: '2023-07-26'
+    date_end: null
+    location_in_record: char:7752-7833
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: aeb582d6-e1ad-47cf-a98b-a6664b79e898
+    claim_hash: 84fd39c7f3b1d92fd52b5751628ccb6bb278058e7592d99deb8f6026d09bf0f0
+    content: Sean Kirkpatrick, Director of the All-Domain Anomaly Resolution Office (AARO), previously testified before Congress
+      that there has been "no credible evidence thus far of extraterrestrial activity" or of "off-world technology brought
+      to the attention of the office".
+    original_excerpt: However, Dr. Sean Kirkpatrick, the Director of AARO, previously testified before Congress that there
+      has been, and I quote, ''no credible evidence thus far of extraterrestrial activity'' or of, quote, ''off-world technology
+      brought to the attention of the office.''
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
+      title: Virginia Foxx
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay:
+        - prior congressional testimony
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:82465-82721
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: bd7c3f49-813c-484c-938d-113455eb998d
+    claim_hash: 15073ff016093cf09927f6687cc41953e2f4e490c0e2b320f2a5d43021255366
+    content: Sean Kirkpatrick mentioned that approximately 30 individuals have come to the All-Domain Anomaly Resolution Office
+      (AARO) with information.
+    original_excerpt: I believe Dr. Kirkpatrick mentioned he had about 30 individuals that have come to AARO thus far.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: named
+      origin: Sean Kirkpatrick
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.605
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:82811-82903
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: d4c94125-1870-4e19-9ee3-049ae1a08d2b
+    claim_hash: 73d204fdf274599305e0d4401fae611fc09c7a969b3db827905d3be60220de10
+    content: David Grusch personally interviewed a few of the individuals who also came to the All-Domain Anomaly Resolution
+      Office (AARO).
+    original_excerpt: A few of those individuals have also come to AARO that I also interviewed.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.865
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:82908-82970
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 65630c4f-afe8-4afe-b147-96de2ff54daa
+    claim_hash: ee58a439c66ba4ab6740c8c3b469e0cfdc1cf80ac27114c03ba26f423a75d6b6
+    content: David Grusch knows what information the individuals provided to Sean Kirkpatrick and his team at the All-Domain
+      Anomaly Resolution Office (AARO).
+    original_excerpt: And I know what they provided Dr. Kirkpatrick and their team.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+        title: Sean Kirkpatrick
+        slug: sean-kirkpatrick
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:83011-83067
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 9bf1911a-652f-4c01-a330-0951b6184c81
+    claim_hash: cf49a67300bcb993c3874710d9decc37eb295e2d345307caa445f53d47b84ce6
+    content: David Grusch was able to evaluate the information provided to the All-Domain Anomaly Resolution Office (AARO)
+      by the individuals he interviewed.
+    original_excerpt: I was able to evaluate that information.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Grusch
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:83101-83129
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: e40f6e80-4f8b-44b1-b789-3ba22e150896
+    claim_hash: b030990dacb734a9224af0fca556144b1268f972b42824c48d34fe08a8f1c7c2
+    content: Ryan Graves considers kinematics - understanding the specifics of how a vehicle or object is moving - an important
+      category of data that the All-Domain Anomaly Resolution Office (AARO) should prioritise for collection.
+    original_excerpt: Certainly. I think that there is two categories that would be important. One would be kinematics and
+      understanding the specifics of how the vehicle or objects are moving
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      title: Ryan Graves
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ryan Graves
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.817
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:99824-99987
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

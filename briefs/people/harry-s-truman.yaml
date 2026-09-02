@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4e3986ce064a88f48f287be46aecddeb555bc9a13fe4d4ca4e90b053ab54634d
+brief_hash: f9fe925c4bcc8f462229397181de7c2de64179866e5c62892103f0a123b04ba5
 page:
   kind: entity
   node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
@@ -9,11 +9,21 @@ page:
   claim_count: 36
   claim_count_total: 36
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 36
   tokens_estimated: 5926
   sized_against: 1050000
+entailment:
+  assessed: 36
+  unassessed: 0
+  entails: 28
+  neutral: 6
+  contradicts: 2
+  entailed_by_quote: 9
+  entailed_by_window: 19
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.528
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -63,10 +73,10 @@ related_nodes:
     node_type: organisation
     slug: united-states-congress
     shared_claims: 3
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+    title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
     shared_claims: 2
   - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
     title: Albert Einstein
@@ -87,6 +97,11 @@ related_nodes:
     title: James Forrestal
     node_type: person
     slug: james-forrestal
+    shared_claims: 2
+  - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+    title: Operation W
+    node_type: project
+    slug: operation-w
     shared_claims: 2
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
@@ -118,15 +133,10 @@ related_nodes:
     node_type: person
     slug: vannevar-bush
     shared_claims: 2
-  - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
-    title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+  - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+    title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
     node_type: event
-    slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
-    shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
+    slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     shared_claims: 1
   - node_id: 71d47503-ae09-47a6-83e4-4f376df22e0e
     title: Communion
@@ -189,6 +199,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -225,6 +240,11 @@ claims:
         - Linda Hunt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
         title: Linda Hunt
@@ -255,7 +275,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: a4a5ace8-cae1-4ba3-8ef2-59fa55597a33
-    claim_hash: 4647482a79f1826b71d6a03abe1011129c3c71e30cc0fd3b62ea9baced51bd85
+    claim_hash: 50814cd1f0de56d2f97523ecb8aec2c40c85e980a5b69af622508697bad5d23a
     content: Operation Majestic-12 was a supposed secret cabal of scientists, military and intelligence officials and government
       formed in 1947 by President Harry Truman to facilitate the recovery and investigation of alien spacecraft.
     original_excerpt: "Operation Majestic-12 was a supposed secret cabal of scientists, military and intelligence officials
@@ -269,10 +289,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
     date: '1947'
     date_end: null
     location_in_record: ch14:15460-15698
@@ -282,7 +310,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -307,6 +335,11 @@ claims:
         - Edgar Mitchell's fax citing the letter
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -335,12 +368,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 1a133f1e-0b94-4f07-8b53-150bf8c319a5
-    claim_hash: 3c871fd2f1e47a7f21a19553b65a2c2203d0ed324aa004dace35fa448478b69b
+    claim_hash: 8653c23cd3487311aa8ee6185c9d359ceb6fe2cb0f7ea8a0a001951df2168f1a
     content: MJ-12 is described as a supposed secret cabal of scientists, military and intelligence officials and government
       formed in 1947 by President Truman to facilitate the recovery and investigation of alien spacecraft.
     original_excerpt: He asked about their crashed UFO program and MJ-12 (the supposed secret cabal of scientists, military
@@ -355,10 +388,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
     date: '1947'
     date_end: null
     location_in_record: ch26:17586-17820
@@ -368,12 +409,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 693b161a-8ce8-44f1-9233-077d83cf7663
-    claim_hash: 1ff751074c2e17133f1ec8e8b68bd7e5f5b416b3bc2270440fe02692c37ce81f
+    claim_hash: 23809613848e836c449a637f8f52cfc02d8ac7c94a1dbb053781cd41b9d4eda1
     content: The 1952 Washington DC UFO flap was front-page news across the world, and President Harry Truman demanded answers.
     original_excerpt: The story was front-page news across the planet and even President Truman was demanding answers
     claim_type: administrative
@@ -385,13 +426,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c8f86f9d-c712-41a9-aaa5-31eea5e427c7
+        title: 1952 Washington DC Unidentified Aerial Phenomena (UAP) flap
+        slug: 1952-washington-dc-unidentified-aerial-phenomena-uap-flap
     date: 1952-07
     date_end: null
     location_in_record: ch8:17332-17420
@@ -401,7 +447,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -420,6 +466,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.734
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -439,7 +490,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -460,6 +511,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
         title: Lyndon B. Johnson
@@ -497,7 +553,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -517,6 +573,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -551,6 +612,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.596
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -578,7 +644,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 2692579f-295f-44c3-af8f-05a20f269bc5
-    claim_hash: 68de96e44f6b85146b5a6cc9300ec8cac1442854670bfa39323ae71f3fe764b8
+    claim_hash: db18599f5c8f70f9a7818c2b4444ac355855e94b193bfd5509b132770a750fc1
     content: Frank Edwards, in a 1956 lecture, maintained that in 1952 Albert Einstein had delivered an urgent message to
       then-President Harry Truman warning that Truman's shoot-down policy toward UFOs over Washington, D.C. was unwise.
     original_excerpt: Edwards maintained that just four years prior in 1952, Albert Einstein had delivered an urgent message
@@ -595,6 +661,11 @@ claims:
         - Frank Edwards's sources and understanding of historical circumstance
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -602,12 +673,12 @@ claims:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
         title: Frank Edwards
         slug: frank-edwards
+      - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+        title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+        slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     date: '1956'
     date_end: null
     location_in_record: 00:08:40.5-00:08:54.2
@@ -640,6 +711,11 @@ claims:
         - Frank Edwards's sources and understanding of historical circumstance
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -679,6 +755,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -719,13 +800,18 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.855
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
@@ -768,6 +854,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -815,6 +906,11 @@ claims:
         - an article by Geoff Cruickshank read by Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -855,6 +951,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -900,6 +1001,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -938,6 +1044,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -985,6 +1096,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.558
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1026,6 +1142,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1066,6 +1187,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1111,6 +1237,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1152,6 +1283,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1192,6 +1328,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1233,6 +1374,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1274,6 +1420,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.606
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1310,6 +1461,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1350,6 +1506,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1395,6 +1556,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1441,6 +1607,11 @@ claims:
         - Washington Post article
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
         title: John F. Kennedy assassination
@@ -1465,7 +1636,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
-    claim_hash: e2ace5a091f06ec4fa596bfcf174842d74b68e532186dfc700befd3d9c6763d9
+    claim_hash: 77b8a8836e7109a9ae199433ecb222e1fc0890467956bc27fc72cc0f31493bb8
     content: In 1948, President Harry Truman is alleged to have established classified presidential executive orders, referred
       to by Eric Davis as Presidential Emergency Action Documents (PEADs), that relegated custody of recovered disks to Atomic
       Energy Commission National Lab Control to be studied under Vannevar Bush's Joint Research and Development Board and
@@ -1478,14 +1649,19 @@ claims:
     claim_type: hearsay
     attestation: null
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: unattributed
       origin: unnamed allegations
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -1519,21 +1695,26 @@ claims:
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
       friendly_name: null
   - claim_id: 33a819dc-587d-454b-9e28-bffa996c2794
-    claim_hash: 80faaaab99018809634fae39238babd01d9dcd9fecaf7e1a962b50b3d694e655
+    claim_hash: 9f5ddc033ce02e3ecd183de494d3f6448edd31e5584711d01c755b29545e9e33
     content: UAP Gerb considers the allegation that President Harry Truman established classified 1948 presidential executive
       orders relegating recovered disks to Atomic Energy Commission National Lab Control factually correct.
     original_excerpt: And I do think that is factually correct.
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1569,6 +1750,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -1609,6 +1795,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
         title: Richard Nixon
@@ -1639,7 +1830,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 0c3baf71-fd15-4ec9-bfda-cc3cffb3c346
-    claim_hash: dc1eacf1169dc13966ccb059b8a21b84a93e2a84ed57e3e46a00bc9c8f478f0d
+    claim_hash: a14fda999b3f37d113a72dc966ecfaf182e637f0b5561b6272129a1d6ce7afe1
     content: Arthur Ernest Exon told Whitley Strieber, in what Strieber gives as a direct quote, that everyone from Harry
       S. Truman on down knew that what had been found at Roswell was not of this world within 24 hours of the finding.
     original_excerpt: And he said that he said, and this is a direct quote, everyone from Truman on down knew that what we
@@ -1656,6 +1847,11 @@ claims:
         - told directly to Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

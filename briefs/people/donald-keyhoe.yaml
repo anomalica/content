@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 83e51dccdc2aeb5a48cf30c915bb9292f7728cdbfaa5b6e7dd5e1fa4a762f60a
+brief_hash: 991edb31803ba10a4ae9e76b70c931c03649e4d46d3d514ff3e0b5ef0c12ec0a
 page:
   kind: entity
   node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 14
   tokens_estimated: 1840
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 9
+  neutral: 4
+  contradicts: 1
+  entailed_by_quote: 6
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.214
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -48,6 +58,11 @@ related_nodes:
     node_type: person
     slug: harry-turner
     shared_claims: 2
+  - node_id: 8007570f-d827-4096-9540-7d9c7bf1b8be
+    title: 1952 Kimball-Radford Pacific Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1952-kimball-radford-pacific-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
   - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
     title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified Aerial Phenomena (UAP) review
     node_type: event
@@ -73,11 +88,6 @@ related_nodes:
     node_type: person
     slug: dan-kimball
     shared_claims: 1
-  - node_id: c0f99f23-5c03-4437-a48f-226a86255412
-    title: Kimball Pacific UAP Sighting 1952
-    node_type: event
-    slug: kimball-pacific-uap-sighting-1952
-    shared_claims: 1
   - node_id: 6ac84112-84f3-44b0-8f4e-f674c122a22c
     title: True Magazine
     node_type: organisation
@@ -99,6 +109,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.545
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -135,6 +150,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
         title: Donald Keyhoe
@@ -168,6 +188,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.592
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
         title: Donald Keyhoe
@@ -205,6 +230,11 @@ claims:
         - Jacques Vallee's field research
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -247,6 +277,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -263,12 +298,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9842b1a1-4966-49c4-92a1-460bf896a8fd
-    claim_hash: b71a1e1cf560fb4e31f29b3aae6089c930f052cd332c9f89f493b368f582770f
+    claim_hash: 073f9ac149789f2136f6081d44dd14093e5f3c79117547eb059f5e98cc2daa01
     content: Dan Kimball told Donald Keyhoe that the discs observed during the 1952 Kimball-Radford Pacific UAP sighting flew
       at speeds of up to approximately 3200 kilometres per hour.
     original_excerpt: wrote how Kimball later told him the discs flew at speeds up to 2000 miles an hour (3200 km/h)
@@ -283,16 +318,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
         title: Donald Keyhoe
         slug: donald-keyhoe
+      - node_id: 8007570f-d827-4096-9540-7d9c7bf1b8be
+        title: 1952 Kimball-Radford Pacific Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1952-kimball-radford-pacific-unidentified-aerial-phenomena-uap-sighting
       - node_id: a9c57f74-a940-45f4-82ac-18f2fd5f244e
         title: Dan Kimball
         slug: dan-kimball
-      - node_id: c0f99f23-5c03-4437-a48f-226a86255412
-        title: Kimball Pacific UAP Sighting 1952
-        slug: kimball-pacific-uap-sighting-1952
     date: null
     date_end: null
     location_in_record: ch8:14406-14498
@@ -302,7 +342,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -319,6 +359,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
         title: Donald Keyhoe
@@ -332,7 +377,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -350,6 +395,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac84112-84f3-44b0-8f4e-f674c122a22c
         title: True Magazine
@@ -366,7 +416,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -387,6 +437,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -406,7 +461,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -425,6 +480,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
         title: Directorate of Air Force Intelligence Australia
@@ -444,7 +504,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -465,6 +525,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26e4a0c7-7da3-4001-8f87-118941d1961c
         title: Directorate of Air Force Intelligence Australia
@@ -493,7 +558,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -511,6 +576,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
         title: Donald Keyhoe
@@ -544,6 +614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.488
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 76815898-cfc1-4d33-837b-113ed402ab4a
         title: Donald Keyhoe
@@ -578,6 +653,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.629
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)

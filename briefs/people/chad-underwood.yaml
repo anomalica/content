@@ -9,11 +9,21 @@ page:
   claim_count: 52
   claim_count_total: 52
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 52
   tokens_estimated: 6922
   sized_against: 1050000
+entailment:
+  assessed: 52
+  unassessed: 0
+  entails: 31
+  neutral: 16
+  contradicts: 5
+  entailed_by_quote: 7
+  entailed_by_window: 24
+  entailed_by_quote_fraction: 0.135
+  entailed_by_window_fraction: 0.462
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -120,6 +130,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -137,7 +152,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a6eb8cc8-018b-40a9-b09e-11d4d2605076
@@ -155,6 +170,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -175,7 +195,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a0e9092a-0b43-4515-904d-33f52265bb33
@@ -193,6 +213,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.773
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -210,7 +235,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: c0913cbc-0ca6-481b-bf86-aab7c9143f51
@@ -227,6 +252,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -247,7 +277,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 69bf8fe3-d41e-4dfb-a389-85e94b681835
@@ -263,6 +293,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.763
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -280,7 +315,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 33474f15-47fa-4c5f-b3ac-87db91eabebe
@@ -297,6 +332,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.533
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -317,7 +357,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a8ea57c5-bf6f-4075-b84d-1a62afd3b764
@@ -335,6 +375,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -352,7 +397,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 36dfa761-5541-435b-8136-478aa4be35a5
@@ -372,6 +417,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -386,7 +436,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 7281e02e-fc58-42a3-bb3f-c1bf03040675
@@ -402,6 +452,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -416,7 +471,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 52a6431d-4a41-42f8-a998-c49d66248ffb
@@ -433,6 +488,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.554
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -450,7 +510,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 3336443c-4194-4f2e-bd33-828cdd3fc06f
@@ -467,6 +527,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -481,7 +546,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 7945a439-24a9-4967-89a4-27b9788b1a8c
@@ -500,6 +565,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -517,7 +587,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 3d2d690d-3ec5-4eff-bd1c-619e3218af93
@@ -533,6 +603,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -550,7 +625,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 485d474e-ba37-4428-aa25-4c001c746fa8
@@ -568,6 +643,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -585,7 +665,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 1c606bf9-b4eb-4621-b467-0ad7e8ca5ec8
@@ -606,6 +686,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -623,7 +708,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 95319938-ccbe-4569-92bc-6e13560a760a
@@ -643,6 +728,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -660,7 +750,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 0aa671a1-1622-42e3-8076-6fb45c8f63de
@@ -677,6 +767,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -694,7 +789,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: ff007904-a164-4c2e-b2ac-606b396d17cb
@@ -711,6 +806,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.388
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -728,7 +828,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 72ee278c-b8ed-4271-9016-667bfd6c7df3
@@ -748,6 +848,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -765,7 +870,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: f827146f-317a-4178-b676-fbe40f5432f8
@@ -783,6 +888,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.674
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -800,7 +910,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 831a197b-8752-4416-9976-ad14842f4b2c
@@ -820,6 +930,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -837,7 +952,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 65b1a617-7c1c-4859-a6a2-e008f7c413b5
@@ -854,6 +969,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -871,7 +991,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: dff89283-a273-4b8d-b7b5-380315a2d7f9
@@ -889,6 +1009,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -906,7 +1031,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: d3260375-ffc2-4851-8c4a-4a554e3b04a4
@@ -924,6 +1049,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -941,7 +1071,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 55992ae1-2f3e-417f-b7a7-50c11e8840c0
@@ -961,6 +1091,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.692
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -978,7 +1113,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 46883e7f-7df9-4868-8c0e-986532932b30
@@ -996,6 +1131,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1010,7 +1150,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: ceb0c54a-4993-464e-acbb-d70cbad48c75
@@ -1028,6 +1168,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.396
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1045,7 +1190,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 2834e316-123a-4f09-8302-5be197dba09a
@@ -1061,6 +1206,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.419
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1081,7 +1231,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 0913be71-82d1-4666-a330-02e7fbc4d0f7
@@ -1099,6 +1249,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1116,7 +1271,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: d8d72a7f-33b0-41cb-8123-e38d0d1176b1
@@ -1132,6 +1287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.376
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1149,7 +1309,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 5308dc1a-d26f-4614-989a-145e641414ca
@@ -1169,6 +1329,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1186,7 +1351,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: ad20581f-cd2a-4930-865b-bf391843a304
@@ -1206,6 +1371,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1220,7 +1390,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: d11106ea-4e7b-4ed0-9939-9993a58df6ed
@@ -1239,6 +1409,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1276,6 +1451,11 @@ claims:
         - Chad Underwood's account relayed to David Fravor
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.578
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1312,6 +1492,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.891
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1351,6 +1536,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1394,6 +1584,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.552
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1430,6 +1625,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1455,7 +1655,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1474,6 +1674,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1493,7 +1698,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1515,6 +1720,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1537,7 +1747,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1556,6 +1766,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1575,7 +1790,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1597,6 +1812,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1613,7 +1833,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1636,6 +1856,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1652,7 +1877,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1672,6 +1897,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1688,7 +1918,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1709,6 +1939,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1722,7 +1957,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1741,6 +1976,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1757,7 +1997,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1778,6 +2018,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1797,7 +2042,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1816,6 +2061,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.72
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1829,7 +2079,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1850,6 +2100,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1869,7 +2124,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1888,6 +2143,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1910,7 +2170,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1928,6 +2188,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.519
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -1944,7 +2209,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1962,6 +2227,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224c7627-5439-4e73-b583-590caead8999
         title: Jim Slaight
@@ -1987,7 +2257,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

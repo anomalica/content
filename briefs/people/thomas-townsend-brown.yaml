@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: b4fa1453a8eaf2fecc160071ba0ea857a29752755f174c41b61e80ce642eaf34
+brief_hash: bd907a14671eed84f7fac389cf2983a6ef73738942c2959bd81bc49aac71737c
 page:
   kind: entity
   node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
@@ -9,11 +9,21 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 25
   tokens_estimated: 2787
   sized_against: 1050000
+entailment:
+  assessed: 25
+  unassessed: 0
+  entails: 15
+  neutral: 6
+  contradicts: 4
+  entailed_by_quote: 9
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.36
+  entailed_by_window_fraction: 0.24
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -39,9 +49,9 @@ related_nodes:
     slug: anti-gravity-propulsion
     shared_claims: 3
   - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
-    title: Taylor
+    title: Tim Taylor
     node_type: person
-    slug: taylor
+    slug: tim-taylor
     shared_claims: 3
   - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
     title: Time travel
@@ -64,9 +74,9 @@ related_nodes:
     slug: caroline-group
     shared_claims: 2
   - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-    title: Chris Bledsoe
+    title: Christopher Bledsoe
     node_type: person
-    slug: chris-bledsoe
+    slug: christopher-bledsoe
     shared_claims: 2
   - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
     title: Crash retrieval and reverse engineering
@@ -83,10 +93,10 @@ related_nodes:
     node_type: person
     slug: harald-malmgren
     shared_claims: 2
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: Nonhuman intelligence (NHI)
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
     node_type: topic
-    slug: nonhuman-intelligence-nhi
+    slug: non-human-intelligence
     shared_claims: 2
   - node_id: 92ed6d9c-c22e-4fb8-b2c0-9d6da2ab1c5b
     title: Bahamas, Nassau
@@ -159,6 +169,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -175,7 +190,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -194,6 +209,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -218,7 +238,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: e0a87107-6a02-4923-ac6b-63fc61b1909c
-    claim_hash: d61f1bf19ab4cf726abb80a5d0d1759a54898c9502a81365b8b56551c17624fa
+    claim_hash: 9ee5dc877306adb477027825664ee9d24bc20bd1b8bf73d07ead86fa9462ffde
     content: Thomas Townsend Brown appears to have been inspired by so-called space brothers, that is non-human intelligences.
     original_excerpt: And it seems like he was inspired by quote unquote, space brothers.
     claim_type: opinion
@@ -232,10 +252,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.773
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -268,6 +293,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8a1421aa-f32b-413a-8809-e846dced9c04
         title: 1958 Hartford Connecticut crash retrieval
@@ -309,6 +339,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
@@ -345,6 +380,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8a1421aa-f32b-413a-8809-e846dced9c04
         title: 1958 Hartford Connecticut crash retrieval
@@ -366,7 +406,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: e0d704bd-9a0f-4902-8172-08741fc1e13b
-    claim_hash: 4152b6ac7e4c594042158490c7eed57b9d92d6033f2547f8cec65675b1d50c00
+    claim_hash: 79b0d3b7e98187dd1ff2da08614fb31c3322b743cc43a2408a73705e77bf4e83
     content: Thomas Townsend Brown claimed he was communicating with aliens much of the time.
     original_excerpt: No, he's claimed he was like kind of communicating with aliens half the time
     claim_type: hearsay
@@ -381,10 +421,15 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -417,6 +462,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -457,6 +507,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 66b3aa90-36ac-4795-94f4-cf4f3916081d
         title: Caroline Group
@@ -494,6 +549,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 66b3aa90-36ac-4795-94f4-cf4f3916081d
         title: Caroline Group
@@ -538,6 +598,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
         title: William Stephenson
@@ -573,6 +638,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
         title: Crash retrieval and reverse engineering
@@ -614,6 +684,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7ddd5068-c6d5-475e-893a-bcf182ee126f
         title: William Stephenson
@@ -654,6 +729,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3028a824-813b-4b7f-83ff-ccd989f7c7dd
         title: Eldridge Reeves Johnson
@@ -692,6 +772,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3028a824-813b-4b7f-83ff-ccd989f7c7dd
         title: Eldridge Reeves Johnson
@@ -732,6 +817,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.58
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
         title: Anti-Gravity Propulsion
@@ -771,6 +861,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7699ee6b-266c-42ed-95b2-3b4430fd2af9
         title: World Commerce Corporation
@@ -814,16 +909,21 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
-        title: Taylor
-        slug: taylor
+        title: Tim Taylor
+        slug: tim-taylor
       - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Chris Bledsoe
-        slug: chris-bledsoe
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -856,13 +956,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
-        title: Taylor
-        slug: taylor
+        title: Tim Taylor
+        slug: tim-taylor
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -896,6 +1001,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.583
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -935,6 +1045,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -943,11 +1058,11 @@ claims:
         title: Time travel
         slug: time-travel
       - node_id: 6485c8ec-97af-4a6d-9547-34aee3eb5b87
-        title: Taylor
-        slug: taylor
+        title: Tim Taylor
+        slug: tim-taylor
       - node_id: b4365ffa-36b6-40b3-9144-99086771a894
-        title: Chris Bledsoe
-        slug: chris-bledsoe
+        title: Christopher Bledsoe
+        slug: christopher-bledsoe
       - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
         title: Thomas Townsend Brown
         slug: thomas-townsend-brown
@@ -979,6 +1094,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.595
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1022,6 +1142,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1061,6 +1186,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00bb755b-8df3-4702-a8cf-a6df3a727834
         title: Harald Malmgren
@@ -1103,6 +1233,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00bb755b-8df3-4702-a8cf-a6df3a727834
         title: Harald Malmgren

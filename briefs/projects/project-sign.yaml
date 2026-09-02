@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9593c5290ea6798829e75b304fc0f688e244a5476411c2aee3de0705f0713cd3
+brief_hash: 143e5d9f65244d3c8db4053761c3a7e3702b1401d5576c59c85193ccbaa15369
 page:
   kind: entity
   node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
@@ -9,11 +9,21 @@ page:
   claim_count: 39
   claim_count_total: 39
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 39
   tokens_estimated: 4388
   sized_against: 1050000
+entailment:
+  assessed: 39
+  unassessed: 0
+  entails: 34
+  neutral: 5
+  contradicts: 0
+  entailed_by_quote: 17
+  entailed_by_window: 17
+  entailed_by_quote_fraction: 0.436
+  entailed_by_window_fraction: 0.436
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -144,6 +154,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -176,6 +191,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -210,6 +230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.937
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
         title: Hoyt S. Vandenberg
@@ -245,6 +270,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
         title: Hoyt S. Vandenberg
@@ -282,6 +312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
         title: Hoyt S. Vandenberg
@@ -318,6 +353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
         title: Project GRUDGE
@@ -351,6 +391,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
         title: Nathan Twining
@@ -367,7 +412,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -384,6 +429,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -400,7 +450,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -421,6 +471,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -437,7 +492,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -454,6 +509,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -467,7 +527,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -484,6 +544,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -497,7 +562,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -514,6 +579,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -530,7 +600,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -547,6 +617,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -566,7 +641,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -583,6 +658,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
         title: Project GRUDGE
@@ -599,121 +679,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
-    claim_hash: 76fe04b9db10e858be764b26c7076fb78a78c83a7bf007940e4c957cef9e59d4
-    content: The United States Air Force studied Unidentified Aerial Phenomena (UAP) in 1948 and 1949 under Project Sign and
-      Project Grudge.
-    original_excerpt: The Air Force had studied UAP in 1948 and 1949, under the auspices of two year-old studies known as
-      Project Sign and Project Grudge.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-        title: Project GRUDGE
-        slug: project-grudge
-      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-        title: Project Sign
-        slug: project-sign
-    date: null
-    date_end: null
-    location_in_record: ch12:27859-27984
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 3c6a7780-f5d1-4b64-af32-3f2843e4e221
-    claim_hash: 71b409effea6976282f3ad0621cacd2d1791844a0ca5eb5ee12e6b683a86553e
-    content: Project Sign's findings on Unidentified Aerial Phenomena (UAP) were inconclusive but open to the possibility
-      of extraterrestrial origins for the craft.
-    original_excerpt: Sign's findings were inconclusive but open to the possibility of extraterrestrial origins for the craft.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-        title: Project Sign
-        slug: project-sign
-    date: null
-    date_end: null
-    location_in_record: ch12:27992-28090
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
-    claim_hash: d95943c247f6e93ebeb4041f8ae6f71f8a2e9c2e6211b90b31e617247c36131d
-    content: Luis Elizondo conducted a deep dive into government historical records including Project Blue Book and its predecessors,
-      Project Sign and Project Grudge.
-    original_excerpt: I had done a deep dive into Project Blue Book and its predecessors, Projects Sign and Grudge.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
-        title: Project GRUDGE
-        slug: project-grudge
-      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-        title: Project Blue Book
-        slug: project-blue-book
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
-        title: Project Sign
-        slug: project-sign
-    date: null
-    date_end: null
-    location_in_record: ch25:13747-13833
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
     claim_hash: d80f9ae582e33939a88d2bffb75f92079177b39b492664acd5cbaf7abf28b3f3
     content: In December 1947, the United States Air Force Chief of Staff established Project Sign to investigate the first
@@ -729,6 +698,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -750,7 +724,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 447d013a-77f2-4f73-a343-741ae02dda20
@@ -767,6 +741,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.561
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -788,7 +767,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: fde445ac-828e-47ad-97fc-01db680f2c9a
@@ -808,6 +787,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c33f24d-2663-4c2a-b542-8ac668326e20
         title: Edward Ruppelt
@@ -829,7 +813,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: ac62cbd0-e319-4d58-9ee4-f7c768d9b76d
@@ -848,6 +832,11 @@ claims:
         - an AARO historical interview
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
         title: Project SAUCER
@@ -866,7 +855,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 5272ceb4-83f0-40a9-86c5-0a0e4035e9b3
@@ -882,6 +871,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cc888145-58ee-42f5-b3c9-7a90e71ae117
         title: Project SAUCER
@@ -900,7 +894,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 3f5a1312-4839-4879-9aaa-6823c1093f3d
@@ -916,6 +910,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
         title: Air Technical Intelligence Center (ATIC)
@@ -934,7 +933,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: ea3ea9d3-b623-48e6-83ef-c847aedd6082
@@ -952,6 +951,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -967,7 +971,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 83d711a1-8b87-4afd-b4ef-54bc0be5d4aa
@@ -985,6 +989,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -1000,7 +1009,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: f441dac4-6f3e-4798-a995-21ba81ca010b
@@ -1016,6 +1025,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -1034,7 +1048,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 7c2b249b-c511-472b-94ac-a55b65c1d047
@@ -1052,6 +1066,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -1067,7 +1086,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 9511da36-d1dc-4fe1-b777-8ae900fe2db7
@@ -1085,6 +1104,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -1100,7 +1124,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: d92f0a36-784b-49c1-8b6c-b2341cb0de4d
@@ -1116,6 +1140,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.79
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -1131,7 +1160,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: cc43f225-4abf-4682-ad42-4f0b02413ec7
@@ -1147,6 +1176,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -1162,7 +1196,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 3d22e6c9-0bab-445a-8150-a229d38f8597
@@ -1182,6 +1216,11 @@ claims:
         - an unsubstantiated historical account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
         title: Estimate of the Situation (1948)
@@ -1200,7 +1239,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e984df86-4539-467a-8a19-1d2ece79ac6f
@@ -1218,6 +1257,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
         title: Project GRUDGE (Original Organization)
@@ -1239,7 +1283,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 6c49323d-2552-4b92-8403-073fb6b8cf75
@@ -1255,6 +1299,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
         title: Project GRUDGE (Original Organization)
@@ -1273,7 +1322,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 3ac27daf-5c26-4b31-9cb6-7bb714d9f16b
@@ -1292,6 +1341,11 @@ claims:
         - The Report on Unidentified Flying Objects
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
         title: Project Sign
@@ -1307,7 +1361,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 6b01fcf7-8c6a-4532-9941-e4e51335c363
@@ -1326,6 +1380,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7a2adbe8-5a43-4700-a844-a24d35748e19
         title: Project GRUDGE (Original Organization)
@@ -1347,7 +1406,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: acaf2b07-3d2b-4f35-8fd2-7c54cef6ed99
@@ -1365,6 +1424,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fca1350-3310-4376-94f8-19d3ddff86d6
         title: Air Technical Intelligence Center (ATIC)
@@ -1389,7 +1453,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: d8dbcd58-dfbf-4b6a-8471-d9b86c7bceae
@@ -1407,6 +1471,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14b86ce0-520c-4311-a6fd-390be693d24d
         title: CIA Special Study Group 1952
@@ -1434,7 +1503,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 02b02936-f9c9-4184-b8d5-698bd1eb362d
@@ -1452,6 +1521,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d604549a-40b2-441c-9756-9b27ffdc6925
         title: Estimate of the Situation (1948)
@@ -1470,9 +1544,135 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 5d634a25-d1ea-42a7-b2ea-2f4c1a649b47
+    claim_hash: 76fe04b9db10e858be764b26c7076fb78a78c83a7bf007940e4c957cef9e59d4
+    content: The United States Air Force studied Unidentified Aerial Phenomena (UAP) in 1948 and 1949 under Project Sign and
+      Project Grudge.
+    original_excerpt: The Air Force had studied UAP in 1948 and 1949, under the auspices of two year-old studies known as
+      Project Sign and Project Grudge.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch12:27859-27984
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3c6a7780-f5d1-4b64-af32-3f2843e4e221
+    claim_hash: 71b409effea6976282f3ad0621cacd2d1791844a0ca5eb5ee12e6b683a86553e
+    content: Project Sign's findings on Unidentified Aerial Phenomena (UAP) were inconclusive but open to the possibility
+      of extraterrestrial origins for the craft.
+    original_excerpt: Sign's findings were inconclusive but open to the possibility of extraterrestrial origins for the craft.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch12:27992-28090
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9a5cd75b-2ebf-43ea-94a6-2ff3fcf6f924
+    claim_hash: d95943c247f6e93ebeb4041f8ae6f71f8a2e9c2e6211b90b31e617247c36131d
+    content: Luis Elizondo conducted a deep dive into government historical records including Project Blue Book and its predecessors,
+      Project Sign and Project Grudge.
+    original_excerpt: I had done a deep dive into Project Blue Book and its predecessors, Projects Sign and Grudge.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 3d59ca99-543d-402a-ac33-f68d428fc728
+        title: Project GRUDGE
+        slug: project-grudge
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+        title: Project Sign
+        slug: project-sign
+    date: null
+    date_end: null
+    location_in_record: ch25:13747-13833
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 09c2d7e8-753a-40b6-a98b-2c301e9f7083
     claim_hash: 64e2b86c78c3bc42b17631a7e766b6b93cfc68c619c7ced4b2035cd57edc52bf
     content: Robert Bigelow regards Project Sign, Project Grudge, the Robertson Panel and the Condon Report as cover-up efforts,
@@ -1490,6 +1690,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow

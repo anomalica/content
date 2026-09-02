@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 95698657e1f1ab2b77ecf96b516d8a75ea866d89a1d49dc6ceda9972c9928bb4
+brief_hash: 98ea7f21bb0157d1ea7235a55da8433a6c2d3c9eec839afaff7ebb0d7e60bd11
 page:
   kind: entity
   node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
@@ -9,11 +9,21 @@ page:
   claim_count: 54
   claim_count_total: 54
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 54
   tokens_estimated: 7334
   sized_against: 1050000
+entailment:
+  assessed: 54
+  unassessed: 0
+  entails: 31
+  neutral: 20
+  contradicts: 3
+  entailed_by_quote: 18
+  entailed_by_window: 13
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.241
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -27,7 +37,7 @@ related_nodes:
     title: Roswell incident (1947)
     node_type: event
     slug: roswell-incident-1947
-    shared_claims: 22
+    shared_claims: 21
   - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
     title: Annie Jacobsen
     node_type: person
@@ -48,6 +58,11 @@ related_nodes:
     node_type: person
     slug: ross-coulthart
     shared_claims: 3
+  - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+    title: 1948 Roswell UFO incident
+    node_type: event
+    slug: 1948-roswell-ufo-incident
+    shared_claims: 2
   - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
     title: Arthur Exon
     node_type: person
@@ -68,6 +83,16 @@ related_nodes:
     node_type: person
     slug: tyler-d
     shared_claims: 2
+  - node_id: 19203868-f029-4cce-aa1f-2398c56fb5f2
+    title: 1947 Eyre Peninsula Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1947-eyre-peninsula-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
+  - node_id: 3fa5136f-1d45-49f7-8d01-5b6e4889cad3
+    title: 1947 Gogeldrie Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1947-gogeldrie-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
   - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
     title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
     node_type: document
@@ -77,11 +102,6 @@ related_nodes:
     title: 1994 US Air Force Roswell report
     node_type: document
     slug: 1994-us-air-force-roswell-report
-    shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: 01d60144-0223-429a-be05-68c1b613b870
     title: 2007 Roswell horseshoe-object sighting
@@ -97,6 +117,11 @@ related_nodes:
     title: Albert Einstein
     node_type: person
     slug: albert-einstein
+    shared_claims: 1
+  - node_id: e50525a8-d23d-4396-a6a4-1856c1cf1aa9
+    title: Annual Roswell Unidentified Flying Object (UFO) Festival
+    node_type: event
+    slug: annual-roswell-unidentified-flying-object-ufo-festival
     shared_claims: 1
   - node_id: 419a6395-f958-4ca3-bc05-62f515f01ad1
     title: Australia, Western Australia, Exmouth
@@ -158,24 +183,9 @@ related_nodes:
     node_type: organisation
     slug: joint-chiefs-of-staff
     shared_claims: 1
-  - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-    title: Joseph Stalin
-    node_type: person
-    slug: joseph-stalin
-    shared_claims: 1
-  - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
-    title: July 8, 1947 Roswell Army Air Field press release
-    node_type: document
-    slug: 1947-roswell-army-air-field-press-release-july-8
-    shared_claims: 1
-  - node_id: 84ccf755-b56c-4e1a-9d9d-a28fb0dbf2c5
-    title: Patricia Carroll
-    node_type: person
-    slug: patricia-carroll
-    shared_claims: 1
 claims:
   - claim_id: 0fd1d09f-713e-49d9-a306-7968e8508295
-    claim_hash: 1a39c254436ffd1194ac7d95351a0e1dc84cbc2f7d19061c841a1d46f30197de
+    claim_hash: 33207ca8d3267ef575314b26c5a694fa1f0ef1f948d8e969cbb99ecbc2dae663
     content: 1947-06-25 is one possible date given for the Roswell UFO crash in New Mexico.
     original_excerpt: and one possible date given for the infamous UFO crash at Roswell, New Mexico
     claim_type: opinion
@@ -189,6 +199,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.659
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -210,7 +225,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 76ad3e6a-d2f9-4bda-bf41-e9442230e69a
-    claim_hash: 9a9278b97233afaba419c7495aa174aa2151c98c4ea7bcb2a001821272721123
+    claim_hash: 517736925b73dd29ec8fb7129305c8d9ab36130d207ac0a4701d681ccfccb3d4
     content: The memo mailed to Jaime Shandera described the crash of a flying saucer in the New Mexico desert near Roswell
       in 1947 and the recovery of bodies and a subsequent cover-up.
     original_excerpt: The memo described the now famous crash of a flying saucer in the New Mexico desert in 1947 near Roswell
@@ -224,6 +239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1509913e-5dc2-44ee-bbdc-4e37daea7fe3
         title: Jaime Shandera
@@ -262,6 +282,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c8f5937-374e-48ff-ad30-6894ae0ce10c
         title: Robert Goddard
@@ -298,6 +323,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -316,7 +346,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: 8981523e-1132-431f-a55d-d8560b578966
-    claim_hash: a2287c568b612ac706039a6e4d8bdb19e62e7cfe3536a74601d52920ec8a1d6f
+    claim_hash: ab8a96c37a5652c8600dc670e1f24af8549fcfd46a2c5e2d3580608ea6fbdaa3
     content: On the evening of July 2, 1947, something brightly lit was seen by members of the public in the skies over Roswell,
       crossing in a northwesterly direction, and was reported locally.
     original_excerpt: on the evening of July 2, something was seen by members of the public in the skies over Roswell and
@@ -330,6 +360,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -367,6 +402,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.525
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
         title: July 8, 1947 Roswell Army Air Field press release
@@ -394,7 +434,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: f278d11d-745c-48ac-93aa-04083021b7d9
-    claim_hash: 1a9aac74afd2f8ca898dd0d8f8026c83abfdf61db19ab135c585b34201624f8d
+    claim_hash: fe4c097681745b50e0d72693832b85865cb401d999781734fe31863a7355d9a3
     content: A later report was issued stating that the Roswell disc was a crashed weather balloon.
     original_excerpt: Later a report was issued to the effect that this disk was a crashed weather balloon.
     claim_type: administrative
@@ -406,6 +446,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -427,7 +472,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: 6ee54ec1-c071-4131-a791-597983587129
-    claim_hash: 974f7da0db4622b1b976846470a24da768a701bd971044d11634cd838cd9ce0e
+    claim_hash: 035895f52068e90e90cd06831cb3d46ae7fe6e6a52ca739ca713b64fa6565c91
     content: USA, New Mexico, Roswell hosts an annual four-day UFO festival.
     original_excerpt: the town hosts an annual four-day UFO festival
     claim_type: observation
@@ -441,13 +486,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
-      - node_id: 45042efd-1022-4cbb-a74a-097a2de515cd
-        title: Roswell UFO Festival
-        slug: roswell-ufo-festival
+      - node_id: e50525a8-d23d-4396-a6a4-1856c1cf1aa9
+        title: Annual Roswell Unidentified Flying Object (UFO) Festival
+        slug: annual-roswell-unidentified-flying-object-ufo-festival
     date: null
     date_end: null
     location_in_record: ch1:1882-1920
@@ -478,6 +528,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -516,6 +571,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -537,7 +597,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: f34c3dae-548f-4b87-926d-08eb26ae2f56
-    claim_hash: 84622f6288e897f36887cb38ec767d7aa247c94c7b14ed5dc2994f1e575372c7
+    claim_hash: a75057361dba7bab108bd9e7ed0305b026adff8c35e8b3d84d323126636dcb33
     content: Edgar Mitchell grew up in Roswell, New Mexico, the site of the 1947 Roswell UFO crash.
     original_excerpt: and his early years growing up in Roswell, New Mexico, the site of the world famous Roswell UFO crash.
     claim_type: administrative
@@ -549,6 +609,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -589,6 +654,11 @@ claims:
         - Rey Hernandez
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.798
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -626,6 +696,11 @@ claims:
         - Rey Hernandez
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -664,6 +739,11 @@ claims:
         - Rey Hernandez
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.902
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -685,7 +765,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: e06d2874-9f20-4428-b858-379781b35588
-    claim_hash: 1f45444495e23fd6ef032d36cfbbb276fa34411ea272bcaf789a3377f8a45799
+    claim_hash: b455faa6d7ce40f58b953571fb8f42628c95fa16acc2be72bd69b9efef79f1f6
     content: When Edgar Mitchell returned to Roswell, New Mexico, many old-timers and their children pulled him aside and
       told him intimate stories of the ship that crashed in Roswell.
     original_excerpt: When he returned to Roswell, many of the old timers and their children began to pull him aside and told
@@ -702,6 +782,11 @@ claims:
         - Rey Hernandez
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.912
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -725,835 +810,6 @@ claims:
       record_reference: null
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
-  - claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
-    claim_hash: dfe2103bd1de873d34cf2ce0a8eb9e59c23220e33572e7383ac60e317ae771f7
-    content: Annie Jacobsen wrote that in July 1947 United States Signal Corps engineers tracked two anomalous objects flying
-      across the south-western United States, with the craft sometimes hovering before continuing to fly on.
-    original_excerpt: Jacobsen wrote that in July 1947, US Signal Corps engineers tracked two anomalous objects flying across
-      the south-western United States, the craft sometimes hovering before continuing to fly on.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Annie Jacobsen's Area 51 book
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-    date: 1947-07
-    date_end: null
-    location_in_record: ch18:1408-1599
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
-    claim_hash: d5b5e1a0b6e5459c5cb008cd66e2f53cd89004f33ae8c72a18c0b00bef364878
-    content: According to Annie Jacobsen, one of the two anomalous flying objects tracked in July 1947 crashed near Roswell,
-      New Mexico, and the office of the Joint Chiefs of Staff took command and control and recovered the airframe and some
-      propulsion equipment, including the crashed craft's power plant or energy source.
-    original_excerpt: One of the flying objects crashed near Roswell and 'immediately, the office of the Joint Chiefs of Staff
-      . . . took command and control and recovered the airframe and some propulsion equipment, including the crashed craft's
-      power plant, or energy source'.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Annie Jacobsen's Area 51 book
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-      - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
-        title: Joint Chiefs of Staff
-        slug: joint-chiefs-of-staff
-    date: 1947-07
-    date_end: null
-    location_in_record: ch18:1603-1850
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
-    claim_hash: 67d1658f8b325e6795bc7ff041d6d9763353575dd03a54da844fd89500eba784
-    content: According to Annie Jacobsen, the craft that crashed near Roswell was nothing like any conventional aircraft,
-      having no wings or tail, a round fuselage and a dome on top.
-    original_excerpt: The craft was nothing like any conventional aircraft, with no wings or tail, a round fuselage and a
-      dome on the top, with secret army memos declassified in 1994 referring to it as a 'flying disc'.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Annie Jacobsen's Area 51 book
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-    date: 1947-07
-    date_end: null
-    location_in_record: ch18:1860-2050
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
-    claim_hash: b13b9b57de87ef0eb38c6c4feb321143d75baca4b96bf5ff979529a1a1829491
-    content: Secret United States Army memos declassified in 1994 referred to the object that crashed near Roswell in 1947
-      as a 'flying disc'.
-    original_excerpt: '...with secret army memos declassified in 1994 referring to it as a ''flying disc''.'
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 1994 US Air Force Roswell report
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
-        title: 1994 US Air Force Roswell report
-        slug: 1994-us-air-force-roswell-report
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
-        title: United States Army
-        slug: united-states-army
-    date: '1994'
-    date_end: null
-    location_in_record: ch18:1977-2050
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
-    claim_hash: 660e194244a5e7ee130616c55c0f354954c1e8bf5f8b6d617c010b2ef2d780e1
-    content: Annie Jacobsen's book asserts that what crashed at Roswell in 1947 was actually a Russian craft, built by captured
-      Nazi Germany scientists.
-    original_excerpt: Where her book courted most controversy was Jacobsen's extraordinary assertion that what crashed at
-      Roswell was actually Russian, crafted by captured Nazi Germany scientists.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Annie Jacobsen's Area 51 book
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
-        title: Soviet Union
-        slug: soviet-union
-    date: '1947'
-    date_end: null
-    location_in_record: ch18:2057-2220
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
-    claim_hash: 12a17fdc192641306b8ba416428a94da71bfed5637420ec7cd8f2aef800f07eb
-    content: Annie Jacobsen's book claims that bodies found on the craft that crashed at Roswell in 1947 were of 'grotesquely
-      deformed' children with unusually large heads and abnormally-shaped oversize eyes.
-    original_excerpt: Her even more dramatic claim – that bodies found on the craft were those of 'grotesquely deformed' children
-      with unusually large heads and abnormally-shaped oversize eyes – was savaged by sceptics.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Annie Jacobsen's Area 51 book
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-    date: '1947'
-    date_end: null
-    location_in_record: ch18:2232-2421
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
-    claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
-    content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell craft to land in New Mexico and cause
-      a War of the Worlds-style panic.
-    original_excerpt: Joseph Stalin supposedly intended the craft to land at New Mexico and cause a War of the Worlds-style
-      panic.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Annie Jacobsen's Area 51 book
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-      - node_id: a17397f1-2702-420a-9578-584220463893
-        title: The War of the Worlds
-        slug: the-war-of-the-worlds
-      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
-        title: Joseph Stalin
-        slug: joseph-stalin
-    date: '1947'
-    date_end: null
-    location_in_record: ch18:2655-2759
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
-    claim_hash: 72efcd9821e5ea65bc988fd6a93d3f6e34e11c6221565639ae6b6394b06c185e
-    content: Annie Jacobsen's source for her Area 51 book claimed the deformed children found at the Roswell crash site were
-      comatose but still alive.
-    original_excerpt: Jacobsen's source also claimed the deformed children were 'comatose but still alive'.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: a person claiming to have confidential knowledge relayed to Annie Jacobsen for her Area 51 book
-      relay:
-        - Annie Jacobsen
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0ebef494-7138-409f-8759-58961e45979e
-        title: Area 51 (Annie Jacobsen book)
-        slug: area-51-annie-jacobsen-book
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
-        title: Annie Jacobsen
-        slug: annie-jacobsen
-    date: '1947'
-    date_end: null
-    location_in_record: ch18:2766-2844
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
-    claim_hash: 3c833c4dcf94301a204c4f5c0899e01dd34c337be44b7b0785b29e8d62a706bc
-    content: Philip Corso asserted that an alien spacecraft crashed at Roswell, New Mexico in 1947 and was recovered by the
-      US government.
-    original_excerpt: Corso asserted that there was indeed an alien spacecraft crash at Roswell in 1947 that was recovered
-      by the US government.
-    claim_type: opinion
-    attestation: second_hand
-    speaker:
-      node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
-      title: Philip Corso
-    provenance_chain:
-      origin_kind: named
-      origin: Philip Corso
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
-        title: Philip Corso
-        slug: philip-corso
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: '1947'
-    date_end: null
-    location_in_record: ch25:22089-22200
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
-    claim_hash: e4a64c885ee05fe787e3bf6143c683522e2bec227ddca147cf56fb637ca4eddd
-    content: Whitley Strieber told Strom Thurmond in a letter that United States Army Brigadier General Arthur Exon told him
-      personally in 1989 that there was a 'completely unequivocal cover-up' of a retrieved alien craft at Roswell, New Mexico
-      that 'went from Truman on down'.
-    original_excerpt: Strieber told the Senator in his letter that US Army Brigadier General Arthur Exon had told him personally
-      in 1989 that there was a 'completely unequivocal cover-up' of a retrieved alien craft at Roswell and 'it went from [President
-      Harry] Truman on down'.
-    claim_type: hearsay
-    attestation: third_hand
-    speaker:
-      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-      title: Whitley Strieber
-    provenance_chain:
-      origin_kind: named
-      origin: Arthur Exon
-      relay:
-        - a letter from Whitley Strieber to Strom Thurmond
-        - Edgar Mitchell's fax citing the letter
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-        title: Whitley Strieber
-        slug: whitley-strieber
-      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
-        title: Arthur Exon
-        slug: arthur-exon
-      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
-        title: Harry S. Truman
-        slug: harry-s-truman
-      - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
-        title: Strom Thurmond
-        slug: strom-thurmond
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: '1989'
-    date_end: null
-    location_in_record: ch25:22926-23176
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
-    claim_hash: a00a4eab85c7d4a0a0238c1e9c2116d2c8e7929c14662dac0b4e644759aa9a87
-    content: Jesse Marcel later claimed he was ordered to collude in a cover-up and that the real debris he recovered near
-      Roswell was extra-terrestrial in origin.
-    original_excerpt: Three decades later, Marcel claimed that he was ordered to collude in a cover-up and that the real debris
-      he recovered from near Roswell was extra-terrestrial in origin.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: f888411e-b882-4f89-8275-350d19f6c52d
-      title: Jesse Marcel
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jesse Marcel
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
-        title: Jesse Marcel
-        slug: jesse-marcel
-    date: null
-    date_end: null
-    location_in_record: ch37:260-422
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a798d39a-7e5d-473a-9768-35490f5dd08f
-    claim_hash: bd57d991bb441746912b82182f13c6dfb45c99d1d695a4cef2388b4679be1e86
-    content: Something crashed at Roswell, New Mexico in 1947.
-    original_excerpt: Something crashed, and it is tempting to accept the air force's explanation
-    claim_type: opinion
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: the author of In Plain Sight
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: '1947'
-    date_end: null
-    location_in_record: ch7:21309-21373
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: e9764c4e-d543-418b-ab8e-ff7074caf647
-    claim_hash: 189c67bdcf829056b7ff43736ae296a3f64fa7264d46b14dd03dbd5a52f5312b
-    content: The 1947 Australian UAP sightings all occurred just before the Roswell sighting event in New Mexico, USA.
-    original_excerpt: These events also all happened just before a sighting event in New Mexico, USA, that, for many, is the
-      origin myth of the great modern extra-terrestrial conspiracy theory – Roswell.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: null
-    date_end: null
-    location_in_record: ch7:4853-5026
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ac0754c2-4de7-47b5-9707-fc7c7761e17c
-    claim_hash: 4bf04da7ad76a9de6db5d7fbc5f37f3d786bbe1c6e53c314c16da64981250780
-    content: On 1 July 1947, a disc-shaped UAP was seen zigzagging across the sky in New Mexico.
-    original_excerpt: On 1 July, a disc-shaped UAP was seen zigzagging across the sky in New Mexico
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-    date: '1947-07-01'
-    date_end: null
-    location_in_record: ch7:7151-7222
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
-    claim_hash: 4db1d7ec92e106453ea805c9f33d67727aff8faa6ffc995fd3ed098e0d30c22e
-    content: On 5 July 1947, ranch foreman Mac Brazel found crash debris scattered across a cattle ranch 120 kilometres from
-      Roswell in New Mexico.
-    original_excerpt: On 5 July 1947, a ranch foreman named Mac Brazel found crash debris scattered across a cattle ranch
-      120 kilometres from Roswell in New Mexico.
-    claim_type: observation
-    attestation: second_hand
-    speaker:
-      node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
-      title: Mac Brazel
-    provenance_chain:
-      origin_kind: named
-      origin: Mac Brazel
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
-        title: Mac Brazel
-        slug: mac-brazel
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: '1947-07-05'
-    date_end: null
-    location_in_record: ch7:8249-8384
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 374893ac-76a5-4ca2-a365-f2cd2d6f62e1
-    claim_hash: 6d7728b30385d20e68aefbc2ca0df97251de7f1820832a22a4f9b00fb2943642
-    content: Roswell had a population of about 50,000 as a growing city at the time of the book's writing, compared to about
-      15,000 in the late 1940s.
-    original_excerpt: These days Roswell is a growing city with a population of about 50,000 but in the late 1940s it was
-      a much smaller town of about 15,000, servicing local farmers and local military bases.
-    claim_type: measurement
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-    date: null
-    date_end: null
-    location_in_record: ch7:8392-8572
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 87333893-6e9a-4232-9480-010907b2ae24
-    claim_hash: d5d417f69b6d647b6a76a2bca54184756b001a5d44fde38548c8accd573cd6eb
-    content: Since the 1930s, the empty high plains of south-eastern New Mexico have been a test area for the United States'
-      space and aerospace technology.
-    original_excerpt: Since the 1930s, the empty high plains of southeastern New Mexico have been a test area for the United
-      States’ space and aerospace technology.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-    date: 1930s
-    date_end: null
-    location_in_record: ch7:8579-8710
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 0494cac5-669f-4ace-8a20-3d71aaecc62f
-    claim_hash: 149ad593773ebdf7f92f84ec855ccea1aa397e254c06cea811ac1b7f32b49707
-    content: Mac Brazel drove into Roswell to report his find of crash debris.
-    original_excerpt: So Brazel drove into Roswell to report his find.
-    claim_type: observation
-    attestation: second_hand
-    speaker:
-      node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
-      title: Mac Brazel
-    provenance_chain:
-      origin_kind: named
-      origin: Mac Brazel
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
-        title: Mac Brazel
-        slug: mac-brazel
-    date: '1947-07-05'
-    date_end: null
-    location_in_record: ch7:8722-8765
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cf4bf759-8ebf-4025-afbf-0331ff4eebf4
-    claim_hash: 9cb0563a58d52727b2e305e0b10aa8fdeaf3176bd7c48ff892357c64413cbdff
-    content: The New Mexico White Sands testing ground is a two-hour drive west of the Roswell crash site.
-    original_excerpt: The New Mexico White Sands testing ground, two hours’ drive west of the crash site, was where the US
-      Army had conducted the world’s first-ever detonation of the ‘Trinity’ nuclear device on 16 July 1945.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
-        title: USA, New Mexico, White Sands
-        slug: new-mexico-white-sands-usa
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-    date: null
-    date_end: null
-    location_in_record: ch7:9314-9537
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4bad59c8-349b-4c83-bd70-1d6f88776cee
-    claim_hash: 65fdd3a6c8f242e08ad05233f9fe10d53a4b20c9464ed2e70fc7eb8f6c8c25db
-    content: A 9 January 1950 issue of Time magazine reported rumours that crashed 'flying saucers' and 'small humanoid looking
-      bodies' had been recovered from crashes in New Mexico.
-    original_excerpt: a 9 January 1950 issue of the news magazine Time reported rumours that crashed 'flying saucers' and
-      'small humanoid looking bodies' had been recovered from crashes in New Mexico
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Time magazine, 9 January 1950 issue
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: ebf8f0be-bcc6-41db-ad1b-d193b79caf70
-        title: Time
-        slug: time
-    date: '1950-01-09'
-    date_end: null
-    location_in_record: ch8:3847-4020
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 0ab17aff-9022-4237-b04b-d928a830360a
-    claim_hash: a540273761178deac5307761c6141e4a2b14d30bac2899e04a1c5866d686b563
-    content: In March 1950, the 1950 Guy Hottel FBI memo told J. Edgar Hoover that an air force investigator had disclosed
-      that three so-called flying saucers had been recovered in New Mexico.
-    original_excerpt: That was followed by an astounding report to Federal Bureau of Investigation (FBI) boss J. Edgar Hoover
-      in March 1950, telling him that an air force investigator had disclosed 'that three so-called flying saucers had been
-      recovered in New Mexico.'
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: a person claiming to be an air force investigator
-      relay:
-        - 1950 Guy Hottel FBI memo
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
-        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
-        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 6f1e0dd5-985e-4246-897b-e298465a41c6
-        title: J. Edgar Hoover
-        slug: j-edgar-hoover
-    date: 1950-03
-    date_end: null
-    location_in_record: ch8:4028-4267
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 5628ddab-cce3-4da2-b69e-b66aca767b46
-    claim_hash: 5baf725073ebe825893a605b904f6ab4834ade751fceba81a8bcd801b52654de
-    content: Behind the Flying Saucers alleged there had been multiple crashes and retrievals of extra-terrestrial flying
-      saucers in New Mexico.
-    original_excerpt: which alleged there had been multiple crashes and retrievals of ET flying saucers in New Mexico
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Behind the Flying Saucers
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
-        title: Behind the Flying Saucers
-        slug: behind-the-flying-saucers
-    date: null
-    date_end: null
-    location_in_record: ch8:6906-6995
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ef05f67b-fc60-4e9d-9cd6-80b17ada9108
     claim_hash: 4cb2cb2db786bf3cc294fdc61ecb90544654b53b51f3b9e0337d0d7733930f97
     content: David Mahler is a historian based near Roswell, New Mexico, who has compiled a large collection of top-secret
@@ -1569,6 +825,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 025270b1-d5bc-4fbd-a423-b5e58b124973
         title: David Marler
@@ -1604,6 +865,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -1628,7 +894,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: fc5d72e4-5c72-4a19-a61e-d8b85d2a58fa
-    claim_hash: ca8cdc037a11597543d1d864c182ff648fb5052e6f7e1cdbc8b2e8838da1e059
+    claim_hash: 08cf5b9b8f589d90e0c96ae26865c37e094a2b99adbf87564ca919d466826b7c
     content: An anonymous source claiming to be a senior US defence or intelligence official told Ross Coulthart that one
       recovered alien spacecraft came from near Roswell, New Mexico.
     original_excerpt: And one of them was recovered from near here.
@@ -1643,13 +909,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.771
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -1667,7 +938,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: d97d7530-ce7e-43d5-9066-5a89ad358d53
-    claim_hash: 635b2dce06c8fbf2b4fa7da790f4a2ccbf64c1a6fe6a395d13528b92421fc084
+    claim_hash: 6b961507f415ab6ea2ba89692a87b603fd0e72d68c8a59668377e74be4ca13a7
     content: On 1948-03-25, oil workers discovered a lenticular craft after being called out because of a brush fire.
     original_excerpt: Well, on March 25th, 1948, oil workers discovered a lenticular craft laying up here after being called
       out because of a brush fire.
@@ -1682,16 +953,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
       - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
         title: Scott Ramsey
         slug: scott-ramsey
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: '1948-03-25'
     date_end: null
     location_in_record: 00:58:33.1-00:58:42.5
@@ -1705,102 +981,488 @@ claims:
       record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
-  - claim_id: 2758071a-b28c-44e8-8682-25fcfd22e1d5
-    claim_hash: 1969f4e9ff60ef70d353e5659edc3f0d43a82257e453c5f73de5f5af98afcbda
-    content: The 1947 Roswell UAP crash occurred in the vicinity of a government test facility in New Mexico and broke into
-      two crash sites.
-    original_excerpt: A UAP fell that day in the vicinity of a government test facility in New Mexico and broke into two crash
-      sites.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
+  - claim_id: 933c7ef0-7d69-4eb6-a6ca-c052edd99b50
+    claim_hash: dfe2103bd1de873d34cf2ce0a8eb9e59c23220e33572e7383ac60e317ae771f7
+    content: Annie Jacobsen wrote that in July 1947 United States Signal Corps engineers tracked two anomalous objects flying
+      across the south-western United States, with the craft sometimes hovering before continuing to fly on.
+    original_excerpt: Jacobsen wrote that in July 1947, US Signal Corps engineers tracked two anomalous objects flying across
+      the south-western United States, the craft sometimes hovering before continuing to fly on.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
     provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
       relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-        title: Roswell incident (1947)
-        slug: roswell-incident-1947
-    date: null
-    date_end: null
-    location_in_record: ch12:15179-15284
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: dd282559-5186-46bd-86bc-762f62edbcfb
-    claim_hash: dd69acc8991c9b1bb518b38ff1f5cd72c61bf5f1e0bf296590656f7b599e632c
-    content: Edgar Mitchell grew up on a ranch in the Roswell, New Mexico area, which contributed to his lifelong championing
-      of the UAP topic.
-    original_excerpt: He was also a longtime champion of the UAP topic, due to his childhood growing up on a ranch in the
-      Roswell, New Mexico, area and what he had since learned as an astronaut.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
-        title: USA, New Mexico, Roswell
-        slug: new-mexico-roswell-usa
-      - node_id: 59476464-a679-46ce-9247-b0adcb287762
-        title: Edgar Mitchell
-        slug: edgar-mitchell
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch12:8252-8440
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
-    claim_hash: 53d00770e9f2037d1ee68cf1dc15147f73614d54e06a52d185a732ed2e22504d
-    content: Federal Bureau of Investigation (FBI) agents visited ranchers in the Roswell, New Mexico region door-to-door
-      to deliver the message that anyone who spoke about the 1947 Roswell UAP crash would be killed.
-    original_excerpt: 'FBI agents visited ranchers in the region, going door-to-door to deliver the threatening message: if
-      you speak about the crashes, you will be killed.'
-    claim_type: testimony
-    attestation: third_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: named
-      origin: Edgar Mitchell
-      relay:
-        - Harold Puthoff and Eric Davis
-        - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: 1947-07
+    date_end: null
+    location_in_record: ch18:1408-1599
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 52a9876c-b751-49e9-bd11-917b0ca90206
+    claim_hash: d5b5e1a0b6e5459c5cb008cd66e2f53cd89004f33ae8c72a18c0b00bef364878
+    content: According to Annie Jacobsen, one of the two anomalous flying objects tracked in July 1947 crashed near Roswell,
+      New Mexico, and the office of the Joint Chiefs of Staff took command and control and recovered the airframe and some
+      propulsion equipment, including the crashed craft's power plant or energy source.
+    original_excerpt: One of the flying objects crashed near Roswell and 'immediately, the office of the Joint Chiefs of Staff
+      . . . took command and control and recovered the airframe and some propulsion equipment, including the crashed craft's
+      power plant, or energy source'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
+        title: Joint Chiefs of Staff
+        slug: joint-chiefs-of-staff
+    date: 1947-07
+    date_end: null
+    location_in_record: ch18:1603-1850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3439fe37-96d0-47ee-8949-f0e416bb3503
+    claim_hash: 67d1658f8b325e6795bc7ff041d6d9763353575dd03a54da844fd89500eba784
+    content: According to Annie Jacobsen, the craft that crashed near Roswell was nothing like any conventional aircraft,
+      having no wings or tail, a round fuselage and a dome on top.
+    original_excerpt: The craft was nothing like any conventional aircraft, with no wings or tail, a round fuselage and a
+      dome on the top, with secret army memos declassified in 1994 referring to it as a 'flying disc'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: 1947-07
+    date_end: null
+    location_in_record: ch18:1860-2050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 233f477a-b1cd-40e7-8cc1-bb2bda18153b
+    claim_hash: b13b9b57de87ef0eb38c6c4feb321143d75baca4b96bf5ff979529a1a1829491
+    content: Secret United States Army memos declassified in 1994 referred to the object that crashed near Roswell in 1947
+      as a 'flying disc'.
+    original_excerpt: '...with secret army memos declassified in 1994 referring to it as a ''flying disc''.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1994 US Air Force Roswell report
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 05eb1fa5-44a7-40ce-93f3-065e6280401e
+        title: 1994 US Air Force Roswell report
+        slug: 1994-us-air-force-roswell-report
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
+        title: United States Army
+        slug: united-states-army
+    date: '1994'
+    date_end: null
+    location_in_record: ch18:1977-2050
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: edae0e41-581d-4198-9c8b-46d1b88c93df
+    claim_hash: 660e194244a5e7ee130616c55c0f354954c1e8bf5f8b6d617c010b2ef2d780e1
+    content: Annie Jacobsen's book asserts that what crashed at Roswell in 1947 was actually a Russian craft, built by captured
+      Nazi Germany scientists.
+    original_excerpt: Where her book courted most controversy was Jacobsen's extraordinary assertion that what crashed at
+      Roswell was actually Russian, crafted by captured Nazi Germany scientists.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.907
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+        title: Soviet Union
+        slug: soviet-union
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2057-2220
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cbac31ff-d273-4148-aede-fbd2671cd9cd
+    claim_hash: 12a17fdc192641306b8ba416428a94da71bfed5637420ec7cd8f2aef800f07eb
+    content: Annie Jacobsen's book claims that bodies found on the craft that crashed at Roswell in 1947 were of 'grotesquely
+      deformed' children with unusually large heads and abnormally-shaped oversize eyes.
+    original_excerpt: Her even more dramatic claim – that bodies found on the craft were those of 'grotesquely deformed' children
+      with unusually large heads and abnormally-shaped oversize eyes – was savaged by sceptics.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2232-2421
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1afaeda5-e619-46d5-a742-917a46fd2196
+    claim_hash: a1a4fc038f2d13326810ac9d321f0b136a05dc077098c20e3b23b50677b97133
+    content: According to Annie Jacobsen's book, Joseph Stalin intended the Roswell craft to land in New Mexico and cause
+      a War of the Worlds-style panic.
+    original_excerpt: Joseph Stalin supposedly intended the craft to land at New Mexico and cause a War of the Worlds-style
+      panic.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Annie Jacobsen's Area 51 book
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+      - node_id: a17397f1-2702-420a-9578-584220463893
+        title: The War of the Worlds
+        slug: the-war-of-the-worlds
+      - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+        title: Joseph Stalin
+        slug: joseph-stalin
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2655-2759
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1dd588aa-e84b-499d-a8e8-1bf3c724f57c
+    claim_hash: 72efcd9821e5ea65bc988fd6a93d3f6e34e11c6221565639ae6b6394b06c185e
+    content: Annie Jacobsen's source for her Area 51 book claimed the deformed children found at the Roswell crash site were
+      comatose but still alive.
+    original_excerpt: Jacobsen's source also claimed the deformed children were 'comatose but still alive'.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to have confidential knowledge relayed to Annie Jacobsen for her Area 51 book
+      relay:
+        - Annie Jacobsen
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0ebef494-7138-409f-8759-58961e45979e
+        title: Area 51 (Annie Jacobsen book)
+        slug: area-51-annie-jacobsen-book
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+        title: Annie Jacobsen
+        slug: annie-jacobsen
+    date: '1947'
+    date_end: null
+    location_in_record: ch18:2766-2844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 24c1905b-c08b-4619-8042-ea6d3d5c0b3b
+    claim_hash: 3c833c4dcf94301a204c4f5c0899e01dd34c337be44b7b0785b29e8d62a706bc
+    content: Philip Corso asserted that an alien spacecraft crashed at Roswell, New Mexico in 1947 and was recovered by the
+      US government.
+    original_excerpt: Corso asserted that there was indeed an alien spacecraft crash at Roswell in 1947 that was recovered
+      by the US government.
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+      title: Philip Corso
+    provenance_chain:
+      origin_kind: named
+      origin: Philip Corso
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+        title: Philip Corso
+        slug: philip-corso
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947'
+    date_end: null
+    location_in_record: ch25:22089-22200
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b16cf133-6aca-486b-8091-52bd8e641c06
+    claim_hash: e4a64c885ee05fe787e3bf6143c683522e2bec227ddca147cf56fb637ca4eddd
+    content: Whitley Strieber told Strom Thurmond in a letter that United States Army Brigadier General Arthur Exon told him
+      personally in 1989 that there was a 'completely unequivocal cover-up' of a retrieved alien craft at Roswell, New Mexico
+      that 'went from Truman on down'.
+    original_excerpt: Strieber told the Senator in his letter that US Army Brigadier General Arthur Exon had told him personally
+      in 1989 that there was a 'completely unequivocal cover-up' of a retrieved alien craft at Roswell and 'it went from [President
+      Harry] Truman on down'.
+    claim_type: hearsay
+    attestation: third_hand
+    speaker:
+      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      title: Whitley Strieber
+    provenance_chain:
+      origin_kind: named
+      origin: Arthur Exon
+      relay:
+        - a letter from Whitley Strieber to Strom Thurmond
+        - Edgar Mitchell's fax citing the letter
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+        title: Whitley Strieber
+        slug: whitley-strieber
+      - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+        title: Arthur Exon
+        slug: arthur-exon
+      - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+        title: Harry S. Truman
+        slug: harry-s-truman
+      - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+        title: Strom Thurmond
+        slug: strom-thurmond
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1989'
+    date_end: null
+    location_in_record: ch25:22926-23176
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: fc6eab2c-4ac6-4c1a-bb80-1c66d33009d5
+    claim_hash: a00a4eab85c7d4a0a0238c1e9c2116d2c8e7929c14662dac0b4e644759aa9a87
+    content: Jesse Marcel later claimed he was ordered to collude in a cover-up and that the real debris he recovered near
+      Roswell was extra-terrestrial in origin.
+    original_excerpt: Three decades later, Marcel claimed that he was ordered to collude in a cover-up and that the real debris
+      he recovered from near Roswell was extra-terrestrial in origin.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      title: Jesse Marcel
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Marcel
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -1808,22 +1470,462 @@ claims:
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
+      - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+        title: Jesse Marcel
+        slug: jesse-marcel
     date: null
     date_end: null
-    location_in_record: ch12:8596-8738
+    location_in_record: ch37:260-422
     evidence:
       score: null
       independent_sources: 1
     provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
       record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a798d39a-7e5d-473a-9768-35490f5dd08f
+    claim_hash: bd57d991bb441746912b82182f13c6dfb45c99d1d695a4cef2388b4679be1e86
+    content: Something crashed at Roswell, New Mexico in 1947.
+    original_excerpt: Something crashed, and it is tempting to accept the air force's explanation
+    claim_type: opinion
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: the author of In Plain Sight
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947'
+    date_end: null
+    location_in_record: ch7:21309-21373
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e9764c4e-d543-418b-ab8e-ff7074caf647
+    claim_hash: 333f29cb5219e119c97a2de8f68cd4b086bf2202624683096418c38ac2c5023b
+    content: The 1947 Australian UAP sightings all occurred just before the Roswell sighting event in New Mexico, USA.
+    original_excerpt: These events also all happened just before a sighting event in New Mexico, USA, that, for many, is the
+      origin myth of the great modern extra-terrestrial conspiracy theory – Roswell.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 19203868-f029-4cce-aa1f-2398c56fb5f2
+        title: 1947 Eyre Peninsula Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1947-eyre-peninsula-unidentified-aerial-phenomena-uap-sighting
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 3fa5136f-1d45-49f7-8d01-5b6e4889cad3
+        title: 1947 Gogeldrie Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1947-gogeldrie-unidentified-aerial-phenomena-uap-sighting
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch7:4853-5026
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ac0754c2-4de7-47b5-9707-fc7c7761e17c
+    claim_hash: 4bf04da7ad76a9de6db5d7fbc5f37f3d786bbe1c6e53c314c16da64981250780
+    content: On 1 July 1947, a disc-shaped UAP was seen zigzagging across the sky in New Mexico.
+    original_excerpt: On 1 July, a disc-shaped UAP was seen zigzagging across the sky in New Mexico
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+    date: '1947-07-01'
+    date_end: null
+    location_in_record: ch7:7151-7222
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 25b7f4ef-4a4b-415b-9ea4-f5b560915bd0
+    claim_hash: 4db1d7ec92e106453ea805c9f33d67727aff8faa6ffc995fd3ed098e0d30c22e
+    content: On 5 July 1947, ranch foreman Mac Brazel found crash debris scattered across a cattle ranch 120 kilometres from
+      Roswell in New Mexico.
+    original_excerpt: On 5 July 1947, a ranch foreman named Mac Brazel found crash debris scattered across a cattle ranch
+      120 kilometres from Roswell in New Mexico.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+      title: Mac Brazel
+    provenance_chain:
+      origin_kind: named
+      origin: Mac Brazel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+        title: Mac Brazel
+        slug: mac-brazel
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: '1947-07-05'
+    date_end: null
+    location_in_record: ch7:8249-8384
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 374893ac-76a5-4ca2-a365-f2cd2d6f62e1
+    claim_hash: 6d7728b30385d20e68aefbc2ca0df97251de7f1820832a22a4f9b00fb2943642
+    content: Roswell had a population of about 50,000 as a growing city at the time of the book's writing, compared to about
+      15,000 in the late 1940s.
+    original_excerpt: These days Roswell is a growing city with a population of about 50,000 but in the late 1940s it was
+      a much smaller town of about 15,000, servicing local farmers and local military bases.
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+    date: null
+    date_end: null
+    location_in_record: ch7:8392-8572
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 87333893-6e9a-4232-9480-010907b2ae24
+    claim_hash: d5d417f69b6d647b6a76a2bca54184756b001a5d44fde38548c8accd573cd6eb
+    content: Since the 1930s, the empty high plains of south-eastern New Mexico have been a test area for the United States'
+      space and aerospace technology.
+    original_excerpt: Since the 1930s, the empty high plains of southeastern New Mexico have been a test area for the United
+      States’ space and aerospace technology.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.617
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+    date: 1930s
+    date_end: null
+    location_in_record: ch7:8579-8710
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0494cac5-669f-4ace-8a20-3d71aaecc62f
+    claim_hash: 149ad593773ebdf7f92f84ec855ccea1aa397e254c06cea811ac1b7f32b49707
+    content: Mac Brazel drove into Roswell to report his find of crash debris.
+    original_excerpt: So Brazel drove into Roswell to report his find.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+      title: Mac Brazel
+    provenance_chain:
+      origin_kind: named
+      origin: Mac Brazel
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 7f37c65e-dfbc-4840-989b-0b1dac11b4f6
+        title: Mac Brazel
+        slug: mac-brazel
+    date: '1947-07-05'
+    date_end: null
+    location_in_record: ch7:8722-8765
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cf4bf759-8ebf-4025-afbf-0331ff4eebf4
+    claim_hash: 9cb0563a58d52727b2e305e0b10aa8fdeaf3176bd7c48ff892357c64413cbdff
+    content: The New Mexico White Sands testing ground is a two-hour drive west of the Roswell crash site.
+    original_excerpt: The New Mexico White Sands testing ground, two hours’ drive west of the crash site, was where the US
+      Army had conducted the world’s first-ever detonation of the ‘Trinity’ nuclear device on 16 July 1945.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0166f727-ae03-4b15-b8d3-f73188ea7dc5
+        title: USA, New Mexico, White Sands
+        slug: new-mexico-white-sands-usa
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+    date: null
+    date_end: null
+    location_in_record: ch7:9314-9537
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4bad59c8-349b-4c83-bd70-1d6f88776cee
+    claim_hash: 65fdd3a6c8f242e08ad05233f9fe10d53a4b20c9464ed2e70fc7eb8f6c8c25db
+    content: A 9 January 1950 issue of Time magazine reported rumours that crashed 'flying saucers' and 'small humanoid looking
+      bodies' had been recovered from crashes in New Mexico.
+    original_excerpt: a 9 January 1950 issue of the news magazine Time reported rumours that crashed 'flying saucers' and
+      'small humanoid looking bodies' had been recovered from crashes in New Mexico
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Time magazine, 9 January 1950 issue
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: ebf8f0be-bcc6-41db-ad1b-d193b79caf70
+        title: Time
+        slug: time
+    date: '1950-01-09'
+    date_end: null
+    location_in_record: ch8:3847-4020
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0ab17aff-9022-4237-b04b-d928a830360a
+    claim_hash: a540273761178deac5307761c6141e4a2b14d30bac2899e04a1c5866d686b563
+    content: In March 1950, the 1950 Guy Hottel FBI memo told J. Edgar Hoover that an air force investigator had disclosed
+      that three so-called flying saucers had been recovered in New Mexico.
+    original_excerpt: That was followed by an astounding report to Federal Bureau of Investigation (FBI) boss J. Edgar Hoover
+      in March 1950, telling him that an air force investigator had disclosed 'that three so-called flying saucers had been
+      recovered in New Mexico.'
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be an air force investigator
+      relay:
+        - 1950 Guy Hottel FBI memo
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 11534995-4b1f-41b6-a0d7-5fa6aec01cbb
+        title: 1950 Guy Hottel Federal Bureau of Investigation (FBI) memo
+        slug: 1950-guy-hottel-federal-bureau-of-investigation-fbi-memo
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 6f1e0dd5-985e-4246-897b-e298465a41c6
+        title: J. Edgar Hoover
+        slug: j-edgar-hoover
+    date: 1950-03
+    date_end: null
+    location_in_record: ch8:4028-4267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5628ddab-cce3-4da2-b69e-b66aca767b46
+    claim_hash: 5baf725073ebe825893a605b904f6ab4834ade751fceba81a8bcd801b52654de
+    content: Behind the Flying Saucers alleged there had been multiple crashes and retrievals of extra-terrestrial flying
+      saucers in New Mexico.
+    original_excerpt: which alleged there had been multiple crashes and retrievals of ET flying saucers in New Mexico
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Behind the Flying Saucers
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 4e2f7d4e-e34c-46b1-ac8a-24b5c34c0165
+        title: Behind the Flying Saucers
+        slug: behind-the-flying-saucers
+    date: null
+    date_end: null
+    location_in_record: ch8:6906-6995
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 98e7ecf4-e2d7-45cd-a353-883dfa077e22
     claim_hash: d2f7eb1a6b9bf814cd4425c83303a53384cb6bf91c9792542a5887abdd993d49
     content: A crashed balloon associated with Project Mogul outside of Roswell, New Mexico is assessed to be the source of
@@ -1839,6 +1941,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1e992087-ad5a-4282-bc5b-86231758f3ba
         title: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995)'
@@ -1866,11 +1973,11 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e523c48c-aed3-4378-8039-aa38622d3a42
-    claim_hash: 371bbdc931b5136faec9453dc00fa683ed397adf9e1b96db7dd146de6e052660
+    claim_hash: e44a941332379b56887e3736592fc40f968a084224349dfd7be07912d0ac73e8
     content: President Bill Clinton said that as far as he knew, an alien spacecraft did not crash in Roswell, New Mexico,
       in 1947, that if the United States Air Force did recover alien bodies they did not tell him about it, and that he wanted
       to know.
@@ -1879,7 +1986,7 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+      node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
       title: William J. Clinton
     provenance_chain:
       origin_kind: speaker
@@ -1887,6 +1994,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1894,7 +2006,7 @@ claims:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
@@ -1911,9 +2023,143 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 2758071a-b28c-44e8-8682-25fcfd22e1d5
+    claim_hash: 86c134e06a9b52febc99e9517978d680ca4cd8876f98f739a2855f5df0355902
+    content: The 1947 Roswell UAP crash occurred in the vicinity of a government test facility in New Mexico and broke into
+      two crash sites.
+    original_excerpt: A UAP fell that day in the vicinity of a government test facility in New Mexico and broke into two crash
+      sites.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+    date: null
+    date_end: null
+    location_in_record: ch12:15179-15284
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: dd282559-5186-46bd-86bc-762f62edbcfb
+    claim_hash: dd69acc8991c9b1bb518b38ff1f5cd72c61bf5f1e0bf296590656f7b599e632c
+    content: Edgar Mitchell grew up on a ranch in the Roswell, New Mexico area, which contributed to his lifelong championing
+      of the UAP topic.
+    original_excerpt: He was also a longtime champion of the UAP topic, due to his childhood growing up on a ranch in the
+      Roswell, New Mexico, area and what he had since learned as an astronaut.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: 59476464-a679-46ce-9247-b0adcb287762
+        title: Edgar Mitchell
+        slug: edgar-mitchell
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch12:8252-8440
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b109f646-8c09-4d39-b776-4530fd5719c2
+    claim_hash: a67ee48f9abf076547a47bf66f37f406bf89083c70c18a1d1259510870198c4c
+    content: Federal Bureau of Investigation (FBI) agents visited ranchers in the Roswell, New Mexico region door-to-door
+      to deliver the message that anyone who spoke about the 1947 Roswell UAP crash would be killed.
+    original_excerpt: 'FBI agents visited ranchers in the region, going door-to-door to deliver the threatening message: if
+      you speak about the crashes, you will be killed.'
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Edgar Mitchell
+      relay:
+        - Harold Puthoff and Eric Davis
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+        title: USA, New Mexico, Roswell
+        slug: new-mexico-roswell-usa
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch12:8596-8738
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 5a971661-10b4-47ae-916c-906ee8ade654
     claim_hash: 9f245bab351d68fe987055acac861ed72161507c9a2745e6f62327e5bcd02a3e
     content: During the 2007 Roswell horseshoe-object sighting, Patricia Carroll reported seeing a triangular or possibly
@@ -1932,6 +2178,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01d60144-0223-429a-be05-68c1b613b870
         title: 2007 Roswell horseshoe-object sighting
@@ -1956,7 +2207,7 @@ claims:
       content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
       friendly_name: null
   - claim_id: 7ff8eac5-9c49-4962-96f7-09e813d662a7
-    claim_hash: 178b79527b7e41b096bd32b9968e4d56c94b48aa2129a866e38984bba065b52a
+    claim_hash: f98fa394a068fffec2e83dba7ffc1a79bab69a46031306bec19e9f3e99e51f51
     content: On Wednesday, 1947-07-09, the Irish Times reported that the U.S. War Department stated it was without news of
       the New Mexico flying saucer and was checking with Roswell, New Mexico.
     original_excerpt: Wednesday, July 9th in 1947, newspaper The Irish Times says this. The U.S. War Department stated last
@@ -1970,6 +2221,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.577
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -1994,7 +2250,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
-    claim_hash: 6c821f4527124c8b4dda8b616a7bde845d4dccad5580862a44e04d31a6859299
+    claim_hash: df5353b98709faff101cdf47ae0396cb7db7958e3adc76978c96fb8c34f62a31
     content: In a confession tape, Shirley Wright said she studied under Albert Einstein at Princeton and was taken to the
       crash site of the 1947 Roswell UFO crash, given a tour inside the craft, shown eight dead bodies and one living entity,
       and had an exchange and communication with one of the entities.
@@ -2013,6 +2269,11 @@ claims:
         - a confession tape recorded by Shirley Wright
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -2043,7 +2304,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: ef1f62b7-66db-45ec-a6f5-c325bc3b3775
-    claim_hash: 0920fc0fd8f408142ff8bd151bcf9bcfac3fdfe29d5316f07bdc7a596654a9a1
+    claim_hash: 76a06cc1315020bf8a7fe10e48bcddeae3e861a81674e4cd870b275be1fe023e
     content: One month after The Relationships with Inhabitants of Celestial Bodies (1947 document) was written, at least
       one crash (possibly two) occurred at Roswell, New Mexico.
     original_excerpt: one month later there would be a crash at least one crash if not two in roswell new mexico
@@ -2058,6 +2319,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.551
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -2098,6 +2364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -2131,7 +2402,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: ae875f28-de12-47d2-aa3b-27757a1172c3
-    claim_hash: c321da920d11cd60ef8eddabea5a18b2d01a56e88a841b5ab005d4ef5cfdb024
+    claim_hash: 1fbc929fa6d525f490c3c9d4c328ed6e415387bf008f22be732e40b993dc5f8d
     content: It is said that the 1947 Roswell crash may have been caused when two disks passed too close to a high-powered
       radar station, the high-powered microwaves from the radar interrupting the field propulsion around the craft and causing
       it to veer off course and crash.
@@ -2146,6 +2417,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -2181,6 +2457,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -2202,7 +2483,7 @@ claims:
       content_hash: sha256:7b2e272d7c82fdda745ee0354d7c9cc4b0d5ba5506015ca27edd9169a768b262
       friendly_name: null
   - claim_id: fa3ec85a-ffc4-42bb-af29-76ba81870b48
-    claim_hash: c0f1b75d68e7cd2e824e3321ce159d062b1e6ee35ea6a9b067a5bb50826a31f0
+    claim_hash: 2615e4e71106059f6ab42d07277c5d51cd6b2237186be9fa27b733ac7c0e7c28
     content: Arthur Ernest Exon was allegedly heavily involved in the retrieval of the Roswell craft in 1947.
     original_excerpt: General Art Exon, who was allegedly heavily involved in the retrieval of the Roswell craft in 1947
     claim_type: administrative
@@ -2216,6 +2497,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell

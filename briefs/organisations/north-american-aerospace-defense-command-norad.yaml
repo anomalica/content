@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4444dbb31be94ffcee81b047bb364754552fc08dc6ff8f90e68a6313bb7d45f8
+brief_hash: 13fe0c24b8f7547707a293ceeff33a0df840c0bd65e63ba6eb2b3e3133f4841c
 page:
   kind: entity
   node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
@@ -9,11 +9,21 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 18
   tokens_estimated: 3039
   sized_against: 1050000
+entailment:
+  assessed: 18
+  unassessed: 0
+  entails: 9
+  neutral: 9
+  contradicts: 0
+  entailed_by_quote: 6
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.167
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,16 +33,16 @@ belonging:
   suspect_excluded: 0
   unreviewed: 18
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 4
   - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
     title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
     node_type: event
     slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
     shared_claims: 4
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 2
   - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
     title: Canada, Yukon
     node_type: place
@@ -53,15 +63,20 @@ related_nodes:
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 2
-  - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-    title: 1997 Pentagon UAP Briefing
+  - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+    title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
     node_type: event
-    slug: 1997-pentagon-uap-briefing
+    slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
     shared_claims: 1
-  - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
-    title: 2023 Chinese spy balloon incident
+  - node_id: d4ecf198-7d5a-41a8-b9a7-d42acfdd267c
+    title: 2023 Yukon Unidentified Aerial Phenomena (UAP) shootdown
     node_type: event
-    slug: 2023-chinese-spy-balloon-incident
+    slug: 2023-yukon-unidentified-aerial-phenomena-uap-shootdown
+    shared_claims: 1
+  - node_id: 758e787c-7af3-42ae-a3c9-de53fd7a6a49
+    title: 2023-02 Deadhorse, Alaska Unidentified Aerial Phenomena (UAP) shoot-down
+    node_type: event
+    slug: alaska-unidentified-aerial-phenomena-uap-shoot-down-2023-02-deadhorse
     shared_claims: 1
   - node_id: 685735df-78d2-4ab2-970b-05932dcda3db
     title: 2023-02 Yukon cylindrical object shoot-down
@@ -128,6 +143,11 @@ related_nodes:
     node_type: organisation
     slug: united-states-space-force-ussf
     shared_claims: 1
+  - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+    title: Varginha Unidentified Flying Object (UFO) incident
+    node_type: event
+    slug: varginha-unidentified-flying-object-ufo-incident
+    shared_claims: 1
   - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
     title: Willard Miller
     node_type: person
@@ -135,7 +155,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
-    claim_hash: 3c46d7c036230245dae557855729920832ee7f20c3825bf51811a5da93663438
+    claim_hash: 8b97b9482b02820b21539edbb3d1f2b6bd2a5ff6c04fe6d3c2f7c40d6051d66b
     content: Recently retired US Naval Reserve Lieutenant Commander Willard Miller, another attendee of the April 1997 Pentagon
       briefing, served on the operations staff of the US Atlantic Command and at NORAD Space Command with Top Secret security
       clearances.
@@ -150,16 +170,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
         slug: north-american-aerospace-defense-command-norad
       - node_id: 7c8f095b-bb35-4459-b507-0289a699ce98
         title: United States Atlantic Command
         slug: united-states-atlantic-command
-      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-        title: 1997 Pentagon UAP Briefing
-        slug: 1997-pentagon-uap-briefing
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
         slug: willard-miller
@@ -172,7 +197,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -193,6 +218,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -212,7 +242,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -231,6 +261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -247,7 +282,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -268,6 +303,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 05afdef2-1db9-4166-9c4d-ccfc7b968bc7
         title: Olivier Gallant
@@ -287,7 +327,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -307,6 +347,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -326,7 +371,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -347,6 +392,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -369,7 +419,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -391,6 +441,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -407,7 +462,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -431,6 +486,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.774
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -450,7 +510,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -472,6 +532,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -491,12 +556,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 20e40f0f-ad22-47b8-b935-95123138348b
-    claim_hash: 31858eb4ee0efe77d5a2c47a64074b847bfa9a801e8c3f2912a13bc5f5f12c36
+    claim_hash: dac3068942a14d02f732c7a7c689cc94f0257d74a59faac408401221eed60ab0
     content: After the 2023 Chinese spy balloon shoot-down, the North American Aerospace Defense Command (NORAD) adjusted
       the sensitivity of its radars and detected an unknown car-sized object off the coast near Deadhorse, Alaska on 2023-02-10.
     original_excerpt: When the North American Aerospace Defense Command (NORAD), under fire from an angry White House over
@@ -511,16 +576,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.917
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
         slug: north-american-aerospace-defense-command-norad
+      - node_id: 758e787c-7af3-42ae-a3c9-de53fd7a6a49
+        title: 2023-02 Deadhorse, Alaska Unidentified Aerial Phenomena (UAP) shoot-down
+        slug: alaska-unidentified-aerial-phenomena-uap-shoot-down-2023-02-deadhorse
       - node_id: ec649497-7311-46a2-a0bc-7498dab02b40
         title: USA, Alaska, Deadhorse
         slug: alaska-deadhorse-usa
-      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
-        title: 2023 Chinese spy balloon incident
-        slug: 2023-chinese-spy-balloon-incident
     date: '2023-02-10'
     date_end: null
     location_in_record: ch29:3497-3791
@@ -530,7 +600,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -548,6 +618,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.628
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -567,7 +642,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -586,6 +661,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -602,7 +682,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -623,6 +703,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -642,7 +727,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -663,6 +748,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.798
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -676,12 +766,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: b080fb79-56f5-47b7-a9cb-cb990fa2d940
-    claim_hash: 40968ab907c19f99ec09471357839bca5fa9009e4fd5619f4e10faf478f92417
+    claim_hash: 09b9e7c03ffc624df86c4ee5864fab09264c8b461f89d1fa43a43bc03a256628
     content: The craft in the 2023 Yukon UAP shootdown passed over Canadian skies and was swiftly taken down with the help
       of North American Aerospace Defense Command (NORAD).
     original_excerpt: This is one that went over Canadian skies... It was swiftly taken down. as well with the help of NORAD.
@@ -696,16 +786,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
         slug: north-american-aerospace-defense-command-norad
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
         title: Canada, Yukon
         slug: yukon-canada
+      - node_id: d4ecf198-7d5a-41a8-b9a7-d42acfdd267c
+        title: 2023 Yukon Unidentified Aerial Phenomena (UAP) shootdown
+        slug: 2023-yukon-unidentified-aerial-phenomena-uap-shootdown
     date: '2023'
     date_end: null
     location_in_record: 00:04:07.2-00:04:13.4
@@ -735,6 +830,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.627
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -769,6 +869,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.769
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -793,7 +898,7 @@ claims:
       content_hash: sha256:7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a197b888f
       friendly_name: null
   - claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
-    claim_hash: 83d4f81005070854703e4285497b18d76e9d3d2a49b381ce4037fca856882abc
+    claim_hash: 279761a7863501733215785bb5972dae7bf76c128071917226ebb4c4155c7584
     content: Among Brazilian investigators, there is a suggestion that the North American Aerospace Defense Command (NORAD)
       might have warned the Brazilian military that an object was headed for the area where it fell during the 1996 Varginha
       incident.
@@ -811,6 +916,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -818,9 +928,9 @@ claims:
       - node_id: 7c2dc890-9158-4057-a773-a3439914d603
         title: Brazilian Air Force
         slug: brazilian-air-force
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:10240-10428

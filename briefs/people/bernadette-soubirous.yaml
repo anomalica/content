@@ -9,11 +9,21 @@ page:
   claim_count: 42
   claim_count_total: 42
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 42
   tokens_estimated: 5117
   sized_against: 1050000
+entailment:
+  assessed: 42
+  unassessed: 0
+  entails: 36
+  neutral: 5
+  contradicts: 1
+  entailed_by_quote: 11
+  entailed_by_window: 25
+  entailed_by_quote_fraction: 0.262
+  entailed_by_window_fraction: 0.595
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -79,6 +89,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -114,6 +129,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -145,6 +165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4134cd3c-bf3d-45ba-a761-c226847bf4db
         title: Lourdes Marian apparitions (1858-02-11 to 1858-07-16)
@@ -185,6 +210,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -220,6 +250,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.791
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -250,6 +285,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -281,6 +321,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -313,6 +358,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -345,6 +395,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -377,6 +432,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.554
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -413,6 +473,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -445,6 +510,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -482,6 +552,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.601
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -514,6 +589,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -548,6 +628,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -582,6 +667,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -615,6 +705,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -647,6 +742,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -681,6 +781,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.518
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -715,6 +820,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -748,6 +858,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -781,6 +896,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -811,6 +931,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -843,6 +968,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.622
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -874,6 +1004,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -904,6 +1039,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -934,6 +1074,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4134cd3c-bf3d-45ba-a761-c226847bf4db
         title: Lourdes Marian apparitions (1858-02-11 to 1858-07-16)
@@ -968,6 +1113,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 115cebed-55a2-482a-aa57-412be008ffc4
         title: Episcopal investigation committee into the Lourdes apparitions (1858-07-28)
@@ -1005,6 +1155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 115cebed-55a2-482a-aa57-412be008ffc4
         title: Episcopal investigation committee into the Lourdes apparitions (1858-07-28)
@@ -1038,6 +1193,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -1068,6 +1228,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ac16044-a2e2-48c8-816a-98b023342f22
         title: Bernadette Soubirous
@@ -1098,6 +1263,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.413
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30a4d56e-657d-46ab-bf57-95e66e90bd9d
         title: Beatification of Bernadette Soubirous (1925)
@@ -1133,6 +1303,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1170,6 +1345,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1210,6 +1390,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1248,6 +1433,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1287,6 +1477,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.581
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1325,6 +1520,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1366,6 +1566,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1406,6 +1611,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1448,6 +1658,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -1488,6 +1703,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes

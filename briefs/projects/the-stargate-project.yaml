@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 14
   tokens_estimated: 1699
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 10
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.286
+  entailed_by_window_fraction: 0.429
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -24,7 +34,7 @@ belonging:
   unreviewed: 14
 related_nodes:
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 5
@@ -114,9 +124,14 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -154,6 +169,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
         title: The Stargate Project
@@ -185,6 +205,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.633
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -220,6 +245,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b3a5ac72-2dc9-486c-9cbd-f891f1e8fd76
         title: The Stargate Project
@@ -253,12 +283,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 623d090b-d9b4-4a0d-a85b-9273cfcdc303
         title: Lone Stars group
@@ -292,6 +327,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
         title: Edwin C. May
@@ -329,12 +369,17 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
         title: Joseph McMoneagle
@@ -371,9 +416,14 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.925
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 96278e27-75e6-49fe-8ea6-a0f4f5ff1f8a
         title: United States Army
@@ -413,6 +463,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
         title: Paul Smith
@@ -453,6 +508,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
         title: Paul Smith
@@ -495,6 +555,11 @@ claims:
         - an email to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
         title: Paul Smith
@@ -534,6 +599,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
         title: Paul Smith
@@ -576,12 +646,17 @@ claims:
         - a conversation with Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -625,6 +700,11 @@ claims:
         - a conversation with Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
         title: The Monroe Institute

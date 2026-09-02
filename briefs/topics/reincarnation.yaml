@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: c6b909b65c63c49f4c6dae6b4ca062c35614f1bd5b1775cf908a6598bd190566
+brief_hash: 5b5e0a91ae0961cd933d4834e0a8d304630faa45a12fb423ff53744e060a6731
 page:
   kind: entity
   node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
@@ -9,11 +9,21 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 20
   tokens_estimated: 2714
   sized_against: 1050000
+entailment:
+  assessed: 20
+  unassessed: 0
+  entails: 14
+  neutral: 2
+  contradicts: 4
+  entailed_by_quote: 7
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.35
+  entailed_by_window_fraction: 0.35
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -103,15 +113,15 @@ related_nodes:
     node_type: person
     slug: poonam-sharma
     shared_claims: 1
-  - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-    title: Precognition
-    node_type: topic
-    slug: precognition
-    shared_claims: 1
   - node_id: ae812dab-0c7a-420c-b957-438e4c812fba
     title: Weekend Edition (NPR programme)
     node_type: organisation
     slug: weekend-edition-npr-programme
+    shared_claims: 1
+  - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
+    title: apparition
+    node_type: topic
+    slug: apparition
     shared_claims: 1
 claims:
   - claim_id: 27554e94-a31d-4dd6-baca-a4c0bc8e64e1
@@ -131,6 +141,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -164,6 +179,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 66da3a02-fe7e-46f1-a344-d50afed95f73
         title: Past-life memories in young children
@@ -201,6 +221,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.42
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 862daff0-b6c0-4070-bf5c-c244a2d70b44
         title: Kevin Hammons
@@ -234,6 +259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.472
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b91bf08-93fc-4249-9068-e3583a8fe70e
         title: Cyndi Hammons
@@ -274,6 +304,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
         title: Jim Tucker
@@ -309,6 +344,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
         title: Intermission memories
@@ -330,7 +370,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 0b9ec2ce-df90-4c36-9c75-d6ff69144339
-    claim_hash: c40ebfb5ea4f7e14f48a9547d67cacbd49ea3d330ac142044e1b7cd39f6ffe57
+    claim_hash: f229f47f20a52d5e165d9e84bea633c758bd28214d227bffd2245329572f524c
     content: Erlendur Haraldsson states that persons suffering a violent death feature predominantly in cases of apparitions
       of the dead, in cases of the reincarnation type, and in mediumship, including both direct communicators and drop-ins.
     original_excerpt: Persons suffering a violent death feature predominantly in cases of apparitions of the dead and in cases
@@ -346,13 +386,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
         title: Drop-in communicators
         slug: drop-in-communicators
-      - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
-        title: Precognition
-        slug: precognition
+      - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
+        title: apparition
+        slug: apparition
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
         slug: erlendur-haraldsson
@@ -389,6 +434,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0986ae57-9931-42f0-86b9-9d62ab6b6b1f
         title: National Public Radio (NPR)
@@ -434,6 +484,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29ab86b1-4a0c-47f6-964c-85459df97507
         title: Intermission memories
@@ -476,6 +531,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a081e647-7d45-4a5b-83d8-2f42762ea9d0
         title: Jim Tucker
@@ -513,6 +573,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b65a6467-a1a6-4745-ac2e-181934ea2572
         title: Bruce Leininger
@@ -545,6 +610,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
         title: Billy Meier
@@ -579,6 +649,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
         title: Reincarnation
@@ -613,6 +688,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.601
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
         title: Reincarnation
@@ -644,6 +724,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
         title: Reincarnation
@@ -678,6 +763,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
         title: Reincarnation
@@ -712,6 +802,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
         title: Reincarnation
@@ -745,6 +840,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.646
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e66e62f6-f011-4fc5-b958-f6a3d6f72e4c
         title: Reincarnation
@@ -783,6 +883,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -818,6 +923,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow

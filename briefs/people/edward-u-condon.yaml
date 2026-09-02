@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e6c777965be7c2bf7768e270b45854ad8111ea93957b4ef3df1bc6e65e519293
+brief_hash: 5856c881027192882a9c9436c5ad360957d5eea1c03f294d9df863fba7301511
 page:
   kind: entity
   node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
@@ -9,11 +9,21 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 20
   tokens_estimated: 2674
   sized_against: 1050000
+entailment:
+  assessed: 20
+  unassessed: 0
+  entails: 12
+  neutral: 8
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -95,7 +105,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 18e7f387-896e-43d7-8305-214c6e8f1c99
-    claim_hash: 9e44673c25d30ee471f0674c5eccc63ff150ac301927b021f4d499930c40b78a
+    claim_hash: 19e96770df7e22ca70521c1b842c9ab26e943e10d58850a0ee3cd736618ec609
     content: In 1967 the University of Colorado UFO Project began spending 512,000 US dollars given to Edward Condon by the
       Pentagon to study UFOs.
     original_excerpt: In 1967, as the University of Colorado began spending the $512,000 given to Professor Condon by the
@@ -109,6 +119,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.449
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -149,6 +164,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.696
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -188,6 +208,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.893
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -228,6 +253,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -264,6 +294,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -301,6 +336,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -345,6 +385,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -387,6 +432,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.721
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
         title: USA, Colorado, Boulder
@@ -427,6 +477,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -461,6 +516,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -495,6 +555,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -530,6 +595,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -560,6 +630,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -592,6 +667,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -611,7 +691,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -629,6 +709,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -648,7 +733,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -666,6 +751,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
         title: Edward U. Condon
@@ -685,7 +775,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -707,6 +797,11 @@ claims:
         - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -729,92 +824,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
-    claim_hash: 133e4fe0343cf61a815f876ff0d5297987f9dc21183f753338aae79375e4b661
-    content: The Condon Committee inquiry, an Air Force-funded UAP study at the University of Colorado chaired by physicist
-      Edward Condon, declared the UAP topic devoid of scientific merit.
-    original_excerpt: A subsequent Air Force–funded UAP study at the University of Colorado went further, declaring the topic
-      devoid of scientific merit. Chaired by physicist Edward Condon...
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Condon Committee inquiry
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
-        title: University of Colorado
-        slug: university-of-colorado
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-        title: Edward U. Condon
-        slug: edward-u-condon
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: da868edb-9324-4c9a-b61a-1da6f37280cf
-        title: Condon Committee inquiry
-        slug: condon-committee-inquiry
-    date: null
-    date_end: null
-    location_in_record: ch6:3383-3543
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 64064f7a-6615-49fc-b0d3-0c33d73914d5
-    claim_hash: e09fe80b47b89f9f25d7f13f493957c08325b983bbfbaa1da7975c7c23df0077
-    content: Edward Condon's report provided the United States Air Force the justification it sought to close Project Blue
-      Book.
-    original_excerpt: Dr. Condon’s report provided the Air Force the excuse it sought to close Project Blue Book, its controversial
-      UFO investigation.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-        title: Edward U. Condon
-        slug: edward-u-condon
-      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-        title: Project Blue Book
-        slug: project-blue-book
-    date: null
-    date_end: null
-    location_in_record: ch6:3687-3801
-    evidence:
-      score: null
-      independent_sources: 2
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
     claim_hash: 6985a0f374cce80ccae66c9dfb1aad5ed85f1fe4d9fa4a79b77da70a209bdefe
     content: Dr. Edward U. Condon, a physicist and former Director of the National Bureau of Standards, was the scientific
@@ -831,6 +844,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -858,6 +876,98 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
+    claim_hash: 133e4fe0343cf61a815f876ff0d5297987f9dc21183f753338aae79375e4b661
+    content: The Condon Committee inquiry, an Air Force-funded UAP study at the University of Colorado chaired by physicist
+      Edward Condon, declared the UAP topic devoid of scientific merit.
+    original_excerpt: A subsequent Air Force–funded UAP study at the University of Colorado went further, declaring the topic
+      devoid of scientific merit. Chaired by physicist Edward Condon...
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Condon Committee inquiry
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
+        title: University of Colorado
+        slug: university-of-colorado
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: da868edb-9324-4c9a-b61a-1da6f37280cf
+        title: Condon Committee inquiry
+        slug: condon-committee-inquiry
+    date: null
+    date_end: null
+    location_in_record: ch6:3383-3543
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 64064f7a-6615-49fc-b0d3-0c33d73914d5
+    claim_hash: e09fe80b47b89f9f25d7f13f493957c08325b983bbfbaa1da7975c7c23df0077
+    content: Edward Condon's report provided the United States Air Force the justification it sought to close Project Blue
+      Book.
+    original_excerpt: Dr. Condon’s report provided the Air Force the excuse it sought to close Project Blue Book, its controversial
+      UFO investigation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.837
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+    date: null
+    date_end: null
+    location_in_record: ch6:3687-3801
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

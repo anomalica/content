@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 36548fcd0dcc772f8954f7f1eafee75fea51ca1eacad507d572c235710dd778f
+brief_hash: b0a87ad2a43af63e44721a7d632a9bd13f328835691f49a3af038fe0b571c312
 page:
   kind: entity
   node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
@@ -9,11 +9,21 @@ page:
   claim_count: 76
   claim_count_total: 76
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 76
   tokens_estimated: 10300
   sized_against: 1050000
+entailment:
+  assessed: 76
+  unassessed: 0
+  entails: 44
+  neutral: 28
+  contradicts: 4
+  entailed_by_quote: 17
+  entailed_by_window: 27
+  entailed_by_quote_fraction: 0.224
+  entailed_by_window_fraction: 0.355
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
         title: Marine Fighter Attack Squadron 232 (VMFA-232)
@@ -211,7 +226,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: bd5527b3-a9ca-4476-9894-e3bac304af74
@@ -228,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.399
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
         title: Marine Fighter Attack Squadron 232 (VMFA-232)
@@ -245,7 +265,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 0dce43d7-2473-44e4-b962-869cbc37602a
@@ -265,6 +285,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
@@ -282,7 +307,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: fd11fc33-ff4f-43b7-89c8-4dbb2d0c435c
@@ -299,6 +324,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
         title: Anomalous Aerial Vehicle (AAV)
@@ -316,7 +346,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a6eb8cc8-018b-40a9-b09e-11d4d2605076
@@ -334,6 +364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -354,7 +389,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a8ea57c5-bf6f-4075-b84d-1a62afd3b764
@@ -372,6 +407,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -389,7 +429,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: ceb0c54a-4993-464e-acbb-d70cbad48c75
@@ -407,6 +447,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.396
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -424,7 +469,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 2834e316-123a-4f09-8302-5be197dba09a
@@ -440,6 +485,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.419
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -460,7 +510,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: bc089ab8-2ba9-4050-8cba-8786235ac7b9
@@ -478,6 +528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.402
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
         title: Anomalous Aerial Vehicle (AAV)
@@ -501,7 +556,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 96b877c1-f249-48a2-9115-e8c413189dc9
@@ -519,6 +574,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.729
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -548,7 +608,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 8966dfc1-6de1-4082-96cb-adea9e6b24c4
@@ -564,6 +624,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
         title: Carrier Air Wing 11 (CVW-11)
@@ -581,7 +646,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 76b0d4cc-7365-4f96-8151-7d82dc791dfa
@@ -600,6 +665,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.569
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
         title: F/A-18F Super Hornet
@@ -624,7 +694,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -646,6 +716,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.827
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
         title: United States Naval Academy
@@ -686,6 +761,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.668
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
@@ -723,6 +803,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
@@ -760,6 +845,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -809,6 +899,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.767
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 91687522-b681-4c28-b7aa-c170efa860ab
         title: A-6 Intruder
@@ -849,6 +944,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -891,6 +991,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -934,6 +1039,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -977,6 +1087,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -1015,6 +1130,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.859
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -1038,937 +1158,6 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-  - claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
-    claim_hash: d860490ab52e229162e60075d1338c25cc9951e852ed178c1e05c754fce0a860
-    content: Once David Fravor and his wingman returned to the USS Nimitz, the swarm of unidentified objects that had descended
-      towards the ocean during the 2004 USS Nimitz Tic Tac UAP encounter shot back above approximately 24,000 metres in a
-      fraction of a second.
-    original_excerpt: Inside the USS Princeton's Combat Information Centre astonished operators watched as, once Fravor and
-      his wingman returned to the USS Nimitz, in a fraction of a second, the swarm of other objects that had descended towards
-      the ocean shot back above 80,000 feet.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-        title: USS Princeton (CG-59)
-        slug: uss-princeton-cg-59
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-        title: David Fravor
-        slug: david-fravor
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:15562-15822
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
-    claim_hash: e0053942af97ee13d7c7a768b0ff94881fba3192588ae17e6c6f3c31232826bf
-    content: As David Fravor and his wingman returned to the USS Nimitz on the afternoon of 2004-11-14, a third pair of aircraft
-      headed out, one piloted by Lieutenant Chad Underwood, whose jet was fitted with an ATFLIR pod.
-    original_excerpt: As Commander Fravor and his wingman returned to the USS Nimitz from their Tic Tac encounter that 14
-      November afternoon, a third pair of aircraft headed out. One of the pilots, Lieutenant Chad Underwood, had what is called
-      an ATFLIR pod on his jet.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
-        title: Chad Underwood
-        slug: chad-underwood
-      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
-        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
-        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-        title: David Fravor
-        slug: david-fravor
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:16657-16902
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
-    claim_hash: ec467b2d59f81e61a2c44300f6a76fc54efc706dc9ece48028f9c56b5253fe5e
-    content: The FLIR1 video of the 2004 Nimitz Tic Tac encounter was downloaded when Chad Underwood returned to the USS Nimitz,
-      and conspiracy theories abound among crewmen who saw the video while the ship was still at sea.
-    original_excerpt: The ATFLIR video of the encounter was downloaded when Lieutenant Underwood returned to the USS Nimitz;
-      conspiracy theories abound among crewmen who saw the video while the ship was still at sea.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: crewmen who saw the FLIR1 video while the USS Nimitz was still at sea
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
-        title: Chad Underwood
-        slug: chad-underwood
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:19232-19424
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 985d67e1-72d2-4bf0-9e5f-487cb88f47f7
-    claim_hash: 5b02fd668793c18b96e811280b922cb0c098c8fa9d72ef7a47d55d35f42ddba1
-    content: No further jets from the USS Nimitz were sent up to engage the craft during the 2004 USS Nimitz Tic Tac UAP encounter.
-    original_excerpt: No further jets from the USS *Nimitz* were sent up to engage the craft.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: In Plain Sight narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: null
-    date_end: null
-    location_in_record: ch16:21453-21518
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
-    claim_hash: e9c1f8324a39ce34d977f0f013de6d98412e55f20f6c6ade72cbd16bca05d82e
-    content: The returning pilots from the 2004 USS Nimitz Tic Tac UAP encounter received a good-natured ribbing about their
-      'flying saucer' sighting from the USS Nimitz's deck crew, some of whom wore tin-foil hats in jest.
-    original_excerpt: What the returning pilots did get was a good-natured ribbing about their 'flying saucer' sighting from
-      the USS *Nimitz*'s deck crew, some of whom were wearing tin-foil hats in jest.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: In Plain Sight narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: null
-    date_end: null
-    location_in_record: ch16:21796-21972
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
-    claim_hash: ba236801c6a67bcf84402c0f460ad188a7988302acb76264236dd5a1810dac24
-    content: Immediately after the 2004 USS Nimitz Tic Tac UAP encounter, two unknown individuals, presumably serving military,
-      arrived by navy helicopter on board the USS Nimitz.
-    original_excerpt: Immediately after the incident, two unknown individuals, presumably serving military, arrived by navy
-      helicopter on board the *Nimitz*.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: In Plain Sight narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: null
-    date_end: null
-    location_in_record: ch16:23537-23664
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
-    claim_hash: 7feaec26f042767629baabd3653bcbc73cfa1883f61657801c3bc7dbce3fa65c
-    content: Kevin Day confirmed that the USS Nimitz's radar was tracking the same cluster of 14 unidentified objects as the
-      USS Princeton's radar on 2004-11-14.
-    original_excerpt: this time, he confirmed the Nimitz's radar was seeing the same thing
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
-      title: Kevin Day
-    provenance_chain:
-      origin_kind: speaker
-      origin: Kevin Day
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
-        title: Kevin Day
-        slug: kevin-day
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:3446-3511
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a104bd6a-8d33-4f71-92c4-39843995f257
-    claim_hash: 1502628fda78f770a3871375d35347f196294268e4a4248315835ca4d0c3eb1d
-    content: The USS Nimitz sent up an E2 Hawkeye airborne early-warning aircraft during the 2004 USS Nimitz Tic Tac UAP encounter,
-      which detected the closest unidentified object on its own radar.
-    original_excerpt: The aircraft carrier also sent up one of its airborne early-warning aircraft – an E2 Hawkeye – and it
-      detected the closest object on its radar.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
-        title: E-2 Hawkeye
-        slug: e-2-hawkeye
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:3518-3655
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: f81df24d-e91f-4b95-931b-50af7b9ac45e
-    claim_hash: 227f7563ce2f94826ba2309a99060e6294ef9474f9aaa3099d36fc4e02d242df
-    content: On 2004-11-14, the USS Nimitz supercarrier was undergoing preparatory training with other vessels in its carrier
-      strike group before deploying to the Middle East.
-    original_excerpt: the behemoth aircraft supercarrier USS Nimitz was undergoing preparatory training with other vessels
-      in its carrier strike group before deploying to the Middle East
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:448-610
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
-    claim_hash: 3c395b223b1a8361605c5b1724aac4c95012492e3292cc1f2749bec1e729e72f
-    content: Within a few hours of the initial radar sightings on 2004-11-14, the USS Nimitz planned to launch as many as
-      30 aircraft, with more scheduled to join the carrier group exercise from San Diego.
-    original_excerpt: Within a few hours of this sighting, the USS Nimitz planned to launch as many as 30 aircraft and more
-      were scheduled to be joining the carrier group exercise from San Diego.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-        title: USA, California, San Diego
-        slug: california-san-diego-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:6036-6205
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3ef468d0-22fd-4973-9650-5d66c179034e
-    claim_hash: 85ed908c58fb73eae2e321a934e9a0309e1eeefe81c2276b0fca8520330ffa6a
-    content: A huge stretch of ocean and sky was closed for the USS Nimitz carrier strike group exercise on 2004-11-14.
-    original_excerpt: A huge swathe of ocean and sky was closed for the exercise.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:616-666
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
-    claim_hash: b31f2f143828fb65d72e1dfe43b006dec4e151514fc3cf118e160c257b54e0a6
-    content: Kevin Day recommended to USS Nimitz Captain James Smith that aircraft be sent to investigate the swarm of unidentified
-      objects during the 2004 USS Nimitz Tic Tac UAP encounter, and Captain Smith concurred.
-    original_excerpt: Day recommended to the Nimitz's Captain James Smith that they send out aircraft to take a look, and
-      the captain concurred.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 8e86f75c-fbee-420a-9701-d007e3e13c30
-        title: James Smith (USS Nimitz captain)
-        slug: james-smith-uss-nimitz-captain
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
-        title: Kevin Day
-        slug: kevin-day
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:6428-6542
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 00ba059b-86a1-4099-bdfe-1de5723f302b
-    claim_hash: bdff7ad9e719272bc4971c08cbf892ddda0360521138b562c05f1acab1e5a6a3
-    content: Douglas Kurth arrived at the intercept point approximately 100 kilometres south-west of the USS Nimitz during
-      the 2004 USS Nimitz Tic Tac UAP encounter, but saw only a circular disturbance on the ocean surface, 50-100 metres in
-      size.
-    original_excerpt: Somewhere about 100 kilometres south-west of the Nimitz, Kurth arrived at the intercept point, but all
-      he saw was a circular disturbance on the surface of the ocean, 50–100 metres in size.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
-      title: Douglas Kurth
-    provenance_chain:
-      origin_kind: speaker
-      origin: Douglas Kurth
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
-        title: Douglas Kurth
-        slug: douglas-kurth
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:7213-7398
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
-    claim_hash: 80202f94794fff8f422647a755d78446c60a06833bb429fc6a4919dc148a9fc8
-    content: During the 2004 USS Nimitz Tic Tac UAP encounter, it was the accompanying Ticonderoga-class guided missile cruiser
-      USS Princeton, not the USS Nimitz itself, that was providing air defence protection using its then brand-new SPY-1 Aegis
-      radar system.
-    original_excerpt: it was actually the accompanying Ticonderoga-class guided missile cruiser USS Princeton that was providing
-      air defence protection with its then brand-new SPY-1 Aegis radar system
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
-        title: USS Princeton (CG-59)
-        slug: uss-princeton-cg-59
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-      - node_id: f499a8c6-d08f-47d6-b763-bf0f0d3d598e
-        title: SPY-1 Aegis radar system
-        slug: spy-1-aegis-radar-system
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:740-914
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
-    claim_hash: 5eeaa542cb9cefd87d8aa011953645e2e5001e05da5744bbe917a7f97ae04642
-    content: Weapons systems officer Jim Slaight and his pilot initially thought the ocean disturbance during the 2004 USS
-      Nimitz Tic Tac UAP encounter might be a submarine that was part of the exercise, but this was later ruled out by the
-      USS Nimitz's intelligence officer in a post-flight debriefing.
-    original_excerpt: Remaining above, weapons systems officer Lieutenant Commander Slaight and his pilot thought it might
-      be a submarine that was part of the exercise, but this was later ruled out by the Nimitz's intelligence officer in a
-      post-flight debriefing.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: 224c7627-5439-4e73-b583-590caead8999
-      title: Jim Slaight
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jim Slaight
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 224c7627-5439-4e73-b583-590caead8999
-        title: Jim Slaight
-        slug: jim-slaight
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:8969-9201
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
-    claim_hash: 7ac4197bd51a057a9a322e092050ae9eb23f29c4272de9da49fa179ef722b1dd
-    content: Eric Davis's team was responsible for the covert investigation into the 2004 USS Nimitz Tic Tac UAP incident.
-    original_excerpt: Former Bigelow NIDS scientist Dr Eric Davis has admitted that his team was responsible for the covert
-      investigation into the 2004 Tic Tac USS Nimitz incident and they too reached a dramatic conclusion as to who or what
-      was behind it.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-      title: Eric Davis
-    provenance_chain:
-      origin_kind: speaker
-      origin: Eric Davis
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
-        title: Eric Davis
-        slug: eric-davis
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: null
-    date_end: null
-    location_in_record: ch17:11975-12207
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 7c540871-19d3-49c7-b1a5-f015d354ed69
-    claim_hash: f8eba16ecf04cf587ce8c314241763c07026617ec2df91e9133d5807b731421d
-    content: Douglas Kurth was the first witness to the 2004 USS Nimitz Tic Tac UAP encounter as an FA-18 jet pilot.
-    original_excerpt: One of Bigelow's first hires in 2007 was former USS Nimitz FA-18 jet pilot Marine Lieutenant Colonel
-      Douglas Kurth, the first witness to the Tic Tac UAP in November 2004.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
-        title: FA-18 Super Hornet
-        slug: fa-18-super-hornet
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
-        title: Douglas Kurth
-        slug: douglas-kurth
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: 2004-11
-    date_end: null
-    location_in_record: ch17:7530-7697
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 44c746c8-143e-402f-83e5-ff7554ccb19c
-    claim_hash: fe0378594d51e89e7ddf41ae54a3809fd130f0cfaf83d279ac76f25dfbd4fc29
-    content: The FLIR1 video is a 76-second recording depicting the Tic Tac craft, an egg- or oblong-shaped unidentified aerial
-      phenomena (UAP) filmed by a USS Nimitz pilot in 2004.
-    original_excerpt: One of those videos was the 76-second so-called FLIR1 video, depicting the Tic Tac, the egg- or oblong-shaped
-      UAP filmed by the USS Nimitz pilot in 2004.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004'
-    date_end: null
-    location_in_record: ch21:21129-21279
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
-    claim_hash: 51da4545c51cfac4e1620378a0e530fb0d89aa3c43e985c25b6a9fce87116811
-    content: Christopher Mellon considers the object encountered by the USS Nimitz in the 2004 Tic Tac craft encounter not
-      to be an experimental US aircraft.
-    original_excerpt: '''Clearly this is not an experimental US aircraft but whose is it?'' Mellon asked.'
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: null
-    date_end: null
-    location_in_record: ch21:3329-3394
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 070c8c4c-cf19-40c0-8322-ebc21391d95b
-    claim_hash: 6525f6b493354e6b18418ecb1a08f3c99b4177eeb9062271e58c36a415a311bf
-    content: Christopher Mellon states that the events involving the USS Nimitz on 2004-11-14 can be verified by the US government
-      itself.
-    original_excerpt: Better yet the US government itself can verify the events involving the USS *Nimitz* on November 14th,
-      2004.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch21:3553-3656
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 9303c476-64f9-4867-8047-a925e45064f1
-    claim_hash: 9fe8e4415ddca7bb7c80996a6989a03b284861ca3b74422b0f20c2360678c6f5
-    content: In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the US Navy's Office
-      of Naval Intelligence (ONI) seeking records relating to the USS Nimitz Tic Tac UAP encounter.
-    original_excerpt: In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the US
-      Navy’s Office of Naval Intelligence (ONI), seeking records relating to the USS Nimitz Tic Tac UAP encounter.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 7b361b64-22fd-410b-8f12-b376de827083
-        title: Christian Lambright
-        slug: christian-lambright
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-        title: Office of Naval Intelligence
-        slug: office-of-naval-intelligence
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: 2019-10
-    date_end: null
-    location_in_record: ch22:19078-19280
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
-    claim_hash: 366e18117a2568505386317680558409541ad2844314aba8363d076760194d44
-    content: Unlike the F/A-18 fighters involved in the 2004 USS Nimitz Tic Tac encounter, the F/A-18 jets in the 2014-2015
-      USS Theodore Roosevelt encounters had new advanced APG-79 electronic beam scanning radar systems.
-    original_excerpt: unlike those on the USS Nimitz ten years earlier, they had new advanced APG-79 electronic beam scanning
-      radar systems
-    claim_type: measurement
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
-        title: FA-18 Super Hornet
-        slug: fa-18-super-hornet
-      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
-        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
-        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
-      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
-        title: AN/APG-79 Radar
-        slug: anapg-79-radar
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: null
-    date_end: null
-    location_in_record: ch22:652-764
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b18de831-3244-4834-8ab2-fcf002ee7274
-    claim_hash: 39a36c3f939f6d8d16183b18b1d96c4e05c4d773a84ce4a53b780e9a92d1cbcb
-    content: Salvatore Pais's spacecraft patent application was filed in April 2016, 12 years after the USS Nimitz and its
-      pilots tracked and videoed the Tic Tac unidentified aerial phenomenon (UAP) off the west coast.
-    original_excerpt: it means the US Navy officially claims to be developing an anti-gravity craft, a patent applied for
-      in April 2016, 12 years after the USS Nimitz and its pilots tracked and videoed the Tic Tac UAP off the west coast.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9cdcfa6d-0b81-4463-8ed6-30a1e388b316
-        title: 2016-04 Salvatore Pais gravity wave spacecraft patent application
-        slug: 2016-04-salvatore-pais-gravity-wave-spacecraft-patent-application
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: 2016-04
-    date_end: null
-    location_in_record: ch28:3496-3707
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
-    claim_hash: 477f85f4420d74d4dcf95d4c587a8f1c322b0410db33f1e92194cbe364c6583d
-    content: The Office of Naval Intelligence admitted to holding "Top Secret" records and a "Secret" video relating to the
-      USS Nimitz Tic Tac UFO incident, as reported on 2020-01-08.
-    original_excerpt: Paul Dean, 'Office of Naval Intelligence (ONI) Admits to "Top Secret" Records and "Secret" Video from
-      USS Nimitz "Tic Tac" UFO Incident', UFOs – Documenting The Evidence Blog, 8 January 2020.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Office of Naval Intelligence (ONI)
-      relay:
-        - UFOs - Documenting The Evidence Blog
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-        title: Office of Naval Intelligence
-        slug: office-of-naval-intelligence
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2020-01-08'
-    date_end: null
-    location_in_record: ch34:48917-49107
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 50c2d454-7240-49f4-9317-b7ce96de2dce
     claim_hash: 328a561934022e683778ed41b1b97818c037682c238683d346fb2ef6d819fc44
     content: David Fravor was the commander of the F/A-18 squadron aboard the USS Nimitz during the 2004 USS Nimitz UAP encounter.
@@ -1982,6 +1171,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -2023,6 +1217,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -2061,6 +1260,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -2095,6 +1299,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.871
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2134,6 +1343,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.538
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -2169,6 +1383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
@@ -2186,7 +1405,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 720457d7-380b-43ed-b3a7-a67ab277cbbb
@@ -2208,6 +1427,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2246,6 +1470,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -2266,7 +1495,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 13750deb-4882-4ddc-b87d-343cead646e1
@@ -2284,6 +1513,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
         title: USS Nimitz (CVN-68)
@@ -2298,7 +1532,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 9d34193e-b567-4fbc-992a-ac73dca39e85
@@ -2318,6 +1552,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
@@ -2354,6 +1593,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.694
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -2394,6 +1638,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
         title: USS Nimitz (CVN-68)
@@ -2427,6 +1676,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
         title: USS Nimitz (CVN-68)
@@ -2444,6 +1698,1057 @@ claims:
       record_reference: null
       content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
       friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: ad95b4e5-4a0c-4936-a957-e971802cfb64
+    claim_hash: d860490ab52e229162e60075d1338c25cc9951e852ed178c1e05c754fce0a860
+    content: Once David Fravor and his wingman returned to the USS Nimitz, the swarm of unidentified objects that had descended
+      towards the ocean during the 2004 USS Nimitz Tic Tac UAP encounter shot back above approximately 24,000 metres in a
+      fraction of a second.
+    original_excerpt: Inside the USS Princeton's Combat Information Centre astonished operators watched as, once Fravor and
+      his wingman returned to the USS Nimitz, in a fraction of a second, the swarm of other objects that had descended towards
+      the ocean shot back above 80,000 feet.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+        title: USS Princeton (CG-59)
+        slug: uss-princeton-cg-59
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:15562-15822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bb93ed9d-0f01-4ca8-b126-b8bd225234c3
+    claim_hash: e0053942af97ee13d7c7a768b0ff94881fba3192588ae17e6c6f3c31232826bf
+    content: As David Fravor and his wingman returned to the USS Nimitz on the afternoon of 2004-11-14, a third pair of aircraft
+      headed out, one piloted by Lieutenant Chad Underwood, whose jet was fitted with an ATFLIR pod.
+    original_excerpt: As Commander Fravor and his wingman returned to the USS Nimitz from their Tic Tac encounter that 14
+      November afternoon, a third pair of aircraft headed out. One of the pilots, Lieutenant Chad Underwood, had what is called
+      an ATFLIR pod on his jet.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+        title: Chad Underwood
+        slug: chad-underwood
+      - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+        title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+        slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:16657-16902
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c4d0935a-8ff0-4a53-b5ef-707008f589b5
+    claim_hash: ec467b2d59f81e61a2c44300f6a76fc54efc706dc9ece48028f9c56b5253fe5e
+    content: The FLIR1 video of the 2004 Nimitz Tic Tac encounter was downloaded when Chad Underwood returned to the USS Nimitz,
+      and conspiracy theories abound among crewmen who saw the video while the ship was still at sea.
+    original_excerpt: The ATFLIR video of the encounter was downloaded when Lieutenant Underwood returned to the USS Nimitz;
+      conspiracy theories abound among crewmen who saw the video while the ship was still at sea.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: crewmen who saw the FLIR1 video while the USS Nimitz was still at sea
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+        title: Chad Underwood
+        slug: chad-underwood
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:19232-19424
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 985d67e1-72d2-4bf0-9e5f-487cb88f47f7
+    claim_hash: 5b02fd668793c18b96e811280b922cb0c098c8fa9d72ef7a47d55d35f42ddba1
+    content: No further jets from the USS Nimitz were sent up to engage the craft during the 2004 USS Nimitz Tic Tac UAP encounter.
+    original_excerpt: No further jets from the USS *Nimitz* were sent up to engage the craft.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: In Plain Sight narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch16:21453-21518
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4d036a1a-2fdb-45f6-80ef-6c53e7cfa059
+    claim_hash: e9c1f8324a39ce34d977f0f013de6d98412e55f20f6c6ade72cbd16bca05d82e
+    content: The returning pilots from the 2004 USS Nimitz Tic Tac UAP encounter received a good-natured ribbing about their
+      'flying saucer' sighting from the USS Nimitz's deck crew, some of whom wore tin-foil hats in jest.
+    original_excerpt: What the returning pilots did get was a good-natured ribbing about their 'flying saucer' sighting from
+      the USS *Nimitz*'s deck crew, some of whom were wearing tin-foil hats in jest.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: In Plain Sight narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch16:21796-21972
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cadc7ae1-5b58-4890-8f7b-d4d9828fbfe3
+    claim_hash: ba236801c6a67bcf84402c0f460ad188a7988302acb76264236dd5a1810dac24
+    content: Immediately after the 2004 USS Nimitz Tic Tac UAP encounter, two unknown individuals, presumably serving military,
+      arrived by navy helicopter on board the USS Nimitz.
+    original_excerpt: Immediately after the incident, two unknown individuals, presumably serving military, arrived by navy
+      helicopter on board the *Nimitz*.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: In Plain Sight narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch16:23537-23664
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 90742dd6-fb52-4b59-b254-7f1d77a2752d
+    claim_hash: 7feaec26f042767629baabd3653bcbc73cfa1883f61657801c3bc7dbce3fa65c
+    content: Kevin Day confirmed that the USS Nimitz's radar was tracking the same cluster of 14 unidentified objects as the
+      USS Princeton's radar on 2004-11-14.
+    original_excerpt: this time, he confirmed the Nimitz's radar was seeing the same thing
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+      title: Kevin Day
+    provenance_chain:
+      origin_kind: speaker
+      origin: Kevin Day
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+        title: Kevin Day
+        slug: kevin-day
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:3446-3511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a104bd6a-8d33-4f71-92c4-39843995f257
+    claim_hash: 1502628fda78f770a3871375d35347f196294268e4a4248315835ca4d0c3eb1d
+    content: The USS Nimitz sent up an E2 Hawkeye airborne early-warning aircraft during the 2004 USS Nimitz Tic Tac UAP encounter,
+      which detected the closest unidentified object on its own radar.
+    original_excerpt: The aircraft carrier also sent up one of its airborne early-warning aircraft – an E2 Hawkeye – and it
+      detected the closest object on its radar.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
+        title: E-2 Hawkeye
+        slug: e-2-hawkeye
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:3518-3655
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f81df24d-e91f-4b95-931b-50af7b9ac45e
+    claim_hash: 227f7563ce2f94826ba2309a99060e6294ef9474f9aaa3099d36fc4e02d242df
+    content: On 2004-11-14, the USS Nimitz supercarrier was undergoing preparatory training with other vessels in its carrier
+      strike group before deploying to the Middle East.
+    original_excerpt: the behemoth aircraft supercarrier USS Nimitz was undergoing preparatory training with other vessels
+      in its carrier strike group before deploying to the Middle East
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:448-610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+    claim_hash: 3c395b223b1a8361605c5b1724aac4c95012492e3292cc1f2749bec1e729e72f
+    content: Within a few hours of the initial radar sightings on 2004-11-14, the USS Nimitz planned to launch as many as
+      30 aircraft, with more scheduled to join the carrier group exercise from San Diego.
+    original_excerpt: Within a few hours of this sighting, the USS Nimitz planned to launch as many as 30 aircraft and more
+      were scheduled to be joining the carrier group exercise from San Diego.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:6036-6205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3ef468d0-22fd-4973-9650-5d66c179034e
+    claim_hash: 85ed908c58fb73eae2e321a934e9a0309e1eeefe81c2276b0fca8520330ffa6a
+    content: A huge stretch of ocean and sky was closed for the USS Nimitz carrier strike group exercise on 2004-11-14.
+    original_excerpt: A huge swathe of ocean and sky was closed for the exercise.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:616-666
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1e9fa5fc-7581-419e-97db-131b5fbfdaa9
+    claim_hash: b31f2f143828fb65d72e1dfe43b006dec4e151514fc3cf118e160c257b54e0a6
+    content: Kevin Day recommended to USS Nimitz Captain James Smith that aircraft be sent to investigate the swarm of unidentified
+      objects during the 2004 USS Nimitz Tic Tac UAP encounter, and Captain Smith concurred.
+    original_excerpt: Day recommended to the Nimitz's Captain James Smith that they send out aircraft to take a look, and
+      the captain concurred.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 8e86f75c-fbee-420a-9701-d007e3e13c30
+        title: James Smith (USS Nimitz captain)
+        slug: james-smith-uss-nimitz-captain
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+        title: Kevin Day
+        slug: kevin-day
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:6428-6542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 00ba059b-86a1-4099-bdfe-1de5723f302b
+    claim_hash: bdff7ad9e719272bc4971c08cbf892ddda0360521138b562c05f1acab1e5a6a3
+    content: Douglas Kurth arrived at the intercept point approximately 100 kilometres south-west of the USS Nimitz during
+      the 2004 USS Nimitz Tic Tac UAP encounter, but saw only a circular disturbance on the ocean surface, 50-100 metres in
+      size.
+    original_excerpt: Somewhere about 100 kilometres south-west of the Nimitz, Kurth arrived at the intercept point, but all
+      he saw was a circular disturbance on the surface of the ocean, 50–100 metres in size.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
+      title: Douglas Kurth
+    provenance_chain:
+      origin_kind: speaker
+      origin: Douglas Kurth
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
+        title: Douglas Kurth
+        slug: douglas-kurth
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:7213-7398
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9c13836a-6561-4b29-8009-791ca00f99d2
+    claim_hash: 80202f94794fff8f422647a755d78446c60a06833bb429fc6a4919dc148a9fc8
+    content: During the 2004 USS Nimitz Tic Tac UAP encounter, it was the accompanying Ticonderoga-class guided missile cruiser
+      USS Princeton, not the USS Nimitz itself, that was providing air defence protection using its then brand-new SPY-1 Aegis
+      radar system.
+    original_excerpt: it was actually the accompanying Ticonderoga-class guided missile cruiser USS Princeton that was providing
+      air defence protection with its then brand-new SPY-1 Aegis radar system
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.849
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
+        title: USS Princeton (CG-59)
+        slug: uss-princeton-cg-59
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+      - node_id: f499a8c6-d08f-47d6-b763-bf0f0d3d598e
+        title: SPY-1 Aegis radar system
+        slug: spy-1-aegis-radar-system
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:740-914
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 72f28544-5245-4b89-8c2d-39d957b86719
+    claim_hash: 5eeaa542cb9cefd87d8aa011953645e2e5001e05da5744bbe917a7f97ae04642
+    content: Weapons systems officer Jim Slaight and his pilot initially thought the ocean disturbance during the 2004 USS
+      Nimitz Tic Tac UAP encounter might be a submarine that was part of the exercise, but this was later ruled out by the
+      USS Nimitz's intelligence officer in a post-flight debriefing.
+    original_excerpt: Remaining above, weapons systems officer Lieutenant Commander Slaight and his pilot thought it might
+      be a submarine that was part of the exercise, but this was later ruled out by the Nimitz's intelligence officer in a
+      post-flight debriefing.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 224c7627-5439-4e73-b583-590caead8999
+      title: Jim Slaight
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jim Slaight
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 224c7627-5439-4e73-b583-590caead8999
+        title: Jim Slaight
+        slug: jim-slaight
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:8969-9201
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 091ecbf9-1702-4677-a96e-e5d67cd15522
+    claim_hash: 7ac4197bd51a057a9a322e092050ae9eb23f29c4272de9da49fa179ef722b1dd
+    content: Eric Davis's team was responsible for the covert investigation into the 2004 USS Nimitz Tic Tac UAP incident.
+    original_excerpt: Former Bigelow NIDS scientist Dr Eric Davis has admitted that his team was responsible for the covert
+      investigation into the 2004 Tic Tac USS Nimitz incident and they too reached a dramatic conclusion as to who or what
+      was behind it.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      title: Eric Davis
+    provenance_chain:
+      origin_kind: speaker
+      origin: Eric Davis
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+        title: Eric Davis
+        slug: eric-davis
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch17:11975-12207
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7c540871-19d3-49c7-b1a5-f015d354ed69
+    claim_hash: f8eba16ecf04cf587ce8c314241763c07026617ec2df91e9133d5807b731421d
+    content: Douglas Kurth was the first witness to the 2004 USS Nimitz Tic Tac UAP encounter as an FA-18 jet pilot.
+    original_excerpt: One of Bigelow's first hires in 2007 was former USS Nimitz FA-18 jet pilot Marine Lieutenant Colonel
+      Douglas Kurth, the first witness to the Tic Tac UAP in November 2004.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e843b0ea-7362-4daa-8784-ae10f7af05f2
+        title: Douglas Kurth
+        slug: douglas-kurth
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: 2004-11
+    date_end: null
+    location_in_record: ch17:7530-7697
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 44c746c8-143e-402f-83e5-ff7554ccb19c
+    claim_hash: fe0378594d51e89e7ddf41ae54a3809fd130f0cfaf83d279ac76f25dfbd4fc29
+    content: The FLIR1 video is a 76-second recording depicting the Tic Tac craft, an egg- or oblong-shaped unidentified aerial
+      phenomena (UAP) filmed by a USS Nimitz pilot in 2004.
+    original_excerpt: One of those videos was the 76-second so-called FLIR1 video, depicting the Tic Tac, the egg- or oblong-shaped
+      UAP filmed by the USS Nimitz pilot in 2004.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.771
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004'
+    date_end: null
+    location_in_record: ch21:21129-21279
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c3771b29-a5c4-4999-80c1-99b74c6e95b2
+    claim_hash: 51da4545c51cfac4e1620378a0e530fb0d89aa3c43e985c25b6a9fce87116811
+    content: Christopher Mellon considers the object encountered by the USS Nimitz in the 2004 Tic Tac craft encounter not
+      to be an experimental US aircraft.
+    original_excerpt: '''Clearly this is not an experimental US aircraft but whose is it?'' Mellon asked.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch21:3329-3394
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 070c8c4c-cf19-40c0-8322-ebc21391d95b
+    claim_hash: 6525f6b493354e6b18418ecb1a08f3c99b4177eeb9062271e58c36a415a311bf
+    content: Christopher Mellon states that the events involving the USS Nimitz on 2004-11-14 can be verified by the US government
+      itself.
+    original_excerpt: Better yet the US government itself can verify the events involving the USS *Nimitz* on November 14th,
+      2004.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.919
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch21:3553-3656
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9303c476-64f9-4867-8047-a925e45064f1
+    claim_hash: 9fe8e4415ddca7bb7c80996a6989a03b284861ca3b74422b0f20c2360678c6f5
+    content: In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the US Navy's Office
+      of Naval Intelligence (ONI) seeking records relating to the USS Nimitz Tic Tac UAP encounter.
+    original_excerpt: In October 2019, researcher Christian Lambright made a Freedom of Information Act request to the US
+      Navy’s Office of Naval Intelligence (ONI), seeking records relating to the USS Nimitz Tic Tac UAP encounter.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 7b361b64-22fd-410b-8f12-b376de827083
+        title: Christian Lambright
+        slug: christian-lambright
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: 2019-10
+    date_end: null
+    location_in_record: ch22:19078-19280
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cc66340d-b159-4c82-a8ab-023a0b1de83c
+    claim_hash: 366e18117a2568505386317680558409541ad2844314aba8363d076760194d44
+    content: Unlike the F/A-18 fighters involved in the 2004 USS Nimitz Tic Tac encounter, the F/A-18 jets in the 2014-2015
+      USS Theodore Roosevelt encounters had new advanced APG-79 electronic beam scanning radar systems.
+    original_excerpt: unlike those on the USS Nimitz ten years earlier, they had new advanced APG-79 electronic beam scanning
+      radar systems
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.66
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+        title: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+        slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters
+      - node_id: 66f42c54-23e1-441b-ad3a-c2618cd447c4
+        title: AN/APG-79 Radar
+        slug: anapg-79-radar
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: null
+    date_end: null
+    location_in_record: ch22:652-764
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b18de831-3244-4834-8ab2-fcf002ee7274
+    claim_hash: 39a36c3f939f6d8d16183b18b1d96c4e05c4d773a84ce4a53b780e9a92d1cbcb
+    content: Salvatore Pais's spacecraft patent application was filed in April 2016, 12 years after the USS Nimitz and its
+      pilots tracked and videoed the Tic Tac unidentified aerial phenomenon (UAP) off the west coast.
+    original_excerpt: it means the US Navy officially claims to be developing an anti-gravity craft, a patent applied for
+      in April 2016, 12 years after the USS Nimitz and its pilots tracked and videoed the Tic Tac UAP off the west coast.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9cdcfa6d-0b81-4463-8ed6-30a1e388b316
+        title: 2016-04 Salvatore Pais gravity wave spacecraft patent application
+        slug: 2016-04-salvatore-pais-gravity-wave-spacecraft-patent-application
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: 2016-04
+    date_end: null
+    location_in_record: ch28:3496-3707
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8e2b24e7-dcc8-4172-8622-c937c405a63d
+    claim_hash: 477f85f4420d74d4dcf95d4c587a8f1c322b0410db33f1e92194cbe364c6583d
+    content: The Office of Naval Intelligence admitted to holding "Top Secret" records and a "Secret" video relating to the
+      USS Nimitz Tic Tac UFO incident, as reported on 2020-01-08.
+    original_excerpt: Paul Dean, 'Office of Naval Intelligence (ONI) Admits to "Top Secret" Records and "Secret" Video from
+      USS Nimitz "Tic Tac" UFO Incident', UFOs – Documenting The Evidence Blog, 8 January 2020.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Office of Naval Intelligence (ONI)
+      relay:
+        - UFOs - Documenting The Evidence Blog
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2020-01-08'
+    date_end: null
+    location_in_record: ch34:48917-49107
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9aacf04b-2bd3-4d1b-8377-cdc5f36b256a
     claim_hash: f55523fa0a8ac5f8433f5c2c601df06e35326550a15d6f8e9e6e26c74fb23eb1
     content: Very little follow-up investigation had been conducted after the pilots returned to the USS Nimitz following
@@ -2458,6 +2763,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -2474,7 +2784,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2492,6 +2802,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -2508,7 +2823,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2527,6 +2842,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2546,7 +2866,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2565,6 +2885,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.897
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2584,7 +2909,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2603,6 +2928,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55991bcf-937b-46da-9858-2b733307190b
         title: Tic Tac
@@ -2622,7 +2952,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2641,6 +2971,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -2657,7 +2992,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2678,6 +3013,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt
@@ -2697,7 +3037,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2718,6 +3058,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt
@@ -2740,7 +3085,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2759,6 +3104,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2778,7 +3128,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2797,6 +3147,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -2819,7 +3174,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2839,6 +3194,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2881,6 +3241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
         title: USS Nimitz (CVN-68)
@@ -2913,6 +3278,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -2951,6 +3321,11 @@ claims:
         - confirmed to Chris Mellon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -2993,6 +3368,11 @@ claims:
         - confirmed to Chris Mellon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter
@@ -3034,6 +3414,11 @@ claims:
         - confirmed to Chris Mellon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -3076,6 +3461,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
         title: 2004 USS Nimitz UAP encounter

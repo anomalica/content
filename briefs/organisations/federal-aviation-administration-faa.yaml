@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5bb47b162a99e56c8f29717ea2b6110ad185247d6528c46851c076fc78c6ba80
+brief_hash: 95e9847e29175d6e9731e0ecab0d70a80ff02ae9cb2391627a9dbd7a2cfdbaa2
 page:
   kind: entity
   node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
@@ -9,11 +9,21 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 18
   tokens_estimated: 3174
   sized_against: 1050000
+entailment:
+  assessed: 18
+  unassessed: 0
+  entails: 12
+  neutral: 4
+  contradicts: 2
+  entailed_by_quote: 3
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,16 +33,21 @@ belonging:
   suspect_excluded: 0
   unreviewed: 18
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+    title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 8
+    slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 4
   - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
     title: USA, Texas, El Paso
     node_type: place
     slug: texas-el-paso-usa
     shared_claims: 4
+  - node_id: 212f6a5d-30ab-4ff7-934f-7a2aad32a9b7
+    title: 1978 Japan Airlines Flight 1628 Alaska Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: 1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting
+    shared_claims: 3
   - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
     title: Allison Kruse
     node_type: person
@@ -43,6 +58,11 @@ related_nodes:
     node_type: organisation
     slug: united-states-department-of-defense-dod
     shared_claims: 2
+  - node_id: 8fe5e797-cea4-406a-908a-8e5d1d8efa61
+    title: 2010-11 Murrysville Unidentified Flying Object (UFO) filming incident
+    node_type: event
+    slug: 2010-11-murrysville-unidentified-flying-object-ufo-filming-incident
+    shared_claims: 1
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
     node_type: organisation
@@ -115,7 +135,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 279d100b-ce8a-4156-9ef7-8365659d7e44
-    claim_hash: cb5dba4fafa503185a708f252e68ed51cd75e3d00302460a7d523c2e382d63ca
+    claim_hash: 677256a62a6b30d7727be8939a46a77a43e6645ad54f97d639a7cc6a7b07b262
     content: The crew of the 1978 Japan Airlines Flight 1628 Alaska UFO sighting tracked the object on their weather radar
       to confirm they were not seeing things, and were in contact with the Federal Aviation Administration in Anchorage and
       with Elmendorf Air Force Base, both of which they maintained also tracked it on radar.
@@ -133,13 +153,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 212f6a5d-30ab-4ff7-934f-7a2aad32a9b7
+        title: 1978 Japan Airlines Flight 1628 Alaska Unidentified Flying Object (UFO) sighting
+        slug: 1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: bc050c97-e137-46b8-8b02-d31d9ff9f0bd
         title: USA, Alaska, Elmendorf Air Force Base
         slug: alaska-elmendorf-air-force-base-usa
@@ -160,7 +185,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: 247e6e15-b1c9-4209-8b0c-770c7f040c78
-    claim_hash: 1979c311dadc6324bbf109d9dc1e3ddfd84db727e63a5552c8845dda4d46b95d
+    claim_hash: 68cea259c55301b613a94bec097782bcf83419ad10a1195f711ce53fd0c8d344
     content: After the 1978 Japan Airlines Flight 1628 Alaska UFO sighting became public, Federal Aviation Administration
       officials contradicted their own controllers, and told the press the radar contact was just a double image of the plane.
     original_excerpt: immediately the FAA officials contradicted their own controllers ... the FAA told the press that the
@@ -176,13 +201,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.842
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 212f6a5d-30ab-4ff7-934f-7a2aad32a9b7
+        title: 1978 Japan Airlines Flight 1628 Alaska Unidentified Flying Object (UFO) sighting
+        slug: 1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: 00:16:10.9-00:16:24.0
@@ -197,7 +227,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: cb673d77-0032-443b-8c86-a7139e00b4d8
-    claim_hash: 9cfde19a6dba6a668bdffa71ece28344faa480c6982e2c0aefc5342939cd8b72
+    claim_hash: 02860f3930ca8e6d0db5771b222b1ac7632544c1753b1506567f7d8139708f4f
     content: Federal Aviation Administration controllers were reportedly upset over the official explanations given for the
       1978 Japan Airlines Flight 1628 Alaska UFO sighting, and the Japanese pilot and crew members continued to stand by their
       account regardless of the government's statements.
@@ -214,13 +244,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 212f6a5d-30ab-4ff7-934f-7a2aad32a9b7
+        title: 1978 Japan Airlines Flight 1628 Alaska Unidentified Flying Object (UFO) sighting
+        slug: 1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: 00:16:41.9-00:16:53.1
@@ -251,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
@@ -289,6 +329,11 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
         title: Allison Kruse
@@ -310,7 +355,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: dd7f5eed-bc0e-4867-93cb-4f3f31ec0248
-    claim_hash: 2cf00504d45440e581485229c2cbb94c88d5087ffaa2462204fa8cd9b6bc723a
+    claim_hash: c548af4eb9ddbc22e12a34f9ecd190ce217fc6baf4eba7e55f5502b9613f0f45
     content: In November 2010, Allison Kruse filmed a starlike object over the forest near Murrysville, Pennsylvania, and
       the Federal Aviation Administration confirmed there were no aircraft in the sky at the time; the FAA's data disc of
       the event was titled "Murrysville UFO."
@@ -330,16 +375,21 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 84a785f9-5bfe-4444-bf6f-c06742f7644f
         title: Allison Kruse
         slug: allison-kruse
+      - node_id: 8fe5e797-cea4-406a-908a-8e5d1d8efa61
+        title: 2010-11 Murrysville Unidentified Flying Object (UFO) filming incident
+        slug: 2010-11-murrysville-unidentified-flying-object-ufo-filming-incident
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: 2010-11
     date_end: null
     location_in_record: ch3:17708-17993
@@ -354,7 +404,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: d798e0e1-29a9-4d0d-ac4f-0ac39fef1b14
-    claim_hash: 75cc3211682ee66d250ea9b7a00aed4c6194d09e2884c16e6dade598f43ada26
+    claim_hash: e9ff87a9fab1e3b332caea222f391857a967b2117056ea56f3e2cea2ed6cfbe2
     content: The Japanese crew of Japan Airlines flight 1628 were interviewed by the Federal Aviation Administration and were
       adamant they had seen a gigantic craft, clearly not of any known terrestrial technology, which tracked them on their
       journey.
@@ -370,13 +420,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
         title: Japan Airlines
         slug: japan-airlines
@@ -389,12 +444,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 14eeab5b-5a4d-4c1d-ae96-86f4d45c9cec
-    claim_hash: e766f68ea642f801896c8326d0e99b46da1196dfc17996c7b3e7fb0f7b0cc0be
+    claim_hash: 741aa8280d349bc5401a733b436c2280436475c380b3ad313bed94911a9904bc
     content: The Federal Aviation Administration officially explained away multiple independent solid anomalous radar traces
       of the craft during the 1986 Japan Airlines Flight 1628 UAP sighting as 'clutter', quickly declaring it could not confirm
       the event.
@@ -409,13 +464,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch12:13713-13922
@@ -425,12 +485,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: cc3fb47c-85f3-4281-aac1-4824e59b2a65
-    claim_hash: af5615f474dbb0d2e67a378b22794e20f313487d49fb46ec2ee403a41a987ce4
+    claim_hash: 3b7224195dd5bf4db3c1bd0e04af3fba8c0606156d8ee492bc6cf0674fb9ede1
     content: After the 1986 Japan Airlines Flight 1628 UAP sighting, a meeting was held at the Federal Aviation Administration's
       Washington office in which Central Intelligence Agency agents confiscated all the radar evidence.
     original_excerpt: Overwhelming evidence in support of an official cover-up in the JAL sighting was exposed when, after
@@ -445,19 +505,24 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch12:14534-14803
@@ -467,12 +532,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9591aa4c-3faa-484c-b632-99607b05dbee
-    claim_hash: 2410b9ba63c058b77192b3dd378e3929cb64e7b5829417c6fc0d3b7742e43eaf
+    claim_hash: 67318b17540c7113f8b6e188fd8bf44f9c41e49844631b4a8214792e97d9e730
     content: John Callahan was the Division Chief of the Accidents and Investigation Branch of the Federal Aviation Administration
       when the 1986 Japan Airlines Flight 1628 UAP sighting occurred.
     original_excerpt: John Callahan, who was the Division Chief of the Accidents and Investigation Branch of the Federal Aviation
@@ -489,13 +554,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: ec14592b-5208-48f3-b23f-88a280552626
         title: John Callahan
         slug: john-callahan
@@ -508,7 +578,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -527,6 +597,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -546,7 +621,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -567,6 +642,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
         title: USA, Texas, El Paso
@@ -604,6 +684,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
         title: USA, Texas, El Paso
@@ -640,6 +725,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -680,6 +770,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
         title: USA, Texas, El Paso
@@ -717,6 +812,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.449
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4336d36e-8d36-41e2-bf82-8d02bcb3e740
         title: Ted Cruz
@@ -758,6 +858,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
         title: USA, Texas, El Paso
@@ -797,6 +902,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8761b44f-e46a-432c-bdc4-1360ab2cef1c
         title: US Special Operations Command

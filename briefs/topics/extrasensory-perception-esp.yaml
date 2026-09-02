@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: c37189091d8ebb06d01c2dd8642233b4d067eb5eb427e6c199c48921c165e1ef
+brief_hash: 0fd6e9de732b804b47c836888de5d9f6b51b4b358646b10d6d7980c1e7ce4e4f
 page:
   kind: entity
   node_id: 5a444e8f-c623-42c6-8018-293818d9df73
@@ -9,11 +9,21 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 19
   tokens_estimated: 2945
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 16
+  neutral: 3
+  contradicts: 0
+  entailed_by_quote: 7
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.368
+  entailed_by_window_fraction: 0.474
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -119,7 +129,7 @@ related_nodes:
     slug: psi-psychic-functioning
     shared_claims: 1
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 1
@@ -184,6 +194,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb5a109-2629-4129-b0ba-424ea7790ee9
         title: Duke University
@@ -220,6 +235,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.547
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -255,6 +275,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -292,6 +317,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -334,6 +364,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -373,6 +408,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -411,6 +451,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -450,6 +495,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
         title: Survival hypothesis
@@ -492,6 +542,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.611
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -532,6 +587,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -574,6 +634,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -610,6 +675,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -631,7 +701,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -651,6 +721,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.886
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -690,6 +765,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
         title: KGB
@@ -725,6 +805,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -767,12 +852,17 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
         title: Ed Dames
         slug: ed-dames
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -791,7 +881,7 @@ claims:
       content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
       friendly_name: null
   - claim_id: 2337e7a9-71c9-4993-8ffc-9748eb5f135e
-    claim_hash: e55a9666273727337875ab03094d9409fabd916262f6bb3be640fa379cb019a7
+    claim_hash: b7e1005ce823408f3fbcd7dfd5af9150c37bee99268777097926fd76738c4e2a
     content: Hal Puthoff created the Central Intelligence Agency's (CIA) psychic spy programme.
     original_excerpt: Dr. Pudoff is the creator of the CIA's own revolutionary psychic spy program still used to this day
     claim_type: administrative
@@ -805,6 +895,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -829,7 +924,7 @@ claims:
       content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
       friendly_name: null
   - claim_id: 1cb82712-e941-49ea-987f-9e33ae7b6b46
-    claim_hash: 3c591eafb9d4bf1b0caef020d76db6913d8040dcc7fd622ffb897fd1c479952e
+    claim_hash: 1d6428ace94cf2334a36cb4f17d612539ff09562913b7f564d5e01c517f77e7d
     content: To The Stars Academy of Arts and Science intends to explore topics including unidentified aerial phenomena (UAP),
       extrasensory perception (ESP), and telepathy.
     original_excerpt: I think it's an opportunity for us to take certain topics, whether that's unidentified aerial phenomena
@@ -843,6 +938,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
         title: Extrasensory perception (ESP)
@@ -886,6 +986,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
         title: Stanford Research Institute (SRI)

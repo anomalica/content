@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1a1b21ed65a5442efd2d8f8dea8bae80337a02b297e7310ac13a04ff4d1b654f
+brief_hash: 4444a4768e2cd23d3dc895a729c320dc3f8c8f1520164f46f461835d7f283f9a
 page:
   kind: entity
   node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
@@ -9,11 +9,21 @@ page:
   claim_count: 21
   claim_count_total: 21
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 21
   tokens_estimated: 3178
   sized_against: 1050000
+entailment:
+  assessed: 21
+  unassessed: 0
+  entails: 18
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 5
+  entailed_by_window: 13
+  entailed_by_quote_fraction: 0.238
+  entailed_by_window_fraction: 0.619
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 21
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+    title: Varginha Unidentified Flying Object (UFO) incident
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: varginha-unidentified-flying-object-ufo-incident
     shared_claims: 5
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
@@ -151,6 +161,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.541
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -186,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.506
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43169747-27fd-4577-8bcf-9c914dd33469
         title: New Mexico Tech
@@ -222,6 +242,11 @@ claims:
         - Bill Chalker
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.739
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19c2b4c4-dca2-4b50-9fc4-02c0bfc3e3bb
         title: 2000-09 Gary Lowrey alien claw discovery
@@ -261,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
@@ -293,6 +323,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 363dcb03-8b6e-455a-95e0-9b53302d5b86
         title: August 19, 1995 Roger Leir first implant removal surgery
@@ -332,6 +367,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
@@ -366,6 +406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43169747-27fd-4577-8bcf-9c914dd33469
         title: New Mexico Tech
@@ -408,6 +453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.485
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
@@ -438,6 +488,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.887
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c890336a-3653-4ae6-b343-fb750bdc4fbf
         title: Gary Lowrey
@@ -462,7 +517,7 @@ claims:
       content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
       friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
   - claim_id: 86da6a1a-e1aa-4a0f-8f98-652e5ce80e80
-    claim_hash: ad360700c3d3ae19d50ee7d662db102e5fb69c1579e998d7db1361c10f9132a2
+    claim_hash: 3f19d750948c8fe787822142cdd8eea30f0f904d68190f630f1c5c47cd418f92
     content: Roger Leir interviewed Valquira Silva, who described seeing a short, crouching, motionless creature that was
       horrible looking, brown in colour, with oily skin and a large head.
     original_excerpt: Dr. Leir conducted an interview with Valquira, who described seeing a short creature, crouching and
@@ -480,16 +535,21 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.579
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4526ce68-1612-4360-b7d3-60539ccdb10c
         title: Valquira Silva
         slug: valquira-silva
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
         slug: roger-leir
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:11396-11592
@@ -521,6 +581,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
         title: Brazil
@@ -548,7 +613,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 0ae77544-e36a-46ab-833b-c4c8940eb40b
-    claim_hash: b0a6a948a0ca59526e2d73c41b9047dbfb2737a9e64db3081a97910aa1ee36ed
+    claim_hash: dede903ad5755a5bb04319e6ff5be223b370a2821734fb87dd7894061d99d3a8
     content: 'Roger Leir noticed a change in attitude of the medical personnel he interviewed: they first claimed to be thirdhand
       witnesses, but as they talked it became clear they were actually firsthand witnesses and participants.'
     original_excerpt: Roger does remark that he noticed a change in the attitude of the individuals involved as he talked
@@ -566,13 +631,18 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
         slug: roger-leir
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:15829-16072
@@ -587,7 +657,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 06000d9d-f25a-466a-b037-bca730d23ae3
-    claim_hash: f1c12106c95bc3cef0170254494bce3d4aa7ea7917287f47ba5c6e060dd2be5e
+    claim_hash: e95271c9a689ea1597f6e1beb1241892b9ff678f349eb07f48a96b63cb52346c
     content: One of the medical personnel interviewed by Roger Leir about the 1996 Varginha UFO incident said that none of
       the medical staff wanted to look into the creature's eyes and refrained from doing so.
     original_excerpt: One of the medical personnel interviewed by Dr. Leir specifically comments, “For some reason, all of
@@ -603,13 +673,18 @@ claims:
         - an interview with Roger Leir
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.407
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
         slug: roger-leir
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:21647-21823
@@ -624,7 +699,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ac5745be-d309-472a-9c2a-f328b4c9ad99
-    claim_hash: e38525bb4d25ab1b0c4b140151bb5c5b8279d50a42b48e2271723fc3a8db3e3a
+    claim_hash: 8951073a26926ef2a55f5c6a11f07b3310c9df17eaeef5a2b2f9bc3b8e645c09
     content: The doctor was reticent to tell Roger Leir everything that was in the thought grams he received during the 1996
       Varginha UFO incident, but was willing to describe what the creature told him about human beings.
     original_excerpt: The doctor was reticent to tell Dr. Leir everything that was in the “thought grams,” but he was willing
@@ -639,13 +714,18 @@ claims:
         - an interview with Roger Leir
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.405
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
         slug: roger-leir
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:23347-23497
@@ -676,6 +756,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.765
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -697,7 +782,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: f3a5200d-13e0-4f54-9f6e-6e0b5055a9df
-    claim_hash: 265d95a1815b55890bf3701eeabab1f53c80e4c7533641b67d195d897e7463d2
+    claim_hash: 3a73d895b0749268552b8a70ad8dfa51722228cdb5b31bfe5ae07b74a88295b8
     content: Whitley Strieber knew Roger Leir well, and when Leir first heard of the Varginha case in 2002 he called Strieber
       and asked him to travel to Brazil with him, but Strieber's schedule did not permit it.
     original_excerpt: I knew Dr. Leir well, and when he first heard of the case in 2002, he called me and asked me to go to
@@ -713,6 +798,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 05c993d3-ff62-4822-a7fe-91cba59c0215
         title: Brazil
@@ -720,12 +810,12 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
         slug: roger-leir
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: '2002'
     date_end: null
     location_in_record: ch13:8191-8353
@@ -757,6 +847,11 @@ claims:
         - a phone call to Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -797,6 +892,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
         title: Roger Leir
@@ -829,6 +929,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -866,6 +971,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.814
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -910,6 +1020,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15495b98-d48f-4655-b7f0-ca30f912b2bf
         title: Bill Mallow

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a4e8752444a1ef0aa2a02b7ead144ff9c2ee4e5b0ee5b489a20426eea823902b
+brief_hash: 114deb620ccc20ca37202674487d0ee9388e93956924406efb9f86e6beb50220
 page:
   kind: entity
   node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
@@ -9,11 +9,21 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 25
   tokens_estimated: 3576
   sized_against: 1050000
+entailment:
+  assessed: 25
+  unassessed: 0
+  entails: 14
+  neutral: 9
+  contradicts: 2
+  entailed_by_quote: 5
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.36
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -73,10 +83,10 @@ related_nodes:
     node_type: person
     slug: thomas-monheim
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 758e787c-7af3-42ae-a3c9-de53fd7a6a49
+    title: 2023-02 Deadhorse, Alaska Unidentified Aerial Phenomena (UAP) shoot-down
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: alaska-unidentified-aerial-phenomena-uap-shoot-down-2023-02-deadhorse
     shared_claims: 1
   - node_id: acbf7d77-892f-47d5-8d4b-558f5d2d16ae
     title: Alex Gangitano
@@ -154,423 +164,6 @@ related_nodes:
     slug: white-house-office-of-the-counsel-to-the-president
     shared_claims: 1
 claims:
-  - claim_id: dabeefe8-a5d2-4be0-952b-c08deca275d0
-    claim_hash: 470cad0c47e15f7c197c5578410241f00aa1c7903a2ec789a7f772f69faf9863
-    content: National Security Council spokesman John Kirby announced that President Joe Biden had created an interagency
-      team to investigate unidentified objects in US airspace following the three objects shot down in February 2023.
-    original_excerpt: the NSC spokesman John Kirby announced that the president had created an interagency team to investigate
-      unidentified objects in US airspace in the wake of the three unidentified objects being shot down
-    claim_type: administrative
-    attestation: second_hand
-    speaker:
-      node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
-      title: John Kirby
-    provenance_chain:
-      origin_kind: named
-      origin: John Kirby
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-        title: National Security Council
-        slug: national-security-council
-      - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
-        title: John Kirby
-        slug: john-kirby
-    date: null
-    date_end: null
-    location_in_record: ch29:14878-15076
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3f84d51d-c04b-40a5-8de7-1f2bac3ec945
-    claim_hash: 818f2a95dc21dc5656a1ec50d74cc3b7d26e896b879771ad62a77752ea19a2f6
-    content: The interagency team created by President Joe Biden was tasked to study the broader policy implications for detection,
-      analysis and disposition of unidentified aerial objects that pose safety or security risks.
-    original_excerpt: The team was tasked to study the 'broader policy implications for detection, analysis and disposition
-      of unidentified aerial objects that pose either safety or security risks'
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: White House National Security Council
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
-        title: National Security Council
-        slug: national-security-council
-    date: null
-    date_end: null
-    location_in_record: ch29:15082-15251
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 0f32aa95-b986-4f9a-89b3-f218d4635dc0
-    claim_hash: c6b1994f37139e92ebf73846185e207a260a117e263194fda4678eca6a0190bd
-    content: An anonymous US Navy commander, according to Ross Coulthart's Defense sources, came forward to the White House
-      with information that further undermined the confidence of President Joe Biden's advisors in the Pentagon's capacity
-      for candour during the Balloongate controversy.
-    original_excerpt: This author also heard more concerning accounts from Defense sources at this time, namely that a senior
-      US Navy commander had come forward to the White House with information that only served to further undermine the confidence
-      of President Biden's advisors in the Pentagon's capacity for candour
-    claim_type: hearsay
-    attestation: second_hand
-    speaker:
-      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-      title: Ross Coulthart
-    provenance_chain:
-      origin_kind: anonymous
-      origin: a person claiming to be a senior US Navy commander
-      relay:
-        - unnamed Defense sources speaking to Ross Coulthart
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-        title: United States Navy (USN)
-        slug: united-states-navy-usn
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
-        title: United States Pentagon
-        slug: united-states-pentagon
-      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-        title: Ross Coulthart
-        slug: ross-coulthart
-    date: null
-    date_end: null
-    location_in_record: ch29:16090-16379
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: da267a38-9f90-46a6-bdfa-523ec303e596
-    claim_hash: 81d02e38597d43ecda1ee0541efd9f96bae69724e109eed1b4b6aace2c18ef09
-    content: NSC spokesman John Kirby revealed that President Joe Biden had mandated the first ever presidential daily intelligence
-      briefing session devoted to UAP since June 2021.
-    original_excerpt: NSC spokesman Admiral John Kirby also revealed the president had mandated the first ever presidential
-      daily intelligence briefing session devoted to the phenomenon of UAPs since June 2021
-    claim_type: administrative
-    attestation: second_hand
-    speaker:
-      node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
-      title: John Kirby
-    provenance_chain:
-      origin_kind: named
-      origin: John Kirby
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
-        title: John Kirby
-        slug: john-kirby
-    date: '2023'
-    date_end: null
-    location_in_record: ch29:17172-17355
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 85c0d47d-c2ad-449c-abaa-6d6b671aae30
-    claim_hash: 95dd1bc6c562433e2e234e8ea00b0096b00e4c15dba5b5679790335d1f35f468
-    content: An unnamed journalist asked John Kirby why President Joe Biden had recently ordered objects shot down but had
-      not ordered any shoot-downs throughout 2021 or 2022, despite the ODNI report of 247 UAP reports.
-    original_excerpt: '''So can you say,'' the unnamed journalist asked, ''why the president just recently, within the last
-      couple of weeks, started ordering some of these objects to be shot down and why there weren''t any orders throughout
-      2021 or throughout 2022?'''
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: an unnamed journalist at the press conference
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-    date: null
-    date_end: null
-    location_in_record: ch29:18746-18978
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: c656f97d-68bb-4336-8c57-0275253f5cd2
-    claim_hash: 5ebbcbf7b45d54c1cf0880b73c073b50ae70e4b6176200f65807d5f68caeeb14
-    content: President Joe Biden ordered the shoot-down of the object detected near Deadhorse, Alaska because it was flying
-      at approximately 12,200 metres, posing a possible threat to air traffic.
-    original_excerpt: President Biden, already copping furious heat over the spy balloon incursion from his Republican opponents,
-      again ordered a shoot-down, because the object was at 40,000 feet, possibly posing a threat to air traffic
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '2023-02-10'
-    date_end: null
-    location_in_record: ch29:3801-4004
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 983093cf-37a4-4e56-86ae-5e4c48716064
-    claim_hash: f9a90acb36d29e2b9bbbdb35ef47783be38bb264f15d3f54ef8878e314edd4f8
-    content: It took President Joe Biden a week to concede that the most plausible explanation for the February 2023 shoot-down
-      objects was that they were simply stray amateur or scientific balloons.
-    original_excerpt: It took a week for the president to concede that the most plausible explanation was that these objects
-      were simply stray amateur or scientific balloons
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-    date: null
-    date_end: null
-    location_in_record: ch29:8974-9117
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3644e54a-4ef0-4936-b7ff-b58e00118919
-    claim_hash: ca559929f26292f4e2c44f87854d0b5af85a414ac1008479d408f8326ed8f821
-    content: President Joe Biden authorised expenditure of over $1.5 million to shoot down the objects during the February
-      2023 Balloongate events.
-    original_excerpt: dodging an admission that the president had authorised expenditure over $1.5 million to shoot down what
-      some suggested were probably boy scout science experiments
-    claim_type: measurement
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-    date: null
-    date_end: null
-    location_in_record: ch29:9655-9806
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 28d48dc8-bfc6-4f2d-8e65-48461e28f2e0
-    claim_hash: 726e130d1dab7d52c9ee2b6d760e165558b0559b3504223f570b5cba4456b090
-    content: On 2022-12-23, President Joe Biden signed into law the National Defense Authorization Act 2023 (NDAA), which
-      contains Section 1673, headed 'Unidentified Anomalous Phenomena Reporting Procedures'.
-    original_excerpt: Section 1673, intriguingly headed 'Unidentifi ed Anomalous Phenomena Reporting Procedures' (my emphasis),
-      was tucked away in the thousands of pages of the 2023 budgetary appropriation authorisations for the US Department of
-      Defense, the so-called National Defense Authorisation Act (NDAA).
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
-        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
-    date: '2022-12-23'
-    date_end: null
-    location_in_record: ch30:1524-1809
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 8c2bbb5c-5de6-4086-9bad-dfef49af63d0
-    claim_hash: a6f60aa72ef7f0d67a3e9d2dd2ee1afe7eb282dad0e66a2bd893c7c8a99a3027
-    content: President Joe Biden signed the National Defense Authorization Act 2023 (NDAA) into law on the Friday before the
-      2022 Christmas holiday shutdown.
-    original_excerpt: President Biden signed it into law on the Friday before the 2022 Christmas holiday shutdown, a huge
-      news day, and most folk were distracted by other events.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
-        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
-    date: '2022-12-23'
-    date_end: null
-    location_in_record: ch30:2099-2248
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cd96664c-55dd-4170-9de4-b77b359a8f06
-    claim_hash: b74e1603a334002aa8a9b20477ca241c3885ee409d427b05ef65a866206b691f
-    content: Joe Biden established an interagency team to study unidentified objects in United States airspace, as reported
-      2023-02-13.
-    original_excerpt: Alex Gangitano, 'Biden Establishing Interagency Team To Study Unidentifi ed Objects In US Airspace',
-      13 Feb 2023. The Hill.com.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: The Hill report by Alex Gangitano
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 05d9e009-f34e-4d32-b220-b4f20c52eee5
-        title: The Hill
-        slug: the-hill
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: acbf7d77-892f-47d5-8d4b-558f5d2d16ae
-        title: Alex Gangitano
-        slug: alex-gangitano
-    date: '2023-02-13'
-    date_end: null
-    location_in_record: ch34:69512-69635
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
     claim_hash: 099e571d4e11d8c2df03c2cfdbde456de497db7439332eb48c3f03342a6d6f5e
     content: The National Defense Authorization Act for Fiscal Year 2023 was spearheaded by Senators Kirsten Gillibrand and
@@ -586,6 +179,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -627,6 +225,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -647,6 +250,478 @@ claims:
       record_reference: https://thehill.com/opinion/4038159-stunning-ufo-crash-retrieval-allegations-deemed-credible-urgent/
       content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
       friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
+  - claim_id: dabeefe8-a5d2-4be0-952b-c08deca275d0
+    claim_hash: 470cad0c47e15f7c197c5578410241f00aa1c7903a2ec789a7f772f69faf9863
+    content: National Security Council spokesman John Kirby announced that President Joe Biden had created an interagency
+      team to investigate unidentified objects in US airspace following the three objects shot down in February 2023.
+    original_excerpt: the NSC spokesman John Kirby announced that the president had created an interagency team to investigate
+      unidentified objects in US airspace in the wake of the three unidentified objects being shot down
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
+      title: John Kirby
+    provenance_chain:
+      origin_kind: named
+      origin: John Kirby
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.71
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+      - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
+        title: John Kirby
+        slug: john-kirby
+    date: null
+    date_end: null
+    location_in_record: ch29:14878-15076
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3f84d51d-c04b-40a5-8de7-1f2bac3ec945
+    claim_hash: 818f2a95dc21dc5656a1ec50d74cc3b7d26e896b879771ad62a77752ea19a2f6
+    content: The interagency team created by President Joe Biden was tasked to study the broader policy implications for detection,
+      analysis and disposition of unidentified aerial objects that pose safety or security risks.
+    original_excerpt: The team was tasked to study the 'broader policy implications for detection, analysis and disposition
+      of unidentified aerial objects that pose either safety or security risks'
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: White House National Security Council
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: ba74c7a8-b455-4e23-9909-8b77b848ff05
+        title: National Security Council
+        slug: national-security-council
+    date: null
+    date_end: null
+    location_in_record: ch29:15082-15251
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0f32aa95-b986-4f9a-89b3-f218d4635dc0
+    claim_hash: c6b1994f37139e92ebf73846185e207a260a117e263194fda4678eca6a0190bd
+    content: An anonymous US Navy commander, according to Ross Coulthart's Defense sources, came forward to the White House
+      with information that further undermined the confidence of President Joe Biden's advisors in the Pentagon's capacity
+      for candour during the Balloongate controversy.
+    original_excerpt: This author also heard more concerning accounts from Defense sources at this time, namely that a senior
+      US Navy commander had come forward to the White House with information that only served to further undermine the confidence
+      of President Biden's advisors in the Pentagon's capacity for candour
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: anonymous
+      origin: a person claiming to be a senior US Navy commander
+      relay:
+        - unnamed Defense sources speaking to Ross Coulthart
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
+        title: United States Pentagon
+        slug: united-states-pentagon
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: null
+    date_end: null
+    location_in_record: ch29:16090-16379
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: da267a38-9f90-46a6-bdfa-523ec303e596
+    claim_hash: 81d02e38597d43ecda1ee0541efd9f96bae69724e109eed1b4b6aace2c18ef09
+    content: NSC spokesman John Kirby revealed that President Joe Biden had mandated the first ever presidential daily intelligence
+      briefing session devoted to UAP since June 2021.
+    original_excerpt: NSC spokesman Admiral John Kirby also revealed the president had mandated the first ever presidential
+      daily intelligence briefing session devoted to the phenomenon of UAPs since June 2021
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
+      title: John Kirby
+    provenance_chain:
+      origin_kind: named
+      origin: John Kirby
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c520793e-42fa-4367-9fa1-af331c60f8ee
+        title: John Kirby
+        slug: john-kirby
+    date: '2023'
+    date_end: null
+    location_in_record: ch29:17172-17355
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 85c0d47d-c2ad-449c-abaa-6d6b671aae30
+    claim_hash: 95dd1bc6c562433e2e234e8ea00b0096b00e4c15dba5b5679790335d1f35f468
+    content: An unnamed journalist asked John Kirby why President Joe Biden had recently ordered objects shot down but had
+      not ordered any shoot-downs throughout 2021 or 2022, despite the ODNI report of 247 UAP reports.
+    original_excerpt: '''So can you say,'' the unnamed journalist asked, ''why the president just recently, within the last
+      couple of weeks, started ordering some of these objects to be shot down and why there weren''t any orders throughout
+      2021 or throughout 2022?'''
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed journalist at the press conference
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    date: null
+    date_end: null
+    location_in_record: ch29:18746-18978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c656f97d-68bb-4336-8c57-0275253f5cd2
+    claim_hash: b3d3aaaf290437b1d1727064b97c5bdba219d1bbf453afa108ab070e76724ff2
+    content: President Joe Biden ordered the shoot-down of the object detected near Deadhorse, Alaska because it was flying
+      at approximately 12,200 metres, posing a possible threat to air traffic.
+    original_excerpt: President Biden, already copping furious heat over the spy balloon incursion from his Republican opponents,
+      again ordered a shoot-down, because the object was at 40,000 feet, possibly posing a threat to air traffic
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.57
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 758e787c-7af3-42ae-a3c9-de53fd7a6a49
+        title: 2023-02 Deadhorse, Alaska Unidentified Aerial Phenomena (UAP) shoot-down
+        slug: alaska-unidentified-aerial-phenomena-uap-shoot-down-2023-02-deadhorse
+    date: '2023-02-10'
+    date_end: null
+    location_in_record: ch29:3801-4004
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 983093cf-37a4-4e56-86ae-5e4c48716064
+    claim_hash: f9a90acb36d29e2b9bbbdb35ef47783be38bb264f15d3f54ef8878e314edd4f8
+    content: It took President Joe Biden a week to concede that the most plausible explanation for the February 2023 shoot-down
+      objects was that they were simply stray amateur or scientific balloons.
+    original_excerpt: It took a week for the president to concede that the most plausible explanation was that these objects
+      were simply stray amateur or scientific balloons
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    date: null
+    date_end: null
+    location_in_record: ch29:8974-9117
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3644e54a-4ef0-4936-b7ff-b58e00118919
+    claim_hash: ca559929f26292f4e2c44f87854d0b5af85a414ac1008479d408f8326ed8f821
+    content: President Joe Biden authorised expenditure of over $1.5 million to shoot down the objects during the February
+      2023 Balloongate events.
+    original_excerpt: dodging an admission that the president had authorised expenditure over $1.5 million to shoot down what
+      some suggested were probably boy scout science experiments
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+    date: null
+    date_end: null
+    location_in_record: ch29:9655-9806
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 28d48dc8-bfc6-4f2d-8e65-48461e28f2e0
+    claim_hash: 726e130d1dab7d52c9ee2b6d760e165558b0559b3504223f570b5cba4456b090
+    content: On 2022-12-23, President Joe Biden signed into law the National Defense Authorization Act 2023 (NDAA), which
+      contains Section 1673, headed 'Unidentified Anomalous Phenomena Reporting Procedures'.
+    original_excerpt: Section 1673, intriguingly headed 'Unidentifi ed Anomalous Phenomena Reporting Procedures' (my emphasis),
+      was tucked away in the thousands of pages of the 2023 budgetary appropriation authorisations for the US Department of
+      Defense, the so-called National Defense Authorisation Act (NDAA).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: '2022-12-23'
+    date_end: null
+    location_in_record: ch30:1524-1809
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8c2bbb5c-5de6-4086-9bad-dfef49af63d0
+    claim_hash: a6f60aa72ef7f0d67a3e9d2dd2ee1afe7eb282dad0e66a2bd893c7c8a99a3027
+    content: President Joe Biden signed the National Defense Authorization Act 2023 (NDAA) into law on the Friday before the
+      2022 Christmas holiday shutdown.
+    original_excerpt: President Biden signed it into law on the Friday before the 2022 Christmas holiday shutdown, a huge
+      news day, and most folk were distracted by other events.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: '2022-12-23'
+    date_end: null
+    location_in_record: ch30:2099-2248
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cd96664c-55dd-4170-9de4-b77b359a8f06
+    claim_hash: b74e1603a334002aa8a9b20477ca241c3885ee409d427b05ef65a866206b691f
+    content: Joe Biden established an interagency team to study unidentified objects in United States airspace, as reported
+      2023-02-13.
+    original_excerpt: Alex Gangitano, 'Biden Establishing Interagency Team To Study Unidentifi ed Objects In US Airspace',
+      13 Feb 2023. The Hill.com.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: The Hill report by Alex Gangitano
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 05d9e009-f34e-4d32-b220-b4f20c52eee5
+        title: The Hill
+        slug: the-hill
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: acbf7d77-892f-47d5-8d4b-558f5d2d16ae
+        title: Alex Gangitano
+        slug: alex-gangitano
+    date: '2023-02-13'
+    date_end: null
+    location_in_record: ch34:69512-69635
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 037b51aa-f59a-409c-b0a0-4f0bddbb976a
     claim_hash: acd3d0116947a239bc944356975457d2816113e2a146a8f1d4b41d5434af5ce1
     content: The US Senate passed the National Defense Authorization Act (NDAA) bill with the Unidentified Aerial Phenomena
@@ -662,6 +737,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -681,7 +761,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -702,6 +782,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -721,7 +806,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -739,6 +824,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -755,7 +845,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -773,6 +863,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.6
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -792,7 +887,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -812,6 +907,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.839
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -834,7 +934,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -855,6 +955,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -874,7 +979,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -893,6 +998,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -909,7 +1019,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -930,6 +1040,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -965,6 +1080,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.417
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -1004,6 +1124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -1050,6 +1175,11 @@ claims:
         - an unofficial back channel to David Grusch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d3e437a-0ee4-4b16-bbf3-7bfb15d1fe8a
         title: Thomas Monheim
@@ -1100,6 +1230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d3e437a-0ee4-4b16-bbf3-7bfb15d1fe8a
         title: Thomas Monheim

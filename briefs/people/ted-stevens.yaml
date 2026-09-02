@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1b722d7e67cb993d4b47c81430abc75c9b33d1776d830c3cc01537e62d0b612f
+brief_hash: 3d193878e45d00c89244479fb87db6f23ea83ece58b04a29000d2b7027b7b2ec
 page:
   kind: entity
   node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
@@ -9,11 +9,21 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 19
   tokens_estimated: 2318
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 7
+  neutral: 11
+  contradicts: 1
+  entailed_by_quote: 4
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.211
+  entailed_by_window_fraction: 0.158
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -104,6 +114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -125,7 +140,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -143,6 +158,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.62
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -155,7 +175,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -175,6 +195,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -193,7 +218,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -214,6 +239,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -232,7 +262,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -253,6 +283,11 @@ claims:
         - recollection of Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -268,7 +303,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -287,6 +322,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -299,7 +339,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -322,6 +362,11 @@ claims:
         - recollection of Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -337,7 +382,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -359,6 +404,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -383,13 +433,13 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-    claim_hash: 0bc7582445d2fe054a5c5e15a120b6f7596715dd46dfe6f37c4feb9e48e1701d
+    claim_hash: b90494cf88765dc015fb804a6d7af790fbd8fcd4816fbd842de5ab625a1230bc
     content: Harry Reid said 'This was so-called black money. Stevens knows about it, Inouye knows about it. But that was
       it, and that's how we wanted it,' referring to the Pentagon budget for classified programs.
     original_excerpt: “This was so-called black money,” he said. “Stevens knows about it, Inouye knows about it. But that
@@ -405,6 +455,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -426,7 +481,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -446,6 +501,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -468,7 +528,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -487,6 +547,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -503,7 +568,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -522,6 +587,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -538,7 +608,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -558,6 +628,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -577,7 +652,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -600,6 +675,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -628,7 +708,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -647,6 +727,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -660,7 +745,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -679,6 +764,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -695,7 +785,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -713,6 +803,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -735,7 +830,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -756,6 +851,11 @@ claims:
         - Robert Bigelow
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -799,6 +899,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 90897feec35dd069e1c2025a3e7c2d52f0ce44c359db4fd1bd1b58304b8d2225
+brief_hash: 52b39d33883df2a6141571f3718524a96ea0f962c4d92d19db4a5f67632046af
 page:
   kind: entity
   node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
@@ -9,11 +9,21 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 19
   tokens_estimated: 2473
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 14
+  neutral: 2
+  contradicts: 3
+  entailed_by_quote: 4
+  entailed_by_window: 10
+  entailed_by_quote_fraction: 0.211
+  entailed_by_window_fraction: 0.526
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -186,6 +196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.836
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -206,7 +221,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: ed2d2018-3344-49b6-bfb7-eba99d06b3d0
@@ -223,6 +238,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -246,7 +266,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: e1f9b548-73ac-4ca9-8b5c-b7bc64e45037
@@ -263,6 +283,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -286,7 +311,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 7295bc09-4970-4200-8dd5-db1ef324c4d3
@@ -303,6 +328,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -323,7 +353,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a0e9092a-0b43-4515-904d-33f52265bb33
@@ -341,6 +371,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.773
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -358,7 +393,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: c0913cbc-0ca6-481b-bf86-aab7c9143f51
@@ -375,6 +410,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
         title: Chad Underwood
@@ -395,7 +435,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 3e544ac6-3a59-4b65-a77f-bb7f2efb8663
@@ -413,6 +453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.65
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -436,7 +481,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a8c5e314-ee6a-40f1-8e67-82b965f2030b
@@ -457,6 +502,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.649
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
         title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
@@ -516,7 +566,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 62c54f11-a6af-4fff-a758-dd84cf34bb3e
@@ -535,6 +585,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.618
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
         title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
@@ -561,7 +616,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 454cb56a-e14a-47b8-9fc6-6e4f26bcde19
@@ -577,6 +632,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -610,6 +670,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -644,6 +709,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -692,6 +762,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
         title: F/A-18F Super Hornet
@@ -728,6 +803,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -748,48 +828,6 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-  - claim_id: 092aedc7-b95e-4fff-911a-520aa08cbad0
-    claim_hash: 15367b3e079c6364cf5e32e2c77cec61131f5d1954c8a5edb699a7f77e9dce1e
-    content: During the 2004 USS Nimitz Tic Tac UAP encounter, Strike Fighter Squadron 41 ('The Black Aces') commanding officer
-      David Fravor was flying an FA-18F Super Hornet, with his wingman, a serving female pilot who wishes to remain anonymous,
-      in another Super Hornet.
-    original_excerpt: Strikefighter Squadron 41 ('The Black Aces') commanding officer David Fravor was in one FA-18F Super
-      Hornet and his wingman, a serving female pilot who wishes to stay anonymous, was in another.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
-        title: FA-18 Super Hornet
-        slug: fa-18-super-hornet
-      - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
-        title: Strike Fighter Squadron 41 (VFA-41)
-        slug: strike-fighter-squadron-41-vfa-41
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-        title: David Fravor
-        slug: david-fravor
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:7704-7889
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 343db81b-742c-47a6-a889-eb97edb5be6d
     claim_hash: 439a0760c1f73a5e28c11f60ebd2c0bd6cfbb4fbeb17da6a57dab36f21d9d571
     content: In 2004-11, David Fravor was the Commanding Officer of Strike Fighter Squadron 41 (VFA-41), nicknamed the Black
@@ -807,6 +845,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.563
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -842,6 +885,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -859,7 +907,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 8c4b69a1-fc84-40ef-bfa1-60095f10033e
@@ -877,6 +925,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -897,7 +950,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
@@ -916,6 +969,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.694
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -939,3 +997,50 @@ claims:
       record_reference: null
       content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
       friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 092aedc7-b95e-4fff-911a-520aa08cbad0
+    claim_hash: 15367b3e079c6364cf5e32e2c77cec61131f5d1954c8a5edb699a7f77e9dce1e
+    content: During the 2004 USS Nimitz Tic Tac UAP encounter, Strike Fighter Squadron 41 ('The Black Aces') commanding officer
+      David Fravor was flying an FA-18F Super Hornet, with his wingman, a serving female pilot who wishes to remain anonymous,
+      in another Super Hornet.
+    original_excerpt: Strikefighter Squadron 41 ('The Black Aces') commanding officer David Fravor was in one FA-18F Super
+      Hornet and his wingman, a serving female pilot who wishes to stay anonymous, was in another.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 225c66f3-5c29-4780-819c-59b78a852e50
+        title: FA-18 Super Hornet
+        slug: fa-18-super-hornet
+      - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+        title: Strike Fighter Squadron 41 (VFA-41)
+        slug: strike-fighter-squadron-41-vfa-41
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
+        title: David Fravor
+        slug: david-fravor
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:7704-7889
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 14
   tokens_estimated: 1731
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 14
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 7
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -98,6 +108,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17f8929f-cd7d-4062-bf3c-d3190de62d05
         title: James Webb
@@ -134,6 +149,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -170,6 +190,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -205,6 +230,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -247,6 +277,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -288,6 +323,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -324,6 +364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -360,6 +405,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -375,7 +425,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: a89a4f3f-3864-4eb8-801c-421c2c50ea4d
@@ -393,6 +443,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -408,7 +463,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 4c644bda-1587-4ba3-af43-099cbfbacd9c
@@ -426,6 +481,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -447,7 +507,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: d9deb59a-2d04-4d5a-997f-044d642f560d
@@ -465,6 +525,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -483,7 +548,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e741b1cb-7e7c-4ae5-a0e5-9c06478052ef
@@ -499,6 +564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -523,7 +593,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 2728c1fb-22c8-4a2c-b703-204c6aab8478
@@ -545,6 +615,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
         title: Gordon Cooper
@@ -563,7 +638,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
-      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
+      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
       record_date: '2026-07-11'
       record_reference: https://www.dvidshub.net/video/1010337
       content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379
@@ -584,6 +659,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
         title: Gordon Cooper
@@ -599,7 +679,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: fe743c62-5af5-4b4e-b4cd-22c1bcc00f3d
-      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
+      record_title: NASA-UAP-D023, Interview Excerpt with Astronaut Gordon Cooper, 1962
       record_date: '2026-07-11'
       record_reference: https://www.dvidshub.net/video/1010337
       content_hash: sha256:31a2685560f392cae2c091f1800dc27be603383972c15fb72c88c871ec64f379

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 07b95d9711e8fd6325757a47a5da35b30c0f03ea1f99694a52fce6c663b61ed8
+brief_hash: a5e314c342e9ea1d6831b314121bd7fa33078d8b722ffadaf2c15765f2e56ef0
 page:
   kind: entity
   node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
@@ -9,11 +9,21 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 16
   tokens_estimated: 2159
   sized_against: 1050000
+entailment:
+  assessed: 16
+  unassessed: 0
+  entails: 10
+  neutral: 5
+  contradicts: 1
+  entailed_by_quote: 6
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.375
+  entailed_by_window_fraction: 0.25
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -133,6 +143,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0a5cbe38-519a-42fe-8f31-bb46c983b742
         title: Nathan Twining's 1947 memo to the commander of the Army Air Forces
@@ -169,6 +184,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
         title: 1947 Nathan Twining letter on flying discs
@@ -185,7 +205,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -202,6 +222,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
         title: Nathan Twining
@@ -218,7 +243,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -239,6 +264,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
         title: 1947 Nathan Twining letter on flying discs
@@ -255,7 +285,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -273,6 +303,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
         title: Nathan Twining
@@ -286,7 +321,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -303,6 +338,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.906
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
         title: Nathan Twining
@@ -319,7 +359,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -340,6 +380,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62035516-6ced-40e6-a0bb-8aa92db2da61
         title: 1947 Nathan Twining letter on flying discs
@@ -356,7 +401,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -377,6 +422,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -398,7 +448,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: c7733738-e5d3-4be1-8d2b-879fa38664f7
@@ -417,6 +467,11 @@ claims:
         - Nathan Twining's son
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
         title: Nathan Twining
@@ -453,6 +508,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
         title: 15th Air Force
@@ -492,6 +552,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 109f7cb1-c509-4250-9f22-a99715f6f3a9
         title: 15th Air Force
@@ -530,6 +595,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c143a414-e9d8-4dbb-940b-5152532f3f6a
         title: Nathan Twining
@@ -574,6 +644,11 @@ claims:
         - read by Phil McGraw
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.535
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -614,6 +689,11 @@ claims:
         - a conversation with Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
         title: Arthur Exon
@@ -641,7 +721,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 25c63220-7362-4b95-b719-5a894ba7a5ce
-    claim_hash: 3fc247bc628e9c6f2966473fe6093d188ee75fd2b8d05f25bcdd33faf2dd11a0
+    claim_hash: 4e1af57591b8a37ff984eaa9390923eb5190ee88bb83b9a2e2a8d082d40d009e
     content: Whitley Strieber's uncle told him that he had been present when the Roswell debris was brought in, under Nathan
       F. Twining, and that he had examined the debris.
     original_excerpt: And he told us that he had been there when the debris was brought in and under General Twining. And
@@ -658,6 +738,11 @@ claims:
         - told directly to Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.517
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -682,7 +767,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: a6226f24-32e7-4829-886b-93f645f02ac2
-    claim_hash: b072f1ac795929814248f33b08ae0c06a72f5e13c28e85811219d5a0a73632ad
+    claim_hash: 46574b276f5c2306995a37a92e80d3441281bb70f0f94b0966dbb44ce25a3cbc
     content: Arthur Ernest Exon told Whitley Strieber that Nathan F. Twining and others did see the bodies recovered after
       the 1947 Roswell crash, although Exon himself did not.
     original_excerpt: But he said that General Twining did see them and others saw them, but not him.
@@ -698,6 +783,11 @@ claims:
         - told directly to Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

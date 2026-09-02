@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1c689cbc766095fff5ddaf7b770e9b8dd74d965c6c5df3488a866a6257051501
+brief_hash: 3826c938ffa42e51a638492c802eb8215473c301d8cc57fe5e85ffb62f4c8663
 page:
   kind: entity
   node_id: 93df8d48-8068-409a-a198-27e923af6cde
@@ -9,11 +9,21 @@ page:
   claim_count: 55
   claim_count_total: 55
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 55
   tokens_estimated: 8087
   sized_against: 1050000
+entailment:
+  assessed: 55
+  unassessed: 0
+  entails: 43
+  neutral: 9
+  contradicts: 3
+  entailed_by_quote: 15
+  entailed_by_window: 28
+  entailed_by_quote_fraction: 0.273
+  entailed_by_window_fraction: 0.509
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -192,6 +202,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -228,7 +243,7 @@ claims:
       content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
       friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
   - claim_id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
-    claim_hash: 2d20148feed9e523a3577c74d30798bd4d62f8fecd893d3d2d83fcdef87ca7fb
+    claim_hash: 878ea2aeffb17c8585d391f97f5451723bc494c6400891a76de9aa115d898fe7
     content: After the April 1997 Pentagon briefing group broke up, Will Miller and Thomas Wilson talked privately for two
       hours about UFOs, Majestic 12 (MJ-12), the 1947 Roswell UFO incident, and crashed UFOs and alien bodies.
     original_excerpt: After group broke up, Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien
@@ -244,6 +259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
         title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
@@ -292,6 +312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
         title: UFO crash retrieval
@@ -335,6 +360,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -373,6 +403,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1509913e-5dc2-44ee-bbdc-4e37daea7fe3
         title: Jaime Shandera
@@ -407,6 +442,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -445,6 +485,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -483,6 +528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -524,6 +574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.521
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -563,6 +618,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.8
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -598,6 +658,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -633,6 +698,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -654,7 +724,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 0b698905-3653-44a3-9427-8f19df49bf71
-    claim_hash: 357306129a0b3af72b381139399d8ddb7656303c4a1c4ccc84a0b0bf7ab23073
+    claim_hash: 24fdf8e8fcad1348321d4c882fc0c21d356905b00e3319c69a648b4e929748b0
     content: Within one week of the Truman Directive of 24 September 1947 directing Vannevar Bush and James Forrestal to set
       up Majestic 12 (MJ-12) and report directly to him, Forrestal met with Henry Tizard, then chief scientific advisor to
       the UK Ministry of Defence, at the beginning of October 1947.
@@ -672,6 +742,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.675
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
         title: 1947-10 Forrestal-Tizard meetings
@@ -685,12 +760,12 @@ claims:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
         slug: majestic-12-mj-12
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
-        title: UK Ministry of Defence
-        slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
         title: James Forrestal
         slug: james-forrestal
+      - node_id: f5a57cc7-b3d7-46be-8fb8-2e26f22d86ee
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
     date: null
     date_end: null
     location_in_record: 00:13:30.1-00:13:56.4
@@ -721,6 +796,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
@@ -762,6 +842,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -799,6 +884,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -836,6 +926,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4128bd50-87f8-46c4-92e5-b0e1e7239816
         title: Truman Directive of 1947-09-24
@@ -872,6 +967,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
         title: United States military
@@ -911,6 +1011,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -946,6 +1051,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -991,6 +1101,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
         title: United States Atomic Energy Commission
@@ -1032,6 +1147,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.683
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1071,6 +1191,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.822
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1115,6 +1240,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.75
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1152,6 +1282,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1191,6 +1326,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -1238,6 +1378,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
@@ -1281,6 +1426,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1324,6 +1474,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1362,6 +1517,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1401,6 +1561,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1440,6 +1605,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -1476,6 +1646,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
         title: Ryan Wood
@@ -1517,6 +1692,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -1560,6 +1740,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1597,6 +1782,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1634,6 +1824,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1674,6 +1869,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1712,6 +1912,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6f1d5f64-164c-408c-b80e-8e7c1bef866c
         title: James Lay
@@ -1749,6 +1954,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1789,6 +1999,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1829,6 +2044,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1864,6 +2084,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1901,6 +2126,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -1938,6 +2168,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -1974,6 +2209,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 021a8eaf-08e0-46cc-bf4e-88d24e4a55ba
         title: Leo Szilard
@@ -2019,6 +2259,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -2061,6 +2306,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
         title: Eric Walker
@@ -2099,6 +2349,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -2134,6 +2389,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -2169,6 +2429,11 @@ claims:
         - disclosure of the Majestic 12 Trove
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
         title: John F. Kennedy assassination
@@ -2209,6 +2474,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
@@ -2248,6 +2518,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.804
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -2286,6 +2561,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -2327,6 +2607,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

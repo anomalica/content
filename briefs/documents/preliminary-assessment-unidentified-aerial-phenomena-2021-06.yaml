@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 872e593cbc7b1d1a7cce3bde58f9ca0d3ce7d5fb444284dea7f4a12a1075f6ea
+brief_hash: 8e39bfbdb27c3a28b0bf7a75590bdf7e965309642971eb4b82f2b67eeffbc305
 page:
   kind: entity
   node_id: 13566718-151d-4f6b-96c6-b36797f258d8
@@ -9,11 +9,21 @@ page:
   claim_count: 23
   claim_count_total: 23
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 23
   tokens_estimated: 3654
   sized_against: 1050000
+entailment:
+  assessed: 23
+  unassessed: 0
+  entails: 20
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 19
+  entailed_by_quote_fraction: 0.043
+  entailed_by_window_fraction: 0.826
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -53,10 +63,10 @@ related_nodes:
     node_type: person
     slug: luis-elizondo
     shared_claims: 1
-  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+  - node_id: 868bce53-3091-453e-9401-1980adc195dd
+    title: Unidentified Anomalous Phenomena (UAP) Task Force (UAPTF)
     node_type: project
-    slug: unidentified-aerial-phenomena-task-force-uaptf
+    slug: unidentified-anomalous-phenomena-uap-task-force-uaptf
     shared_claims: 1
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
@@ -74,360 +84,6 @@ related_nodes:
     slug: united-states-navy-usn
     shared_claims: 1
 claims:
-  - claim_id: d4f06047-3f88-4c1c-9140-2e2a219aa28f
-    claim_hash: 5d23a08c3baac18efa1798cda7775df8fff0b7c41880cd1e26815efad2cdb869
-    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report was produced by the Director of National Intelligence
-      and delivered in 2021-06.'
-    original_excerpt: the widely publicized “Preliminary Report” produced by the Director of National Intelligence (DNI) and
-      delivered in June 2021
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-    date: 2021-06
-    date_end: null
-    location_in_record: ch31:21385-21506
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: e4ec6f55-7d6a-4e35-8f6a-c6360cde3e8e
-    claim_hash: 8eaeee59bf3336ae064fefa1598f4cc79e672c55e87c4b92f928722b8cfe3e08
-    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report identified 144 military Unidentified Aerial
-      Phenomena (UAP) incidents from 2004 through 2021-06.'
-    original_excerpt: it did identify 144 military UAP incidents from 2004 through June 2021
-    claim_type: measurement
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch31:21548-21614
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 4568b1c0-edab-4ce5-a0f8-871f64335663
-    claim_hash: 4ec0f6ca4ede88a2774d5a32d72999fa3027e3187da57051f1ead56930213bdb
-    content: 'Following the release of the Preliminary Assessment: Unidentified Aerial Phenomena report, the United States
-      Congress required the Unidentified Aerial Phenomena (UAP) report to be produced on an annual basis.'
-    original_excerpt: This official government UAP report had proven so important, and of such great public interest, that
-      Congress then required it on an annual basis.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-        title: United States Congress
-        slug: united-states-congress
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch31:21824-21964
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 6f836be4-d747-4c88-8774-929b0cb77cca
-    claim_hash: 91e35c124f2824c6105a216d358ca5eddf85f6db3042a29e075288bdc179ae4b
-    content: 'Lue Elizondo considers getting the Preliminary Assessment: Unidentified Aerial Phenomena report published one
-      of Christopher Mellon''s greatest contributions to their overall Unidentified Aerial Phenomena (UAP) disclosure efforts.'
-    original_excerpt: I regard this as one of Chris’s greatest contributions to our overall efforts and to history in general.
-      It was his idea, he made it happen
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-    date: null
-    date_end: null
-    location_in_record: ch31:22117-22250
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 95047db2-80e2-49a1-b7df-a2598a44678e
-    claim_hash: c9a71f7a0d14eb1f1227f49b88a2976ed820bed4ed77a4fedf87f837c077fc82
-    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report concluded that the reported Unidentified Aerial
-      Phenomena (UAP) were likely not weather anomalies and represented something tangible.'
-    original_excerpt: The report concluded that these UAP were likely not weather anomalies and represented something… tangible.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch31:22773-22871
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 047da310-8fec-4cf3-97e9-6c968e72e63d
-    claim_hash: 3c74ef8db0732de2c3281a6432b68170745d327a5cb0444873e5c8ab702abfe6
-    content: 'All the cases in the Preliminary Assessment: Unidentified Aerial Phenomena report went back only about a year
-      and a half, with the 2004 USS Nimitz UAP encounter being the stated exception.'
-    original_excerpt: All the cases in the report went back only a year and a half, with the Nimitz being the stated exception.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: null
-    date_end: null
-    location_in_record: ch31:22882-22979
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
-    claim_hash: 05fb6c250c030e51f218376793f83914a7411c98f2227c919b19bd338f1efb42
-    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report focused primarily on United States Navy reports
-      and stated that United States Air Force information was not yet available.'
-    original_excerpt: The report focused primarily on Navy reports, and claimed that Air Force information was not yet available
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-        title: United States Navy (USN)
-        slug: united-states-navy-usn
-    date: null
-    date_end: null
-    location_in_record: ch31:22990-23087
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 1cb9d832-1238-4e36-8788-0e85f20b1564
-    claim_hash: 8ebfeab88795c593c6e443ef6a7497793cf7323c699f8cefea5f6f81e45350fc
-    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report estimated that only 10 percent of all Unidentified
-      Aerial Phenomena (UAP) encounters for the covered time frame were actually reported.'
-    original_excerpt: only 10 percent of all encounters for that time frame were actually reported
-    claim_type: measurement
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch31:23106-23174
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c839b9dc-d61e-4ac5-b063-f15c3709a445
-    claim_hash: d5928dc2a848bacb6178bbd03e0c4b55e7a7375035b5495b373d4c6492943676
-    content: 'By the Preliminary Assessment: Unidentified Aerial Phenomena report''s own assessment, a staggering 1,400 Unidentified
-      Aerial Phenomena (UAP) incidents from 2019 to 2021 remained unreported.'
-    original_excerpt: By that assessment, a staggering 1400 incidents from 2019 to 2021 remained unreported.
-    claim_type: measurement
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch31:23184-23286
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 59f8a48f-819e-46f6-9be4-9d7e6740f967
-    claim_hash: 60cadc98b557a7096e75202365f8a5f954838ccc566bde3c065b6994fa5959e2
-    content: 'Of the 144 Unidentified Aerial Phenomena (UAP) incidents in the Preliminary Assessment: Unidentified Aerial
-      Phenomena report, the UAP Task Force was only able to identify one.'
-    original_excerpt: Out of 144 incidents, the UAP Task Force was only able to identify 1.
-    claim_type: measurement
-    attestation: second_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: document
-      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
-      relay:
-        - Lue Elizondo
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
-        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
-        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch31:24782-24849
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
     claim_hash: b63b012802fe67a78337139e7c95b51d8a4a204c07e891a2518c01892b87ae98
     content: According to the Office of the Director of National Intelligence's Preliminary Assessment on Unidentified Aerial
@@ -445,6 +101,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.549
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -466,7 +127,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
@@ -485,6 +146,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -506,11 +172,11 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
-    claim_hash: a604dcd7ca69e7e84406fa77aad636481077fe8e2b46cd3bb6fdb0c253626253
+    claim_hash: baed3b8d3f96a31442a8bdf293f9091807e0abc907f558db7b1fcdc0efa5bb15
     content: In June 2021, the UAP Task Force (UAPTF) and the Office of the Director of National Intelligence (ODNI) issued
       the congressionally mandated Preliminary Assessment on Unidentified Aerial Phenomena.
     original_excerpt: In June 2021, the UAPTF and the Office of the Director of National Intelligence issued the congressionally
@@ -525,13 +191,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
         slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
-      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-        title: Unidentified Aerial Phenomena Task Force (UAPTF)
-        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 868bce53-3091-453e-9401-1980adc195dd
+        title: Unidentified Anomalous Phenomena (UAP) Task Force (UAPTF)
+        slug: unidentified-anomalous-phenomena-uap-task-force-uaptf
       - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
         title: Office of the Director of National Intelligence (ODNI)
         slug: office-of-the-director-of-national-intelligence-odni
@@ -546,7 +217,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 67b558d4-708e-481b-8e9d-a6594360ba31
@@ -563,6 +234,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -581,7 +257,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: fb7e5be2-6dee-4e91-96f9-937a7dbb5097
@@ -598,6 +274,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -616,7 +297,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: b9abca5b-64a6-4942-bcbe-fd7722d6d612
@@ -636,6 +317,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.861
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -654,7 +340,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 11c65614-3734-4fc7-bde3-4133d6a18e1e
@@ -672,6 +358,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.873
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -687,7 +378,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: aee0a310-a845-4a20-8d4f-2b466ed46f64
@@ -707,6 +398,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.484
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -722,7 +418,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 8a9948b0-35f0-4533-aa70-aa14fbb697db
@@ -740,6 +436,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -755,7 +456,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 2d2e76e5-ed8f-47fc-acf4-c3542f5c5ed9
@@ -772,6 +473,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.864
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -787,7 +493,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: a7e8c017-d7d4-4dde-9c2d-aff2211a25f0
@@ -807,6 +513,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -822,7 +533,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: cd7533a6-f671-4183-8421-b83cf2290fba
@@ -841,6 +552,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
@@ -862,9 +578,413 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: d4f06047-3f88-4c1c-9140-2e2a219aa28f
+    claim_hash: 5d23a08c3baac18efa1798cda7775df8fff0b7c41880cd1e26815efad2cdb869
+    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report was produced by the Director of National Intelligence
+      and delivered in 2021-06.'
+    original_excerpt: the widely publicized “Preliminary Report” produced by the Director of National Intelligence (DNI) and
+      delivered in June 2021
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+    date: 2021-06
+    date_end: null
+    location_in_record: ch31:21385-21506
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e4ec6f55-7d6a-4e35-8f6a-c6360cde3e8e
+    claim_hash: 8eaeee59bf3336ae064fefa1598f4cc79e672c55e87c4b92f928722b8cfe3e08
+    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report identified 144 military Unidentified Aerial
+      Phenomena (UAP) incidents from 2004 through 2021-06.'
+    original_excerpt: it did identify 144 military UAP incidents from 2004 through June 2021
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:21548-21614
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4568b1c0-edab-4ce5-a0f8-871f64335663
+    claim_hash: 4ec0f6ca4ede88a2774d5a32d72999fa3027e3187da57051f1ead56930213bdb
+    content: 'Following the release of the Preliminary Assessment: Unidentified Aerial Phenomena report, the United States
+      Congress required the Unidentified Aerial Phenomena (UAP) report to be produced on an annual basis.'
+    original_excerpt: This official government UAP report had proven so important, and of such great public interest, that
+      Congress then required it on an annual basis.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:21824-21964
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6f836be4-d747-4c88-8774-929b0cb77cca
+    claim_hash: 91e35c124f2824c6105a216d358ca5eddf85f6db3042a29e075288bdc179ae4b
+    content: 'Lue Elizondo considers getting the Preliminary Assessment: Unidentified Aerial Phenomena report published one
+      of Christopher Mellon''s greatest contributions to their overall Unidentified Aerial Phenomena (UAP) disclosure efforts.'
+    original_excerpt: I regard this as one of Chris’s greatest contributions to our overall efforts and to history in general.
+      It was his idea, he made it happen
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch31:22117-22250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 95047db2-80e2-49a1-b7df-a2598a44678e
+    claim_hash: c9a71f7a0d14eb1f1227f49b88a2976ed820bed4ed77a4fedf87f837c077fc82
+    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report concluded that the reported Unidentified Aerial
+      Phenomena (UAP) were likely not weather anomalies and represented something tangible.'
+    original_excerpt: The report concluded that these UAP were likely not weather anomalies and represented something… tangible.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:22773-22871
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 047da310-8fec-4cf3-97e9-6c968e72e63d
+    claim_hash: 3c74ef8db0732de2c3281a6432b68170745d327a5cb0444873e5c8ab702abfe6
+    content: 'All the cases in the Preliminary Assessment: Unidentified Aerial Phenomena report went back only about a year
+      and a half, with the 2004 USS Nimitz UAP encounter being the stated exception.'
+    original_excerpt: All the cases in the report went back only a year and a half, with the Nimitz being the stated exception.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch31:22882-22979
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7bf1803b-0e97-4b43-8eb3-cdc2d8bab99e
+    claim_hash: 05fb6c250c030e51f218376793f83914a7411c98f2227c919b19bd338f1efb42
+    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report focused primarily on United States Navy reports
+      and stated that United States Air Force information was not yet available.'
+    original_excerpt: The report focused primarily on Navy reports, and claimed that Air Force information was not yet available
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+    date: null
+    date_end: null
+    location_in_record: ch31:22990-23087
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1cb9d832-1238-4e36-8788-0e85f20b1564
+    claim_hash: 8ebfeab88795c593c6e443ef6a7497793cf7323c699f8cefea5f6f81e45350fc
+    content: 'The Preliminary Assessment: Unidentified Aerial Phenomena report estimated that only 10 percent of all Unidentified
+      Aerial Phenomena (UAP) encounters for the covered time frame were actually reported.'
+    original_excerpt: only 10 percent of all encounters for that time frame were actually reported
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:23106-23174
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c839b9dc-d61e-4ac5-b063-f15c3709a445
+    claim_hash: d5928dc2a848bacb6178bbd03e0c4b55e7a7375035b5495b373d4c6492943676
+    content: 'By the Preliminary Assessment: Unidentified Aerial Phenomena report''s own assessment, a staggering 1,400 Unidentified
+      Aerial Phenomena (UAP) incidents from 2019 to 2021 remained unreported.'
+    original_excerpt: By that assessment, a staggering 1400 incidents from 2019 to 2021 remained unreported.
+    claim_type: measurement
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:23184-23286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 59f8a48f-819e-46f6-9be4-9d7e6740f967
+    claim_hash: 60cadc98b557a7096e75202365f8a5f954838ccc566bde3c065b6994fa5959e2
+    content: 'Of the 144 Unidentified Aerial Phenomena (UAP) incidents in the Preliminary Assessment: Unidentified Aerial
+      Phenomena report, the UAP Task Force was only able to identify one.'
+    original_excerpt: Out of 144 incidents, the UAP Task Force was only able to identify 1.
+    claim_type: measurement
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: document
+      origin: 'Preliminary Assessment: Unidentified Aerial Phenomena report'
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.845
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+        title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+        slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch31:24782-24849
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 3b6d346a-d50e-4523-87e8-903ef5e9f47f
     claim_hash: 8984247e0c2546edcfcac425d84991182c8a781271ff7680cf5e1acc1626a464
     content: 'The Office of the Director of National Intelligence released a report entitled Preliminary Assessment: Unidentified
@@ -883,6 +1003,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
         title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'

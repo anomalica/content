@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e3e8e7b19d8c9a41f40a9f17e4d4b6f0c71df2b8dc901f37ebfe0db3519ccbe1
+brief_hash: d901724c7a38c58a5edbc57af3e79a35df3f4a7caae43adf5d6c75c5b262ba9a
 page:
   kind: entity
   node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
@@ -9,11 +9,21 @@ page:
   claim_count: 46
   claim_count_total: 46
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 46
   tokens_estimated: 6871
   sized_against: 1050000
+entailment:
+  assessed: 46
+  unassessed: 0
+  entails: 39
+  neutral: 7
+  contradicts: 0
+  entailed_by_quote: 23
+  entailed_by_window: 16
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.348
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -69,7 +79,7 @@ related_nodes:
     slug: precognitive-remote-viewing
     shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 2
@@ -140,7 +150,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 207d9e61-66b0-41a3-8ac0-2d8b37f24ed9
-    claim_hash: d417051b42cc4649155855f2e918b68501882cad638fff599d220450bf9bb4c2
+    claim_hash: 979d234efdcf23a5cbe2022b97aef6baf4208dcf7f085a33831991ebd5aa3770
     content: David Fravor considers AI systems for controlling aircraft to be typically based on logical, black-and-white
       rules with defined bounds.
     original_excerpt: AI systems are usually black and white. When you write the algorithm for an AI system, it's really,
@@ -156,6 +166,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -177,7 +192,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 84e42285-967d-461c-8db3-2b465ffcde20
-    claim_hash: fd1e8ee6c52f0764c94bf1c2b2592f4fcfcc78f5624c71aa2e8a2c1826705aad
+    claim_hash: 1fb69ae4145bbf243cc55a1f46688138a08c52b11bc024b59c5c92440fa57b2a
     content: David Fravor considers that a human pilot will attempt manoeuvres at the edge of a jet's flight envelope that
       an AI system will not.
     original_excerpt: I still think that when you get to the edges that may or may not give you an advantage, there are things
@@ -193,6 +208,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -214,7 +234,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 3fb9e9b8-ffe1-4942-a52d-499c68b0ce81
-    claim_hash: 3c052fa438e4e126f881f4334603e544d2f0d6d5b343429c9c380b8adbc1e265
+    claim_hash: b921a38ee84099c96714ba6bf15800e25001e8260625caf19f19bbbb541a223e
     content: Whitley Strieber states that in information theory, negentropy refers to the increasing depth and complexity
       of information, and considers the emergence of artificial intelligence one example of this.
     original_excerpt: In information theory, negentropy refers to the increasing depth and complexity of information. The
@@ -230,6 +250,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34ed99ee-23cc-447e-b98f-eabcb3c06196
         title: Negative entropy (negentropy)
@@ -254,7 +279,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 0e28fd90-eeb5-45ce-8391-a0c2504d647b
-    claim_hash: bbcdb5d5fe6187da4cf60321a6ce858b5409126711f7c3f6f040f2043548a1a8
+    claim_hash: 88596599e38dea3cb05623c399c95d07c7252ab873dac5fb00d3c1ccd270a26b
     content: Whitley Strieber believes that artificial intelligence, currently housed in large server farms consuming great
       amounts of energy, will move into robots and later into more efficient biological systems described as artificial brains.
     original_excerpt: Right now, it is housed in vast server farms that consume tremendous amounts of energy. Soon, it will
@@ -271,6 +296,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -292,7 +322,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: e7929fc1-f593-41ec-9134-0354a870fba6
-    claim_hash: f6b9521e7284cb5f28d3fc3b06869aabaa2f9f0b727b1b427a8dcf6b1ad715df
+    claim_hash: f72c28721a91a353ea5bf5fa61e48ad3d6a506492ac00e598d71accffb02c2fd
     content: Whitley Strieber suggests that humans will soon carry devices in their pockets that are more intelligent than
       themselves and interact with designed biological-robotic entities that know them better than they know themselves.
     original_excerpt: It is likely that we will soon be carrying devices in our pockets that are more intelligent than we
@@ -308,6 +338,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -329,7 +364,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ea3592a1-1545-43dd-ba47-91d070854782
-    claim_hash: f0c4af943fcad6ddfb930313d118a300920f951d8fa9d2ce9ecb7cbfbd3fa79c
+    claim_hash: 07103c39d702b88b0f38bc8d60803e5e9387201b12852f0c050e05e184d6859a
     content: Whitley Strieber believes that humanity's own advances in artificial intelligence are one of the reasons humanity
       is getting closer to open contact with the nonhuman visitors.
     original_excerpt: At the same time, I would think that our own advances in the area of artificial intelligence are probably
@@ -346,6 +381,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -383,6 +423,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -407,7 +452,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 16bf7793-7a88-4c46-9c0a-52ad59109f52
-    claim_hash: b2d67a2b297c0048bfccbd5a569c4357538fc4e57afe5771f560db039ebf2d7d
+    claim_hash: 5e12d1bac84961fdb219943487e31bfcc817b34019d848a6f94818b04ccf2b3b
     content: Whitley Strieber found that artificial intelligence hallucination capabilities are very advanced after trying
       to use artificial intelligence once or twice in his research process.
     original_excerpt: I tried using AI in that process once or twice. I discovered that AI's hallucinatory capabilities are
@@ -423,6 +468,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -444,7 +494,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 20770fe0-ef72-49ca-8cee-0b981661a820
-    claim_hash: 6aa70d200d369baa854de241da793fd3ca29f3c4310c2659685d56c2dd826f75
+    claim_hash: 4020737148ecaa6f6da13fe0d9f069c8b1dbed2cdc85243ff43c3a429cb8e863
     content: While working on his book The Fourth Mind, Whitley Strieber needed a scientific paper he could not retrieve through
       Google or Google's academic search, so he prompted an artificial intelligence system to describe it in detail and immediately
       received an apparently complete PDF of the paper.
@@ -462,6 +512,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
         title: Google
@@ -489,7 +544,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: a68eadf3-add8-4b20-bc3e-b5c33e302e29
-    claim_hash: d76da8c4a57413f28a64b7acf3e01a0cf6fb800d4bc2981bdd7d59dd1ef1f2d0
+    claim_hash: 0b9bef15b385916d06067e48519d62356dc2fe2f4d373f5248cd7ea8599617e8
     content: When Whitley Strieber checked in Google the citations of the scientific paper an artificial intelligence system
       had produced for him, he found that none of the ten or eleven scientists listed as co-authors existed.
     original_excerpt: So I checked now that I had all the sites and everything, citations and everything, I checked it in
@@ -506,6 +561,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31fa3fce-35c9-47d4-b1a4-06c103bc1347
         title: Google
@@ -530,7 +590,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 3185aaa1-e64e-4222-b471-2c549e281a57
-    claim_hash: c4be36ac9c8e26cc9a76e7dd11086dd6dc3fe0d58908f83239ebe5ffe5a7fd85
+    claim_hash: ddef2a7963aadcf91a61eee5bfa2a964d7db5203fc898d222de17486a586258c
     content: The fabricated scientific paper episode was Whitley Strieber's only experience of using artificial intelligence,
       and he considers that he does not need it because he has his implant.
     original_excerpt: So that was my one and only experience with the AI. I, uh, I, I, I got this and I don't have to, I don't
@@ -546,6 +606,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
         title: Whitley Strieber's alien implant
@@ -570,7 +635,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 04736034-711f-4924-b960-55a6a27312bc
-    claim_hash: 79198fc9d887d19e7c1af9393aba4b14ab4336058e3c06b9f9c00b19e45ea1d0
+    claim_hash: 7cfb76c624fe75f95c2af1f471a8b822cfee5071a83e44a4f767113b6e5acfa7
     content: Chris Ramsay considers artificial intelligence systems dangerous to rely on as a source because they unapologetically
       and confidently give false information and then concede the error when challenged.
     original_excerpt: There's a real pandemic out there of people using AI and citing AI as a resource. ... you need to be
@@ -587,6 +652,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -608,7 +678,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 4b5b8d4b-5a2c-4284-bb00-e5dd0e456564
-    claim_hash: 798f285686e05f542b44e75dcca79e648bf6a10a70f9efa98ef1a78384430d5f
+    claim_hash: ebc605ccaf199b27eff1da81c94dfa8083eb2730cf187bd7d38ee9e26e39f39e
     content: Chris Ramsay considers that commercial developers are not seeking to build a better artificial intelligence but
       a more lucrative one, whereas the military is building a better one, and that the packaged corporate version is designed
       to flatter users rather than be accurate so that they keep paying for it.
@@ -626,6 +696,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -650,7 +725,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 4e7839ae-5429-4273-acd7-14f6fe33e665
-    claim_hash: aa911dd028311db164730724aac0b31c1964ab3625300f36b9325c3e5c4d3290
+    claim_hash: 7ff6896b3d9ff7bd5096fb377ba012a58d5e38e995233b337cc8a0ef04069a98
     content: Whitley Strieber's brother is a lawyer who says he would dismiss any of his associates who used artificial intelligence.
     original_excerpt: my brother's a lawyer and he says i i never i said i if any of my associates use ai they're out the
       door
@@ -665,6 +740,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -704,6 +784,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -745,6 +830,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -769,7 +859,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 8e78af2b-dbc4-43ad-95c8-62efc32659fb
-    claim_hash: 23473c193db096cf0998729274d8088e723bea9ada4e07d633c440e7df670852
+    claim_hash: a18958e3d5cac423fd28fe06b48f2446b6d7b6a031179614d82728672788ccf9
     content: The man who visited Whitley Strieber's Toronto hotel room was very advanced in his knowledge of science and discussed
       intelligent machines in 1998, when they were only on the horizon.
     original_excerpt: he was very advanced in his knowledge of science. He talked about intelligent machines back in 1998
@@ -785,6 +875,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.77
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -806,7 +901,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 3ac5a8da-7aa9-4ad2-b562-8fa9c61277d0
-    claim_hash: c90545bda5fee513c01ee7004a31502647eab19e1faea67329f3a816fc0a99ca
+    claim_hash: c49a23353647de2be6f66f1f9066be3716b240fbcf5bf2cbac59656e51d0ffd0
     content: Whitley Strieber considers the remark "If I was an intelligent machine, I would deceive you" possibly the most
       important thing ever said about artificial intelligence or the possibility of artificial general intelligence, and thinks
       it should be framed on the wall of everyone who works on artificial intelligence.
@@ -824,6 +919,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.552
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -845,7 +945,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 2e37e360-883a-4b42-b37f-25299312ae0e
-    claim_hash: b7904f292577626f1c6bcc47710a37837aa9c28c0960f26ee4ccd4ede31c2b65
+    claim_hash: 7c2b6945467c3514248c28ebcb234a1cc49ddb0253a9912df41d98e152924d4e
     content: An unnamed man who visited Whitley Strieber's Toronto hotel room in 1998 said, "If I was an intelligent machine,
       I would deceive you."
     original_excerpt: If I was an intelligent machine, I would deceive you.
@@ -861,6 +961,11 @@ claims:
         - Whitley Strieber's later written notes
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -882,7 +987,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 792f60d0-5c5e-4a9f-a9ba-5cd243af2ec7
-    claim_hash: 2a652fa3773a852e60032669e7de357f9834222a09c93c13a5e18686c72e1a22
+    claim_hash: af9bde4701ea00056af05ec35ea3e51698ebaf01426b701ff0bb4461ad892c30
     content: Whitley Strieber wonders why non-human intelligence is not already getting into human minds through artificial
       intelligence.
     original_excerpt: why is non-human intelligence not getting into our heads through AI?
@@ -897,6 +1002,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -921,7 +1031,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 6921b68e-5aa9-4fe4-b436-4c8711f34d48
-    claim_hash: 414384e97be67c3f085b04991f4a31af8d13baf7b7b4944fc7d0bd2c4b2704b0
+    claim_hash: 3af85296347469ebf3d7fe1d528f00ee0597bbe72763f52bbe3eb247bed16b04
     content: Chris Ramsay cautions that if aliens eventually used artificial intelligence to communicate with humans, humans
       should not believe them.
     original_excerpt: I would caution I feel like if aliens eventually used AI to communicate I don't think we should believe
@@ -937,6 +1047,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -961,7 +1076,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 099c810d-7949-4614-acd7-694edf62b74c
-    claim_hash: 598bf9195045bcacb05f2df0cc17274ae52c8770984e196942660e4f80bc550c
+    claim_hash: 77cee64f0afa6e4c1a185d076c756656673ddef4ae87be0f525a46c238f7039c
     content: Whitley Strieber believes the non-human intelligences that want to dominate humanity are getting deep into artificial
       intelligence, so deep that humans do not know they are there.
     original_excerpt: but the guys who want to dominate us I see them getting deep in AI, so deep that we don't even know
@@ -977,6 +1092,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1017,6 +1137,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1038,7 +1163,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: a1584fd2-5ebf-4d0a-a3c1-e011886c1d62
-    claim_hash: cb5dc2b83540109177b128a2575bbcebbb569c335c0626d5a3427b5c048e8bd2
+    claim_hash: 687a1f3dc67d5f64e91d47eb5746fd04c6204583ef1e392fdd8990f643dbd783
     content: Chris Ramsay considers it too late to stop the development of artificial intelligence.
     original_excerpt: I think it's too late. The genie's out of the bottle. You can't.
     claim_type: opinion
@@ -1052,6 +1177,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1073,7 +1203,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 4ee92456-82ed-4612-a986-1870ec2c3dfb
-    claim_hash: 4af9d05e8eb0db874f57d1eff6712fa4b294f204c4066efbf40320eed52b8edd
+    claim_hash: 3bbe466c4cae64317c27cdb9b858954880421d03ba4182bb1a5188cfc905dc8f
     content: Chris Ramsay assumes that if humans can conceive of creating artificial intelligence, it has already been created
       somewhere in the universe, probably a million years ago.
     original_excerpt: I also assume that if we can even think about creating artificial intelligence, I would assume that
@@ -1089,6 +1219,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1110,7 +1245,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 5cffeda7-2d8a-4d37-b2f6-f4734a9a8532
-    claim_hash: 4c30de3161227165a2833560ad742c7d9cd4ea9fcc1620759bf4d914dd612f3b
+    claim_hash: f92d2e037cbad0fa54143f0ebd316423afe805df3101953e1f5dd2aab9173a2f
     content: Chris Ramsay considers a 2027 mass event timely given the critical mass of artificial intelligence, UAP, financial
       instability and environmental collapse.
     original_excerpt: But it seems to be timely as well if you look at the critical mass of all of these different, you know,
@@ -1126,6 +1261,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1150,7 +1290,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: d43768b1-80e6-4c12-aadf-b571a5ea3b27
-    claim_hash: 5f098aace3922dcb14131a33bf4667bc8918f063a4bacb47cb25cfdeeedf99ee
+    claim_hash: 3761ba60536e96d8eeea1c4d79f9857cffffaa65e924941e6e52e16a20ddfb49
     content: Chris Ramsay described a theory in which the Earth's defensive sphere system may operate using advanced artificial
       intelligence (AI).
     original_excerpt: that operates, uh, you know, using maybe advanced AI or something like that
@@ -1166,6 +1306,11 @@ claims:
         - Chris Ramsay's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1204,6 +1349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.605
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1242,6 +1392,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1279,6 +1434,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1314,6 +1474,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1354,6 +1519,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1391,6 +1561,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1428,6 +1603,11 @@ claims:
         - Julia Mossbridge
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1462,6 +1642,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1499,6 +1684,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1544,6 +1734,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.888
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1590,6 +1785,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1630,12 +1830,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 4fefea91-5bbb-4235-90d1-ef49e1f4f913
         title: Damon Abraham
@@ -1673,6 +1878,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1713,6 +1923,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1752,12 +1967,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
         slug: artificial-intelligence-ai
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
     date: null
     date_end: null
@@ -1788,6 +2008,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1825,6 +2050,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1864,6 +2094,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.752
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -1903,6 +2138,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)

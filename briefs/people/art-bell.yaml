@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3421c863ba6655d63b66f263239966de85259b16d171d8147488a2e49646ce13
+brief_hash: 9aa07ba4cecaf6c1de838753dc675c3a23ae257480286736b6d78cbcfcbe0f9d
 page:
   kind: entity
   node_id: 30795fa1-7470-496f-8db1-441be0c8750a
@@ -9,11 +9,21 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 25
   tokens_estimated: 3695
   sized_against: 1050000
+entailment:
+  assessed: 25
+  unassessed: 0
+  entails: 15
+  neutral: 10
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 11
+  entailed_by_quote_fraction: 0.16
+  entailed_by_window_fraction: 0.44
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 25
 related_nodes:
-  - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-    title: A Friend (anonymous army sergeant)
+  - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+    title: Anonymous army sergeant ('A Friend')
     node_type: person
-    slug: a-friend-anonymous-army-sergeant
+    slug: anonymous-army-sergeant-a-friend
     shared_claims: 6
   - node_id: cc327db1-44bd-4762-acc0-d8fe82a3c6ea
     title: Cydonia
@@ -192,6 +202,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.671
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -232,6 +247,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -266,6 +286,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -308,6 +333,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -348,6 +378,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.491
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -389,6 +424,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
         title: Tom Van Flandern
@@ -433,6 +473,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -474,6 +519,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -514,6 +564,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 18bbaff6-4f0c-4629-8ac2-6a8e4cfa7d40
         title: Tom Van Flandern
@@ -552,6 +607,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -595,6 +655,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
         title: Noel Gorelick
@@ -641,6 +706,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 299a6e2e-cc92-49b8-bd82-d5ef1d3858af
         title: Phobos
@@ -687,6 +757,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -714,7 +789,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 36d39e48-8642-4594-8f45-e75651455626
-    claim_hash: 762e7db5079f7ec933842c7e5ecf47d49e56e01150eac8f2665d9cdce4c934c1
+    claim_hash: ebc6bd476fdbe91855135ee0e9f5c318fb111253ea7350e65edabdee5d86036b
     content: The 30 November 1978 US military C-130 lightning crash occurred four years after the grandfather supposedly imparted
       his solemn secret to his family, and 18 years before the anonymous sergeant wrote his letters to Art Bell and Linda
       Moulton Howe.
@@ -730,16 +805,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-        title: A Friend (anonymous army sergeant)
-        slug: a-friend-anonymous-army-sergeant
       - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
         title: Linda Moulton Howe
         slug: linda-moulton-howe
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
         slug: art-bell
+      - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+        title: Anonymous army sergeant ('A Friend')
+        slug: anonymous-army-sergeant-a-friend
       - node_id: 9133196d-51b8-4f15-b378-9aa0736caeb4
         title: 1978-11-30 US military C-130 lightning crash
         slug: 1978-11-30-us-military-c-130-lightning-crash
@@ -752,12 +832,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: be90c9b0-ec7a-4893-b64a-4f3f6a4bfb4d
-    claim_hash: 6cf1745195e1ef3ce946a5c64b23eed0c238f3c32e95b3858778633ff10a5645
+    claim_hash: ee8df00f5a9e2f913abab1379d1cd08c08dfa7a64112426fe093c306711176be
     content: In April 1996, an anonymous US Army sergeant who identified himself only as 'A Friend' wrote to Art Bell, host
       of the radio show Coast to Coast AM, enclosing a package of strange metallic samples allegedly recovered from the Roswell
       alien spacecraft.
@@ -773,13 +853,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-        title: A Friend (anonymous army sergeant)
-        slug: a-friend-anonymous-army-sergeant
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
         slug: art-bell
+      - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+        title: Anonymous army sergeant ('A Friend')
+        slug: anonymous-army-sergeant-a-friend
       - node_id: 73e6536e-c068-418a-b398-7949c6d7b2fe
         title: 1996 Joint Endeavor military operation flight to Hungary
         slug: 1996-joint-endeavor-military-operation-flight-to-hungary
@@ -798,12 +883,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 5c01931a-dd22-4d7d-805f-cb17c5a36dad
-    claim_hash: 30d4b1113d2a3bd8032a8efffe127240cb8cec907d293304aedaebe393ce5541
+    claim_hash: f2571f4ec3ad68a66235ed48340995589dd4061fc92e45409ff9e5c4ac9ba75e
     content: Over the following weeks after April 1996, the anonymous army sergeant known as 'A Friend' sent five letters
       to Art Bell containing typed excerpts from his grandfather's diary.
     original_excerpt: Over the following weeks, the anonymous army sergeant, who only ever identified himself as 'A Friend',
@@ -817,13 +902,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-        title: A Friend (anonymous army sergeant)
-        slug: a-friend-anonymous-army-sergeant
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
         slug: art-bell
+      - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+        title: Anonymous army sergeant ('A Friend')
+        slug: anonymous-army-sergeant-a-friend
       - node_id: ddf077eb-38b1-4883-a720-93b4169d3154
         title: 1996 Art Bell letters from 'A Friend' about Roswell
         slug: 1996-art-bell-letters-from-a-friend-about-roswell
@@ -836,7 +926,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -855,6 +945,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -871,12 +966,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: eb11ae0f-e4aa-4a68-b878-5058ab3d2f7a
-    claim_hash: bab2e157a7276948f971b8a0e345d6c263749791d791645dbb23b59808df2a89
+    claim_hash: 13f2e86801d9fa2c2b0cbdad2b749e0fb11a837b999fa4e2a05f6c6bab86b60c
     content: In a second letter to Art Bell, the anonymous sergeant wrote that he was surprised by the negative and close-minded
       responses from some of Art Bell's listeners.
     original_excerpt: '''I must say that I was somewhat surprised by the negative and close-minded responses directed your
@@ -891,13 +986,18 @@ claims:
         - a letter to Art Bell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-        title: A Friend (anonymous army sergeant)
-        slug: a-friend-anonymous-army-sergeant
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
         slug: art-bell
+      - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+        title: Anonymous army sergeant ('A Friend')
+        slug: anonymous-army-sergeant-a-friend
     date: null
     date_end: null
     location_in_record: ch23:7176-7381
@@ -907,12 +1007,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6244f9cf-5fc1-481a-b6b1-da5ba2b2cd36
-    claim_hash: c0a3cc69741d3aa4606f042c4e9a7b3307e81a08552943290788b696493637d6
+    claim_hash: ba7852e2b5f2df45d1e106e7ebc0f62c99b16098562c245a8ea916df10bef145
     content: In his fourth letter, the anonymous sergeant admitted that during a broadcast of one of Art Bell's radio shows
       he was on a flight to Hungary for a 1996 military operation called Joint Endeavor.
     original_excerpt: the purported sergeant again compromised his anonymity by admitting that, during a broadcast of one
@@ -927,13 +1027,18 @@ claims:
         - a letter to Art Bell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-        title: A Friend (anonymous army sergeant)
-        slug: a-friend-anonymous-army-sergeant
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
         slug: art-bell
+      - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+        title: Anonymous army sergeant ('A Friend')
+        slug: anonymous-army-sergeant-a-friend
       - node_id: 6c67e0aa-7f12-4062-8bd4-4183a772589a
         title: Hungary
         slug: hungary
@@ -949,12 +1054,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: caaa1f88-ff17-487b-bf6c-b00cf6ed697b
-    claim_hash: c3b3aecc9184d53546bacc0350d36514e2c6882f1a5f1180007a080c26a52e53
+    claim_hash: a4981c1307a1b2ba32c53e161f9f1c77e7191bd26289826aee5f4f574b5f0e3b
     content: The anonymous sergeant told Art Bell that his pilot friend was carrying a Roswell sample and that C-130 aircraft
       do not normally get hit by lightning and explode.
     original_excerpt: '''You see, Mr Bell, my friend was carrying a Roswell sample. I have reasons to be fearful. C-130s don''t
@@ -969,13 +1074,18 @@ claims:
         - a letter to Art Bell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.658
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 184cc971-6ae7-4840-a51c-ee45cdd9352d
-        title: A Friend (anonymous army sergeant)
-        slug: a-friend-anonymous-army-sergeant
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
         slug: art-bell
+      - node_id: 4a92f615-27bd-4d03-aaa8-5e261271695a
+        title: Anonymous army sergeant ('A Friend')
+        slug: anonymous-army-sergeant-a-friend
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
@@ -988,7 +1098,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1007,6 +1117,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.687
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell
@@ -1026,7 +1141,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1047,6 +1162,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
         title: Linda Moulton Howe
@@ -1066,7 +1186,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1088,6 +1208,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
         title: Linda Moulton Howe
@@ -1113,7 +1238,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1133,6 +1258,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 181fd8ea-4d27-4199-a1cf-3c5d303eebae
         title: Metabunk
@@ -1155,7 +1285,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1174,6 +1304,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
         title: Art Bell

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1789a1d7a49e6a6363b7d16f0a0419e2800109a076ca276fd550165fc8187d0d
+brief_hash: 8fc4384cfbcc5a80f04c8950a53b9732a7e5cd0669a45150afffecc5b713e9cf
 page:
   kind: entity
   node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
@@ -9,11 +9,21 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 19
   tokens_estimated: 3150
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 11
+  neutral: 7
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 10
+  entailed_by_quote_fraction: 0.053
+  entailed_by_window_fraction: 0.526
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,16 +33,16 @@ belonging:
   suspect_excluded: 0
   unreviewed: 19
 related_nodes:
+  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+    title: Roswell incident (1947)
+    node_type: event
+    slug: roswell-incident-1947
+    shared_claims: 9
   - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
     title: Walter Haut
     node_type: person
     slug: walter-haut
     shared_claims: 9
-  - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
-    title: Roswell incident (1947)
-    node_type: event
-    slug: roswell-incident-1947
-    shared_claims: 8
   - node_id: f888411e-b882-4f89-8275-350d19f6c52d
     title: Jesse Marcel
     node_type: person
@@ -43,7 +53,7 @@ related_nodes:
     node_type: person
     slug: sheridan-cavitt
     shared_claims: 3
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+  - node_id: 3e507b49-d600-474f-8995-453932dc1e01
     title: USA, New Mexico, Roswell Army Air Field
     node_type: place
     slug: new-mexico-roswell-army-air-field-usa
@@ -58,11 +68,6 @@ related_nodes:
     node_type: organisation
     slug: roswell-army-air-field
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
     title: 509th Bomb Group
     node_type: organisation
@@ -163,6 +168,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
         title: July 8, 1947 Roswell Army Air Field press release
@@ -190,7 +200,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: c058f85d-0c54-4539-9e5f-5bb04f1ffc41
-    claim_hash: 589f6a1689326b7dc6db754435492909e4abb92eeb156bb22d7b50d4e9178b06
+    claim_hash: 011864717248b8437a78fc3994ba191d160063de94fd45e1caed0fe55dea0a6a
     content: Whitley Strieber considers it unlikely that a working base commander such as Colonel William Blanchard, whose
       order led to the original press release claiming the debris was a crashed disk, would have mistaken weather balloons,
       box kites, or radar targets.
@@ -208,6 +218,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -215,9 +230,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
     date: null
     date_end: null
     location_in_record: ch14:16135-16374
@@ -247,6 +262,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.902
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -272,7 +292,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -293,6 +313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -321,7 +346,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -340,6 +365,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -362,7 +392,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -383,6 +413,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -405,7 +440,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -427,6 +462,11 @@ claims:
         - editor of the Roswell Morning Dispatch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -446,7 +486,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -469,6 +509,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -488,7 +533,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -511,6 +556,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.893
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -530,7 +580,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -551,6 +601,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -570,7 +625,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -592,6 +647,11 @@ claims:
         - Walter Haut affidavit (sworn 2002, released 2007)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -629,6 +689,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.789
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -650,7 +715,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 6b87785c-9914-4683-842a-192f19362454
-    claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
+    claim_hash: aac4c7e85e89f866286437a3708380e8e27252816f5bb9c900dda532c4082da3
     content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended by William Blanchard, Jesse Marcel,
       Sheridan Cavitt, James I. Hopkins, Patrick Saunders, Isadore Brown, and Ulysses S. Nero.
     original_excerpt: Besides Blanchard, Marcel; CID Capt. Sheridan Cavitt; Col. James I. Hopkins, the operations officer;
@@ -667,6 +732,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
         title: Ulysses S. Nero
@@ -674,7 +744,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
@@ -722,6 +792,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.901
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
         title: Thomas J. DuBose
@@ -764,6 +839,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.751
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -785,7 +865,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
-    claim_hash: 17317da6673c7078239c791a510bdc7152e3b70fcb44c8270ed27839db272f48
+    claim_hash: bf02b86af499499b5537edcfbcca476e3c7da868418cf88f5d29f0e9efadea27
     content: At approximately 9:30 a.m. on 1947-07-08, William Blanchard phoned Walter Haut's office and dictated a press
       release stating that the Roswell Army Air Force Base had in its possession a flying disc recovered from a ranch northwest
       of Roswell, with Jesse Marcel flying the material to higher headquarters.
@@ -802,6 +882,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.403
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -844,6 +929,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -865,7 +955,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
-    claim_hash: 16883d5b28a8aeb98578031a8615eaa1b88037a17c2ac79fbe1d039f6fe4aadd
+    claim_hash: dacc4dc3c38d746bd00334e67f85b8d5044ba753d19d2c506adf3fc6d06a34bb
     content: Before Walter Haut left the base, William Blanchard personally took him to Building 84, a B-29 hangar located
       on the east side of the tarmac at Roswell Army Air Force Base.
     original_excerpt: Before leaving the base, Col. Blanchard took me personally to Building 84, a B-29 hangar located on
@@ -881,6 +971,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.388
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -888,12 +983,12 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
         title: Building 84 (B-29 hangar, Roswell Army Air Base)
         slug: roswell-army-air-base-building-84-b-29-hangar
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:3260-3381
@@ -908,7 +1003,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
-    claim_hash: a8767257ac79272151a1e87a068db8d178ee3e04e868dfeaa451f3cf1cfcb4fb
+    claim_hash: 788eef3508942b5d4f4ca1b4f4bd7441837b2314b638b33d147ce71c83e13866
     content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was sent by base commander William Blanchard
       to investigate the reported downed vehicle debris on 1947-07-07.
     original_excerpt: I was aware that Major Jesse A. Marcel, head of intelligence, was sent by the base commander, Col. William
@@ -924,11 +1019,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: f888411e-b882-4f89-8275-350d19f6c52d

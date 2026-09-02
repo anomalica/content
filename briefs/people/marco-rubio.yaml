@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8032ffb090797ceff31594ffb28dd9d0731c0c4c76133d7ef5801ca6455a39a0
+brief_hash: c0d7e791623c1d39ecec4a83a0ad6f29a9c6ce70d88b7a34f6f418fd8239492b
 page:
   kind: entity
   node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
@@ -9,11 +9,21 @@ page:
   claim_count: 29
   claim_count_total: 29
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 29
   tokens_estimated: 4420
   sized_against: 1050000
+entailment:
+  assessed: 29
+  unassessed: 0
+  entails: 21
+  neutral: 8
+  contradicts: 0
+  entailed_by_quote: 9
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.31
+  entailed_by_window_fraction: 0.414
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -174,426 +184,6 @@ related_nodes:
     slug: russia
     shared_claims: 1
 claims:
-  - claim_id: 372c43d6-717d-413f-98a8-373d693cb399
-    claim_hash: 1756a67e2e15418199c3c55f9e8c46f79f1747a475388bf2cb2281b923aa2773
-    content: Republican Senator Marco Rubio said this was the first time ever in North American Aerospace Defense Command
-      (NORAD)'s history that a decision was made to shoot down an object over American airspace, and all three objects were
-      still unidentified.
-    original_excerpt: Republican Senator Marco Rubio made the point that this was the first time ever in NORAD's history that
-      a decision was made to shoot-down an object over American airspace and all three were still unidentifi ed.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
-        title: North American Aerospace Defense Command (NORAD)
-        slug: north-american-aerospace-defense-command-norad
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:30876-31083
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: e70e607a-b33c-4bf7-a932-03805a105dd2
-    claim_hash: 1994a41f5f3f104513fc798a438800f56e85a6364fb7da6e0ebec9589ec595f3
-    content: Marco Rubio said regarding the three shot-down objects that nobody knows what they are, they haven't told anybody,
-      and they may not know themselves and potentially may never know.
-    original_excerpt: '''… We don''t know what they are.'' Rubio said. ''They don''t know what they are. They haven''t told
-      anybody. They haven''t told us. They may not know themselves and potentially may never know.''20'
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:31091-31275
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 6d67b213-f02c-4521-94fd-ec32b3964de7
-    claim_hash: 4c3063eef18afd80644ef1548d6c7a1b56e22a12d7d55fe4c2d84cc8c7d0d291
-    content: Marco Rubio observed that the United States had no system in place to respond to unidentified objects.
-    original_excerpt: He rightly observed that the US had no system in place to respond to such unidentified objects
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:31278-31365
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
-    claim_hash: 66336262495a7d058b2383f56da4324ca2e4c5dbbcc94ee0b56bcf8e33b6a172
-    content: Marco Rubio made a bipartisan effort with Democratic Senator Kristen Gillibrand to create an office to establish
-      a coordinated effort to report and respond to unidentified objects.
-    original_excerpt: and he pointed to his bipartisan eff ort with Democratic Senator Kristen Gillibrand, creating an offi
-      ce to establish a coordinated eff ort to report and respond to unidentifi ed objects.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
-        title: Kirsten Gillibrand
-        slug: kirsten-gillibrand
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:31373-31552
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 2ecc9c6d-0dd6-4477-8f42-b5726edb040b
-    claim_hash: f7f00c9de6dbd7e554a1991c9eced0ac867c5a9b5a8447023163e8211ea505b7
-    content: Marco Rubio said the Pentagon UAP office had seen hundreds of cases of airborne items which were not met with
-      the same shoot-down response as the three objects downed in February 2023.
-    original_excerpt: He said that Pentagon UAP office had seen 'hundreds of cases' of airborne items, which were not met
-      with the same shoot-down response.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
-        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
-        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:31561-31686
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 329de865-4a91-4f96-8c52-565e00cc3f8a
-    claim_hash: dca6bc88df00ffe66f82d91c9ef695a92ad70b37e9be04dda9e1667441b972a0
-    content: Marco Rubio said the United States does not do a good job of monitoring unidentified objects and does not have
-      a systemised way to respond, and that the difference between the three shot-down objects and the hundreds of other cases
-      is that these three were shot down.
-    original_excerpt: '''We don''t do a good job of monitoring. We don''t have a systemised way to respond. The difference
-      between these three and hundreds of those cases is these three were shot down,'' Rubio said.'
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:31698-31880
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 073c0612-c167-4edd-9bb7-bcd10f6b825e
-    claim_hash: 5bdc566c1c203d7654652e8a41861a47504f63f38352ee2cfb2b5df6f03fa3e5
-    content: Marco Rubio expressed concern that the Defense Department had not been sharing information on the hundreds of
-      Unidentified Aerial Phenomena (UAP) cases with the investigators and scientists at the Pentagon's All-Domain Anomaly
-      Resolution Office (AARO).
-    original_excerpt: Th e Senator also expressed his concern that the Defense Department had not been sharing information
-      on these hundreds of UAPs with the investigators and scientists on the Pentagon's UAP investigations agency, AARO –
-      the All Domain Anomaly Resolution Offi ce.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-        title: All-domain Anomaly Resolution Office (AARO)
-        slug: all-domain-anomaly-resolution-office-aaro
-    date: null
-    date_end: null
-    location_in_record: ch29:31886-32168
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b4e19822-adfd-4a8b-8097-c5fb4c4857cd
-    claim_hash: 5665f5906fbbc23324a5bee4a02e797216bd270c8a94dbe35324f732dd94ceb7
-    content: Marco Rubio said the concern is whether an adversary has developed a capability that the United States knows
-      it is not looking for, because US systems are set up to see missiles and aeroplanes, not smaller objects at lower altitudes.
-    original_excerpt: '''This is about whether an adversary has developed a capability that they know we''re not looking for
-      because our systems are set up to see missiles and airplanes. They''re not set up to see smaller objects at lower altitudes.'''
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:32173-32385
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: aa34e543-a196-469b-8f44-583031b2f787
-    claim_hash: 79984043756f713f0c18b8dc05c24ed575f98daa80542aacbd4a86c1ace17b59
-    content: When asked if the objects might be alien, Marco Rubio said he would almost hope so, because if the Russians or
-      Chinese have invented a capability the US cannot monitor, that would be a big problem.
-    original_excerpt: Asked if the objects might be alien, Rubio responded, 'I would almost hope it is because if there is
-      a capability the Russians or Chinese have invented that we can't monitor, that sounds like a big problem.'
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6861382a-014b-46d2-802b-30d1aba6dd2c
-        title: Russia
-        slug: russia
-      - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
-        title: China
-        slug: china
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:32397-32595
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
-    claim_hash: 61d9f02643b15f6c423b504d826351bd55c18a409f027a035037f27026258a25
-    content: Democratic Senator Mark Warner, the former chairman of the Senate Select Committee for Intelligence, and his
-      replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation in the National Defense
-      Authorization Act 2023.
-    original_excerpt: Both the former chairman of the Senate Select Committee for Intelligence, Democrat Senator Mark Warner
-      and his replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-      - node_id: 9be4bc41-599a-42bc-89db-a0c106eb82b5
-        title: Mark Warner
-        slug: mark-warner
-      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
-        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
-    date: null
-    date_end: null
-    location_in_record: ch30:13954-14150
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a05087d2-3a18-46e0-b35a-c1742a84d2a0
-    claim_hash: fc3d967a5b676db1657a61c59fe089719569cc7ae73cbace68ff060e19e09230
-    content: Marco Rubio, a senator, criticised the government's response to the Chinese spy balloon and pushed for answers
-      on unidentified objects, as reported 2023-02-15.
-    original_excerpt: Kerry Breen, 'Sen. Marco Rubio Criticises Response to Chinese Spy Balloon and Pushes for Answers on
-      Unidentified Objects', 15 Feb 2023, CBS News/CBS Mornings.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1f527eb4-7a26-4c56-8d2d-259e7ad38906
-        title: CBS News
-        slug: cbs-news
-      - node_id: 58b1013e-c1b0-42ec-ab1c-5f0078bee2f5
-        title: Chinese Spy Balloon
-        slug: chinese-spy-balloon
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-      - node_id: d15a4b0f-22f7-4709-93dd-4b9a43f6a9a5
-        title: Kerry Breen
-        slug: kerry-breen
-    date: '2023-02-15'
-    date_end: null
-    location_in_record: ch34:70884-71033
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9746655e-f89a-405e-81e5-e1bbf1eaca04
     claim_hash: 51e6d24608051c4e087fed5d087614cdda755c6bae1ecf2be9b7d72acf249520
     content: Marco Rubio considers any object entering an airspace where it is not supposed to be a threat.
@@ -609,6 +199,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
         title: Marco Rubio
@@ -640,6 +235,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.744
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -676,6 +276,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -723,6 +328,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -760,6 +370,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -799,6 +414,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -837,6 +457,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -872,6 +497,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -898,6 +528,481 @@ claims:
       record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 372c43d6-717d-413f-98a8-373d693cb399
+    claim_hash: 1756a67e2e15418199c3c55f9e8c46f79f1747a475388bf2cb2281b923aa2773
+    content: Republican Senator Marco Rubio said this was the first time ever in North American Aerospace Defense Command
+      (NORAD)'s history that a decision was made to shoot down an object over American airspace, and all three objects were
+      still unidentified.
+    original_excerpt: Republican Senator Marco Rubio made the point that this was the first time ever in NORAD's history that
+      a decision was made to shoot-down an object over American airspace and all three were still unidentifi ed.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
+        title: North American Aerospace Defense Command (NORAD)
+        slug: north-american-aerospace-defense-command-norad
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:30876-31083
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e70e607a-b33c-4bf7-a932-03805a105dd2
+    claim_hash: 1994a41f5f3f104513fc798a438800f56e85a6364fb7da6e0ebec9589ec595f3
+    content: Marco Rubio said regarding the three shot-down objects that nobody knows what they are, they haven't told anybody,
+      and they may not know themselves and potentially may never know.
+    original_excerpt: '''… We don''t know what they are.'' Rubio said. ''They don''t know what they are. They haven''t told
+      anybody. They haven''t told us. They may not know themselves and potentially may never know.''20'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31091-31275
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6d67b213-f02c-4521-94fd-ec32b3964de7
+    claim_hash: 4c3063eef18afd80644ef1548d6c7a1b56e22a12d7d55fe4c2d84cc8c7d0d291
+    content: Marco Rubio observed that the United States had no system in place to respond to unidentified objects.
+    original_excerpt: He rightly observed that the US had no system in place to respond to such unidentified objects
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31278-31365
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
+    claim_hash: 66336262495a7d058b2383f56da4324ca2e4c5dbbcc94ee0b56bcf8e33b6a172
+    content: Marco Rubio made a bipartisan effort with Democratic Senator Kristen Gillibrand to create an office to establish
+      a coordinated effort to report and respond to unidentified objects.
+    original_excerpt: and he pointed to his bipartisan eff ort with Democratic Senator Kristen Gillibrand, creating an offi
+      ce to establish a coordinated eff ort to report and respond to unidentifi ed objects.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31373-31552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2ecc9c6d-0dd6-4477-8f42-b5726edb040b
+    claim_hash: f7f00c9de6dbd7e554a1991c9eced0ac867c5a9b5a8447023163e8211ea505b7
+    content: Marco Rubio said the Pentagon UAP office had seen hundreds of cases of airborne items which were not met with
+      the same shoot-down response as the three objects downed in February 2023.
+    original_excerpt: He said that Pentagon UAP office had seen 'hundreds of cases' of airborne items, which were not met
+      with the same shoot-down response.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6eabc3e2-0748-4914-8561-60ad3541b3e6
+        title: 2023 'Balloongate' Unidentified Aerial Phenomena (UAP) shoot-down controversy
+        slug: 2023-balloongate-unidentified-aerial-phenomena-uap-shoot-down-controversy
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31561-31686
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 329de865-4a91-4f96-8c52-565e00cc3f8a
+    claim_hash: dca6bc88df00ffe66f82d91c9ef695a92ad70b37e9be04dda9e1667441b972a0
+    content: Marco Rubio said the United States does not do a good job of monitoring unidentified objects and does not have
+      a systemised way to respond, and that the difference between the three shot-down objects and the hundreds of other cases
+      is that these three were shot down.
+    original_excerpt: '''We don''t do a good job of monitoring. We don''t have a systemised way to respond. The difference
+      between these three and hundreds of those cases is these three were shot down,'' Rubio said.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.784
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31698-31880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 073c0612-c167-4edd-9bb7-bcd10f6b825e
+    claim_hash: 5bdc566c1c203d7654652e8a41861a47504f63f38352ee2cfb2b5df6f03fa3e5
+    content: Marco Rubio expressed concern that the Defense Department had not been sharing information on the hundreds of
+      Unidentified Aerial Phenomena (UAP) cases with the investigators and scientists at the Pentagon's All-Domain Anomaly
+      Resolution Office (AARO).
+    original_excerpt: Th e Senator also expressed his concern that the Defense Department had not been sharing information
+      on these hundreds of UAPs with the investigators and scientists on the Pentagon's UAP investigations agency, AARO –
+      the All Domain Anomaly Resolution Offi ce.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: ch29:31886-32168
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b4e19822-adfd-4a8b-8097-c5fb4c4857cd
+    claim_hash: 5665f5906fbbc23324a5bee4a02e797216bd270c8a94dbe35324f732dd94ceb7
+    content: Marco Rubio said the concern is whether an adversary has developed a capability that the United States knows
+      it is not looking for, because US systems are set up to see missiles and aeroplanes, not smaller objects at lower altitudes.
+    original_excerpt: '''This is about whether an adversary has developed a capability that they know we''re not looking for
+      because our systems are set up to see missiles and airplanes. They''re not set up to see smaller objects at lower altitudes.'''
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:32173-32385
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: aa34e543-a196-469b-8f44-583031b2f787
+    claim_hash: 79984043756f713f0c18b8dc05c24ed575f98daa80542aacbd4a86c1ace17b59
+    content: When asked if the objects might be alien, Marco Rubio said he would almost hope so, because if the Russians or
+      Chinese have invented a capability the US cannot monitor, that would be a big problem.
+    original_excerpt: Asked if the objects might be alien, Rubio responded, 'I would almost hope it is because if there is
+      a capability the Russians or Chinese have invented that we can't monitor, that sounds like a big problem.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6861382a-014b-46d2-802b-30d1aba6dd2c
+        title: Russia
+        slug: russia
+      - node_id: 95f26306-d457-4b86-8b8e-c83e0906740c
+        title: China
+        slug: china
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:32397-32595
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
+    claim_hash: 61d9f02643b15f6c423b504d826351bd55c18a409f027a035037f27026258a25
+    content: Democratic Senator Mark Warner, the former chairman of the Senate Select Committee for Intelligence, and his
+      replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation in the National Defense
+      Authorization Act 2023.
+    original_excerpt: Both the former chairman of the Senate Select Committee for Intelligence, Democrat Senator Mark Warner
+      and his replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: 9be4bc41-599a-42bc-89db-a0c106eb82b5
+        title: Mark Warner
+        slug: mark-warner
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: null
+    date_end: null
+    location_in_record: ch30:13954-14150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a05087d2-3a18-46e0-b35a-c1742a84d2a0
+    claim_hash: fc3d967a5b676db1657a61c59fe089719569cc7ae73cbace68ff060e19e09230
+    content: Marco Rubio, a senator, criticised the government's response to the Chinese spy balloon and pushed for answers
+      on unidentified objects, as reported 2023-02-15.
+    original_excerpt: Kerry Breen, 'Sen. Marco Rubio Criticises Response to Chinese Spy Balloon and Pushes for Answers on
+      Unidentified Objects', 15 Feb 2023, CBS News/CBS Mornings.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1f527eb4-7a26-4c56-8d2d-259e7ad38906
+        title: CBS News
+        slug: cbs-news
+      - node_id: 58b1013e-c1b0-42ec-ab1c-5f0078bee2f5
+        title: Chinese Spy Balloon
+        slug: chinese-spy-balloon
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: d15a4b0f-22f7-4709-93dd-4b9a43f6a9a5
+        title: Kerry Breen
+        slug: kerry-breen
+    date: '2023-02-15'
+    date_end: null
+    location_in_record: ch34:70884-71033
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 2a8ba34c-485b-44c4-ae3a-33015835d877
     claim_hash: 19ae23ba2a0c9d789481e63e9940fb02bd06fe86da5172b7f184a7bcc44242a7
     content: Senator Marco Rubio, as acting chairman of the US Senate Intelligence Committee, supported the proposal for a
@@ -916,6 +1021,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.517
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4b201290-b335-4954-93c7-aa0f3c949167
         title: Senate Intelligence Committee
@@ -935,7 +1045,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -956,6 +1066,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4b201290-b335-4954-93c7-aa0f3c949167
         title: Senate Intelligence Committee
@@ -972,7 +1087,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -996,6 +1111,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.742
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26734bde-b2a6-4ef5-b186-6d1bb2fb72f5
         title: Ruben Gallego
@@ -1033,7 +1153,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1054,6 +1174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
         title: Chuck Schumer
@@ -1079,7 +1204,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1101,6 +1226,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1117,7 +1247,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1138,6 +1268,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.634
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1154,7 +1289,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1175,6 +1310,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 378be804-4ade-409d-89e4-2354e375377d
         title: Pete Hegseth
@@ -1218,6 +1358,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1261,6 +1406,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1304,6 +1454,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)

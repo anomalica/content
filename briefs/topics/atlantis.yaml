@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 1d7909015362bda3ff19065fdc41dba5f3b0c7b0e6b306b3fca832d51be771d6
+brief_hash: 0ccf9f52bde2189c6cf12123fcb2a17c2e8c5bef2767aeda4136c9e6192ead0a
 page:
   kind: entity
   node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
   node_type: topic
   title: Atlantis
   slug: atlantis
-  claim_count: 49
-  claim_count_total: 49
+  claim_count: 47
+  claim_count_total: 47
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 49
-  tokens_estimated: 6852
+  claims: 47
+  tokens_estimated: 6580
   sized_against: 1050000
+entailment:
+  assessed: 47
+  unassessed: 0
+  entails: 39
+  neutral: 8
+  contradicts: 0
+  entailed_by_quote: 19
+  entailed_by_window: 20
+  entailed_by_quote_fraction: 0.404
+  entailed_by_window_fraction: 0.426
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 49
+  unreviewed: 47
 related_nodes:
   - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
     title: Plato
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.783
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -228,6 +243,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -267,6 +287,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.533
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -305,6 +330,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -337,6 +367,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -375,6 +410,11 @@ claims:
         - Raymond Bernard
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -417,6 +457,11 @@ claims:
         - Raymond Bernard
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -460,6 +505,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.577
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -501,6 +551,11 @@ claims:
         - Jacques Vallée
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -536,6 +591,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -575,6 +635,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.755
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -595,77 +660,6 @@ claims:
       record_reference: null
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
-  - claim_id: 4913d5d9-5db0-49ea-9f18-ccf1a6055a51
-    claim_hash: 7c0b4f778c193a319e1d70df7f35f5d3129b91f1bb8224070fc9b9eedd525e0a
-    content: Whitley Strieber considers the Atlantis story likely a distant memory of the Younger Dryas period, with a diffuse
-      pre-catastrophe civilisation idealised into a single grand city.
-    original_excerpt: The Atlantis story is probably a distant memory of those times, with a diffuse civilization idealized
-      into a single grand city.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-      title: Whitley Strieber
-    provenance_chain:
-      origin_kind: speaker
-      origin: Whitley Strieber
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-        title: Atlantis
-        slug: atlantis
-      - node_id: 4a5f3ce6-bc0b-4064-b849-498204e1f76a
-        title: Younger Dryas
-        slug: younger-dryas
-    date: null
-    date_end: null
-    location_in_record: ch26:10094-10216
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-      record_title: The Fourth Mind
-      record_date: '2025-01-15'
-      record_reference: null
-      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-      friendly_name: 2025-01-15-ebook-the-fourth-mind
-  - claim_id: f3e04354-6d2b-4056-ade4-c52c59d85acc
-    claim_hash: d998fbbe111e14e6294e6fed44a90ff763be377529a125c2f997d84c21f68b04
-    content: Whitley Strieber considers it obvious that some sort of lost civilisation existed and that the archaeological
-      evidence proves its people were master engineers.
-    original_excerpt: I think it's obvious that some sort of civilization existed and has been lost, and the evidence on the
-      ground proves conclusively that they were master engineers.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
-      title: Whitley Strieber
-    provenance_chain:
-      origin_kind: speaker
-      origin: Whitley Strieber
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
-        title: Atlantis
-        slug: atlantis
-    date: null
-    date_end: null
-    location_in_record: ch26:9066-9218
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
-      record_title: The Fourth Mind
-      record_date: '2025-01-15'
-      record_reference: null
-      content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
-      friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: c026fd48-203c-4887-b37e-1a22315932fe
     claim_hash: c4101d7af2b2c8197591584e1bc2cd088497b82e392cab60798eee0287a26d56
     content: Chris Ramsay considers Jason Quitt's account of Atlantis, given at the Contact in the Desert conference, a brand
@@ -682,6 +676,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -725,6 +724,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -767,6 +771,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -810,6 +819,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -853,6 +867,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -898,6 +917,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -939,6 +963,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.689
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -978,6 +1007,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1020,6 +1054,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1061,6 +1100,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1100,6 +1144,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1141,6 +1190,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1181,6 +1235,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
         title: Precession of the equinoxes
@@ -1221,6 +1280,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1264,6 +1328,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
         title: Precession of the equinoxes
@@ -1304,6 +1373,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 064e30a2-3d9f-4036-ada6-ce7df15f66d1
         title: Vega (star)
@@ -1341,6 +1415,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
         title: Precession of the equinoxes
@@ -1382,6 +1461,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1423,6 +1507,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1464,6 +1553,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1508,6 +1602,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.779
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1554,6 +1653,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1597,6 +1701,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1646,6 +1755,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1688,6 +1802,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.512
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1732,6 +1851,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01879d5e-4a17-48e2-a801-7bea624f603b
         title: Precession of the equinoxes
@@ -1775,6 +1899,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1815,6 +1944,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.899
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1854,6 +1988,11 @@ claims:
         - Jason Quitt's reading
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1890,6 +2029,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1924,6 +2068,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.672
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -1964,6 +2113,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -2001,6 +2155,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.739
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -2041,6 +2200,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -2079,6 +2243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -2125,6 +2294,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis

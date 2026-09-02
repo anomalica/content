@@ -9,11 +9,21 @@ page:
   claim_count: 30
   claim_count_total: 30
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 30
   tokens_estimated: 4426
   sized_against: 1050000
+entailment:
+  assessed: 30
+  unassessed: 0
+  entails: 26
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 14
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.467
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -154,6 +164,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
         title: John O'Neill
@@ -198,6 +213,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.704
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
         title: John O'Neill
@@ -238,6 +258,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 027d3340-be40-4241-9e1f-153b9bea8c62
         title: John O'Neill
@@ -282,6 +307,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.853
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -326,6 +356,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -370,6 +405,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -407,6 +447,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -444,6 +489,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -481,6 +531,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -519,6 +574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -555,6 +615,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -592,6 +657,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.937
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -631,6 +701,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.711
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -667,6 +742,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -706,6 +786,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -748,6 +833,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -784,6 +874,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -821,6 +916,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -860,6 +960,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -901,6 +1006,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -936,6 +1046,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -973,6 +1088,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 05df981b-2fd2-4e98-b701-8627e6fc70d5
         title: The old hag phenomenon
@@ -1012,6 +1132,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1052,6 +1177,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.763
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1092,6 +1222,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1133,6 +1268,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.564
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1173,6 +1313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1215,6 +1360,11 @@ claims:
         - Bob Mitchell in conversation with Jason Quitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1255,6 +1405,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.82
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -1293,6 +1448,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis

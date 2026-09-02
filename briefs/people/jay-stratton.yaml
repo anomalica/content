@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 93164072eae262c2961bb440bf314786fb1c0153f47f9f1ffa17078a9149a8c9
+brief_hash: f4f14b2b8da6f0edeb1e9cafaa065d6f632b653b873e4ef00e9ddb03882a13cc
 page:
   kind: entity
   node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
@@ -9,11 +9,21 @@ page:
   claim_count: 73
   claim_count_total: 73
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 73
   tokens_estimated: 10491
   sized_against: 1050000
+entailment:
+  assessed: 73
+  unassessed: 0
+  entails: 56
+  neutral: 13
+  contradicts: 4
+  entailed_by_quote: 16
+  entailed_by_window: 40
+  entailed_by_quote_fraction: 0.219
+  entailed_by_window_fraction: 0.548
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -174,452 +184,6 @@ related_nodes:
     slug: donald-trump
     shared_claims: 1
 claims:
-  - claim_id: 07a8b3e4-0279-4177-bdad-0ef69a324b15
-    claim_hash: c5796b939570dadedca86c663cfe30747751c2076ff9782a81bea0f50bbe46ae
-    content: In March 2023, the former head of the Pentagon's UAP investigations team, Jay Stratton, spoke at a UAP conference
-      about his experiences at Skinwalker Ranch in Utah.
-    original_excerpt: In March 2023, no less than the former head of the Pentagon's UAP investigations team, Jay Stratton,
-      spoke candidly at a UAP conference about his experiences at Skinwalker Ranch in Utah
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-      - node_id: caaaa35a-7a34-42ad-91d5-536c3e9b6576
-        title: USA, Utah, Ballard
-        slug: utah-ballard-usa
-    date: 2023-03
-    date_end: null
-    location_in_record: ch30:10063-10245
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 56c2fd15-7c62-4815-bdac-38448f311583
-    claim_hash: 9689eebc22f71e9e7c5d79408c66b954b3621f91c830720880cfef4ba9281455
-    content: Jay Stratton personally witnessed a translucent entity evocative of the character from the film Predator near
-      his trailer at Skinwalker Ranch, with a rectangular shape on its chest.
-    original_excerpt: he told conference attendees that he saw a translucent entity evocative of the character from the Predator
-      movie near his trailer at the Skinwalker Ranch, with a rectangular shape on its chest
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-      title: Jay Stratton
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jay Stratton
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: 816ef24f-97ea-4abe-85dc-c48ccd27b32c
-        title: Predator
-        slug: predator
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-    date: 2023-03
-    date_end: null
-    location_in_record: ch30:10595-10784
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b93c73b8-5bbd-495a-855c-e817f96c343d
-    claim_hash: 4e2d3027bebcadb45952234a08258008fbfea8bf8d3ea1c4d57d205725c90271
-    content: Jay Stratton's sighting of a translucent entity near his trailer at Skinwalker Ranch was independently corroborated
-      by his colleague Travis Taylor.
-    original_excerpt: a sighting independently corroborated by his colleague Dr Travis Taylor
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Travis Taylor
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-      - node_id: cbd5996d-9b0c-4181-98ed-99d89e052acf
-        title: Travis Taylor
-        slug: travis-taylor
-    date: 2023-03
-    date_end: null
-    location_in_record: ch30:10791-10856
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
-    claim_hash: 9c97224b8f1664137174ed80cdcdc7d7e05ea731ec2ebb184effded8dc53028c
-    content: Jay Stratton described seeing a hovering delta-shaped UAP directly above him on his first day at Skinwalker Ranch.
-    original_excerpt: He also described seeing a hovering delta-shaped UAP directly above him on his fi rst day at the ranch.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-      title: Jay Stratton
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jay Stratton
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-    date: null
-    date_end: null
-    location_in_record: ch30:10864-10961
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 9be3ccaa-d118-4884-ad15-d89bbf853522
-    claim_hash: f648248cd477538f1e6041a36b4405df8e2f6f502f244568e6eeb7e6e66941ae
-    content: 'The Kelleher/Knapp book Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program
-      describes disturbing paranormal incidents at Jay Stratton''s family home in Virginia, which are considered an instance
-      of the ''Hitchhiker Effect'', where phenomena from Skinwalker Ranch appeared to follow Stratton home.'
-    original_excerpt: The Kelleher/Knapp Skinwalkers at the Pentagon book also mentions even more disturbing incidents at
-      Stratton's family home in Virginia. Whatever the phenomenon is at the Utah ranch, it appears to have followed him home,
-      an incidence of what is called the 'Hitchhiker Effect'.
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 43761788-dfac-491a-a27d-3ea8d3b3a210
-        title: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government Unidentified Flying Object (UFO)
-          Program'
-        slug: skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-unidentified-flying-object-ufo-program
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: f169c972-e1d6-4d16-a2d6-99f333f02bc0
-        title: Hitchhiker effect
-        slug: hitchhiker-effect
-    date: null
-    date_end: null
-    location_in_record: ch30:10969-11238
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
-    claim_hash: 9f43e547f636ec49ee9d4d132a6135a6ef7d83305d92b5548719cdd9bbaf8103
-    content: Jay Stratton's son woke with multiple red contusions on his stomach and chest, as if somebody had repeatedly
-      and forcibly hit him.
-    original_excerpt: his son woke with multiple red contusions on his stomach and chest, 'as if somebody had repeatedly and
-      forcibly hit the boy.'
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-    date: null
-    date_end: null
-    location_in_record: ch30:11262-11382
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 2031c2a3-0dab-49f9-983e-b879bfbfeee9
-    claim_hash: 14b78a3a6cbd4ca8ffeffe6ab24812008867ff9ed0f9fb1988380cdd7f31c02e
-    content: Jay Stratton's son described being assaulted by blue and red orbs in his bedroom and witnessed black shadowy
-      humanoid figures that screamed telepathically in his head.
-    original_excerpt: The boy described being assaulted by blue and red orbs in his bedroom and witnessed 'black shadowy humanoid
-      figures' that screamed telepathically in his head.
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-    date: null
-    date_end: null
-    location_in_record: ch30:11389-11542
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: e57f7600-6f51-4a94-9da4-b990778c705e
-    claim_hash: 00e3393014549691c219e1553cb45cac3fa179e06f5d946d638380c5e5bff19a
-    content: Jay Stratton visited Skinwalker Ranch in July 2009.
-    original_excerpt: For more than 12 years following his July 2009 visit to the ranch.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-    date: 2009-07
-    date_end: null
-    location_in_record: ch30:11548-11608
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 0a5592e2-2d72-473b-ae3e-dd8e94b53538
-    claim_hash: 99644382585c42c517dc4770d74436daa037456128a164f3842f86841fd8a032
-    content: For more than 12 years following Jay Stratton's 2009-07 visit to Skinwalker Ranch, his wife and teenage children
-      were all witnesses to orbs and to a strange dogman entity lurking in the family's backyard, as well as unexplained footsteps
-      up and down the stairs in their home.
-    original_excerpt: Stratton's wife and teenage children were all witnesses to the orbs and to a strange dogman entity lurking
-      in the family's backyard, as well as unexplained footsteps up and down the stairs in their home.
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-    date: null
-    date_end: null
-    location_in_record: ch30:11615-11813
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
-    claim_hash: 2816628408a42c49a4f08f1e95e9c1545bdafcd2d84226b9aec8bf4aa0cc38e3
-    content: Jay Stratton was formerly in the US public service's Senior Executive Service and was highly decorated for his
-      32 years of service with different arms of the US military, culminating in his work with the Office of Naval Intelligence.
-    original_excerpt: Formerly in the US public service's Senior Executive Service, Stratton was highly decorated for his
-      32 years of service with different arms of the US military culminating in his work with ONI.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
-        title: Office of Naval Intelligence
-        slug: office-of-naval-intelligence
-    date: null
-    date_end: null
-    location_in_record: ch30:12162-12350
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 1d8741fe-a48a-4616-9b3a-225433de1082
-    claim_hash: fde115fc6ee1848798921fd167cd82e6fbdd50f5c16f7e915d5e349241323517
-    content: Jay Stratton acknowledged that he changed the official acronym describing the UAP phenomenon from UFO (Unidentified
-      Flying Object) to UAP (Unidentified Aerial Phenomena) while working at Skinwalker Ranch with the Advanced Aerospace
-      Threat Identification Program (AATIP) team.
-    original_excerpt: Stratton also acknowledged he changed the offi cial acronym describing the phenomenon from UFO to UAP
-      while he was at Skinwalker working with the Advance Aerospace Threat Identification Program team.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-      title: Jay Stratton
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jay Stratton
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-        title: Unidentified Flying Object (UFO)
-        slug: unidentified-flying-object-ufo
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-    date: null
-    date_end: null
-    location_in_record: ch30:12508-12702
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: c8c71a6d-1e8a-419e-ae4d-e18398d448ba
-    claim_hash: 92b4f94e5122a2e250fd6771b30a303bd06714cba21f1803ffccfa290a78abf2
-    content: Jay Stratton recognised that the term 'UFO' (Unidentified Flying Objects) did not cover the phenomena that he
-      witnessed at Skinwalker Ranch, which motivated his change of terminology to UAP.
-    original_excerpt: He did this because he recognised that 'UFO' – Unidentified Flying Objects – did not cover the phenomena
-      that he witnessed at the ranch.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-      title: Jay Stratton
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jay Stratton
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-        title: Unidentified Flying Object (UFO)
-        slug: unidentified-flying-object-ufo
-      - node_id: a0931369-67de-42b5-a58c-e687698c9999
-        title: Skinwalker Ranch
-        slug: skinwalker-ranch
-    date: null
-    date_end: null
-    location_in_record: ch30:12708-12838
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 677707c5-9a5e-4c1a-bcfc-24368dfde990
     claim_hash: 67e9490768a4a7c89aa3877eee28818120f6c2145167252c78a65c882054eefb
     content: In 2009, Jay Stratton contacted David Fravor to investigate the 2004 USS Nimitz UAP encounter.
@@ -635,6 +199,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -655,7 +224,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 3693ad8f-83a0-4f65-aa38-b5d28e3cc7b1
@@ -674,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -694,7 +268,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: f500daa6-dc78-4efb-9dd8-3ed024b0b42f
@@ -713,6 +287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -753,6 +332,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.731
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -779,6 +363,512 @@ claims:
       record_reference: null
       content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
       friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 07a8b3e4-0279-4177-bdad-0ef69a324b15
+    claim_hash: c5796b939570dadedca86c663cfe30747751c2076ff9782a81bea0f50bbe46ae
+    content: In March 2023, the former head of the Pentagon's UAP investigations team, Jay Stratton, spoke at a UAP conference
+      about his experiences at Skinwalker Ranch in Utah.
+    original_excerpt: In March 2023, no less than the former head of the Pentagon's UAP investigations team, Jay Stratton,
+      spoke candidly at a UAP conference about his experiences at Skinwalker Ranch in Utah
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: caaaa35a-7a34-42ad-91d5-536c3e9b6576
+        title: USA, Utah, Ballard
+        slug: utah-ballard-usa
+    date: 2023-03
+    date_end: null
+    location_in_record: ch30:10063-10245
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 56c2fd15-7c62-4815-bdac-38448f311583
+    claim_hash: 9689eebc22f71e9e7c5d79408c66b954b3621f91c830720880cfef4ba9281455
+    content: Jay Stratton personally witnessed a translucent entity evocative of the character from the film Predator near
+      his trailer at Skinwalker Ranch, with a rectangular shape on its chest.
+    original_excerpt: he told conference attendees that he saw a translucent entity evocative of the character from the Predator
+      movie near his trailer at the Skinwalker Ranch, with a rectangular shape on its chest
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+      title: Jay Stratton
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jay Stratton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 816ef24f-97ea-4abe-85dc-c48ccd27b32c
+        title: Predator
+        slug: predator
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: 2023-03
+    date_end: null
+    location_in_record: ch30:10595-10784
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b93c73b8-5bbd-495a-855c-e817f96c343d
+    claim_hash: 4e2d3027bebcadb45952234a08258008fbfea8bf8d3ea1c4d57d205725c90271
+    content: Jay Stratton's sighting of a translucent entity near his trailer at Skinwalker Ranch was independently corroborated
+      by his colleague Travis Taylor.
+    original_excerpt: a sighting independently corroborated by his colleague Dr Travis Taylor
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Travis Taylor
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+      - node_id: cbd5996d-9b0c-4181-98ed-99d89e052acf
+        title: Travis Taylor
+        slug: travis-taylor
+    date: 2023-03
+    date_end: null
+    location_in_record: ch30:10791-10856
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f5d051a0-ba05-4d1a-8d2d-8ae24760b87d
+    claim_hash: 9c97224b8f1664137174ed80cdcdc7d7e05ea731ec2ebb184effded8dc53028c
+    content: Jay Stratton described seeing a hovering delta-shaped UAP directly above him on his first day at Skinwalker Ranch.
+    original_excerpt: He also described seeing a hovering delta-shaped UAP directly above him on his fi rst day at the ranch.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+      title: Jay Stratton
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jay Stratton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: null
+    date_end: null
+    location_in_record: ch30:10864-10961
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 9be3ccaa-d118-4884-ad15-d89bbf853522
+    claim_hash: f648248cd477538f1e6041a36b4405df8e2f6f502f244568e6eeb7e6e66941ae
+    content: 'The Kelleher/Knapp book Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program
+      describes disturbing paranormal incidents at Jay Stratton''s family home in Virginia, which are considered an instance
+      of the ''Hitchhiker Effect'', where phenomena from Skinwalker Ranch appeared to follow Stratton home.'
+    original_excerpt: The Kelleher/Knapp Skinwalkers at the Pentagon book also mentions even more disturbing incidents at
+      Stratton's family home in Virginia. Whatever the phenomenon is at the Utah ranch, it appears to have followed him home,
+      an incidence of what is called the 'Hitchhiker Effect'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.728
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 43761788-dfac-491a-a27d-3ea8d3b3a210
+        title: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government Unidentified Flying Object (UFO)
+          Program'
+        slug: skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-unidentified-flying-object-ufo-program
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: f169c972-e1d6-4d16-a2d6-99f333f02bc0
+        title: Hitchhiker effect
+        slug: hitchhiker-effect
+    date: null
+    date_end: null
+    location_in_record: ch30:10969-11238
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e220e3b3-5ae2-45f5-83a2-9a1c3ee27cd4
+    claim_hash: 9f43e547f636ec49ee9d4d132a6135a6ef7d83305d92b5548719cdd9bbaf8103
+    content: Jay Stratton's son woke with multiple red contusions on his stomach and chest, as if somebody had repeatedly
+      and forcibly hit him.
+    original_excerpt: his son woke with multiple red contusions on his stomach and chest, 'as if somebody had repeatedly and
+      forcibly hit the boy.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: ch30:11262-11382
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2031c2a3-0dab-49f9-983e-b879bfbfeee9
+    claim_hash: 14b78a3a6cbd4ca8ffeffe6ab24812008867ff9ed0f9fb1988380cdd7f31c02e
+    content: Jay Stratton's son described being assaulted by blue and red orbs in his bedroom and witnessed black shadowy
+      humanoid figures that screamed telepathically in his head.
+    original_excerpt: The boy described being assaulted by blue and red orbs in his bedroom and witnessed 'black shadowy humanoid
+      figures' that screamed telepathically in his head.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: ch30:11389-11542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: e57f7600-6f51-4a94-9da4-b990778c705e
+    claim_hash: 00e3393014549691c219e1553cb45cac3fa179e06f5d946d638380c5e5bff19a
+    content: Jay Stratton visited Skinwalker Ranch in July 2009.
+    original_excerpt: For more than 12 years following his July 2009 visit to the ranch.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: 2009-07
+    date_end: null
+    location_in_record: ch30:11548-11608
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0a5592e2-2d72-473b-ae3e-dd8e94b53538
+    claim_hash: 99644382585c42c517dc4770d74436daa037456128a164f3842f86841fd8a032
+    content: For more than 12 years following Jay Stratton's 2009-07 visit to Skinwalker Ranch, his wife and teenage children
+      were all witnesses to orbs and to a strange dogman entity lurking in the family's backyard, as well as unexplained footsteps
+      up and down the stairs in their home.
+    original_excerpt: Stratton's wife and teenage children were all witnesses to the orbs and to a strange dogman entity lurking
+      in the family's backyard, as well as unexplained footsteps up and down the stairs in their home.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 'Skinwalkers at the Pentagon: An Insiders'' Account of the Secret Government UFO Program'
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+    date: null
+    date_end: null
+    location_in_record: ch30:11615-11813
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b370ad7f-8e35-426b-aef7-a41e8e220176
+    claim_hash: 2816628408a42c49a4f08f1e95e9c1545bdafcd2d84226b9aec8bf4aa0cc38e3
+    content: Jay Stratton was formerly in the US public service's Senior Executive Service and was highly decorated for his
+      32 years of service with different arms of the US military, culminating in his work with the Office of Naval Intelligence.
+    original_excerpt: Formerly in the US public service's Senior Executive Service, Stratton was highly decorated for his
+      32 years of service with different arms of the US military culminating in his work with ONI.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: d5646dcd-3a5c-4de2-8d21-25d7181665c1
+        title: Office of Naval Intelligence
+        slug: office-of-naval-intelligence
+    date: null
+    date_end: null
+    location_in_record: ch30:12162-12350
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1d8741fe-a48a-4616-9b3a-225433de1082
+    claim_hash: fde115fc6ee1848798921fd167cd82e6fbdd50f5c16f7e915d5e349241323517
+    content: Jay Stratton acknowledged that he changed the official acronym describing the UAP phenomenon from UFO (Unidentified
+      Flying Object) to UAP (Unidentified Aerial Phenomena) while working at Skinwalker Ranch with the Advanced Aerospace
+      Threat Identification Program (AATIP) team.
+    original_excerpt: Stratton also acknowledged he changed the offi cial acronym describing the phenomenon from UFO to UAP
+      while he was at Skinwalker working with the Advance Aerospace Threat Identification Program team.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+      title: Jay Stratton
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jay Stratton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.792
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: null
+    date_end: null
+    location_in_record: ch30:12508-12702
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c8c71a6d-1e8a-419e-ae4d-e18398d448ba
+    claim_hash: 92b4f94e5122a2e250fd6771b30a303bd06714cba21f1803ffccfa290a78abf2
+    content: Jay Stratton recognised that the term 'UFO' (Unidentified Flying Objects) did not cover the phenomena that he
+      witnessed at Skinwalker Ranch, which motivated his change of terminology to UAP.
+    original_excerpt: He did this because he recognised that 'UFO' – Unidentified Flying Objects – did not cover the phenomena
+      that he witnessed at the ranch.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+      title: Jay Stratton
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jay Stratton
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: a0931369-67de-42b5-a58c-e687698c9999
+        title: Skinwalker Ranch
+        slug: skinwalker-ranch
+    date: null
+    date_end: null
+    location_in_record: ch30:12708-12838
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b70fd8f5-473a-4ee6-9c52-f086a45e5e85
     claim_hash: 7a8f08ef7ba0589ebfbd73da8fb6d775872a7977cdd03a5fa54e5cd5edba3b5c
     content: Lue Elizondo was invited by Jim Semivan and Jay Stratton to a large group dinner for the programme team held
@@ -796,6 +886,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
         title: Jim Semivan
@@ -818,7 +913,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -838,6 +933,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -857,7 +957,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -878,6 +978,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -906,7 +1011,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -930,6 +1035,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -946,7 +1056,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -966,6 +1076,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -988,7 +1103,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1008,6 +1123,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1030,7 +1150,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1051,6 +1171,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1070,7 +1195,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1092,6 +1217,11 @@ claims:
         - Jay Stratton
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.578
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1111,7 +1241,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1131,6 +1261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.581
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1150,7 +1285,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1170,6 +1305,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1189,7 +1329,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1212,6 +1352,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1231,7 +1376,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1252,6 +1397,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.824
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1268,7 +1418,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1289,6 +1439,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47d98cb7-3dda-4514-9ae7-e83c6cc8692b
         title: John Robert
@@ -1314,7 +1469,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1337,6 +1492,11 @@ claims:
         - phone call to Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt
@@ -1362,7 +1522,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1384,6 +1544,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.775
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1400,7 +1565,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1423,6 +1588,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.767
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1448,7 +1618,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1470,6 +1640,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1489,7 +1664,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1511,6 +1686,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1bd67c4e-3412-45c3-844a-e543cb2dcc7a
         title: USS Roosevelt
@@ -1530,12 +1710,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 3e74a9cc-0464-48e1-a915-9acbf7fda48b
-    claim_hash: 291d2de916b07d0a0b7f8b1a0337da1f9fdbb835d7c3fd15d24dbab7db570ca5
+    claim_hash: 17b7a812af0adf07fef40b3eb82a0f4bbd03742f3948c5f61154fcbf0de2111d
     content: Harold Puthoff suggested to Jay Stratton that they meet with Jim Semivan at the Pentagon.
     original_excerpt: Hal suggested to Jay that we meet with Jim at the Pentagon.
     claim_type: administrative
@@ -1549,6 +1729,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
         title: Jim Semivan
@@ -1571,7 +1756,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1592,6 +1777,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1617,7 +1807,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1636,6 +1826,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1655,7 +1850,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1677,6 +1872,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1696,7 +1896,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1716,6 +1916,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.879
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1735,7 +1940,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1756,6 +1961,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1772,7 +1982,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1792,6 +2002,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.677
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1808,7 +2023,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1829,6 +2044,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.666
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1851,7 +2071,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1872,6 +2092,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.864
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1900,7 +2125,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1922,6 +2147,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.681
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1941,7 +2171,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1962,6 +2192,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.592
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1987,7 +2222,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2009,6 +2244,11 @@ claims:
         - Jay Stratton
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.585
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2031,7 +2271,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2053,6 +2293,11 @@ claims:
         - Jay Stratton
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.641
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2069,7 +2314,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2091,6 +2336,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.369
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -2116,7 +2366,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2138,6 +2388,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.495
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2160,7 +2415,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2183,6 +2438,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.723
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2205,7 +2465,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2226,6 +2486,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2242,7 +2507,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2264,6 +2529,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.548
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -2286,7 +2556,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2305,6 +2575,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.699
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 497abb4e-7675-4eba-b378-d1bd6ae3b0a5
         title: Five Pillars of Engagement
@@ -2327,7 +2602,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2348,6 +2623,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
         title: United States Department of Energy (DOE)
@@ -2373,7 +2653,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2396,6 +2676,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.479
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2415,7 +2700,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2438,6 +2723,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2460,7 +2750,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2479,6 +2769,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.516
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -2495,7 +2790,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2516,6 +2811,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2535,7 +2835,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2556,6 +2856,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -2578,7 +2883,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2599,6 +2904,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.42
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -2615,7 +2925,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2636,6 +2946,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.562
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -2655,7 +2970,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2675,6 +2990,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e1eff30-bd84-4fec-ada2-a46d2f8bd636
         title: Rosemary Caine
@@ -2694,7 +3014,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2714,6 +3034,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e1eff30-bd84-4fec-ada2-a46d2f8bd636
         title: Rosemary Caine
@@ -2730,7 +3055,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2751,6 +3076,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.39
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2773,7 +3103,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2794,6 +3124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2813,7 +3148,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2837,6 +3172,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2853,7 +3193,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2872,6 +3212,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -2905,6 +3250,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -2941,6 +3291,11 @@ claims:
         - Hal Puthoff
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -2982,6 +3337,11 @@ claims:
         - Hal Puthoff
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.86
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -3021,6 +3381,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -3062,6 +3427,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -3106,6 +3476,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.731
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski

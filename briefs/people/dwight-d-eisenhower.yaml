@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: df61d8427b03fe1dd051b5ed6d2022b841ea8a5e6a03aafed839fbca405e2ffa
+brief_hash: 82c25271034337da4cd0505b7fe25fa525c24d7941cd426308875c4f68f5e510
 page:
   kind: entity
   node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
@@ -9,11 +9,21 @@ page:
   claim_count: 24
   claim_count_total: 24
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 24
   tokens_estimated: 3907
   sized_against: 1050000
+entailment:
+  assessed: 24
+  unassessed: 0
+  entails: 23
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 6
+  entailed_by_window: 17
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.708
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -93,11 +103,6 @@ related_nodes:
     node_type: event
     slug: 1961-07-13-cape-cod-hyannis-kennedy-out-of-body-experience-robert-monroe
     shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
-    shared_claims: 1
   - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
     title: Cattle mutilation
     node_type: topic
@@ -173,6 +178,11 @@ related_nodes:
     node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
     shared_claims: 1
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 1
 claims:
   - claim_id: 15d2fef0-5959-4d79-90ff-d44ceb73e3e6
     claim_hash: 6d80c15fd4a3ee509a05baa90a075d12f014d099bf1f5a333bb4b1bf282d59d4
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.795
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 20c2fa52-4b79-4ec3-a3f9-c41ad98baa20
         title: USA, California, Palm Springs
@@ -237,6 +252,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.759
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
         title: Winston Churchill
@@ -282,6 +302,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3fdaa103-1755-4604-bca5-8a59b9990ed4
         title: Hugh L. Dryden
@@ -323,6 +348,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1509913e-5dc2-44ee-bbdc-4e37daea7fe3
         title: Jaime Shandera
@@ -360,6 +390,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -401,6 +436,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.836
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 99d496fc-1624-4539-a7b0-85cdd97aae43
         title: Military-industrial complex
@@ -440,6 +480,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99d496fc-1624-4539-a7b0-85cdd97aae43
         title: Military-industrial complex
@@ -463,6 +508,175 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 80c26e04-971b-437d-80c1-439ad5baca2f
+    claim_hash: af8314018c1fa608883fbb5597e7dc0878aa337189814216de29a3b494e44499
+    content: President Dwight D. Eisenhower authorised Project Aquatone to develop the U-2 Dragon Lady, a high-altitude reconnaissance
+      aircraft to collect intelligence on Soviet nuclear deployments.
+    original_excerpt: President Eisenhower authorized Project Aquatone to develop the U-2 Dragon Lady, a high-altitude reconnaissance
+      aircraft to collect intelligence on Soviet nuclear deployments.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.859
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 66c00f2a-3256-46ed-8e02-3c4d9efc1c38
+        title: U-2 Dragon Lady
+        slug: u-2-dragon-lady
+      - node_id: c43b307f-abf1-488c-8d54-5f863b98030d
+        title: Project Aquatone
+        slug: project-aquatone
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: '1954'
+    date_end: null
+    location_in_record: char:122138-122301
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: e20227df-6fc2-46ef-894d-db6f625bdd73
+    claim_hash: 7e6b61d406e5fe54613d83d6cc6edc9a243176ca95b283cb2ea38fb1e7341446
+    content: Following the launch of Sputnik, the Eisenhower Administration made the WS-117L satellite reconnaissance programme
+      a high priority.
+    original_excerpt: Following the launch of Sputnik, the Eisenhower Administration made this program a high-priority.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.512
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: null
+    date_end: null
+    location_in_record: char:123645-123733
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: a981e9c9-720e-4314-aa44-87c364723d8e
+    claim_hash: 79401274e6abe333ec3c4fefe162a7939aebcf5684249b924bd0aa11cbe8da44
+    content: In February 1958, President Dwight D. Eisenhower decided the Central Intelligence Agency would have the lead
+      role in the WS-117L/CORONA program, called "CORONA," jointly managed alongside the United States Air Force.
+    original_excerpt: In February 1958, President Eisenhower decided the CIA would have the lead role in the program, called
+      "CORONA," and that it would be jointly managed alongside the USAF.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: 1958-02
+    date_end: null
+    location_in_record: char:123743-123907
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
+    claim_hash: ea50173728e8a93b9e8d856dae3bedecf6d543f78569d50f7cebaaeebce29b64
+    content: President Dwight D. Eisenhower approved the CIA-led Project OXCART programme to develop a successor to the U-2
+      spy plane in 1958, which became fully operational in 1965.
+    original_excerpt: President Eisenhower approved this CIA-led program to develop a successor to the U-2 spy plane in 1958,
+      which became fully operational in 1965.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 66c00f2a-3256-46ed-8e02-3c4d9efc1c38
+        title: U-2 Dragon Lady
+        slug: u-2-dragon-lady
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: '1958'
+    date_end: null
+    location_in_record: char:126286-126424
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: ebd1ae38-dd77-469e-a408-2d86f274bff8
     claim_hash: 1cc3aa7bd2a6c9098fb26382cd93b95133c4bc4e77deb9cf96c78d5c50dbb93f
     content: 'Luis Elizondo believes the following US presidents were briefed in some way on UAP: Harry Truman, Dwight Eisenhower,
@@ -480,6 +694,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
         title: Lyndon B. Johnson
@@ -517,159 +736,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 80c26e04-971b-437d-80c1-439ad5baca2f
-    claim_hash: af8314018c1fa608883fbb5597e7dc0878aa337189814216de29a3b494e44499
-    content: President Dwight D. Eisenhower authorised Project Aquatone to develop the U-2 Dragon Lady, a high-altitude reconnaissance
-      aircraft to collect intelligence on Soviet nuclear deployments.
-    original_excerpt: President Eisenhower authorized Project Aquatone to develop the U-2 Dragon Lady, a high-altitude reconnaissance
-      aircraft to collect intelligence on Soviet nuclear deployments.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 66c00f2a-3256-46ed-8e02-3c4d9efc1c38
-        title: U-2 Dragon Lady
-        slug: u-2-dragon-lady
-      - node_id: c43b307f-abf1-488c-8d54-5f863b98030d
-        title: Project Aquatone
-        slug: project-aquatone
-      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-        title: Dwight D. Eisenhower
-        slug: dwight-d-eisenhower
-    date: '1954'
-    date_end: null
-    location_in_record: char:122138-122301
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: e20227df-6fc2-46ef-894d-db6f625bdd73
-    claim_hash: 7e6b61d406e5fe54613d83d6cc6edc9a243176ca95b283cb2ea38fb1e7341446
-    content: Following the launch of Sputnik, the Eisenhower Administration made the WS-117L satellite reconnaissance programme
-      a high priority.
-    original_excerpt: Following the launch of Sputnik, the Eisenhower Administration made this program a high-priority.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-        title: Dwight D. Eisenhower
-        slug: dwight-d-eisenhower
-    date: null
-    date_end: null
-    location_in_record: char:123645-123733
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: a981e9c9-720e-4314-aa44-87c364723d8e
-    claim_hash: 79401274e6abe333ec3c4fefe162a7939aebcf5684249b924bd0aa11cbe8da44
-    content: In February 1958, President Dwight D. Eisenhower decided the Central Intelligence Agency would have the lead
-      role in the WS-117L/CORONA program, called "CORONA," jointly managed alongside the United States Air Force.
-    original_excerpt: In February 1958, President Eisenhower decided the CIA would have the lead role in the program, called
-      "CORONA," and that it would be jointly managed alongside the USAF.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-        title: Dwight D. Eisenhower
-        slug: dwight-d-eisenhower
-    date: 1958-02
-    date_end: null
-    location_in_record: char:123743-123907
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 13d5e110-12cc-4e8d-85d7-6e4d6a91dfbb
-    claim_hash: ea50173728e8a93b9e8d856dae3bedecf6d543f78569d50f7cebaaeebce29b64
-    content: President Dwight D. Eisenhower approved the CIA-led Project OXCART programme to develop a successor to the U-2
-      spy plane in 1958, which became fully operational in 1965.
-    original_excerpt: President Eisenhower approved this CIA-led program to develop a successor to the U-2 spy plane in 1958,
-      which became fully operational in 1965.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 66c00f2a-3256-46ed-8e02-3c4d9efc1c38
-        title: U-2 Dragon Lady
-        slug: u-2-dragon-lady
-      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-        title: Dwight D. Eisenhower
-        slug: dwight-d-eisenhower
-    date: '1958'
-    date_end: null
-    location_in_record: char:126286-126424
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 21fc3a8e-e021-4578-ace4-d2fa01dcbf3f
     claim_hash: 2ac36ddf8c5f5131544b01e8b9a6e21f82a70c326c63c6bedfe4e919ab6c1fd6
     content: Top constitutional lawyers consulted by Ross Coulthart can see no basis under which successive United States
@@ -690,13 +760,18 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.855
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
         slug: harry-s-truman
@@ -739,6 +814,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -784,6 +864,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.59
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 520806c0-ec83-4da9-8d00-4c0c9f33d7c9
         title: Eisenhower extraterrestrial treaty (alleged)
@@ -825,6 +910,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.646
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
         title: Greys (extraterrestrial beings)
@@ -866,6 +956,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -913,6 +1008,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -954,6 +1054,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.606
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -990,6 +1095,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1030,6 +1140,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -1075,6 +1190,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1102,7 +1222,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 00d0e6f0-8b98-4385-93c2-8cc0560ffdb6
-    claim_hash: 401470c2bae4ee0db49a71f08cf24dc47fb95904642b8f0c79480047802e0ec2
+    claim_hash: 24784554a0d08b739695917c0e59d0f88f326fe6ecd306957c7b04a34adbda08
     content: Dwight D. Eisenhower is rumoured to have made a deal with aliens in 1954 permitting medical experiments to be
       carried out on the human population.
     original_excerpt: Eisenhower is rumored to, you know, do his deal with the aliens around allowing medical experiments
@@ -1119,10 +1239,15 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
       - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
         title: USA, California, Edwards Air Force Base
         slug: california-edwards-air-force-base-usa
@@ -1159,6 +1284,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
         title: Richard Nixon

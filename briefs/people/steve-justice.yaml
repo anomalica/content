@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: b1383baf80c743e441e322f25ee016695a1dd1a26a0c366a7c264ee904c88f0e
+brief_hash: d0424da842885289b237466b1882b216ff739016848162a7936e36d6dca2395e
 page:
   kind: entity
   node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
@@ -9,11 +9,21 @@ page:
   claim_count: 39
   claim_count_total: 39
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 39
   tokens_estimated: 5006
   sized_against: 1050000
+entailment:
+  assessed: 39
+  unassessed: 0
+  entails: 22
+  neutral: 14
+  contradicts: 3
+  entailed_by_quote: 11
+  entailed_by_window: 11
+  entailed_by_quote_fraction: 0.282
+  entailed_by_window_fraction: 0.282
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -131,6 +141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -166,6 +181,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
         title: Lockheed Martin Skunk Works
@@ -186,660 +206,6 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-  - claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
-    claim_hash: 3c00896f4d4335909d0a954092caf4c7442d3cb29bb70af32c590ce82bc4de4d
-    content: Steve Justice headed To The Stars Academy of Arts & Sciences' aerospace division at its 2017 launch.
-    original_excerpt: Another team member on stage, heading TTSA's aerospace division, was Steve Justice
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch21:1170-1272
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
-    claim_hash: 704b8b524292e1cfc9a133c5571b00957b9b682a7af537f195ef90cb5ed4fc98
-    content: Steve Justice had, a month before the October 2017 To The Stars Academy of Arts & Sciences launch, finished as
-      director of advanced systems at Lockheed Martin Skunk Works.
-    original_excerpt: who just a month earlier had finished as director of advanced systems at Lockheed Martin Skunk Works
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-        title: Lockheed Martin Skunk Works
-        slug: lockheed-martin-skunk-works
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch21:1281-1376
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
-    claim_hash: 8cce556b76a6d59eeb781d13a3cadd3197cc311a226fab5936c46d042115bffe
-    content: Speculation mounted for months that Christopher Mellon, Luis Elizondo, and Steve Justice were leaving To The
-      Stars Academy of Arts & Sciences.
-    original_excerpt: Speculation had mounted for months that former Defence Department mandarin Christopher Mellon and key
-      figures Luis Elizondo and Steve Justice were leaving TTSA.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch21:23469-23624
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
-    claim_hash: 291bd92e602ef19ec7c4ba3ff67153915ce1f59bbca9416df69a515d687e46fb
-    content: It took Tom DeLonge several months to formally admit to the Securities and Exchange Commission that Christopher
-      Mellon, Luis Elizondo, and Steve Justice had departed To The Stars Academy of Arts & Sciences.
-    original_excerpt: it took Tom DeLonge several more months to formally admit to the Securities Exchange Commission not
-      only their departure
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
-        title: Securities and Exchange Commission (SEC)
-        slug: securities-and-exchange-commission-sec
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-        title: Tom DeLonge
-        slug: tom-delonge
-    date: null
-    date_end: null
-    location_in_record: ch21:23699-23837
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
-    claim_hash: bbb088d74da67be489d735a1e09b0f5c5904d991dbe55ef229f5024c3328dd7d
-    content: Steve Justice was Chief Operating Officer of To The Stars Academy of Arts & Sciences.
-    original_excerpt: Steve Justice, Chief Operating Officer of TTSA and former head of Advanced Systems at Lockheed Martin's
-      Skunk Works
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch21:9242-9352
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
-    claim_hash: 87da5540c3a1ecf1bdcb88311fbafdc2332a761b29c2afdaf0ad48285499174f
-    content: Steve Justice was former head of Advanced Systems at Lockheed Martin's Skunk Works.
-    original_excerpt: former head of Advanced Systems at Lockheed Martin's Skunk Works
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-        title: Lockheed Martin Skunk Works
-        slug: lockheed-martin-skunk-works
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch21:9293-9352
-    evidence:
-      score: null
-      independent_sources: 2
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
-    claim_hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
-    content: Steve Justice is a former Lockheed Martin Skunk Works executive who was affiliated with To The Stars Academy
-      of Arts & Sciences.
-    original_excerpt: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-        title: Lockheed Martin Skunk Works
-        slug: lockheed-martin-skunk-works
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch22:21142-21199
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: bf86b2a2-94a5-4368-a500-7a138736fc72
-    claim_hash: d3771c047a24bf4f3e7c8cdee894270c58f8023d95b6e6bf43527f8da9307eef
-    content: Steve Justice fears that an adversary has already discovered the technology behind the observed UAP and that
-      the United States is far behind.
-    original_excerpt: My greatest fear is that an adversary did figure it out and we are just way, way, way behind.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-      title: Steve Justice
-    provenance_chain:
-      origin_kind: speaker
-      origin: Steve Justice
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch22:21217-21303
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
-    claim_hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
-    content: Before he left TTSA in 2021, former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's aerospace division.
-    original_excerpt: Before he left TTSA in 2021, the former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's
-      aerospace division
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-        title: Lockheed Martin Skunk Works
-        slug: lockheed-martin-skunk-works
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: '2021'
-    date_end: null
-    location_in_record: ch23:16038-16150
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
-    claim_hash: e08b9b69b75fb29faa90a9912a58aa8c8ac6e95a5d9bf4ecea13a37ec00db0b8
-    content: In a 2019 tweeted announcement, TTSA posted an image of the bent lump of layered metal from the Art's Parts samples
-      with a quote from then-COO Steve Justice that the structure and composition of the materials are not from any known
-      existing military or commercial application.
-    original_excerpt: 'Another hint came in a tweeted TTSA announcement in 2019, when it posted an image of the strange bent
-      lump of layered metal from the Art''s Parts samples saying: ''"The structure & composition of these materials are not
-      from any known existing military or commercial application," said [then] COO Steve Justice.'
-    claim_type: administrative
-    attestation: second_hand
-    speaker:
-      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-      title: Steve Justice
-    provenance_chain:
-      origin_kind: speaker
-      origin: Steve Justice
-      relay:
-        - a TTSA tweet
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
-        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
-          vehicle
-        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
-        title: Art's Parts (alleged Roswell metal samples)
-        slug: arts-parts-alleged-roswell-metal-samples
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: '2019'
-    date_end: null
-    location_in_record: ch23:18158-18459
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
-    claim_hash: 39fc5e314c9a441e4d361ab446ba6c774abc55bcf246c42af5bbbde6234d84d5
-    content: Steve Justice stated in the 2019 TTSA tweet that they are focusing on verifiable facts and working to develop
-      independent scientific proof of the materials' properties and attributes.
-    original_excerpt: '"We are focusing on verifiable facts and working to develop independent scientific proof of the materials''
-      properties & attributes".'
-    claim_type: administrative
-    attestation: second_hand
-    speaker:
-      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-      title: Steve Justice
-    provenance_chain:
-      origin_kind: speaker
-      origin: Steve Justice
-      relay:
-        - a TTSA tweet
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
-        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
-          vehicle
-        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: '2019'
-    date_end: null
-    location_in_record: ch23:18469-18588
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ae288279-4321-4651-ad08-654c6e8ebf02
-    claim_hash: d30f3c28824a888d9823004dc2fb24aa87e5ff69aa0a2a4b286021d6e260f47c
-    content: In the Unidentified documentary series on the History Channel, Luis Elizondo tells Steve Justice, then Director
-      of To The Stars Academy of Arts & Sciences' aerospace division, that the company has multiple metamaterials samples
-      from numerous sources, including government sources.
-    original_excerpt: Season one of TTSA's Unidentified documentary series on the History Channel has a sequence where Luis
-      Elizondo tells the then Director of the company's aerospace division, Steve Justice, that they now have multiple metamaterials
-      samples from numerous sources, including government sources.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Luis Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
-        title: 'Unidentified: Inside America''s UFO Investigation'
-        slug: unidentified-inside-americas-ufo-investigation
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch24:6403-6686
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
-    claim_hash: e1fc0963b3beb4dad4a4953dd71ef25bd437e4d68b5b0ba02029c8f17df2cd95
-    content: Steve Justice said the expectations placed on him regarding To The Stars Academy of Arts & Sciences' metamaterials
-      work were huge, and that performance had to follow such high expectations.
-    original_excerpt: '''The expectations were huge. When the expectations are extremely high, performance has to follow.
-      And so, performing is key to me now,'' Steve Justice admitted.'
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-      title: Steve Justice
-    provenance_chain:
-      origin_kind: speaker
-      origin: Steve Justice
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch24:7121-7270
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
-    claim_hash: 2373aefa3616ac8a621a6f7a4eeeb390d5c275502b0f20e68744b315746772ae
-    content: Steve Justice left the To The Stars Academy of Arts & Sciences project.
-    original_excerpt: the fact that Steve Justice has walked away from the project suggests something came off the rails
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: unattributed narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch24:7444-7537
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
-    claim_hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
-    content: At the To The Stars Academy of Arts & Sciences (TTSA) launch on 2017-10-11, Steve Justice, then the Skunk Works
-      Lockheed Martin Program Director for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic
-      Vehicle that could dramatically reduce current travel limits of distance and time.
-    original_excerpt: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed Martin Program Director
-      for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically
-      reduce the current travel limits of distance and time.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-      title: Steve Justice
-    provenance_chain:
-      origin_kind: named
-      origin: Steve Justice
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
-        title: Lockheed Martin Skunk Works
-        slug: lockheed-martin-skunk-works
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-        title: 2017 To The Stars Academy of Arts & Sciences launch event
-        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: '2017-10-11'
-    date_end: null
-    location_in_record: ch28:6936-7213
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 5709d803-d1ad-43f8-89c6-fb29dafc18ad
-    claim_hash: 9525be2c70455c4e6b0f5f09dd2bd52b891dc4d52ebc9d6fda7c123985f6ceb0
-    content: Steve Justice said the Advanced Electromagnetic Vehicle mimics the capabilities observed in unidentified aerial
-      phenomena (UAP) by employing a drive system that alters the space-time metric.
-    original_excerpt: It mimics the capabilities observed in Unidentified Aerial Phenomenon by employing a drive system that
-      alters the space-time metric'.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-      title: Steve Justice
-    provenance_chain:
-      origin_kind: named
-      origin: Steve Justice
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 911da153-0f60-456f-be3d-03bc393882a2
-        title: Vacuum spacetime metric engineering
-        slug: vacuum-spacetime-metric-engineering
-      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
-        title: 2017 To The Stars Academy of Arts & Sciences launch event
-        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: '2017-10-11'
-    date_end: null
-    location_in_record: ch28:7219-7344
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
-    claim_hash: 8f021780b3b464f38475d71375955f1dfa3414907f662d4e98c4481f8fe7b332
-    content: Ross Coulthart considers it possible that Steve Justice's departure from To The Stars Academy of Arts & Sciences
-      (TTSA) meant the Advanced Electromagnetic Vehicle project was shut down.
-    original_excerpt: Does Steve Justice's departure from TTSA mean that this revolutionary vehicle project was shut down?
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-      title: Ross Coulthart
-    provenance_chain:
-      origin_kind: speaker
-      origin: Ross Coulthart
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
-        title: To the Stars Academy of Arts and Science (TTSA)
-        slug: to-the-stars-academy-of-arts-and-science-ttsa
-      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
-        title: Steve Justice
-        slug: steve-justice
-    date: null
-    date_end: null
-    location_in_record: ch28:7517-7612
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 60718dbf-3218-4794-bc22-9b5da564d285
     claim_hash: 802850f628c27d46fbb2bf8a5c7f3d6ca2d76c7c09a02a09a8175a9e9488c949
     content: Luis Elizondo left the Pentagon in protest and joined with Tom DeLonge, Chris Mellon, and Steve Justice to form
@@ -857,6 +223,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -883,7 +254,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 5f155a23-b54a-4d82-adbb-33675b47e448
@@ -903,6 +274,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -935,6 +311,745 @@ claims:
       record_reference: null
       content_hash: sha256:7bf2c20d6c47ab3bf00c718edd0baaff3c925a72cead21aa5a62b9448520c64a
       friendly_name: 2023-07-26-pdf-david-fravor-statement-for-the-house-oversight-committee
+  - claim_id: 21d4b51c-b61c-4c75-849b-95ef1d37daa7
+    claim_hash: 3c00896f4d4335909d0a954092caf4c7442d3cb29bb70af32c590ce82bc4de4d
+    content: Steve Justice headed To The Stars Academy of Arts & Sciences' aerospace division at its 2017 launch.
+    original_excerpt: Another team member on stage, heading TTSA's aerospace division, was Steve Justice
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.904
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:1170-1272
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6f60ad98-6c37-4619-ada2-cd8d385705f4
+    claim_hash: 704b8b524292e1cfc9a133c5571b00957b9b682a7af537f195ef90cb5ed4fc98
+    content: Steve Justice had, a month before the October 2017 To The Stars Academy of Arts & Sciences launch, finished as
+      director of advanced systems at Lockheed Martin Skunk Works.
+    original_excerpt: who just a month earlier had finished as director of advanced systems at Lockheed Martin Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:1281-1376
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 4b297bdc-12ce-4fc8-8fbc-c135321c4275
+    claim_hash: 8cce556b76a6d59eeb781d13a3cadd3197cc311a226fab5936c46d042115bffe
+    content: Speculation mounted for months that Christopher Mellon, Luis Elizondo, and Steve Justice were leaving To The
+      Stars Academy of Arts & Sciences.
+    original_excerpt: Speculation had mounted for months that former Defence Department mandarin Christopher Mellon and key
+      figures Luis Elizondo and Steve Justice were leaving TTSA.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:23469-23624
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bd9f3ce3-82d8-4abf-8257-6c27e6d5536e
+    claim_hash: 291bd92e602ef19ec7c4ba3ff67153915ce1f59bbca9416df69a515d687e46fb
+    content: It took Tom DeLonge several months to formally admit to the Securities and Exchange Commission that Christopher
+      Mellon, Luis Elizondo, and Steve Justice had departed To The Stars Academy of Arts & Sciences.
+    original_excerpt: it took Tom DeLonge several more months to formally admit to the Securities Exchange Commission not
+      only their departure
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+        title: Securities and Exchange Commission (SEC)
+        slug: securities-and-exchange-commission-sec
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch21:23699-23837
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d8bee6c2-0d08-48f2-84be-b607c8ced809
+    claim_hash: bbb088d74da67be489d735a1e09b0f5c5904d991dbe55ef229f5024c3328dd7d
+    content: Steve Justice was Chief Operating Officer of To The Stars Academy of Arts & Sciences.
+    original_excerpt: Steve Justice, Chief Operating Officer of TTSA and former head of Advanced Systems at Lockheed Martin's
+      Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:9242-9352
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7db5d234-5f6b-4af9-a15c-23b724ad8a79
+    claim_hash: 87da5540c3a1ecf1bdcb88311fbafdc2332a761b29c2afdaf0ad48285499174f
+    content: Steve Justice was former head of Advanced Systems at Lockheed Martin's Skunk Works.
+    original_excerpt: former head of Advanced Systems at Lockheed Martin's Skunk Works
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch21:9293-9352
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d502da75-f4fe-4ee1-ac64-36f0a320ce65
+    claim_hash: 49b646b8006ba30ff9a6481f594bc7990809bbae9119b47b8f9e5443bac24ff4
+    content: Steve Justice is a former Lockheed Martin Skunk Works executive who was affiliated with To The Stars Academy
+      of Arts & Sciences.
+    original_excerpt: TTSA’s Steve Justice, former Lockheed Martin Skunk Works executive
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch22:21142-21199
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: bf86b2a2-94a5-4368-a500-7a138736fc72
+    claim_hash: d3771c047a24bf4f3e7c8cdee894270c58f8023d95b6e6bf43527f8da9307eef
+    content: Steve Justice fears that an adversary has already discovered the technology behind the observed UAP and that
+      the United States is far behind.
+    original_excerpt: My greatest fear is that an adversary did figure it out and we are just way, way, way behind.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch22:21217-21303
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: cb96298a-ccfc-4eb7-9664-e97a007c094d
+    claim_hash: 065352098851bb5aefc54c3bcac76855db5995e029a0e41372b5f9fb607d2e0a
+    content: Before he left TTSA in 2021, former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's aerospace division.
+    original_excerpt: Before he left TTSA in 2021, the former Lockheed Martin Skunk Works engineer Steve Justice led TTSA's
+      aerospace division
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2021'
+    date_end: null
+    location_in_record: ch23:16038-16150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 0c7a04be-11d0-4c3d-8ce6-0f8d525a5440
+    claim_hash: e08b9b69b75fb29faa90a9912a58aa8c8ac6e95a5d9bf4ecea13a37ec00db0b8
+    content: In a 2019 tweeted announcement, TTSA posted an image of the bent lump of layered metal from the Art's Parts samples
+      with a quote from then-COO Steve Justice that the structure and composition of the materials are not from any known
+      existing military or commercial application.
+    original_excerpt: 'Another hint came in a tweeted TTSA announcement in 2019, when it posted an image of the strange bent
+      lump of layered metal from the Art''s Parts samples saying: ''"The structure & composition of these materials are not
+      from any known existing military or commercial application," said [then] COO Steve Justice.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay:
+        - a TTSA tweet
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+          vehicle
+        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b3cf86b5-f814-4aae-a7a9-48377ef712c9
+        title: Art's Parts (alleged Roswell metal samples)
+        slug: arts-parts-alleged-roswell-metal-samples
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2019'
+    date_end: null
+    location_in_record: ch23:18158-18459
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b4d2ca8f-3957-444d-b666-f57a1be3c4e6
+    claim_hash: 39fc5e314c9a441e4d361ab446ba6c774abc55bcf246c42af5bbbde6234d84d5
+    content: Steve Justice stated in the 2019 TTSA tweet that they are focusing on verifiable facts and working to develop
+      independent scientific proof of the materials' properties and attributes.
+    original_excerpt: '"We are focusing on verifiable facts and working to develop independent scientific proof of the materials''
+      properties & attributes".'
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay:
+        - a TTSA tweet
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 389d0c85-b557-433e-8054-107e29b1de11
+        title: 2019 To The Stars Academy of Arts & Sciences (TTSA) Twitter claim about metamaterials from an advanced aerospace
+          vehicle
+        slug: 2019-to-the-stars-academy-of-arts-sciences-ttsa-twitter-claim-about-metamaterials-from-an-advanced-aerospace-vehicle
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2019'
+    date_end: null
+    location_in_record: ch23:18469-18588
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ae288279-4321-4651-ad08-654c6e8ebf02
+    claim_hash: d30f3c28824a888d9823004dc2fb24aa87e5ff69aa0a2a4b286021d6e260f47c
+    content: In the Unidentified documentary series on the History Channel, Luis Elizondo tells Steve Justice, then Director
+      of To The Stars Academy of Arts & Sciences' aerospace division, that the company has multiple metamaterials samples
+      from numerous sources, including government sources.
+    original_excerpt: Season one of TTSA's Unidentified documentary series on the History Channel has a sequence where Luis
+      Elizondo tells the then Director of the company's aerospace division, Steve Justice, that they now have multiple metamaterials
+      samples from numerous sources, including government sources.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.702
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 2658cc67-2b0a-4b7f-a324-f1fa16dc21b7
+        title: 'Unidentified: Inside America''s UFO Investigation'
+        slug: unidentified-inside-americas-ufo-investigation
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch24:6403-6686
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2c9764af-1fb0-432f-a6bc-ef91aa3f3502
+    claim_hash: e1fc0963b3beb4dad4a4953dd71ef25bd437e4d68b5b0ba02029c8f17df2cd95
+    content: Steve Justice said the expectations placed on him regarding To The Stars Academy of Arts & Sciences' metamaterials
+      work were huge, and that performance had to follow such high expectations.
+    original_excerpt: '''The expectations were huge. When the expectations are extremely high, performance has to follow.
+      And so, performing is key to me now,'' Steve Justice admitted.'
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: speaker
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch24:7121-7270
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a6ad6337-0efa-4c0b-b2a3-21c02cbc0a16
+    claim_hash: 2373aefa3616ac8a621a6f7a4eeeb390d5c275502b0f20e68744b315746772ae
+    content: Steve Justice left the To The Stars Academy of Arts & Sciences project.
+    original_excerpt: the fact that Steve Justice has walked away from the project suggests something came off the rails
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch24:7444-7537
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f36be07b-772b-495e-bf18-61a2d52681bb
+    claim_hash: 45f5ec3ec96ff8124f345f7edb01400098146b39f4262009016a0a0546599e64
+    content: At the To The Stars Academy of Arts & Sciences (TTSA) launch on 2017-10-11, Steve Justice, then the Skunk Works
+      Lockheed Martin Program Director for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic
+      Vehicle that could dramatically reduce current travel limits of distance and time.
+    original_excerpt: At TTSA's October 2017 launch, Steve Justice, the then Skunk Works Lockheed Martin Program Director
+      for Advanced Systems, stated that TTSA was working on a revolutionary Advanced Electromagnetic Vehicle that could 'dramatically
+      reduce the current travel limits of distance and time.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+        title: Lockheed Martin Skunk Works
+        slug: lockheed-martin-skunk-works
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+        title: 2017 To The Stars Academy of Arts & Sciences launch event
+        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2017-10-11'
+    date_end: null
+    location_in_record: ch28:6936-7213
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5709d803-d1ad-43f8-89c6-fb29dafc18ad
+    claim_hash: 9525be2c70455c4e6b0f5f09dd2bd52b891dc4d52ebc9d6fda7c123985f6ceb0
+    content: Steve Justice said the Advanced Electromagnetic Vehicle mimics the capabilities observed in unidentified aerial
+      phenomena (UAP) by employing a drive system that alters the space-time metric.
+    original_excerpt: It mimics the capabilities observed in Unidentified Aerial Phenomenon by employing a drive system that
+      alters the space-time metric'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      title: Steve Justice
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Justice
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 911da153-0f60-456f-be3d-03bc393882a2
+        title: Vacuum spacetime metric engineering
+        slug: vacuum-spacetime-metric-engineering
+      - node_id: a9d85028-fd6a-497a-bb79-1d6806f751fe
+        title: 2017 To The Stars Academy of Arts & Sciences launch event
+        slug: 2017-to-the-stars-academy-of-arts-sciences-launch-event
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: '2017-10-11'
+    date_end: null
+    location_in_record: ch28:7219-7344
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 361f3868-e1a1-4004-bcc5-9b28cf83901d
+    claim_hash: 8f021780b3b464f38475d71375955f1dfa3414907f662d4e98c4481f8fe7b332
+    content: Ross Coulthart considers it possible that Steve Justice's departure from To The Stars Academy of Arts & Sciences
+      (TTSA) meant the Advanced Electromagnetic Vehicle project was shut down.
+    original_excerpt: Does Steve Justice's departure from TTSA mean that this revolutionary vehicle project was shut down?
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+        title: To the Stars Academy of Arts and Science (TTSA)
+        slug: to-the-stars-academy-of-arts-and-science-ttsa
+      - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+        title: Steve Justice
+        slug: steve-justice
+    date: null
+    date_end: null
+    location_in_record: ch28:7517-7612
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 78d203a4-fae9-4bc7-bb3b-baa980e13cf4
     claim_hash: f14e53664cb6907d14478a3c03623a873904ddff493ddd0d4ea84553cff1d801
     content: Steve Justice is a former director of Advanced Systems Development at Lockheed Martin's Skunk Works division.
@@ -951,6 +1066,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
         title: Lockheed Martin Skunk Works
@@ -967,7 +1087,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -987,6 +1107,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
         title: Steve Justice
@@ -1000,7 +1125,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1019,6 +1144,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
         title: Lockheed Martin Skunk Works
@@ -1038,12 +1168,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 322abff2-064d-4715-854d-a05b5bdb15ea
-    claim_hash: 5ffa556509592797ddf35d7df2d061842c1d1feafeeba248a6235d8d2e2352ff
+    claim_hash: bfb026ce5f0fbb677d758a9e3afb8ca3d2720e58ff4335099beab714bae23760
     content: Christopher Mellon, Harold Puthoff, and Steve Justice moved on from To The Stars Academy (TTSA) after Lue Elizondo
       did.
     original_excerpt: Chris, Hal, and Steve Justice also soon moved on from TTSA.
@@ -1058,6 +1188,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -1080,7 +1215,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1099,6 +1234,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -1136,6 +1276,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
         title: Lockheed Martin Skunk Works
@@ -1171,6 +1316,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -1208,6 +1358,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -1243,6 +1398,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -1277,6 +1437,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
         title: To the Stars Academy of Arts and Science (TTSA)
@@ -1312,6 +1477,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
         title: US Air Force magazine article on the U-2 (1976)
@@ -1351,6 +1521,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
         title: US Air Force magazine article on the U-2 (1976)
@@ -1389,6 +1564,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1152039f-eae8-4605-aa3c-dd839f17bbc6
         title: US Air Force magazine article on the U-2 (1976)
@@ -1426,6 +1606,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
         title: Global Positioning System (GPS)
@@ -1458,6 +1643,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ee385c79-7b49-4862-b360-c64bf5a098e8
         title: Global Positioning System (GPS)
@@ -1493,6 +1683,11 @@ claims:
         - a report quoted on screen
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.785
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
         title: United States Patent and Trademark Office
@@ -1528,6 +1723,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
         title: Jim Semivan
@@ -1567,7 +1767,7 @@ claims:
       content_hash: sha256:99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df44b026ff
       friendly_name: null
   - claim_id: 2cbb2884-5ce2-4290-9c3b-2a1cee3104df
-    claim_hash: d2f7fb43b338caf7b575ea367926fd909dd3604f3d47fc6936fa32e55c8d8b05
+    claim_hash: a812a089e6d7e9a2f0dda0923e13e0dfbd5dd32a288365ba5d4bb88901eb6817
     content: To the Stars Academy (TTSA) involved Christopher Mellon, Luis Elizondo, Jim Semivan, Steve Justice, and Hal Puthoff.
     original_excerpt: the people who went ahead and setting up to the STARS Academy, I mean, did involve Chris Mellon, involved
       Lou Elizondo, Jim Simivan, Steve Justice from, you know, So anyway, and me.
@@ -1582,6 +1782,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.686
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
         title: Jim Semivan

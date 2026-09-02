@@ -9,11 +9,21 @@ page:
   claim_count: 23
   claim_count_total: 23
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 23
   tokens_estimated: 3827
   sized_against: 1050000
+entailment:
+  assessed: 23
+  unassessed: 0
+  entails: 23
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 8
+  entailed_by_window: 15
+  entailed_by_quote_fraction: 0.348
+  entailed_by_window_fraction: 0.652
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -130,6 +140,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -169,6 +184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -206,6 +226,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -244,6 +269,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.795
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -283,6 +313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -320,6 +355,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -359,6 +399,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -407,6 +452,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.413
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
         title: Compass Rose press release (2023-06-09)
@@ -451,6 +501,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.514
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -488,6 +543,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f8f7643c-fe27-4547-8761-440b36e78097
         title: Office of the Intelligence Community Inspector General (ICIG)
@@ -523,6 +583,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.791
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -569,6 +634,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.625
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
         title: David Grusch 2022 whistleblower complaint to the Intelligence Community Inspector General
@@ -612,6 +682,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -632,7 +707,7 @@ claims:
       record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
       record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
       record_date: '2024-11-13'
-      record_reference: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf
       content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
       friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
   - claim_id: 412478e3-782b-4049-ab68-05e092c736d3
@@ -653,6 +728,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -673,7 +753,7 @@ claims:
       record_id: 72cc1cf9-c482-4e0e-8629-c9d2fb101493
       record_title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing the Truth'
       record_date: '2024-11-13'
-      record_reference: null
+      record_reference: https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf
       content_hash: sha256:f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce064218b64
       friendly_name: 2024-11-13-pdf-written-testimony-of-luis-elizondo-unidentified-anomalous-phenomena-exposing-the
   - claim_id: 3a22fa3f-9847-41c9-9713-18526071d93e
@@ -691,6 +771,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.81
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
         title: David Grusch's federal whistleblower complaint to the Intelligence Community Inspector General (ICIG)
@@ -731,6 +816,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
         title: David Grusch's federal whistleblower complaint to the Intelligence Community Inspector General (ICIG)
@@ -770,6 +860,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.61
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -809,6 +904,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
         title: Dylan Borland
@@ -844,6 +944,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f8f7643c-fe27-4547-8761-440b36e78097
         title: Office of the Intelligence Community Inspector General (ICIG)
@@ -877,6 +982,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
@@ -914,6 +1024,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.908
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f8f7643c-fe27-4547-8761-440b36e78097
         title: Office of the Intelligence Community Inspector General (ICIG)
@@ -946,6 +1061,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f8f7643c-fe27-4547-8761-440b36e78097
         title: Office of the Intelligence Community Inspector General (ICIG)
@@ -981,6 +1101,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress

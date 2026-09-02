@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: f783c585b4f5b7eb932f2557b39882d6c32a16687a692910cf738556ce53b5eb
+brief_hash: 7e322be8928421ecefc0364f5e907bc6dc86aecd3b6cbfb4eafbd276128c7739
 page:
   kind: entity
   node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
@@ -9,11 +9,21 @@ page:
   claim_count: 72
   claim_count_total: 72
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 72
   tokens_estimated: 10577
   sized_against: 1050000
+entailment:
+  assessed: 72
+  unassessed: 0
+  entails: 66
+  neutral: 6
+  contradicts: 0
+  entailed_by_quote: 24
+  entailed_by_window: 42
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.583
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -133,6 +143,11 @@ related_nodes:
     node_type: person
     slug: tarcisio-bertone
     shared_claims: 2
+  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+    title: UK, London
+    node_type: place
+    slug: london-uk
+    shared_claims: 2
   - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
     title: USA, District of Columbia, Washington
     node_type: place
@@ -142,11 +157,6 @@ related_nodes:
     title: 1917 Fatima Marian apparitions
     node_type: event
     slug: 1917-fatima-marian-apparitions
-    shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
     title: Air Force Office of Special Investigations (AFOSI)
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -228,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -263,6 +283,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.412
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -296,6 +321,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.391
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1519a78f-fcbc-4ca6-b4c8-510a314d205a
         title: Sidonio Pais
@@ -331,6 +361,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.819
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -369,6 +404,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.769
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59c74099-5b2b-4738-bf0f-35e471ea119f
         title: Moscow
@@ -407,6 +447,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -439,6 +484,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -474,6 +524,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -509,6 +564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -547,6 +607,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -584,6 +649,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -621,6 +691,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -659,6 +734,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86a3d282-0dee-49af-8533-93f32405844e
         title: Portugal, Leiria
@@ -699,6 +779,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -736,6 +821,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -771,6 +861,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -809,6 +904,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -848,6 +948,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.827
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
         title: Louis Emrich
@@ -872,7 +977,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
-    claim_hash: b10f2794b54e717b8c565733fd5d31930a4e5b983ed7b6963b99c8605194d9c7
+    claim_hash: 117703fd676658f0c1be49e3581117096fb53016873827e41699b6e3fa1504d3
     content: The diplomatic version of the Third Secret of Fatima had allegedly been sent by the Vatican to the governments
       of Washington, London, and Moscow during the height of the Cuban Missile Crisis (1962-10) a year before its publication.
     original_excerpt: which had allegedly been sent by the Vatican to the governments of Washington, London, and Moscow during
@@ -886,6 +991,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 134433ac-c317-4826-9edd-5f732f74521c
         title: UK, London
@@ -919,7 +1029,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 56067770-abe8-4a87-8bb3-ae139e7f2f75
-    claim_hash: 28c0579d9a29665dbce27af25624e869df54cac91b7dda236d5c48e463b030ca
+    claim_hash: e46c0551a57422272590ab009f8f337764a9d8e99162303ebd7c039bd4752d9a
     content: According to European News, the agreement signed by the foreign ministers of the United Kingdom and Russia and
       the U.S. secretary of state to stop atomic bomb tests was due to intervention by the Vatican.
     original_excerpt: According to the magazine the agreement signed by the foreign ministers of the United Kingdom and Russia,
@@ -933,7 +1043,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+        title: UK, London
+        slug: london-uk
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
@@ -943,9 +1061,6 @@ claims:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
         slug: vatican
-      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
-        title: UK
-        slug: uk
       - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
         title: Russia, Moscow
         slug: moscow-russia
@@ -981,6 +1096,11 @@ claims:
         - Hans Bender's summary
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 248df1b0-43a1-4903-adc5-a1076c4de155
         title: Hans Bender
@@ -1028,6 +1148,11 @@ claims:
         - Hans Bender's summary
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
         title: Louis Emrich
@@ -1065,6 +1190,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -1099,6 +1229,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.669
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
         title: Joseph Ratzinger
@@ -1134,6 +1269,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
         title: KGB
@@ -1169,6 +1309,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.834
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1f5d3803-7533-4068-b2b6-74da38556688
         title: St. Peter's Square
@@ -1207,6 +1352,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 23a8079f-6741-4591-bda1-e67f5d8d7f33
         title: Medjugorje apparitions (1981-)
@@ -1242,6 +1392,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.488
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
         title: Italy, Rome
@@ -1282,6 +1437,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37bc5b59-3fad-4290-b925-7063c23f35d7
         title: Angelo Sodano
@@ -1319,6 +1479,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6433c225-6b48-44bd-8ae4-c7fcb1c650e0
         title: Vladimir Putin
@@ -1356,6 +1521,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1394,6 +1564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -1431,6 +1606,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.673
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
         title: Nicholas Gruner
@@ -1470,6 +1650,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.657
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51de39c8-281c-48f1-ae5f-6c52cfec6fe5
         title: Nicholas Gruner
@@ -1511,6 +1696,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.586
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
         title: Italy, Rome
@@ -1559,6 +1749,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.541
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 688c96b1-566b-48fe-a7be-98d95e9d4691
         title: Louis Emrich
@@ -1597,6 +1792,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
@@ -1644,6 +1844,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -1688,6 +1893,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7d8ca182-d376-4d11-8aa4-895c8b59dc1e
         title: Don Bosco
@@ -1725,6 +1935,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.66
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -1757,6 +1972,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.599
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1795,6 +2015,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.695
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0ecd3d0a-de6b-451f-a345-e758d1dee56b
         title: Lisbon Airport
@@ -1838,6 +2063,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1884,6 +2114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -1929,6 +2164,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -1965,6 +2205,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e939c07-6002-4f06-8917-e448656ef39d
         title: Corrado Balducci
@@ -1998,6 +2243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.489
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e939c07-6002-4f06-8917-e448656ef39d
         title: Corrado Balducci
@@ -2037,6 +2287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
         title: Italy, Castel Gandolfo
@@ -2080,6 +2335,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2096,7 +2356,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2119,6 +2379,11 @@ claims:
         - told to Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2132,7 +2397,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2154,6 +2419,11 @@ claims:
         - told to Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.811
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -2170,12 +2440,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 61c54761-0969-421e-afbe-50f9304e4e8b
-    claim_hash: 12c3b0820225acb7a9960de465add1feb12838ab8899973659e15d2698e42314
+    claim_hash: 504228f33af7d763971982a02ad2058b01b2a2b56aa3c9f7d5e24a0aee28fa23
     content: Jason Samosa is certain the Vatican knows something about UFOs.
     original_excerpt: 'Jesse Michels: Do you think the Vatican knows anything about UFOs? Jason Samosa: Absolutely. Yeah,
       absolutely. I do.'
@@ -2190,6 +2460,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.638
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -2214,7 +2489,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 3bc81cc5-32d4-4081-9ea1-ce240f1152a2
-    claim_hash: d809d419a348f76281a196be9bfb2f5f291d8bde71f48b0f2e4ab2f64909b677
+    claim_hash: cebe5f3e853ff697f2edd8eae876fd334af170235a6e8caf1cbcf9c29d54c899
     content: Jason Samosa observes that the role of the Vatican in the UFO subject is hinted at by many researchers he respects,
       comes up and then disappears, with no one wanting to focus on it.
     original_excerpt: the role of the Vatican is hinted at by many people that I would respect it kind of comes up and then
@@ -2230,6 +2505,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2254,7 +2534,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 3f511a56-ee73-48df-8f22-82af5a1c17fb
-    claim_hash: 44955b607510901d98344866891387d185f8d494074a600b353bee1c9598dce1
+    claim_hash: af10a4c3c781730fa4bdaf1c0589a8ef73e8d8f24e6dbefe008d47dba82a7858
     content: Jason Samosa argues that an institution lasting 2,000 years such as the Vatican must resist change and revolution,
       and that the Vatican has done so outstandingly well, suppressing doctrinal challenges for a long time.
     original_excerpt: what is it that makes an institution last for a long time, 2000 years?... the key thing is you have
@@ -2270,6 +2550,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2291,7 +2576,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: eff7a1d3-d75f-4754-99f4-baa04a72fb26
-    claim_hash: f9f77db842f311ff26670a2c71ff3ac9dfb53f08e626328434ed08b25bf78fe3
+    claim_hash: 1b91599524d45caca0fdb0298c6267b2db4ed6693b780aa3f4669051d1612ba4
     content: Jason Samosa holds that the Vatican, the monarchies and the Knights of Malta were nearly wiped off the map in
       the late 1700s and afterwards colluded in the Congress of Vienna.
     original_excerpt: the Vatican conspiring with the monarchies and the Knights of Malta... All of them were like, we nearly
@@ -2307,6 +2592,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64a2f80d-f8bc-4c3f-8966-6558b593bbb9
         title: Congress of Vienna
@@ -2334,7 +2624,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: b736bc27-407a-4e6b-be0f-df7d9ba335a1
-    claim_hash: 80ed2eb0389f872634add6052dfb268fbe8be45ac88b1a713f23807adad17e00
+    claim_hash: e95e467e02256fb5b45619d0a5a8287e8453453d076a98fb6bfb4acefaf2d7e5
     content: Attending the Congress of Vienna beneath Klemens von Metternich were the various monarchies, the Vatican and
       the Knights of Malta, with the aim of systematising a joint response to revolution, so that a revolution in Southern
       Italy would be treated as Austro-Hungary's problem too.
@@ -2352,6 +2642,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64a2f80d-f8bc-4c3f-8966-6558b593bbb9
         title: Congress of Vienna
@@ -2385,7 +2680,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 6bcc44fc-bb22-4443-9ece-41ce014fd1f7
-    claim_hash: 72646bc6062172e4c753109da8629e783a2daa592ae4e2f4c26923f8dd1728ff
+    claim_hash: 92eab68399a0dc79b4a89a77264ad36293a2a27708bbee9fbb8533a5c4dbe38a
     content: The Holy See (the Vatican) has historically sought to manage revolutions, and Jason Samosa characterises its
       institutional personality as conservative.
     original_excerpt: So the Vatican has always tried to deal with revolutions... if the Vatican has a personality, it's conservative.
@@ -2400,6 +2695,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2421,7 +2721,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: b43031f1-cdf4-4a9e-bfdd-aa9d6715ccfd
-    claim_hash: bbcb95cd2119b71e24d81a315de9255dc6d8aefd66945058319ce2156b40706a
+    claim_hash: 36c103e57920cbea54f7b6d1ca18b37eb177d9611ac3c4de0f379db642966609
     content: Jason Samosa considers the ultimate revolution to be the prospect that the biblical narrative and the doctrine
       built on top of it, which constrain interpretation of anomalous events, could be blown open.
     original_excerpt: The reality that the biblical narrative, which constrains the information... could be blown open by
@@ -2437,6 +2737,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b54fcf2e-35dc-4c05-baae-e892c1a79140
         title: The Bible
@@ -2461,7 +2766,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 565a2c20-3628-4eca-bf00-77c62ac66331
-    claim_hash: ab05ead686c2a2a5598ed641cf46615a1ec50785c863cba3220699f9aa7f182c
+    claim_hash: ac28ebd4bcba31c6197f27c1152f82c4e37cbc5c53b6a38ee0aaaf4b8ea81c99
     content: The Holy See (the Vatican) characterised the object seen at the Miracle of the Sun at Fatima as the sun flying
       around, rather than as a disc.
     original_excerpt: So the Vatican basically says, this was the sun flying around. Okay. People said they saw a disc, but
@@ -2477,6 +2782,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
         title: Miracle of the Sun at Fatima
@@ -2498,7 +2808,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 5f81a12e-cbfe-43d2-88b7-7dd4350a0461
-    claim_hash: bd58becb65c50ba0bf072af05e8af13faf58fb004cb08812d308e51c92b67ce5
+    claim_hash: 03d250908d6e7edeae7283f9e0aea6b002e329c07b73df1fc7dc9ceb32aa10eb
     content: Jason Samosa considers that a silver disc interpretation of Fatima would be dangerous for the Holy See (the Vatican)
       because it would draw believers away from devotional practice, giving the church a tendency to constrain the information.
     original_excerpt: Are you telling me there's a silver disc in this guy? I'm probably going to stop focusing on all my
@@ -2514,6 +2824,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.912
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 945f1e52-b06d-42ab-99a7-acfa8e7c7b2b
         title: Miracle of the Sun at Fatima
@@ -2538,7 +2853,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 5e7b7fe9-f609-459c-9502-a479c287d1c4
-    claim_hash: 61d19418c0924fe81ee74108def5b2ee292acb44b1ce4a0c8767633e5518a71f
+    claim_hash: 4da1e9976b686468f3eb02beaaa743fb1b95c3ba990a5f0d0d02eeeae02468cb
     content: The Holy See (the Vatican) confiscated a written prophecy given to the children who witnessed the Fatima Marian
       apparitions, and Jesse Michels believes that prophecy was more complex than the historical portrayal of a sun or Virgin
       Mary appearance.
@@ -2555,6 +2870,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2582,7 +2902,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 43d9cdfc-e031-4720-b1c9-853b607556f4
-    claim_hash: 9fd749c884c4f7d2a541b6bb6d5f619368b54df06d79fd8607267c8dfba32db8
+    claim_hash: fd0504a6b5edf64f91c5363adf6e3a3c6ca4226e94ed782130341397dc543ada
     content: Jesse Michels believes material from the Magenta UFO crash is held by the Holy See (the Vatican) or is at least
       known to it.
     original_excerpt: And then you have the magenta crash probably being held by the Vatican as well, or at least under the
@@ -2598,13 +2918,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+        title: Magenta Unidentified Flying Object (UFO) crash
+        slug: magenta-unidentified-flying-object-ufo-crash
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
         slug: vatican
@@ -2622,7 +2947,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: a231f9c3-127c-428e-b102-8da6d090b0c9
-    claim_hash: ed91f6acc935dea5a7fac65a935694080b740a66663839b9f948ce8e411383d0
+    claim_hash: bf7b4749275acabbbe18e8a82a0ea0926a7b31a98d721f7c5c3c987bbf110d78
     content: Francis Spellman was deeply tied in with the Holy See (the Vatican).
     original_excerpt: Francis Spellman is deeply tied in with the Vatican.
     claim_type: testimony
@@ -2636,6 +2961,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b693358-e781-45fc-ac14-c65d11b38516
         title: Francis Spellman
@@ -2657,7 +2987,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 55b712e5-b1c9-4218-aa03-d967203f1794
-    claim_hash: ba87e22a0b17c4a6012a6fd6e3e3ba6fc0ca66dafa382e80b36d8e5bc6426e11
+    claim_hash: 32e866209b5418606f17015248e892a4edc4274b83bf71c6f84aa9969ea62ed9
     content: Records outside the Majestic 12 documents show Bishop John McIntyre, a senior figure in the Catholic hierarchy,
       present around Edwards Air Force Base in 1954.
     original_excerpt: And then there's documentation of Bishop McIntyre, another guy pretty high up in the Vatican ecosystem.
@@ -2674,6 +3004,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2701,7 +3036,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: a2241991-0d9a-44f0-b5ed-7ec03e32f81c
-    claim_hash: ac691ebdb35ff99365431e3d5a66937b5f421b654671513de495f6a3d3dc7dca
+    claim_hash: 1b279794894d48a0c0e239d33d0ba944829753d7d192895a99cf5924fcd753fa
     content: Jason Samosa considers Catholic influence in the United States to be very large.
     original_excerpt: And the general Catholic influence in America is huge.
     claim_type: opinion
@@ -2715,6 +3050,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2736,7 +3076,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 0a9a6bdd-f716-4202-81a3-9d17b16b0a37
-    claim_hash: ed54782d8400507964d6b70240635991b3d610972a90588139c6831c377de826
+    claim_hash: 5f57deb41adec547abf9f34c11303e9a96a89d7d9818147a9831d26de8223fcf
     content: Some of the American founding fathers were worried about Catholic influence in America because the influence
       of the church in Europe had been to suppress democracy and the free flow of information.
     original_excerpt: And some of the founding fathers were very worried about Catholic influence in America, because generally
@@ -2752,6 +3092,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2773,7 +3118,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: edf2a079-9a9f-4edd-b736-fa95faac4728
-    claim_hash: d3c5d6343bb00f36066781733a84fdfba2677cef295853a5a3d31957f4e7ef55
+    claim_hash: c17c498b0bd50384b2ed0fb59a869d01d5762e04a497c9dea900cc8ce0b95d9d
     content: Jason Samosa argues that placing people in key positions such as the Air Force Office of Special Investigations
       (AFOSI) and Central Intelligence Agency (CIA) directorships gives the Holy See (the Vatican) effectively a seat on the
       board of directors of the UFO issue.
@@ -2791,6 +3136,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -2821,7 +3171,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 1b9f1fc5-049c-46f9-ba7e-bc166d776054
-    claim_hash: 2fc413c80904d2a014e05be1e188123ef72efcafbe04b4d60e5696e6fc40b0e0
+    claim_hash: b1ae8e7b3d10bb8044d4a6adf92d9c15a09138393c6fefdec25c3d23fb0ffb22
     content: The Holy See (the Vatican) is at its core a vast network encompassing the Society of Jesus (the Jesuits), the
       Knights of Malta, Opus Dei and the Pro Deo intelligence network, and is one of the biggest organisations on the planet.
     original_excerpt: Because the Vatican is, at its core, a vast network. It's one of the biggest organizations, probably
@@ -2838,6 +3188,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a0a37694-4ae0-431b-925a-dcaa14ec46d0
         title: Society of Jesus (the Jesuits)
@@ -2871,7 +3226,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 5ba948e5-0e13-4c94-ae57-99afeb76655d
-    claim_hash: 227fd58a7ae5bfc2bf3415609bfb7f18328c1559e30ae4d2769aa6a3acc22de6
+    claim_hash: a563f45fee325ab586cff26f2521ed73bf826a0cab75c8d586fdb70eaa68170b
     content: Jason Samosa attempted at one point to compile a full list of the networks operating under the Holy See (the
       Vatican) and concluded it would take a long time to work through.
     original_excerpt: I mean, at one point I tried to list them all and I thought this is going to take a long time to dig
@@ -2887,6 +3242,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
         title: Vatican
@@ -2908,7 +3268,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 7a9bdb5c-5cb4-437e-915c-41af68a9b19a
-    claim_hash: 820fa349d5550e630b3b180d9e3ebd034ae21558e14b7856e1abc1a7b4fbd419
+    claim_hash: 5f9bda49c81a6ebe74845868f09e6ff2fff007b08f5423f54e4a2dced8498390
     content: Jason Samosa believes the Holy See (the Vatican) knows more than it discloses about the UFO subject and has tried
       to reinterpret events.
     original_excerpt: so yeah, I do think that the Vatican knows more. I do think that they've tried to reinterpret things
@@ -2923,6 +3283,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -2947,7 +3312,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: e1fe7c96-2dfa-44b6-b39a-da7c584cdcf8
-    claim_hash: 7e28b31af067d1733ec5047646242efc6f6e9470fa00b99f02f25ca719f94707
+    claim_hash: 81a4e93df4a60d47d0289e2be433b797f76104a89a58693c33d8b871329bb3e6
     content: Some Catholics view current events as an open, evolutionary and not strongly doctrinal process, while others
       see themselves as a katechon restraining the end times whose job is to prevent the final event.
     original_excerpt: Some Catholics believe that we're going through what seems to be kind of like an evolutionary, like
@@ -2964,6 +3329,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
         title: Eschatology

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 2742336935c5e561ff9c5caac06244c51f0377b3da08a0f245bb4b5c973db7c2
+brief_hash: bafa27820579c706d9fa27a7551af9b42220d08cc9aaee95e6435b8f8641270b
 page:
   kind: entity
   node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
@@ -9,11 +9,21 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 15
   tokens_estimated: 2166
   sized_against: 1050000
+entailment:
+  assessed: 15
+  unassessed: 0
+  entails: 10
+  neutral: 4
+  contradicts: 1
+  entailed_by_quote: 4
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.267
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,11 +48,6 @@ related_nodes:
     node_type: document
     slug: wargovufos-release
     shared_claims: 4
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 2
   - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
     title: Maaneli "Max" Derakhshani
     node_type: person
@@ -52,6 +57,11 @@ related_nodes:
     title: National Aeronautics and Space Administration (NASA)
     node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
+    shared_claims: 2
+  - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+    title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: sts-48-unidentified-aerial-phenomena-uap-incident
     shared_claims: 2
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
@@ -78,6 +88,11 @@ related_nodes:
     node_type: event
     slug: roswell-incident-1947
     shared_claims: 1
+  - node_id: fd0f66b9-f7c3-4ded-872b-ab74cf998db1
+    title: STS-80 Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: sts-80-unidentified-aerial-phenomena-uap-incident
+    shared_claims: 1
   - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
     title: The Pentagon
     node_type: organisation
@@ -100,7 +115,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
-    claim_hash: f95b407b28124adcb1ed36248f4ce9bfda7471a0a7a44e8fa80b34bdc64dbc5b
+    claim_hash: 8d2dbb4096510319587758c89c534bbff7a35b73a863f767bc2400a7139f7545
     content: Five years before the 1947 Roswell UAP crash, the United States Department of War hid the Manhattan Project,
       the successful US mission to build the world's first atomic bomb, using multiple secret facilities in multiple US locations
       staffed by thousands of American workers.
@@ -118,6 +133,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.873
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -137,12 +157,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 67c9f2d3-4014-4e69-b97f-03236794c497
-    claim_hash: 5143f231df90ced284e199ff896511ca4c0bb50f7dedccf608768ede0a3d1244
+    claim_hash: b7ac3a0194db8446c688ad6d87f799e1e8b242d53d0f4b4d68f165c021e647d3
     content: The United States Department of War constructed the Pentagon at the beginning of World War II.
     original_excerpt: The US Department of War constructed the building at the beginning of World War II
     claim_type: administrative
@@ -154,6 +174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -170,7 +195,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -190,6 +215,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -227,6 +257,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -251,7 +286,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 52c9411c-7bf3-4201-9d86-1cd9bf9f901b
-    claim_hash: c6880778e17f5b72ebec16c174c491f795a6d287e98bd834813b014000a788ea
+    claim_hash: 502b02a2f489d9a3b19d9c1b8702e4ad1ec9d1542a46b4195cbdd17268542303
     content: In its commentary on the Apollo 17 image of three blue lights, the United States Department of War did not describe
       them as three objects but used the term "potentially a physical object" in the singular.
     original_excerpt: They didn't say it was three objects. They actually used the term potentially a physical object singular.
@@ -266,6 +301,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -287,7 +327,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 9df814bc-4062-4b6f-b0fd-359e531799ca
-    claim_hash: 542e5781a575cacce301e0c0da26d95146ce6eb6dc16d22ccdd6d0783ddd48ad
+    claim_hash: 7ec72b502dd70bb779ea21f750b724850ae904a4dd60e712972ad9359a8b1c59
     content: NASA and the United States Department of War said they acquired the original Apollo 17 film of the blue-lights
       image and would conduct further analyses and report their findings.
     original_excerpt: they said that they acquired the original film and they're going to do further analyses, both NASA and,
@@ -303,6 +343,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.525
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -343,6 +388,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.658
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -364,7 +414,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 65544a67-c966-457b-b581-cb8f08995821
-    claim_hash: dac5f733c0bed9f62a812d59192053db597e438ca237d446444f723b2ac4989e
+    claim_hash: 7d7339df78b2abafa2d43fb202b7ff5bd470ee0853de6cef3477516f206d50f0
     content: The United States Department of War made its "potentially a physical object" declaration about only the one Apollo
       17 triangular blue-lights image, not about other lunar anomalies.
     original_excerpt: It's only made that declaration with that one Apollo 17 three dotted image.
@@ -379,6 +429,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -400,7 +455,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 355db718-8e2e-497f-a6dc-3c73fc563059
-    claim_hash: afda538233e0cc47daa0ed48dea9b2faf95b0326106dbfbe68417d84b782ba7e
+    claim_hash: d25a027a353f495b2e781dd2b1cf85d26ced8f1ab0c4cc11b1c6ca28611359a5
     content: The STS-48 UAP incident footage did not feature among the UAP footage released by the United States Department
       of War the week prior to this discussion.
     original_excerpt: this STS video that you're talking about that yourself Dr Mark Carlotto and others have taken a close
@@ -416,6 +471,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -423,9 +483,9 @@ claims:
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
         title: War.gov/UFOs release
         slug: wargovufos-release
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -459,6 +519,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -483,7 +548,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 888fa18c-8db5-4387-9727-5315283c5ae6
-    claim_hash: c76f71170a8895d7eaaac5fdfd6e0a43d8d94f3b773c339953ad7a1465bf44e1
+    claim_hash: b929a45a21ae94f8b6f8117d46514df78b46412874d1158c834401d2dc72c7fc
     content: Maaneli "Max" Derakhshani wonders whether Luis Elizondo's comment about the space shuttle videos referred to
       STS-48 and STS-80, and whether Elizondo knows what the United States Department of War will release next.
     original_excerpt: I wonder if he was referring to STS-48 and STS-80, and if he knows something about what the Department
@@ -499,6 +564,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.519
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -506,12 +576,15 @@ claims:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
         slug: luis-elizondo
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
         slug: maaneli-max-derakhshani
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
+      - node_id: fd0f66b9-f7c3-4ded-872b-ab74cf998db1
+        title: STS-80 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-80-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 01:00:02.2-01:00:11.1
@@ -526,7 +599,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 528520fa-37ed-4458-9148-2ad6dfa44cda
-    claim_hash: 1f7153308b234202c88c28b6557e6537f72b21efe43683824dee08ea850ba403
+    claim_hash: 5e7c95cf0a9e4e42189bbc522317ade0108561102b28b4614b93d3fbd046cef4
     content: The United States Department of War has itself raised the Apollo 17 dots as anomalous phenomena and as a physical
       object, according to Ross Coulthart.
     original_excerpt: we have quite clearly anomalous phenomena that have been raised as such by the Department of War, not
@@ -543,6 +616,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.848
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -580,6 +658,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.677
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -621,6 +704,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -664,6 +752,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War

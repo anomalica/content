@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8af79bbabcf9cfc440463a719f77d22d172a80c7fc587dcd44d33e33942e41f5
+brief_hash: ae907d9c0a39cf92dbb066fa960981cbb303b3270d2ba42292998f110d33f11d
 page:
   kind: entity
   node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
@@ -9,11 +9,21 @@ page:
   claim_count: 38
   claim_count_total: 38
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 38
   tokens_estimated: 5453
   sized_against: 1050000
+entailment:
+  assessed: 38
+  unassessed: 0
+  entails: 28
+  neutral: 9
+  contradicts: 1
+  entailed_by_quote: 9
+  entailed_by_window: 19
+  entailed_by_quote_fraction: 0.237
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -88,10 +98,10 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 3b2e0751-5826-4f65-92a3-0d71b0f183ab
+    title: 1988 Ariel School Unidentified Flying Object (UFO) incident, Zimbabwe
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: zimbabwe-1988-ariel-school-unidentified-flying-object-ufo-incident
     shared_claims: 1
   - node_id: 49b05150-88f9-46dd-901f-97f95bb14632
     title: 'Abduction: Human Encounters with Aliens'
@@ -191,6 +201,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.364
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -226,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -267,6 +287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.449
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 335fc7fa-dd54-4a91-b312-252504891278
         title: John Mack's 1996 hypnotic regression of Peter Khoury
@@ -308,6 +333,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3273c059-0835-4596-a5dd-b855dea25555
         title: Credo Mutwa
@@ -350,6 +380,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.489
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 993f3695-0fa6-4c29-85e1-5e14b6a1ddb2
         title: Alien abduction physical evidence
@@ -390,6 +425,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3273c059-0835-4596-a5dd-b855dea25555
         title: Credo Mutwa
@@ -426,6 +466,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -461,6 +506,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -492,6 +542,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -527,6 +582,11 @@ claims:
         - D. W. Pasulka's account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 49b05150-88f9-46dd-901f-97f95bb14632
         title: 'Abduction: Human Encounters with Aliens'
@@ -566,6 +626,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -603,6 +668,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -638,6 +708,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins
@@ -675,6 +750,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5531407f-965f-4f93-a03a-6cbea527cf4c
         title: Thomas Kuhn
@@ -714,6 +794,11 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5531407f-965f-4f93-a03a-6cbea527cf4c
         title: Thomas Kuhn
@@ -751,6 +836,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
         title: 1994 Harvard review of John E. Mack
@@ -773,7 +863,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -790,6 +880,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
         title: 1994 Harvard review of John E. Mack
@@ -806,7 +901,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -823,6 +918,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
         title: 1994 Harvard review of John E. Mack
@@ -845,7 +945,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -864,6 +964,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.907
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
         title: 1994 Harvard review of John E. Mack
@@ -883,7 +988,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -903,6 +1008,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.634
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
@@ -919,7 +1029,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -939,6 +1049,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
         title: Ralph Blumenthal
@@ -958,7 +1073,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -979,6 +1094,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.765
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
@@ -1000,7 +1120,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: faa2d66b-68c7-4881-aef8-21fd42c82c96
-    claim_hash: bd65c202158c54b430f583dea8ef6e63b50aeaf80eb2856e008582b421823e83
+    claim_hash: 898e035062b894a10c62916230fd7e05663d9ec6ee84c9acf41871d72f014a5d
     content: Whitley Strieber considers the Varginha UFO incident to be one of the most extraordinary UFO cases ever recorded,
       comparable in that regard to the Ariel School incident that John Mack investigated in Zimbabwe.
     original_excerpt: What had happened that led up to it has proved to be one of the most extraordinary UFO cases ever recorded,
@@ -1016,16 +1136,24 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 3b2e0751-5826-4f65-92a3-0d71b0f183ab
+        title: 1988 Ariel School Unidentified Flying Object (UFO) incident, Zimbabwe
+        slug: zimbabwe-1988-ariel-school-unidentified-flying-object-ufo-incident
       - node_id: 97a9f01f-a721-4e0c-88e3-e19ed67fa024
         title: Zimbabwe
         slug: zimbabwe
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
         title: John Mack
         slug: john-mack
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:8699-8893
@@ -1058,6 +1186,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079bc4cd-ba34-41c3-b995-7ad49d32c9a5
         title: Peter Khoury John Mack hypnotic regression sessions
@@ -1097,6 +1230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079bc4cd-ba34-41c3-b995-7ad49d32c9a5
         title: Peter Khoury John Mack hypnotic regression sessions
@@ -1139,6 +1277,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079bc4cd-ba34-41c3-b995-7ad49d32c9a5
         title: Peter Khoury John Mack hypnotic regression sessions
@@ -1180,6 +1323,11 @@ claims:
         - Peter Khoury
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079bc4cd-ba34-41c3-b995-7ad49d32c9a5
         title: Peter Khoury John Mack hypnotic regression sessions
@@ -1220,6 +1368,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.806
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079bc4cd-ba34-41c3-b995-7ad49d32c9a5
         title: Peter Khoury John Mack hypnotic regression sessions
@@ -1265,6 +1418,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079bc4cd-ba34-41c3-b995-7ad49d32c9a5
         title: Peter Khoury John Mack hypnotic regression sessions
@@ -1306,6 +1464,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -1343,6 +1506,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -1380,6 +1548,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -1422,6 +1595,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1465,6 +1643,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.619
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -1503,6 +1686,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -1543,6 +1731,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
@@ -1586,6 +1779,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1627,6 +1825,11 @@ claims:
         - David Grusch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.583
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)

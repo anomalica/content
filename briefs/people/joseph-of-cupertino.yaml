@@ -9,11 +9,21 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 12
   tokens_estimated: 1535
   sized_against: 1050000
+entailment:
+  assessed: 12
+  unassessed: 0
+  entails: 12
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.667
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -76,6 +86,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
         title: Italy, Rome
@@ -118,6 +133,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.408
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -150,6 +170,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.527
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -180,6 +205,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.463
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
         title: Pope Urban VIII
@@ -215,6 +245,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 76368bb9-92e1-41a8-9e3b-f58895341942
         title: Pope Urban VIII
@@ -248,6 +283,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -278,6 +318,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -310,6 +355,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 81244a41-ef9f-4529-8ea2-9ff690f56cf7
         title: Theresa of Avila
@@ -350,6 +400,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
         title: Joseph of Cupertino
@@ -382,6 +437,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c4e34315-2672-453b-9229-4ffc45af0a8f
         title: They Flew
@@ -419,6 +479,11 @@ claims:
         - Whitley Strieber's reading of the book
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
         title: Levitation
@@ -457,6 +522,11 @@ claims:
         - Whitley Strieber's reading of the book
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
         title: Levitation

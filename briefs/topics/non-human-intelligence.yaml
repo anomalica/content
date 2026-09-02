@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 4fc1bf92ed84cb231b00aa15182ab376efd1bf154bb28f815526e54799efe8c0
+brief_hash: 9e2c6f8bb68f397fa03cdd626a156a0dbe2f5c9c974298520d6d4786e3f1ab29
 page:
   kind: entity
   node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
   node_type: topic
   title: Non-Human Intelligence
   slug: non-human-intelligence
-  claim_count: 166
-  claim_count_total: 166
+  claim_count: 185
+  claim_count_total: 185
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 166
-  tokens_estimated: 24370
+  claims: 185
+  tokens_estimated: 27334
   sized_against: 1050000
+entailment:
+  assessed: 185
+  unassessed: 0
+  entails: 145
+  neutral: 39
+  contradicts: 1
+  entailed_by_quote: 76
+  entailed_by_window: 69
+  entailed_by_quote_fraction: 0.411
+  entailed_by_window_fraction: 0.373
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 166
+  unreviewed: 185
 related_nodes:
   - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
     title: Whitley Strieber
@@ -37,7 +47,7 @@ related_nodes:
     title: Chris Ramsay
     node_type: person
     slug: chris-ramsay
-    shared_claims: 26
+    shared_claims: 29
   - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
     title: 1985 Whitley Strieber close encounter at his upstate New York cabin
     node_type: event
@@ -53,6 +63,11 @@ related_nodes:
     node_type: topic
     slug: consciousness-studies
     shared_claims: 6
+  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+    title: Julia Mossbridge
+    node_type: person
+    slug: julia-mossbridge
+    shared_claims: 6
   - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
     title: The Pentagon
     node_type: organisation
@@ -63,15 +78,25 @@ related_nodes:
     node_type: topic
     slug: unidentified-aerial-phenomena-disclosure
     shared_claims: 6
+  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+    title: Human-alien hybridization
+    node_type: topic
+    slug: human-alien-hybridization
+    shared_claims: 5
+  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+    title: Alien abduction
+    node_type: topic
+    slug: alien-abduction
+    shared_claims: 4
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
     node_type: person
     slug: donald-trump
     shared_claims: 4
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: Human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
     shared_claims: 4
   - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
     title: The close encounter experience
@@ -83,26 +108,36 @@ related_nodes:
     node_type: project
     slug: uap-crash-retrieval-and-reverse-engineering-program
     shared_claims: 4
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
+    node_type: topic
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
   - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
     title: Artificial intelligence (AI)
     node_type: topic
     slug: artificial-intelligence-ai
+    shared_claims: 3
+  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+    title: Informational substrate
+    node_type: topic
+    slug: informational-substrate
+    shared_claims: 3
+  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+    title: Out-of-Body Experience (OBE)
+    node_type: topic
+    slug: out-of-body-experience-obe
     shared_claims: 3
   - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
     title: Time travel
     node_type: topic
     slug: time-travel
     shared_claims: 3
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
     node_type: topic
-    slug: unidentified-anomalous-phenomena-uap
+    slug: unidentified-flying-object-ufo
     shared_claims: 3
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: Alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 2
   - node_id: 6b526252-972e-4a98-b2dc-0bd9afa60edf
     title: Alien abduction experience
     node_type: topic
@@ -138,40 +173,15 @@ related_nodes:
     node_type: organisation
     slug: esalen-institute
     shared_claims: 2
-  - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
-    title: Jonathan Caplan
+  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+    title: George Adamski
     node_type: person
-    slug: jonathan-caplan
+    slug: george-adamski
     shared_claims: 2
-  - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
-    title: Levitation
-    node_type: topic
-    slug: levitation
-    shared_claims: 2
-  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-    title: Out-of-Body Experience (OBE)
-    node_type: topic
-    slug: out-of-body-experience-obe
-    shared_claims: 2
-  - node_id: f8d46a79-bb25-455f-ae28-f8e5f915f322
-    title: R. J. Stewart
+  - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+    title: Hermann Oberth
     node_type: person
-    slug: r-j-stewart
-    shared_claims: 2
-  - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
-    title: Spanish conquest of the Aztec Empire
-    node_type: event
-    slug: spanish-conquest-of-the-aztec-empire
-    shared_claims: 2
-  - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
-    title: Steven Spielberg
-    node_type: person
-    slug: steven-spielberg
-    shared_claims: 2
-  - node_id: b37da689-d1d9-4d3d-b8ad-170fde918b2f
-    title: The Fourth Mind (Whitley Strieber)
-    node_type: document
-    slug: the-fourth-mind-whitley-strieber
+    slug: hermann-oberth
     shared_claims: 2
 claims:
   - claim_id: b897aa93-707c-4009-ac21-0d32990d8938
@@ -188,6 +198,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.769
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -227,6 +242,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -265,6 +285,11 @@ claims:
         - conversations with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -307,6 +332,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -347,6 +377,11 @@ claims:
         - conversations with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -387,6 +422,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -428,6 +468,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -466,6 +511,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -509,6 +559,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -550,6 +605,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
         title: noble cause corruption
@@ -590,6 +650,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -627,6 +692,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.865
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -668,6 +738,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -709,6 +784,11 @@ claims:
         - Jake Barber's public account given with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.745
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -750,6 +830,11 @@ claims:
         - Ross Coulthart's account of the Pentagon's official position
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -786,6 +871,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.802
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -826,6 +916,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.871
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
         title: Susan Gough
@@ -869,6 +964,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -908,6 +1008,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -946,6 +1051,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.907
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -987,6 +1097,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
         title: George Adamski
@@ -1034,6 +1149,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.538
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1071,6 +1191,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1108,6 +1233,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.741
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1148,6 +1278,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1186,6 +1321,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.795
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1226,6 +1366,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1263,6 +1408,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -1303,6 +1453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1341,6 +1496,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1380,6 +1540,11 @@ claims:
         - direct contact with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
         title: Consciousness studies
@@ -1421,6 +1586,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.893
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1460,6 +1630,11 @@ claims:
         - direct contact with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
         title: Consciousness studies
@@ -1500,6 +1675,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
         title: Consciousness studies
@@ -1540,6 +1720,11 @@ claims:
         - direct contact with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1576,6 +1761,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1614,6 +1804,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1653,6 +1848,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
         title: Consciousness studies
@@ -1693,6 +1893,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1736,6 +1941,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1776,6 +1986,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1815,6 +2030,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.924
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -1853,6 +2073,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1889,6 +2114,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.845
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1927,6 +2157,11 @@ claims:
         - an account given to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -1968,6 +2203,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2008,6 +2248,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.675
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -2055,6 +2300,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2093,6 +2343,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2131,6 +2386,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
         title: Consciousness studies
@@ -2170,6 +2430,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2206,6 +2471,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -2246,6 +2516,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2287,6 +2562,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -2326,6 +2606,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -2365,6 +2650,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -2406,6 +2696,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2444,6 +2739,11 @@ claims:
         - Jonathan Caplan's research
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.858
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 009e4bc0-1007-48f9-a6d2-acdc4c4e2c5a
         title: John F. Kennedy assassination
@@ -2487,6 +2787,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e00227f-4ac3-4c3c-8591-bbd5b34f0240
         title: David Lamar Christ
@@ -2529,6 +2834,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2565,6 +2875,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -2603,6 +2918,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.604
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
         title: David Grush
@@ -2626,6 +2946,408 @@ claims:
       record_reference: https://www.youtube.com/watch?v=PeULVsP-jEQ
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
+  - claim_id: 7b1683b3-02be-4d7e-b82b-fa9b8fac09a1
+    claim_hash: 474694c0690fa865f876da888dce71bfc7e482f61e0abfc5f15094e8dea8a0d4
+    content: Jesse Michels is sympathetic to the idea that humanity exists within a control system and that UFOs might be
+      von Neumann replicator envoys of a larger intelligence.
+    original_excerpt: I'm sympathetic to ideas like that, that we're in some sort of control system or something. And, uh,
+      these might be von Neumann replicator envoys or something of some like larger intelligence.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+        title: Jesse Mitchells
+        slug: jesse-mitchells
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: bd204df6-8fcd-44db-b5dc-371b1d62c6ff
+        title: Von Neumann probe
+        slug: von-neumann-probe
+    date: null
+    date_end: null
+    location_in_record: 01:03:05.6-01:03:19.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e0a87107-6a02-4923-ac6b-63fc61b1909c
+    claim_hash: 9ee5dc877306adb477027825664ee9d24bc20bd1b8bf73d07ead86fa9462ffde
+    content: Thomas Townsend Brown appears to have been inspired by so-called space brothers, that is non-human intelligences.
+    original_excerpt: And it seems like he was inspired by quote unquote, space brothers.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.773
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+        title: Thomas Townsend Brown
+        slug: thomas-townsend-brown
+    date: null
+    date_end: null
+    location_in_record: 01:10:00.8-01:10:03.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: e0d704bd-9a0f-4902-8172-08741fc1e13b
+    claim_hash: 79b0d3b7e98187dd1ff2da08614fb31c3322b743cc43a2408a73705e77bf4e83
+    content: Thomas Townsend Brown claimed he was communicating with aliens much of the time.
+    original_excerpt: No, he's claimed he was like kind of communicating with aliens half the time
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: named
+      origin: Thomas Townsend Brown
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+        title: Thomas Townsend Brown
+        slug: thomas-townsend-brown
+    date: null
+    date_end: null
+    location_in_record: 01:10:55.6-01:10:58.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 75b38262-d8c8-4a84-891b-d29cd377efc9
+    claim_hash: ffbc2fdbebc1db279ae3e44e1173a5e7b63859abc894280a50d3c1f9e1484625
+    content: Hermann Oberth respected the beings riding in UFOs.
+    original_excerpt: But Dr. Oberth truly respected the beings actually riding in UFOs.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unidentified speaker in an inserted archival clip
+      relay:
+        - an archival recording played in the video
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+    date: null
+    date_end: null
+    location_in_record: 01:11:56.0-01:12:01.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
+    claim_hash: 434f7a430cbb6107d0b3ab7b22f0f9b8624b52ab115342d7e4d2e1d3559821f9
+    content: Jason Samosa considers human-alien hybridisation a late-stage disclosure topic and possibly too dangerous to
+      discuss at all, because the ability to breed with non-human entities would imply humans are related to them and would
+      destabilise religion.
+    original_excerpt: you begin to realize why it would be at the very least a late stage topic. And then you might even realize
+      maybe it's too dangerous to even talk about it... if we can breed with non-human entities, does that mean that we're
+      related?... now you're destabilizing religion as well.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+        title: Human-alien hybridization
+        slug: human-alien-hybridization
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:09:32.4-02:09:51.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: a030c13c-7a54-4dce-b375-1007da26cc51
+    claim_hash: 15eebbc51d5deda8b56440afebd7da18a047f040b55e4fcf171d7d1e155a7ee9
+    content: In early interviews, before his advisors were publicly known, Tom DeLonge suggested that some actions taken in
+      the Iraq War may have been related to certain groups there connected with non-human entities and helping them proliferate,
+      and that this may have been one of the motivations for the war.
+    original_excerpt: DeLonge, again, like early interviews before anyone knew whose advisors were, he was talking about how
+      some of the things that we did in Iraq may have been related to certain groups of people there who were connected with
+      certain non-human entities and were helping them proliferate. And that that may have been one of the motivations
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Tom DeLonge
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 17cea78e-2ae0-4307-b7b4-05f4ae24f543
+        title: Iraq War
+        slug: iraq-war
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:15:34.3-02:15:51.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 41d80304-cda9-4fc7-b466-b7de1ed6295f
+    claim_hash: 6a1129f87c52065a96e6403656e8dbb58c781d81222eb7bd8c914324e633f5a5
+    content: Hermann Oberth claimed that a relationship existed with non-human beings.
+    original_excerpt: we talked about a Hermann, I forget his name, the German guy, the Nazi guy who claimed that they had
+      a relationship. Hermann Oberth?
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: named
+      origin: Hermann Oberth
+      relay:
+        - Jason Samosa
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+        title: Hermann Oberth
+        slug: hermann-oberth
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:16:59.5-02:17:05.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 83d59f0d-d276-4a24-b2e6-8ad18d81e8ab
+    claim_hash: 09eae3ba356708493bc454e626e3b03dec1f602338a481ebcbf5d9f740bbe012
+    content: Jason Samosa considers a relationship between humans and non-human beings the key epistemic foundation for understanding
+      geopolitics, and holds that such a relationship would inevitably affect geopolitics.
+    original_excerpt: you're telling me we have a relationship and that's not impacting our geopolitics? I think it's probably
+      the key epistemic foundation that we would have to understand what's going on.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:17:13.3-02:17:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 00d0e6f0-8b98-4385-93c2-8cc0560ffdb6
+    claim_hash: 24784554a0d08b739695917c0e59d0f88f326fe6ecd306957c7b04a34adbda08
+    content: Dwight D. Eisenhower is rumoured to have made a deal with aliens in 1954 permitting medical experiments to be
+      carried out on the human population.
+    original_excerpt: Eisenhower is rumored to, you know, do his deal with the aliens around allowing medical experiments
+      to be done among the human population.
+    claim_type: hearsay
+    attestation: null
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: unattributed
+      origin: unattributed rumour circulating in UFO lore, relayed by Jesse Michels
+      relay:
+        - Jesse Michels
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+        title: USA, California, Edwards Air Force Base
+        slug: california-edwards-air-force-base-usa
+      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+        title: Dwight D. Eisenhower
+        slug: dwight-d-eisenhower
+    date: '1954'
+    date_end: null
+    location_in_record: 02:23:59.6-02:24:07.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
   - claim_id: a9659008-0cc2-4458-a4de-808d10f5257f
     claim_hash: 9dc788966eb1b00b9def891db0b79ee1e82cbe7e07a1df15dbf4fd855453c20d
     content: Dan Burisch claimed the non-human beings he encountered were humans from the future, from two timelines that
@@ -2645,6 +3367,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
         title: breakaway civilisation
@@ -2689,6 +3416,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
@@ -2732,12 +3464,17 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.757
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 8db24ac2-563f-44c0-a7ad-f0f5d66a4cbe
         title: USA, Nevada, S4
@@ -2781,6 +3518,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -2827,6 +3569,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2864,6 +3611,11 @@ claims:
         - direct communications with UAP Gerb
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.596
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -2904,6 +3656,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2940,6 +3697,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.653
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2981,6 +3743,11 @@ claims:
         - Whitley Strieber's book The Fourth Mind
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.886
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -3025,6 +3792,11 @@ claims:
         - a telephone call to Chris Ramsay's podcast line
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.593
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -3065,6 +3837,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3102,6 +3879,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3141,6 +3923,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3179,6 +3966,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3215,6 +4007,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3252,6 +4049,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3289,6 +4091,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3330,6 +4137,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3368,6 +4180,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3409,6 +4226,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -3446,6 +4268,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 469acb99-5f7f-499c-b8c3-6a20bb5a0790
         title: The soul
@@ -3486,6 +4313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.561
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3526,6 +4358,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.636
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3564,6 +4401,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.927
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3605,6 +4447,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3642,6 +4489,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3682,6 +4534,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3722,6 +4579,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3757,6 +4619,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3794,6 +4661,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3832,6 +4704,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.712
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3872,6 +4749,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3908,6 +4790,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -3945,6 +4832,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -3985,6 +4877,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -4027,6 +4924,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.681
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
         title: James Lacatski
@@ -4071,6 +4973,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4109,6 +5016,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4148,6 +5060,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4185,6 +5102,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4222,6 +5144,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4261,6 +5188,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.604
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4298,6 +5230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4334,6 +5271,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4370,6 +5312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4406,6 +5353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4443,6 +5395,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4483,6 +5440,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4519,6 +5481,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4556,6 +5523,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.803
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4593,6 +5565,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.896
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4632,6 +5609,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4670,6 +5652,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.547
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -4705,6 +5692,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4740,6 +5732,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.656
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4777,6 +5774,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
         title: Whitley Strieber's alien implant
@@ -4820,6 +5822,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.744
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
         title: Transformation (Whitley Strieber)
@@ -4864,6 +5871,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -4906,6 +5918,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -4930,7 +5947,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 792f60d0-5c5e-4a9f-a9ba-5cd243af2ec7
-    claim_hash: 2a652fa3773a852e60032669e7de357f9834222a09c93c13a5e18686c72e1a22
+    claim_hash: af9bde4701ea00056af05ec35ea3e51698ebaf01426b701ff0bb4461ad892c30
     content: Whitley Strieber wonders why non-human intelligence is not already getting into human minds through artificial
       intelligence.
     original_excerpt: why is non-human intelligence not getting into our heads through AI?
@@ -4945,6 +5962,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -4985,6 +6007,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5023,6 +6050,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.795
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -5047,7 +6079,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 6921b68e-5aa9-4fe4-b436-4c8711f34d48
-    claim_hash: 414384e97be67c3f085b04991f4a31af8d13baf7b7b4944fc7d0bd2c4b2704b0
+    claim_hash: 3af85296347469ebf3d7fe1d528f00ee0597bbe72763f52bbe3eb247bed16b04
     content: Chris Ramsay cautions that if aliens eventually used artificial intelligence to communicate with humans, humans
       should not believe them.
     original_excerpt: I would caution I feel like if aliens eventually used AI to communicate I don't think we should believe
@@ -5063,6 +6095,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -5102,6 +6139,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5140,6 +6182,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.801
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5161,7 +6208,7 @@ claims:
       content_hash: sha256:456dbde0ab82ee8e216bdad2d1a0bf2a0b42622a167af19058f973050b035084
       friendly_name: null
   - claim_id: 099c810d-7949-4614-acd7-694edf62b74c
-    claim_hash: 598bf9195045bcacb05f2df0cc17274ae52c8770984e196942660e4f80bc550c
+    claim_hash: 77cee64f0afa6e4c1a185d076c756656673ddef4ae87be0f525a46c238f7039c
     content: Whitley Strieber believes the non-human intelligences that want to dominate humanity are getting deep into artificial
       intelligence, so deep that humans do not know they are there.
     original_excerpt: but the guys who want to dominate us I see them getting deep in AI, so deep that we don't even know
@@ -5177,6 +6224,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -5218,6 +6270,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5258,6 +6315,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -5301,6 +6363,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5344,6 +6411,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5390,6 +6462,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -5430,6 +6507,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.883
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5468,6 +6550,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.659
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -5506,6 +6593,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -5541,6 +6633,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -5577,6 +6674,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -5621,6 +6723,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.836
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 14e0aa2b-4067-4ef2-8ca8-cfdbe9697876
         title: Unidentified Aerial Phenomena disclosure
@@ -5661,6 +6768,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5701,6 +6813,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -5737,6 +6854,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.886
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5776,6 +6898,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5814,6 +6941,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -5852,6 +6984,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.566
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -5895,6 +7032,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -5938,6 +7080,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -5978,6 +7125,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -6028,6 +7180,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -6074,6 +7231,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -6116,6 +7278,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -6158,6 +7325,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -6198,6 +7370,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -6238,6 +7415,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -6277,6 +7459,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -6314,6 +7501,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -6351,6 +7543,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -6395,6 +7592,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -6435,6 +7637,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump
@@ -6474,6 +7681,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -6514,6 +7726,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -6551,6 +7768,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
@@ -6591,6 +7813,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
@@ -6632,6 +7859,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -6670,6 +7902,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
@@ -6706,6 +7943,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c067d57-05f3-4975-b43f-96e405d0d2d7
         title: Nat Kobitz
@@ -6731,4 +7973,466 @@ claims:
       record_date: '2026-08-11'
       record_reference: https://www.youtube.com/watch?v=7xtGoDVjqdE
       content_hash: sha256:ec4ba3a9ba6cfe6598002b0b2441a39aac6847d339f856b1e24752aeb484b3a4
+      friendly_name: null
+  - claim_id: f06a7fd1-f380-46f5-83c0-f4e7673a83dd
+    claim_hash: 1fd5055b98baa9f906f5407629ae7f79cb76b624196bc78b82735ca24474a9ee
+    content: Julia Mossbridge considers that because humans have not conceived of consciousness-based capabilities, they also
+      fail to assume non-human intelligence (NHI) might possess them.
+    original_excerpt: we're not going to assume that another species or NHI or whatever you want to call aliens, we're not
+      going to assume that they have that capacity because we haven't thought of it yet.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:07:17.0-00:07:26.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 46b4aeed-c1bf-4f6c-a602-04048c7d1558
+    claim_hash: 317e9a6a63909ca30188f479add3c4a4cc644859914e87ba1140d1a0c86c62ee
+    content: Sovereignty over one's own mind in the presence of non-human intelligence was one of the topics discussed on
+      a panel Julia Mossbridge took part in at Contact in the Desert.
+    original_excerpt: there is this idea of sovereignty. That's one of the things we were talking about at that conference...
+      Contact in the desert in this panel. And there's this idea of like, well, even if there are an NHI, if there's aliens,
+      how can we be sovereign over our own minds?
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+      - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
+        title: Contact in the Desert
+        slug: contact-in-the-desert
+    date: null
+    date_end: null
+    location_in_record: 00:48:11.8-00:48:27.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 9a9933ff-a37b-40ce-a2ca-6cba5d772771
+    claim_hash: 4c3b5f84bdfc2c638e26f1b233bf930a83100d5e853be78add83e27e22d80f97
+    content: Part of the concern among people worried about ontological shock is the discovery that aliens are carrying out
+      mind control.
+    original_excerpt: there's a little concern in this ontological shock that the people who are worried about ontological
+      shock that will discover that, you know, aliens are doing mind control.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+        title: Ontological shock
+        slug: ontological-shock
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:49:08.0-00:49:15.0
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 13456444-0c2b-42a2-8d91-691d5a61a477
+    claim_hash: 0c769e5d34e7edbcb439bc3b26239ae29edf500764201d73b791ee7cb721c62b
+    content: Julia Mossbridge regards it as immaterial to the question of mental control whether influence over the mind comes
+      from aliens or from one's own subconscious, since a person has no control over either.
+    original_excerpt: I was like, kind of, does it matter whether it's aliens or you're subconscious? You still don't have
+      any control over
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+        title: Ontological shock
+        slug: ontological-shock
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 00:49:15.3-00:49:20.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 158c07c9-64d7-4503-9d83-e23fd54c5ea9
+    claim_hash: 03bb07d4361f85d0736d9e999bf52b780d0143184abeeeaaa32df8c5cd5919cf
+    content: Chris Ramsay describes reported alien encounters, including with Nordic-type beings described by George Adamski,
+      with mantis-like insectoid beings and with greys, as consistently accompanied by a sense of familiarity, love, compassion
+      and calm and an impression that the beings mean the witness no harm.
+    original_excerpt: whether you're talking about like the, the sort of blonde, you know, uh, blue-eyed, blajaran, Nordic
+      ... George Adamski spoke about ... whether they're these insect mantis looking creatures or whether it's the greys or
+      whatever, but they always feel flooded with this sense of a familiarity, but then the sense of love and compassion,
+      like they mean you no harm.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+        title: George Adamski
+        slug: george-adamski
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:03:17.3-01:03:43.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: a80a0b03-7374-4510-b8a8-74bd1f552229
+    claim_hash: 3caeeeb1a52ab18fefc51ad29087b7f0bdd6162d37b2e42f2c6cd3a4a93b73a0
+    content: Chris Ramsay proposes that non-human intelligences communicate with humans by way of their access to the informational
+      substrate, which for them is a natural mode of communication.
+    original_excerpt: do you think like hypothetically, like that's what they're also using to communicate is they just have
+      access to that substrate and for them to communicate, it's just like a natural, more.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.691
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:03:49.6-01:04:00.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 0d37db19-edc6-4f12-aae7-225af80a820a
+    claim_hash: d726f827e745af4835a7b70075ff8aba7ed345cf3409c5c48a13a7a11447d587
+    content: Julia Mossbridge considers that a sufficiently sophisticated culture would have no interest in war, regarding
+      war as primitive, and would instead be aware of interdependence, of consciousness being everywhere, and of the informational
+      substrate underlain by love.
+    original_excerpt: if you actually are a sophisticated enough culture, you're not interested in war. Like war is so primitive.
+      It's just not interesting. You're aware that we're all interdependent. You're aware that consciousness is everywhere.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.742
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
+        title: Unconditional love
+        slug: unconditional-love
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:06:06.9-01:06:19.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 77fc8b03-4693-4d98-8030-2ad1bb637809
+    claim_hash: af4000d7910fb63d423f472b9a39102a63a05f829d56e8b6bf42a079b1d5a91a
+    content: Julia Mossbridge proposes that reported alien visitations may be memories inserted into people's minds by an
+      agent that understands the informational substrate, rather than events that physically happened.
+    original_excerpt: that speaks to alien visitations where people just have these things potentially inserted into their
+      mind that didn't actually physically happen but they're insertions because if you understand the informational substrate
+      you can do those insertions
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
+        title: Informational substrate
+        slug: informational-substrate
+      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+        title: Julia Mossbridge
+        slug: julia-mossbridge
+      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
+        title: Alien abduction
+        slug: alien-abduction
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 01:09:21.5-01:09:32.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 91f6a95d-e611-43dd-a34a-88f836e9611d
+    claim_hash: 771c6d3e8ea906bb33516f12906d1815974fa3f70ce60f9145afe5bc381ffeb7
+    content: Chris Ramsay has had no contact experiences with non-human intelligence other than seeing some things in the
+      sky and hearing a female voice during an out-of-body experience.
+    original_excerpt: 'Julia Mossbridge: Do you have any contact experiences? Chris Ramsay: No. No other than, you know, seeing
+      some things in the sky. ... And then that one time throughout the out-of-body experience hearing a female voice.'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      title: Chris Ramsay
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chris Ramsay
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.738
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+        title: Chris Ramsay
+        slug: chris-ramsay
+      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+        title: Out-of-Body Experience (OBE)
+        slug: out-of-body-experience-obe
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 02:04:35.6-02:04:52.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
+      friendly_name: null
+  - claim_id: 10c0e1b2-33d4-41e5-b6d0-4b45acb85317
+    claim_hash: 9bbd0407c8f9f0c1604c8972d214e6a2a5e99dccee51820de53088ea8acdbc47
+    content: The Scientific Coalition for UAP Studies is a group made up mostly of scientists and engineers trying to work
+      out what can be learned about Unidentified Aerial Phenomena and about non-human intelligence.
+    original_excerpt: it's a group of scientists and engineers mostly who are trying to figure out what can we learn about
+      UAP and what's the deal with NHI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
+      title: Julia Mossbridge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Julia Mossbridge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.59
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 7e80d2fc-5b49-49f7-ba5c-ba784824e2bb
+        title: Scientific Coalition for UAP Studies
+        slug: scientific-coalition-for-uap-studies
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
+    date: null
+    date_end: null
+    location_in_record: 02:46:51.9-02:46:59.3
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
+      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
+      record_date: '2026-08-14'
+      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
+      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
       friendly_name: null

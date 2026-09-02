@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1e77da37a2f07b561dd9e96bfffe4c7b13915346fa25fb9531c7c13173f5202a
+brief_hash: c7d6b6d641b416a0603440a769c31046ad6e285680cae58dd48f0f9be6c2dd78
 page:
   kind: entity
   node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
@@ -9,11 +9,21 @@ page:
   claim_count: 28
   claim_count_total: 28
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 28
   tokens_estimated: 3513
   sized_against: 1050000
+entailment:
+  assessed: 28
+  unassessed: 0
+  entails: 22
+  neutral: 3
+  contradicts: 3
+  entailed_by_quote: 11
+  entailed_by_window: 11
+  entailed_by_quote_fraction: 0.393
+  entailed_by_window_fraction: 0.393
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -169,6 +179,44 @@ related_nodes:
     slug: william-lynn-iii
     shared_claims: 1
 claims:
+  - claim_id: a9c81425-186c-44b8-9738-abba4b97fec3
+    claim_hash: 109529aaf704f20e8ece4bdad816e61ef94603d4b85c5f3bd997acd2cb9cfaa2
+    content: In 2011, Charles McCullough III reported directly to the then-Director of National Intelligence, James R. Clapper.
+    original_excerpt: At that time, McCullough reported directly to the then-Director of National Intelligence, James R. Clapper
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.734
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
+        title: Charles McCullough III
+        slug: charles-mccullough-iii
+    date: '2011'
+    date_end: null
+    location_in_record: char:10934-11033
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: 8489fd4d-b292-43e9-8c20-c0ca2eca871c
     claim_hash: 9b4c68804fc0f7ad15728ea3e7276429ee8921b5a24296e243d5fdcf91a06be0
     content: James Clapper was the US Deputy Secretary of Defense for Intelligence and a former director of the Defense Intelligence
@@ -184,6 +232,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -200,7 +253,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -222,6 +275,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -247,513 +305,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a9c81425-186c-44b8-9738-abba4b97fec3
-    claim_hash: 109529aaf704f20e8ece4bdad816e61ef94603d4b85c5f3bd997acd2cb9cfaa2
-    content: In 2011, Charles McCullough III reported directly to the then-Director of National Intelligence, James R. Clapper.
-    original_excerpt: At that time, McCullough reported directly to the then-Director of National Intelligence, James R. Clapper
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-      - node_id: dea6fa7c-2ed1-4328-aac1-6b8e077f00b1
-        title: Charles McCullough III
-        slug: charles-mccullough-iii
-    date: '2011'
-    date_end: null
-    location_in_record: char:10934-11033
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-      record_date: '2023-06-05'
-      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
-  - claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
-    claim_hash: 911c5eb91c854d15e9d7679bbebd8447b8cfb624a4526214ea07e264ae7e99c1
-    content: James Clapper served as Lue Elizondo's boss at the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).
-    original_excerpt: This all began when General James Clapper, my old boss at the Office of the Undersecretary of Defense
-      for Intelligence (OUSD(I))
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: ch12:49102-49227
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
-    claim_hash: 4063218fc2fe3aebdebe6f2cee002bf0c91d394b611261b8c62f375318c57928
-    content: President Barack Obama asked James Clapper to become the new Director of National Intelligence (DNI).
-    original_excerpt: was asked by President Barack Obama to become the new DNI.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-        title: Barack Obama
-        slug: barack-obama
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch12:49232-49286
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: d1cc47f0-2761-41c6-891f-795d0a50985e
-    claim_hash: d4cf0f59ee6c2895c04bd498715238f30461a84599d163529bb80511e99094b4
-    content: James Clapper and Devon Woods did not always see eye to eye, but when Clapper became the Director of National
-      Intelligence (DNI), he offered Woods the job at the Defense Intelligence Agency (DIA) regardless.
-    original_excerpt: Clapper and Woods didn’t always see eye to eye, but when Clapper made the move to become the DNI, he
-      offered Woods the job at DIA regardless.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-        title: Defense Intelligence Agency (DIA)
-        slug: defense-intelligence-agency-dia
-      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
-        title: Devon Woods
-        slug: devon-woods
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch12:49291-49421
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 7310a06e-1534-4980-a1f0-541204a4103c
-    claim_hash: 8efd1967de55dc6cd08b9d830ea4cf2364b74ed3c2d51dea30d90b9f982907d3
-    content: Devon Woods did not get along with James Clapper, who was Luis Elizondo's boss at the United States Department
-      of Defense (DoD) and served as undersecretary of defense for intelligence.
-    original_excerpt: Unfortunately, Woods did not get along with my current boss over at DoD, Lieutenant General James Clapper,
-      who at the time was the undersecretary of defense for intelligence.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
-        title: Devon Woods
-        slug: devon-woods
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch16:5031-5192
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
-    claim_hash: 6ab486e31c35d0ed38868e5bb19f016e1b3142a5246009129d481e9e208997d1
-    content: James Clapper received a phone call from Barack Obama during a meeting with Luis Elizondo, and shortly afterward
-      became the next Director of National Intelligence.
-    original_excerpt: '"Sir, it''s Obama," she said. Clapper stepped out to take the president''s call. When he reentered
-      the room, he said to us, "How do you all feel about me being the next director of national intelligence?" And just like
-      that, he was.'
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
-        title: Barack Obama
-        slug: barack-obama
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch16:5551-5778
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
-    claim_hash: 4064fec0754cdc9b3bb204529b8e1070f17946c2e39230aef9d3c0ccf8eb6945
-    content: Devon Woods accepted the position of deputy director of the Defense Intelligence Agency (DIA) after James Clapper
-      became Director of National Intelligence.
-    original_excerpt: When I next heard that Woods had accepted the position of the deputy director of DIA, I took this to
-      be a consolation prize of sorts.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-        title: Defense Intelligence Agency (DIA)
-        slug: defense-intelligence-agency-dia
-      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
-        title: Devon Woods
-        slug: devon-woods
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch16:6181-6308
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 98903661-01f9-4138-bbcd-398b8713311e
-    claim_hash: e8ad4f6dc66b2280313e4636cac621bac5f142e53918159d178fbe7503192479
-    content: While waiting in the greenroom at CNN before an on-camera interview, Luis Elizondo and Jennifer were approached
-      by James Clapper.
-    original_excerpt: While waiting in the greenroom at CNN prior to an on-camera interview, Jenn and I were approached by
-      my old boss, the legendary general James Clapper.
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
-        title: Cable News Network (CNN)
-        slug: cable-news-network-cnn
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
-        title: Jennifer
-        slug: jennifer
-    date: null
-    date_end: null
-    location_in_record: ch29:25015-25157
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c7a88c5d-064d-45db-b48b-1c0bd94b8b76
-    claim_hash: 784d50ca3d740ff9f52407d752751261fb7f17da82c676970562fd4f7f674099
-    content: James Clapper is a former undersecretary of defense for intelligence, former head of Air Force intelligence,
-      and former director of national intelligence.
-    original_excerpt: the legendary general James Clapper, a former undersecretary of defense for intelligence, former head
-      of Air Force intelligence, and former director of national intelligence.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch29:25129-25290
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 6b23250c-6525-4a14-acbe-bf95108cbf1c
-    claim_hash: a9149ea578febbeaad0350d496d54b15526236967740889819786cb518984e7c
-    content: James Clapper had been one of Luis Elizondo's upper-level supervisors during what Elizondo considered the golden
-      era of the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).
-    original_excerpt: Clapper had been one of my upper-level supervisors, in what I considered the golden era of OUSD(I),
-      when people were happy and the mission was their focus.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: ch29:25357-25533
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
-    claim_hash: c9c5ae6ae1805f5cd92b4c056f164c192782bd53fe4f1299d7c0326666c3e033
-    content: James Clapper told Luis Elizondo he was surprised the Pentagon admitted it had a UAP programme and that he was
-      proud of Elizondo.
-    original_excerpt: He greeted us warmly, saying how surprised he was that the Pentagon admitted it had a UAP program, and
-      that he was proud of me.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-      title: James R. Clapper
-    provenance_chain:
-      origin_kind: speaker
-      origin: James Clapper
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
-        title: The Pentagon
-        slug: the-pentagon
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-    date: null
-    date_end: null
-    location_in_record: ch29:25579-25703
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 402a08d7-f120-435a-b913-76318bdcc23a
-    claim_hash: e958a35f16a309de99b24c37bbcd12dbef1802a285f0b6ced206e5cfe660ab6b
-    content: James Clapper was Lue Elizondo's boss at the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).
-    original_excerpt: With my old boss at the Office of the Undersecretary of Defense for Intelligence (OUSD(I)), Gen. James
-      Clapper, at the CNN Newsroom in 2017
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: ch37:1397-1532
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c4e971d3-d3f1-45f1-a275-3f8cad4ab140
-    claim_hash: c65877954ae8defa23e45f4d203d1b4c78d27e31c6da42156066a649b5c4d5be
-    content: James Clapper told Lue Elizondo he was surprised to learn the Pentagon had admitted it had a UAP programme.
-    original_excerpt: He told me he was surprised to learn the Pentagon had admitted it had a UAP program.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: named
-      origin: James Clapper
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
-        title: James R. Clapper
-        slug: james-r-clapper
-      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-        title: USA, Washington DC, Pentagon
-        slug: washington-dc-pentagon-usa
-    date: null
-    date_end: null
-    location_in_record: ch37:1586-1662
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 08e3f0b0-0d12-4b28-911d-e33ed4e440da
     claim_hash: c787dc371ca78eaa32e76ccc9fcbf2ab109bddb5f38e1641392fcb90c162f081
     content: William Lynn III declined to designate AAWSAP/AATIP a Department of Defense (DoD) Special Access Program, based
@@ -770,6 +325,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1484ac16-f982-40b3-8c85-5f61eea563eb
         title: Memorandum from James Clapper to the Deputy Secretary of Defense, 2009-11-17
@@ -800,9 +360,539 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: b1120fd2-e0b3-4ab9-bb32-c35dddc7ed96
+    claim_hash: 911c5eb91c854d15e9d7679bbebd8447b8cfb624a4526214ea07e264ae7e99c1
+    content: James Clapper served as Lue Elizondo's boss at the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).
+    original_excerpt: This all began when General James Clapper, my old boss at the Office of the Undersecretary of Defense
+      for Intelligence (OUSD(I))
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch12:49102-49227
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: cdf8d701-990d-4487-bad6-7ea598e8ee59
+    claim_hash: 4063218fc2fe3aebdebe6f2cee002bf0c91d394b611261b8c62f375318c57928
+    content: President Barack Obama asked James Clapper to become the new Director of National Intelligence (DNI).
+    original_excerpt: was asked by President Barack Obama to become the new DNI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch12:49232-49286
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d1cc47f0-2761-41c6-891f-795d0a50985e
+    claim_hash: d4cf0f59ee6c2895c04bd498715238f30461a84599d163529bb80511e99094b4
+    content: James Clapper and Devon Woods did not always see eye to eye, but when Clapper became the Director of National
+      Intelligence (DNI), he offered Woods the job at the Defense Intelligence Agency (DIA) regardless.
+    original_excerpt: Clapper and Woods didn’t always see eye to eye, but when Clapper made the move to become the DNI, he
+      offered Woods the job at DIA regardless.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.588
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch12:49291-49421
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7310a06e-1534-4980-a1f0-541204a4103c
+    claim_hash: 8efd1967de55dc6cd08b9d830ea4cf2364b74ed3c2d51dea30d90b9f982907d3
+    content: Devon Woods did not get along with James Clapper, who was Luis Elizondo's boss at the United States Department
+      of Defense (DoD) and served as undersecretary of defense for intelligence.
+    original_excerpt: Unfortunately, Woods did not get along with my current boss over at DoD, Lieutenant General James Clapper,
+      who at the time was the undersecretary of defense for intelligence.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch16:5031-5192
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 49e96a35-8ee8-408a-824b-1588b1889847
+    claim_hash: 6ab486e31c35d0ed38868e5bb19f016e1b3142a5246009129d481e9e208997d1
+    content: James Clapper received a phone call from Barack Obama during a meeting with Luis Elizondo, and shortly afterward
+      became the next Director of National Intelligence.
+    original_excerpt: '"Sir, it''s Obama," she said. Clapper stepped out to take the president''s call. When he reentered
+      the room, he said to us, "How do you all feel about me being the next director of national intelligence?" And just like
+      that, he was.'
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+        title: Barack Obama
+        slug: barack-obama
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch16:5551-5778
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b8a9bdd6-4c2f-4ef9-9fcc-202135202d9a
+    claim_hash: 4064fec0754cdc9b3bb204529b8e1070f17946c2e39230aef9d3c0ccf8eb6945
+    content: Devon Woods accepted the position of deputy director of the Defense Intelligence Agency (DIA) after James Clapper
+      became Director of National Intelligence.
+    original_excerpt: When I next heard that Woods had accepted the position of the deputy director of DIA, I took this to
+      be a consolation prize of sorts.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 76e614a1-ecfa-46a9-8963-d1f4befa2133
+        title: Devon Woods
+        slug: devon-woods
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch16:6181-6308
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 98903661-01f9-4138-bbcd-398b8713311e
+    claim_hash: e8ad4f6dc66b2280313e4636cac621bac5f142e53918159d178fbe7503192479
+    content: While waiting in the greenroom at CNN before an on-camera interview, Luis Elizondo and Jennifer were approached
+      by James Clapper.
+    original_excerpt: While waiting in the greenroom at CNN prior to an on-camera interview, Jenn and I were approached by
+      my old boss, the legendary general James Clapper.
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+        title: Cable News Network (CNN)
+        slug: cable-news-network-cnn
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: d9532953-68e1-4f10-bfc3-a62ab2c428bc
+        title: Jennifer
+        slug: jennifer
+    date: null
+    date_end: null
+    location_in_record: ch29:25015-25157
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c7a88c5d-064d-45db-b48b-1c0bd94b8b76
+    claim_hash: 784d50ca3d740ff9f52407d752751261fb7f17da82c676970562fd4f7f674099
+    content: James Clapper is a former undersecretary of defense for intelligence, former head of Air Force intelligence,
+      and former director of national intelligence.
+    original_excerpt: the legendary general James Clapper, a former undersecretary of defense for intelligence, former head
+      of Air Force intelligence, and former director of national intelligence.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch29:25129-25290
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6b23250c-6525-4a14-acbe-bf95108cbf1c
+    claim_hash: a9149ea578febbeaad0350d496d54b15526236967740889819786cb518984e7c
+    content: James Clapper had been one of Luis Elizondo's upper-level supervisors during what Elizondo considered the golden
+      era of the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).
+    original_excerpt: Clapper had been one of my upper-level supervisors, in what I considered the golden era of OUSD(I),
+      when people were happy and the mission was their focus.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch29:25357-25533
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 70109fb6-1cd1-4df1-b8bb-9b6313a22794
+    claim_hash: 979113d2ded8dcaab25b707e942f83ff0229a15a0337278b8bccb35bfe21fb2f
+    content: James Clapper told Luis Elizondo he was surprised the Pentagon admitted it had a UAP programme and that he was
+      proud of Elizondo.
+    original_excerpt: He greeted us warmly, saying how surprised he was that the Pentagon admitted it had a UAP program, and
+      that he was proud of me.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+      title: James R. Clapper
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Clapper
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+        title: The Pentagon
+        slug: the-pentagon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+    date: null
+    date_end: null
+    location_in_record: ch29:25579-25703
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 402a08d7-f120-435a-b913-76318bdcc23a
+    claim_hash: e958a35f16a309de99b24c37bbcd12dbef1802a285f0b6ced206e5cfe660ab6b
+    content: James Clapper was Lue Elizondo's boss at the Office of the Undersecretary of Defense for Intelligence (OUSD(I)).
+    original_excerpt: With my old boss at the Office of the Undersecretary of Defense for Intelligence (OUSD(I)), Gen. James
+      Clapper, at the CNN Newsroom in 2017
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch37:1397-1532
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c4e971d3-d3f1-45f1-a275-3f8cad4ab140
+    claim_hash: c65877954ae8defa23e45f4d203d1b4c78d27e31c6da42156066a649b5c4d5be
+    content: James Clapper told Lue Elizondo he was surprised to learn the Pentagon had admitted it had a UAP programme.
+    original_excerpt: He told me he was surprised to learn the Pentagon had admitted it had a UAP program.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: James Clapper
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
+        title: James R. Clapper
+        slug: james-r-clapper
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch37:1586-1662
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 2c8caf19-6411-4f96-a5d8-d2563aaee6c2
     claim_hash: c513605ffbfac1beac31e9fc85057f22188653a6689fc9c92a10682c239339dc
     content: John Brennan was Barack Obama's CIA director and James Clapper was his director of national intelligence.
@@ -819,6 +909,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -861,6 +956,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
         title: John Brennan
@@ -903,6 +1003,11 @@ claims:
         - a documentary film appearance by James Clapper
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -943,6 +1048,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c74447b-218f-492e-a2f7-26fe9ba4e1cb
         title: John Brennan
@@ -982,6 +1092,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper
@@ -1018,6 +1133,11 @@ claims:
         - Liberation Times
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.531
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
         title: Betty Sapp
@@ -1057,6 +1177,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper
@@ -1087,6 +1212,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper
@@ -1125,6 +1255,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
         title: Betty Sapp
@@ -1163,6 +1298,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
         title: Betty Sapp
@@ -1202,6 +1342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper
@@ -1242,6 +1387,11 @@ claims:
         - Liberation Times
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3b88bf2-de8f-45bf-addf-fadd9244c4e5
         title: James R. Clapper

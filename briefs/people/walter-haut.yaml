@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 6432a515f949b265c41ac14c091c73894dde947ecce7ba9116511cd6342c8678
+brief_hash: 7cfad4da8ac86db55b645ec083a5d47d7d419ef75c65cba12a25dab27d56c671
 page:
   kind: entity
   node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
@@ -9,11 +9,21 @@ page:
   claim_count: 72
   claim_count_total: 72
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 72
   tokens_estimated: 9209
   sized_against: 1050000
+entailment:
+  assessed: 72
+  unassessed: 0
+  entails: 52
+  neutral: 16
+  contradicts: 4
+  entailed_by_quote: 14
+  entailed_by_window: 38
+  entailed_by_quote_fraction: 0.194
+  entailed_by_window_fraction: 0.528
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -27,7 +37,7 @@ related_nodes:
     title: Roswell incident (1947)
     node_type: event
     slug: roswell-incident-1947
-    shared_claims: 16
+    shared_claims: 20
   - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
     title: William Blanchard
     node_type: person
@@ -43,16 +53,11 @@ related_nodes:
     node_type: person
     slug: jesse-marcel
     shared_claims: 5
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+  - node_id: 3e507b49-d600-474f-8995-453932dc1e01
     title: USA, New Mexico, Roswell Army Air Field
     node_type: place
     slug: new-mexico-roswell-army-air-field-usa
     shared_claims: 5
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 4
   - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
     title: Building 84 (B-29 hangar, Roswell Army Air Base)
     node_type: object
@@ -173,6 +178,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01740738-2c6a-4d5b-a268-07cd31ad31fe
         title: July 8, 1947 Roswell Army Air Field press release
@@ -214,6 +224,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -236,7 +251,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -259,6 +274,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -278,7 +298,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -301,6 +321,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.893
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -320,7 +345,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -341,6 +366,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -353,11 +383,11 @@ claims:
     location_in_record: ch7:18146-18252
     evidence:
       score: null
-      independent_sources: 2
+      independent_sources: 1
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -378,6 +408,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -397,7 +432,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -416,6 +451,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.917
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00e0c704-f6aa-413d-a561-150cab083eae
         title: Witness to Roswell
@@ -438,7 +478,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -459,6 +499,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -481,7 +526,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -502,6 +547,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -521,7 +571,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -542,6 +592,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -558,7 +613,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -580,6 +635,11 @@ claims:
         - Don Schmitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -596,7 +656,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -615,6 +675,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -628,7 +693,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -645,6 +710,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -661,7 +731,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -679,6 +749,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -698,7 +773,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -717,6 +792,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -736,7 +816,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -758,6 +838,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -780,7 +865,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -799,6 +884,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -818,7 +908,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -835,6 +925,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -853,7 +948,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 07fc1176-d7a9-473a-a4dc-bcdc2347771d
-    claim_hash: 77c119f898e2f518ad2eb3e77a0f3a736d25aa9420ff8b480b2db3e5370e3e8b
+    claim_hash: 239c153f58168c2bed129c5517e8af723773bad2429ec32b1f4487c08e94a049
     content: Whitley Strieber and Anne Strieber met Walter Haut at his home and had a fairly extensive conversation with him
       about his work as Roswell Army Air Force Base press officer.
     original_excerpt: We met him at his home and had a fairly extensive conversation with him. He described his work as base
@@ -869,6 +964,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -876,12 +976,12 @@ claims:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
         slug: anne-strieber
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
     date: null
     date_end: null
     location_in_record: ch11:1594-1703
@@ -912,6 +1012,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -944,6 +1049,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -978,6 +1088,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1014,6 +1129,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1054,6 +1174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.686
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1090,6 +1215,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1127,6 +1257,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1167,6 +1302,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1200,6 +1340,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.764
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1232,6 +1377,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1272,6 +1422,11 @@ claims:
         - Walter Haut affidavit (sworn 2002, released 2007)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
         title: Walter Haut affidavit (sworn 2002, released 2007)
@@ -1308,6 +1463,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.549
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1343,6 +1503,11 @@ claims:
         - Walter Haut affidavit (sworn 2002, released 2007)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.627
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac1d1ee5-756a-4a27-937b-a4664bed217d
         title: Walter Haut affidavit (sworn 2002, released 2007)
@@ -1377,6 +1542,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.523
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1412,6 +1582,11 @@ claims:
         - Walter Haut affidavit (sworn 2002, released 2007)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -1449,6 +1624,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.789
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1486,6 +1666,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1519,6 +1704,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1540,7 +1730,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 267876ad-8143-4153-88f2-c8d99c8da86a
-    claim_hash: 1ea614e8857b0fb72e6808d69e457575f3619d149aad5f785c4c5667fbe5eeee
+    claim_hash: 9fd55640868b16c81127d40bb8df956aed44f81fec02138102de3be6bf7a1598
     content: On the morning of 1947-07-08, Walter Haut attended a regularly scheduled staff meeting at Roswell Army Air Force
       Base at 7:30 a.m.
     original_excerpt: On Tuesday morning, July 8, I would attend the regularly scheduled staff meeting at 7:30 a.m.
@@ -1555,11 +1745,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-08'
@@ -1576,7 +1771,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 6b87785c-9914-4683-842a-192f19362454
-    claim_hash: b68cd0aeeaede8238d8fb35c74e725a44daee1aaa5b9ed84632d615ea2fd633e
+    claim_hash: aac4c7e85e89f866286437a3708380e8e27252816f5bb9c900dda532c4082da3
     content: The 1947-07-08 staff meeting at Roswell Army Air Force Base was attended by William Blanchard, Jesse Marcel,
       Sheridan Cavitt, James I. Hopkins, Patrick Saunders, Isadore Brown, and Ulysses S. Nero.
     original_excerpt: Besides Blanchard, Marcel; CID Capt. Sheridan Cavitt; Col. James I. Hopkins, the operations officer;
@@ -1593,6 +1788,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 085d3824-ddd8-49a0-891d-1fd008f6e704
         title: Ulysses S. Nero
@@ -1600,7 +1800,7 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: c581a3e1-83fa-424c-840d-df874cfccebe
@@ -1648,6 +1848,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.901
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 011c9b9f-187c-4a38-a713-19a677937d85
         title: Thomas J. DuBose
@@ -1691,6 +1896,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -1730,6 +1940,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.751
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -1767,6 +1982,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1785,7 +2005,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: b1fa11c8-d913-42e2-9de4-3bfee7e590df
-    claim_hash: 781fc1564a9e4a867e7c11276605ca87784d68ffc9326799d30e1f4f14b6b895
+    claim_hash: 40b5b05983bb5223fbbcd879e4f74962763ff673770ae76be20dbdc4a9c6180e
     content: The 1947 Roswell crash debris included pieces resembling metal foil, paper-thin yet extremely strong, and pieces
       with unusual markings along their length.
     original_excerpt: Pieces, which resembled metal foil, paper thin yet extremely strong, and pieces with unusual markings
@@ -1801,6 +2021,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
@@ -1833,6 +2058,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1851,7 +2081,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: c8206e5b-f736-43fc-b3b5-5dada63c5fe4
-    claim_hash: 6ad2216e1091b9b3fbb617377fffd00f4276ed392bfebfc889e9afd8fd166d88
+    claim_hash: 817798f4ca5cf5eba63be0f9452127c79b00c9c08b99c80c4d3104a373209c6f
     content: No one at the 1947-07-08 staff meeting at Roswell Army Air Force Base was able to identify the recovered crash
       debris.
     original_excerpt: No one was able to identify the crash debris.
@@ -1866,13 +2096,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
         title: Roswell incident (1947)
         slug: roswell-incident-1947
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:2163-2201
@@ -1904,6 +2139,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1925,7 +2165,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 8293d6b2-fdb5-4504-b97c-f4d5544e55c4
-    claim_hash: 17317da6673c7078239c791a510bdc7152e3b70fcb44c8270ed27839db272f48
+    claim_hash: bf02b86af499499b5537edcfbcca476e3c7da868418cf88f5d29f0e9efadea27
     content: At approximately 9:30 a.m. on 1947-07-08, William Blanchard phoned Walter Haut's office and dictated a press
       release stating that the Roswell Army Air Force Base had in its possession a flying disc recovered from a ranch northwest
       of Roswell, with Jesse Marcel flying the material to higher headquarters.
@@ -1942,6 +2182,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.403
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1985,6 +2230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.732
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2031,6 +2281,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2049,7 +2304,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
-    claim_hash: a0c0384c2c6053219f4794b45ca8fbe58d81e042be28ff71bbe7e501ddae3eaf
+    claim_hash: ffc4900c65512a0ef550a8ebfed14451238283210936764302f7551da73695ef
     content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base in Roswell, New Mexico, serving as the
       base Public Information Officer.
     original_excerpt: In July, 1947, I was stationed at the Roswell Army Air Base in Roswell, New Mexico, serving as the base
@@ -2065,16 +2320,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
         slug: new-mexico-usa
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
     date: 1947-07
     date_end: null
     location_in_record: ch28:310-437
@@ -2104,6 +2364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2125,7 +2390,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 5bd43ee5-5e57-4abe-b53f-2a92628b5862
-    claim_hash: 16883d5b28a8aeb98578031a8615eaa1b88037a17c2ac79fbe1d039f6fe4aadd
+    claim_hash: dacc4dc3c38d746bd00334e67f85b8d5044ba753d19d2c506adf3fc6d06a34bb
     content: Before Walter Haut left the base, William Blanchard personally took him to Building 84, a B-29 hangar located
       on the east side of the tarmac at Roswell Army Air Force Base.
     original_excerpt: Before leaving the base, Col. Blanchard took me personally to Building 84, a B-29 hangar located on
@@ -2141,6 +2406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.388
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2148,12 +2418,12 @@ claims:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
         title: Building 84 (B-29 hangar, Roswell Army Air Base)
         slug: roswell-army-air-base-building-84-b-29-hangar
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:3260-3381
@@ -2183,6 +2453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.816
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2204,7 +2479,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: d8e2f767-c894-4755-9024-9b3add79867a
-    claim_hash: 6c5b7df3dc4f4101d6676f449127b8acd0acd152539eacbc0572387956b4192d
+    claim_hash: 0ac65a17430ac3c16d99069b1b6fe21ff0ba65eda818f882cb2b88d1a5fb6a4b
     content: Inside Building 84, Walter Haut was permitted from a safe distance to observe the object recently recovered north
       of Roswell.
     original_excerpt: Once inside, I was permitted from a safe distance to first observe the object jus recovered north of
@@ -2220,6 +2495,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2244,7 +2524,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 4e90feed-b3ed-4289-8dea-3f226881005c
-    claim_hash: 22718c39dd94529a3b057b6326257c0a351286e587cf7d216aeeccdf7b8ed2c4
+    claim_hash: c9434bfd7169da1f6a63b0c1b54aca86af9db7cef344e9006f23c53947a97ad1
     content: The recovered object Walter Haut observed inside Building 84 was approximately 3.7 to 4.6 metres in length, slightly
       less in width, about 1.8 metres high, and egg-shaped.
     original_excerpt: It was approx. 12-15 feet in length, not quite as wide, about 6 feet high and more of an egg shape.
@@ -2259,13 +2539,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:3599-3692
@@ -2280,7 +2565,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: dfee2cb7-2533-49de-a2ac-39872bfa5b13
-    claim_hash: 7a458406406042b29e995d03015ae0a47ab01836bdc3d751e34020f951da8e30
+    claim_hash: d23cbf3b3cee16d7d1669aa6fbf7552018a16fcdf111c8f3e3b9c702b6fa5def
     content: The lighting inside Building 84 was poor, but the surface of the recovered object appeared metallic to Walter
       Haut.
     original_excerpt: Lighting was poor, but its surface did appear metallic.
@@ -2295,13 +2580,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:3699-3745
@@ -2316,7 +2606,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 34ec65d0-e9ff-4ee3-bad7-dbd1b95c9cef
-    claim_hash: 7dee24c62e9176472994b38d38259589e7b2ede008ef28f1c69a688fed97f930
+    claim_hash: 4b19d14ab8114a2d666b886fbc2cdfc6e44769163cde8b7f80326170eb05cf0f
     content: Walter Haut observed no windows, portholes, wings, tail section, or landing gear visible on the recovered object
       inside Building 84.
     original_excerpt: No windows, portholes, wings, tail section, or landing gear were visible.
@@ -2331,13 +2621,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:3755-3820
@@ -2352,7 +2647,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 42011754-fe21-4b0a-a51a-b00b071e9f2b
-    claim_hash: 448a95e9cd7df64bc44e396ceb00f3808e2a95b0efb121d776a0f3060ec59478
+    claim_hash: 0ffcede1bb6d940e576e49b7620b1bae39b893ffb9fb5933c9b7663ff73d4fe1
     content: From a distance inside Building 84, Walter Haut was able to see a couple of bodies under a canvas tarpaulin.
     original_excerpt: Also from a distance, I was able to see a couple of bodies under a canvas tarpaulin.
     claim_type: observation
@@ -2366,16 +2661,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b396851f-a4bb-406a-9a7f-761ea902a164
         title: Building 84 (B-29 hangar, Roswell Army Air Base)
         slug: roswell-army-air-base-building-84-b-29-hangar
+      - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+        title: Roswell incident (1947)
+        slug: roswell-incident-1947
     date: '1947-07-08'
     date_end: null
     location_in_record: ch28:3830-3904
@@ -2390,7 +2690,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: a47d7a9b-651d-479c-a0ab-56596602a64d
-    claim_hash: 28eefaf8d4dd9e1e877e5da7328a997fe562a2c1c5560dca5906cfaba17805c1
+    claim_hash: 2a3e0374c153b5cdc87190c37c938de38b15ca90ca37fe89c34ee351236e57c8
     content: Walter Haut was informed of a temporary morgue set up to accommodate the bodies recovered at Roswell in 1947.
     original_excerpt: I was informed of a temporary morgue set up to accommodate the recovered bodies.
     claim_type: testimony
@@ -2404,6 +2704,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2425,7 +2730,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 7eb8cbd9-2770-4694-a7ce-e0cdd6565ad7
-    claim_hash: 04ce592db257dd604686d3935719c7320807dc0745272859f853159f9b2489c6
+    claim_hash: dce2ab2b0c1f51a3fba2ffed96457a9ee31ebfee8bd13b0fa250c2da6343a634
     content: Walter Haut was informed that the 1947 Roswell wreckage was not radioactive.
     original_excerpt: I was informed that the wreckage was not "hot" (radioactive).
     claim_type: testimony
@@ -2439,6 +2744,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.931
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2460,7 +2770,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: df90eebc-f967-4025-99c1-4959e301ccf3
-    claim_hash: 849fcf1a0743a0bcf36cc4dfb14e93bd579a462955a5a66ad789d0145ca63004
+    claim_hash: 4c27d41b9772777a6a8e17669eb76aa039cfe7d338407bc0242d471ef168c1da
     content: Upon his return from Fort Worth, Jesse Marcel described to Walter Haut taking pieces of the 1947 Roswell wreckage
       to Roger Ramey's office and, after returning from a map room, finding the remains of a weather balloon and a radar kite
       substituted in place of the original wreckage.
@@ -2479,6 +2789,11 @@ claims:
         - Jesse Marcel's account, described to Walter Haut
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2524,6 +2839,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2545,7 +2865,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: d6970389-dbd1-4a32-a60f-6c33f644ced0
-    claim_hash: 8d3e36d7a1bdbdecec16350f4270d6d1649dfe0f4d327eaf2fc6c599045c724f
+    claim_hash: 82e312ee4e847844c1fa5db48c17e2178726548a6e4f78a673d0f8d62f336898
     content: Walter Haut was allowed to make at least one visit to one of the 1947 Roswell recovery sites during the military
       cleanup.
     original_excerpt: I would be allowed to make at least one visit to one of the recovery sites during the military cleanup.
@@ -2560,6 +2880,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2581,7 +2906,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: a0d01afb-99c2-4c66-9e63-ec2cedb9a34b
-    claim_hash: 5d19805bb0feeb5e0fe9af85bc1b1f5af53c703ada4d7d759fabe4697adc0ae8
+    claim_hash: 564877f91b9a638ba403c396be056904a1b9d7fa3bf6c897469499d85a2c7174
     content: Walter Haut returned from a 1947 Roswell recovery site with some of the wreckage, which he displayed in his office.
     original_excerpt: I would return to the base with some of the wreckage which I would display in my office.
     claim_type: testimony
@@ -2595,6 +2920,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2616,7 +2946,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: c1be2187-ab8b-4a01-a5a3-1c665d9254d8
-    claim_hash: ea2c2d1609f5615fe1879cee911fd067c77569d1c4fea1d1a923d6578521d73c
+    claim_hash: 5d9e782d76278ea4d9484f17f7467b2e72e5889ccb682b0ece9c43f8c4b40c23
     content: Walter Haut was aware that two separate military teams returned to each 1947 Roswell recovery site months later
       for periodic searches for remaining evidence.
     original_excerpt: I was aware two separate teams would return to each site months later for periodic searches for any
@@ -2632,6 +2962,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2653,7 +2988,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: dd693430-5ca1-4ba2-96bb-b628b3bfc9b2
-    claim_hash: 5a512858432b2cb2856a47aee31a67d6d8239d4cf37a7601806d01bedd5d10f2
+    claim_hash: dfb2e91194517321e555fd7eb009b62457fa5191871c0ef52eb46942c9a18d45
     content: Walter Haut was convinced that what he personally observed at Roswell in 1947 was some type of craft and its
       crew from outer space.
     original_excerpt: I am convinced that what I personally observed was some type of craft and its crew from outer space.
@@ -2668,6 +3003,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2680,7 +3020,7 @@ claims:
     location_in_record: ch28:5037-5131
     evidence:
       score: null
-      independent_sources: 2
+      independent_sources: 1
     provenance:
       record_id: 759e8d7b-a820-4e00-bdc3-9aebf9e4b1b1
       record_title: The Fourth Mind
@@ -2705,6 +3045,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2742,6 +3087,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -2763,7 +3113,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 1f8b28dd-7852-41a4-965f-598e183af6a1
-    claim_hash: 6d268063bd29a9d0efb9ada01911dda8c7fe90a8698766bed602fd0e623b1068
+    claim_hash: 890c0a048051415445f12b2eeaec80abeeb4ddb015a8dad024e6214f9eaec867
     content: On 1947-07-07, Walter Haut became aware that someone had reported the remains of a downed vehicle by mid-morning
       after his return to duty at Roswell Army Air Force Base.
     original_excerpt: I was aware that someone had reported the remains of a downed vehicle by midmorning after my return
@@ -2779,11 +3129,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
     date: '1947-07-07'
@@ -2800,7 +3155,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: ced0c092-a6c8-49b9-b815-b43f61e67403
-    claim_hash: a8767257ac79272151a1e87a068db8d178ee3e04e868dfeaa451f3cf1cfcb4fb
+    claim_hash: 788eef3508942b5d4f4ca1b4f4bd7441837b2314b638b33d147ce71c83e13866
     content: Jesse Marcel, head of intelligence at Roswell Army Air Force Base, was sent by base commander William Blanchard
       to investigate the reported downed vehicle debris on 1947-07-07.
     original_excerpt: I was aware that Major Jesse A. Marcel, head of intelligence, was sent by the base commander, Col. William
@@ -2816,11 +3171,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
         slug: william-blanchard
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
         title: USA, New Mexico, Roswell Army Air Field
         slug: new-mexico-roswell-army-air-field-usa
       - node_id: f888411e-b882-4f89-8275-350d19f6c52d
@@ -2856,6 +3216,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut

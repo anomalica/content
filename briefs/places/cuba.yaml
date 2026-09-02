@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5074f75b94af57c34eb5948aeb2f5464094853282a167f66cab21958db19890a
+brief_hash: e545abd89f8efc49620e2f1dacb09be4d6000a7afeb5ede18ada09b1e7df7bda
 page:
   kind: entity
   node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 14
   tokens_estimated: 2057
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 13
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 10
+  entailed_by_quote_fraction: 0.214
+  entailed_by_window_fraction: 0.714
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -123,7 +133,7 @@ related_nodes:
     node_type: place
     slug: moscow-russia
     shared_claims: 1
-  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+  - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
     title: USA
     node_type: place
     slug: usa
@@ -161,6 +171,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.853
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -197,6 +212,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -240,6 +260,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -277,6 +302,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -313,6 +343,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -348,6 +383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -387,6 +427,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.593
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -423,6 +468,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -447,7 +497,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    claim_hash: 7014a78b74ee9b9e2e75d749ee05e5a66bc89171ebb05248828c4133b2f42353
     content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
       help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
     original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
@@ -461,6 +511,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -508,6 +563,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -535,7 +595,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
-    claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
+    claim_hash: c830355fd6f3b0d8c3c326704e8c1a13b1a38ab4e4d1441084037f7a73f96eec
     content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles on Cuba, after extracting a guarantee
       from the United States that it would not invade Cuba.
     original_excerpt: Finally on October 28 Khrushchev agreed to this as well, after extracting a guarantee from the U.S.
@@ -549,16 +609,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
         slug: nikita-khrushchev
-      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-        title: USA
-        slug: usa
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
         slug: cuba
+      - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
+        title: USA
+        slug: usa
       - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
         title: Cuban Missile Crisis (1962-10)
         slug: cuban-missile-crisis-1962-10
@@ -593,6 +658,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f55f132-bf9e-4f4a-adbe-535c17f1702e
         title: RC-135 reconnaissance aircraft
@@ -618,7 +688,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -637,6 +707,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -656,7 +731,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -676,6 +751,11 @@ claims:
         - Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -695,7 +775,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

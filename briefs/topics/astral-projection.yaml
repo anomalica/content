@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: ae9903a845d3b7d47e20e0082c5e11e724452cf99191699290a529d047d9e449
+brief_hash: b1b72642fd8a59588a7124bfce5a1eb20f2a3f7d2813bef63d7cb940cffebe16
 page:
   kind: entity
   node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
@@ -9,11 +9,21 @@ page:
   claim_count: 22
   claim_count_total: 22
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 22
   tokens_estimated: 3592
   sized_against: 1050000
+entailment:
+  assessed: 22
+  unassessed: 0
+  entails: 17
+  neutral: 5
+  contradicts: 0
+  entailed_by_quote: 11
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.273
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -89,9 +99,9 @@ related_nodes:
     slug: multi-dimensional-body
     shared_claims: 1
   - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: Near-death experience (NDE)
+    title: Near-death experience
     node_type: topic
-    slug: near-death-experience-nde
+    slug: near-death-experience
     shared_claims: 1
   - node_id: b6f0ad71-f13b-4966-9ab5-a9fe8ae2894f
     title: Second Body
@@ -141,6 +151,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -180,6 +195,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -219,6 +239,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 301c373e-31ba-4989-a764-195e8b4af2ec
         title: Foster Bradshaw
@@ -259,6 +284,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -286,7 +316,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: 65090577-23ce-400c-9b92-50ead72b2fd4
-    claim_hash: e88ca9e25c3ff0baa3e0106e74b56cd3b99fca8636b182076df17b4dc1e2345a
+    claim_hash: 66a745ee2a7b6933ebaa636743eab2146f462303a071d2e7f944d9f7eb2a252e
     content: During his OBE training, Erik Nanstiel experienced a separation sensation accompanied by a tearing-velcro or
       whoosh sound, like walking through a wall in the 1990 film Ghost.
     original_excerpt: did you see the movie ghost... when you when you walk through a ghost or walk through a wall there's
@@ -299,6 +329,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -326,7 +361,7 @@ claims:
       content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
       friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
   - claim_id: ebb8dec6-ceed-4e4b-8128-2673d790c4a2
-    claim_hash: b7cd7948f9314a2b84073baa4acb82eab8a6058f559b1f5ff0d30f1853349201
+    claim_hash: 6abca2625c9d1a5c16eec633d6084ac5085696e723de4728423b502fae2446ad
     content: In 1995 Erik Nanstiel trained himself using astral projection techniques to wake at the same time each night
       until he could enter a lucid state and introduce a suggestion to separate from his body.
     original_excerpt: And I studied it in 1995, and I was training myself to wake up at the same time every night until I
@@ -339,6 +374,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -363,7 +403,7 @@ claims:
       content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
       friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
   - claim_id: fd21cfc1-ec30-44cc-afea-19f8609e2cbf
-    claim_hash: f224a7d21dd21a0b4b00e2a38b49c15bdc7c60aee2c4c14e9bf69b6123e941f7
+    claim_hash: 3cc14e4d515300d23334a8d71e230b0633868e4ebeb6786c0b9b0d35327d23bb
     content: Erik Nanstiel succeeded at astral separation on two occasions, but felt so vulnerable each time that he freaked
       out and snapped back, and does not want to do it again.
     original_excerpt: And I succeeded on two occasions. One time I woke up and the ceiling was in my face and I freaked out
@@ -377,6 +417,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.772
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -418,6 +463,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -458,6 +508,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 265fb732-201b-432f-9488-722f72748cf1
         title: Gateway Experience tapes (Monroe Institute audio series)
@@ -498,6 +553,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -542,6 +602,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -580,6 +645,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.931
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -615,6 +685,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -655,6 +730,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -700,6 +780,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -721,7 +806,7 @@ claims:
       content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
       friendly_name: null
   - claim_id: 6bf1024a-10de-45e7-b7af-8a2e51f625d9
-    claim_hash: 15751505b1ab152461c8e7568d83d07f65367f5e15257ffdeb468153ea0e8cfd
+    claim_hash: 74f28daa97f58466386a48fabf18876aa874e1800a174142b5ba0476be25b22b
     content: Chris Ramsay sees a correlation between out-of-body and astral states and near-death experiences, because many
       people go out of body during a near-death experience and report the same symptoms of floating and seeing themselves.
     original_excerpt: a lot of them, it happens during like a near death experience and they're floating, they see themselves,
@@ -737,10 +822,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: Near-death experience (NDE)
-        slug: near-death-experience-nde
+        title: Near-death experience
+        slug: near-death-experience
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
@@ -780,6 +870,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -820,6 +915,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -860,6 +960,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -897,6 +1002,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6823d7df-50a7-4a07-83c6-9523db1bacf7
         title: Channelling
@@ -945,6 +1055,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection
@@ -981,6 +1096,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
         title: Astral projection

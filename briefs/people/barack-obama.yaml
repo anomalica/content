@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 96a28e27e49b554cca257b55bbbadfa397bb806930fe1fd136af4bc0fc39c1ff
+brief_hash: 08a19b0372962047e04848955f50a2baccb177a3855d920519e7e4aa30fd31ff
 page:
   kind: entity
   node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
@@ -9,11 +9,21 @@ page:
   claim_count: 29
   claim_count_total: 29
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 29
   tokens_estimated: 3887
   sized_against: 1050000
+entailment:
+  assessed: 29
+  unassessed: 0
+  entails: 14
+  neutral: 9
+  contradicts: 6
+  entailed_by_quote: 12
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.414
+  entailed_by_window_fraction: 0.069
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,6 +33,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 29
 related_nodes:
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 8
   - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
     title: John Podesta
     node_type: person
@@ -33,16 +48,6 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 6
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
-    shared_claims: 4
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    node_type: person
-    slug: william-j-clinton
-    shared_claims: 4
   - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
     title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
     node_type: event
@@ -173,6 +178,11 @@ related_nodes:
     node_type: person
     slug: richard-nixon
     shared_claims: 1
+  - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+    title: Ronald Reagan
+    node_type: person
+    slug: ronald-reagan
+    shared_claims: 1
 claims:
   - claim_id: 223ce99a-5206-4692-9964-17f30d1c7f6d
     claim_hash: e295c4ec141e2d5f037f3bb31e4ba1c79c9b9686a3c515211d6b9e2e5c08b8ac
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -226,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -242,7 +262,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -263,6 +283,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -279,7 +304,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -302,6 +327,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
         title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
@@ -321,7 +351,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -341,6 +371,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
         title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
@@ -360,12 +395,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9c8ff4cf-926d-48ca-b2d8-182d91584074
-    claim_hash: b182c8ab22db361f28e5594f07c0ed4bf0ad421b74f579a993d829ad6513b97f
+    claim_hash: b52f67561ebe7380fb8464fc770a30e064ff681d487fb0d6f2b614a8b3e51889
     content: When told by Jimmy Kimmel in March 2015 that President Clinton had said he checked and found nothing regarding
       UFOs, Barack Obama replied that saying there was nothing is what presidents are instructed to say.
     original_excerpt: 'Jimmy: ''Oh really. Because President Clinton said he did go right in and he did check and there was
@@ -381,16 +416,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 167b9461-2288-4c48-b9b5-7b798d883f4f
         title: 2015-03 Obama Jimmy Kimmel Live interview on aliens
         slug: 2015-03-obama-jimmy-kimmel-live-interview-on-aliens
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: ea8ea587-d42e-4dc4-83b4-3804488fe215
         title: Jimmy Kimmel Live
         slug: jimmy-kimmel-live
@@ -403,12 +443,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3476f827-1a18-46dd-9d45-2c4cb30fc3b1
-    claim_hash: 0c37a3ee459ae207a17bdcd41e3d2acea2eb50387cf12d6d5369b7b279cad845
+    claim_hash: 6d348a68b86c9de725ef24361e73ffdc78e33819a873a2ee9d06d3e2cd7b90ef
     content: John Podesta held top-secret/Sensitive Compartmented Information (SCI) clearances in his past roles with both
       Presidents Obama and Clinton.
     original_excerpt: He is a senior and well-respected public servant who held top-secret/SCI clearances in his past roles
@@ -422,16 +462,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
         title: Sensitive Compartmented Information Facility (SCIF)
         slug: sensitive-compartmented-information-facility-scif
@@ -444,12 +489,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 9f87020e-0b71-4a5c-96c1-665a4085bc5a
-    claim_hash: 17507cc7ac340628f769ca5c968cd239b659e228fcd8f94c6c33867355a68344
+    claim_hash: 9ea0c94853ef660494d986ed282c39d2e339a185d3c55096c678f2d9d1c8b11c
     content: John Podesta is a confidant of Presidents Bill Clinton and Barack Obama.
     original_excerpt: John Podesta, the confidant of Presidents Clinton and Obama
     claim_type: administrative
@@ -461,16 +506,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch28:28552-28606
@@ -480,7 +530,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -499,6 +549,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -515,7 +570,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -537,6 +592,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -556,7 +616,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -577,6 +637,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -593,7 +658,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -614,6 +679,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -633,12 +703,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 79bece11-f229-43bb-832d-42c337d7c6e9
-    claim_hash: 45754e20ef3a42e4bd4f398a9169de548f2afcc08e0200402a9014d6b868a5e2
+    claim_hash: 7909cb798bb6ce57a7fb7f7d7f499d7c4267871847a27ab6d7483cd3583833bd
     content: John Podesta served as chief of staff to President Bill Clinton, counselor to President Barack Obama, and campaign
       manager to Hillary Clinton.
     original_excerpt: John Podesta, who had served as chief of staff to President Clinton, counselor to President Barack Obama,
@@ -652,6 +722,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -659,12 +734,12 @@ claims:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: ch29:13091-13242
@@ -674,7 +749,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -695,6 +770,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -711,7 +791,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -731,6 +811,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -747,7 +832,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -770,13 +855,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -820,6 +910,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -828,8 +923,8 @@ claims:
         title: Richard Nixon
         slug: richard-nixon
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -864,6 +959,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -902,6 +1002,11 @@ claims:
         - Barack Obama's appearance on James Corden's programme
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29f843ff-42ca-4f1c-b335-4059708e83a3
         title: James Corden
@@ -942,6 +1047,11 @@ claims:
         - a public interview with Barack Obama
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -979,10 +1089,15 @@ claims:
         - a public statement by Bill Clinton
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.872
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -1019,10 +1134,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -1063,6 +1183,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1105,6 +1230,11 @@ claims:
         - a public statement by Barack Obama
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -1144,6 +1274,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1188,6 +1323,11 @@ claims:
         - John Greenewald's published FOIA result
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -1228,6 +1368,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -1271,6 +1416,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -1309,6 +1459,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama

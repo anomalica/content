@@ -9,11 +9,21 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 15
   tokens_estimated: 2364
   sized_against: 1050000
+entailment:
+  assessed: 15
+  unassessed: 0
+  entails: 11
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.533
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -108,6 +118,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -146,6 +161,11 @@ claims:
         - Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -185,6 +205,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -230,6 +255,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.797
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -271,6 +301,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.844
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -310,6 +345,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.545
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -345,6 +385,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -382,6 +427,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -421,6 +471,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -459,6 +514,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.707
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -496,6 +556,11 @@ claims:
         - Julia Mossbridge
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -534,6 +599,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.601
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -571,6 +641,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -608,6 +683,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -648,6 +728,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression

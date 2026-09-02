@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 13
   tokens_estimated: 1534
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 7
+  neutral: 5
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.077
+  entailed_by_window_fraction: 0.462
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -101,6 +111,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -138,6 +153,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.645
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -178,6 +198,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.878
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -213,6 +238,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -250,6 +280,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -289,6 +324,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -327,6 +367,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -364,6 +409,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -405,6 +455,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.571
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -446,6 +501,11 @@ claims:
         - Peter Curry's account to Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -487,6 +547,11 @@ claims:
         - Peter Curry's account to Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.87
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -530,6 +595,11 @@ claims:
         - Peter Curry's account to Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry
@@ -574,6 +644,11 @@ claims:
         - Peter Curry's account to Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19247384-509d-492b-8701-0f0894424c86
         title: Peter Curry

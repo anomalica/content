@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: d012f2bb3371e53819a6eff77e9e4f10b5864337146fe4d0f42430e7cad5e2a3
+brief_hash: 51402a5c51ef7922a6a1f66503022a7d5d7042d01a31fcceb4febd45408b6e0c
 page:
   kind: entity
   node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
@@ -9,11 +9,21 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 31
   tokens_estimated: 5354
   sized_against: 1050000
+entailment:
+  assessed: 31
+  unassessed: 0
+  entails: 27
+  neutral: 2
+  contradicts: 2
+  entailed_by_quote: 10
+  entailed_by_window: 17
+  entailed_by_quote_fraction: 0.323
+  entailed_by_window_fraction: 0.548
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -174,6 +184,267 @@ related_nodes:
     slug: non-disclosure-agreement-nda
     shared_claims: 1
 claims:
+  - claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
+    claim_hash: 1125f11a8dbd57b5ad5bfd6b427ffae48aefd9ef3e318feb971e2759218c6ce1
+    content: The Office of the Under Secretary of Defense for Intelligence referred the timing and circumstances of Luis Elizondo's
+      resignation to the Air Force Office of Special Investigations for immediate counterintelligence review.
+    original_excerpt: Yes. We referred the timing and circumstances of Mr. Elizondo's resignation to the AFOSI.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      title: Garry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Reid
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:19427-19510
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+  - claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
+    claim_hash: c0a81ab8bde4a01d37be39344ff0bc27e1345875a1bd3fd4bc492b894519b74d
+    content: The Air Force Office of Special Investigations' informal assessment did not find any wrongdoing by Luis Elizondo,
+      and absent any indicators of misconduct they were unable to open a formal investigation.
+    original_excerpt: Their informal assessment did not find any wrongdoing by Mr. Elizondo, and absent any indicators of
+      misconduct, they were unable to open a formal investigation.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      title: Garry Reid
+    provenance_chain:
+      origin_kind: named
+      origin: Air Force Office of Special Investigations (AFOSI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: char:19517-19663
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+  - claim_id: 38c72fef-5654-4931-bc67-5abb3c3c47f0
+    claim_hash: ea58ccf0b3641f15ad06e24dc266570bc9e5b75097588337314f2206c35fb6bd
+    content: Following discovery of the YouTube video, Garry Reid requested an informal review of Luis Elizondo's conduct
+      by the Air Force Office of Special Investigations.
+    original_excerpt: Following discovery of the YouTube video, I requested an informal review of Mr. Elizondo's conduct by
+      the Air Force Office of Special Investigations (AFOSI), which is responsible for providing investigative support to
+      the Office of the Secretary of Defense (OSD), including investigation of assigned personnel.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      title: Garry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Reid
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.658
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+        title: Garry Reid
+        slug: garry-reid
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: char:6985-7285
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+  - claim_id: a0031e6c-3ea4-4987-8797-b2c60066d94a
+    claim_hash: d787de1d0ea5de72aae928e3ee3110e21a28a913386d5cc7f1aa49822c24017a
+    content: The Air Force Office of Special Investigations is responsible for providing investigative support to the Office
+      of the Secretary of Defense, including investigation of assigned personnel.
+    original_excerpt: which is responsible for providing investigative support to the Office of the Secretary of Defense (OSD),
+      including investigation of assigned personnel.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      title: Garry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Reid
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:7143-7285
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+  - claim_id: 7576f4ee-f8e5-4627-bcf1-55172f77e3d9
+    claim_hash: 2f15fa69933a0d3479ff66dbdf5327b87407c62256be9e69e1ecbe7f47ab2ad9
+    content: In late November 2017, the Air Force Office of Special Investigations advised that, absent more tangible indicators
+      of possible misconduct, they did not have enough information to open a case on Luis Elizondo.
+    original_excerpt: In late November AFOSI advised that absent more tangible indicators of possible misconduct they did
+      not have enough information to open a case on Mr. Elizondo.
+    claim_type: administrative
+    attestation: second_hand
+    speaker:
+      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      title: Garry Reid
+    provenance_chain:
+      origin_kind: named
+      origin: Air Force Office of Special Investigations (AFOSI)
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: 2017-11
+    date_end: null
+    location_in_record: char:7296-7446
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
+  - claim_id: 5523afad-ef64-437d-89e3-4b1f5cc916ef
+    claim_hash: 37363abe8aedb6ae388c41e5dc37e0275c475205183c19fbc49aea8d30740ece
+    content: On 2017-12-21, Garry Reid met with Air Force Office of Special Investigations agents to initiate a formal inquiry
+      into Luis Elizondo's possible mishandling of classified materials.
+    original_excerpt: On December 21, I met with AFOSI agents to initiate a formal inquiry into Mr. Elizondo's possible mishandling
+      of classified materials.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      title: Garry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Garry Reid
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+        title: Garry Reid
+        slug: garry-reid
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: '2017-12-21'
+    date_end: null
+    location_in_record: char:8972-9096
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 12a5052a-09e6-49d3-9bd6-e3625b026942
     claim_hash: 79db29a70e6d7a70e1501e91f90378ce6472d1aad7a1e0d4a5056b34082804b6
     content: Harry Turner asserted that in 1953 the US Air Force Office of Special Investigations persuaded the US Air Force
@@ -192,6 +463,11 @@ claims:
         - 1971 Harry Turner report 'Scientific and Intelligence Aspects of the UFO Problem'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -214,12 +490,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
-    claim_hash: 0c183aa00c3e27a956ffaf2787086abe82a7aff568a4f7c33682ab29d68f3b22
+    claim_hash: 67717442f1b7a48896d364be53a398452172195471cecefdb2b91730b78027d5
     content: The United States Air Force Office of Special Investigations (OSI) attacked the credibility of Charles Halt's
       sighting during the 1980 Rendlesham Forest UAP incident.
     original_excerpt: He said the US Air Force Office of Special Investigations (OSI) attacked the credibility of his sighting.
@@ -234,6 +510,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -253,7 +534,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -272,6 +553,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.928
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
         title: Air Force Office of Special Investigations (AFOSI)
@@ -285,7 +571,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -304,6 +590,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
         title: Air Force Office of Special Investigations (AFOSI)
@@ -317,590 +608,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
-    claim_hash: 1125f11a8dbd57b5ad5bfd6b427ffae48aefd9ef3e318feb971e2759218c6ce1
-    content: The Office of the Under Secretary of Defense for Intelligence referred the timing and circumstances of Luis Elizondo's
-      resignation to the Air Force Office of Special Investigations for immediate counterintelligence review.
-    original_excerpt: Yes. We referred the timing and circumstances of Mr. Elizondo's resignation to the AFOSI.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-      title: Garry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Garry Reid
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: char:19427-19510
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
-  - claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
-    claim_hash: c0a81ab8bde4a01d37be39344ff0bc27e1345875a1bd3fd4bc492b894519b74d
-    content: The Air Force Office of Special Investigations' informal assessment did not find any wrongdoing by Luis Elizondo,
-      and absent any indicators of misconduct they were unable to open a formal investigation.
-    original_excerpt: Their informal assessment did not find any wrongdoing by Mr. Elizondo, and absent any indicators of
-      misconduct, they were unable to open a formal investigation.
-    claim_type: administrative
-    attestation: second_hand
-    speaker:
-      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-      title: Garry Reid
-    provenance_chain:
-      origin_kind: named
-      origin: Air Force Office of Special Investigations (AFOSI)
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: char:19517-19663
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
-  - claim_id: 38c72fef-5654-4931-bc67-5abb3c3c47f0
-    claim_hash: ea58ccf0b3641f15ad06e24dc266570bc9e5b75097588337314f2206c35fb6bd
-    content: Following discovery of the YouTube video, Garry Reid requested an informal review of Luis Elizondo's conduct
-      by the Air Force Office of Special Investigations.
-    original_excerpt: Following discovery of the YouTube video, I requested an informal review of Mr. Elizondo's conduct by
-      the Air Force Office of Special Investigations (AFOSI), which is responsible for providing investigative support to
-      the Office of the Secretary of Defense (OSD), including investigation of assigned personnel.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-      title: Garry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Garry Reid
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-        title: Garry Reid
-        slug: garry-reid
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: char:6985-7285
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
-  - claim_id: a0031e6c-3ea4-4987-8797-b2c60066d94a
-    claim_hash: d787de1d0ea5de72aae928e3ee3110e21a28a913386d5cc7f1aa49822c24017a
-    content: The Air Force Office of Special Investigations is responsible for providing investigative support to the Office
-      of the Secretary of Defense, including investigation of assigned personnel.
-    original_excerpt: which is responsible for providing investigative support to the Office of the Secretary of Defense (OSD),
-      including investigation of assigned personnel.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-      title: Garry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Garry Reid
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: char:7143-7285
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
-  - claim_id: 7576f4ee-f8e5-4627-bcf1-55172f77e3d9
-    claim_hash: 2f15fa69933a0d3479ff66dbdf5327b87407c62256be9e69e1ecbe7f47ab2ad9
-    content: In late November 2017, the Air Force Office of Special Investigations advised that, absent more tangible indicators
-      of possible misconduct, they did not have enough information to open a case on Luis Elizondo.
-    original_excerpt: In late November AFOSI advised that absent more tangible indicators of possible misconduct they did
-      not have enough information to open a case on Mr. Elizondo.
-    claim_type: administrative
-    attestation: second_hand
-    speaker:
-      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-      title: Garry Reid
-    provenance_chain:
-      origin_kind: named
-      origin: Air Force Office of Special Investigations (AFOSI)
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: 2017-11
-    date_end: null
-    location_in_record: char:7296-7446
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
-  - claim_id: 5523afad-ef64-437d-89e3-4b1f5cc916ef
-    claim_hash: 37363abe8aedb6ae388c41e5dc37e0275c475205183c19fbc49aea8d30740ece
-    content: On 2017-12-21, Garry Reid met with Air Force Office of Special Investigations agents to initiate a formal inquiry
-      into Luis Elizondo's possible mishandling of classified materials.
-    original_excerpt: On December 21, I met with AFOSI agents to initiate a formal inquiry into Mr. Elizondo's possible mishandling
-      of classified materials.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-      title: Garry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Garry Reid
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-        title: Garry Reid
-        slug: garry-reid
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: '2017-12-21'
-    date_end: null
-    location_in_record: char:8972-9096
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
-  - claim_id: df2b0c30-9cb6-421e-916f-507732850e7b
-    claim_hash: faf670984018762f99130c8cb9d8322c41ef5423eb7760ae72300a8bc6030372
-    content: Two Air Force Office of Special Investigations agents told Luis Elizondo that a walk-in contractor claiming he
-      could make planes invisible actually worked for the Air Force on one of its most sensitive technologies, and requested
-      Elizondo's file on the man.
-    original_excerpt: '"That guy actually works for us, and we need whatever file you have on him." ... "He is a contractor
-      for one of our most sensitive technologies."'
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: ch11:21710-21812
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
-    claim_hash: b00495f8af528e82f8b44c893daadae26744726b8d5702db5f1e93ec299d07be
-    content: The day after the 1980 Rendlesham Forest incident, the servicemen who were eyewitnesses were called to the base's
-      office of the Air Force Office of Special Investigations.
-    original_excerpt: The next day, the servicemen who were eyewitnesses were called to the base's office of the Air Force
-      Office of Special Investigations (OSI).
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
-        title: 1980 Rendlesham Forest incident
-        slug: 1980-rendlesham-forest-incident
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: 1980-12
-    date_end: null
-    location_in_record: ch12:33353-33488
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
-    claim_hash: 0e3cb7aae8ba8e851fd99e381f65aef4608d0d0f9b191357738aef5a8e202553
-    content: The speaker personally spoke to some of the servicemen involved in the 1980 Rendlesham Forest incident, who said
-      there was someone from the Central Intelligence Agency in the room with the men from the Air Force Office of Special
-      Investigations.
-    original_excerpt: The ones I personally spoke to said there was someone from the CIA in the room with the men from OSI.
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
-        title: 1980 Rendlesham Forest incident
-        slug: 1980-rendlesham-forest-incident
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: 1980-12
-    date_end: null
-    location_in_record: ch12:33715-33812
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
-    claim_hash: 5fc78f19c0039eb1616f5a07ce63ed0e63f7fe6204aad1325286264ee8de7e69
-    content: In Philadelphia, Luis Elizondo, Leslie Kean, and Ralph Blumenthal noticed two individuals with tight military-style
-      haircuts observing them on the street, whom Elizondo believed were most likely an Air Force Office of Special Investigations
-      surveillance team.
-    original_excerpt: I noticed two individuals with tight military-style haircuts in different parts of the street as we
-      strolled. I was certain we were being observed. They displayed the classic signs. They were most likely an AFOSI surveillance
-      team, just not their A-Team.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
-        title: Ralph Blumenthal
-        slug: ralph-blumenthal
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
-        title: Leslie Kean
-        slug: leslie-kean
-      - node_id: 9cfc1eb8-4574-4297-8707-2720a90cdd78
-        title: USA, Pennsylvania, Philadelphia
-        slug: pennsylvania-philadelphia-usa
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: ch29:17467-17716
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
-    claim_hash: 26d6a7659be46cda6d91582c673b72a6cc4d5c0c4cff8af6f4caa68ff4b62370
-    content: Garry Reid initiated an inquiry through the Air Force Office of Special Investigations (OSI) to determine how
-      the Unidentified Aerial Phenomena (UAP) videos had been released.
-    original_excerpt: In reaction to the press, Garry Reid initiated an inquiry through the AFOSI to determine how the UAP
-      videos had been released.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-        title: Garry Reid
-        slug: garry-reid
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: ch29:26003-26120
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c501feec-7b82-4dee-a32a-f66b113ded4e
-    claim_hash: 16a0be8a4d5aba4c4c1e04bf7b2eb13860d592ef33df83111d4186c73afb26f8
-    content: The Air Force Office of Special Investigations (OSI) inquiry into the release of the UAP videos drew on into
-      the following spring and found no impropriety in Luis Elizondo's actions.
-    original_excerpt: That investigation would drag on well into spring. Eventually, they found no impropriety in my actions.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: '2018'
-    date_end: null
-    location_in_record: ch29:26130-26225
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 41f64a5e-8363-4963-a189-a8ac6b46cd23
-    claim_hash: ede0f3e171aef6629912125e7da882a1ecdb35c576ef77203ccf5252211a9d61
-    content: Colleagues loyal to Luis Elizondo who remained at the Office of the Undersecretary of Defense for Intelligence
-      told him that Garry Reid planned to launch a criminal inquiry with the Air Force Office of Special Investigations.
-    original_excerpt: Several people loyal to me who were still at OUSD(I) told me that Reid planned to launch a criminal
-      inquiry with the Air Force Office of Special Investigations (AFOSI).
-    claim_type: hearsay
-    attestation: second_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: named
-      origin: colleagues loyal to Luis Elizondo at the Office of the Undersecretary of Defense for Intelligence
-      relay:
-        - colleagues at OUSD(I)
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-        title: Garry Reid
-        slug: garry-reid
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: ch29:6566-6727
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: a733e5a3-5d69-4e6c-8a81-df73efb176b9
-    claim_hash: 15fe80ad71bc47123ae2c1a2b09743f68c62bc47b3afc176a6edf65cc130d0ce
-    content: Within the Pentagon, the Air Force Office of Special Investigations investigates internal matters pertaining
-      to counterintelligence.
-    original_excerpt: Within the Pentagon, AFOSI investigates internal matters pertaining to counterintelligence.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-        title: USA, Washington DC, Pentagon
-        slug: washington-dc-pentagon-usa
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: ch29:6735-6806
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: e366de8e-c734-456d-a492-801ab58f5a7f
-    claim_hash: 4bfde3eaf743ef38945e2b67d119456a72b2ffcaf7e66543032ead6700b5fc93
-    content: The Air Force Office of Special Investigations (OSI) had investigated and adjudicated favourably the allegation
-      that Lue Elizondo had improperly declassified the UAP videos.
-    original_excerpt: I had to remind the young agent that double jeopardy is a no-no, and that AFOSI had investigated and
-      adjudicated the matter favorably.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
-        title: Air Force Office of Special Investigations (AFOSI)
-        slug: air-force-office-of-special-investigations-afosi
-    date: null
-    date_end: null
-    location_in_record: ch30:1958-2082
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 4347fd04-31ce-4dc6-bb4d-a7f2c1cdb03d
     claim_hash: b1d6fafdc6377942334744b15b0ec00dbe820cd3bbd4b160d3ddf3b74275e5e0
     content: The Military Department Counterintelligence Organizations (MDCOs) - Army Counterintelligence, the Naval Criminal
@@ -918,6 +629,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76c8da2b-a471-4d12-b475-8ad48b1a7529
         title: Military Department Counterintelligence Organizations (MDCOs)
@@ -942,7 +658,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 9b31795f-8f8c-4735-a6af-57b6f493a9cc
@@ -964,6 +680,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.867
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0b4fd763-40d0-4059-a16e-47db4855980a
         title: Secretary of the Air Force Inspector General
@@ -985,7 +706,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
@@ -1011,6 +732,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1071,9 +797,403 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
+  - claim_id: df2b0c30-9cb6-421e-916f-507732850e7b
+    claim_hash: faf670984018762f99130c8cb9d8322c41ef5423eb7760ae72300a8bc6030372
+    content: Two Air Force Office of Special Investigations agents told Luis Elizondo that a walk-in contractor claiming he
+      could make planes invisible actually worked for the Air Force on one of its most sensitive technologies, and requested
+      Elizondo's file on the man.
+    original_excerpt: '"That guy actually works for us, and we need whatever file you have on him." ... "He is a contractor
+      for one of our most sensitive technologies."'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: ch11:21710-21812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
+    claim_hash: b00495f8af528e82f8b44c893daadae26744726b8d5702db5f1e93ec299d07be
+    content: The day after the 1980 Rendlesham Forest incident, the servicemen who were eyewitnesses were called to the base's
+      office of the Air Force Office of Special Investigations.
+    original_excerpt: The next day, the servicemen who were eyewitnesses were called to the base's office of the Air Force
+      Office of Special Investigations (OSI).
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: 1980-12
+    date_end: null
+    location_in_record: ch12:33353-33488
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
+    claim_hash: 0e3cb7aae8ba8e851fd99e381f65aef4608d0d0f9b191357738aef5a8e202553
+    content: The speaker personally spoke to some of the servicemen involved in the 1980 Rendlesham Forest incident, who said
+      there was someone from the Central Intelligence Agency in the room with the men from the Air Force Office of Special
+      Investigations.
+    original_excerpt: The ones I personally spoke to said there was someone from the CIA in the room with the men from OSI.
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: servicemen claiming to have witnessed the 1980 Rendlesham Forest incident
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+        title: 1980 Rendlesham Forest incident
+        slug: 1980-rendlesham-forest-incident
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: 1980-12
+    date_end: null
+    location_in_record: ch12:33715-33812
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: f2018acc-9885-4014-8e4b-4ddb9b500cf5
+    claim_hash: 5fc78f19c0039eb1616f5a07ce63ed0e63f7fe6204aad1325286264ee8de7e69
+    content: In Philadelphia, Luis Elizondo, Leslie Kean, and Ralph Blumenthal noticed two individuals with tight military-style
+      haircuts observing them on the street, whom Elizondo believed were most likely an Air Force Office of Special Investigations
+      surveillance team.
+    original_excerpt: I noticed two individuals with tight military-style haircuts in different parts of the street as we
+      strolled. I was certain we were being observed. They displayed the classic signs. They were most likely an AFOSI surveillance
+      team, just not their A-Team.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+        title: Ralph Blumenthal
+        slug: ralph-blumenthal
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+        title: Leslie Kean
+        slug: leslie-kean
+      - node_id: 9cfc1eb8-4574-4297-8707-2720a90cdd78
+        title: USA, Pennsylvania, Philadelphia
+        slug: pennsylvania-philadelphia-usa
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: ch29:17467-17716
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7632ca75-dec7-4660-93a6-34b7f9669ac3
+    claim_hash: 26d6a7659be46cda6d91582c673b72a6cc4d5c0c4cff8af6f4caa68ff4b62370
+    content: Garry Reid initiated an inquiry through the Air Force Office of Special Investigations (OSI) to determine how
+      the Unidentified Aerial Phenomena (UAP) videos had been released.
+    original_excerpt: In reaction to the press, Garry Reid initiated an inquiry through the AFOSI to determine how the UAP
+      videos had been released.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+        title: Garry Reid
+        slug: garry-reid
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: ch29:26003-26120
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c501feec-7b82-4dee-a32a-f66b113ded4e
+    claim_hash: 16a0be8a4d5aba4c4c1e04bf7b2eb13860d592ef33df83111d4186c73afb26f8
+    content: The Air Force Office of Special Investigations (OSI) inquiry into the release of the UAP videos drew on into
+      the following spring and found no impropriety in Luis Elizondo's actions.
+    original_excerpt: That investigation would drag on well into spring. Eventually, they found no impropriety in my actions.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: '2018'
+    date_end: null
+    location_in_record: ch29:26130-26225
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 41f64a5e-8363-4963-a189-a8ac6b46cd23
+    claim_hash: ede0f3e171aef6629912125e7da882a1ecdb35c576ef77203ccf5252211a9d61
+    content: Colleagues loyal to Luis Elizondo who remained at the Office of the Undersecretary of Defense for Intelligence
+      told him that Garry Reid planned to launch a criminal inquiry with the Air Force Office of Special Investigations.
+    original_excerpt: Several people loyal to me who were still at OUSD(I) told me that Reid planned to launch a criminal
+      inquiry with the Air Force Office of Special Investigations (AFOSI).
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: colleagues loyal to Luis Elizondo at the Office of the Undersecretary of Defense for Intelligence
+      relay:
+        - colleagues at OUSD(I)
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+        title: Garry Reid
+        slug: garry-reid
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch29:6566-6727
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: a733e5a3-5d69-4e6c-8a81-df73efb176b9
+    claim_hash: 15fe80ad71bc47123ae2c1a2b09743f68c62bc47b3afc176a6edf65cc130d0ce
+    content: Within the Pentagon, the Air Force Office of Special Investigations investigates internal matters pertaining
+      to counterintelligence.
+    original_excerpt: Within the Pentagon, AFOSI investigates internal matters pertaining to counterintelligence.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.647
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: ch29:6735-6806
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e366de8e-c734-456d-a492-801ab58f5a7f
+    claim_hash: 4bfde3eaf743ef38945e2b67d119456a72b2ffcaf7e66543032ead6700b5fc93
+    content: The Air Force Office of Special Investigations (OSI) had investigated and adjudicated favourably the allegation
+      that Lue Elizondo had improperly declassified the UAP videos.
+    original_excerpt: I had to remind the young agent that double jeopardy is a no-no, and that AFOSI had investigated and
+      adjudicated the matter favorably.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+        title: Air Force Office of Special Investigations (AFOSI)
+        slug: air-force-office-of-special-investigations-afosi
+    date: null
+    date_end: null
+    location_in_record: ch30:1958-2082
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: f2871117-5af1-4861-b6b4-f17bd791eeeb
     claim_hash: 3ba7a2c4961c2f7179aa3467767fab22bd23e094c31695be4d903392aedf2022
     content: Michael Horn was interrogated about the Billy Meier case over roughly five to six months by an investigator,
@@ -1088,6 +1208,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
         title: Michael Horn
@@ -1123,6 +1248,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.633
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
         title: Michael Horn
@@ -1159,6 +1289,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b91188d-9872-4f4b-9037-9b6d3feac65a
         title: Billy Meier Unidentified Flying Object (UFO) contact case
@@ -1195,6 +1330,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b91188d-9872-4f4b-9037-9b6d3feac65a
         title: Billy Meier Unidentified Flying Object (UFO) contact case
@@ -1216,7 +1356,7 @@ claims:
       content_hash: sha256:68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159c9b82337
       friendly_name: 2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn.v2
   - claim_id: 7a4d67d5-fc82-4f2a-8429-5cdc86772e36
-    claim_hash: da71630c42153513aa5d661015445bd1fb365ce09c7668fe5cf543d665502b21
+    claim_hash: e70a6d805249f8a879e9046635ccf6f239542129682177b4b7ce4efca612751b
     content: Avi Loeb states that if he were concerned about anything, it would be the Defense Advanced Research Projects
       Agency Security and Intelligence Directorate (DARPA SID) and the Air Force Office of Special Investigations Programs
       and Jurisdiction (AFOSIPJ).
@@ -1226,14 +1366,19 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.827
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
         title: Air Force Office of Special Investigations (AFOSI)
@@ -1271,6 +1416,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1314,6 +1464,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4dd7e633-8106-4b95-9ed4-69efca9f0a58
         title: Joseph F. Carroll
@@ -1350,6 +1505,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
         title: Air Force Office of Special Investigations (AFOSI)
@@ -1371,7 +1531,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: edf2a079-9a9f-4edd-b736-fa95faac4728
-    claim_hash: d3c5d6343bb00f36066781733a84fdfba2677cef295853a5a3d31957f4e7ef55
+    claim_hash: c17c498b0bd50384b2ed0fb59a869d01d5762e04a497c9dea900cc8ce0b95d9d
     content: Jason Samosa argues that placing people in key positions such as the Air Force Office of Special Investigations
       (AFOSI) and Central Intelligence Agency (CIA) directorships gives the Holy See (the Vatican) effectively a seat on the
       board of directors of the UFO issue.
@@ -1389,6 +1549,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)

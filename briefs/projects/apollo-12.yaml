@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a049fcef57ee15010c70655a1a4142e6abd9c6e241cc7aa28a6d4d8bad129560
+brief_hash: ddef85a5d988ad55d1020bcbca09c5db37716a42e37fe2ffad3bf54c78ec8cef
 page:
   kind: entity
   node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
@@ -9,11 +9,21 @@ page:
   claim_count: 35
   claim_count_total: 35
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 35
   tokens_estimated: 5895
   sized_against: 1050000
+entailment:
+  assessed: 35
+  unassessed: 0
+  entails: 31
+  neutral: 1
+  contradicts: 3
+  entailed_by_quote: 16
+  entailed_by_window: 15
+  entailed_by_quote_fraction: 0.457
+  entailed_by_window_fraction: 0.429
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,10 +48,10 @@ related_nodes:
     node_type: person
     slug: alan-bean
     shared_claims: 6
-  - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-    title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
+  - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+    title: Pinpoint for Science (NASA film)
     node_type: document
-    slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
+    slug: pinpoint-for-science-nasa-film
     shared_claims: 5
   - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
     title: Apollo 11
@@ -143,9 +153,9 @@ related_nodes:
     node_type: place
     slug: giza-plateau-egypt
     shared_claims: 1
-  - node_id: a8b35232-98c3-4db9-b1b2-b0d2b024bd56
+  - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
     title: Galileo Project
-    node_type: project
+    node_type: organisation
     slug: galileo-project
     shared_claims: 1
   - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
@@ -188,6 +198,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.671
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -206,7 +221,7 @@ claims:
       content_hash: sha256:74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f814740c9b3
       friendly_name: undated-pdf-apollo-12-air-to-ground-voice-transcription
   - claim_id: f1f0cb39-e8e1-4900-b854-ac9dfad1416c
-    claim_hash: fdc5972bcf41f0ecbdfe0a031fbe1f1c0020e65ecf52a704ac055dbbfcf491f4
+    claim_hash: 4f3762b66420738da2ff9fbb82e3504c97b91ba0a49d294806a7a221ba9e327d
     content: Richard C. Hoagland decided to focus his research first on the 16mm film that NASA had released just after Apollo
       12, called Pinpoint for Science.
     original_excerpt: Hoagland decided to focus first on the 16mm film that NASA had released just after Apollo 12, called
@@ -222,13 +237,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
         slug: richard-c-hoagland
@@ -261,6 +281,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -299,6 +324,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -323,7 +353,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: dde73d64-34b9-4476-ae0a-1fe01916d09d
-    claim_hash: fbbddb698903dbb52ebafb107e1b03740937f0719124bde1799eb145857dbc97
+    claim_hash: 468d1c536d8efa666bd119f6af262ebbf2a3681e2ea064aea30f5b857fe78d64
     content: The NASA mission film Pinpoint for Science was named after Pete Conrad and Alan Bean's successful pinpoint lunar
       landing during Apollo 12.
     original_excerpt: Ergo the name of that official mission film, after Pete Conrad and Alan Bean's incredibly successful
@@ -337,6 +367,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -344,12 +379,12 @@ claims:
       - node_id: 217e3d89-db7f-4bab-ac38-8b084ce3a176
         title: Pete Conrad
         slug: pete-conrad
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
     date: null
     date_end: null
     location_in_record: ch11:101792-101910
@@ -364,7 +399,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 8579d04c-6e62-431a-8f10-30494ae2eb70
-    claim_hash: bc066423aa3cc500ff919366b9e6d7881d121fb2f6078b8aff4ef0514af82efc
+    claim_hash: d8164ab844c0fafcc2b2ce16e0692d3608d61a6598b7f4f77a294b171fb4c9ae
     content: Richard C. Hoagland focused on original Oxberry Animation Stand animations that NASA's contract producers had
       incorporated into Pinpoint for Science, consisting of pans and zooms of stills from the original Apollo 12 Hasselblad
       shots taken on the Moon by Pete Conrad and Alan Bean.
@@ -382,6 +417,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.59
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -389,15 +429,15 @@ claims:
       - node_id: 217e3d89-db7f-4bab-ac38-8b084ce3a176
         title: Pete Conrad
         slug: pete-conrad
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
       - node_id: 899a5e63-d997-4685-b67f-09dac73fbb20
         title: Oxberry Animation Stand
         slug: oxberry-animation-stand
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
         slug: richard-c-hoagland
@@ -415,7 +455,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 7e297fe6-cd33-4839-937e-2a15fcff8860
-    claim_hash: 1daba23d642d8ca4a708b55f9cd7328e9d2fb784363fb1c498189ee640521542
+    claim_hash: bfc102c2c251a767b29536714b6aad5515e0fe9a4ce4aba3d11e64678c279430
     content: Richard C. Hoagland reasoned that if the Pinpoint for Science producers had taken rush hardcopy prints from the
       original Hasselblad Moon shots and placed them under intense lights on an Oxberry Animation Stand to add pans and zooms,
       then vital invisible detail in the otherwise pitch black lunar skies over the Apollo 12 landing site might remain detectable
@@ -436,16 +476,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.801
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
       - node_id: 899a5e63-d997-4685-b67f-09dac73fbb20
         title: Oxberry Animation Stand
         slug: oxberry-animation-stand
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
         slug: richard-c-hoagland
@@ -463,7 +508,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 7594d73b-57fd-4554-86d4-99c8204ff456
-    claim_hash: d4eaf06fd4897ac956db4bbb1020282d8fc2878e31fe874dcda06b4aa75cbfa4
+    claim_hash: 79f7ea3691beb9a8c0280d0f1dc18a03297e3da6fec788b9445dd26343486832
     content: The enhanced 16mm frames captured by John Stevens' machine from NASA's Pinpoint for Science print revealed reflective,
       glass-like ruins over the horizon from the Apollo 12 landing site, and massive inclined buttresses slanting down beyond
       the lunar horizon.
@@ -481,13 +526,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
       - node_id: b700ed0f-c9a8-4832-8295-f5d5eb2fa085
         title: Ancient lunar dome hypothesis
         slug: ancient-lunar-dome-hypothesis
@@ -525,6 +575,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -565,6 +620,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -604,6 +664,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -641,6 +706,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 217e3d89-db7f-4bab-ac38-8b084ce3a176
         title: Pete Conrad
@@ -675,6 +745,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -713,6 +788,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -751,6 +831,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -792,6 +877,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -839,6 +929,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -889,6 +984,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -934,6 +1034,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -971,6 +1076,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -1009,6 +1119,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -1050,6 +1165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -1092,6 +1212,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -1135,6 +1260,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.888
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -1172,6 +1302,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -1216,6 +1351,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -1262,6 +1402,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
         title: Surveyor 3
@@ -1303,6 +1448,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
         title: Gold visors (Apollo helmet visors)
@@ -1343,6 +1493,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.813
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -1378,6 +1533,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -1413,6 +1573,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -1451,6 +1616,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.419
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -1487,6 +1657,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.666
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 244decc2-311c-4ab1-8197-ba03cc8ce57a
         title: Astronaut light flash phenomenon
@@ -1527,6 +1702,11 @@ claims:
         - paperwork forwarded to the speaker
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -1545,7 +1725,7 @@ claims:
       content_hash: sha256:5a05136da7b71b53d7909a26e89d3a85e0acc9bba9670eb335c2277ebd2bb793
       friendly_name: null
   - claim_id: b56b72ba-bdde-4cde-aad2-0134f997f3f9
-    claim_hash: e50b071a132d2ec3116ab887ba8dc86e451e359b2a28cd4705206290bc5e2836
+    claim_hash: 9928d84d8d4389e9d1ef9eba713b4bf7db9d68ae2c277c7682e52f5b3a7ec367
     content: Avi Loeb of the Galileo Project speculated that the blue lights seen in imagery from the Apollo 12 and Apollo
       17 missions were camera artifacts, possibly caused by diffraction of dust inside the camera lens.
     original_excerpt: Professor Avi Loeb from the Galileo Project suggested, he speculated that the blue lights that were
@@ -1562,6 +1742,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1569,7 +1754,7 @@ claims:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
-      - node_id: a8b35232-98c3-4db9-b1b2-b0d2b024bd56
+      - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
         title: Galileo Project
         slug: galileo-project
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0

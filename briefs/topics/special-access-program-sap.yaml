@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 76f693b40ac34cb81e51bf7bc2933f2cc9b54b27109d1f4a2652e48725b02283
+brief_hash: d1d9ffb568fdb1c18400a2b95628a8333c8523304d559f411ddb659c1e1d106b
 page:
   kind: entity
   node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
   node_type: topic
   title: Special Access Program (SAP)
   slug: special-access-program-sap
-  claim_count: 41
-  claim_count_total: 41
+  claim_count: 44
+  claim_count_total: 44
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
-  claims: 41
-  tokens_estimated: 7304
+  claims: 44
+  tokens_estimated: 7821
   sized_against: 1050000
+entailment:
+  assessed: 44
+  unassessed: 0
+  entails: 24
+  neutral: 19
+  contradicts: 1
+  entailed_by_quote: 16
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.364
+  entailed_by_window_fraction: 0.182
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 41
+  unreviewed: 44
 related_nodes:
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
@@ -83,6 +93,11 @@ related_nodes:
     node_type: person
     slug: eric-davis
     shared_claims: 2
+  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+    title: Jason Samosa
+    node_type: person
+    slug: jason-samosa
+    shared_claims: 2
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
     node_type: person
@@ -108,15 +123,20 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 2
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 2
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+    title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
     shared_claims: 1
   - node_id: cd0c7599-4dfa-410c-85e4-c2b7bc7a4b35
     title: 2009 Harry Reid Special Access Program request for Advanced Aerospace Threat Identification Program (AATIP)
@@ -143,6 +163,16 @@ related_nodes:
     node_type: organisation
     slug: central-intelligence-agency-cia
     shared_claims: 1
+  - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+    title: Collins Elite
+    node_type: organisation
+    slug: collins-elite
+    shared_claims: 1
+  - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+    title: Crash retrieval and reverse engineering
+    node_type: topic
+    slug: crash-retrieval-and-reverse-engineering
+    shared_claims: 1
   - node_id: 59476464-a679-46ce-9247-b0adcb287762
     title: Edgar Mitchell
     node_type: person
@@ -153,26 +183,6 @@ related_nodes:
       Program status (2009-07-24)
     node_type: document
     slug: harry-reid-memo-to-william-lynn-iii-on-advanced-aerospace-threat-identification-program-aatip-special-access-program-status-2009-07-24
-    shared_claims: 1
-  - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
-    title: Inspector General of the Intelligence Community
-    node_type: organisation
-    slug: inspector-general-of-the-intelligence-community
-    shared_claims: 1
-  - node_id: 173ea73f-e010-4cf4-bd34-db8a03f84623
-    title: Jake Sullivan
-    node_type: person
-    slug: jake-sullivan
-    shared_claims: 1
-  - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-    title: Jay Stratton
-    node_type: person
-    slug: jay-stratton
-    shared_claims: 1
-  - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-    title: Joe Biden
-    node_type: person
-    slug: joe-biden
     shared_claims: 1
 claims:
   - claim_id: 911d37fc-4b7c-4d45-bd39-6dd0974d7a01
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -217,11 +232,59 @@ claims:
     provenance:
       record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
       record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
-        Changes Nothing - The Black Vault
+        Changes Nothing
       record_date: '2019-06-14'
       record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
       content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
       friendly_name: 2019-06-14-web-pentagon-reinforces-mr-luis-elizondo-had-no
+  - claim_id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
+    claim_hash: a6cc6e877f3431ab2306337241fa1b6cf1b47bff472f8ef012142375ce741a82
+    content: 'David Charles Grusch said: "When you have multiple agencies nesting UAP activities in conventional SAP/CAP programs,
+      both as recipients of exploitation-related insights and for operational reasons, without appropriate reporting to various
+      oversight authorities, you have a problem," referencing the Special Access Programs (SAP) and Controlled Access Programs
+      (CAP).'
+    original_excerpt: “When you have multiple agencies nesting UAP activities in conventional SAP/CAP programs, both as recipients
+      of exploitation-related insights and for operational reasons, without appropriate reporting to various oversight authorities,
+      you have a problem,” Grusch said, referencing the highly secret Special Access Programs and Controlled Access Programs.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      title: David Charles Grusch
+    provenance_chain:
+      origin_kind: speaker
+      origin: David Charles Grusch
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.65
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: char:13757-14101
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
     claim_hash: 1907f42e202effc18a7c87c5fe21de79a4452dd5df4d395c44ba00e4cbfe30c7
     content: Christopher Mellon's role on the Senate Intelligence Committee staff required him to review top-secret Sensitive
@@ -237,6 +300,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -259,7 +327,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -278,6 +346,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -291,7 +364,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -309,6 +382,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -325,7 +403,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -345,6 +423,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -361,7 +444,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -381,6 +464,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -397,7 +485,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -416,6 +504,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -429,7 +522,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -451,6 +544,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -470,12 +568,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a328ce58-0270-4c02-b96e-4ef6eb99473f
-    claim_hash: 175d2cfd48a94aa47b476342c727e30b99ba68584b11c88148940846418ccc8a
+    claim_hash: 8919d2214a55c3ac3f1df42fc6e15a6f2362d35c15a753f4f8277fbe0ea38a78
     content: Admiral Tom Wilson recalled that his visitors at the 1997 Pentagon meeting raised concerns about possible special
       access programs dealing with UFOs.
     original_excerpt: Wilson recalled ‘my visitors’ concerns about possible “special access programs” dealing with that subject.
@@ -491,16 +589,21 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
         slug: special-access-program-sap
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch14:22310-22408
@@ -510,7 +613,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -532,6 +635,11 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -551,7 +659,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -573,6 +681,11 @@ claims:
         - a letter to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -589,7 +702,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -610,6 +723,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -632,7 +750,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -652,6 +770,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -674,7 +797,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -693,6 +816,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -712,7 +840,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -733,6 +861,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -755,7 +888,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -778,6 +911,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -803,12 +941,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 91ac7dad-5511-4c6c-b255-26414bc9012b
-    claim_hash: e35e81060127f8517e77cb9dfd0bf626de5e88c430b59a35ec04abbcc89b1486
+    claim_hash: 1bf81838992193a4416249b2940439ff3b049e3071d2e2a59527541192b1995b
     content: In the memo, Tom Wilson is reported as saying he was told of 'a special projects record group not belonging to
       usual SAP - a special subset of the unacknowledged/carve-outs/waived programs'.
     original_excerpt: ‘They told me of a special projects record group not belonging to usual SAP – a special subset of the
@@ -823,6 +961,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -845,7 +988,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -865,6 +1008,11 @@ claims:
         - Eric Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -887,7 +1035,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -910,6 +1058,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -929,7 +1082,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -953,6 +1106,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -975,7 +1133,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -994,6 +1152,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1010,53 +1173,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 4d4c52db-00fb-470f-9df7-9b570e7fde39
-    claim_hash: e1876f511210b15727c016eb5fb2ae4db489297bd546dfd8cb6db8ef638ca769
-    content: 'David Charles Grusch said: "When you have multiple agencies nesting UAP activities in conventional SAP/CAP programs,
-      both as recipients of exploitation-related insights and for operational reasons, without appropriate reporting to various
-      oversight authorities, you have a problem," referencing the Special Access Programs (SAP) and Controlled Access Programs
-      (CAP).'
-    original_excerpt: “When you have multiple agencies nesting UAP activities in conventional SAP/CAP programs, both as recipients
-      of exploitation-related insights and for operational reasons, without appropriate reporting to various oversight authorities,
-      you have a problem,” Grusch said, referencing the highly secret Special Access Programs and Controlled Access Programs.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-      title: David Charles Grusch
-    provenance_chain:
-      origin_kind: speaker
-      origin: David Charles Grusch
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
-        title: Special Access Program (SAP)
-        slug: special-access-program-sap
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-        title: David Charles Grusch
-        slug: david-charles-grusch
-    date: null
-    date_end: null
-    location_in_record: char:13757-14101
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-      record_date: '2023-06-05'
-      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: c815115f-e20a-4784-9f6a-405481529f62
     claim_hash: ef7d2f699093a9b6c3d702f77c26ab3a7d9b72ebddcabcc381440ec811ceeafd
     content: The two damaged M1 Abrams tanks from Camp New York, Kuwait were shipped to the Yuma Proving Ground in Arizona
@@ -1076,6 +1196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.607
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1098,7 +1223,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1121,6 +1246,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -1140,7 +1270,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1161,6 +1291,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -1183,7 +1318,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1202,6 +1337,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.858
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -1221,7 +1361,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1240,6 +1380,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1274,6 +1419,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.667
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1310,6 +1460,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1349,6 +1504,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1375,6 +1535,145 @@ claims:
       record_reference: https://www.youtube.com/watch?v=idBryc0eWww
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
+  - claim_id: d08b4223-48aa-4f62-a33e-a34e4da61ed5
+    claim_hash: 1e192cd9e02d63acb2720beb65b7e3e4db5a1fe96bf1eed0eae9f387ce74d3f8
+    content: Jason Samosa considers that special access programs (SAPs) did not exist under that terminology in 1952, but
+      that the Collins Elite funding arrangement resembles one.
+    original_excerpt: I don't think special access programs were a thing then by that terminology, but it sounds like that
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+        title: Collins Elite
+        slug: collins-elite
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 00:17:34.8-00:17:40.2
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: f9ca144e-8259-47ee-be80-82f369f62b00
+    claim_hash: 90537dc141f360a1ca99b02da345b15835fda1a74c342e603f81adefbea3360e
+    content: Skywatcher is a modern version of programmes that attempt to summon UFOs, and such summoning work has been carried
+      out for some time within special access programmes.
+    original_excerpt: you have these summoning programs of UFOs, like Skywatcher is this kind of modern version of this or
+      whatever. But it seems like we've been doing this kind of in, you know, special access programs for a while.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      title: Jesse Mitchells
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jesse Michels
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+        title: Skywatcher
+        slug: skywatcher
+    date: null
+    date_end: null
+    location_in_record: 01:06:32.5-01:06:42.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
+  - claim_id: 1cd682d4-8078-479a-b297-ca037dc2fbc3
+    claim_hash: 44cd1c9e2ff20c4ec00c7fa352f531d698ad3f36a35c1f31d4a686898509b70a
+    content: 'Jason Samosa counts five or six stages of UFO disclosure as already delivered: that there is something in the
+      air, that its nature is unknown, that some of these objects have crashed, that they are very likely not Russian or Chinese,
+      that bodies have been recovered, and that there is a secret and sensitive programme.'
+    original_excerpt: So we've had, there's something in the air. We don't know what it is, but we've had, um, some of these
+      things have crashed. It's very likely not Russia or China. We've got the bodies, there's a secret program and it's sensitive.
+      We've been through like five or six courses.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+      title: Jason Samosa
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Samosa
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
+        title: Crash retrieval and reverse engineering
+        slug: crash-retrieval-and-reverse-engineering
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
+        title: Jason Samosa
+        slug: jason-samosa
+    date: null
+    date_end: null
+    location_in_record: 02:07:58.0-02:08:09.5
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
+      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
+      record_date: '2026-07-14'
+      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
+      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
+      friendly_name: null
   - claim_id: 9cc3da50-d777-44d6-8082-36bf47dc1656
     claim_hash: caab5ddef840ee121a9d570917332500d7474cf8476bf512727f43739bee609c
     content: UAP Gerb considers Edward C. Aldridge to have been instrumental, while Under Secretary of the Air Force, in morphing
@@ -1394,6 +1693,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1435,6 +1739,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.654
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4bedff78-4e99-46cf-8eff-f61e56041681
         title: Office of the Administrative Assistant to the Secretary of the Air Force (SAF/AA)
@@ -1475,6 +1784,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4bedff78-4e99-46cf-8eff-f61e56041681
         title: Office of the Administrative Assistant to the Secretary of the Air Force (SAF/AA)
@@ -1517,6 +1831,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1564,6 +1883,11 @@ claims:
         - sensitive meetings with David Grusch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1607,6 +1931,11 @@ claims:
         - an unofficial back channel to David Grusch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d3e437a-0ee4-4b16-bbf3-7bfb15d1fe8a
         title: Thomas Monheim
@@ -1661,6 +1990,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1699,6 +2033,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1736,6 +2075,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1773,6 +2117,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -1813,6 +2162,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)

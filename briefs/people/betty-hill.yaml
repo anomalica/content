@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 319bc095219b3a4d6dee8a0cfff1508bf12f1fceeaf904139f6d6bb05586200f
+brief_hash: 2ed082885e9187e9129338b3924d7ab7b64e2dc0f7620c5a64f209aa8733f40c
 page:
   kind: entity
   node_id: 827a669c-493c-4ea2-a245-a47d300ef053
@@ -9,11 +9,21 @@ page:
   claim_count: 126
   claim_count_total: 126
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 126
   tokens_estimated: 17630
   sized_against: 1050000
+entailment:
+  assessed: 126
+  unassessed: 0
+  entails: 93
+  neutral: 25
+  contradicts: 8
+  entailed_by_quote: 34
+  entailed_by_window: 59
+  entailed_by_quote_fraction: 0.27
+  entailed_by_window_fraction: 0.468
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -78,10 +88,10 @@ related_nodes:
     node_type: place
     slug: new-hampshire-usa
     shared_claims: 5
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: a983e60e-7e73-4bab-9a95-502d2048c255
+    title: 1961 Barney Hill Unidentified Flying Object (UFO) encounter
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1961-barney-hill-unidentified-flying-object-ufo-encounter
     shared_claims: 4
   - node_id: 4d5f5888-1efb-4e47-99ab-eba6bdc48d32
     title: Betty and Barney Hill hypnotherapy sessions with Benjamin Simon
@@ -187,6 +197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -227,6 +242,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -271,6 +291,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -310,6 +335,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -348,6 +378,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -383,6 +418,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -418,6 +458,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -465,6 +510,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.647
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -506,6 +556,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.634
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -549,6 +604,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -596,6 +656,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -639,6 +704,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -682,6 +752,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.796
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -719,6 +794,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -754,6 +834,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -789,6 +874,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0cbe5dd5-2d05-43e0-9fa8-646c2b4bcd07
         title: Delphi (dog)
@@ -829,6 +919,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -867,6 +962,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -907,6 +1007,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.845
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -945,6 +1050,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.931
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -983,6 +1093,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1018,6 +1133,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1055,6 +1175,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1090,6 +1215,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1128,6 +1258,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1169,6 +1304,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1208,6 +1348,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.569
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1248,6 +1393,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1286,6 +1436,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1326,6 +1481,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1360,6 +1520,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1399,6 +1564,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1439,6 +1609,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1474,6 +1649,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1511,6 +1691,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1544,6 +1729,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1580,6 +1770,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1613,6 +1808,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1651,6 +1851,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1689,6 +1894,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
         title: Betty Hill's star map
@@ -1727,6 +1937,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.526
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -1766,6 +1981,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.629
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
         title: Betty Hill's star map
@@ -1804,6 +2024,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.777
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -1838,6 +2063,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
         title: Betty Hill's star map
@@ -1875,6 +2105,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
         title: Betty Hill's star map
@@ -1912,6 +2147,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ee2cac3-ff50-4eff-8353-cd4c6ac0a30f
         title: Precognition
@@ -1952,6 +2192,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.399
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 597b84fc-ecd1-421e-86dd-481a291dceb1
         title: Betty Hill's star map
@@ -1991,6 +2236,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.516
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2027,6 +2277,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2064,6 +2319,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2099,6 +2359,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2133,6 +2398,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2172,6 +2442,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2216,6 +2491,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2259,6 +2539,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -2301,6 +2586,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
         title: National Investigations Committee on Aerial Phenomena (NICAP)
@@ -2339,6 +2629,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2374,6 +2669,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2411,6 +2711,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.792
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2448,6 +2753,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.582
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2485,6 +2795,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2523,6 +2838,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2559,6 +2879,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2593,6 +2918,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41e39cbb-5e8f-40d2-bf34-0dcefa266b76
         title: USA, New Hampshire, White Mountains
@@ -2637,6 +2967,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2675,6 +3010,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2715,6 +3055,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2753,6 +3098,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2788,6 +3138,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -2820,6 +3175,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -2855,6 +3215,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -2900,6 +3265,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -2935,6 +3305,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -2972,6 +3347,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.449
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3006,6 +3386,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.823
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3040,6 +3425,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -3079,6 +3469,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -3126,6 +3521,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3170,6 +3570,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.831
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3208,6 +3613,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3244,6 +3654,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.551
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3284,6 +3699,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -3325,6 +3745,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -3373,6 +3798,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2afd117d-a2b0-47c6-97be-29fd96a94494
         title: Imaginary abductees hypnosis study
@@ -3418,6 +3848,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3454,6 +3889,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.645
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
         title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
@@ -3502,6 +3942,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
         title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
@@ -3545,6 +3990,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.798
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
         title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
@@ -3583,6 +4033,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.87
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -3625,6 +4080,11 @@ claims:
         - Benjamin Simon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.74
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3663,6 +4123,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3700,6 +4165,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
         title: Benjamin Simon
@@ -3740,6 +4210,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.778
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
         title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
@@ -3777,6 +4252,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.504
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3810,6 +4290,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.514
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3845,6 +4330,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
         title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
@@ -3886,6 +4376,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -3926,6 +4421,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -3972,6 +4472,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4012,6 +4517,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4048,6 +4558,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4085,6 +4600,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7fdb6e56-538b-4a51-892b-78a05444a683
         title: 1973 Pascagoula, Mississippi Unidentified Flying Object (UFO) abduction
@@ -4118,7 +4638,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: f0cfb649-ad41-4de4-becb-72ce14d42064
-    claim_hash: 286e52b42c7542ce78d9acfcd2ee164d43896b27268a4da5b812a80bebf5788a
+    claim_hash: 7645e403a2bf71b31415f661dae8c47117952ddf6c5067820481cf07c2be0e0e
     content: In the 1961 Barney Hill UFO encounter, the observation of a disk with windows fell into strangeness category
       3, and this is what Barney Hill and Betty Hill reported to the United States Air Force.
     original_excerpt: The Betty and Barney Hill "abduction" case of 1961 is a fascinating one in light of this classification
@@ -4135,6 +4655,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -4142,9 +4667,9 @@ claims:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
         slug: betty-hill
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a983e60e-7e73-4bab-9a95-502d2048c255
+        title: 1961 Barney Hill Unidentified Flying Object (UFO) encounter
+        slug: 1961-barney-hill-unidentified-flying-object-ufo-encounter
       - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
         title: Barney Hill
         slug: barney-hill
@@ -4162,7 +4687,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 60823d99-15b2-4a14-adfa-3b07d603cfd6
-    claim_hash: 7fa5785a4de98824000ee0615af1e8a258ba9b5e31e65b4e061d6bc288bd2ba6
+    claim_hash: c81771e9481b79736147349e1624638415c5a0a039539b6231bd45549b2ca032
     content: Barney Hill and Betty Hill did not report the creatures or the time loss from their 1961 UFO encounter until
       they discussed the case with a local UFO amateur they trusted.
     original_excerpt: They did not say anything about the creatures (category 5) or the time loss (category 7), which only
@@ -4176,13 +4701,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
         slug: betty-hill
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a983e60e-7e73-4bab-9a95-502d2048c255
+        title: 1961 Barney Hill Unidentified Flying Object (UFO) encounter
+        slug: 1961-barney-hill-unidentified-flying-object-ufo-encounter
       - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
         title: Barney Hill
         slug: barney-hill
@@ -4200,7 +4730,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 962f0517-0f03-43fb-89a0-5cd929005804
-    claim_hash: 723fab5d49820119175b62155399253570a995d2a0d11dcc72f64d13113a3097
+    claim_hash: c8512fdbbebf46fdf3c14c93cdda78adf4d87e1c9725d0209af4bab922676c35
     content: The full story of Barney Hill and Betty Hill's 1961 abduction only emerged under hypnosis.
     original_excerpt: Finally, the whole story of their "abduction" only came out under hypnosis.
     claim_type: testimony
@@ -4212,13 +4742,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
         slug: betty-hill
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a983e60e-7e73-4bab-9a95-502d2048c255
+        title: 1961 Barney Hill Unidentified Flying Object (UFO) encounter
+        slug: 1961-barney-hill-unidentified-flying-object-ufo-encounter
       - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
         title: Barney Hill
         slug: barney-hill
@@ -4236,7 +4771,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 0b679581-6f26-4b41-b258-ef758283ddbe
-    claim_hash: 940830c174181e3fe47acd65d45c81a205f8e1d7742743bb21ac6907690961f9
+    claim_hash: a809baf1b5c67a5ba4da40400fa5907e204745b6a47ab3b34747badf04e9ea28
     content: Jacques Vallee has spent hours with Betty Hill and Barney Hill and discussed the case of their abduction with
       Dr. Simon.
     original_excerpt: I have spent hours with Betty and Barney Hill and have had a chance to discuss the case of their abduction
@@ -4252,6 +4787,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -4259,9 +4799,9 @@ claims:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
         slug: betty-hill
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a983e60e-7e73-4bab-9a95-502d2048c255
+        title: 1961 Barney Hill Unidentified Flying Object (UFO) encounter
+        slug: 1961-barney-hill-unidentified-flying-object-ufo-encounter
       - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
         title: Barney Hill
         slug: barney-hill
@@ -4296,6 +4836,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.516
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4332,6 +4877,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4365,6 +4915,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4403,6 +4958,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4444,6 +5004,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.925
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4478,6 +5043,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4515,6 +5085,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4552,6 +5127,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.758
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4585,6 +5165,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4618,6 +5203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2792ffc2-ffb7-4614-b667-ec3a739c81a1
         title: Paul W. Henderson
@@ -4656,6 +5246,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2792ffc2-ffb7-4614-b667-ec3a739c81a1
         title: Paul W. Henderson
@@ -4689,6 +5284,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4724,6 +5324,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4766,6 +5371,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -4807,6 +5417,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 10dc861f-c3f4-4241-a8a8-2bf5250d51ff
         title: Zeta Reticuli (star system)
@@ -4850,6 +5465,11 @@ claims:
         - Jacques Vallee's field research
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -4892,6 +5512,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
         title: Betty Hill
@@ -4928,6 +5553,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
         title: Look Magazine
@@ -4968,6 +5598,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -5008,6 +5643,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.697
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 583f554d-a577-4487-9bd9-6a6d715d10cc
         title: Greys (extraterrestrial beings)

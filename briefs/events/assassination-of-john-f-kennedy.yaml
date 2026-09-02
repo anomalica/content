@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 66c6ed1588656eb04bb95bc3b6405aae83ad48ce4e8687485c7e44b0e31bce7a
+brief_hash: 6c63455466d7b842e87de29578fe9430ab0aba1bce79ec7443a83148fd5ca180
 page:
   kind: entity
   node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
@@ -9,11 +9,21 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 25
   tokens_estimated: 4279
   sized_against: 1050000
+entailment:
+  assessed: 25
+  unassessed: 0
+  entails: 21
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 12
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.48
+  entailed_by_window_fraction: 0.36
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -78,7 +88,7 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 2
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -192,6 +202,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.813
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
@@ -231,6 +246,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9d4e0e06-9376-4f1d-8e67-366aaf01307a
         title: 'National Security Action Memorandum #271'
@@ -272,6 +292,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.832
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
         title: Lee Harvey Oswald
@@ -318,6 +343,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
@@ -355,6 +385,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 503fe64e-9703-4b62-a360-e2ad35e0cdb9
         title: Beverly Oliver
@@ -396,6 +431,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.708
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
         title: Lee Harvey Oswald
@@ -432,6 +472,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.647
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ab238c32-c119-47ea-b587-4bc20c07a441
         title: Lee Harvey Oswald
@@ -470,6 +515,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.824
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -517,6 +567,11 @@ claims:
         - Rolling Stone magazine
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9339f1ee-3e9d-468d-99ca-4924b08a49d2
         title: USA, Texas, Dallas, Dealey Plaza
@@ -561,6 +616,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
@@ -599,6 +659,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -641,6 +706,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
@@ -682,6 +752,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.531
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
@@ -717,6 +792,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
@@ -750,6 +830,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -783,7 +868,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 591daa3b-77e3-408b-9407-b98dc2f52f06
-    claim_hash: 97c6b5bd55e0cfcfd15f429c6d555ca0e8e229775963255ec4f39d274d3f090d
+    claim_hash: 5a6cebb4380415339baa126923449f5ac677f9058d50b94f4d9a678de4a1b201
     content: Bill Clinton's Associate Attorney General Webster Hubbell claimed he was asked by the president to find out all
       he could about who killed John F. Kennedy and whether UFOs are real.
     original_excerpt: Clinton's Associate Attorney General Webster Hubbell claimed he was asked by the president to find out
@@ -799,13 +884,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 4f348344-3469-496e-88e0-51e12603c5bf
         title: Webster Hubbell
         slug: webster-hubbell
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -821,12 +911,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4c2b8af4-a4eb-49ca-b1a2-5975b240ceb1
-    claim_hash: 2d99e2b7929dc8941a50c2f79905463df0bf3f98c95296b0f1c8c154eed07275
+    claim_hash: 0ea4311ac58a88af0f7c5bb445ab8f602481357fa66f7b44d8238a6cdf369fdd
     content: Steven Greer has claimed that when he sent a briefing document to Bill Clinton, a response came back that the
       president couldn't get anywhere with UFOs and didn't want to push on the issue because a very good friend of his came
       to his home and said he would end up assassinated like John F. Kennedy.
@@ -844,8 +934,13 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.626
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
@@ -866,7 +961,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -887,6 +982,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.599
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 033d1869-6403-4dc3-9fc3-6f7846ce530d
         title: Jim Garrison
@@ -915,7 +1015,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -938,6 +1038,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1a508b53-3f3f-4c87-b4ba-6b7410ae8f59
         title: Michael Jackson
@@ -969,7 +1074,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -994,6 +1099,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.816
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17352ea8-1fa5-4c07-89aa-c2e0b368d4c0
         title: Sur Novel
@@ -1019,7 +1129,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1040,6 +1150,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
         title: Assassination of John F. Kennedy
@@ -1081,6 +1196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.755
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1123,6 +1243,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1160,6 +1285,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.552
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34b66b88-5bb7-4c24-807b-4028f941c7ac
         title: USA, Texas, Dallas
@@ -1208,6 +1338,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: b0b2274405b8e66d5f07162e9fa99013c519d01294a0e77db78c05f8280bd69d
+brief_hash: 439e1fbb48ea94e7c1d23a324cbd961683500c023d02ca9ca34ac201868334f0
 page:
   kind: entity
   node_id: f734df78-1ca4-463a-a3be-b431fccf710e
@@ -9,11 +9,21 @@ page:
   claim_count: 29
   claim_count_total: 29
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 29
   tokens_estimated: 3969
   sized_against: 1050000
+entailment:
+  assessed: 29
+  unassessed: 0
+  entails: 25
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 12
+  entailed_by_window: 13
+  entailed_by_quote_fraction: 0.414
+  entailed_by_window_fraction: 0.448
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -83,11 +93,6 @@ related_nodes:
     node_type: document
     slug: 1929-new-york-passenger-list-of-the-steamship-minnesota
     shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
     title: Air France
     node_type: organisation
@@ -143,6 +148,11 @@ related_nodes:
     node_type: organisation
     slug: french-air-force
     shared_claims: 1
+  - node_id: 3b360b6e-6ca1-4d13-8468-c72e267eff63
+    title: Gretz-Armainvilliers France UAP Sighting 1990
+    node_type: event
+    slug: gretz-armainvilliers-france-uap-sighting-1990
+    shared_claims: 1
   - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
     title: Gustave Geley
     node_type: person
@@ -192,6 +202,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
         title: Order of Melchizedek
@@ -230,6 +245,11 @@ claims:
         - a letter
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.782
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -274,6 +294,11 @@ claims:
         - a letter
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c08feb8-1dea-4d0e-a5e7-a99e6d95a98a
         title: Ivan (Order of Melchizedek leader)
@@ -311,6 +336,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -350,6 +380,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.504
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 622e16f4-3f7e-48b3-be72-03c90adb3f2a
         title: Raymond Bernard
@@ -391,6 +426,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8c4dbc8c-e982-47a6-8c74-e0ab42dd4c7a
         title: Charles de Gaulle
@@ -426,6 +466,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -464,6 +509,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.571
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -498,6 +548,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.668
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
         title: France, Paris
@@ -530,6 +585,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
         title: France, Paris
@@ -565,6 +625,11 @@ claims:
         - Jacques Vallée
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -602,6 +667,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 188ebae3-8810-4ebf-afb6-2fe855913cb6
         title: Order of Melchizedek
@@ -639,6 +709,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.584
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -680,6 +755,11 @@ claims:
         - Jacques Vallée
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 52aee1cd-6d10-432f-94dc-28e7a25afacf
         title: Jacques Bordas
@@ -715,6 +795,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
         title: Marty Martyn
@@ -750,6 +835,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.553
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
         title: Marty Martyn
@@ -785,6 +875,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.713
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65b52f4d-5bd2-49bb-9123-57ab9ef02bf5
         title: USA, New York (steamship arrival, 1929)
@@ -828,6 +923,11 @@ claims:
         - Leslie Kean
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.808
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7abeb5fd-0f0a-4c21-a0be-de2a59d2dd32
         title: Marty Martyn
@@ -872,6 +972,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.907
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d1139f8-8d33-454c-8c1a-42e63c6874ca
         title: Brynjolfur Thorlaksson
@@ -918,6 +1023,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e66a0b2-04ea-4a26-a9b7-cbd062a131c0
         title: USA, New York
@@ -962,6 +1072,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.779
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 92de4f15-0245-4d29-a859-90014b778efd
         title: Maria Felicia Malibran
@@ -996,6 +1111,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e2718a44-84ab-4dca-92ec-a3ab3a95556d
         title: Institut Métapsychique International (IMI)
@@ -1031,6 +1151,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3dbf3f74-6f5b-4667-b447-5722becf4437
         title: Gustave Geley
@@ -1064,7 +1189,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 6d57c1c5-3477-418e-a95d-dcee17eecbd0
-    claim_hash: 5fbb9b3e907c64dcc0658deef27371fc4ac6e5cd2bcd81c3d81a396973c3f745
+    claim_hash: fd17213b6de2bef4943ec277efe0d20c74e5ba219eeea6ca688e8c27198e0daf
     content: Jean Gabriel Greslé, a former French Air Force and Air France pilot, was standing outside a gym in Gretz-Armainvilliers,
       France, 25 kilometres east of Paris, in November 1990 when he and six of his pupils witnessed a craft.
     original_excerpt: a former French air force and Air France pilot, Jean Gabriel Greslé, was standing outside a gym where
@@ -1080,19 +1205,24 @@ claims:
         - Timothy Good's book Need To Know
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0439b77b-861c-42f6-92d2-bb9764b78b86
         title: Jean Gabriel Greslé
         slug: jean-gabriel-gresle
+      - node_id: 3b360b6e-6ca1-4d13-8468-c72e267eff63
+        title: Gretz-Armainvilliers France UAP Sighting 1990
+        slug: gretz-armainvilliers-france-uap-sighting-1990
       - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
         title: Air France
         slug: air-france
       - node_id: 91e70c22-52be-4342-8943-6c180404df3a
         title: France, Gretz-Armainvilliers
         slug: gretz-armainvilliers-france
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
         title: French Air Force
         slug: french-air-force
@@ -1108,7 +1238,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1129,6 +1259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -1175,6 +1310,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4177538c-d451-4745-a089-95d3e3c6309a
         title: 1994 Paris missing time incident involving Whitley Strieber
@@ -1213,6 +1353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0d10c33-ac70-4759-a501-6c523626f15a
         title: Martin Bormann
@@ -1253,6 +1398,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -1293,6 +1443,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

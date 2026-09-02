@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: f958f224ec68562eff81263e3747e8ee6209cb67ac85ebeba726c1f7cdd4f33a
+brief_hash: 769ec50d7aea2a5a385ee5246b2a1e1fbd755e57c0b7d6aaa110347a7334f559
 page:
   kind: entity
   node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
@@ -9,11 +9,21 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 25
   tokens_estimated: 3550
   sized_against: 1050000
+entailment:
+  assessed: 25
+  unassessed: 0
+  entails: 21
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 14
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.56
+  entailed_by_window_fraction: 0.28
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,10 +43,10 @@ related_nodes:
     node_type: person
     slug: robert-fish
     shared_claims: 3
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: d865325c-9687-446b-ab6d-afc83bad363d
+    title: 1972 Kadena SR-71 Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1972-kadena-sr-71-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 2
   - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
     title: Dave (SR-71 pilot)
@@ -58,6 +68,11 @@ related_nodes:
     node_type: object
     slug: u-2
     shared_claims: 2
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
+    shared_claims: 1
   - node_id: f0385240-27ed-4e66-bd46-348cc902df56
     title: Aurora
     node_type: object
@@ -102,11 +117,6 @@ related_nodes:
     title: Jim Goodall
     node_type: person
     slug: jim-goodall
-    shared_claims: 1
-  - node_id: 471145f2-0b13-47b9-a315-8be51fb7d338
-    title: Kadena Air Force Base UAP Sighting
-    node_type: event
-    slug: kadena-air-force-base-uap-sighting
     shared_claims: 1
   - node_id: e78d0ea3-a3c6-4014-a4c6-7cf0bebe92c6
     title: Kelly Johnson
@@ -166,6 +176,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -209,6 +224,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.669
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -247,6 +267,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -282,6 +307,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -319,6 +349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.767
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -356,6 +391,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -395,6 +435,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -431,6 +476,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -468,6 +518,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -504,6 +559,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.699
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -539,6 +599,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -561,12 +626,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 699a3e88-07e2-431c-b5ac-ee8661c12c4e
-    claim_hash: f1a29939fe0880ae2784cf963997f1e19f60f87ef325df2331827b0116d99299
+    claim_hash: e2ac255fb61275b948409c176b4cfa12efdb5887cb1597f8c03a1b0239fcfbe3
     content: Dave, a retired lieutenant colonel in the US Air Force who flew the Lockheed SR-71 reconnaissance aircraft, witnessed
       an unidentified craft while night-flying out of Kadena Air Force Base in Okinawa, Japan, in late 1972 or early 1973.
     original_excerpt: He told me how 'Dave', a retired lieutenant colonel in the US Air Force who flew the high-altitude mach-3-plus
@@ -584,6 +649,11 @@ claims:
         - Jim Goodall
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
         title: Dave (SR-71 pilot)
@@ -594,12 +664,12 @@ claims:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
-      - node_id: 471145f2-0b13-47b9-a315-8be51fb7d338
-        title: Kadena Air Force Base UAP Sighting
-        slug: kadena-air-force-base-uap-sighting
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
         slug: sr-71-blackbird
+      - node_id: d865325c-9687-446b-ab6d-afc83bad363d
+        title: 1972 Kadena SR-71 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1972-kadena-sr-71-unidentified-aerial-phenomena-uap-sighting
     date: '1972'
     date_end: null
     location_in_record: ch13:17625-17897
@@ -609,12 +679,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a381a031-01cb-435d-8afb-98ea060e987e
-    claim_hash: 8fca09bc5247c3e167a7a7d51e6df22b27efd49b2c0f67ec2b55da1f1b62cc05
+    claim_hash: 72c3c39bcb54b5093d1fda9db392292f5c7d7ad6de2d7a9b26fb4504ed845b0d
     content: During the 1972 Kadena SR-71 UAP sighting, Dave advanced the throttles on his SR-71 to try to intercept the object,
       and as he grew closer he could see it was not round and had shiny metallic edges.
     original_excerpt: He advanced the throttles on the spy-plane to try to intercept the object and as he grew closer, he
@@ -631,6 +701,11 @@ claims:
         - Jim Goodall
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e7d489e-9335-4906-8687-0acb68d2818a
         title: Dave (SR-71 pilot)
@@ -638,9 +713,9 @@ claims:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
         slug: sr-71-blackbird
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d865325c-9687-446b-ab6d-afc83bad363d
+        title: 1972 Kadena SR-71 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1972-kadena-sr-71-unidentified-aerial-phenomena-uap-sighting
     date: null
     date_end: null
     location_in_record: ch13:18354-18504
@@ -650,7 +725,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -669,6 +744,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.901
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -682,7 +762,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -704,6 +784,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2050f076-d9e0-4f70-96e6-abef01bebf98
         title: David Fruehauf
@@ -723,7 +808,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -744,6 +829,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
         title: Robert Fish
@@ -760,7 +850,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -781,6 +871,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
         title: Robert Fish
@@ -797,7 +892,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -818,6 +913,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
         title: Robert Fish
@@ -834,7 +934,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -855,6 +955,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3dcb1bdf-9e00-430b-97ed-ded13b79fd61
         title: U-2 spy plane
@@ -883,10 +988,51 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
+    claim_hash: fac451e6638f50c0b5aa0227b8d6a45c07b28c3139e3c6d4ed09cb933162993c
+    content: In 1968, President Lyndon B. Johnson ordered the retirement of the A-12 OXCART when it was replaced by the SR-71
+      Blackbird, itself a modified version of the A-12.
+    original_excerpt: In 1968, President Johnson ordered the retirement of the A-12 when it was replaced by the SR-71, which
+      itself was a modified version of the A-12.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.519
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
+        title: Lyndon B. Johnson
+        slug: lyndon-b-johnson
+      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
+        title: SR-71 Blackbird
+        slug: sr-71-blackbird
+    date: '1968'
+    date_end: null
+    location_in_record: char:127018-127160
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 3687c3dd-7ce7-4b8b-926e-da5ac90caf80
     claim_hash: fdce6c9d6f78e382dcf55ceddeda2d47a599efcac202a8ddac65f9d99c10bf4f
     content: UAP tracked before the 2004 USS Nimitz encounter appeared on radar at approximately 24,000 metres altitude, above
@@ -904,6 +1050,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -926,7 +1077,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -947,6 +1098,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -960,7 +1116,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -979,6 +1135,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -992,7 +1153,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1013,6 +1174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
         title: SR-71 Blackbird
@@ -1026,7 +1192,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1046,6 +1212,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.697
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1062,43 +1233,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 697c81f3-829c-482a-8d35-ca95c63e94c5
-    claim_hash: fac451e6638f50c0b5aa0227b8d6a45c07b28c3139e3c6d4ed09cb933162993c
-    content: In 1968, President Lyndon B. Johnson ordered the retirement of the A-12 OXCART when it was replaced by the SR-71
-      Blackbird, itself a modified version of the A-12.
-    original_excerpt: In 1968, President Johnson ordered the retirement of the A-12 when it was replaced by the SR-71, which
-      itself was a modified version of the A-12.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
-        title: Lyndon B. Johnson
-        slug: lyndon-b-johnson
-      - node_id: 7f7dbb2c-f1a7-4781-a20e-8f3a1a771d6b
-        title: SR-71 Blackbird
-        slug: sr-71-blackbird
-    date: '1968'
-    date_end: null
-    location_in_record: char:127018-127160
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

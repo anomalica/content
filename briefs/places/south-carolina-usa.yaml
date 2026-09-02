@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 43fc024023845864c4457e70862860c5095b8105b630cf47a029373b7efaa112
+brief_hash: 86b993a4462daab8e193b6f780fb77a2b42a3175a9c052e1fe8d94df2a6a29a7
 page:
   kind: entity
   node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
@@ -9,11 +9,21 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 19
   tokens_estimated: 2539
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 13
+  neutral: 5
+  contradicts: 1
+  entailed_by_quote: 8
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.421
+  entailed_by_window_fraction: 0.263
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 19
 related_nodes:
-  - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-    title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
+  - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+    title: Mutual UFO Network (MUFON)
     node_type: organisation
-    slug: mutual-unidentified-flying-object-ufo-network-mufon
+    slug: mutual-ufo-network-mufon
     shared_claims: 4
   - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
     title: 2023 Chinese spy balloon incident
@@ -48,10 +58,10 @@ related_nodes:
     node_type: event
     slug: 1978-11-30-us-military-c-130-lightning-crash
     shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: d4ecf198-7d5a-41a8-b9a7-d42acfdd267c
+    title: 2023 Yukon Unidentified Aerial Phenomena (UAP) shootdown
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 2023-yukon-unidentified-aerial-phenomena-uap-shootdown
     shared_claims: 1
   - node_id: b9d3d9a5-9169-434d-a191-80c935e7a34b
     title: Canada, Yukon
@@ -63,7 +73,7 @@ related_nodes:
     node_type: object
     slug: chinese-spy-balloon
     shared_claims: 1
-  - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+  - node_id: b4365ffa-36b6-40b3-9144-99086771a894
     title: Christopher Bledsoe
     node_type: person
     slug: christopher-bledsoe
@@ -166,6 +176,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -203,6 +218,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -241,6 +261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -278,6 +303,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 42651247-b0a1-4ce4-804a-101c623e504b
         title: Ian Stevenson
@@ -318,6 +348,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -339,7 +374,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 17203491-6dc1-4949-907b-ed0393db16bd
-    claim_hash: a470e3e136971c63c575a30fd98e3719e0dce775479a4bb1d8c33b04d9c19ca9
+    claim_hash: 3f1b59d0ef94440ab5261bf3cda4ca85c9f8a405fe24a63b234da40cc6d93ea5
     content: D. W. Pasulka knows the North Carolina state director of the Mutual UFO Network (MUFON) and several field investigators,
       and considers her associations with them friendly and professional.
     original_excerpt: I know the North Carolina state director of MUFON and several field investigators. My associations with
@@ -355,13 +390,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-        slug: mutual-unidentified-flying-object-ufo-network-mufon
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
       - node_id: f2daae19-9351-4a8e-b466-664f83887f61
         title: Diana Walsh Pasulka
         slug: diana-walsh-pasulka
@@ -379,7 +419,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: c46c0e35-1d70-48a3-b1a7-e837dcc0acb3
-    claim_hash: 30cbe248e021439591917747978df495d27b7197be249913170af6dea8b8b361
+    claim_hash: 7c0507abc7c78f750344a4cdde4157d83b969837b702f679cbf061b4d6f72eb4
     content: The North Carolina state director of the Mutual UFO Network (MUFON) checks with local police and military to
       determine whether military exercises or scheduled aerial events occurred in the area of a reported sighting.
     original_excerpt: For example, the state director for MUFON in North Carolina rules out all possible explanations. Once
@@ -394,13 +434,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-        slug: mutual-unidentified-flying-object-ufo-network-mufon
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
     date: null
     date_end: null
     location_in_record: ch6:48013-48267
@@ -415,7 +460,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 328e5392-fb67-47c9-a651-73a611d79272
-    claim_hash: 377c5998f9cacdb25a54ba4c083950adafbb387c6659cee205c8615d3699621b
+    claim_hash: 5ed262a3a0b480a611cc9e167320d410206f3c6551fe2fde92c4e41c220681de
     content: The North Carolina state director of the Mutual UFO Network (MUFON) scrutinises photographs and physical evidence
       with the help of trained videographers before ruling on a report.
     original_excerpt: She also scrutinizes any photographs and physical evidence with the help of trained videographers.
@@ -428,13 +473,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-        slug: mutual-unidentified-flying-object-ufo-network-mufon
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
     date: null
     date_end: null
     location_in_record: ch6:48273-48357
@@ -449,7 +499,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: b26cffc4-fef7-4964-99ed-895f1a513521
-    claim_hash: 5604fbf110a1b246d550c4ee64145e4967121b6ee59160e5177e3046c5e6ac9a
+    claim_hash: 86118eb6deebeaac227a46bb75922f2801d07d187f951240b1a675fd0ba3ae9b
     content: If other explanations are ruled out, the North Carolina state director of the Mutual UFO Network (MUFON) grants
       a report the status of "UFO," meaning unidentified.
     original_excerpt: If other explanations are ruled out, she grants the report the status of “UFO,” that is, “unidentified.”
@@ -462,13 +512,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-        slug: mutual-unidentified-flying-object-ufo-network-mufon
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
     date: null
     date_end: null
     location_in_record: ch6:48372-48462
@@ -497,11 +552,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: 74878784-ae22-4648-ac03-3fe924a4cd96
+      - node_id: b4365ffa-36b6-40b3-9144-99086771a894
         title: Christopher Bledsoe
         slug: christopher-bledsoe
     date: null
@@ -517,6 +577,126 @@ claims:
       record_reference: null
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 8dfe1861-47bd-4943-878f-e8c0f2bf07b8
+    claim_hash: 172056f710b0cf11e9737c694b8a7402c1f58f0a8e6294efcd9779c2aabbc446
+    content: Earlier in 2023, a Chinese spy balloon was shot down off the coast of South Carolina.
+    original_excerpt: Earlier this year a Chinese spy balloon was shot down off the coast of my home state of South Carolina.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+      title: Nancy Mace
+    provenance_chain:
+      origin_kind: speaker
+      origin: Nancy Mace
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+        title: 2023 Chinese spy balloon incident
+        slug: 2023-chinese-spy-balloon-incident
+    date: '2023'
+    date_end: null
+    location_in_record: char:116821-116915
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: cc7f041b-3331-4231-b72b-f191f828e414
+    claim_hash: 8e3c6fbbeaa21128f507766e891fa94e1fb6ca225eefbba74e653de18873d71d
+    content: After the Chinese spy balloon was allowed to transit the entire continental United States, fighter jets were
+      scrambled off the coast of South Carolina to shoot it down.
+    original_excerpt: However, after the balloon was allowed to transit the entire continental United States, fighter jets
+      were scrambled off the coast of South Carolina to shoot it down.
+    claim_type: administrative
+    attestation: null
+    speaker:
+      node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
+      title: Virginia Foxx
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.566
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
+        title: 2023 Chinese spy balloon incident
+        slug: 2023-chinese-spy-balloon-incident
+    date: null
+    date_end: null
+    location_in_record: char:83901-84061
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 7e48f5c1-bbef-4467-852b-08195a624abf
+    claim_hash: e59addae7e71897474f9d0b794a97f6cb7a08fe3214a5dec8417a81c99562c18
+    content: Ed Dames was one of the remote-viewing instructors at Fort Bragg, North Carolina.
+    original_excerpt: He was one of the Jedi teachers at Fort Bragg.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: an unnamed crew member
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+        title: Ed Dames
+        slug: ed-dames
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+    date: null
+    date_end: null
+    location_in_record: 00:24:38.3-00:24:40.1
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
+      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
+      record_date: '2023-08-02'
+      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
+      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
+      friendly_name: null
   - claim_id: 20cfb423-d4a0-485c-a92f-ea9fc780e8f3
     claim_hash: f5fc9510816a095fe2bbfda5315a69ab1c10471503c2e9ea537341648b4f56b3
     content: Republican Congressman Mark Walker of North Carolina sat on the Intelligence and Counterterrorism subcommittee
@@ -532,6 +712,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3613df8b-c371-4374-9ae9-5fc48a6eaa79
         title: House Homeland Security Committee
@@ -554,7 +739,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -573,6 +758,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -589,7 +779,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -608,6 +798,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41a5d7f8-9e92-4261-a341-0642301eb2d9
         title: USA, Idaho
@@ -633,117 +828,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 8dfe1861-47bd-4943-878f-e8c0f2bf07b8
-    claim_hash: 172056f710b0cf11e9737c694b8a7402c1f58f0a8e6294efcd9779c2aabbc446
-    content: Earlier in 2023, a Chinese spy balloon was shot down off the coast of South Carolina.
-    original_excerpt: Earlier this year a Chinese spy balloon was shot down off the coast of my home state of South Carolina.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
-      title: Nancy Mace
-    provenance_chain:
-      origin_kind: speaker
-      origin: Nancy Mace
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
-        title: USA, South Carolina
-        slug: south-carolina-usa
-      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
-        title: 2023 Chinese spy balloon incident
-        slug: 2023-chinese-spy-balloon-incident
-    date: '2023'
-    date_end: null
-    location_in_record: char:116821-116915
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
-      record_date: '2023-07-26'
-      record_reference: null
-      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-  - claim_id: cc7f041b-3331-4231-b72b-f191f828e414
-    claim_hash: 8e3c6fbbeaa21128f507766e891fa94e1fb6ca225eefbba74e653de18873d71d
-    content: After the Chinese spy balloon was allowed to transit the entire continental United States, fighter jets were
-      scrambled off the coast of South Carolina to shoot it down.
-    original_excerpt: However, after the balloon was allowed to transit the entire continental United States, fighter jets
-      were scrambled off the coast of South Carolina to shoot it down.
-    claim_type: administrative
-    attestation: null
-    speaker:
-      node_id: 1e8837b6-9c9c-4c7e-a704-b9e010436e13
-      title: Virginia Foxx
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
-        title: USA, South Carolina
-        slug: south-carolina-usa
-      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
-        title: 2023 Chinese spy balloon incident
-        slug: 2023-chinese-spy-balloon-incident
-    date: null
-    date_end: null
-    location_in_record: char:83901-84061
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
-      record_date: '2023-07-26'
-      record_reference: null
-      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-  - claim_id: 7e48f5c1-bbef-4467-852b-08195a624abf
-    claim_hash: e59addae7e71897474f9d0b794a97f6cb7a08fe3214a5dec8417a81c99562c18
-    content: Ed Dames was one of the remote-viewing instructors at Fort Bragg, North Carolina.
-    original_excerpt: He was one of the Jedi teachers at Fort Bragg.
-    claim_type: opinion
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: an unnamed crew member
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
-        title: Ed Dames
-        slug: ed-dames
-      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
-        title: USA, South Carolina
-        slug: south-carolina-usa
-    date: null
-    date_end: null
-    location_in_record: 00:24:38.3-00:24:40.1
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 7f1682a6-12ed-46d0-92f3-1544b140e803
-      record_title: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary 1 of 3)'
-      record_date: '2023-08-02'
-      record_reference: https://www.youtube.com/watch?v=GkqFBqiGRQs
-      content_hash: sha256:784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf1c68cd16
-      friendly_name: null
   - claim_id: 32f2525c-c8a1-4373-9d3d-42d17437615e
-    claim_hash: 77e63ba51c356fa424ebdf97600b3049d61b7d9cea06069eb1716f20d040f1d8
+    claim_hash: b6a190deabe7cea20e966b34e65f46417ebbaddc1e9d7a563b31637494671fe8
     content: The object shot down in the 2023 Yukon UAP shootdown was about the size of a small car and was not similar in
       size or shape to the high-altitude surveillance balloon taken down off the coast of USA, South Carolina on 2023-02-04.
     original_excerpt: The object was about the size of a small car, so not similar in size or shape to the high altitude surveillance
@@ -757,13 +847,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.836
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
         slug: south-carolina-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d4ecf198-7d5a-41a8-b9a7-d42acfdd267c
+        title: 2023 Yukon Unidentified Aerial Phenomena (UAP) shootdown
+        slug: 2023-yukon-unidentified-aerial-phenomena-uap-shootdown
     date: '2023-02-04'
     date_end: null
     location_in_record: 00:00:05.7-00:00:16.3
@@ -794,6 +889,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -833,6 +933,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina

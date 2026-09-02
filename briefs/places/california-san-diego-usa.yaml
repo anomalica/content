@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 04cdef550d45cc9c6ecfc07b5399f83ce12a5aa86e9cd022ba8e18b076f857d5
+brief_hash: 7611ffacbed8627d64806c30cbd75f0b4cfc76a30211bb045d0298e0f699decf
 page:
   kind: entity
   node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
@@ -9,11 +9,21 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 20
   tokens_estimated: 2697
   sized_against: 1050000
+entailment:
+  assessed: 20
+  unassessed: 0
+  entails: 11
+  neutral: 9
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.15
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -149,6 +159,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -188,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.569
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
         title: F/A-18F Super Hornet
@@ -212,7 +232,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -235,6 +255,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -282,6 +307,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.924
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -317,6 +347,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -353,6 +388,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -373,121 +413,6 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-  - claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
-    claim_hash: 9ee04f4acbf0996d877ac05564ca416c3135f26b60337acf5081e23e8b0969e1
-    content: During the 2004 USS Nimitz Tic Tac UAP encounter, unidentified aerial objects were first spotted at an altitude
-      of over approximately 24,000 metres, tracking south towards the carrier fleet from around San Clemente Island off San
-      Diego.
-    original_excerpt: The UAPs were first spotted somewhere above 80,000 feet (24,383 metres) tracking south towards the carrier
-      fleet from around San Clemente Island (off San Diego)
-    claim_type: measurement
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-        title: USA, California, San Diego
-        slug: california-san-diego-usa
-      - node_id: 3e9a3527-501e-4e8e-94ee-5ddda242dce7
-        title: USA, California, San Clemente Island
-        slug: california-san-clemente-island-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '2004-11-10'
-    date_end: null
-    location_in_record: ch16:2144-2298
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
-    claim_hash: 5f5629bbabc3019407a910e1eb976ae04dad42e8cbffea9722c1fb5ecbe6a544
-    content: The 2004 USS Nimitz Tic Tac UAP encounter occurred in the north-eastern Pacific Ocean, about 100 kilometres off
-      the coast at a mid-point between San Diego, California and Ensenada, Mexico.
-    original_excerpt: On a clear day in the north-eastern Pacific Ocean, about 100 kilometres off the coast at a mid-point
-      between the US city of San Diego and the coastal town of Ensenada in Mexico
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-        title: USA, California, San Diego
-        slug: california-san-diego-usa
-      - node_id: 97dd20b2-8c81-4909-a42e-9034abd5b1e5
-        title: Mexico, Ensenada
-        slug: ensenada-mexico
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:270-440
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
-    claim_hash: 3c395b223b1a8361605c5b1724aac4c95012492e3292cc1f2749bec1e729e72f
-    content: Within a few hours of the initial radar sightings on 2004-11-14, the USS Nimitz planned to launch as many as
-      30 aircraft, with more scheduled to join the carrier group exercise from San Diego.
-    original_excerpt: Within a few hours of this sighting, the USS Nimitz planned to launch as many as 30 aircraft and more
-      were scheduled to be joining the carrier group exercise from San Diego.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
-        title: USA, California, San Diego
-        slug: california-san-diego-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
-        title: USS Nimitz (CVN-68)
-        slug: uss-nimitz-cvn-68
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: ch16:6036-6205
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a692b189-1226-41ca-9540-c4445d57fa01
     claim_hash: b505f99d70b2b13f1886a851106550a7a5f2c38fb58e09bedc1625f259ff0fe3
     content: In November 2004, the USS Nimitz Carrier Strike Group was training approximately 160 kilometres southwest of
@@ -503,6 +428,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -543,6 +473,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)
@@ -563,7 +498,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 5aa8fa38-da09-452c-ac60-44e2fc1227c4
@@ -581,6 +516,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -601,7 +541,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 3e683cf6-566b-4c9a-95e6-28f71619e079
@@ -620,6 +560,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -640,7 +585,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: e07dae07-6caf-467c-8b3d-115f6b2454ec
@@ -660,6 +605,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -680,9 +630,139 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: 721494c9-7f6d-4a0d-9af9-acdddc267a51
+    claim_hash: 9ee04f4acbf0996d877ac05564ca416c3135f26b60337acf5081e23e8b0969e1
+    content: During the 2004 USS Nimitz Tic Tac UAP encounter, unidentified aerial objects were first spotted at an altitude
+      of over approximately 24,000 metres, tracking south towards the carrier fleet from around San Clemente Island off San
+      Diego.
+    original_excerpt: The UAPs were first spotted somewhere above 80,000 feet (24,383 metres) tracking south towards the carrier
+      fleet from around San Clemente Island (off San Diego)
+    claim_type: measurement
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.901
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 3e9a3527-501e-4e8e-94ee-5ddda242dce7
+        title: USA, California, San Clemente Island
+        slug: california-san-clemente-island-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-10'
+    date_end: null
+    location_in_record: ch16:2144-2298
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 7cf43ad3-fab9-4454-90ab-5e25d61e6bc2
+    claim_hash: 5f5629bbabc3019407a910e1eb976ae04dad42e8cbffea9722c1fb5ecbe6a544
+    content: The 2004 USS Nimitz Tic Tac UAP encounter occurred in the north-eastern Pacific Ocean, about 100 kilometres off
+      the coast at a mid-point between San Diego, California and Ensenada, Mexico.
+    original_excerpt: On a clear day in the north-eastern Pacific Ocean, about 100 kilometres off the coast at a mid-point
+      between the US city of San Diego and the coastal town of Ensenada in Mexico
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: 97dd20b2-8c81-4909-a42e-9034abd5b1e5
+        title: Mexico, Ensenada
+        slug: ensenada-mexico
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:270-440
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 5d9c3e93-4e0e-4d13-ab4e-f031aeefd54d
+    claim_hash: 3c395b223b1a8361605c5b1724aac4c95012492e3292cc1f2749bec1e729e72f
+    content: Within a few hours of the initial radar sightings on 2004-11-14, the USS Nimitz planned to launch as many as
+      30 aircraft, with more scheduled to join the carrier group exercise from San Diego.
+    original_excerpt: Within a few hours of this sighting, the USS Nimitz planned to launch as many as 30 aircraft and more
+      were scheduled to be joining the carrier group exercise from San Diego.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+        title: USA, California, San Diego
+        slug: california-san-diego-usa
+      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+        title: 2004 USS Nimitz UAP encounter
+        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+        title: USS Nimitz (CVN-68)
+        slug: uss-nimitz-cvn-68
+    date: '2004-11-14'
+    date_end: null
+    location_in_record: ch16:6036-6205
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b6856481-ac2a-4a83-9363-333839eaa2b8
     claim_hash: 4e11c0990248dee5546d6b6ef69b101b75661d4bc344c1523f78ac3165ebc94e
     content: The egg-shaped Unidentified Aerial Phenomena (UAP) form seen at Socorro in 1964 recurs in reports over the following
@@ -698,6 +778,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -714,7 +799,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -733,6 +818,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -749,7 +839,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -768,6 +858,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.756
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -793,12 +888,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 5242da16-a248-4220-93c8-a00b043f7cb6
-    claim_hash: f687e2b088c422da52f5c9ef73180468338db0e6e0163119e54c6f8ff2f9d746
+    claim_hash: bf2225718d50cf3eda62c6ac1a7e91739483c47e696a15f16da4f806f2131289
     content: To The Stars Academy's planned location was in Encinitas, California, about thirty minutes north of San Diego
       along the coast.
     original_excerpt: DeLonge was a proud son of Poway, near San Diego. TTSA’s planned location was in Encinitas, about thirty
@@ -812,6 +907,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
         title: USA, California, San Diego
@@ -837,7 +937,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -858,6 +958,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2acf45fc-91f9-4565-9e36-929c510689b4
         title: Alex Elizondo
@@ -877,7 +982,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -899,6 +1004,11 @@ claims:
         - confirmed to Chris Mellon
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 228844a4-f0e6-45a4-8552-582ee7de5b21
         title: USS Princeton (CG-59)

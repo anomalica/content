@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 20ec1407d73a6f2e3e12418eb01352502da513b29fc6c43426c7338a27b5c383
+brief_hash: 10a25ff5134be2383c364bfe6a8fb9e987844d154c939c06a295b8cb763ae199
 page:
   kind: entity
   node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
@@ -9,11 +9,21 @@ page:
   claim_count: 214
   claim_count_total: 214
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 214
   tokens_estimated: 31240
   sized_against: 1050000
+entailment:
+  assessed: 214
+  unassessed: 0
+  entails: 176
+  neutral: 30
+  contradicts: 8
+  entailed_by_quote: 76
+  entailed_by_window: 100
+  entailed_by_quote_fraction: 0.355
+  entailed_by_window_fraction: 0.467
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -98,6 +108,11 @@ related_nodes:
     node_type: topic
     slug: human-alien-hybrid-children
     shared_claims: 4
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
+    node_type: topic
+    slug: non-human-intelligence
+    shared_claims: 4
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -168,11 +183,6 @@ related_nodes:
     node_type: person
     slug: jesse-mitchells
     shared_claims: 2
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    node_type: person
-    slug: julia-mossbridge
-    shared_claims: 2
 claims:
   - claim_id: bc8028c3-1f8e-4cab-b003-04838e493d4d
     claim_hash: 9efc39f0703fe2c06d99c7c083573ca6fb97c4c78e025a17c8cb86de6664f126
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -225,6 +240,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -263,6 +283,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -303,6 +328,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -342,6 +372,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -380,6 +415,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -417,6 +457,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -454,6 +499,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -496,6 +546,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -533,6 +588,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.684
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -572,6 +632,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -612,6 +677,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -650,6 +720,11 @@ claims:
         - Mary Rodwell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -686,6 +761,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.632
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -724,6 +804,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -759,6 +844,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.696
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -780,7 +870,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: e7c724d8-0374-4442-863f-d892179335d7
-    claim_hash: d1b3bbe4b3f1aa62785ebfaea57aa4ef4726aa9264a020eac5a5089ae6ae43f4
+    claim_hash: 23f8ac59866958e53faf76928ecac8ab609f4442cb3c647b37fe59e20baeab73
     content: Alien abduction experiences are often accompanied by emotional trauma, sometimes severe, manifesting as post-traumatic
       stress disorder (PTSD).
     original_excerpt: It has often emotional trauma associated with it, sometimes severe, called post-traumatic stress disorder.
@@ -795,6 +885,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.809
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -833,6 +928,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -870,6 +970,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -906,6 +1011,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.58
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -941,6 +1051,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -977,6 +1092,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1013,6 +1133,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.775
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1049,6 +1174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1093,6 +1223,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.8
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 213ef20d-93db-44b6-a9de-a07c2ebfaa27
         title: Psychic Surgery
@@ -1136,6 +1271,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1171,6 +1311,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1208,6 +1353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.668
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1245,6 +1395,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1284,6 +1439,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1320,6 +1480,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1357,6 +1522,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1394,6 +1564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.902
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1430,6 +1605,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1467,6 +1647,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.904
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1507,6 +1692,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1545,6 +1735,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1582,6 +1777,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.813
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1618,6 +1818,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1655,6 +1860,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1692,6 +1902,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1729,6 +1944,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1764,6 +1984,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1802,6 +2027,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.643
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1837,6 +2067,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1872,6 +2107,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1909,6 +2149,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1947,6 +2192,11 @@ claims:
         - Mary Rodwell referencing his talks in England
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.789
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -1985,6 +2235,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2017,6 +2272,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.679
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2048,6 +2308,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2079,6 +2344,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2110,6 +2380,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2141,6 +2416,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2173,6 +2453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2205,6 +2490,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2223,7 +2513,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: 9f48a489-5c6f-4a10-9f06-d225de0ea0bb
-    claim_hash: 551266cff38dc8a88c503876ea12a3bbb5d2f637e7ca2c3ca5e9668da8deef58
+    claim_hash: a575f059eb7c8169fc49724055821f2e4c375945a512894c9d5e258bc6c3999f
     content: The humanoid appearance described in the Betty Andreasson abduction is typical of the humanoid seen in these
       particular cases.
     original_excerpt: This is the typical humanoid that's seen in these particular cases.
@@ -2238,6 +2528,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 674210ee-99c3-4847-88a7-ce645376e815
         title: Betty Andreasson abduction, South Ashburnham, 1967-01-25
@@ -2272,6 +2567,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2306,6 +2606,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2343,6 +2648,11 @@ claims:
         - Mary Rodwell's support group interaction
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.634
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2379,6 +2689,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.691
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2400,7 +2715,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: 3b58b1c9-ae73-4951-9548-28d46b0ed94c
-    claim_hash: 8e1481513ac65ca7385f2469ef15e25cab5ed329b7128407ca2a0758ca96096f
+    claim_hash: 49c505615fbd348ba5eecdb755702728728f5536cff374b18c63037516f2e578
     content: In a typical close encounter of the third kind, Type G case, one or more persons travelling in an automobile
       see something like a plane crashing in front of them, their car stops, and the object then disappears, after which they
       continue to their destination and find that two or three hours have passed.
@@ -2419,6 +2734,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5c12b49f-7ef0-466f-bd84-1103cb7763ba
         title: Close encounter classification system
@@ -2440,7 +2760,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: 6c6934d2-c367-47d9-bfa0-f30cd94a84c3
-    claim_hash: 01b446a54c7ab855cf717071fc5c82d00fc5eecb80b4c14942d1db97bfdabb61
+    claim_hash: ea2597da72ff82d6ca937cdc8fc8e277aa678af1ac2061880ac1a1f44a2adebf
     content: After a typical close encounter of the third kind, Type G experience, witnesses start having dreams about what
       happened during the missing time, and have flashbacks during everyday activities such as doing dishes.
     original_excerpt: Then they'll start having dreams about what happened in between. They'll have flashbacks while they're
@@ -2456,6 +2776,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.912
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2474,7 +2799,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: 5968c174-16bd-4635-9433-72d7586b3600
-    claim_hash: d5020376d14566bfbe44df802381f98465eae79b0eef693ac7a0f799c1679c6f
+    claim_hash: 36f102394a46f1d251074f9b57f9c3e596f1a08c6c9a3d81c496d32e83d3bc40
     content: Under hypnosis with the right investigators, witnesses of close encounters of the third kind, Type G relive a
       typical abduction experience and physical examination, and recall being told they would not be able to remember the
       incident.
@@ -2491,6 +2816,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.802
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2509,7 +2839,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: ec8a6c52-6cab-4e9a-9aeb-e8c53ff281be
-    claim_hash: d1fb6c7bd34a81947f1b23ddaa188ac9bc9fb7cdb2ec659500928932257f55a3
+    claim_hash: 9d92994ecb461a87ef5535de4b0a7390db40bda058af46799cedc5dc47b76aef
     content: There are several hundred alleged abduction cases that have been investigated fairly thoroughly, usually by people
       with strong credentials such as psychiatrists and psychologists.
     original_excerpt: There are several hundred of these now that we've investigated fairly thoroughly and by some usually
@@ -2525,6 +2855,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2561,6 +2896,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2582,7 +2922,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: 9da43343-900f-497f-9bac-cf833d8bb8da
-    claim_hash: 7865639728e7ae3a734dcc7d5519cf537c1f1e835dfa0a5bc04d595addeb1917
+    claim_hash: e52504bcb839da75cee2881d6fdfffbafcd2770785347eb4af7f415837b54299
     content: Investigated alien abduction witnesses have passed lie detector tests and rigid character reference checks, and
       their reported experiences are similar to other cases reported in the United States and abroad.
     original_excerpt: They pass lie detector tests. They passed a rigid character reference check. Things that they report
@@ -2598,6 +2938,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2616,7 +2961,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: 9b810ea1-fce9-4eae-970d-22cded84dd3b
-    claim_hash: 204c0b0be4fef1da90f1d12fb075e2828818e850d40546b7cb1919de23bdfc6b
+    claim_hash: ba7a58896809e5dd6f784fd21cc670110db6e94366fb339a3634c299c5323331
     content: Raymond Fowler considers that alien abduction reports are not hoaxes, even though it is unknown whether the reported
       events actually happened, and that the witnesses genuinely believe they experienced something like this.
     original_excerpt: Whether they actually really happened, we don't know, but we know that they aren't hoaxes. We know that
@@ -2632,6 +2977,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2666,6 +3016,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2687,7 +3042,7 @@ claims:
       content_hash: sha256:8732e3745c6438c15c97618f717653a116c9c7e307d6e6c78aa12d9805d83a74
       friendly_name: null
   - claim_id: 7a71ae46-62b8-47b1-8fd1-b0b645b30043
-    claim_hash: 27a00fc7ee8c71bb7c33ec01dc81eafc53b3fb8a23c335cb8d5469120b4b298c
+    claim_hash: c4e83de1cebf5e04189fef889ef4a79937b9d196b39501d841dedbfa8eedf242
     content: After an abduction-type experience, some people who have had this experience report psychic phenomena, apparitions,
       objects moving by themselves, and strange lights, sometimes lasting days, sometimes weeks, and sometimes stopping and
       starting again.
@@ -2706,6 +3061,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -2739,6 +3099,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2776,6 +3141,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2812,6 +3182,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2849,6 +3224,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -2886,6 +3266,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -2923,6 +3308,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 28b5cf15-119e-4cf0-b561-c02f8ae4d8a1
         title: 1993 Kelly Cahill case
@@ -2964,6 +3354,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -2999,6 +3394,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3037,6 +3437,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3079,6 +3484,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3116,6 +3526,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3153,6 +3568,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
         title: Kary Mullis
@@ -3190,6 +3610,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
         title: Kary Mullis
@@ -3225,6 +3650,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3267,6 +3697,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3306,6 +3741,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3341,6 +3781,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.84
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3273c059-0835-4596-a5dd-b855dea25555
         title: Credo Mutwa
@@ -3380,6 +3825,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.794
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3417,6 +3867,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 82eacccf-142b-4f84-9e71-dfeeb0f09bbc
         title: Robert Lawlor
@@ -3454,6 +3909,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 20a0e1ff-96bc-4d96-82ba-d0465d03f6d0
         title: Electromagnetic (EM) effects in UFO close encounters
@@ -3496,6 +3956,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3534,6 +3999,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3570,6 +4040,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3607,6 +4082,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 94bd5682-cd3e-452d-b16f-1d5b0a9e8431
         title: Forensic crime-scene approach to alien abduction investigation
@@ -3643,6 +4123,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3678,6 +4163,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.571
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3715,6 +4205,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -3752,6 +4247,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.697
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
         title: Tuatha de Danann
@@ -3791,6 +4291,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3828,6 +4333,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.651
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -3864,6 +4374,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
         title: Deoxyribonucleic Acid (DNA) profiling
@@ -3899,6 +4414,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
         title: Deoxyribonucleic Acid (DNA) profiling
@@ -3936,6 +4456,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aa7acd4-c013-4bff-9317-e4160830d0a8
         title: Deoxyribonucleic Acid (DNA) profiling
@@ -3973,6 +4498,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4007,6 +4537,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4043,6 +4578,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.87
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4076,6 +4616,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -4115,6 +4660,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21c29dd2-c3c2-4c56-b32f-0c261bad9517
         title: Anomaly Physical Evidence Group (APEG)
@@ -4151,6 +4701,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
         title: Kary Mullis
@@ -4191,6 +4746,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -4229,6 +4789,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4265,6 +4830,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224c7243-0077-417a-a148-29465dacae71
         title: Susan Clancy
@@ -4308,6 +4878,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224c7243-0077-417a-a148-29465dacae71
         title: Susan Clancy
@@ -4346,6 +4921,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224c7243-0077-417a-a148-29465dacae71
         title: Susan Clancy
@@ -4384,6 +4964,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.75
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224c7243-0077-417a-a148-29465dacae71
         title: Susan Clancy
@@ -4422,6 +5007,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224c7243-0077-417a-a148-29465dacae71
         title: Susan Clancy
@@ -4461,6 +5051,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -4506,6 +5101,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.797
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
         title: Hypnotic regression
@@ -4546,6 +5146,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -4589,6 +5194,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.394
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 863be258-ae0e-47b4-89fb-59647e33d564
         title: 1992-07-23 Peter Khoury bedroom encounter
@@ -4630,6 +5240,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98e50374-da8a-4414-998b-d42fce1cd3d7
         title: Peter Khoury
@@ -4666,6 +5281,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -4703,6 +5323,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4737,6 +5362,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4771,6 +5401,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4807,6 +5442,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4841,6 +5481,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4878,6 +5523,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4912,6 +5562,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4949,6 +5604,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -4984,6 +5644,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5022,6 +5687,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5056,6 +5726,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5092,6 +5767,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5130,6 +5810,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5168,6 +5853,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5207,6 +5897,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.792
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5245,6 +5940,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.66
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5283,6 +5983,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.602
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5325,6 +6030,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5361,6 +6071,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5402,6 +6117,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5440,6 +6160,11 @@ claims:
         - told directly to Budd Hopkins
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5477,6 +6202,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5513,6 +6243,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5548,6 +6283,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5585,6 +6325,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5622,6 +6367,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5660,6 +6410,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5697,6 +6452,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.817
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5734,6 +6494,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.834
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
         title: William Perry
@@ -5771,6 +6536,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5809,6 +6579,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5848,6 +6623,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -5894,6 +6674,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.864
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -5936,6 +6721,11 @@ claims:
         - an account given to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -5974,6 +6764,11 @@ claims:
         - an account given to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -6014,6 +6809,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.619
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -6052,6 +6852,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -6094,6 +6899,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -6132,6 +6942,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -6170,6 +6985,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6208,6 +7028,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.718
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6250,6 +7075,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6284,6 +7114,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -6317,6 +7152,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6354,6 +7194,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6393,6 +7238,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -6425,6 +7275,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6460,6 +7315,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.875
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6495,6 +7355,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6529,6 +7394,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.937
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -6567,6 +7437,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6599,6 +7474,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6633,6 +7513,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6670,6 +7555,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6707,6 +7597,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -6743,6 +7638,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6780,6 +7680,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6819,6 +7724,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
         title: Erik Nanstiel
@@ -6840,7 +7750,7 @@ claims:
       content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
       friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
   - claim_id: abc41a43-0cac-4770-87ef-7ce2cc2367ea
-    claim_hash: 88688f9aacec362e5e3c4e4c1e5df69326aaa95432b99ef1baf6bd966b01411d
+    claim_hash: 3fa3711f68c17ba0713ff02e3a07192954d0a346047685cc1f2271d640173a78
     content: Jacques Vallee advises constant experiencers and abductees that they should want to get rid of the phenomenon
       contacting them.
     original_excerpt: Like you talk to Jacques Vallée, he'll be like, yeah, like you, you want to get rid of this thing. If,
@@ -6857,6 +7767,11 @@ claims:
         - Jesse Michels recounting conversations with Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -6881,7 +7796,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: bf65cfe9-9f12-4a70-9fb0-ef4ca4cf7f9f
-    claim_hash: f081cd9217a1b7ad145033aefd61492827e33c8975eab838ebbca4bede3298f9
+    claim_hash: c842b1845e8a9d197a495ddd3403a0e59fcd9f7a6706d817b63f16a48662715f
     content: Jesse Michels considers grey aliens to have a robotic, droid-like mandate, showing up, saying do not fear, inserting
       a thing and subduing the witness, which feels automated.
     original_excerpt: even gray aliens, which seem to have this very robotic droid, like kind of mandate. where they show
@@ -6898,6 +7813,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -6922,7 +7842,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
-    claim_hash: fb9fa3191a43816fc01b339ed326ab9cbca3429ba7c30b48e64e1cf447efc93a
+    claim_hash: 4d3a5fae8105dd3e2d6efec0b3230d42fed8d7a929623372652bda7d7d13ab03
     content: An experiencer present at the Washington DC meeting described in Shirley MacLaine's Going Within claimed she
       was part of an alien hybrid programme and that her foetus went missing three months into the pregnancy, according to
       Jesse Michels.
@@ -6941,6 +7861,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -6971,7 +7896,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 8eae81cb-ab91-4418-8b49-4430f9754423
-    claim_hash: 6f78def0e108e727189393a8cd1818496b65b93a22d075adf6d854466d017608
+    claim_hash: 6333242c764b51f6dc777b4dd80503e9d69e089ff7129048e462fb96a3c1b474
     content: A foetus going missing about three months into a pregnancy is a commonly reported element among people interested
       in the alien abduction thread, according to Jesse Michels.
     original_excerpt: which is a common thing if you talk to people who are, you know, interested in the abduction thread.
@@ -6986,6 +7911,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -7007,7 +7937,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: cee073e3-9d8c-4ace-8239-5dae82abb296
-    claim_hash: 6abcc2e6eed63356b765817d274339e044262b094cd55fcd28af6ed5dca6c054
+    claim_hash: 7f43acc6d1d8a3c423e22e1488275bbf09e0e1b3d8238c816b720a99d7080070
     content: Betty and Barney Hill were the subjects of America's first famous alien abduction case.
     original_excerpt: '[note: Betty and Barney Hill - Subjects of America''s first famous abduction case]'
     claim_type: administrative
@@ -7019,6 +7949,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
@@ -7057,6 +7992,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -7099,6 +8039,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
@@ -7137,6 +8082,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7179,6 +8129,11 @@ claims:
         - Bob Mitchell in conversation with Jason Quitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
         title: Sleep paralysis
@@ -7220,6 +8175,11 @@ claims:
         - Bob Mitchell in conversation with Jason Quitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
@@ -7257,6 +8217,11 @@ claims:
         - Bob Mitchell in conversation with Jason Quitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
@@ -7295,6 +8260,11 @@ claims:
         - Bob Mitchell in conversation with Jason Quitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
@@ -7337,6 +8307,11 @@ claims:
         - Bob Mitchell in conversation with Jason Quitt
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
@@ -7374,6 +8349,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7414,6 +8394,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7453,6 +8438,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7494,6 +8484,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -7533,6 +8528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
         title: Ayahuasca
@@ -7576,6 +8576,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -7616,6 +8621,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -7653,6 +8663,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4860f67b-322c-4a17-a59c-95299225511a
         title: Bob Mitchell
@@ -7693,6 +8708,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d44231b-2421-4393-99cf-b82e6fa23482
         title: Debbie Jordan
@@ -7735,6 +8755,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -7775,6 +8800,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
@@ -7818,6 +8848,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
@@ -7842,7 +8877,7 @@ claims:
       content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
       friendly_name: null
   - claim_id: 5a0eab6f-974b-483f-8351-cf0dfcdeadc5
-    claim_hash: 91da16aec18a1d00a86a215c2a44b75e0e2da97ea987ede34230f87107039fc7
+    claim_hash: 678c61f9016a58f649573725c941a3eb97c16bdde015ca4a05fb7059a27db741
     content: Whitley Strieber is a controversial and leading figure in the study of alleged experiencer close encounters,
       in Ross Coulthart's assessment.
     original_excerpt: have made him a controversial and leading figure in the study of alleged experiencer close encounters
@@ -7857,6 +8892,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -7878,7 +8918,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: 3f0c5ae3-2f73-40be-ad1e-3102858cd58e
-    claim_hash: f9d21839328cd688acba5428244fb71787e7d8044f4b94fcdcab963692ef2c0e
+    claim_hash: fc81fe2c4e1a8e01fd37c81a4117752ede29450475a58ae55b918aa89df5e18d
     content: Whitley Strieber's accounts of his own alleged abduction experiences began at his remote cabin in upstate New
       York in 1985-12.
     original_excerpt: his personal accounts of his own paranormal abduction experiences from his remote cabin in upstate New
@@ -7894,6 +8934,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -7921,7 +8966,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: 116d5684-c0d2-418c-8c29-a63842866719
-    claim_hash: 45de802b527a6947027ada586982d151e0afe9569fc362f902e84acb2962e908
+    claim_hash: f06347af8d144fc9c02dc8f69a5c3d1e8dbc57515dfcb078ccb60bc9e3b34e18
     content: Under hypnosis by Donald Klein, Whitley Strieber recalled appearing to have been abducted by aliens rather than
       assaulted by people in masks.
     original_excerpt: Instead of seeing people in masks and being able to identify things I could take to the police, I appeared
@@ -7937,6 +8982,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
         title: Forensic hypnosis
@@ -7967,7 +9017,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: 69e70832-b560-41eb-93a7-d8a312a723ae
-    claim_hash: c987911334a6a1cb9ebab0ef17f5c013675e60bd5e5225629deb4f74e5b17070
+    claim_hash: aadb7a91c9bacf9d42d5949560faa427d8a54bd9e4e03b60678a64248922b7c0
     content: Ross Coulthart characterises what the non-human beings did to Whitley Strieber - coming to his home, planting
       implants, attempting to abduct his son, taking his sperm, inflicting wounds and severe trauma - as unfriendly by any
       definition.
@@ -7986,6 +9036,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -8016,7 +9071,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: 205c8a6e-3591-4017-ac7d-7dc52ceea05a
-    claim_hash: 69fcc39a75ed4d6ffaf2f8890bfb0e1dd3e3850ec459b252beaa382a38b5334d
+    claim_hash: bd954b2d48665b82279d4927278769954b21c4716611404aba2f26bd84ce212c
     content: Andrew Strieber is no longer having encounter experiences and does not remember anything about that aspect of
       his childhood.
     original_excerpt: No, they're not. And he doesn't remember anything about his childhood of this stuff.
@@ -8031,6 +9086,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.86
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 73ad5bb8-c3ed-4ecb-96a0-66dd4e819fe9
         title: Childhood amnesia
@@ -8055,7 +9115,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: abea08ef-8db2-4738-9e0e-48252aaf3651
-    claim_hash: 015194ed8fbb06d6213bed737108513d3aaf0ba5ce1c82557190c98aebe4e6ee
+    claim_hash: 757d2e3d89d5c570f58787ed2c48316fd85b3174749b883543fade2e17b483ce
     content: The hypnosis session with Donald Klein was one of the most shocking moments of Whitley Strieber's life and opened
       him to the fact that the phenomenon had been in his life as a child, which he did not know until after his abduction
       experience.
@@ -8072,6 +9132,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.874
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22be19fb-4ded-4681-a698-bb0233fa1581
         title: Forensic hypnosis
@@ -8099,7 +9164,7 @@ claims:
       content_hash: sha256:17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c451793c5a628
       friendly_name: null
   - claim_id: 158c07c9-64d7-4503-9d83-e23fd54c5ea9
-    claim_hash: 7c1f242d048aef44ae17ab7ff60335447868d709280ef0e582e3b304ac89b2da
+    claim_hash: 03bb07d4361f85d0736d9e999bf52b780d0143184abeeeaaa32df8c5cd5919cf
     content: Chris Ramsay describes reported alien encounters, including with Nordic-type beings described by George Adamski,
       with mantis-like insectoid beings and with greys, as consistently accompanied by a sense of familiarity, love, compassion
       and calm and an impression that the beings mean the witness no harm.
@@ -8118,6 +9183,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
         title: George Adamski
@@ -8125,12 +9195,12 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
         slug: alien-abduction
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
     date: null
     date_end: null
     location_in_record: 01:03:17.3-01:03:43.2
@@ -8145,7 +9215,7 @@ claims:
       content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
       friendly_name: null
   - claim_id: 77fc8b03-4693-4d98-8030-2ad1bb637809
-    claim_hash: 443acfa39507061a26e76a1401ec8747ce33565793452ecdf6f2cc7e8c4a9937
+    claim_hash: af4000d7910fb63d423f472b9a39102a63a05f829d56e8b6bf42a079b1d5a91a
     content: Julia Mossbridge proposes that reported alien visitations may be memories inserted into people's minds by an
       agent that understands the informational substrate, rather than events that physically happened.
     original_excerpt: that speaks to alien visitations where people just have these things potentially inserted into their
@@ -8162,10 +9232,12 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
       - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
         title: Informational substrate
         slug: informational-substrate
@@ -8175,6 +9247,9 @@ claims:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
         slug: alien-abduction
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
     date: null
     date_end: null
     location_in_record: 01:09:21.5-01:09:32.9
@@ -8189,7 +9264,7 @@ claims:
       content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
       friendly_name: null
   - claim_id: 7e11d824-ca27-4dd6-a032-7a14ddf32a36
-    claim_hash: c102b6287019ea22e42f94bed07bf35a76a2dfa022fa5c345180aa3192a1cbf8
+    claim_hash: 5630504e671bb43472d57861bed714ae53177ecaa5b270e83ae3775fa9f6538c
     content: Telepathy features in the accounts of every person who describes an abduction experience.
     original_excerpt: There's clearly telepathy going on with every person who talks about abduction experiences.
     claim_type: opinion
@@ -8203,6 +9278,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge

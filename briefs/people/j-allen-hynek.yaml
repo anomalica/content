@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5907d27357d4ec2fbf87652071ad24107e76e777cbf1ba7c800f4e887e382cfa
+brief_hash: 8095ffed577666e903964a5aeaf70c7832c7d35af0e4abb1a7b740a89b140060
 page:
   kind: entity
   node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
@@ -9,11 +9,21 @@ page:
   claim_count: 50
   claim_count_total: 50
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 50
   tokens_estimated: 6779
   sized_against: 1050000
+entailment:
+  assessed: 50
+  unassessed: 0
+  entails: 28
+  neutral: 19
+  contradicts: 3
+  entailed_by_quote: 18
+  entailed_by_window: 10
+  entailed_by_quote_fraction: 0.36
+  entailed_by_window_fraction: 0.2
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -53,10 +63,10 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 4
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+    title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     shared_claims: 2
   - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
     title: Harry Turner
@@ -98,6 +108,11 @@ related_nodes:
     node_type: place
     slug: ohio-wright-patterson-air-force-base-usa
     shared_claims: 2
+  - node_id: 73cf2050-792d-4631-8bee-4c9c7876f44c
+    title: 1952 Hanford nuclear site Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1952-hanford-nuclear-site-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
   - node_id: 8a1421aa-f32b-413a-8809-e846dced9c04
     title: 1958 Hartford Connecticut crash retrieval
     node_type: event
@@ -168,11 +183,6 @@ related_nodes:
     node_type: person
     slug: douglass-price-williams
     shared_claims: 1
-  - node_id: 32cf1aa3-de3a-4858-a7c5-aec70b89a39a
-    title: Fred Beckman
-    node_type: person
-    slug: fred-beckman
-    shared_claims: 1
 claims:
   - claim_id: e04645ac-32aa-4578-81a7-df07d318fbab
     claim_hash: c5317edbae7a9cd2b61deb71031a25dbbf637b22d5d6cedc7d4ed78c70fd1d7f
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -237,6 +252,11 @@ claims:
         - Raymond Fowler
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -258,7 +278,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: a9b9677c-2ca4-4846-b1f9-a732826abcf5
-    claim_hash: fb8761ab4e900d1f338cb1b4cb2230348ba7a30054dd5230175ac81fa7544f28
+    claim_hash: b7797877864fd538c9cd1a68d6e3dd715c287792c6309fe476b9b7b4f98868f7
     content: The Mutual UFO Network supports J. Allen Hynek's Center for UFO Studies by supplying investigative capability
       for documented reports.
     original_excerpt: a group that supports Dr. Hynek's Center for UFO Studies by supplying investigating capability in documented
@@ -274,16 +294,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.904
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 034938c6-06ce-4559-8e8d-37c8f912c807
         title: Center for Unidentified Flying Object (UFO) Studies (CUFOS)
         slug: center-for-unidentified-flying-object-ufo-studies-cufos
-      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-        slug: mutual-unidentified-flying-object-ufo-network-mufon
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
         slug: j-allen-hynek
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
     date: null
     date_end: null
     location_in_record: 00:43:23.9-00:43:30.6
@@ -314,6 +339,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.779
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01bdd3c4-9335-494b-9206-2615f7453f73
         title: United Nations Special Political Committee
@@ -354,6 +384,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
         title: Search for Extraterrestrial Intelligence (SETI)
@@ -394,6 +429,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
         title: Search for Extraterrestrial Intelligence (SETI)
@@ -429,6 +469,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.548
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
         title: USA, Colorado, Boulder
@@ -471,6 +516,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -498,7 +548,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: a3328a6b-ca32-4a63-82b5-239d90fb7934
-    claim_hash: 85f8e65a4a10c91893f3d1e95e3c69a51e7ded57b9a6c8c5b009a951296e27a7
+    claim_hash: 96c604c0afe710d479dbb12a997354437ce313bbfc2a87cb9fd4849b41132970
     content: Jacques Vallee called J. Allen Hynek to alert him to the March 1966 Michigan UFO sightings, and Hynek in turn
       called Project Blue Book in Dayton, Ohio, to propose an immediate investigation.
     original_excerpt: I called Dr. Hynek to alert him to the sightings, and he in turn called Project Blue Book in Dayton,
@@ -514,13 +564,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
         slug: jacques-vallee
-      - node_id: 6827e480-df41-4f9b-bfbb-a5f3c02ab953
-        title: Michigan UAP Sightings 1966
-        slug: michigan-uap-sightings-1966
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
@@ -530,6 +582,9 @@ claims:
       - node_id: acde03ee-7227-486d-854c-9673dd837619
         title: USA, Ohio, Wright-Patterson Air Force Base
         slug: ohio-wright-patterson-air-force-base-usa
+      - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+        title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
+        slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     date: '1966-03-21'
     date_end: null
     location_in_record: ch10:7530-7673
@@ -560,6 +615,11 @@ claims:
         - J. Allen Hynek told Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.628
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -597,6 +657,11 @@ claims:
         - J. Allen Hynek told Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -638,6 +703,11 @@ claims:
         - J. Allen Hynek told Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -662,7 +732,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 6bb6a145-0435-407a-be9f-6e21246b914f
-    claim_hash: 674ae787b0a0cc9c99105d1939953ee8d6f788e9df1106dae050407a3bcdca50
+    claim_hash: a6a026dd30a57c7b71e49cec6f127ab0a3a8f768f26dd2c14994798cba7cc16f
     content: The morning after the initial report, J. Allen Hynek travelled to Michigan to investigate the swamp gas sightings.
     original_excerpt: The next morning, Dr. Hynek was in Michigan.
     claim_type: testimony
@@ -674,16 +744,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
         slug: j-allen-hynek
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b93678ae-8e0b-4c2c-a905-72d831400849
         title: USA, Michigan, Ann Arbor
         slug: michigan-ann-arbor-usa
+      - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+        title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
+        slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     date: '1966-03-22'
     date_end: null
     location_in_record: ch10:8324-8359
@@ -713,6 +788,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -749,6 +829,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -783,6 +868,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -819,6 +909,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
         title: The Invisible College
@@ -856,6 +951,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 006b3ab1-13d0-406c-919a-ef4c0681b996
         title: USA, Colorado, Boulder
@@ -920,6 +1020,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -965,6 +1070,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.814
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -1006,6 +1116,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -1044,6 +1159,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1084,6 +1204,11 @@ claims:
         - The UFO Mystery (FBI Bulletin article by J. Allen Hynek, 1975)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
         title: The Invisible College
@@ -1122,6 +1247,11 @@ claims:
         - The UFO Mystery (FBI Bulletin article by J. Allen Hynek, 1975)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
         title: The Invisible College
@@ -1161,6 +1291,11 @@ claims:
         - The Invisible College
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -1196,6 +1331,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1232,6 +1372,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -1248,7 +1393,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1271,6 +1416,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -1290,7 +1440,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1307,6 +1457,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
         title: Harry Turner
@@ -1326,7 +1481,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1347,6 +1502,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1366,7 +1526,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1383,6 +1543,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 772dcc51-6ee3-45c6-8316-0e8530b92c39
         title: Don Schmitt
@@ -1399,7 +1564,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1416,6 +1581,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -1432,7 +1602,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1449,6 +1619,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -1465,7 +1640,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1486,6 +1661,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
@@ -1502,7 +1682,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1523,6 +1703,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1539,7 +1724,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1562,6 +1747,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1581,7 +1771,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1601,6 +1791,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1617,12 +1812,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 2c47b87f-6b4e-4939-a605-f524d89b75b4
-    claim_hash: 9d7d61d6aa7746524ca17c75f74b87e951a7443d72f8c0ed1b8b4408ba228fa2
+    claim_hash: 2fe8c4bd917ced3cc0b2d4d4c84b74ef7b4898caba8a552eee90468473cc2470
     content: J. Allen Hynek witnessed how the air force instructed its investigators to 'stall' off press inquiries with a
       'no-comment answer' regarding the Hanford sighting and other such sightings.
     original_excerpt: Dr J. Allen Hynek, by now immersed in the Blue Book investigations, witnessed how the air force instructed
@@ -1639,16 +1834,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
+      - node_id: 73cf2050-792d-4631-8bee-4c9c7876f44c
+        title: 1952 Hanford nuclear site Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1952-hanford-nuclear-site-unidentified-aerial-phenomena-uap-sighting
       - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
         title: J. Allen Hynek
         slug: j-allen-hynek
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch8:15756-15980
@@ -1658,7 +1858,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1679,6 +1879,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1698,7 +1903,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1717,6 +1922,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1736,201 +1946,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 32065d35-6634-41eb-b9d2-d3ccc13850a6
-    claim_hash: 1e6f9d2cf025c023e44754f16c2bb44ea00ccb1fa3770440ff76f24d1d86546f
-    content: J. Allen Hynek visited Socorro, New Mexico to investigate the 1964 Lonnie Zamora UAP encounter.
-    original_excerpt: Dr. J. Allen Hynek... visited the region.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
-        title: 1964 Socorro UAP encounter
-        slug: 1964-socorro-uap-encounter
-      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-        title: J. Allen Hynek
-        slug: j-allen-hynek
-      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
-        title: USA, New Mexico, Socorro
-        slug: new-mexico-socorro-usa
-    date: 1964-04
-    date_end: null
-    location_in_record: ch12:23023-23043
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
-    claim_hash: 46fc5f8c18830912a8d264b49a8ba8866c0f9eb285144dc99f128c90b878a136
-    content: J. Allen Hynek was the lead scientist in charge of the United States Air Force's official Unidentified Aerial
-      Phenomena (UAP) investigation team, Project Blue Book.
-    original_excerpt: Dr. J. Allen Hynek, the lead scientist in charge of the Air Force's official UAP investigation team,
-      Project Blue Book, visited the region.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-        title: Project Blue Book
-        slug: project-blue-book
-      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-        title: J. Allen Hynek
-        slug: j-allen-hynek
-    date: null
-    date_end: null
-    location_in_record: ch12:23023-23155
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
-    claim_hash: f03a2d054036d2e274cd8858634056d7158a5868ada750020d69df40371c99a1
-    content: At the insistence of Michigan congressman Gerald Ford, J. Allen Hynek's Project Blue Book reviewed the 1966 Michigan
-      swamp gas Unidentified Aerial Phenomena (UAP) sightings and announced that the witnesses had seen swamp gas.
-    original_excerpt: At the insistence of a leading Michigan congressman named Gerald Ford, Dr. Hynek's Project Blue Book
-      reviewed the matter thoroughly, and unfortunately announced that the witnesses had seen… swamp gas.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
-        title: Gerald Ford
-        slug: gerald-ford
-      - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
-        title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
-        slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
-      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-        title: Project Blue Book
-        slug: project-blue-book
-      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-        title: J. Allen Hynek
-        slug: j-allen-hynek
-    date: 1966-03
-    date_end: null
-    location_in_record: ch12:29184-29381
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 555eea73-f5bd-4526-bf19-5bf79c9a49a5
-    claim_hash: d9f48293d19ed2be350966098d89e56b25ac0e15a725321aac8e6e328f13992a
-    content: J. Allen Hynek later regretted the role he played in suppressing evidence of Unidentified Aerial Phenomena (UAP)
-      under the United States Air Force.
-    original_excerpt: To his credit, Hynek later regretted the role he played in suppressing evidence under the aegis of the
-      US Air Force.
-    claim_type: opinion
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: J. Allen Hynek
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-        title: J. Allen Hynek
-        slug: j-allen-hynek
-    date: null
-    date_end: null
-    location_in_record: ch12:30419-30529
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
-    claim_hash: 04b5157f7b43abaad416a9267d2ae92c0faa637e8edaae5f141540e4bf387ec0
-    content: As a young researcher, Jacques Vallée worked with and organised the papers of J. Allen Hynek from the United
-      States Air Force's Project Blue Book.
-    original_excerpt: As a young researcher, Vallée worked with and organized the papers of Dr. Hynek of the Air Force’s Project
-      Blue Book.
-    claim_type: administrative
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
-        title: Jacques Vallée
-        slug: jacques-vallee
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
-        title: Project Blue Book
-        slug: project-blue-book
-      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
-        title: J. Allen Hynek
-        slug: j-allen-hynek
-    date: null
-    date_end: null
-    location_in_record: ch18:15187-15299
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 9d8b31ae-e6ab-41b3-923c-f4eff177a37b
     claim_hash: d850253c10a74a999fa2421e508203925fc8b5e88163cbf25ca4798615d0c4e1
     content: J. Allen Hynek of Project BLUE BOOK said that the United States Air Force (USAF) expected him to perform the
@@ -1947,6 +1966,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1968,7 +1992,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 9672045a-825c-49b6-8296-2cdf20ff4bc9
@@ -1984,6 +2008,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -2002,7 +2031,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 43c0d16a-0321-4689-8f27-edc439bd870b
@@ -2022,6 +2051,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4233cbe6-29ce-483e-9e97-041d8263797d
         title: National Academy of Sciences Assessment of the Condon Report
@@ -2049,7 +2083,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 21a189e0-96f7-4b2e-8931-7e753db8b896
@@ -2069,6 +2103,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -2087,9 +2126,225 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 32065d35-6634-41eb-b9d2-d3ccc13850a6
+    claim_hash: a11f4ae960631986506637b55653dc3f9faa8790dfcac966b20869a50bb95e0c
+    content: J. Allen Hynek visited Socorro, New Mexico to investigate the 1964 Lonnie Zamora UAP encounter.
+    original_excerpt: Dr. J. Allen Hynek... visited the region.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+        title: 1964 Socorro UAP encounter
+        slug: 1964-socorro-uap-encounter
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+      - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+        title: USA, New Mexico, Socorro
+        slug: new-mexico-socorro-usa
+    date: 1964-04
+    date_end: null
+    location_in_record: ch12:23023-23043
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 0ced0b8c-9645-4ace-8e3a-25e1fe8ce5a8
+    claim_hash: 46fc5f8c18830912a8d264b49a8ba8866c0f9eb285144dc99f128c90b878a136
+    content: J. Allen Hynek was the lead scientist in charge of the United States Air Force's official Unidentified Aerial
+      Phenomena (UAP) investigation team, Project Blue Book.
+    original_excerpt: Dr. J. Allen Hynek, the lead scientist in charge of the Air Force's official UAP investigation team,
+      Project Blue Book, visited the region.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+    date: null
+    date_end: null
+    location_in_record: ch12:23023-23155
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
+    claim_hash: f03a2d054036d2e274cd8858634056d7158a5868ada750020d69df40371c99a1
+    content: At the insistence of Michigan congressman Gerald Ford, J. Allen Hynek's Project Blue Book reviewed the 1966 Michigan
+      swamp gas Unidentified Aerial Phenomena (UAP) sightings and announced that the witnesses had seen swamp gas.
+    original_excerpt: At the insistence of a leading Michigan congressman named Gerald Ford, Dr. Hynek's Project Blue Book
+      reviewed the matter thoroughly, and unfortunately announced that the witnesses had seen… swamp gas.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.561
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+        title: Gerald Ford
+        slug: gerald-ford
+      - node_id: 5df59680-ee25-40e5-8894-dbdfb8b54f85
+        title: 1966 Michigan swamp gas Unidentified Aerial Phenomena (UAP) sightings
+        slug: 1966-michigan-swamp-gas-unidentified-aerial-phenomena-uap-sightings
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+    date: 1966-03
+    date_end: null
+    location_in_record: ch12:29184-29381
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 555eea73-f5bd-4526-bf19-5bf79c9a49a5
+    claim_hash: d9f48293d19ed2be350966098d89e56b25ac0e15a725321aac8e6e328f13992a
+    content: J. Allen Hynek later regretted the role he played in suppressing evidence of Unidentified Aerial Phenomena (UAP)
+      under the United States Air Force.
+    original_excerpt: To his credit, Hynek later regretted the role he played in suppressing evidence under the aegis of the
+      US Air Force.
+    claim_type: opinion
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: J. Allen Hynek
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+    date: null
+    date_end: null
+    location_in_record: ch12:30419-30529
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 2ae82336-18b3-428b-8487-563fb1148e94
+    claim_hash: 04b5157f7b43abaad416a9267d2ae92c0faa637e8edaae5f141540e4bf387ec0
+    content: As a young researcher, Jacques Vallée worked with and organised the papers of J. Allen Hynek from the United
+      States Air Force's Project Blue Book.
+    original_excerpt: As a young researcher, Vallée worked with and organized the papers of Dr. Hynek of the Air Force’s Project
+      Blue Book.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+        title: Jacques Vallée
+        slug: jacques-vallee
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+    date: null
+    date_end: null
+    location_in_record: ch18:15187-15299
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 78614721-5015-4bc7-b206-0926a62c1aab
     claim_hash: 55c41dd2fb64bfd4196a72631e664fcc430bc19046be6876116c86245a939840
     content: Robert Friend and J. Allen Hynek held a piece of the material from the 1958 Hartford, Connecticut crash.
@@ -2105,6 +2360,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3baab94e-d207-40bb-a37d-49fca285d0ff
         title: Robert Friend

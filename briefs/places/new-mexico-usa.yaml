@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: aeefc1e45e5368847530d3a139a7a5c0d2e0e91e576e1defdd7542b90a239b87
+brief_hash: 7f73ee6c1c476f174936c922ccfd2c6904df6275d9a0f8feae00b980e491ce5a
 page:
   kind: entity
   node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
@@ -9,11 +9,21 @@ page:
   claim_count: 36
   claim_count_total: 36
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 36
   tokens_estimated: 4819
   sized_against: 1050000
+entailment:
+  assessed: 36
+  unassessed: 0
+  entails: 33
+  neutral: 0
+  contradicts: 3
+  entailed_by_quote: 10
+  entailed_by_window: 23
+  entailed_by_quote_fraction: 0.278
+  entailed_by_window_fraction: 0.639
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -143,7 +153,7 @@ related_nodes:
     node_type: place
     slug: mississippi-pascagoula-usa
     shared_claims: 1
-  - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
+  - node_id: 3e507b49-d600-474f-8995-453932dc1e01
     title: USA, New Mexico, Roswell Army Air Field
     node_type: place
     slug: new-mexico-roswell-army-air-field-usa
@@ -176,6 +186,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 347d6124-ce9c-451c-9484-a025536d517d
         title: German V-2 rocket
@@ -223,6 +238,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.651
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 74505a33-a16b-4256-bd97-e40e2a2790c7
         title: USA, Mississippi, Pascagoula
@@ -261,6 +281,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -299,6 +324,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -338,6 +368,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -374,6 +409,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.479
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -409,6 +449,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -446,6 +491,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -483,6 +533,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -519,6 +574,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -554,6 +614,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -592,6 +657,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -629,6 +699,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -664,6 +739,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.862
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -702,6 +782,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -729,7 +814,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: eb5bfdb7-8d44-4256-8edc-b132e99a4733
-    claim_hash: 2409e36d00485883dc72ae8af04aa432dc3217baad2ac54c452b785f5536b54b
+    claim_hash: 87ee75740a25f7d6877e428e54216987b596abca5dabfd90620079cdc55eae95
     content: The New Mexico site Tyler D., James Master, and D. W. Pasulka visited was the site of a crash that occurred in
       New Mexico in 1947, distinct from the Roswell event, and had been largely forgotten over time.
     original_excerpt: It was the site of one of the crashes that occurred in New Mexico in 1947, but had been largely forgotten
@@ -745,6 +830,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -785,6 +875,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -825,6 +920,11 @@ claims:
         - The Day After Roswell
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.849
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 231715b6-5623-479d-8d07-44f978bed8e3
         title: The Day After Roswell
@@ -865,6 +965,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.691
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 31ce8fce-7d60-4ef6-bcd0-15248adc466d
         title: The artifact (Pasulka's anomalous object)
@@ -908,6 +1013,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.746
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -954,6 +1064,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -1002,6 +1117,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -1040,6 +1160,11 @@ claims:
         - historical records
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -1085,6 +1210,11 @@ claims:
         - reports of Franciscan missionaries
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 45a04a13-f002-40a6-b4e7-24bd17a19d06
         title: Jumanos
@@ -1121,6 +1251,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7984a925-bfbb-4b49-992e-8a931d400625
         title: Alonso de Benavides
@@ -1156,6 +1291,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -1194,6 +1334,11 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.53
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -1235,6 +1380,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -1276,6 +1426,11 @@ claims:
         - accounts of Philip Corso's encounter
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
         title: Philip Corso
@@ -1310,6 +1465,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
         title: Laurentide Ice Sheet
@@ -1348,6 +1508,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e41e6a5-440a-4df4-b622-3ccd8607b5e0
         title: Laurentide Ice Sheet
@@ -1388,6 +1553,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
@@ -1427,6 +1597,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.751
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -1448,7 +1623,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: fff6cfdb-c2d6-4199-81bc-f4eb57f23393
-    claim_hash: a0c0384c2c6053219f4794b45ca8fbe58d81e042be28ff71bbe7e501ddae3eaf
+    claim_hash: ffc4900c65512a0ef550a8ebfed14451238283210936764302f7551da73695ef
     content: In July 1947, Walter Haut was stationed at Roswell Army Air Force Base in Roswell, New Mexico, serving as the
       base Public Information Officer.
     original_excerpt: In July, 1947, I was stationed at the Roswell Army Air Base in Roswell, New Mexico, serving as the base
@@ -1464,16 +1639,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
         slug: walter-haut
+      - node_id: 3e507b49-d600-474f-8995-453932dc1e01
+        title: USA, New Mexico, Roswell Army Air Field
+        slug: new-mexico-roswell-army-air-field-usa
       - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
         title: USA, New Mexico
         slug: new-mexico-usa
-      - node_id: c4d61dc5-9e3c-4d24-8feb-b7de06605d9f
-        title: USA, New Mexico, Roswell Army Air Field
-        slug: new-mexico-roswell-army-air-field-usa
     date: 1947-07
     date_end: null
     location_in_record: ch28:310-437
@@ -1504,6 +1684,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
         title: Walter Haut
@@ -1539,6 +1724,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
         title: Bilocation

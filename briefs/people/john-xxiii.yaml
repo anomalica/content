@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 276a9318640c123efbe81da196b5f49dcc6a595050cebdeb724842db5323446b
+brief_hash: 9de65f53a0a4a113546021f041d989024c858849dbace9857e8acc0520908f81
 page:
   kind: entity
   node_id: ff3b3953-e566-48ff-933f-8c176d32db54
@@ -9,11 +9,21 @@ page:
   claim_count: 47
   claim_count_total: 47
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 47
   tokens_estimated: 6786
   sized_against: 1050000
+entailment:
+  assessed: 47
+  unassessed: 0
+  entails: 41
+  neutral: 5
+  contradicts: 1
+  entailed_by_quote: 9
+  entailed_by_window: 32
+  entailed_by_quote_fraction: 0.191
+  entailed_by_window_fraction: 0.681
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -188,6 +198,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.463
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 088dfc18-7a7f-4f3e-9df2-7ffad62e9699
         title: Paul Philippe
@@ -224,6 +239,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.507
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -262,6 +282,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.635
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -299,6 +324,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
         title: Italy, Rome
@@ -340,6 +370,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
         title: Malachi Martin
@@ -385,6 +420,11 @@ claims:
         - Malachi Martin
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
         title: Malachi Martin
@@ -422,6 +462,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.599
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32aac518-3882-443e-8d56-2e7be7a5688e
         title: John XXIII's opening of the Third Secret envelope (1959-08-17)
@@ -463,6 +508,11 @@ claims:
         - John XXIII
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -498,6 +548,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -539,6 +594,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 533594b7-9713-4e54-a53f-5f36080e7a9d
         title: José Geraldes Freire
@@ -577,6 +637,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
         title: Italy, Castel Gandolfo
@@ -615,6 +680,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -652,6 +722,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -689,6 +764,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
         title: Second Vatican Council
@@ -729,6 +809,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.62
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -765,6 +850,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
         title: Italy, Castel Gandolfo
@@ -806,6 +896,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.833
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32aac518-3882-443e-8d56-2e7be7a5688e
         title: John XXIII's opening of the Third Secret envelope (1959-08-17)
@@ -847,6 +942,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -886,6 +986,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
         title: Cuban Missile Crisis (1962-10)
@@ -924,6 +1029,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -965,6 +1075,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -995,7 +1110,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
-    claim_hash: 6f0f82f15c6579bca81be1c8dd844859a0434f41de439f87d82fc1d49898a3d0
+    claim_hash: 1f6d2a6c54cc49286302bf71389c46f63e1d95a7a2d40aabcfcf6dd1811c060f
     content: Five popes - Pius XII, John XXIII, Paul VI, John Paul I, and John Paul II - kept the Third Secret of Fatima under
       lock and key.
     original_excerpt: There must have been a reason why five popes, Pius XII, John XXIII, Paul VI, and John Paul I and II,
@@ -1009,6 +1124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1053,6 +1173,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
         title: Malachi Martin
@@ -1092,6 +1217,11 @@ claims:
         - Malachi Martin
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 447252e4-e100-43f2-8f8a-54cdb1c57e36
         title: Malachi Martin
@@ -1133,6 +1263,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -1173,6 +1308,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
         title: Second Vatican Council
@@ -1207,6 +1347,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.582
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -1243,6 +1388,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0cf4b5c3-c9c8-4cf9-8044-6c87bac37ebc
         title: Joseph Ratzinger
@@ -1276,6 +1426,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a67c07e8-2281-4146-a057-d5106c1a1495
         title: Prophecy of the Popes (Saint Malachy)
@@ -1309,6 +1464,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: fd098218-945b-496e-a091-cf4602e3a5a2
         title: Italy, Bergamo, Sotto il Monte
@@ -1342,6 +1502,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 278dd77d-927f-4112-8b07-ffbf1d60f5d7
         title: Italy, Venice
@@ -1378,6 +1543,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.806
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b454b345-1c72-4ea1-ad89-993030ba8224
         title: Conchita (Garabandal seer)
@@ -1399,7 +1569,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 002c1430-d9b8-4630-92d1-13614eb3ec3a
-    claim_hash: 55fb3af1d88f308e320da722eca3a1ec6bd8db606c3a4cf80516db8d2aa02eca
+    claim_hash: 941710d2d73bd6fbb0f785f68b4ac9fee07bb3638a6fa8e2c6510708d13def5b
     content: 'After John XXIII there have been three popes: Paul VI (1963-1978), John Paul I (1978), and John Paul II, who
       has been pope since 1978.'
     original_excerpt: 'After John XXIII there have been three popes: Paul VI (1963–78), John Paul I (1978), and John Paul
@@ -1413,6 +1583,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1451,6 +1626,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
         title: Second Vatican Council
@@ -1492,6 +1672,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b6b60271-c105-4b1f-89ec-bd02227901d9
         title: Third Secret of Fatima
@@ -1527,6 +1712,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.928
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86a3d282-0dee-49af-8533-93f32405844e
         title: Portugal, Leiria
@@ -1562,6 +1752,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
         title: Italy, Castel Gandolfo
@@ -1598,6 +1793,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
         title: Italy, Castel Gandolfo
@@ -1643,6 +1843,11 @@ claims:
         - a UMMO document
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13b1c891-bcc2-44f1-b69b-a9b1269a83c3
         title: Ernesto (Che) Guevara
@@ -1710,6 +1915,11 @@ claims:
         - a man Jacques Vallee trusts
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -1754,6 +1964,11 @@ claims:
         - a man Jacques Vallee trusts
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95472b02-af65-4737-896c-993994f9be27
         title: Portugal, Fatima
@@ -1789,6 +2004,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c3049206-6e8c-43b6-a645-5b8c47da0e56
         title: 1917 Fatima Marian apparitions
@@ -1827,6 +2047,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -1864,6 +2089,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d2086c24-9d5d-4838-96a8-c17f99427cd6
         title: Incorruptibility (Catholic tradition)
@@ -1900,6 +2130,11 @@ claims:
         - Tyler D.'s account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.545
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -1937,6 +2172,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -1977,6 +2217,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.

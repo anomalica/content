@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 66743dcb819e4c970d9e3d9e70a02fb7aa7d1482aeefd39a32ab45fc86c0ad2a
+brief_hash: 4dfbc2a699d92ac975e0371b579e7f0dfb2fc28d550f41bd4f7e5da998cb1d01
 page:
   kind: entity
   node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
@@ -9,11 +9,21 @@ page:
   claim_count: 54
   claim_count_total: 54
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 54
   tokens_estimated: 8183
   sized_against: 1050000
+entailment:
+  assessed: 54
+  unassessed: 0
+  entails: 50
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 21
+  entailed_by_window: 29
+  entailed_by_quote_fraction: 0.389
+  entailed_by_window_fraction: 0.537
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -192,6 +202,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -230,6 +245,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
         title: Second Secret of Fatima
@@ -270,6 +290,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.846
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
         title: Spanish Civil War
@@ -315,6 +340,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -352,6 +382,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d83ccfd-24f3-493c-9f08-2365e9bbfd80
         title: Fifth apparition of Our Lady of Fatima (1917-09-13)
@@ -390,6 +425,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -431,6 +471,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.838
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bbddfa81-653b-4aa6-8e98-3ba0d1485044
         title: Lúcia (Fatima seer)
@@ -452,7 +497,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 7695ac36-fe1d-4cd8-9c17-b2eb66208d82
-    claim_hash: 6ea3db8b74bca4aea0748942f0614cdd5371e0eb84585ca771676104dbcb7e9f
+    claim_hash: d5b7e5be39e96ea42487c1fcb73648c16dba08647268a2b0f6feaaa528e0bc9b
     content: Since World War I had just ended when Jacinta Marto spoke of a coming war, her mother could not have known what
       she was talking about, but the Second World War was on the horizon.
     original_excerpt: Since World War I had just come to an end, her mother couldn’t have known what she was talking about.
@@ -468,6 +513,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
         title: Jacinta Marto
@@ -505,6 +555,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.902
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
         title: Spanish Civil War
@@ -545,6 +600,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d2593720-e09e-4f39-837e-4c6f88e66fbd
         title: Jacinta Marto
@@ -578,6 +638,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.513
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -610,6 +675,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 55a2ac06-b202-4f96-8370-6b42d6a96d49
         title: German annexation of Austria (1938-03-12)
@@ -646,6 +716,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cfd554b1-096e-4d54-aa89-5edc2e0c41f5
         title: Fatima apparitions (1917)
@@ -670,7 +745,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
-    claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
+    claim_hash: b8415b80e6dce963af7f5f47703fd3bd6cdd198b06f63c516c6cf91f7ef512f4
     content: When Hitler ignored the ultimatum, Great Britain and France declared war on Germany, officially beginning the
       Second World War.
     original_excerpt: When it was ignored, both nations declared war on Germany. With this the Second World War had officially
@@ -684,6 +759,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -728,6 +808,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -760,6 +845,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
         title: Pius XII repetition of the consecration (1942-12-08)
@@ -787,7 +877,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 95981954-fbb1-48b9-8b2d-60506b261261
-    claim_hash: 14bbfb83d2d8cafea82f04f0b2e2ac7e3782f822346d11f36f3fedb196e6a0f1
+    claim_hash: 09f70f169f7734c66699a3e9cfc96ff7c4ef5dc82c3b1817f49d8e26cb4710f4
     content: In 1941 Sister Lúcia wrote down the first two parts of the Fatima secret, which related to the end of World War
       I, the rise of Russia, and the outbreak of World War II.
     original_excerpt: At that time she wrote down the first two prophecies, which related to the end of World War I, the rise
@@ -803,6 +893,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
         title: Second Secret of Fatima
@@ -847,6 +942,11 @@ claims:
         - Hans Bender's summary
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.717
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1fd5c28b-115a-4d35-8edd-26c7cca5f06a
         title: European News
@@ -874,7 +974,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 95ceb96c-b35c-48c4-9ed6-d750618d136b
-    claim_hash: 76d5eea98af77490814c700df7b561374714beda3aa89e7b8975338ff3586295
+    claim_hash: 554f59278e8db80b58559faf0026bab3d78a043a81d7c00f4439783d4350a14c
     content: The Third Secret of Fatima must have some relation, in time sequence, to the other two parts of the revelation,
       which refer to the end of World War I and to the outbreak of another, even worse war announced by an unknown light in
       the sky.
@@ -892,6 +992,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
         title: 1938 aurora event
@@ -930,6 +1035,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 77cc9b26-f63f-41c7-9b05-737616bcfed9
         title: Benedict XV
@@ -970,6 +1080,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 234f3b6a-653c-4f00-936a-a4b58fad4d9a
         title: 1938 aurora event
@@ -1011,6 +1126,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 60dcc104-e9bd-4292-95fe-2584aa68ce44
         title: Act of Consecration of Russia and the World to the Immaculate Heart of Mary (1984-03-25)
@@ -1055,6 +1175,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.49
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
         title: Second Secret of Fatima
@@ -1092,6 +1217,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
         title: Marian apparitions
@@ -1129,6 +1259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 244adc10-5353-442a-96cc-423531ecbeca
         title: Germany annexation of the Sudetenland (1938-03)
@@ -1172,6 +1307,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 60e50716-fa79-45d6-991c-49d084ff4183
         title: Second Secret of Fatima
@@ -1209,6 +1349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.862
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08969615-e1e3-42ae-a729-5e9a1c5b37aa
         title: Russian Revolution (1917)
@@ -1239,7 +1384,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
-    claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
+    claim_hash: 4f7f181e00237767e89c4b2f853feb0c1ad11cea77e0cee49fcd33da8038b408
     content: At the outbreak of World War I, Germany marched against France, causing Britain to declare war on the German
       Reich.
     original_excerpt: Germany reacted by marching against France, causing Britain to declare war on the German Reich.
@@ -1252,6 +1397,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -1279,7 +1429,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
-    claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
+    claim_hash: f1f4249b8fcf8de04c0e40886d0c786e36304926f476d675de905e633b385b54
     content: The allied troops of France and England stopped the German advance after four weeks in World War I, but over
       600,000 German and French soldiers had lost their lives by that point.
     original_excerpt: The allied troops of France and England succeeded in stopping the German advance after four weeks, but
@@ -1293,6 +1443,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -1320,7 +1475,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: e3153332-fb58-4918-9000-139d6543fe18
-    claim_hash: 0182c190cbd636e5a0fc78213ab523371f7329dbcf394c14d747b2537a057568
+    claim_hash: 0db9b5e62e9ecc4a497c647d94535187eae9bc85b9712e6caf2de3ef734ed6ab
     content: The United States officially declared war on Germany on 1917-04-06.
     original_excerpt: The U.S. officially declared war on Germany on April 6, 1917.
     claim_type: observation
@@ -1332,13 +1487,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-        title: USA
-        slug: usa
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
         slug: germany
+      - node_id: bcdb14d6-d22c-4471-a0e0-7c19c2b56ab3
+        title: USA
+        slug: usa
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
         slug: world-war-ii
@@ -1368,6 +1528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -1404,13 +1569,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
         title: Office of Strategic Services (OSS)
         slug: office-of-strategic-services-oss
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
         title: The Family (The Fellowship)
         slug: the-family-the-fellowship
@@ -1454,6 +1624,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -1496,6 +1671,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9caeaff0-3abf-4a8b-b10b-54f883a431d6
         title: Nazi underground
@@ -1541,6 +1721,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.599
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
         title: Crash retrieval and reverse engineering
@@ -1590,6 +1775,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
         title: USA, Czech Republic, Pilsen
@@ -1628,6 +1818,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb7c7bf-2b76-49c9-a3de-cbd4be00910c
         title: USA, Czech Republic, Pilsen
@@ -1671,6 +1866,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -1707,6 +1907,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -1745,6 +1950,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -1783,6 +1993,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 57030b2f-1104-4589-9cfa-3a44f020dae7
         title: IG Farben
@@ -1821,6 +2036,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
@@ -1858,6 +2078,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0984362b-19eb-4a0b-894e-1bdad2b81241
         title: Ford Motor Company
@@ -1895,6 +2120,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.657
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
         title: Office of Strategic Services (OSS)
@@ -1939,6 +2169,11 @@ claims:
         - Jason Samosa's research
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39627a98-b227-4fb5-9262-589c4f9579b6
         title: Tom Hill
@@ -1983,6 +2218,11 @@ claims:
         - Messengers of Deception
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -2024,6 +2264,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 96bf6aff-b3ac-4272-bd98-dc4eec1787fb
         title: Crash retrieval and reverse engineering
@@ -2063,6 +2308,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.846
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
         title: Office of Strategic Services (OSS)
@@ -2102,6 +2352,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95ca8e63-159b-439a-9cd6-f52a171edd74
         title: Robert Maxwell
@@ -2139,6 +2394,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 93c3f513-e320-4d7e-bb43-a343cd220d03
         title: The Holocaust
@@ -2184,6 +2444,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.779
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -2229,6 +2494,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2273,6 +2543,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 20f74902-e650-4d8b-a454-8e37e7cd471c
         title: Whitley Strieber's alien implant
@@ -2316,6 +2591,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II

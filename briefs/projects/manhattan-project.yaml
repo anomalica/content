@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a962d955b20a7c9d0e20dcb43119b40649f251b0a9ca7d35636ef0e96f65db49
+brief_hash: a4219042ac8bfa96d643e51e3ad8eb2c9edd39bc4464f060e4126fcacca2a824
 page:
   kind: entity
   node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
@@ -9,11 +9,21 @@ page:
   claim_count: 23
   claim_count_total: 23
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 23
   tokens_estimated: 3066
   sized_against: 1050000
+entailment:
+  assessed: 23
+  unassessed: 0
+  entails: 22
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 16
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.696
+  entailed_by_window_fraction: 0.261
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -143,6 +153,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.741
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -181,6 +196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -204,8 +224,244 @@ claims:
       record_reference: null
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
+  - claim_id: b0e5fea8-5bea-478c-aff6-331c6e82f028
+    claim_hash: 617c04b40876016e3cf192ea8093eb861bb1cab94ca2bd53dd36133be398fb9c
+    content: The Manhattan Project began in August 1942 as the U.S. effort to build an atomic bomb.
+    original_excerpt: "### Manhattan Project (August 1942)\n\nThe U.S. effort to build an atomic bomb, the Manhattan Project"
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+    date: 1942-08
+    date_end: null
+    location_in_record: char:118024-118112
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: abe8e5f4-61f1-4971-8070-42d6b574a8c0
+    claim_hash: 442f661e001784df46a52c05c05088dfdd5c828071fdd94a2ff92bb55a534d65
+    content: The Manhattan Project was named after the location of its initial offices in the Manhattan Engineer District
+      at 270 Broadway, Manhattan, New York City.
+    original_excerpt: was named after the location of its initial offices in what became known as the Manhattan Engineer District
+      at 270 Broadway, Manhattan, New York City.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 0a3ba5fa-1e41-4252-a6d8-e7910d1c5dcd
+        title: USA, New York City, Manhattan
+        slug: new-york-city-manhattan-usa
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+    date: null
+    date_end: null
+    location_in_record: char:118121-118266
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 47ad4da9-e380-4f47-b6a8-2e69c8e83849
+    claim_hash: edfe8484edf79f43aed72e8c7581dcfb7233a05bcc36462dbdb3e72957bb7a17
+    content: General Leslie R. Groves, head of the Manhattan Project, followed the custom of naming the U.S. Army Corps of
+      Engineers' districts after the city in which they were located.
+    original_excerpt: General Leslie R. Groves, head of the project, followed the custom of naming the U.S. Army Corps of
+      Engineers' districts after the city in which they were located.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.506
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: c935b569-2654-4e60-8cd9-2dc7982b1b23
+        title: Leslie R. Groves
+        slug: leslie-r-groves
+    date: null
+    date_end: null
+    location_in_record: char:118272-118427
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 0c316991-ddd6-4950-b698-02264f239552
+    claim_hash: 103f9f8a9b4f558faacb2418b5f8f72d6df4b0d74a9a889b91592717851095d8
+    content: The secrecy surrounding the Manhattan Project and the establishment of several other national laboratories, such
+      as Los Alamos National Laboratories, Lawrence Livermore National Laboratory, Sandia National Laboratories, Pacific Northwest
+      National Laboratory, and Oak Ridge National Laboratory, probably contributed to the spike in reported UAP.
+    original_excerpt: The secrecy surrounding the Manhattan Project and the establishment of several other national laboratories,
+      such as Los Alamos National Laboratories, Lawrence Livermore National Laboratory, Sandia National Laboratories, Pacific
+      Northwest National Laboratory, and Oak Ridge National Laboratory to support this effort probably contributed to the
+      spike in reported UAP.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: char:118704-119066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 0a792575-5504-4ba0-bc70-c34a9f625a32
+    claim_hash: 1caac4d6009abf233fb169238ac0c6228597ba3646af0261db697c6727ecc794
+    content: The United States Government started the Manhattan Project in 1942.
+    original_excerpt: the USG started the Manhattan Project in 1942
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+    date: '1942'
+    date_end: null
+    location_in_record: char:16132-16173
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 48e90f8e-9f4b-4b88-a403-31a546ed9c5d
+    claim_hash: 522191524bdf433b73fd9629fc0040ee73a0377d13b6dfacf261955470979395
+    content: The Manhattan Project operated in secrecy and led to the establishment of several secret cities across the United
+      States to support the development of the nuclear bomb.
+    original_excerpt: This program operated in secrecy and led to the establishment of several "secret cities" across the
+      United States to support the development of the nuclear bomb.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: All-Domain Anomaly Resolution Office (AARO)
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+        title: Manhattan Project
+        slug: manhattan-project
+    date: null
+    date_end: null
+    location_in_record: char:16179-16335
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: cb8920bd-8c29-43bc-b3c3-c937a8695d9b
-    claim_hash: f95b407b28124adcb1ed36248f4ce9bfda7471a0a7a44e8fa80b34bdc64dbc5b
+    claim_hash: 8d2dbb4096510319587758c89c534bbff7a35b73a863f767bc2400a7139f7545
     content: Five years before the 1947 Roswell UAP crash, the United States Department of War hid the Manhattan Project,
       the successful US mission to build the world's first atomic bomb, using multiple secret facilities in multiple US locations
       staffed by thousands of American workers.
@@ -223,6 +479,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.873
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
         title: United States Department of War
@@ -242,7 +503,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -261,6 +522,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -274,7 +540,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -297,6 +563,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.683
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -313,7 +584,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -332,6 +603,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -348,7 +624,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -365,6 +641,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -378,7 +659,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -399,6 +680,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -421,216 +707,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b0e5fea8-5bea-478c-aff6-331c6e82f028
-    claim_hash: 617c04b40876016e3cf192ea8093eb861bb1cab94ca2bd53dd36133be398fb9c
-    content: The Manhattan Project began in August 1942 as the U.S. effort to build an atomic bomb.
-    original_excerpt: "### Manhattan Project (August 1942)\n\nThe U.S. effort to build an atomic bomb, the Manhattan Project"
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-        title: Manhattan Project
-        slug: manhattan-project
-    date: 1942-08
-    date_end: null
-    location_in_record: char:118024-118112
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: abe8e5f4-61f1-4971-8070-42d6b574a8c0
-    claim_hash: 442f661e001784df46a52c05c05088dfdd5c828071fdd94a2ff92bb55a534d65
-    content: The Manhattan Project was named after the location of its initial offices in the Manhattan Engineer District
-      at 270 Broadway, Manhattan, New York City.
-    original_excerpt: was named after the location of its initial offices in what became known as the Manhattan Engineer District
-      at 270 Broadway, Manhattan, New York City.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0a3ba5fa-1e41-4252-a6d8-e7910d1c5dcd
-        title: USA, New York City, Manhattan
-        slug: new-york-city-manhattan-usa
-      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-        title: Manhattan Project
-        slug: manhattan-project
-    date: null
-    date_end: null
-    location_in_record: char:118121-118266
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 47ad4da9-e380-4f47-b6a8-2e69c8e83849
-    claim_hash: edfe8484edf79f43aed72e8c7581dcfb7233a05bcc36462dbdb3e72957bb7a17
-    content: General Leslie R. Groves, head of the Manhattan Project, followed the custom of naming the U.S. Army Corps of
-      Engineers' districts after the city in which they were located.
-    original_excerpt: General Leslie R. Groves, head of the project, followed the custom of naming the U.S. Army Corps of
-      Engineers' districts after the city in which they were located.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-        title: Manhattan Project
-        slug: manhattan-project
-      - node_id: c935b569-2654-4e60-8cd9-2dc7982b1b23
-        title: Leslie R. Groves
-        slug: leslie-r-groves
-    date: null
-    date_end: null
-    location_in_record: char:118272-118427
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 0c316991-ddd6-4950-b698-02264f239552
-    claim_hash: 103f9f8a9b4f558faacb2418b5f8f72d6df4b0d74a9a889b91592717851095d8
-    content: The secrecy surrounding the Manhattan Project and the establishment of several other national laboratories, such
-      as Los Alamos National Laboratories, Lawrence Livermore National Laboratory, Sandia National Laboratories, Pacific Northwest
-      National Laboratory, and Oak Ridge National Laboratory, probably contributed to the spike in reported UAP.
-    original_excerpt: The secrecy surrounding the Manhattan Project and the establishment of several other national laboratories,
-      such as Los Alamos National Laboratories, Lawrence Livermore National Laboratory, Sandia National Laboratories, Pacific
-      Northwest National Laboratory, and Oak Ridge National Laboratory to support this effort probably contributed to the
-      spike in reported UAP.
-    claim_type: opinion
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-        title: Manhattan Project
-        slug: manhattan-project
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: char:118704-119066
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 0a792575-5504-4ba0-bc70-c34a9f625a32
-    claim_hash: 1caac4d6009abf233fb169238ac0c6228597ba3646af0261db697c6727ecc794
-    content: The United States Government started the Manhattan Project in 1942.
-    original_excerpt: the USG started the Manhattan Project in 1942
-    claim_type: administrative
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: All-Domain Anomaly Resolution Office (AARO)
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-        title: Manhattan Project
-        slug: manhattan-project
-    date: '1942'
-    date_end: null
-    location_in_record: char:16132-16173
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 48e90f8e-9f4b-4b88-a403-31a546ed9c5d
-    claim_hash: 522191524bdf433b73fd9629fc0040ee73a0377d13b6dfacf261955470979395
-    content: The Manhattan Project operated in secrecy and led to the establishment of several secret cities across the United
-      States to support the development of the nuclear bomb.
-    original_excerpt: This program operated in secrecy and led to the establishment of several "secret cities" across the
-      United States to support the development of the nuclear bomb.
-    claim_type: administrative
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: All-Domain Anomaly Resolution Office (AARO)
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
-        title: Manhattan Project
-        slug: manhattan-project
-    date: null
-    date_end: null
-    location_in_record: char:16179-16335
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 4c3c671f-0fff-41aa-b2b5-855a1dd7e8fc
     claim_hash: d935af98a9e6a3808663503afca9f36317e07a71b2c8042cbf636423e1671da2
     content: J. Robert Oppenheimer was part of the Manhattan Project, in which the world's leading physicists secretly worked
@@ -646,6 +726,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -683,6 +768,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -718,6 +808,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -755,6 +850,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -792,6 +892,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -813,20 +918,25 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: e87f6e51-c388-4f26-a160-f98a45842434
-    claim_hash: 5f0c992c28a1a4f991fbab61be241dbd5e480ffe69bac6d0d77bc7558f2a2109
+    claim_hash: e40957ae4580b2ac3f310cd423b0a951aa314a6810577ff3efeffc81c9248482
     content: The Manhattan Project was translated into what could be called a follow-on effort after World War II.
     original_excerpt: once the Manhattan Project was kind of translated onto what you could call the Manhattan Project 2.0
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.659
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -862,6 +972,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.573
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -897,6 +1012,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
         title: Manhattan Project
@@ -934,6 +1054,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1874dd82-5a6e-4fa4-9e6e-ecb5e72f0fe6
         title: 1949 Los Alamos classified conference on unexplained sightings over nuclear sites

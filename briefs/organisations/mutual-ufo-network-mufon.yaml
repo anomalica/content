@@ -1,0 +1,1503 @@
+schema: anomalica/brief/1
+brief_hash: 8212fa29907b21cdafde2c87acc82928807c3b9c21917edf2c856946c4067a79
+page:
+  kind: entity
+  node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+  node_type: organisation
+  title: Mutual UFO Network (MUFON)
+  slug: mutual-ufo-network-mufon
+  claim_count: 33
+  claim_count_total: 33
+generated:
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
+size:
+  claims: 33
+  tokens_estimated: 4682
+  sized_against: 1050000
+entailment:
+  assessed: 33
+  unassessed: 0
+  entails: 31
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 14
+  entailed_by_window: 17
+  entailed_by_quote_fraction: 0.424
+  entailed_by_window_fraction: 0.515
+publication:
+  status: published
+  note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
+    transcripts are gated elsewhere.
+belonging:
+  verified: 0
+  suspect_excluded: 0
+  unreviewed: 33
+related_nodes:
+  - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+    title: Diana Walsh Pasulka
+    node_type: person
+    slug: diana-walsh-pasulka
+    shared_claims: 6
+  - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+    title: Rey Hernandez
+    node_type: person
+    slug: rey-hernandez
+    shared_claims: 4
+  - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+    title: USA, South Carolina
+    node_type: place
+    slug: south-carolina-usa
+    shared_claims: 4
+  - node_id: a21bf452-7c45-46b0-8d16-55c225d3b8d6
+    title: Hangar 1 (television series)
+    node_type: document
+    slug: hangar-1-television-series
+    shared_claims: 3
+  - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+    title: Jan Harzan
+    node_type: person
+    slug: jan-harzan
+    shared_claims: 3
+  - node_id: f6ed384e-ae63-4210-ac92-c1f6bbc4d543
+    title: Ambient Monitoring Project (AMP)
+    node_type: project
+    slug: ambient-monitoring-project-amp
+    shared_claims: 2
+  - node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+    title: Raymond E. Fowler
+    node_type: person
+    slug: raymond-e-fowler
+    shared_claims: 2
+  - node_id: 687346e6-d714-4dec-ac87-51709d37a7db
+    title: 1999-2000 Florida factory abduction security videotape case
+    node_type: event
+    slug: 1999-2000-florida-factory-abduction-security-videotape-case
+    shared_claims: 1
+  - node_id: 6b8dc9a6-f0f2-4230-97f5-1653aa2ced26
+    title: Center for UFO Studies (CUFOS)
+    node_type: organisation
+    slug: center-for-ufo-studies-cufos
+    shared_claims: 1
+  - node_id: 034938c6-06ce-4559-8e8d-37c8f912c807
+    title: Center for Unidentified Flying Object (UFO) Studies (CUFOS)
+    node_type: organisation
+    slug: center-for-unidentified-flying-object-ufo-studies-cufos
+    shared_claims: 1
+  - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+    title: Erik Nanstiel
+    node_type: person
+    slug: erik-nanstiel
+    shared_claims: 1
+  - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
+    title: Free energy
+    node_type: topic
+    slug: free-energy
+    shared_claims: 1
+  - node_id: d41df36f-085a-4786-ab61-d1a184f22b8a
+    title: Fund for UFO Research
+    node_type: organisation
+    slug: fund-for-ufo-research
+    shared_claims: 1
+  - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+    title: J. Allen Hynek
+    node_type: person
+    slug: j-allen-hynek
+    shared_claims: 1
+  - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+    title: Jimmy Carter
+    node_type: person
+    slug: jimmy-carter
+    shared_claims: 1
+  - node_id: 1206b191-8cc1-40ac-bb60-96e2f3101bc4
+    title: John Carpenter
+    node_type: person
+    slug: john-carpenter
+    shared_claims: 1
+  - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+    title: National Investigations Committee on Aerial Phenomena (NICAP)
+    node_type: organisation
+    slug: national-investigations-committee-on-aerial-phenomena-nicap
+    shared_claims: 1
+  - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+    title: Project Blue Book
+    node_type: project
+    slug: project-blue-book
+    shared_claims: 1
+  - node_id: 7893f2f4-f26a-45d8-80a1-e13b76e59cff
+    title: Tom Deuley
+    node_type: person
+    slug: tom-deuley
+    shared_claims: 1
+  - node_id: 52f9ae23-2187-4b3f-af3f-53f5ff909e92
+    title: UFO Research Coalition
+    node_type: organisation
+    slug: ufo-research-coalition
+    shared_claims: 1
+  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+    title: Unidentified Flying Object (UFO)
+    node_type: topic
+    slug: unidentified-flying-object-ufo
+    shared_claims: 1
+claims:
+  - claim_id: b28de0fc-7812-4f18-aee3-658a7f636190
+    claim_hash: 0c4c0a05be38169d61645c80a65fc73a9fe91e52f107c6fea3d63f66ce8be52d
+    content: Raymond Fowler held a state director's position first for the National Investigations Committee on Aerial Phenomena,
+      and more recently for the Mutual UFO Network.
+    original_excerpt: I held a state director's position, first for the National Investigations Committee on Aerial Phenomena,
+      and more recently the Mutual UFO Network
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 384dcdc2-dd40-4ad9-a731-8fc1ac9f8a77
+        title: National Investigations Committee on Aerial Phenomena (NICAP)
+        slug: national-investigations-committee-on-aerial-phenomena-nicap
+      - node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+        title: Raymond E. Fowler
+        slug: raymond-e-fowler
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: 00:43:15.4-00:43:21.8
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: a9b9677c-2ca4-4846-b1f9-a732826abcf5
+    claim_hash: b7797877864fd538c9cd1a68d6e3dd715c287792c6309fe476b9b7b4f98868f7
+    content: The Mutual UFO Network supports J. Allen Hynek's Center for UFO Studies by supplying investigative capability
+      for documented reports.
+    original_excerpt: a group that supports Dr. Hynek's Center for UFO Studies by supplying investigating capability in documented
+      reports.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.904
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 034938c6-06ce-4559-8e8d-37c8f912c807
+        title: Center for Unidentified Flying Object (UFO) Studies (CUFOS)
+        slug: center-for-unidentified-flying-object-ufo-studies-cufos
+      - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+        title: J. Allen Hynek
+        slug: j-allen-hynek
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: 00:43:23.9-00:43:30.6
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 705cfd65-182e-4a6a-a658-cf5e52173131
+    claim_hash: f598acfa948549f244f4a63cd8fd2bd54eac0a5132405cdf3cd50c0ade348ed0
+    content: Raymond Fowler was elevated to Director of Investigations on the Board of Directors for the Mutual UFO Network,
+      coordinating investigations across different states.
+    original_excerpt: I've been now elevated to Director of Investigations on the Board of Directors for the Mutual UFO Network,
+      and this involves coordination of investigations in different states, sort of overseeing the state director in this
+      particular state
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+      title: Raymond E. Fowler
+    provenance_chain:
+      origin_kind: speaker
+      origin: Raymond Fowler
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
+        title: Raymond E. Fowler
+        slug: raymond-e-fowler
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: 00:43:31.8-00:43:46.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
+      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
+      record_date: null
+      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
+      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
+      friendly_name: null
+  - claim_id: 8cc231ab-46c0-4dff-b315-2b7bdd6d2525
+    claim_hash: 7668620b1c09f922cb1994722d273c7b811ba51be1f9b720c98a4e8015724560
+    content: In 1999 and 2000, John Carpenter, then a Mutual UFO Network (MUFON) consultant, claimed that a security videotape
+      from a Florida factory was the first to show an abduction and the worker's return one hour and 50 minutes later in a
+      laser-like puddle of light.
+    original_excerpt: in 1999 and 2000 John Carpenter, who was then a MUFON (Mutual UFO Network) consultant, claimed that
+      a security videotape from a Florida factory was the first to show “an abduction … and the worker’s return one hour and
+      50 minutes later in a laser-like ‘puddle’ of light.”
+    claim_type: opinion
+    attestation: second_hand
+    speaker:
+      node_id: 1206b191-8cc1-40ac-bb60-96e2f3101bc4
+      title: John Carpenter
+    provenance_chain:
+      origin_kind: named
+      origin: John Carpenter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1206b191-8cc1-40ac-bb60-96e2f3101bc4
+        title: John Carpenter
+        slug: john-carpenter
+      - node_id: 687346e6-d714-4dec-ac87-51709d37a7db
+        title: 1999-2000 Florida factory abduction security videotape case
+        slug: 1999-2000-florida-factory-abduction-security-videotape-case
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: '1999'
+    date_end: null
+    location_in_record: ch18:16018-16282
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: f94e2972-0f25-4513-af4f-74c3608a3ded
+    claim_hash: be32e1bba79aebf413541444395043586d997df6f27ed41bded672f8592e120f
+    content: The Ambient Monitoring Project (AMP) is the most ambitious and promising step toward controlled studies of physical
+      evidence for alien abductions, begun in 1998 by the UFO Research Coalition, which consists of the Mutual UFO Network
+      (MUFON), the Fund for UFO Research, and the Center for UFO Studies (CUFOS).
+    original_excerpt: Currently, the most ambitious and promising step in that direction is the Ambient Monitoring Project
+      (AMP), an effort begun in 1998 by the UFO Research Coalition, which consists of MUFON, the Fund for UFO Research, and
+      the Center for UFO Studies (CUFOS).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.491
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 52f9ae23-2187-4b3f-af3f-53f5ff909e92
+        title: UFO Research Coalition
+        slug: ufo-research-coalition
+      - node_id: 6b8dc9a6-f0f2-4230-97f5-1653aa2ced26
+        title: Center for UFO Studies (CUFOS)
+        slug: center-for-ufo-studies-cufos
+      - node_id: d41df36f-085a-4786-ab61-d1a184f22b8a
+        title: Fund for UFO Research
+        slug: fund-for-ufo-research
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f6ed384e-ae63-4210-ac92-c1f6bbc4d543
+        title: Ambient Monitoring Project (AMP)
+        slug: ambient-monitoring-project-amp
+    date: '1998'
+    date_end: null
+    location_in_record: ch18:17731-17978
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: fa188141-18b8-4d94-b1ea-6d54b7cb4b68
+    claim_hash: 5502978a78dd98ba263f6c5d4087dbccc7dd911dd455a4fcb9471f6d6d4f9a9e
+    content: The Ambient Monitoring Project device records various physical parameters and stores the information, which is
+      downloaded daily to the computer of project engineer Tom Deuley, a longtime Mutual UFO Network (MUFON) official.
+    original_excerpt: It records various physical parameters and stores the information, which is then downloaded to the computer
+      of our project engineer (Tom Deuley, a longtime MUFON official) every day.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 5aa93d1c-f7c9-477e-a545-17a707b2e633
+      title: Mark Rodeghier
+    provenance_chain:
+      origin_kind: speaker
+      origin: Mark Rodeghier
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 7893f2f4-f26a-45d8-80a1-e13b76e59cff
+        title: Tom Deuley
+        slug: tom-deuley
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f6ed384e-ae63-4210-ac92-c1f6bbc4d543
+        title: Ambient Monitoring Project (AMP)
+        slug: ambient-monitoring-project-amp
+    date: null
+    date_end: null
+    location_in_record: ch18:19314-19492
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 32687cf8-a827-40a9-b9f4-308ca4d9b2b3
+      record_title: 'Hair of the Alien: DNA and Other Forensic Evidence for Alien Abductions'
+      record_date: '2005-11-14'
+      record_reference: null
+      content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
+      friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
+  - claim_id: 11bf6c9e-faa4-42d1-b7bd-2ca426274239
+    claim_hash: f4484453ce0476d035ae3b9c2288a892d07f8af4f898bfb6df5987f5b75363c6
+    content: The Mutual UFO Network (MUFON) is a nonprofit organisation with the goal of researching UFO-related events scientifically.
+    original_excerpt: MUFON is an organization with the goal of researching UFO-related events scientifically.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:42085-42158
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 91cffa5b-0967-417a-90c0-7cbe271a8ff1
+    claim_hash: 4285e5a921ed739f0a2bfd18a773ea51991b2a9cfd161303ff67d28fde8b83fb
+    content: The Mutual UFO Network (MUFON) was founded in 1969 in the midwestern United States.
+    original_excerpt: The organization was founded in 1969 in the midwestern United States and eventually expanded into a
+      national network of units.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: '1969'
+    date_end: null
+    location_in_record: ch6:42174-42294
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e6deb7f7-3340-46ce-a263-fbd6f25f3f0f
+    claim_hash: a0fa190edae8458e174722a10462995ecfcb5de343dcf191b8e3602e6423ff81
+    content: The Mutual UFO Network (MUFON) trains field investigators who go on-site to study anomalous reports.
+    original_excerpt: It is a nonprofit organization that trains “field investigators,” that is, people who go on-site to
+      study anomalous reports.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:42301-42417
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 0517dce8-bf33-465c-98d0-2329edb777ae
+    claim_hash: 96e998b15108aa704b1905721b4ba79b4df08cc0731534d7febaf3a45a20346a
+    content: The Mutual UFO Network (MUFON) and its chapters host conferences focused on UFO studies and research.
+    original_excerpt: The organization and its chapters also host conferences that focus on UFO studies and research.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:42426-42512
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b1f8065c-9b9e-405a-a2e0-1e41ee883d53
+    claim_hash: 3607521707e6f56783aa4873aba13a8dbcde92dac86c3df1328b1ff1da5b6009
+    content: The Mutual UFO Network (MUFON) has been criticised for using pseudoscientific methods in investigating sightings,
+      reports, and experiencers.
+    original_excerpt: MUFON has been criticized for using “pseudoscientific” methods for investigating sightings, reports,
+      and experiencers
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:42522-42627
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 4c95db02-24a9-4729-88ed-2be4285eff95
+    claim_hash: 2ec701677d1898e6e4cc2031c00dc1a841bb6e41d4f19e28c1aa483518409458
+    content: The Mutual UFO Network (MUFON) maintains an extensive and public database of UFO reports.
+    original_excerpt: it has been criticized by experiencers who have input their own reports into its extensive and public
+      database of UFO reports
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.867
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:42645-42763
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 17203491-6dc1-4949-907b-ed0393db16bd
+    claim_hash: 3f1b59d0ef94440ab5261bf3cda4ca85c9f8a405fe24a63b234da40cc6d93ea5
+    content: D. W. Pasulka knows the North Carolina state director of the Mutual UFO Network (MUFON) and several field investigators,
+      and considers her associations with them friendly and professional.
+    original_excerpt: I know the North Carolina state director of MUFON and several field investigators. My associations with
+      them have been friendly and professional.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:42775-42907
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: e83d73a5-b70a-46d3-bdfd-2cb99af378a4
+    claim_hash: 1305b9e466af03562cbff9d32f2ac25557ad1c3201ba413371ad6b97466683e2
+    content: D. W. Pasulka considers the research methods of Mutual UFO Network (MUFON) associates she knows to be completely
+      rational and objective, erring on the side of skepticism.
+    original_excerpt: Their research methods, on my observation, are completely rational and objective, and err on the side
+      of skepticism.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:42921-43026
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 23f271eb-6d2c-4dd8-a145-1c8d975ab73a
+    claim_hash: 716aed88ddeb9dc204696fabd71816b1f1d147d94b9911c80b12379867b1f467
+    content: Experiencers interviewed by D. W. Pasulka report that their experiences with the larger Mutual UFO Network (MUFON)
+      organisation have not gone well.
+    original_excerpt: Experiencers I’ve interviewed say their experiences with the larger organization have not gone well.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: anonymous
+      origin: experiencers interviewed by D. W. Pasulka who reported issues with MUFON
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.63
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:43117-43212
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ecd65ff6-fdc6-4aba-befc-9fc442aa7e33
+    claim_hash: 39644ace68a7c3e251f009f1d74ac854fee526364e0bb6b10e84fc65fe0e7581
+    content: Several experiencers reported to D. W. Pasulka that their reports had been made public by the Mutual UFO Network
+      (MUFON) in a completely altered form.
+    original_excerpt: Several have reported that their experiences have been made public in a completely altered form.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: anonymous
+      origin: experiencers interviewed by D. W. Pasulka who reported issues with MUFON
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.49
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:43218-43309
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: ceb19862-77c4-444a-a2da-7b0810d0b29c
+    claim_hash: bbdd4695ea65e53f8c7df79299b741334771b970e4d9a84bf5a19aff985c4c1e
+    content: When a person submits a report to the Mutual UFO Network (MUFON), the report enters a national database and becomes
+      the property of MUFON, which can use it as it sees fit, including selling it to television production companies.
+    original_excerpt: When a person reports an experience to MUFON, it goes into a national database of reports, and these
+      reports become the property of MUFON. They can do what they want with them—like sell them to television production companies.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:43315-43531
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: aa9c92a8-3554-4a78-aa94-c49d68cddaab
+    claim_hash: a80eb3849e4bd1ebc453e881ec3ee9dfb7f7c5a7a8c1ba381a2067bfb8f6d277
+    content: Rey Hernandez saw his own handwriting displayed on screen in the Hangar 1 episode, including his attorney's letterhead
+      blacked out, which confirmed to him that the footage used his report to the Mutual UFO Network (MUFON).
+    original_excerpt: All the handwriting you saw on the video’s pictures was my handwriting; it even had my attorney letterhead
+      blacked out—that is why I know it was my report to MUFON.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.87
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+      - node_id: a21bf452-7c45-46b0-8d16-55c225d3b8d6
+        title: Hangar 1 (television series)
+        slug: hangar-1-television-series
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:44148-44306
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 62449839-3322-4776-8311-95ab6772c0b3
+    claim_hash: fb1472eccfa3101873979b9745e502924ef95c9a26275d13a74fdf1fa08111c2
+    content: Rey Hernandez considers the volunteers and field workers associated with the Mutual UFO Network (MUFON) not at
+      fault for how his story was portrayed on Hangar 1.
+    original_excerpt: Rey felt betrayed by the larger organization, but he was generous in stating that the volunteers and
+      field workers associated with MUFON were not at fault.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:44701-44850
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: afa01227-0972-41a6-97c6-7b7aefc11791
+    claim_hash: 947cbecb217ca7c7a9e847dfb1bbf267981299f13c948545368fd64eb68545d3
+    content: Rey Hernandez said his field report to the Mutual UFO Network (MUFON) was not accurately translated into the
+      Hangar 1 production, containing inaccuracies and actual fabrications.
+    original_excerpt: Somehow my field report was not translated to the video because not only were there inaccuracies but
+      there were actual fabrications.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+      - node_id: a21bf452-7c45-46b0-8d16-55c225d3b8d6
+        title: Hangar 1 (television series)
+        slug: hangar-1-television-series
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:45112-45231
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b1a33766-ffb4-4c38-844b-084a31b1e08b
+    claim_hash: 9a63ddcae032e3b534aaf79bab31e46ee93b1b8cc9215d1d579e37aae6384961
+    content: Rey Hernandez said his issue was not with the volunteers of the Mutual UFO Network (MUFON) but with the fabrications
+      in the MUFON Hangar 1 production and the fact that his story was sold.
+    original_excerpt: MUFON is not the issue—the issue is my shock to find out that my story was sold and the fabrications
+      of the MUFON *Hangar 1* production.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+      title: Rey Hernandez
+    provenance_chain:
+      origin_kind: speaker
+      origin: Rey Hernandez
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.804
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 7a8b6a96-0d43-44ca-9389-dbb98cb31261
+        title: Rey Hernandez
+        slug: rey-hernandez
+      - node_id: a21bf452-7c45-46b0-8d16-55c225d3b8d6
+        title: Hangar 1 (television series)
+        slug: hangar-1-television-series
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:45411-45536
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: fcdc5d60-56ea-49ee-9da4-22fcba47cb29
+    claim_hash: 8475c35e754ed2b9282b73b816319c792fc262d201be664658f76af3857aab63
+    content: D. W. Pasulka observes that some researchers who use Mutual UFO Network (MUFON) data are not the original on-site
+      field researchers and so cannot vet the original reports.
+    original_excerpt: The problem is that a lot of researchers who use it are not the original on-site field researchers.
+      If they were, they could have vetted the original reports.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:47854-48004
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: c46c0e35-1d70-48a3-b1a7-e837dcc0acb3
+    claim_hash: 7c0507abc7c78f750344a4cdde4157d83b969837b702f679cbf061b4d6f72eb4
+    content: The North Carolina state director of the Mutual UFO Network (MUFON) checks with local police and military to
+      determine whether military exercises or scheduled aerial events occurred in the area of a reported sighting.
+    original_excerpt: For example, the state director for MUFON in North Carolina rules out all possible explanations. Once
+      she gets a report, she checks with local police and military to ascertain whether there were military exercises or other
+      scheduled aerial events in the area.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:48013-48267
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 328e5392-fb67-47c9-a651-73a611d79272
+    claim_hash: 5ed262a3a0b480a611cc9e167320d410206f3c6551fe2fde92c4e41c220681de
+    content: The North Carolina state director of the Mutual UFO Network (MUFON) scrutinises photographs and physical evidence
+      with the help of trained videographers before ruling on a report.
+    original_excerpt: She also scrutinizes any photographs and physical evidence with the help of trained videographers.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:48273-48357
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: b26cffc4-fef7-4964-99ed-895f1a513521
+    claim_hash: 86118eb6deebeaac227a46bb75922f2801d07d187f951240b1a675fd0ba3ae9b
+    content: If other explanations are ruled out, the North Carolina state director of the Mutual UFO Network (MUFON) grants
+      a report the status of "UFO," meaning unidentified.
+    original_excerpt: If other explanations are ruled out, she grants the report the status of “UFO,” that is, “unidentified.”
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+        title: USA, South Carolina
+        slug: south-carolina-usa
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:48372-48462
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 84dbc227-b0b3-4126-b8ff-ad394c7de189
+    claim_hash: 01b833e082dfe2d09aa238e576903b8f8e5b7bf42c19bdcc308641cbe2f5c2ae
+    content: Aerial phenomena such as blimps, drones, and lightning are often misidentified as UFOs and entered into the Mutual
+      UFO Network (MUFON) database.
+    original_excerpt: Often, aerial phenomena like blimps, drones, and lightning are misidentified as UFOs. These go into
+      the database, along with other reports.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch6:48655-48786
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 7deeb77c-e0a5-40b2-9bca-e0908cfb7ca7
+    claim_hash: 0bd911dde2d60fa9e848fec668eca3b3d5554069070ebc9cd787b842ddfca28d
+    content: D. W. Pasulka has observed researchers who indiscriminately lump all reports in the Mutual UFO Network (MUFON)
+      database under the category of UFO sightings, creating a false impression of the prevalence of truly unknown phenomena.
+    original_excerpt: Several researchers I have met have blindly taken all of the reports and lumped them under the category
+      of “UFO” sightings. This gives the impression that there are more sightings of truly unknown phenomena than is actually
+      the case.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      title: Diana Walsh Pasulka
+    provenance_chain:
+      origin_kind: speaker
+      origin: D. W. Pasulka
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+      - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+        title: Diana Walsh Pasulka
+        slug: diana-walsh-pasulka
+    date: null
+    date_end: null
+    location_in_record: ch6:48795-49023
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 288e1100-0497-41df-ba08-9890e519b0b9
+      record_title: American Cosmic
+      record_date: '2019'
+      record_reference: null
+      content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
+      friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 45e28250-d4e9-4dd1-97c2-53aba991793c
+    claim_hash: 7757d8130c3c2f72c98d1384fc545cf932c6bbc9496f5b463ef5509c1f8c352b
+    content: UFO disclosure groups such as the Mutual UFO Network (MUFON) hoped Jimmy Carter would open decades of still top-secret
+      Project Blue Book files, which were widely known to still be withheld from public release.
+    original_excerpt: It was hoped by UFO disclosure groups such as MUFON (the Mutual UFO Network) that this most liberal
+      of recent United States presidents would open decades of still top-secret Project Blue Book files, which it was widely
+      known were still being withheld from public release.
+    claim_type: opinion
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+        title: Project Blue Book
+        slug: project-blue-book
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch11:14327-14590
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 953edcc0-69ae-484e-9a9a-3492141891e0
+    claim_hash: 5c7de30dc56ff3205b021385b4b6361e491e4676fdf719bc1977e18c195cad0a
+    content: Jan Harzan was the executive director of the Mutual UFO Network (MUFON), a civilian UFO research organisation.
+    original_excerpt: Harzan was the executive director of civilian UFO research organisation MUFON until his resignation
+      in July 2020
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: endnote narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.57
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+        title: Jan Harzan
+        slug: jan-harzan
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: ch34:19761-19869
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: caa47c23-7120-44e4-b9fa-ffe9db4ad2e7
+    claim_hash: 4fb2d0479fad50cb0b01592bba6f1ce236f7ec7a8421578f3826882bf83695c4
+    content: Jan Harzan resigned from the Mutual UFO Network (MUFON) in 2020-07.
+    original_excerpt: Harzan was the executive director of civilian UFO research organisation MUFON until his resignation
+      in July 2020
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: endnote narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.79
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+        title: Jan Harzan
+        slug: jan-harzan
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: 2020-07
+    date_end: null
+    location_in_record: ch34:19761-19869
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 37b16638-88fd-407e-8b0c-13c9aae37e7a
+    claim_hash: fa457ad343efeb6fc33b0c00641e291be52e7f5f0e0e6cac8d49cfab6a8c6b79
+    content: Jan Harzan resigned from the Mutual UFO Network (MUFON) following allegations that he solicited sex from a 13-year-old
+      girl.
+    original_excerpt: after allegations he solicited sex from a 13-year-old girl
+    claim_type: hearsay
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: endnote narration referencing unspecified allegations
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.506
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 1e26e008-5bfb-4497-a0ce-42cb86d075ae
+        title: Jan Harzan
+        slug: jan-harzan
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: 2020-07
+    date_end: null
+    location_in_record: ch34:19874-19928
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 82428104-9534-451e-a0db-09cb23f6b5b6
+    claim_hash: 17bd6cd2d30fc883d48f1a32a3e326c3b7d66f64e5c701948cb79660262e6700
+    content: Erik Nanstiel reported his case to the Mutual UFO Network (MUFON), became involved with the Illinois MUFON people,
+      attended some of their meetings, went to their symposium the previous year, and plans to attend again.
+    original_excerpt: ever since I reported my case to MUFON, I've kind of cozied up with the Illinois MUFON people, and I've
+      attended some of their meetings, and I've even been to the symposium last year, and I plan to go this year.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+      title: Erik Nanstiel
+    provenance_chain: null
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 0aad9179-33c1-4383-aab7-5eb12429386e
+        title: Erik Nanstiel
+        slug: erik-nanstiel
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: 01:46:29.3-01:46:45.9
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e78cf776-77b8-4b64-85e2-1e19d2787492
+      record_title: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel | DEBRIEFED ep. 85'
+      record_date: '2026-04-24'
+      record_reference: https://www.youtube.com/watch?v=RFI4RWzH3ik
+      content_hash: sha256:f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c74149b52
+      friendly_name: 2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything.v2
+  - claim_id: 2e859974-74fe-4d80-94bb-dd0d7a51f5d5
+    claim_hash: 71547dc74f49e4364e34507da7d3efb86b4c5cff13afd0ccb6e381b69434c69e
+    content: Jason Quitt likens the demand for bodies and craft to the older nuts-and-bolts approach of the Mutual UFO Network
+      (MUFON), which was interested in the craft and in what powers it in the belief that obtaining that power system could
+      change the world for the better.
+    original_excerpt: it reminds me of like, kind of like the old MUFON type of nuts and bolts stuff where it's like, they're
+      just interested in the craft. They need to know that technology. They want to know what powers it, because if they can
+      get their hands on that power system, we can change the world for the better.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
+      title: Jason Quitt
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jason Quitt
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 3c3c2f7c-5e6c-4a52-a069-5d04ca40e105
+        title: Free energy
+        slug: free-energy
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
+    date: null
+    date_end: null
+    location_in_record: 01:58:40.7-01:58:54.7
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: b0f8ff5d-db19-45e1-abaa-391d63833bec
+      record_title: Researcher Describes Strange Encounters With Other Beings - Jason Quitt | Ep. 98
+      record_date: '2026-08-07'
+      record_reference: https://www.youtube.com/watch?v=JsPE3o-PJms
+      content_hash: sha256:474630c81ceb39029e473c41a62306341a264aa94e100930de6ceb845884cf57
+      friendly_name: null

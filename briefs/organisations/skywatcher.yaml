@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5e884511b8b91015d5f4675b65e193cd5f38388f41aee933d93bb3dda85becfe
+brief_hash: a69a27e5a1b858098bc0fa6d9f4c1eefb8536c1701f92e8bb3695392872f710b
 page:
   kind: entity
   node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
@@ -9,11 +9,21 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 31
   tokens_estimated: 4299
   sized_against: 1050000
+entailment:
+  assessed: 31
+  unassessed: 0
+  entails: 19
+  neutral: 5
+  contradicts: 7
+  entailed_by_quote: 8
+  entailed_by_window: 11
+  entailed_by_quote_fraction: 0.258
+  entailed_by_window_fraction: 0.355
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -143,6 +153,11 @@ related_nodes:
     node_type: event
     slug: sierra-blanca-temporary-flight-restriction
     shared_claims: 1
+  - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+    title: Special Access Program (SAP)
+    node_type: topic
+    slug: special-access-program-sap
+    shared_claims: 1
   - node_id: de26cb38-31fc-405d-bc7d-075d4bb3c8e1
     title: Tetra
     node_type: object
@@ -157,11 +172,6 @@ related_nodes:
     title: USS Hornet
     node_type: object
     slug: uss-hornet
-    shared_claims: 1
-  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-    title: Unacknowledged special access program (USAP)
-    node_type: topic
-    slug: unacknowledged-special-access-program-usap
     shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
@@ -186,6 +196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -234,6 +249,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
         title: Alex Klokus
@@ -275,6 +295,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
         title: Alex Klokus
@@ -310,6 +335,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -349,6 +379,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -396,6 +431,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
         title: Jordan Jozak
@@ -436,6 +476,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
         title: Jordan Jozak
@@ -482,6 +527,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
         title: Jordan Jozak
@@ -523,6 +573,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.663
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
         title: Jordan Jozak
@@ -547,7 +602,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: f9ca144e-8259-47ee-be80-82f369f62b00
-    claim_hash: 486d536e623ab5725cb7c87386d23c8d653a5e92af3abc4bbb7d586648f49e8a
+    claim_hash: 90537dc141f360a1ca99b02da345b15835fda1a74c342e603f81adefbea3360e
     content: Skywatcher is a modern version of programmes that attempt to summon UFOs, and such summoning work has been carried
       out for some time within special access programmes.
     original_excerpt: you have these summoning programs of UFOs, like Skywatcher is this kind of modern version of this or
@@ -563,16 +618,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
         slug: skywatcher
-      - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-        title: Unacknowledged special access program (USAP)
-        slug: unacknowledged-special-access-program-usap
     date: null
     date_end: null
     location_in_record: 01:06:32.5-01:06:42.8
@@ -603,6 +663,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.772
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
         title: Alex Klokus
@@ -646,6 +711,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.908
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -680,6 +750,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.766
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
         title: James Fowler
@@ -717,6 +792,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -754,6 +834,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.703
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -797,6 +882,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0b1e0db8-b75a-47f4-ae65-e6d994ac4648
         title: Beam
@@ -856,6 +946,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -893,6 +988,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -936,6 +1036,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -973,6 +1078,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -1013,6 +1123,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -1055,6 +1170,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.583
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -1099,6 +1219,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -1133,6 +1258,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.736
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range
@@ -1174,6 +1304,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -1214,6 +1349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -1251,6 +1391,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -1291,6 +1436,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 833b0c26-c59f-4b67-9fc4-693c54645074
         title: USA, Texas, Sierra Blanca
@@ -1328,6 +1478,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -1362,6 +1517,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -1399,6 +1559,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
         title: USA, New Mexico, White Sands Missile Range

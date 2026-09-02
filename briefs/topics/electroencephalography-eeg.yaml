@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 862de477dc22707638b46cea2ba797924e9270056134ee7cf055fb987c8b4a5d
+brief_hash: a76b21f9a6b75e9a8e072784a0df0dfdf270ae5d51c620146bcf8045e095648e
 page:
   kind: entity
   node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
@@ -9,11 +9,21 @@ page:
   claim_count: 21
   claim_count_total: 21
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 21
   tokens_estimated: 3530
   sized_against: 1050000
+entailment:
+  assessed: 21
+  unassessed: 0
+  entails: 18
+  neutral: 1
+  contradicts: 2
+  entailed_by_quote: 6
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.286
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -44,9 +54,9 @@ related_nodes:
     slug: hypothermic-cardiac-arrest-technique
     shared_claims: 2
   - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-    title: Near-death experience (NDE)
+    title: Near-death experience
     node_type: topic
-    slug: near-death-experience-nde
+    slug: near-death-experience
     shared_claims: 2
   - node_id: ac050fca-beee-4b02-b808-a976ff75b610
     title: Pam Reynolds
@@ -151,6 +161,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -191,6 +206,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -230,6 +250,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.604
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -270,6 +295,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.384
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -312,6 +342,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -353,6 +388,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -393,6 +433,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -433,6 +478,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.695
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -472,6 +522,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -514,6 +569,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.865
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -554,6 +614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -591,6 +656,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -628,6 +698,11 @@ claims:
         - Robert Monroe
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.6
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -652,7 +727,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: 005a312a-24d5-4c7b-a142-60299a392311
-    claim_hash: 109eb41100ae7cfd6b686d7d92e1624ea293c7d1ece88053b5923b289bb0653b
+    claim_hash: c0f6ef739e18fb63d7397bde43014b6ca5fa5472bcafabbf79458172b0691b45
     content: A 2014 paper in Frontiers in Human Neuroscience by nine scientists from the University of Padova, Italy, reports
       on using electroencephalography (EEG) to investigate the characteristics of near-death experience memories and their
       neural markers compared to memories of both real and imagined events.
@@ -668,13 +743,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: Near-death experience (NDE)
-        slug: near-death-experience-nde
+        title: Near-death experience
+        slug: near-death-experience
       - node_id: 61b10963-73a8-493f-90ad-96b5245c570b
         title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers in Human Neuroscience
         slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
@@ -701,7 +781,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 2befc649-a990-4264-a545-c36c82ead041
-    claim_hash: 0a41f03a70a9ef52ab7494cfb5cdade18601f14f0a790fdd9b5f2c479b7f7ab7
+    claim_hash: ed2b6554d0232f01e853d3c3f3d4ce1171ca9f30c70abb4cb546355f4f394bb7
     content: The University of Padova scientists state that the EEG pattern of correlations for near-death experience memory
       recall differed from the pattern for memories of imagined events.
     original_excerpt: '"It is notable that the EEG pattern of correlations for NDE memory recall differed from the pattern
@@ -715,13 +795,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.479
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
         slug: electroencephalography-eeg
       - node_id: 20761aba-46ad-4780-a1a9-c8ad2171af7d
-        title: Near-death experience (NDE)
-        slug: near-death-experience-nde
+        title: Near-death experience
+        slug: near-death-experience
       - node_id: 61b10963-73a8-493f-90ad-96b5245c570b
         title: University of Padova 2014 electroencephalography (EEG) paper in Frontiers in Human Neuroscience
         slug: university-of-padova-2014-electroencephalography-eeg-paper-in-frontiers-in-human-neuroscience
@@ -739,7 +824,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: ea35a948-3023-4ae1-8aa8-f07048fc1c13
-    claim_hash: 676e73512bf5f4b0c10b2da97b2fc33cd4c79460053cfe314109ec16846c3d15
+    claim_hash: 7367e1104f26f02a178d65a157f4d042e1057e134e1002891ab8a9c8653fe361
     content: Robert Spetzler stated that during hypothermic cardiac arrest it is inconceivable, from a scientific perspective,
       that there is any brain function requiring metabolic activity, and that Pam Reynolds's EEG and evoked potentials were
       completely flat, confirming she was clinically dead.
@@ -757,6 +842,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -787,7 +877,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 6da6982f-d973-4659-b750-7d7d6d921713
-    claim_hash: 2bb58c84700d241c1b7281538f1915057d9a644efb2a5a0cb45a187d6525e165
+    claim_hash: f23c7a27e7f9afc4f83d13863feb4a81f35f96ed2ededd4140a89a749fbd2ed9
     content: During Pam Reynolds's hypothermic cardiac arrest, her EEG brain waves and evoked potentials completely disappeared,
       showing no detectable brain activity.
     original_excerpt: Now, in hypothermic cardiac arrest, those waves completely disappear. They are gone, they are flat.
@@ -803,6 +893,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -827,7 +922,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: 577d5eec-2bbc-4e5e-b0b0-6e56e9e65590
-    claim_hash: af390bdcee1d35226e34af2b3a23fe02dd019ce92cf7deab8f13e7d599b28db8
+    claim_hash: 0cab1ea87d485da8039e7efea3702a702a9263cce93822987ddc6ec90623ab97
     content: Electroencephalography (EEG), magnetoencephalography (MEG), and positron emission tomography (PET) scans measure
       electrical, magnetic, and chemical activity in the brain.
     original_excerpt: We can measure only the electrical, magnetic, chemical activities in the brain by EEG-, MEG-, and PET-scan
@@ -842,6 +937,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -863,7 +963,7 @@ claims:
       content_hash: sha256:5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449657b90c8
       friendly_name: 2017-03-07-ebook-surviving-death
   - claim_id: f90ae4f6-ab21-4f27-8b90-e17f5d039ce5
-    claim_hash: 1f6530176a4cb178f1584c885fbeadbd32193efca8ccb67980030e95370e123e
+    claim_hash: c3be5a0e1af4e1a051165adc915dc289285338e7c7a2d7c401d9fe7939d1129a
     content: 'The Windbridge Institute EEG study of six mediums monitored the mediums'' brain activity using electroencephalography
       (EEG) during four tasks: recollection (thinking about a living person known to the medium), perception (listening to
       information read about a person), fabrication (making up a fictitious person and thinking about them), and communication
@@ -883,6 +983,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -924,6 +1029,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)
@@ -960,6 +1070,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
         title: Electroencephalography (EEG)

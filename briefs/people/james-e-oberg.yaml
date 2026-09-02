@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 2b889a68734637ef4220b9237f566966a674c1c246556f57e232ef791fa5a75d
+brief_hash: b79324c44d043df997c6706d8d1822d70039806374323e74b1aad3e67c586cd0
 page:
   kind: entity
   node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
@@ -9,11 +9,21 @@ page:
   claim_count: 27
   claim_count_total: 27
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 27
   tokens_estimated: 4096
   sized_against: 1050000
+entailment:
+  assessed: 27
+  unassessed: 0
+  entails: 18
+  neutral: 7
+  contradicts: 2
+  entailed_by_quote: 9
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,11 +33,6 @@ belonging:
   suspect_excluded: 0
   unreviewed: 27
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 6
   - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
     title: National Aeronautics and Space Administration (NASA)
     node_type: organisation
@@ -37,6 +42,11 @@ related_nodes:
     title: NASA Jet Propulsion Laboratory (JPL)
     node_type: organisation
     slug: nasa-jet-propulsion-laboratory-jpl
+    shared_claims: 4
+  - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+    title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: sts-48-unidentified-aerial-phenomena-uap-incident
     shared_claims: 4
   - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
     title: Story Musgrave
@@ -68,6 +78,11 @@ related_nodes:
     node_type: organisation
     slug: united-press-international
     shared_claims: 2
+  - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+    title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
+    shared_claims: 1
   - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
     title: Advanced Aerospace Threat Identification Program (AATIP)
     node_type: project
@@ -153,6 +168,11 @@ related_nodes:
     node_type: project
     slug: sts-80
     shared_claims: 1
+  - node_id: fd0f66b9-f7c3-4ded-872b-ab74cf998db1
+    title: STS-80 Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: sts-80-unidentified-aerial-phenomena-uap-incident
+    shared_claims: 1
   - node_id: c0176fab-652b-4872-a2f9-1063f80b9389
     title: STS-80 video disk-like object sightings (1996-12-02)
     node_type: event
@@ -162,16 +182,6 @@ related_nodes:
     title: Tom Young
     node_type: person
     slug: tom-young
-    shared_claims: 1
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    node_type: topic
-    slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: f1d67f05-cc9b-4cce-8353-c542fd4a3580
-    title: Young Report (Mars Polar Lander failure investigation)
-    node_type: document
-    slug: young-report-mars-polar-lander-failure-investigation
     shared_claims: 1
 claims:
   - claim_id: 137cc196-db0b-46f2-9200-d2489d4eb8fb
@@ -192,6 +202,11 @@ claims:
         - James Oberg
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -230,6 +245,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -267,6 +287,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -309,6 +334,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.72
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
         title: STS-48 video anomalous objects incident (1991-09)
@@ -352,6 +382,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -387,6 +422,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.518
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -421,6 +461,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -455,6 +500,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -490,6 +540,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -527,6 +582,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -567,6 +627,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -606,6 +671,11 @@ claims:
         - United Press International (UPI) story
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -653,6 +723,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -692,6 +767,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
         title: Dan Goldin
@@ -740,6 +820,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -779,6 +864,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.74
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -817,6 +907,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -855,6 +950,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -873,7 +973,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -895,6 +995,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -910,7 +1015,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -932,6 +1037,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -944,7 +1054,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -965,6 +1075,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -977,13 +1092,13 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
-    claim_hash: 81f27a41daac714a6b871925454e36dca1234e558596585b3fd5e5ebd84498c6
+    claim_hash: f4bc49f567197a8dd29fefa7351087be1d934cb6aeb04b512e1da395d46b5ca1
     content: Florenze Mansmann backed Robert Jacobs' account of the 1964 Vandenberg incident after reading that sceptics James
       Oberg and Philip Klass were attacking Jacobs with claims that his sighting was fanciful and uncorroborated.
     original_excerpt: backed Jacobs' account because he read how sceptics James Oberg and journalist Philip Klass were attacking
@@ -997,6 +1112,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -1010,9 +1130,9 @@ claims:
       - node_id: a7401fee-f052-47b4-95d5-4ce7f695aa7d
         title: Florenze Mansmann
         slug: florenze-mansmann
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+        title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
+        slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: ch10:6482-6647
@@ -1022,12 +1142,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ca174e0c-7265-4a6f-9bf3-7b213b7090d9
-    claim_hash: 9a86bdc64eb447bc7a49be8db210cc6529eac1fe8ffe9ecbd76d4d65932cfad8
+    claim_hash: 2b620878fc63e204879789aa84d39c89eac2a829d98207b7146c98cb10b9f4f0
     content: James Oberg, described as a notorious skeptic debunker, attempted a rebuttal of the STS-48 UAP incident footage,
       suggesting the objects were ice particles from the space shuttle's thrusters and that the movement seen was caused by
       thruster manoeuvres.
@@ -1045,13 +1165,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.495
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
         slug: james-e-oberg
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:22:32.1-00:22:49.4
@@ -1066,7 +1191,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 004dac5c-f4ae-4161-8490-23e7475edb06
-    claim_hash: 3d8de0fff6040295f4bba12466dabd67add968d0c6d34c9b8d272f9a34312796
+    claim_hash: 81b53ce7be378beead2ea0b1b6bfb98554dd1eb9059d5ebca9cccb4833123db9
     content: Maaneli "Max" Derakhshani considers James Oberg's ice-particle explanation a plausible first guess, but finds
       the available data in the STS-48 UAP incident video do not fit that explanation well.
     original_excerpt: that is, I think, a plausible first guess. However, when you look more closely at the details of this
@@ -1083,16 +1208,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
         slug: james-e-oberg
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
         slug: maaneli-max-derakhshani
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:22:55.6-00:23:15.5
@@ -1107,7 +1237,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
-    claim_hash: 1374b02486db8a4b6b29b3c2b9b4bbac97681e2ecba3dd3f234d5d93646e87e0
+    claim_hash: 87c99e48051a1e9abbb2b122550349b3333a3a741ad7d29109776e47f04cb014
     content: James Oberg of National Aeronautics and Space Administration (NASA) has had back-and-forth exchanges with Mark
       Carlotto and Jack Kasher regarding the STS-48 UAP incident, but did not do so officially on behalf of NASA.
     original_excerpt: There is one person from NASA, James Oberg, who has had some back and forth with Dr. Carlotto, as well
@@ -1124,6 +1254,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -1134,9 +1269,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto
@@ -1154,7 +1289,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: c2ee3d86-f2ad-493e-b531-450f0ee26189
-    claim_hash: 7ce83d7d444275519e8b5ff565e2cf47a02be647ae909fa451aa607e8da5d8d7
+    claim_hash: ed77d9ef86c632e7405224d707c44868ac15a71494751da52a6f8cb775f6c8bb
     content: James Oberg and National Aeronautics and Space Administration (NASA) have suggested the main unidentified aerial
       phenomenon (UAP) of interest in the STS-48 UAP incident is an ice particle coming out of the space shuttle's shadow
       into sunlight.
@@ -1172,6 +1307,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -1179,9 +1319,9 @@ claims:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:38:05.4-00:38:16.7
@@ -1196,7 +1336,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 77b6465b-6b85-4961-b771-ce51764b409d
-    claim_hash: cc796d26003dad9af081d1ba9ab2248ed73c64326f5679a98f8810e0ec88f737
+    claim_hash: b1048a44e805ae85756fb79127da6c33a30e6dc6f1ed9bbf0f7be0c817604469
     content: According to James Oberg as quoted by Mark Carlotto, when Oberg asked Story Musgrave, who is not shy about discussing
       anomalies, Musgrave assured Oberg that he saw nothing unusual during the STS-80 flight.
     original_excerpt: According to James Ober, quote, when I asked crewman Story Musgrave, who is not shy about talking about
@@ -1214,6 +1354,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -1224,12 +1369,12 @@ claims:
       - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
         title: Story Musgrave
         slug: story-musgrave
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto
+      - node_id: fd0f66b9-f7c3-4ded-872b-ab74cf998db1
+        title: STS-80 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-80-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:57:11.8-00:57:21.6

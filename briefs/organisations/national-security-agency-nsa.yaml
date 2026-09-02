@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fcbb7e97a022f65ab4d5c0a25713835eed40ca45f2b03256d633bed68f5ad8f1
+brief_hash: 15bd5a4317cb7186f809ea9cdab0c2b5c4f81a49da444fca3bd91f6201168b3f
 page:
   kind: entity
   node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
@@ -9,11 +9,21 @@ page:
   claim_count: 30
   claim_count_total: 30
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 30
   tokens_estimated: 5034
   sized_against: 1050000
+entailment:
+  assessed: 30
+  unassessed: 0
+  entails: 22
+  neutral: 6
+  contradicts: 2
+  entailed_by_quote: 8
+  entailed_by_window: 14
+  entailed_by_quote_fraction: 0.267
+  entailed_by_window_fraction: 0.467
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a210079-c0b5-4775-8f88-f0d4e1cec086
         title: Freedom of Information Act (FOIA)
@@ -228,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a210079-c0b5-4775-8f88-f0d4e1cec086
         title: Freedom of Information Act (FOIA)
@@ -264,6 +284,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.491
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -301,6 +326,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -336,6 +366,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -371,6 +406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -395,7 +435,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: db0896bb-d5d5-468d-b390-594f33645f46
-    claim_hash: f542908e28975ad543681ed2e1b7f64c4370fea7825211bfe2ef07a815735899
+    claim_hash: aa8fee9d5c46f043e268fc07ea0f11675cf39db8aa914019c130c1b229034d74
     content: Bill Chalker has speculated that the 1973 North West Cape sighting may be referred to in a heavily redacted US
       National Security Agency document, released in a 1980 court action taken by Citizens Against UFO Secrecy.
     original_excerpt: but Bill Chalker has speculated it may be a sighting referred to in a heavily redacted US National Security
@@ -412,6 +452,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -437,7 +482,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -455,6 +500,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -471,7 +521,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -491,6 +541,11 @@ claims:
         - deposition
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -507,7 +562,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -526,6 +581,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -545,7 +605,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -567,6 +627,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -592,7 +657,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -609,6 +674,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -628,7 +698,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -649,6 +719,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -671,7 +746,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -689,6 +764,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -711,332 +791,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
-    claim_hash: 6876d9453e2d0f4b2dff2368ae34f6438fa29ac4e6ede77e69c35bfc170c7379
-    content: Harold Puthoff's professional background spans decades of research at General Electric, Sperry Corporation, the
-      National Security Agency (NSA), Stanford University, and SRI International.
-    original_excerpt: His professional background spans decades of research at General Electric, Sperry, the NSA, Stanford
-      University, and SRI International
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
-        title: General Electric
-        slug: general-electric
-      - node_id: 32987cf1-88f7-4646-a856-740205441fda
-        title: Sperry Corporation
-        slug: sperry-corporation
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
-        title: Stanford University
-        slug: stanford-university
-      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-        title: Harold E. Puthoff
-        slug: harold-e-puthoff
-      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
-        title: SRI International
-        slug: sri-international
-    date: null
-    date_end: null
-    location_in_record: ch10:2421-2542
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
-    claim_hash: e568d89001ca4b12ec22592b09cd0dc8da764182c3270b0ae88c6068eda23dda
-    content: Harold Puthoff served almost every United States government entity, including the Department of Defense (DoD)
-      and agencies within the intelligence community such as the National Security Agency (NSA), as a senior scientific advisor.
-    original_excerpt: he has served almost every government entity (for example, the Department of Defense and agencies within
-      the intelligence community, such as the NSA) as a senior scientific advisor.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-        title: Harold E. Puthoff
-        slug: harold-e-puthoff
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-    date: null
-    date_end: null
-    location_in_record: ch10:2561-2734
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
-    claim_hash: 9dbedf40688015961aae4468a0ce2baf00abf871f8c8304d28c59565747e022d
-    content: Harold Puthoff was a Stanford University researcher and an employee of the National Security Agency when he and
-      Russell Targ were approached by the Central Intelligence Agency and told that Russia had a remote viewing programme.
-    original_excerpt: Hal had been a Stanford University researcher and an employee of the NSA when he and his colleague Russell
-      Targ were approached by the CIA and told that Russia had a remote-viewing program.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
-        title: Stanford University
-        slug: stanford-university
-      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
-        title: Harold E. Puthoff
-        slug: harold-e-puthoff
-      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
-        title: Russell Targ
-        slug: russell-targ
-    date: null
-    date_end: null
-    location_in_record: ch11:25266-25447
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
-    claim_hash: 0da084b2ce1518707421da9d677ce6d8de356c40e90a4f1e307dadf13e18cc1c
-    content: Pat Price, working from a couch on the west coast of the United States, remote viewed a secret National Security
-      Agency location in West Virginia and correctly described identifying labels on file folders locked in a subterranean
-      cabinet there.
-    original_excerpt: From a couch on the west coast, Price penetrated a secret NSA location in West Virginia and correctly
-      described identifying labels on manila file folders locked in a subterranean cabinet.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: named
-      origin: Pat Price
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
-        title: USA, West Virginia
-        slug: west-virginia-usa
-      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
-        title: Pat Price
-        slug: pat-price
-    date: null
-    date_end: null
-    location_in_record: ch11:33958-34137
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
-    claim_hash: 4868f16c71d2ba8c13095cc79c9228c1e1d48671c208d401e36f59700934054a
-    content: The National Security Agency and Central Intelligence Agency offered to provide assets to support Operation Plan
-      Interloper, and weekly meetings were held in Sensitive Compartmented Information Facility (SCIF) spaces, some at the
-      Pentagon and others at other agencies.
-    original_excerpt: The NSA and CIA offered to provide assets as well, and we launched weekly meetings in the SCIF spaces
-      we had available. Some of these meetings occurred at the Pentagon, while others were held at other agencies.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
-        title: OPLAN Interloper
-        slug: oplan-interloper
-      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
-        title: Sensitive Compartmented Information Facility (SCIF)
-        slug: sensitive-compartmented-information-facility-scif
-      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-        title: USA, Washington DC, Pentagon
-        slug: washington-dc-pentagon-usa
-    date: null
-    date_end: null
-    location_in_record: ch23:13729-13930
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
-    claim_hash: 63d78bc4e3f56ad41a54e57b7d315afb4339f27ef0afd5d61cbd139ab5de331f
-    content: A few months after sharing the Predator video with Neill Tipton, Luis Elizondo attended a meeting with high-level
-      United States Navy officials, Central Intelligence Agency (CIA) representatives, and a National Security Agency (NSA)
-      representative where the GoFast and GIMBAL videos were shown.
-    original_excerpt: A few months later I was sitting in a room with high-level Navy officials, CIA reps, and someone from
-      the NSA... we rolled the tapes.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
-        title: Go-Fast Video
-        slug: go-fast-video
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
-        title: United States Navy (USN)
-        slug: united-states-navy-usn
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
-        title: Gimbal video
-        slug: gimbal-video
-    date: null
-    date_end: null
-    location_in_record: ch23:21631-21748
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
-    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
-    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
-      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
-      data that they were not sharing with each other.
-    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
-      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
-      also appeared to have important UAP data they were not sharing.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-        title: National Geospatial-Intelligence Agency (NGA)
-        slug: national-geospatial-intelligence-agency-nga
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch6:17564-17844
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
     claim_hash: aadaed06a1c7a4cb707242f79df8554ea8deaecf81fa0539730945f9f60cdf94
     content: The Inspector General, U.S. Department of Defense interviewed senior officials and requested unidentified anomalous
@@ -1060,6 +818,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1120,7 +883,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 03d65f79-431b-4dcb-9412-ce121509179c
@@ -1140,6 +903,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -1170,7 +938,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 6880c09a-8375-41f4-acd2-6e9e38f5cc49
@@ -1190,6 +958,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1211,7 +984,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 208e1cd5-f191-4988-bba6-4a83a5bdfda3
@@ -1228,6 +1001,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1246,9 +1024,366 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 29055d3f-19b0-4a6e-9149-aa17ec070132
+    claim_hash: 6876d9453e2d0f4b2dff2368ae34f6438fa29ac4e6ede77e69c35bfc170c7379
+    content: Harold Puthoff's professional background spans decades of research at General Electric, Sperry Corporation, the
+      National Security Agency (NSA), Stanford University, and SRI International.
+    original_excerpt: His professional background spans decades of research at General Electric, Sperry, the NSA, Stanford
+      University, and SRI International
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
+        title: General Electric
+        slug: general-electric
+      - node_id: 32987cf1-88f7-4646-a856-740205441fda
+        title: Sperry Corporation
+        slug: sperry-corporation
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+        title: SRI International
+        slug: sri-international
+    date: null
+    date_end: null
+    location_in_record: ch10:2421-2542
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b303af53-033c-4220-97ba-a1ddfd6b2cc6
+    claim_hash: e568d89001ca4b12ec22592b09cd0dc8da764182c3270b0ae88c6068eda23dda
+    content: Harold Puthoff served almost every United States government entity, including the Department of Defense (DoD)
+      and agencies within the intelligence community such as the National Security Agency (NSA), as a senior scientific advisor.
+    original_excerpt: he has served almost every government entity (for example, the Department of Defense and agencies within
+      the intelligence community, such as the NSA) as a senior scientific advisor.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.596
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+    date: null
+    date_end: null
+    location_in_record: ch10:2561-2734
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 625a284f-b4d0-4b1e-a20c-70cf133e40cc
+    claim_hash: 9dbedf40688015961aae4468a0ce2baf00abf871f8c8304d28c59565747e022d
+    content: Harold Puthoff was a Stanford University researcher and an employee of the National Security Agency when he and
+      Russell Targ were approached by the Central Intelligence Agency and told that Russia had a remote viewing programme.
+    original_excerpt: Hal had been a Stanford University researcher and an employee of the NSA when he and his colleague Russell
+      Targ were approached by the CIA and told that Russia had a remote-viewing program.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+        title: Harold E. Puthoff
+        slug: harold-e-puthoff
+      - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+        title: Russell Targ
+        slug: russell-targ
+    date: null
+    date_end: null
+    location_in_record: ch11:25266-25447
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 76b1b0ab-78bd-45f0-88f3-73fbaab7a2b5
+    claim_hash: 0da084b2ce1518707421da9d677ce6d8de356c40e90a4f1e307dadf13e18cc1c
+    content: Pat Price, working from a couch on the west coast of the United States, remote viewed a secret National Security
+      Agency location in West Virginia and correctly described identifying labels on file folders locked in a subterranean
+      cabinet there.
+    original_excerpt: From a couch on the west coast, Price penetrated a secret NSA location in West Virginia and correctly
+      described identifying labels on manila file folders locked in a subterranean cabinet.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Pat Price
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 7b68b243-b58d-411f-b05d-9e651cf08e33
+        title: USA, West Virginia
+        slug: west-virginia-usa
+      - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+        title: Pat Price
+        slug: pat-price
+    date: null
+    date_end: null
+    location_in_record: ch11:33958-34137
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9068dff4-55d0-482f-b78b-6cf064438682
+    claim_hash: 4868f16c71d2ba8c13095cc79c9228c1e1d48671c208d401e36f59700934054a
+    content: The National Security Agency and Central Intelligence Agency offered to provide assets to support Operation Plan
+      Interloper, and weekly meetings were held in Sensitive Compartmented Information Facility (SCIF) spaces, some at the
+      Pentagon and others at other agencies.
+    original_excerpt: The NSA and CIA offered to provide assets as well, and we launched weekly meetings in the SCIF spaces
+      we had available. Some of these meetings occurred at the Pentagon, while others were held at other agencies.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.619
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 91bf8fa5-d894-4840-b3a2-8955d43c11c3
+        title: OPLAN Interloper
+        slug: oplan-interloper
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+    date: null
+    date_end: null
+    location_in_record: ch23:13729-13930
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: fbad6c56-4a04-4bcd-a697-c5fd0dbf212d
+    claim_hash: 63d78bc4e3f56ad41a54e57b7d315afb4339f27ef0afd5d61cbd139ab5de331f
+    content: A few months after sharing the Predator video with Neill Tipton, Luis Elizondo attended a meeting with high-level
+      United States Navy officials, Central Intelligence Agency (CIA) representatives, and a National Security Agency (NSA)
+      representative where the GoFast and GIMBAL videos were shown.
+    original_excerpt: A few months later I was sitting in a room with high-level Navy officials, CIA reps, and someone from
+      the NSA... we rolled the tapes.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.615
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 1451172e-3efb-4848-939a-ed9aff0d7e2f
+        title: Go-Fast Video
+        slug: go-fast-video
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+        title: United States Navy (USN)
+        slug: united-states-navy-usn
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+        title: Gimbal video
+        slug: gimbal-video
+    date: null
+    date_end: null
+    location_in_record: ch23:21631-21748
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
+    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
+      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
+      data that they were not sharing with each other.
+    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
+      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
+      also appeared to have important UAP data they were not sharing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch6:17564-17844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: adb4b7f5-9f0d-46fa-ac2e-1866622177b2
     claim_hash: 2af7256e648f0dcfde70445d975c38f23c99766c9e347ea47d10cfe65f07ff7f
     content: Ross Coulthart sent the photographs of hieroglyphic-looking images supplied by a European correspondent to a
@@ -1265,6 +1400,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -1303,6 +1443,11 @@ claims:
         - direct contact with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -1341,6 +1486,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -1376,6 +1526,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.53
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -1415,6 +1570,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
         title: Church Committee

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: d0364a673575f83ce72a691b0aed925114974be4908ec76b8c1aaa1f5ee178a3
+brief_hash: 120a05cc0c7ef476d4d60cdc77b549ee7fee766628b93c11f8283284f97db09d
 page:
   kind: entity
   node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
@@ -9,11 +9,21 @@ page:
   claim_count: 126
   claim_count_total: 126
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 126
   tokens_estimated: 18273
   sized_against: 1050000
+entailment:
+  assessed: 126
+  unassessed: 0
+  entails: 71
+  neutral: 54
+  contradicts: 1
+  entailed_by_quote: 29
+  entailed_by_window: 42
+  entailed_by_quote_fraction: 0.23
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -149,11 +159,6 @@ related_nodes:
     node_type: event
     slug: 2021-05-harry-reid-new-yorker-interview-on-alleged-retrieved-materials
     shared_claims: 2
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
-    shared_claims: 2
   - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
     title: Christopher K. Mellon
     node_type: person
@@ -175,6 +180,11 @@ related_nodes:
     node_type: person
     slug: joe-biden
     shared_claims: 2
+  - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
+    title: John Glenn
+    node_type: person
+    slug: john-glenn
+    shared_claims: 2
 claims:
   - claim_id: 5f5fac46-542d-455f-81e8-65dd77fa2e77
     claim_hash: 07f5fe449f95ea2d63f57f028e1764f31e28bb453658949c252d349debd46dab
@@ -193,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -233,6 +248,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -270,6 +290,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -308,6 +333,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -351,6 +381,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -392,6 +427,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
         title: National Institute for Discovery Science
@@ -428,6 +468,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -471,6 +516,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -508,6 +558,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -546,6 +601,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -561,7 +621,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -587,6 +647,11 @@ claims:
         - Reid letter to William Lynn III (2009)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 425931cd-7778-4ce3-ab74-a0a2ef87ab52
         title: Reid letter to William Lynn III (2009)
@@ -608,7 +673,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -627,6 +692,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -645,7 +715,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -667,6 +737,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -682,7 +757,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -703,6 +778,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -718,7 +798,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -738,6 +818,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -756,7 +841,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -774,6 +859,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -786,7 +876,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -807,6 +897,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -825,7 +920,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -843,6 +938,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -858,7 +958,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -881,6 +981,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -896,7 +1001,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -916,6 +1021,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.636
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -931,7 +1041,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -954,6 +1064,11 @@ claims:
         - an interview with Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -975,7 +1090,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -997,6 +1112,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -1015,7 +1135,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1035,6 +1155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -1053,7 +1178,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1077,6 +1202,11 @@ claims:
         - conversation with Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
         title: John Glenn
@@ -1092,7 +1222,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1115,6 +1245,11 @@ claims:
         - conversation with Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7b3289bf-14ae-447d-87f5-556079d96bf0
         title: John Glenn
@@ -1130,7 +1265,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1152,6 +1287,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -1164,7 +1304,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1185,6 +1325,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -1203,7 +1348,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1224,6 +1369,11 @@ claims:
         - recollection of Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1239,7 +1389,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1262,6 +1412,11 @@ claims:
         - recollection of Harry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -1277,7 +1432,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1299,6 +1454,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -1323,13 +1483,13 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
       friendly_name: 2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f
   - claim_id: ffc1ca24-455d-48b5-93d0-3d5f18227e1c
-    claim_hash: 0bc7582445d2fe054a5c5e15a120b6f7596715dd46dfe6f37c4feb9e48e1701d
+    claim_hash: b90494cf88765dc015fb804a6d7af790fbd8fcd4816fbd842de5ab625a1230bc
     content: Harry Reid said 'This was so-called black money. Stevens knows about it, Inouye knows about it. But that was
       it, and that's how we wanted it,' referring to the Pentagon budget for classified programs.
     original_excerpt: “This was so-called black money,” he said. “Stevens knows about it, Inouye knows about it. But that
@@ -1345,6 +1505,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -1366,7 +1531,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: 363bf706-cb4a-47f2-97b9-26c54926af2b
-      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program (Published 2017)'
+      record_title: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
       record_date: '2017-12-16'
       record_reference: https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html
       content_hash: sha256:04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb640bd12c81
@@ -1387,6 +1552,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1413,7 +1583,7 @@ claims:
     provenance:
       record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
       record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
-        Changes Nothing - The Black Vault
+        Changes Nothing
       record_date: '2019-06-14'
       record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
       content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
@@ -1434,6 +1604,11 @@ claims:
         - Susan Gough, Pentagon spokesperson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.506
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
         title: Susan Gough
@@ -1457,7 +1632,7 @@ claims:
     provenance:
       record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
       record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
-        Changes Nothing - The Black Vault
+        Changes Nothing
       record_date: '2019-06-14'
       record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
       content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
@@ -1479,6 +1654,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
         title: Susan Gough
@@ -1501,7 +1681,7 @@ claims:
     provenance:
       record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
       record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
-        Changes Nothing - The Black Vault
+        Changes Nothing
       record_date: '2019-06-14'
       record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
       content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
@@ -1522,6 +1702,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -1558,6 +1743,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.811
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -1578,6 +1768,49 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: cfe47eb0-03db-43be-b6f5-52926463edcc
+    claim_hash: 9d655be01f7e55dae7675e7f2207c4eb32c3ee66c02b239cb183efa8e03575ee
+    content: The Advanced Aerospace Threat Identification Program (AATIP) was part of a $22 million programme sponsored by
+      then-Senate Majority Leader Harry Reid to investigate UFOs.
+    original_excerpt: AATIP was part of a $22 million program sponsored by then Senate Majority Leader Harry Reid to investigate
+      UFOs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: a9438ed9-456e-46b1-b314-e15a27416615
+        title: United States Senate
+        slug: united-states-senate
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: 00:01:52.4-00:02:00.4
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
+      record_title: Navy pilots describe encounters with UFOs
+      record_date: '2021-05-17'
+      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
+      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
+      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
   - claim_id: b7ffd06c-0c41-43f5-90d0-2fa0ef792444
     claim_hash: ae4ce95aa7294e7e69522a998c1a1c6724c8d54d27a273a0f88772c0204a6abe
     content: Harry Reid served as a US Senator from 1987 to 2017.
@@ -1591,6 +1824,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -1604,7 +1842,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1622,6 +1860,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 72c7cc12-fa5f-4700-aa47-b0df6c7a0083
         title: Democratic Party
@@ -1638,7 +1881,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1660,6 +1903,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -1682,7 +1930,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1700,6 +1948,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -1716,7 +1969,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1736,6 +1989,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
         title: Waived Unacknowledged Special Access Programs (WUSAPs)
@@ -1755,7 +2013,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1775,6 +2033,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -1797,7 +2060,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1819,6 +2082,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2acf9e48-b5a4-4446-9c65-243bee7eeb6b
         title: 2009 Harry Reid letter requesting Special Access Program status for Advanced Aerospace Threat Identification
@@ -1836,7 +2104,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1855,6 +2123,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2acf9e48-b5a4-4446-9c65-243bee7eeb6b
         title: 2009 Harry Reid letter requesting Special Access Program status for Advanced Aerospace Threat Identification
@@ -1875,7 +2148,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1892,6 +2165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1908,7 +2186,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1931,6 +2209,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2acf9e48-b5a4-4446-9c65-243bee7eeb6b
         title: 2009 Harry Reid letter requesting Special Access Program status for Advanced Aerospace Threat Identification
@@ -1948,7 +2231,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1968,6 +2251,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.56
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -1984,7 +2272,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2003,6 +2291,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2acf9e48-b5a4-4446-9c65-243bee7eeb6b
         title: 2009 Harry Reid letter requesting Special Access Program status for Advanced Aerospace Threat Identification
@@ -2020,7 +2313,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2039,6 +2332,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -2058,7 +2356,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2081,6 +2379,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.626
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -2103,7 +2406,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2124,6 +2427,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -2137,7 +2445,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2155,6 +2463,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.716
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -2174,7 +2487,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2196,6 +2509,11 @@ claims:
         - Gideon Lewis-Kraus interview for The New Yorker
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 04dad72d-ceb6-48e8-8eca-2ac4f1793769
         title: The New Yorker
@@ -2221,7 +2539,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2243,6 +2561,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: adec06c4-e59e-410f-a766-bd9beebe1c58
         title: United States Pentagon
@@ -2262,7 +2585,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2282,6 +2605,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 04dad72d-ceb6-48e8-8eca-2ac4f1793769
         title: The New Yorker
@@ -2301,7 +2629,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2322,6 +2650,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -2344,7 +2677,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2362,6 +2695,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -2381,7 +2719,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2403,6 +2741,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -2425,7 +2768,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2446,6 +2789,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2465,7 +2813,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2485,6 +2833,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -2501,7 +2854,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2522,6 +2875,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2544,7 +2902,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2563,6 +2921,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2585,7 +2948,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2606,6 +2969,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2622,7 +2990,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2643,6 +3011,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2659,7 +3032,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2678,6 +3051,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
         title: Ted Stevens
@@ -2694,7 +3072,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2714,6 +3092,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2733,7 +3116,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2754,6 +3137,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.837
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -2773,7 +3161,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2796,6 +3184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2818,7 +3211,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2836,6 +3229,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -2852,7 +3250,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2876,6 +3274,11 @@ claims:
         - Tim McMillan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2901,7 +3304,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2918,6 +3321,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -2931,7 +3339,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2951,6 +3359,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -2976,7 +3389,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2993,6 +3406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.506
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -3012,7 +3430,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -3033,6 +3451,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
         title: Special Access Program (SAP)
@@ -3055,7 +3478,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -3077,6 +3500,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -3099,894 +3527,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: cfe47eb0-03db-43be-b6f5-52926463edcc
-    claim_hash: 9d655be01f7e55dae7675e7f2207c4eb32c3ee66c02b239cb183efa8e03575ee
-    content: The Advanced Aerospace Threat Identification Program (AATIP) was part of a $22 million programme sponsored by
-      then-Senate Majority Leader Harry Reid to investigate UFOs.
-    original_excerpt: AATIP was part of a $22 million program sponsored by then Senate Majority Leader Harry Reid to investigate
-      UFOs.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: a9438ed9-456e-46b1-b314-e15a27416615
-        title: United States Senate
-        slug: united-states-senate
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: 00:01:52.4-00:02:00.4
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 74e56e91-75be-4226-8f66-32d8cadbad6e
-      record_title: Navy pilots describe encounters with UFOs
-      record_date: '2021-05-17'
-      record_reference: https://www.youtube.com/watch?v=ZBtMbBPzqHY
-      content_hash: sha256:83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14144b2c28
-      friendly_name: 2021-05-17-video-navy-pilots-describe-encounters-with-ufos.v2
-  - claim_id: 48ab67bf-2318-4db8-b4f3-6a8adcd0b356
-    claim_hash: 49578a1930f171e060fcbcdc2545576832c1118945d712b5c22f32d92e256fcb
-    content: Harry Reid counted Robert Bigelow among his friends.
-    original_excerpt: Senator Harry Reid counted Bob among his friends
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
-        title: Robert Bigelow
-        slug: robert-bigelow
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch10:1521-1562
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 40e836fc-fd4c-40db-b17b-c5bcc5a7bf8d
-    claim_hash: be3b214165844b3e3a41babc4cb451b8e5610649d0603378cfb905cd786578f0
-    content: Harry Reid thought he could secure a fresh infusion of funding to sustain the UAP investigations from 2013 to
-      2014.
-    original_excerpt: Reid thought he could come up with another fresh infusion of funding to tide our investigations over
-      until 2013–14.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: named
-      origin: Harry Reid
-      relay:
-        - relayed by Lue Elizondo
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch16:19405-19517
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
-    claim_hash: 96f7b97595c3bbb0af2fa64841e879d7316b447a65ac01aa8e1410c5444e6a52
-    content: Jay Stratton secured $10 million in new funding for the Advanced Aerospace Threat Identification Program (AATIP)
-      from Harry Reid.
-    original_excerpt: Jay ran point on pulling off miracle after miracle and succeeded in getting Senator Reid to give us
-      new funding—$10 million!
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch16:23014-23130
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c3d545ed-d96e-4bf7-a8d0-c07ad41bf887
-    claim_hash: 667ddfba760fc8a46e8d8afc8ae6b48fc8288554779a5ae680284dbe594b9760
-    content: Harry Reid and fellow senators who supported funding the Advanced Aerospace Weapons System Application Program
-      (AAWSAP) and Advanced Aerospace Threat Identification Program (AATIP) favoured applying science and intellect to the
-      UAP problem.
-    original_excerpt: Harry Reid and his cohort of fellow senators who had supported funding AAWSAP/AATIP appreciated the
-      concept of applying science and intellect to the UAP problem—a completely secular view that I heartily embraced.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-        slug: advanced-aerospace-weapon-system-applications-program-aawsap
-    date: null
-    date_end: null
-    location_in_record: ch16:2619-2822
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
-    claim_hash: b85bb916593149c61c791541b8ae9f1a732d71ba014d1b8a852192c8d97a787d
-    content: Garry Reid replaced Michael Higgins and was brought to the Office of the Undersecretary of Defense for Intelligence
-      (OUSD(I)) from the special operations community; he is not related to Senator Harry Reid.
-    original_excerpt: His replacement was a man whom I did not trust named Garry Reid (no relation to our congressional benefactor,
-      Senator Harry Reid). He had been brought to the OUSD(I) from the special operations community.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
-        title: Garry Reid
-        slug: garry-reid
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: ch23:10702-10923
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b6c1a883-c5d2-49ff-9b4d-153686de89b7
-    claim_hash: c3f5a64d6315b0bf12dd7ae2a9851ddb6cbc53dab06ceb3dee01a7c82ad42e9c
-    content: Harry Reid publicly corroborated his and his colleagues' involvement in funding the original programme that led
-      to the Advanced Aerospace Threat Identification Program (AATIP) and Luis Elizondo's leadership role.
-    original_excerpt: retired senator Harry Reid, who had unabashedly corroborated his and his colleagues' involvement in
-      funding the original program that led to AATIP and my leadership role.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-      title: Harry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Harry Reid
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch29:19979-20144
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 7edd6cb2-7407-44f9-a006-4b743fc53086
-    claim_hash: a596e7e7fedac305484d83a81a5fcd07ecaa1451fb35a54cb366597d69919fb6
-    content: Harry Reid was an ally and champion of Lue Elizondo at the Advanced Aerospace Threat Identification Program (AATIP),
-      and stood up for Elizondo in the painful months after his resignation when the Department of Defense (DoD) was trying
-      to erase and smear him.
-    original_excerpt: Former senator Harry Reid—who was our ally and champion at AATIP, who stood up for me in the painful
-      months after my resignation when DoD was trying to erase and smear me
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch31:31976-32171
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 6723f6c6-3f36-4ada-872c-c5dc5610b23e
-    claim_hash: 4597f967c419650b5833c365e45bfddf013622123495bc6890446cb27d895dbd
-    content: Harry Reid was in the final days of a three-year battle with pancreatic cancer while continuing to support the
-      Unidentified Aerial Phenomena (UAP) legislative effort.
-    original_excerpt: he was in the final days of a three-year battle with pancreatic cancer
-    claim_type: administrative
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch31:32392-32456
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 03210439-c771-4c25-93c1-1e884b20ae4b
-    claim_hash: 3316898bd5b3be19c7b3ad60d005758bd482ddf02a72c91e656baee0010859f6
-    content: Harry Reid said he would keep fighting his cancer until President Joe Biden signed the Unidentified Aerial Phenomena
-      (UAP) legislation into law.
-    original_excerpt: Senator Reid said he would keep fighting his cancer until Biden signed the act.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: named
-      origin: Harry Reid
-      relay:
-        - Lue Elizondo
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch31:32656-32731
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: e9e8a006-16b4-4b18-8952-49bd803b82f7
-    claim_hash: 5ab584ed8d4700715e5082789410c617969257fc0746a26c49873b60d9e36d58
-    content: Harry Reid's wife Landra Reid and his assistant Katie provided support to Reid during his final illness.
-    original_excerpt: His wife, Landra, and loyal assistant, Katie, were angels of mercy during this time.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-      - node_id: d78111bc-d2fd-47da-80b8-63efa8bfe148
-        title: Landra Reid
-        slug: landra-reid
-      - node_id: f07d0546-6040-41b7-a9e5-5f9ee9273571
-        title: Katie (Harry Reid's assistant)
-        slug: katie-harry-reids-assistant
-    date: null
-    date_end: null
-    location_in_record: ch31:32833-32912
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 23aa726d-9813-4ce5-8390-9c6501a8fc9c
-    claim_hash: 1db615ac5d31d714d88e47f3e9166a5df5755c5a7c870b782421625c9a1860e6
-    content: Harry Reid died peacefully in his sleep the day after President Joe Biden signed the Unidentified Aerial Phenomena
-      (UAP) legislation into law in 2021-12.
-    original_excerpt: A day later, my old friend Harry Reid died peacefully in his sleep.
-    claim_type: administrative
-    attestation: first_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
-        title: Joe Biden
-        slug: joe-biden
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: '2021-12-28'
-    date_end: null
-    location_in_record: ch31:33049-33110
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 22331738-385b-4a4e-be29-8f9176b22e91
-    claim_hash: 28d7c2ae47c30c9f4d09f6dc0ad091b5700f010b2bde4b99a84d613a247f8f73
-    content: Harry Reid was a longtime benefactor of Luis Elizondo and Christopher Mellon's UAP advocacy efforts.
-    original_excerpt: such as our longtime benefactor, Senator Harry Reid
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch31:508-555
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
-    claim_hash: 64c1c605376d61fb9789c6ab7cc6365c1b746eac6c9044fdf5e0c360252b21af
-    content: Chuck Schumer described Harry Reid as his mentor and dear friend and said he was honoured to carry on Reid's
-      legacy fighting for transparency about unexplained phenomena.
-    original_excerpt: I am honored to carry on the legacy of my mentor and dear friend, Harry Reid, and fight for the transparency
-      that the public has long demanded surround these unexplained phenomena.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-      title: Chuck Schumer
-    provenance_chain:
-      origin_kind: speaker
-      origin: Chuck Schumer
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
-        title: Chuck Schumer
-        slug: chuck-schumer
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch32:5954-6124
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 513ced41-0d0f-4529-ac8e-d4c2b45bc7dd
-    claim_hash: d1607ffe103720e367afba738fd78fad1b0ced188fc9ec0b31cdc1f2694d9831
-    content: Former Senate Majority Leader and Advanced Aerospace Threat Identification Program (AATIP) sponsor Harry Reid
-      wrote an official letter that countered later claims made by the Department of Defense (DoD) that Luis Elizondo had
-      no part in AATIP.
-    original_excerpt: Official letter from former Senate Majority Leader and AATIP sponsor Harry Reid. This letter counters
-      the later claims made by the Pentagon that I had no part in AATIP.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Luis Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
-        title: Luis D. Elizondo III (father)
-        slug: luis-d-elizondo-iii-father
-      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
-        title: Advanced Aerospace Threat Identification Program (AATIP)
-        slug: advanced-aerospace-threat-identification-program-aatip
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch35:2746-2908
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 49f2e5e1-fe42-4296-90f2-ca27732a412b
-    claim_hash: 658ccc626f95ce1ad3afc1a86c3ba0aef4fb1592699bb1d43dee6459bfea9af5
-    content: Harry Reid concluded, after looking into the matter, that there were reports the government and private sector
-      had actual physical materials in their possession.
-    original_excerpt: “After looking into this, I came to the conclusion that there were reports… that there were actual materials
-      that the government and the private sector had in their possession.” —Senator Harry Reid
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-      title: Harry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Harry Reid
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch35:5688-5852
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
-    claim_hash: 2e47d9113a5265ec77be195867d8b45def429e59a358a73a85fe754b42b1caab
-    content: Harry Reid considers it extremely important that information about the discovery of physical materials or retrieved
-      craft come out.
-    original_excerpt: It is extremely important that information about the discovery of physical materials or retrieved craft
-      come out.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-      title: Harry Reid
-    provenance_chain:
-      origin_kind: speaker
-      origin: Harry Reid
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch35:5864-5973
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 684f439e-a237-44b8-ba5f-e768d5495605
-    claim_hash: bacf0c8c1f93bf2d2fc861ac4f2a51c40d2ad790be08a91bcbfcd00de46231ae
-    content: US Senate Majority Leader Harry Reid earmarked $22 million in Department of Defense (DoD) funds in 2008 for a
-      UAP investigation conducted by an aerospace contractor.
-    original_excerpt: an investigation into the UAP issue that had been undertaken by an aerospace contractor using $22 million
-      in DoD funds earmarked for UAP analysis by Senate Majority Leader Harry Reid in 2008.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: '2008'
-    date_end: null
-    location_in_record: ch6:18285-18471
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b851bccb-584f-4286-8c21-41872b60a41a
-    claim_hash: 0b9f320dba6b475288f0c0fcf69cc7f7590c628a425c00641cf15668987834cd
-    content: The United States Air Force and most components of the US intelligence community refused to support the AAWSAP
-      congressionally funded UAP investigation.
-    original_excerpt: despite being the result of a good-faith effort by the powerful Senate Majority Leader, the Honorable
-      Harry Reid, the US Air Force and most components of the US intelligence community refused to support this congressionally
-      funded UAP investigation.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-        slug: advanced-aerospace-weapon-system-applications-program-aawsap
-    date: null
-    date_end: null
-    location_in_record: ch6:18704-18939
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
-    claim_hash: 57fbc9eef02b54698dda958cc71a441827d12609f9ffbb1e929e3d1c1d7efb0a
-    content: The Advanced Aerospace Weapons System Applications Program was supported by then-Director of the Defense Intelligence
-      Agency Lieutenant General Michael D. Maples, and was funded through the efforts of Senator Harry Reid (Democrat, Nevada),
-      Senator Ted Stevens (Republican, Alaska), and Senator Daniel Inouye (Democrat, Hawaii).
-    original_excerpt: 'This time, Jim shared that the program enjoyed the support of the DIA''s then director, Lieutenant
-      General Michael D. Maples, and was funded through the efforts of a bipartisan group of senators: Senator Harry Reid
-      (D-NV), Senator Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
-      title: James Lacatski
-    provenance_chain:
-      origin_kind: speaker
-      origin: James Lacatski
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-        title: Defense Intelligence Agency (DIA)
-        slug: defense-intelligence-agency-dia
-      - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
-        title: Daniel K. Inouye
-        slug: daniel-k-inouye
-      - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
-        title: Ted Stevens
-        slug: ted-stevens
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-      - node_id: c95dc873-284b-438f-88d4-19bb5619fa48
-        title: Michael D. Maples
-        slug: michael-d-maples
-      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
-        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
-        slug: advanced-aerospace-weapon-system-applications-program-aawsap
-    date: null
-    date_end: null
-    location_in_record: ch9:17304-17583
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 964884c7-32e6-4406-ae16-71b28f377f38
-    claim_hash: 4a55c3e17c475e38f32456ef6779b855de9e1678bb2935733e5f182405315f1e
-    content: Harry Reid worked as a United States Capitol Police Officer while putting himself through law school.
-    original_excerpt: Reid had grown up boxing and worked as a United States Capitol Police Officer while putting himself
-      through law school.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch9:18836-18948
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
-    claim_hash: d299bac12eb84a956c43a260ea325b24903ed3c4e958073936c5077ce937d03d
-    content: Harry Reid was the senator of the state (Nevada) that housed Area 51.
-    original_excerpt: He was also the senator of the state that housed Area 51, and that came with insider knowledge that
-      piqued his curiosity.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
-        title: USA, Nevada, Area 51
-        slug: nevada-area-51-usa
-    date: null
-    date_end: null
-    location_in_record: ch9:18956-19067
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
-    claim_hash: 47322405d9df0dd055de865c065c5092d8e1c51afc85d6ad7d45b8e4663234cf
-    content: Harry Reid, Ted Stevens, and Daniel Inouye together controlled congressional spending for black-budget Pentagon
-      programs.
-    original_excerpt: Together, these three men controlled congressional spending for black-budget Pentagon programs.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
-        title: Daniel K. Inouye
-        slug: daniel-k-inouye
-      - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
-        title: Ted Stevens
-        slug: ted-stevens
-      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
-        title: USA, Washington DC, Pentagon
-        slug: washington-dc-pentagon-usa
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch9:19229-19315
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: df8f0498-68a6-4b12-80ba-fe09640675dd
     claim_hash: 0e693cc3953bb327c9ac2d33bdd33eb4258e1d97e6a642ad0864b2422daea5d9
     content: Senators Joseph Lieberman and Harry Reid asked that the KONA BLUE Prospective Special Access Program be established
@@ -4003,6 +3547,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -4021,7 +3570,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e666ef12-6a1a-4108-8812-ff20fd4c843f
@@ -4041,6 +3590,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 021d19cd-73bf-4893-8675-c75838505e22
         title: Defense Appropriations Acts of Fiscal Years 2008 and 2010
@@ -4062,7 +3616,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: d09a9f0a-7fa6-4a08-bc55-006212fcaca8
@@ -4080,6 +3634,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.825
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4234dc48-0fc5-4406-9496-14d58061e591
         title: Senator Harry Reid Letter to Deputy Secretary of Defense William Lynn III
@@ -4110,9 +3669,965 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 48ab67bf-2318-4db8-b4f3-6a8adcd0b356
+    claim_hash: 49578a1930f171e060fcbcdc2545576832c1118945d712b5c22f32d92e256fcb
+    content: Harry Reid counted Robert Bigelow among his friends.
+    original_excerpt: Senator Harry Reid counted Bob among his friends
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.736
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
+        title: Robert Bigelow
+        slug: robert-bigelow
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch10:1521-1562
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 40e836fc-fd4c-40db-b17b-c5bcc5a7bf8d
+    claim_hash: be3b214165844b3e3a41babc4cb451b8e5610649d0603378cfb905cd786578f0
+    content: Harry Reid thought he could secure a fresh infusion of funding to sustain the UAP investigations from 2013 to
+      2014.
+    original_excerpt: Reid thought he could come up with another fresh infusion of funding to tide our investigations over
+      until 2013–14.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Reid
+      relay:
+        - relayed by Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch16:19405-19517
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: cceef955-98ca-478d-b989-cd1bcd142a4a
+    claim_hash: 96f7b97595c3bbb0af2fa64841e879d7316b447a65ac01aa8e1410c5444e6a52
+    content: Jay Stratton secured $10 million in new funding for the Advanced Aerospace Threat Identification Program (AATIP)
+      from Harry Reid.
+    original_excerpt: Jay ran point on pulling off miracle after miracle and succeeded in getting Senator Reid to give us
+      new funding—$10 million!
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch16:23014-23130
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c3d545ed-d96e-4bf7-a8d0-c07ad41bf887
+    claim_hash: 667ddfba760fc8a46e8d8afc8ae6b48fc8288554779a5ae680284dbe594b9760
+    content: Harry Reid and fellow senators who supported funding the Advanced Aerospace Weapons System Application Program
+      (AAWSAP) and Advanced Aerospace Threat Identification Program (AATIP) favoured applying science and intellect to the
+      UAP problem.
+    original_excerpt: Harry Reid and his cohort of fellow senators who had supported funding AAWSAP/AATIP appreciated the
+      concept of applying science and intellect to the UAP problem—a completely secular view that I heartily embraced.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch16:2619-2822
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
+    claim_hash: b85bb916593149c61c791541b8ae9f1a732d71ba014d1b8a852192c8d97a787d
+    content: Garry Reid replaced Michael Higgins and was brought to the Office of the Undersecretary of Defense for Intelligence
+      (OUSD(I)) from the special operations community; he is not related to Senator Harry Reid.
+    original_excerpt: His replacement was a man whom I did not trust named Garry Reid (no relation to our congressional benefactor,
+      Senator Harry Reid). He had been brought to the OUSD(I) from the special operations community.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+        title: Garry Reid
+        slug: garry-reid
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch23:10702-10923
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b6c1a883-c5d2-49ff-9b4d-153686de89b7
+    claim_hash: c3f5a64d6315b0bf12dd7ae2a9851ddb6cbc53dab06ceb3dee01a7c82ad42e9c
+    content: Harry Reid publicly corroborated his and his colleagues' involvement in funding the original programme that led
+      to the Advanced Aerospace Threat Identification Program (AATIP) and Luis Elizondo's leadership role.
+    original_excerpt: retired senator Harry Reid, who had unabashedly corroborated his and his colleagues' involvement in
+      funding the original program that led to AATIP and my leadership role.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harry Reid
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.611
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch29:19979-20144
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 7edd6cb2-7407-44f9-a006-4b743fc53086
+    claim_hash: a596e7e7fedac305484d83a81a5fcd07ecaa1451fb35a54cb366597d69919fb6
+    content: Harry Reid was an ally and champion of Lue Elizondo at the Advanced Aerospace Threat Identification Program (AATIP),
+      and stood up for Elizondo in the painful months after his resignation when the Department of Defense (DoD) was trying
+      to erase and smear him.
+    original_excerpt: Former senator Harry Reid—who was our ally and champion at AATIP, who stood up for me in the painful
+      months after my resignation when DoD was trying to erase and smear me
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch31:31976-32171
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6723f6c6-3f36-4ada-872c-c5dc5610b23e
+    claim_hash: 4597f967c419650b5833c365e45bfddf013622123495bc6890446cb27d895dbd
+    content: Harry Reid was in the final days of a three-year battle with pancreatic cancer while continuing to support the
+      Unidentified Aerial Phenomena (UAP) legislative effort.
+    original_excerpt: he was in the final days of a three-year battle with pancreatic cancer
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch31:32392-32456
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 03210439-c771-4c25-93c1-1e884b20ae4b
+    claim_hash: 3316898bd5b3be19c7b3ad60d005758bd482ddf02a72c91e656baee0010859f6
+    content: Harry Reid said he would keep fighting his cancer until President Joe Biden signed the Unidentified Aerial Phenomena
+      (UAP) legislation into law.
+    original_excerpt: Senator Reid said he would keep fighting his cancer until Biden signed the act.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: named
+      origin: Harry Reid
+      relay:
+        - Lue Elizondo
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch31:32656-32731
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: e9e8a006-16b4-4b18-8952-49bd803b82f7
+    claim_hash: 5ab584ed8d4700715e5082789410c617969257fc0746a26c49873b60d9e36d58
+    content: Harry Reid's wife Landra Reid and his assistant Katie provided support to Reid during his final illness.
+    original_excerpt: His wife, Landra, and loyal assistant, Katie, were angels of mercy during this time.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: d78111bc-d2fd-47da-80b8-63efa8bfe148
+        title: Landra Reid
+        slug: landra-reid
+      - node_id: f07d0546-6040-41b7-a9e5-5f9ee9273571
+        title: Katie (Harry Reid's assistant)
+        slug: katie-harry-reids-assistant
+    date: null
+    date_end: null
+    location_in_record: ch31:32833-32912
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 23aa726d-9813-4ce5-8390-9c6501a8fc9c
+    claim_hash: 1db615ac5d31d714d88e47f3e9166a5df5755c5a7c870b782421625c9a1860e6
+    content: Harry Reid died peacefully in his sleep the day after President Joe Biden signed the Unidentified Aerial Phenomena
+      (UAP) legislation into law in 2021-12.
+    original_excerpt: A day later, my old friend Harry Reid died peacefully in his sleep.
+    claim_type: administrative
+    attestation: first_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.6
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+        title: Joe Biden
+        slug: joe-biden
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2021-12-28'
+    date_end: null
+    location_in_record: ch31:33049-33110
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 22331738-385b-4a4e-be29-8f9176b22e91
+    claim_hash: 28d7c2ae47c30c9f4d09f6dc0ad091b5700f010b2bde4b99a84d613a247f8f73
+    content: Harry Reid was a longtime benefactor of Luis Elizondo and Christopher Mellon's UAP advocacy efforts.
+    original_excerpt: such as our longtime benefactor, Senator Harry Reid
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch31:508-555
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 1c07fcf5-6afa-46d5-950f-a7f8c1957f8e
+    claim_hash: 64c1c605376d61fb9789c6ab7cc6365c1b746eac6c9044fdf5e0c360252b21af
+    content: Chuck Schumer described Harry Reid as his mentor and dear friend and said he was honoured to carry on Reid's
+      legacy fighting for transparency about unexplained phenomena.
+    original_excerpt: I am honored to carry on the legacy of my mentor and dear friend, Harry Reid, and fight for the transparency
+      that the public has long demanded surround these unexplained phenomena.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      title: Chuck Schumer
+    provenance_chain:
+      origin_kind: speaker
+      origin: Chuck Schumer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+        title: Chuck Schumer
+        slug: chuck-schumer
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch32:5954-6124
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 513ced41-0d0f-4529-ac8e-d4c2b45bc7dd
+    claim_hash: d1607ffe103720e367afba738fd78fad1b0ced188fc9ec0b31cdc1f2694d9831
+    content: Former Senate Majority Leader and Advanced Aerospace Threat Identification Program (AATIP) sponsor Harry Reid
+      wrote an official letter that countered later claims made by the Department of Defense (DoD) that Luis Elizondo had
+      no part in AATIP.
+    original_excerpt: Official letter from former Senate Majority Leader and AATIP sponsor Harry Reid. This letter counters
+      the later claims made by the Pentagon that I had no part in AATIP.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Luis Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 2f2a8882-079b-429e-9aaf-37d1fdc53cee
+        title: Luis D. Elizondo III (father)
+        slug: luis-d-elizondo-iii-father
+      - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+        title: Advanced Aerospace Threat Identification Program (AATIP)
+        slug: advanced-aerospace-threat-identification-program-aatip
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch35:2746-2908
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 49f2e5e1-fe42-4296-90f2-ca27732a412b
+    claim_hash: 658ccc626f95ce1ad3afc1a86c3ba0aef4fb1592699bb1d43dee6459bfea9af5
+    content: Harry Reid concluded, after looking into the matter, that there were reports the government and private sector
+      had actual physical materials in their possession.
+    original_excerpt: “After looking into this, I came to the conclusion that there were reports… that there were actual materials
+      that the government and the private sector had in their possession.” —Senator Harry Reid
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harry Reid
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch35:5688-5852
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 95c6a7bb-f6b8-4fec-9452-5ff91ecd6598
+    claim_hash: 2e47d9113a5265ec77be195867d8b45def429e59a358a73a85fe754b42b1caab
+    content: Harry Reid considers it extremely important that information about the discovery of physical materials or retrieved
+      craft come out.
+    original_excerpt: It is extremely important that information about the discovery of physical materials or retrieved craft
+      come out.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      title: Harry Reid
+    provenance_chain:
+      origin_kind: speaker
+      origin: Harry Reid
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch35:5864-5973
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 684f439e-a237-44b8-ba5f-e768d5495605
+    claim_hash: bacf0c8c1f93bf2d2fc861ac4f2a51c40d2ad790be08a91bcbfcd00de46231ae
+    content: US Senate Majority Leader Harry Reid earmarked $22 million in Department of Defense (DoD) funds in 2008 for a
+      UAP investigation conducted by an aerospace contractor.
+    original_excerpt: an investigation into the UAP issue that had been undertaken by an aerospace contractor using $22 million
+      in DoD funds earmarked for UAP analysis by Senate Majority Leader Harry Reid in 2008.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: '2008'
+    date_end: null
+    location_in_record: ch6:18285-18471
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b851bccb-584f-4286-8c21-41872b60a41a
+    claim_hash: 0b9f320dba6b475288f0c0fcf69cc7f7590c628a425c00641cf15668987834cd
+    content: The United States Air Force and most components of the US intelligence community refused to support the AAWSAP
+      congressionally funded UAP investigation.
+    original_excerpt: despite being the result of a good-faith effort by the powerful Senate Majority Leader, the Honorable
+      Harry Reid, the US Air Force and most components of the US intelligence community refused to support this congressionally
+      funded UAP investigation.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.635
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch6:18704-18939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 48783ee1-cc4d-4530-89be-e763adf1c0ee
+    claim_hash: 57fbc9eef02b54698dda958cc71a441827d12609f9ffbb1e929e3d1c1d7efb0a
+    content: The Advanced Aerospace Weapons System Applications Program was supported by then-Director of the Defense Intelligence
+      Agency Lieutenant General Michael D. Maples, and was funded through the efforts of Senator Harry Reid (Democrat, Nevada),
+      Senator Ted Stevens (Republican, Alaska), and Senator Daniel Inouye (Democrat, Hawaii).
+    original_excerpt: 'This time, Jim shared that the program enjoyed the support of the DIA''s then director, Lieutenant
+      General Michael D. Maples, and was funded through the efforts of a bipartisan group of senators: Senator Harry Reid
+      (D-NV), Senator Ted Stevens (R-AK), and Senator Daniel Inouye (D-HI).'
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      title: James Lacatski
+    provenance_chain:
+      origin_kind: speaker
+      origin: James Lacatski
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+        title: Defense Intelligence Agency (DIA)
+        slug: defense-intelligence-agency-dia
+      - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+        title: Daniel K. Inouye
+        slug: daniel-k-inouye
+      - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+        title: Ted Stevens
+        slug: ted-stevens
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: c95dc873-284b-438f-88d4-19bb5619fa48
+        title: Michael D. Maples
+        slug: michael-d-maples
+      - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
+        title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
+        slug: advanced-aerospace-weapon-system-applications-program-aawsap
+    date: null
+    date_end: null
+    location_in_record: ch9:17304-17583
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 964884c7-32e6-4406-ae16-71b28f377f38
+    claim_hash: 4a55c3e17c475e38f32456ef6779b855de9e1678bb2935733e5f182405315f1e
+    content: Harry Reid worked as a United States Capitol Police Officer while putting himself through law school.
+    original_excerpt: Reid had grown up boxing and worked as a United States Capitol Police Officer while putting himself
+      through law school.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch9:18836-18948
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 51a26607-4e81-4844-ac34-1800c58ac7df
+    claim_hash: d299bac12eb84a956c43a260ea325b24903ed3c4e958073936c5077ce937d03d
+    content: Harry Reid was the senator of the state (Nevada) that housed Area 51.
+    original_excerpt: He was also the senator of the state that housed Area 51, and that came with insider knowledge that
+      piqued his curiosity.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.463
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch9:18956-19067
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: d44a9df7-70f5-4eac-82a1-fa325abf1e50
+    claim_hash: 47322405d9df0dd055de865c065c5092d8e1c51afc85d6ad7d45b8e4663234cf
+    content: Harry Reid, Ted Stevens, and Daniel Inouye together controlled congressional spending for black-budget Pentagon
+      programs.
+    original_excerpt: Together, these three men controlled congressional spending for black-budget Pentagon programs.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+        title: Daniel K. Inouye
+        slug: daniel-k-inouye
+      - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+        title: Ted Stevens
+        slug: ted-stevens
+      - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+        title: USA, Washington DC, Pentagon
+        slug: washington-dc-pentagon-usa
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch9:19229-19315
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 4eb4f686-e894-4c87-8588-7d13dd868385
     claim_hash: 7dd54fdefa7b833cd6cede20a9c044449fdf43000d0de18998e616427e7dee39
     content: United States Senator Harry Reid, then Senate Majority Leader, set up further funding intended to go forward
@@ -4130,6 +4645,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -4166,6 +4686,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -4203,6 +4728,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -4240,6 +4770,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -4283,13 +4818,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
         slug: harry-reid
@@ -4323,13 +4863,18 @@ claims:
         - Robert Bigelow
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
         slug: harry-reid
@@ -4361,6 +4906,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
         title: National Institute for Discovery Science
@@ -4396,6 +4946,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -4439,6 +4994,11 @@ claims:
         - George Knapp
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.908
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -4479,6 +5039,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -4522,6 +5087,11 @@ claims:
         - Robert Bigelow
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
         title: Daniel K. Inouye
@@ -4564,6 +5134,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -4601,6 +5176,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -4645,6 +5225,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29054aa0-0c36-4c06-82c4-0a3112b163d6
         title: Skinwalkers at the Pentagon Book
@@ -4688,6 +5273,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -4736,6 +5326,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.575
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29054aa0-0c36-4c06-82c4-0a3112b163d6
         title: Skinwalkers at the Pentagon Book
@@ -4783,6 +5378,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29054aa0-0c36-4c06-82c4-0a3112b163d6
         title: Skinwalkers at the Pentagon Book
@@ -4823,6 +5423,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29054aa0-0c36-4c06-82c4-0a3112b163d6
         title: Skinwalkers at the Pentagon Book
@@ -4865,6 +5470,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29054aa0-0c36-4c06-82c4-0a3112b163d6
         title: Skinwalkers at the Pentagon Book
@@ -4908,6 +5518,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -4943,6 +5558,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.87
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -4978,6 +5598,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -5015,6 +5640,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid
@@ -5056,6 +5686,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -5101,6 +5736,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.765
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
         title: Harry Reid

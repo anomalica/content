@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 656d100136ee214c4dfca9fcd93306e13eeb7e2a6c15ddbf07d0532e6536b23c
+brief_hash: d71204e48e2f0fab47c9bae7e731861f829f4b27ce4973c3ae77cf2bd05080e9
 page:
   kind: entity
   node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
@@ -9,11 +9,21 @@ page:
   claim_count: 29
   claim_count_total: 29
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 29
   tokens_estimated: 4295
   sized_against: 1050000
+entailment:
+  assessed: 29
+  unassessed: 0
+  entails: 25
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 9
+  entailed_by_window: 16
+  entailed_by_quote_fraction: 0.31
+  entailed_by_window_fraction: 0.552
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -37,7 +47,7 @@ related_nodes:
     title: Unidentified Aerial Phenomena Task Force (UAPTF)
     node_type: project
     slug: unidentified-aerial-phenomena-task-force-uaptf
-    shared_claims: 5
+    shared_claims: 4
   - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
     title: United States Navy (USN)
     node_type: organisation
@@ -174,171 +184,6 @@ related_nodes:
     slug: navy-n2
     shared_claims: 1
 claims:
-  - claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
-    claim_hash: 163f0ece0afb7ab54fc10c21fc43b6c8679adb4e0f6a161e09726328e3f5b269
-    content: The leaked US National Reconnaissance Office document was a July 1991 security advisory, listing a series of
-      codenames and command locations in and around Nellis Air Force Base in the Nevada desert, which includes the Area 51
-      sites known as Groom Lake and Dreamland.
-    original_excerpt: It was a July 1991 security advisory, listing a series of codenames and command locations in and around
-      the massive Nellis Air Force Base in the Nevada desert, which includes within its boundaries the notorious super-secret
-      Area 51 sites known as Groom Lake and Dreamland.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 1991 Nellis Air Force Base security lockdown
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
-        title: 1991 Nellis Air Force Base security lockdown
-        slug: 1991-nellis-air-force-base-security-lockdown
-      - node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
-        title: USA, Nevada, Nellis Air Force Base
-        slug: nevada-nellis-air-force-base-usa
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
-        title: USA, Nevada, Dreamland
-        slug: nevada-dreamland-usa
-      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
-        title: USA, Nevada, Groom Lake
-        slug: nevada-groom-lake-usa
-      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
-        title: USA, Nevada, Area 51
-        slug: nevada-area-51-usa
-    date: 1991-07
-    date_end: null
-    location_in_record: ch14:10221-10483
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
-    claim_hash: 5d029b67bb7fedc36e21ab7788a8b1e660427e4e308388ed552decf844239e92
-    content: In advance of their April 1997 Pentagon visit, Steven Greer sent Admiral Thomas Wilson's staff a leaked US National
-      Reconnaissance Office document detailing a series of authentic codenames for highly top-secret Special Access Programs
-      (SAPs).
-    original_excerpt: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked US National Reconnaissance
-      Office document that detailed a series of what turned out to be authentic codenames for highly top-secret so-called
-      Special Access Programs (SAPs).
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
-        title: Special Access Program (SAP)
-        slug: special-access-program-sap
-      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
-        title: Thomas Wilson
-        slug: thomas-wilson
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
-        title: Steven Greer
-        slug: steven-greer
-    date: 1997-04
-    date_end: null
-    location_in_record: ch14:9972-10214
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: f8656c3d-eddb-4951-83db-a9ae60824879
-    claim_hash: de9cad8a78d7b38ddcef505daa0eafd253883bc04d7bad30bd1efbbb9435a938
-    content: Tom DeLonge claimed US National Reconnaissance Office surveillance satellites were seeing UAP objects coming
-      in and out of the atmosphere all the time, and that he had seen the evidence.
-    original_excerpt: US National Reconnaissance Office (NRO) surveillance satellites, he claimed, were seeing these UAP objects
-      coming in and out of the atmosphere all the time, and he had seen the evidence.
-    claim_type: hearsay
-    attestation: first_hand
-    speaker:
-      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-      title: Tom DeLonge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Tom DeLonge
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-        title: Tom DeLonge
-        slug: tom-delonge
-    date: null
-    date_end: null
-    location_in_record: ch19:11732-11909
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
-    claim_hash: fffdbdab569ff4796aa1fb1d014bc97ee7d06d8fa06098358a4504f2d831e5e0
-    content: Tom DeLonge said one of his advisers was from the National Reconnaissance Office, and that they used a term 'episodic
-      visits' to describe UAP events.
-    original_excerpt: ‘One of my advisers was from the NRO. High up. And they call it episodic visits. That’s all I know.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-      title: Tom DeLonge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Tom DeLonge
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-        title: Tom DeLonge
-        slug: tom-delonge
-    date: null
-    date_end: null
-    location_in_record: ch19:11920-12013
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 81d83ea0-cc7e-467e-a06d-022af4365189
     claim_hash: 106c586041783f0fe098e2e869f4ce7b54bf9cb948fceb31e923d194c97a5b7c
     content: David Charles Grusch is a veteran of the National Geospatial-Intelligence Agency (NGA) and the National Reconnaissance
@@ -354,6 +199,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.553
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -392,6 +242,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.87
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -430,6 +285,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
@@ -465,6 +325,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 455f39c7-853a-47e0-9e7e-1ad9b20be76c
         title: 2021 National Reconnaissance Office (NRO) Performance Report on David Charles Grusch
@@ -504,6 +369,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
         title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
@@ -530,7 +400,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: a5c7c13d-cbcc-489c-8ac7-60f1a353bde9
@@ -550,6 +420,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -573,7 +448,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 44f8cda8-03c9-4690-8a2d-88ce63c3c5d9
@@ -594,6 +469,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
@@ -611,182 +491,194 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-  - claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
-    claim_hash: 549d5196f72c3f8b1616a6ede1ebc4ec7241dcefba974231b53ff33a56af4d77
-    content: Jay Stratton handpicked members and representatives for the new UAP task force from all the intelligence agencies
-      and civilian-led agencies, including the Federal Bureau of Investigation (FBI), the National Reconnaissance Office (NRO),
-      the National Aeronautics and Space Administration (NASA), and the Federal Aviation Administration (FAA).
-    original_excerpt: So Jay started putting that together, handpicking his members/reps from all the intelligence agencies
-      and civilian-led agencies, from the FBI to the National Reconnaissance Office (NRO) to NASA to the Federal Aviation
-      Administration (FAA).
+  - claim_id: a7fa4ed4-0064-4a6d-911a-3df81f8c88d8
+    claim_hash: 163f0ece0afb7ab54fc10c21fc43b6c8679adb4e0f6a161e09726328e3f5b269
+    content: The leaked US National Reconnaissance Office document was a July 1991 security advisory, listing a series of
+      codenames and command locations in and around Nellis Air Force Base in the Nevada desert, which includes the Area 51
+      sites known as Groom Lake and Dreamland.
+    original_excerpt: It was a July 1991 security advisory, listing a series of codenames and command locations in and around
+      the massive Nellis Air Force Base in the Nevada desert, which includes within its boundaries the notorious super-secret
+      Area 51 sites known as Groom Lake and Dreamland.
     claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
+    attestation: second_hand
+    speaker: null
     provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
-        title: Jay Stratton
-        slug: jay-stratton
-      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
-        title: National Aeronautics and Space Administration (NASA)
-        slug: national-aeronautics-and-space-administration-nasa
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch31:4914-5148
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 76fea9ac-386b-4308-bfb2-0b1cdf691322
-    claim_hash: bd02a3c4f0629c8b686d24f0dc0c2874a9e03a4e03927cb8febadc540bdbbe94
-    content: David Grusch was a National Reconnaissance Office (NRO) employee.
-    original_excerpt: David was a National Reconnaissance Office employee
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-        title: David Charles Grusch
-        slug: david-charles-grusch
-    date: null
-    date_end: null
-    location_in_record: ch32:813-856
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
-    claim_hash: eeb945be75b222ab891cf538ecf45c10478cd8cc1d5a0a61f5fc3c2e93e9668d
-    content: David Grusch was the representative of the National Reconnaissance Office (NRO) and National Geospatial-Intelligence
-      Agency (NGA) on the Pentagon's UAP Task Force.
-    original_excerpt: He was those agencies' rep on the UAP Task Force
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-        title: Unidentified Aerial Phenomena Task Force (UAPTF)
-        slug: unidentified-aerial-phenomena-task-force-uaptf
-      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-        title: National Geospatial-Intelligence Agency (NGA)
-        slug: national-geospatial-intelligence-agency-nga
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-        title: David Charles Grusch
-        slug: david-charles-grusch
-    date: null
-    date_end: null
-    location_in_record: ch32:931-974
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
-    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
-    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
-      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
-      data that they were not sharing with each other.
-    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
-      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
-      also appeared to have important UAP data they were not sharing.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
+      origin_kind: document
+      origin: 1991 Nellis Air Force Base security lockdown
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-        title: National Geospatial-Intelligence Agency (NGA)
-        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
+        title: 1991 Nellis Air Force Base security lockdown
+        slug: 1991-nellis-air-force-base-security-lockdown
+      - node_id: 8449e1be-95c3-4636-9f3f-b1768eeed1cd
+        title: USA, Nevada, Nellis Air Force Base
+        slug: nevada-nellis-air-force-base-usa
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
         slug: national-reconnaissance-office-nro
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
+      - node_id: bc6bae79-93f4-4a4a-a101-b4b195dbf64d
+        title: USA, Nevada, Dreamland
+        slug: nevada-dreamland-usa
+      - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+        title: USA, Nevada, Groom Lake
+        slug: nevada-groom-lake-usa
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: 1991-07
     date_end: null
-    location_in_record: ch6:17564-17844
+    location_in_record: ch14:10221-10483
     evidence:
       score: null
       independent_sources: 1
     provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
       record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 65a6c9ce-ae3a-46ce-b108-25f0a6276518
+    claim_hash: 5d029b67bb7fedc36e21ab7788a8b1e660427e4e308388ed552decf844239e92
+    content: In advance of their April 1997 Pentagon visit, Steven Greer sent Admiral Thomas Wilson's staff a leaked US National
+      Reconnaissance Office document detailing a series of authentic codenames for highly top-secret Special Access Programs
+      (SAPs).
+    original_excerpt: In advance of their visit, Greer had sent Admiral Wilson's staff a leaked US National Reconnaissance
+      Office document that detailed a series of what turned out to be authentic codenames for highly top-secret so-called
+      Special Access Programs (SAPs).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+        title: Thomas Wilson
+        slug: thomas-wilson
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
+        title: Steven Greer
+        slug: steven-greer
+    date: 1997-04
+    date_end: null
+    location_in_record: ch14:9972-10214
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: f8656c3d-eddb-4951-83db-a9ae60824879
+    claim_hash: de9cad8a78d7b38ddcef505daa0eafd253883bc04d7bad30bd1efbbb9435a938
+    content: Tom DeLonge claimed US National Reconnaissance Office surveillance satellites were seeing UAP objects coming
+      in and out of the atmosphere all the time, and that he had seen the evidence.
+    original_excerpt: US National Reconnaissance Office (NRO) surveillance satellites, he claimed, were seeing these UAP objects
+      coming in and out of the atmosphere all the time, and he had seen the evidence.
+    claim_type: hearsay
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch19:11732-11909
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: b6caeaea-fb86-45e4-8038-d8f2a79fdd3b
+    claim_hash: fffdbdab569ff4796aa1fb1d014bc97ee7d06d8fa06098358a4504f2d831e5e0
+    content: Tom DeLonge said one of his advisers was from the National Reconnaissance Office, and that they used a term 'episodic
+      visits' to describe UAP events.
+    original_excerpt: ‘One of my advisers was from the NRO. High up. And they call it episodic visits. That’s all I know.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      title: Tom DeLonge
+    provenance_chain:
+      origin_kind: speaker
+      origin: Tom DeLonge
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+        title: Tom DeLonge
+        slug: tom-delonge
+    date: null
+    date_end: null
+    location_in_record: ch19:11920-12013
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
     claim_hash: aadaed06a1c7a4cb707242f79df8554ea8deaecf81fa0539730945f9f60cdf94
     content: The Inspector General, U.S. Department of Defense interviewed senior officials and requested unidentified anomalous
@@ -810,6 +702,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -870,7 +767,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: f7d46668-12c9-4f23-b2a8-a863afa6e079
@@ -888,6 +785,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 749f7681-09ff-4bbe-a960-c91595ac6c60
         title: Gambit satellite program
@@ -906,7 +808,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 54a299bc-4d93-4813-aa46-bfbfe3cfedb6
@@ -924,6 +826,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32315d13-5699-4553-b6d5-4ad22e02fed6
         title: Hexagon satellite program
@@ -945,9 +852,202 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 1b7b0156-3c6b-4fc8-b03e-9cee57a9744a
+    claim_hash: 549d5196f72c3f8b1616a6ede1ebc4ec7241dcefba974231b53ff33a56af4d77
+    content: Jay Stratton handpicked members and representatives for the new UAP task force from all the intelligence agencies
+      and civilian-led agencies, including the Federal Bureau of Investigation (FBI), the National Reconnaissance Office (NRO),
+      the National Aeronautics and Space Administration (NASA), and the Federal Aviation Administration (FAA).
+    original_excerpt: So Jay started putting that together, handpicking his members/reps from all the intelligence agencies
+      and civilian-led agencies, from the FBI to the National Reconnaissance Office (NRO) to NASA to the Federal Aviation
+      Administration (FAA).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+        title: Jay Stratton
+        slug: jay-stratton
+      - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+        title: National Aeronautics and Space Administration (NASA)
+        slug: national-aeronautics-and-space-administration-nasa
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch31:4914-5148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 76fea9ac-386b-4308-bfb2-0b1cdf691322
+    claim_hash: bd02a3c4f0629c8b686d24f0dc0c2874a9e03a4e03927cb8febadc540bdbbe94
+    content: David Grusch was a National Reconnaissance Office (NRO) employee.
+    original_excerpt: David was a National Reconnaissance Office employee
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: ch32:813-856
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
+    claim_hash: eeb945be75b222ab891cf538ecf45c10478cd8cc1d5a0a61f5fc3c2e93e9668d
+    content: David Grusch was the representative of the National Reconnaissance Office (NRO) and National Geospatial-Intelligence
+      Agency (NGA) on the Pentagon's UAP Task Force.
+    original_excerpt: He was those agencies' rep on the UAP Task Force
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: ch32:931-974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
+    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
+      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
+      data that they were not sharing with each other.
+    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
+      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
+      also appeared to have important UAP data they were not sharing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch6:17564-17844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: f1232742-c8cc-4384-af35-dc9945e54072
     claim_hash: 27b9393f20b694e99fed69810404279ac7611300b9dc46881a4db621f9b55cde
     content: The National Reconnaissance Office (NRO) is one of the most secretive departments among United States intelligence
@@ -965,6 +1065,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
@@ -999,6 +1104,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
@@ -1031,6 +1141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.686
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -1055,7 +1170,7 @@ claims:
       content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
       friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
   - claim_id: 2ec50b70-65d7-4f7c-8f35-cf05fbd0beb3
-    claim_hash: 2caa26f698176ae38e83ac9adb5f91a0461a062945dead80eae0f2f07014d66c
+    claim_hash: b5e73ead7bf9d09c5763f6d00d16a1cdacc220f039fc1627ef06336f9980f0a8
     content: From 2019 to 2021, David Grusch officially represented the National Reconnaissance Office (NRO) on the Unidentified
       Anomalous Phenomena Task Force (UAP Task Force).
     original_excerpt: from 2019-2021 officially represented the NRO on the UAP Task Force
@@ -1068,10 +1183,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-        title: Unidentified Aerial Phenomena Task Force (UAPTF)
-        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 868bce53-3091-453e-9401-1980adc195dd
+        title: Unidentified Anomalous Phenomena (UAP) Task Force (UAPTF)
+        slug: unidentified-anomalous-phenomena-uap-task-force-uaptf
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
         slug: national-reconnaissance-office-nro
@@ -1106,6 +1226,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6af27fdb-215e-48f8-bcfe-34ef174b3a5f
         title: Bobby Inman
@@ -1142,6 +1267,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
         title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
@@ -1181,6 +1311,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
         title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
@@ -1221,6 +1356,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.76
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
         title: National Reconnaissance Office (NRO)
@@ -1254,6 +1394,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -1290,6 +1435,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
         title: Betty Sapp
@@ -1325,6 +1475,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33689fc3-42a3-4b13-8bc1-29c869d46131
         title: Betty Sapp

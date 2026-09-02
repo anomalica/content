@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 6b02b34c1874340f8515b50437e454483e86b5b85e54892caacbdb09ee6e7bb5
+brief_hash: 45f337b5af4910853d4b7194007c7f0caf81967182ee3d56d6c80a5a83c665f4
 page:
   kind: entity
   node_id: 898c410a-7789-4762-b6dd-1139ced89658
@@ -9,11 +9,21 @@ page:
   claim_count: 50
   claim_count_total: 50
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 50
   tokens_estimated: 6425
   sized_against: 1050000
+entailment:
+  assessed: 50
+  unassessed: 0
+  entails: 30
+  neutral: 17
+  contradicts: 3
+  entailed_by_quote: 13
+  entailed_by_window: 17
+  entailed_by_quote_fraction: 0.26
+  entailed_by_window_fraction: 0.34
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,16 +48,16 @@ related_nodes:
     node_type: person
     slug: george-herbert-walker-bush
     shared_claims: 6
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 5
   - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
     title: Ronald Reagan
     node_type: person
     slug: ronald-reagan
     shared_claims: 5
+  - node_id: 0d74acdb-18c0-41ba-b829-ebe2dbc574d9
+    title: 1973 Jeff Carter Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: 1973-jeff-carter-unidentified-flying-object-ufo-sighting
+    shared_claims: 4
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
     node_type: organisation
@@ -108,6 +118,16 @@ related_nodes:
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 2
+  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 2
+  - node_id: f9ab78f7-6467-4c97-bd5f-bcec9be5a664
+    title: 1969 Jimmy Carter Leary, Georgia Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: georgia-unidentified-flying-object-ufo-sighting-1969-jimmy-carter-leary
+    shared_claims: 1
   - node_id: 5f3edfa5-92ca-4797-8187-d49526efcb16
     title: Adoniesis (space entity)
     node_type: topic
@@ -127,11 +147,6 @@ related_nodes:
     title: Barack Obama
     node_type: person
     slug: barack-obama
-    shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
     shared_claims: 1
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
@@ -168,14 +183,9 @@ related_nodes:
     node_type: person
     slug: jacques-vallee
     shared_claims: 1
-  - node_id: 5832c9b3-b0c1-426a-859f-36aa83580aee
-    title: Jody Powell
-    node_type: person
-    slug: jody-powell
-    shared_claims: 1
 claims:
   - claim_id: 60aa107f-898b-4e1a-b61c-14cbf08aadfb
-    claim_hash: 8edf6fb73eb641ee311e9f18fb7a00fcaf4882ace3a1ed6c9c02b4052140e7bd
+    claim_hash: c82f7aa9c529b0d78a3381e5872c1a1bd7bd46eb2b4e64ba9ee1af23e7ea4d1b
     content: Jimmy Carter, upon seeing the 1973 UFO with his son Jeff Carter, said the object was changing colour from red
       to green.
     original_excerpt: 'My father was mumbling: ‘Look, Jeff, now its red...now it’s green... My God...’'
@@ -190,13 +200,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.84
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 0d74acdb-18c0-41ba-b829-ebe2dbc574d9
+        title: 1973 Jeff Carter Unidentified Flying Object (UFO) sighting
+        slug: 1973-jeff-carter-unidentified-flying-object-ufo-sighting
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
         title: Jeff Carter
         slug: jeff-carter
@@ -214,7 +229,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: 7a301760-1ecc-4b73-8109-3c96904bdb0d
-    claim_hash: e770d88e422a24af774336d93a69650346283834588505e2a88f4399ebd7c8b9
+    claim_hash: f3adf52d49b6decaf2e30f0c83d238b332f87897abc98cc3e02dfea7332955a9
     content: Jimmy Carter recounted seeing an incandescent mass in the sky as brilliant and as large as the Moon, moving at
       high speed, during the 1973 UFO sighting with his son Jeff Carter.
     original_excerpt: I was heading for my car, when suddenly I saw an incandescent mass in the starry sky, as brilliant and
@@ -230,13 +245,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 0d74acdb-18c0-41ba-b829-ebe2dbc574d9
+        title: 1973 Jeff Carter Unidentified Flying Object (UFO) sighting
+        slug: 1973-jeff-carter-unidentified-flying-object-ufo-sighting
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: '1973'
     date_end: null
     location_in_record: ch10:43994-44140
@@ -251,7 +271,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: d938520d-3bdf-4b7a-91ed-9156eab303af
-    claim_hash: 204f58f3cd1c4d092ea9ab7acc0dd3a08c2b7d61cb50fa6212f976ff215e73f1
+    claim_hash: a454d702991d75c5ec8ebf862dcc370eece9521ba4dac8b355fe748b6d32537e
     content: Jimmy Carter said he personally did not hear any noise from the UFO during the 1973 sighting, but that his son
       Jeff Carter later told him he heard a metallic sound coming from it.
     original_excerpt: Personally, I did not hear any noise, but my son Jeff, who was with me, later told me that he heard
@@ -268,13 +288,18 @@ claims:
         - Jimmy Carter
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.775
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 0d74acdb-18c0-41ba-b829-ebe2dbc574d9
+        title: 1973 Jeff Carter Unidentified Flying Object (UFO) sighting
+        slug: 1973-jeff-carter-unidentified-flying-object-ufo-sighting
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e285886c-8277-4aaf-912f-79e0d1f57d25
         title: Jeff Carter
         slug: jeff-carter
@@ -292,7 +317,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: 3418e1a4-9630-4e3c-b1ac-7860d12868b3
-    claim_hash: 86395e0a90aab1c428d4146f439efbc80c11efe76e3059140736e14b6e1a2c57
+    claim_hash: 2963ba7c213d2fb28d178f8d42daf9ab6d2b9e744bc38e04f789ca8d4afc776a
     content: Jimmy Carter said the UFO during the 1973 sighting hovered above him and Jeff Carter for about ten minutes before
       moving south, changing route repeatedly, moving east, and disappearing on the horizon.
     original_excerpt: We stood there with our mouths open for about ten minutes. The UFO flew above us for a few moments;
@@ -308,13 +333,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.513
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 0d74acdb-18c0-41ba-b829-ebe2dbc574d9
+        title: 1973 Jeff Carter Unidentified Flying Object (UFO) sighting
+        slug: 1973-jeff-carter-unidentified-flying-object-ufo-sighting
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: '1973'
     date_end: null
     location_in_record: ch10:44285-44479
@@ -343,6 +373,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.667
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -377,6 +412,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -413,6 +453,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f3edfa5-92ca-4797-8187-d49526efcb16
         title: Adoniesis (space entity)
@@ -448,6 +493,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f133ad0-e26c-456a-8209-6a3e1c484d23
         title: Study Center of Cosmic Fraternity
@@ -486,6 +536,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -524,6 +579,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5832c9b3-b0c1-426a-859f-36aa83580aee
         title: Jody Powell
@@ -564,6 +624,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -600,6 +665,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -636,6 +706,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -670,6 +745,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -693,8 +773,46 @@ claims:
       record_reference: null
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
+  - claim_id: 765e294c-b7dc-40f2-9568-2892d0aeea20
+    claim_hash: 76755b142a9c0035a5f9ab7e6f2f89027f1f2ad3c658981b2c2105387ad317a7
+    content: In 1969 in Georgia, Jimmy Carter claimed to have seen a UFO.
+    original_excerpt: and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Jimmy Carter
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+        title: Jimmy Carter
+        slug: jimmy-carter
+      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
+        title: Unidentified Flying Object (UFO)
+        slug: unidentified-flying-object-ufo
+    date: '1969'
+    date_end: null
+    location_in_record: char:7378-7438
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
+      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
+      record_date: '2023-07-26'
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
+      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
+      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 2396c007-b485-4970-9924-82abbfa9ee17
-    claim_hash: 3670cb3f1fa79c4a4a16168ed3461b5c668e239cc637f10499193646348c4bb0
+    claim_hash: 5bcba1f7cd3361dd49ac5a1c18adde7840971aed9ec98462ec74e079558e64e1
     content: Jimmy Carter was elected President of the United States in November 1976, three years after the 1973 North West
       Cape UAP sighting.
     original_excerpt: Three years after that UAP sighting over Australia's North West Cape, in November 1976, Jimmy Carter
@@ -708,6 +826,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.752
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -724,12 +847,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 45e28250-d4e9-4dd1-97c2-53aba991793c
-    claim_hash: fa2eb7134527632ed9aaefaeeb6e58f66db26484c068cb955d3adfd53b737126
+    claim_hash: 7757d8130c3c2f72c98d1384fc545cf932c6bbc9496f5b463ef5509c1f8c352b
     content: UFO disclosure groups such as the Mutual UFO Network (MUFON) hoped Jimmy Carter would open decades of still top-secret
       Project Blue Book files, which were widely known to still be withheld from public release.
     original_excerpt: It was hoped by UFO disclosure groups such as MUFON (the Mutual UFO Network) that this most liberal
@@ -744,16 +867,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 53a2502b-b835-4869-945c-ee6a611a4073
-        title: Mutual Unidentified Flying Object (UFO) Network (MUFON)
-        slug: mutual-unidentified-flying-object-ufo-network-mufon
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
+      - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+        title: Mutual UFO Network (MUFON)
+        slug: mutual-ufo-network-mufon
     date: null
     date_end: null
     location_in_record: ch11:14327-14590
@@ -763,7 +891,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -785,6 +913,11 @@ claims:
         - research of Carter Presidential Library archives
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -804,12 +937,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 78f9c632-84ec-48a3-a565-efd70d0c4bdf
-    claim_hash: 5adc471fca4eb6fbbd6f26b3483646193b7be1becdc5f2f763cb463edf61f709
+    claim_hash: 132c9d1fb919b5cf7b61518177ddcd03ed53ec796accd60f54bfb093a30596b6
     content: Jimmy Carter openly discussed on the campaign trail how he personally witnessed an unidentified glowing object
       hovering over Leary, Georgia, in 1969.
     original_excerpt: On the campaign trail, Carter had openly discussed how he personally witnessed an unidentified glowing
@@ -826,6 +959,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 682e06e4-afce-4e5d-935e-4a3874af3422
         title: USA, Georgia, Leary
@@ -833,9 +971,9 @@ claims:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
         slug: jimmy-carter
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: f9ab78f7-6467-4c97-bd5f-bcec9be5a664
+        title: 1969 Jimmy Carter Leary, Georgia Unidentified Flying Object (UFO) sighting
+        slug: georgia-unidentified-flying-object-ufo-sighting-1969-jimmy-carter-leary
     date: '1969'
     date_end: null
     location_in_record: ch11:14947-15195
@@ -845,7 +983,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -865,6 +1003,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.831
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -881,7 +1024,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -903,6 +1046,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -925,7 +1073,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -946,6 +1094,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -971,7 +1124,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -988,6 +1141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1007,7 +1165,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1027,6 +1185,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1046,7 +1209,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1065,6 +1228,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1084,7 +1252,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1103,6 +1271,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1122,7 +1295,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1143,6 +1316,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1165,7 +1343,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1184,6 +1362,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.518
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1200,7 +1383,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1219,6 +1402,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.886
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1238,7 +1426,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1261,6 +1449,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -1283,7 +1476,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1303,6 +1496,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5bd02b11-3679-438f-b6e1-8509734c1547
         title: Frank Press
@@ -1325,7 +1523,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1343,6 +1541,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -1359,7 +1562,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1378,6 +1581,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -1394,12 +1602,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ba58875b-e22d-4cfc-8f79-c77d046ba64e
-    claim_hash: 01f152b6989640b857c1c47ad1c3e3be15b13819a464e343c0d8e8638eeb52bb
+    claim_hash: 7a814dbac33300989b0e49f7459f33e59263aba588089e9fa31b2e0cdadd69ac
     content: When Bill Clinton became president in 1993, he asked questions about UAPs, just as Jimmy Carter had done in 1977.
     original_excerpt: When Bill Clinton became president in 1993, he asked questions about UAPs, just as Jimmy Carter had
       done in 1977.
@@ -1412,8 +1620,13 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
         title: William J. Clinton
         slug: william-j-clinton
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
@@ -1431,7 +1644,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1452,6 +1665,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.718
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1471,43 +1689,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 765e294c-b7dc-40f2-9568-2892d0aeea20
-    claim_hash: 76755b142a9c0035a5f9ab7e6f2f89027f1f2ad3c658981b2c2105387ad317a7
-    content: In 1969 in Georgia, Jimmy Carter claimed to have seen a UFO.
-    original_excerpt: and in 1969 in Georgia, Jimmy Carter claimed to have seen a UFO
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Jimmy Carter
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 898c410a-7789-4762-b6dd-1139ced89658
-        title: Jimmy Carter
-        slug: jimmy-carter
-      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-        title: Unidentified Flying Object (UFO)
-        slug: unidentified-flying-object-ufo
-    date: '1969'
-    date_end: null
-    location_in_record: char:7378-7438
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
-      record_date: '2023-07-26'
-      record_reference: null
-      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: c4f05315-b400-4fce-a746-d27d47ed8b92
     claim_hash: 84bf3fa6cbf622263ef2f8b18cffb0fa8bc7afcae2cf074dbbbb67cf2c9cf916
     content: President Jimmy Carter referenced the case of the remote viewer locating a crashed Russian jet in the Congo to
@@ -1522,6 +1707,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.43
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
         title: Stargate
@@ -1538,7 +1728,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1559,6 +1749,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f346560-30b4-403a-aac9-e61980a99abb
         title: Lyndon B. Johnson
@@ -1596,7 +1791,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1616,6 +1811,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
         title: Stargate
@@ -1632,7 +1832,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1654,6 +1854,11 @@ claims:
         - public accounts
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1686,6 +1891,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.532
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1719,6 +1929,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -1758,13 +1973,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
       - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -1805,6 +2025,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 228fe04a-c93c-4d4b-b4af-de089dcac982
         title: Alonzo McDonald
@@ -1842,6 +2067,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -1881,6 +2111,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -1926,6 +2161,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -1969,6 +2209,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
@@ -2007,6 +2252,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.649
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 898c410a-7789-4762-b6dd-1139ced89658
         title: Jimmy Carter
@@ -2044,6 +2294,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.687
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5785429d-f7d8-415e-a48a-f6a3f70493e9
         title: USA, Washington DC, The White House
@@ -2087,6 +2342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

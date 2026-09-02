@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3bf46b23d4f8902a4e57028b57c7dd6744a348c29bf43b74984dbf17ccaf0c9e
+brief_hash: 77a9e370211f032d19d86ac484af712c719b91d4298bf3067eb418cf2ace3e3e
 page:
   kind: entity
   node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
@@ -9,11 +9,21 @@ page:
   claim_count: 70
   claim_count_total: 70
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T13:07:29.167026+00:00'
 size:
   claims: 70
   tokens_estimated: 9670
   sized_against: 1050000
+entailment:
+  assessed: 70
+  unassessed: 0
+  entails: 51
+  neutral: 17
+  contradicts: 2
+  entailed_by_quote: 19
+  entailed_by_window: 32
+  entailed_by_quote_fraction: 0.271
+  entailed_by_window_fraction: 0.457
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -69,7 +79,7 @@ related_nodes:
     slug: richard-c-hoagland
     shared_claims: 4
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 2
@@ -151,6 +161,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -191,6 +206,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -230,6 +250,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -269,6 +294,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
         title: Gold visors (Apollo helmet visors)
@@ -316,6 +346,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4592ea5a-7396-4f70-8467-ac3d01058a48
         title: Thornton Page
@@ -360,6 +395,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -398,6 +438,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -436,6 +481,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -470,6 +520,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -508,6 +563,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
@@ -548,6 +608,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -575,7 +640,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: c45e53aa-b1bf-4fd7-8228-ca0408a0d814
-    claim_hash: da5d6a67b61702da2b7f817d7cd4c9f9af8642bdc8af5d42e2bca624464ee6bd
+    claim_hash: f3f3c0ccbbccf04c7377fe198e912442354485624e7ced236282dbd20d308ea7
     content: Alan Shepard underwent a secret and then-innovative inner-ear surgical procedure that allowed him to command
       Apollo 14 to the Moon in 1971.
     original_excerpt: He had a secret and then-innovative inner ear surgical procedure, which allowed him to ultimately command
@@ -589,6 +654,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -610,7 +680,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: d7a03f8c-b796-4237-9c59-a16e5f9e7d78
-    claim_hash: d94fd42fe147bb81ec11d9e240b9683861dec3525b6e34abd0d40c2510ac5659
+    claim_hash: 8702ec286a4b365ed7f40e8285e0dd62c09dbd6d31aed4e090a3b987a7e833de
     content: During the last extra-vehicular activity of Apollo 14, Alan Shepard surprised NASA and the nation on live television
       by taking the first golf shot on the Moon.
     original_excerpt: It was during the last EVA of Apollo 14, you might remember, that Alan Shepard surprised NASA and the
@@ -624,6 +694,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -659,6 +734,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -699,6 +779,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.507
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -741,6 +826,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -776,6 +866,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -803,7 +898,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 9fc7ee00-4da0-4481-b592-4f25d5eabfc3
-    claim_hash: d36e7298b4076ceef7419ea689c1abcc45542fe93d7254d0f6389fd067101382
+    claim_hash: 0a451e70496c3318c565d23530639d9f42924a0daf8b775cb2e43e3531cbc5f2
     content: Edgar Mitchell was one of six humans to have walked on the moon on the Apollo 14 lunar landing mission.
     original_excerpt: This included Edgar, one of six humans to have walked on the moon on the Apollo 14 lunar landing mission.
     claim_type: administrative
@@ -815,6 +910,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -836,7 +936,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 8acd5d8a-bab2-41ab-8993-79923dfcdc0d
-    claim_hash: 7507cab443d0977d622717f8f4490906d01cecb2af5d0b9203dae41d2d64480b
+    claim_hash: 7e8e4ca8847f8fb292f1d15e928fcd0c65c99454d5698fcf7dc401f049ccd245
     content: Edgar Mitchell conducted remote viewing experiments in space during the Apollo lunar mission.
     original_excerpt: What was more surprising to me was that he had conducted remote viewing experiments in space during
       the Apollo lunar mission.
@@ -852,9 +952,14 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -876,7 +981,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 48b8a081-6975-4e57-9693-f7f79c1a657a
-    claim_hash: 7d66ee7be254529a5d3672f2861cdd751ee9357fdaf0d4d190d3e59d51ca865c
+    claim_hash: 318f15d1bd79edd39774789e823c53e80de6f9919e1318fb4f9bcb48b639aed9
     content: Edgar Mitchell's dyadic model of consciousness explains how remote viewing, telepathy, and extraordinary mystical
       experiences, such as his own experience of samadhi while travelling back from the moon, are possible.
     original_excerpt: 'Edgar’s theory is elaborated in his idea of the “dyadic model” of consciousness. This model, according
@@ -894,12 +999,17 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.714
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2b677f65-d068-44a7-913d-aade288d1e62
         title: Samadhi
         slug: samadhi
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -924,7 +1034,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 62d3fb5e-30c1-4d4b-9276-2edcb4cb5a92
-    claim_hash: 0f3946190069647d6e47cbf0bac4c0ed14dfe346d286d47e0ccc7753d89741db
+    claim_hash: 16e64fac767410bf43fd15106fa7ca554ae0bbfd7bef628454a8f2905a9cd3d9
     content: Edgar Mitchell was one of only twelve humans to have walked on the moon.
     original_excerpt: Edgar had returned from space with the confidence of one who has been where only twelve humans have
       ever gone.
@@ -937,6 +1047,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -958,7 +1073,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: 92141e2d-6bca-44e9-917d-935e06ec6bed
-    claim_hash: 67e4d998f0f26defb0658de54a142df537ba971f05723d49e7a5a3036aea6f73
+    claim_hash: 187b216a3cde82ef20f6ea052d3f4773884ead48c188f8a3804d5ddb96389cdb
     content: Edgar Mitchell died several months after speaking with D. W. Pasulka and her colleagues, on the eve of the anniversary
       of his moon landing.
     original_excerpt: Several months after my colleagues and I spoke with Edgar, he passed away on the eve of the anniversary
@@ -974,6 +1089,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1012,6 +1132,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1028,7 +1153,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1051,6 +1176,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1070,7 +1200,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1088,6 +1218,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1107,7 +1242,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1129,6 +1264,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1148,7 +1288,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1170,6 +1310,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1189,7 +1334,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1208,6 +1353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1224,7 +1374,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1246,6 +1396,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1265,7 +1420,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1287,6 +1442,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1303,7 +1463,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1325,6 +1485,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.626
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1344,7 +1509,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1363,6 +1528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1379,7 +1549,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1398,6 +1568,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1414,7 +1589,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1433,6 +1608,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.896
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -1446,7 +1626,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1467,6 +1647,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1483,7 +1668,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1505,6 +1690,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.925
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -1524,12 +1714,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4cb67b21-6faa-4d2b-85e1-0a8547832671
-    claim_hash: be3488cc4f6d9d40d63fb3b70fe45882842074575ea353116afff48a6d18e59c
+    claim_hash: 6775cc34f9ffa55d79fce6b6ea81ce3ff3df7ab995b8776deb762c102a57cb24
     content: Stuart Roosa observed that most of the light-flash streaks he saw appeared on the periphery of his vision.
     original_excerpt: Most of my streaks appeared to be on the periphery
     claim_type: observation
@@ -1543,6 +1733,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 469b5f26-8c0c-4498-819e-27be09b15bb8
         title: Stuart Roosa
@@ -1567,7 +1762,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 5f46e887-1e74-4ba2-a3a6-8d1ca158659f
-    claim_hash: b559ed2d0dfa5c38e4c6cba9d2456cb5294390c005f111d97f0399028b0591e5
+    claim_hash: b5b8dd98d459c438f60283242bc2ddf28618a6fb5976ae59209c639f68288e50
     content: Before the Apollo 14 mission, the crew discussed the various possible shapes that the light-flash phenomenon
       might take.
     original_excerpt: we discussed the various shapes prior to flight, and I concentrated pretty hard on trying to see the
@@ -1583,6 +1778,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.419
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 469b5f26-8c0c-4498-819e-27be09b15bb8
         title: Stuart Roosa
@@ -1607,7 +1807,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 066158f7-6418-415c-a854-9ade701ea5fc
-    claim_hash: 8e8673fee1b1294d27b0780d9b4dc6165a197b9d17b30eba7debaf4be945b403
+    claim_hash: 029e0f7e97c5751601685ce717c01713c6dfc6abf0ff45e2f2cd1a3e978b85d1
     content: During the quantitative light-flash observation period aboard Apollo 14, the spacecraft cabin lighting was completely
       dark.
     original_excerpt: Absolutely dark. Absolutely dark.
@@ -1620,6 +1820,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.917
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -1641,7 +1846,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 59cc4e9f-0392-4d86-ac99-8fd37cd090df
-    claim_hash: e57d8795bbc334358b338b62fe4a3f7f557078834d375dac84b3b0e7a2be3d2b
+    claim_hash: f2ac9fca50e0131d94a6712267c39fd781bad23af7af2bfc6d96cf465cda6b00
     content: Alan Shepard noted that despite the window shades being in place, light could seep in around their edges when
       the spacecraft rolled so that the sun struck some of the windows.
     original_excerpt: Even though we had the window shades on, when we'd roll around so the sun would hit some of the windows,
@@ -1657,6 +1862,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -1678,7 +1888,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 618d7c9f-a58a-49be-a580-8b1dc64a999c
-    claim_hash: 8160fbe4396f9268cbba1308d7f35ab941638fc3888d6953d84c7c8083a2b10b
+    claim_hash: dc176d8fe2cdc3367d86b3b29441e69341c376d055272c83a7428ff321c9c2a9
     content: The Apollo 14 crew closed their eyes when Edgar Mitchell turned on his flashlight during the light-flash observation
       sessions.
     original_excerpt: we closed our eyes when Ed flipped his flashlight on.
@@ -1693,6 +1903,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.763
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -1720,7 +1935,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 49690530-48c1-4970-bfb0-d2b90525e4f2
-    claim_hash: cfb1dd75629ee18ab1d4e2c25b2ee62eae6f242ac76598c1dbd82714075bba43
+    claim_hash: 2bbb4a595083515f949c7a24f85439f3198f4d9895e39c5c1d181e43d9bc21be
     content: Stuart Roosa was floating near the corner of the Lunar Excursion Vehicle (LEV) and kept his eyes closed to avoid
       picking up light if the spacecraft rolled toward the sun.
     original_excerpt: I was floating down the corner of the LED, but I kept my eyes closed because I didn't know when we might
@@ -1736,6 +1951,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 469b5f26-8c0c-4498-819e-27be09b15bb8
         title: Stuart Roosa
@@ -1757,7 +1977,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: eccb7920-3f7d-46cf-aa33-dc7544c82420
-    claim_hash: bcc80961395f2a3528158f936e18920bcf12cb5214cf3729aa8cf90bbe55d84e
+    claim_hash: 852f3f6352bf0b4c0a516277e67c900da589caaa9354b4c1382c8dba388f1a9b
     content: Stuart Roosa was oriented with his head looking face-up, positioned in a corner of the spacecraft, during the
       light-flash observation sessions.
     original_excerpt: I was oriented this way with my head looking face up down in this corner.
@@ -1772,6 +1992,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 469b5f26-8c0c-4498-819e-27be09b15bb8
         title: Stuart Roosa
@@ -1793,7 +2018,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: d0c207be-f098-4fb8-b965-0218cbc34710
-    claim_hash: 11505e4f39381c4fdd784b6201c6507cd39ccfcb7e36693463d6be7121a6d54d
+    claim_hash: cd51ea027f075d5d8db6c1a337015142e5b850af7be11a82b3a47cd02f1435a3
     content: Overall, the Apollo 14 crew's light-flash reports were heavily biased toward the right eye, by a ratio of roughly
       three or four to one.
     original_excerpt: you're all heavily biased towards the right on your reports... Very heavily, like three or four to one.
@@ -1806,6 +2031,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -1827,7 +2057,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 5f81748e-787b-4077-9b40-66143757e3cc
-    claim_hash: d22b4cd037026e091cea8531236f4b046d0a226ed1d13a872a21c53bad5e6d84
+    claim_hash: 14bc7fa5dcedda3ca7236ff8681f302029c617ae91a731ea90294dc25f297cdc
     content: Edgar Mitchell reported 12 light flashes in his right eye and 6 in his left eye during Apollo 14.
     original_excerpt: You had 12 right and 6 left
     claim_type: measurement
@@ -1839,6 +2069,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.389
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1863,7 +2098,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: c2506235-d73b-4fb5-bce9-8f701e942c67
-    claim_hash: 2f1a83abe02ab0929737a79b07dfd0a66096cefbce9b5f93d64f0b92546c22c0
+    claim_hash: 9affa4929eb2a8ebff126d097c52c1cce3deb24d4f3a15deaabe66b90a3d4224
     content: Alan Shepard reported 10 light flashes in his right eye and 4 in his left eye during Apollo 14.
     original_excerpt: Al, you had 10 right and 4 left
     claim_type: measurement
@@ -1875,6 +2110,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.409
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -1899,7 +2139,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: af4077e2-5867-43d4-9ce2-e11ad495f9fc
-    claim_hash: c795edce0acf47b07d118d0c7c55a12c8ea5af06f0fb316cf9ac47a30b894f58
+    claim_hash: 29c3163cef2b16583e42c2e2e5e2dfae5cd616996f802df3fb25f0c55cfb8fae
     content: Stuart Roosa reported 6 light flashes in his right eye and 2 in his left eye during Apollo 14.
     original_excerpt: of the ones you reported, Stu, you had 6 right and 2 left.
     claim_type: measurement
@@ -1911,6 +2151,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.402
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 469b5f26-8c0c-4498-819e-27be09b15bb8
         title: Stuart Roosa
@@ -1935,7 +2180,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: c5507779-7a27-4008-9a5c-fd96f26c8595
-    claim_hash: c3d5f72c830637a57a87738247e3da08792d045b01dfca768c255d139d1a61e1
+    claim_hash: 170c73d077a6ff7f955f4271f08280b45cfefc618bc9525b36a491fb89067ba7
     content: During Apollo 14, there were three recorded instances, found by the debriefing team reviewing the mission tapes,
       where different pairs of crew members reported light flashes simultaneously.
     original_excerpt: There were three, from listening to the tapes, three events, and it occurred in cases where different
@@ -1950,6 +2195,11 @@ claims:
         - mission audio tapes
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -1974,7 +2224,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 0380c85a-c8c2-47e8-81ce-5e0444bcff4c
-    claim_hash: 1c37f414a7a04d808e2b962ffb12f34db038de4d85d3069ed5cb43b8847e9a53
+    claim_hash: bec2eca233dd065a8518f743000576ff5db9878abd1e5d4b8e95e106ea0dd5a7
     content: In one instance during Apollo 14, Edgar Mitchell reported a light flash at the same time that Alan Shepard reported
       a flash in his right eye.
     original_excerpt: Ed, you said flash, and then Al, you said simultaneous with him, I had a flash in the whole right eye.
@@ -1988,6 +2238,11 @@ claims:
         - mission audio tapes
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.42
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
         title: Alan Shepard
@@ -2015,7 +2270,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: b6e5e3a4-2d0c-4e30-b715-ea9ed5eca5e8
-    claim_hash: cbddd180657bf81e941f581f03c207399a938eb121e72867c3a7ec633f842f85
+    claim_hash: ae9d18049e95ca29f815181f5dccca3aff833212164af5a7d1a3ca2f3a1f0453
     content: Stuart Roosa did not recall seeing any light flashes during lunar orbit, noting he was very tired at the time
       and had not specifically looked for them, so he did not consider this a reliable data point.
     original_excerpt: I really don't remember seeing any flashes, but I didn't look for any either. So I guess the question
@@ -2031,6 +2286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 469b5f26-8c0c-4498-819e-27be09b15bb8
         title: Stuart Roosa
@@ -2055,7 +2315,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: b7c4778d-0c8e-4a61-936c-09732efb1465
-    claim_hash: ecc956c52244b0730cf79d7a8d67e0ec5d066d81425049309336ce1257c706cf
+    claim_hash: 4b86c74444c3661680a60cd0c2e7e39dbf355fcd4f7bed8ff4664fe2eb361925
     content: The formal Apollo 14 light-flash observation session concluded at approximately 191 hours Ground Elapsed Time
       (GET), after which the crew had a sleep period.
     original_excerpt: after our formal session, it was in about 191 GET, you then had a sleep period later on.
@@ -2068,6 +2328,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -2092,7 +2357,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 057ab682-3651-4293-9bf0-1b0fc2d95ca7
-    claim_hash: 353947dd580eae104a59e4cb4fe6a7cc9d1baf7f1cb5a02f79f6a3d9c010481b
+    claim_hash: 66aeb1ce1227fe4c36329872cf06a897982225e75fce1f4f11cc1106a3138e23
     content: Edgar Mitchell believed there was hardly any night during the Apollo 14 mission when he did not see at least
       some light flashes, with the possible exception of time spent on the lunar surface.
     original_excerpt: I don't really recall that there was any night except on the lunar surface. that I didn't at some time
@@ -2108,6 +2373,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2132,7 +2402,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 53f7dfff-a263-4ae1-900a-ffe0413c9542
-    claim_hash: d29a0d1aecd1fb4c25b977490b74ec59379e5adba47c5510a896a5cebf19a231
+    claim_hash: a569375c1b81ca472428605706fc8240f82ace7bfbd7243aad07838ced0330b8
     content: Edgar Mitchell did not recall whether he saw light flashes while on the lunar surface.
     original_excerpt: I just, no, I don't remember about the lunar surface.
     claim_type: observation
@@ -2146,6 +2416,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2170,7 +2445,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: e3cc2d13-dfd5-40b2-b4a0-03849eb4eb4a
-    claim_hash: c6595a6a97a22e7f39b5a1c1417d33feb943b2f5c8d94ae8825356204b380a8d
+    claim_hash: a2ec760be50386ef1432de06faf9ae1572d8ca1d8edc4c73805c6fe74ce064b2
     content: There was very little sleep at night during the Apollo 14 mission.
     original_excerpt: There was precious little sleep at night anyhow.
     claim_type: observation
@@ -2184,6 +2459,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2205,7 +2485,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 277a4d0a-a3ca-439f-a3be-6c9a6b67d347
-    claim_hash: 3d11cc718c32d4250eaff58d2f61d07f4daf616555a75429f1e0bd42ec435dc6
+    claim_hash: cd2fcd8bcc274575d617cee862fcfbf61303c805c3607dc4fc8239a0be55103c
     content: The Apollo 14 crew had the impression that the light flashes occurred definitely within the eye rather than within
       the spacecraft cabin.
     original_excerpt: Did you get the impression that light flashes could have been within the cabin or definitely within
@@ -2219,6 +2499,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2240,7 +2525,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 5da3ff3f-c4fb-4ac3-a9c1-1f6da804bee4
-    claim_hash: 2e9cadfdfc8157fce675341c2655ae11db12f43854ead666b475ef3d8d0c5fab
+    claim_hash: b4f3fda41fa9b0a8e45410893503fb7e5e9b7c0caf9d3d0541b470ca22e2a009
     content: Edgar Mitchell reported observing a diffuse cloud-like lighting phenomenon on a couple of occasions during Apollo
       14.
     original_excerpt: I think it occurred, I reported it a couple of times... it was just a diffuse lighting.
@@ -2255,6 +2540,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2279,7 +2569,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: e1e79838-8da6-4682-8cb4-abf54720c9c6
-    claim_hash: d045488b87794906fad65ccbdeb4dd16179921967d73997edd908fc27e36ee29
+    claim_hash: fef51ecca6cf788ae03a3bfcb965728e3e2b6cbc503f4f3d8edc10af7c9e7ae1
     content: The debriefing team considered that the Apollo 14 crew provided an enormously improved amount of data on the
       light-flash phenomenon compared to any previous mission.
     original_excerpt: I think I said to Ed yesterday that you really did provide an enormously improved amount of data on
@@ -2293,6 +2583,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -2317,7 +2612,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 7587f413-f142-49e4-95be-55813fd1e3ba
-    claim_hash: 6f4c4e97dc10cf31c6534de1a67033ca8a3db82fc6ab9700ee204bb46c4acc0c
+    claim_hash: 836ba205f2aaf257c51802f7972875c660ff1b9a8f2bcf766b47a2d67140ab97
     content: Edgar Mitchell reported that shining a flashlight across his closed eyes during the Apollo 14 light-flash experiment
       did not appear to destroy his dark adaptation.
     original_excerpt: I was going to make the comment that with respect to the flashes, putting the flashlight in my eyes
@@ -2333,6 +2628,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2357,7 +2657,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: dbd1cf67-4485-4e1f-8fab-77c342aaa9cf
-    claim_hash: 669403efa3c4536a799861bfd7bd0db27d2045c8640a669da48868a0632753ea
+    claim_hash: a7adf2ba0dcddfe3e48fd52a3eace864205d54c770ef3379bedd839677d4ba1a
     content: Speaker 1 reported that during one of the Apollo 14 sleep periods, prior to the formal light-flash observation
       period, he saw light flashes without being dark-adapted.
     original_excerpt: I know during the formal hour, 40 minutes, whatever it was, that Ed was shining the light. But I don't
@@ -2372,6 +2672,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2393,7 +2698,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 57fe4305-44f3-49b8-91d3-dcef95f5549e
-    claim_hash: f0ad65e2abeac7cc29629a872b09760d8175b657c47ad96fcbdf9a51f067c72e
+    claim_hash: 00d30a0a7f16e0eda33a0d45c2bd236d96a6e645452b8f68f41139e77186f9aa
     content: During the formal Apollo 14 light-flash observation period, approximately 17 minutes elapsed before a flash was
       first recorded.
     original_excerpt: 17 minutes. Pardon? 17 minutes. No response from me.
@@ -2406,6 +2711,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.933
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2427,7 +2737,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: f1da9cc0-a93e-4cf8-9fb1-4146e502a062
-    claim_hash: 22aeba861e2dee33bdc5415548bde9c9d008337fd1c371b08088987c347146bc
+    claim_hash: db5418d75254f1b104b3c81d08d853edd30786028486eafe77efa36fdda75eb1
     content: A researcher noted that during the formal quantitative Apollo 14 light-flash observation period, one crew member
       saw twice as many flashes as the other two crew members, and suggested this may reflect a threshold effect in which
       flashes seemed fainter than expected, requiring the observer to take time to attune to fainter flashes.
@@ -2443,6 +2753,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.556
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2464,7 +2779,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: c5c47b8f-fb88-42b5-9ff4-f3fa774c3c3a
-    claim_hash: 595c748e409281400d5dc421e31db0f8e1dc838ffd1fd45807897fa733f48e42
+    claim_hash: fe018ccd293af25fbc0032203744865a7692d87f5431c31f5c7a1d5f1616eec9
     content: Speaker 1 reported that during a sleep-period wake-up on Apollo 14, he saw an abundance of light flashes that
       seemed to be all over the place, and was surprised that during the formal timed observation period only a few flashes
       were seen.
@@ -2480,6 +2795,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.78
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2501,7 +2821,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: e2758198-ce01-4c4b-885f-30c846b43804
-    claim_hash: 6513ec2d38950ca63e1a54c51a728068c113e27ea51d8a20549b13645ed97f19
+    claim_hash: dcf6d4e0dfda3a771dfdaa7410e0ec4f92ac3b6a18c64aba394cc77187bb3368
     content: A researcher observed that a crew member's subjective impression of seeing more light flashes on his left side
       than his right side during the formal Apollo 14 observation was not borne out by the recorded data.
     original_excerpt: your subjective impression is not necessarily right. Like you felt that you saw more of them in your
@@ -2515,6 +2835,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2536,7 +2861,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 064d6970-7104-40d2-9cce-240b8ffe0c77
-    claim_hash: c5b0a3aa3d88d438cb8e267a2177dcdacc0824428ff3acbd3c2202b2519f0ceb
+    claim_hash: c37bcd40dc0f028c1e1724d9f038d56cf1bc0ff28c51da390866a1097e7c3e40
     content: Speaker 1 reported that the light flashes seen upon waking during sleep periods on Apollo 14 appeared brighter
       overall than the flashes observed during the formal daytime observation experiment.
     original_excerpt: the flashes you see when you wake up in the middle of the night as a whole appear to be brighter than
@@ -2550,6 +2875,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2571,7 +2901,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: 038b0b5c-1ad6-4029-8d61-497109d838d9
-    claim_hash: 0a02437c70113452f93a6d173508920dd42776af4289537e8f5af33411d2cffd
+    claim_hash: 61e1b4a7d5ab6a9ef2634c747720c4d54b62060812eabcd616342aca5f420161
     content: Speaker 1 reported being reluctant during the formal Apollo 14 light-flash observation period to report anything
       other than a very definite flash.
     original_excerpt: I was a little reluctant to call anything except a very positive flash during that during that time
@@ -2585,6 +2915,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7efff432-778d-4597-9fd7-0c9a141e8e2b
         title: Apollo 14
@@ -2606,7 +2941,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: cbfafc8c-2a92-4b58-adb8-f2c2fee7a03a
-    claim_hash: b6d0548b47e5911817410cf95a9588709bff9069a9d61167cee31e664ff0b947
+    claim_hash: c1d5fe0e3da0891c2f2a2d7109c8c5739bd53a79dbc2b4235299c8305597723b
     content: No crew member other than Edgar Mitchell reported seeing colour in the light flashes observed during Apollo 14.
     original_excerpt: Ed saw one blue flash. Did anyone else see color? / No.
     claim_type: observation
@@ -2618,6 +2953,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2642,7 +2982,7 @@ claims:
       content_hash: sha256:0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a9956f14b0c9
       friendly_name: null
   - claim_id: c3a3891e-608d-499e-8ba6-73a787fd8806
-    claim_hash: d1a704c6a8cb928f483ea290ed2b8146eeed22c653665e05dd29c7f77210d587
+    claim_hash: b022e4d97b4594a5473e73d8149fd4e00c92d6d738974ee29f276957f40dbf7f
     content: Similar blue lights also featured in Edgar Mitchell's Apollo 14 mission, according to Edgar Mitchell's own account.
     original_excerpt: they also featured in Edgar Mitchell's Apollo 14 mission from Edgar's own account.
     claim_type: testimony
@@ -2656,6 +2996,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2677,7 +3022,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 6175cf1b-3dc1-4e78-a5fe-4709dd76610a
-    claim_hash: 15c8a03ff01aa78f46f812a9da3a01bda2c57ade973b338287932ac0007f3c1b
+    claim_hash: 9d1aaa0c73ed7a70ed7810681349edab23ecbf04082963107bf215e22bdd592d
     content: Edgar Mitchell admitted that he personally saw the blue-light objects with his own eyes during the Apollo 14
       mission.
     original_excerpt: I know Edgar Mitchell admitted that he had seen these objects himself with his own eyes.
@@ -2692,6 +3037,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2713,7 +3063,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 2f1a6c8d-aa67-42a3-a960-11a69a3cea68
-    claim_hash: ac66e88048a13bfcf371f27aad17c89f09676e1e4cfc7042e8e6383f75432a4a
+    claim_hash: c3d081c6845c323c6b4f06753f898baab4c4000ca9755d740d5848323cd2bba9
     content: Edgar Mitchell told friends, including a close friend of Ross Coulthart, that he saw blue images that followed
       the Apollo 14 crew out to the Moon, followed them while on the Moon, and followed them back.
     original_excerpt: And he told friends, including a very close friend of mine about it, and said, "I saw those blue images.
@@ -2730,6 +3080,11 @@ claims:
         - a close friend of Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.907
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -2751,7 +3106,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 3539dcc4-a7a5-4183-aa09-a6a23f12473f
-    claim_hash: 96a2029d98e9ec23e6684414d27b7ede81e578d158f6f67b50c2f322f77da631
+    claim_hash: 845b64bccb1a788e24b8e2cc37ae6950348b0d2d7c78e123c28043813e6559f7
     content: 'A close friend of Edgar Mitchell, known to Ross Coulthart, told Ross Coulthart that when Edgar Mitchell was
       asked why he didn''t speak about what he saw on the lunar surface and afterward during the Apollo 14 mission, Mitchell
       answered with one word: treason.'
@@ -2770,6 +3125,11 @@ claims:
         - a close friend of Edgar Mitchell known to Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
