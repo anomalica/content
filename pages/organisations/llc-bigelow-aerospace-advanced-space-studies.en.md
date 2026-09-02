@@ -1,5 +1,5 @@
 ---
-title: LLC Bigelow Aerospace Advanced Space Studies
+title: Bigelow Aerospace Advanced Space Studies, LLC
 aliases:
 - /organisations/bigelow-aerospace-advanced-space-studies/
 - /en/organisations/bigelow-aerospace-advanced-space-studies/

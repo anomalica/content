@@ -1,5 +1,5 @@
 ---
-title: Paris France
+title: France, Paris
 description: Paris, the capital of France, recurs across UAP-related testimony and
   archival material as a site of Cold War-era UFO investigation, esoteric activity
   attributed to the Order of Melchizedek, early psychical research, and Whitley Strieber's
