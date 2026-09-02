@@ -1,5 +1,5 @@
 ---
-title: human-alien hybridization
+title: Human-alien hybridization
 aliases:
 - /topics/human-alien-hybridisation/
 - /en/topics/human-alien-hybridisation/

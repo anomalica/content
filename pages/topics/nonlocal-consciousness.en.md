@@ -1,5 +1,5 @@
 ---
-title: nonlocal consciousness
+title: Nonlocal consciousness
 aliases:
 - /topics/non-local-consciousness/
 - /en/topics/non-local-consciousness/

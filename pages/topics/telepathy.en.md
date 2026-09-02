@@ -1,5 +1,5 @@
 ---
-title: telepathy
+title: Telepathy
 description: Telepathy is the purported ability to communicate or perceive thoughts
   mind-to-mind without the physical senses, discussed across survival-of-death research,
   close-encounter testimony and contemporary psi research.

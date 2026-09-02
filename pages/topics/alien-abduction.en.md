@@ -1,5 +1,5 @@
 ---
-title: alien abduction
+title: Alien abduction
 aliases:
 - /topics/alien-abduction-phenomenon/
 - /en/topics/alien-abduction-phenomenon/

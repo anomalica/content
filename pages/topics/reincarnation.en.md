@@ -1,5 +1,5 @@
 ---
-title: reincarnation
+title: Reincarnation
 description: Reincarnation is the concept that a personality or some element of consciousness
   survives bodily death and is reborn into a new life, studied by psychiatric researchers
   through children who report memories of a previous life and described as a governed

@@ -1,5 +1,5 @@
 ---
-title: polymerase chain reaction
+title: Polymerase chain reaction
 aliases:
 - /topics/polymerase-chain-reaction-pcr/
 - /en/topics/polymerase-chain-reaction-pcr/

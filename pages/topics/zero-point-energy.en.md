@@ -1,5 +1,5 @@
 ---
-title: zero-point energy
+title: Zero-point energy
 aliases:
 - /topics/topic-zero-point-energy/
 - /en/topics/topic-zero-point-energy/

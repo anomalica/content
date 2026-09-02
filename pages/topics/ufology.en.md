@@ -1,5 +1,5 @@
 ---
-title: ufology
+title: Ufology
 description: Ufology is the study of unidentified flying objects, encompassing a materialist
   tradition focused on physical evidence and a second tradition, arising from hypnotic
   regression and the contactee and abduction movements, that centres on experiencers
