@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b7219034633180675f9ce7dedf5af9e2b75d147cd201ddf79475f6fcd9b30c68
 page:
   kind: entity
-  node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+  nodes:
+    - node_id: 96175958-bd7a-40fa-864b-8ef07a7b6c5e
+      name: The Monroe Institute
+      node_type: organisation
   node_type: organisation
   title: The Monroe Institute
   slug: the-monroe-institute

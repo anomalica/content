@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6e469716bc1baa7130af4110dc46d2e22cb3c00f8e0fbe11d3053bbac7be62aa
 page:
   kind: entity
-  node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+  nodes:
+    - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
+      name: Bill Nelson
+      node_type: person
   node_type: person
   title: Bill Nelson
   slug: bill-nelson

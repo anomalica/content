@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3df5071154009f35b3562b50bfc4a30cd18bb680012c9b0d90d7700679e58b03
 page:
   kind: entity
-  node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+  nodes:
+    - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+      name: Judy Cook
+      node_type: person
   node_type: person
   title: Judy Cook
   slug: judy-cook

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c0e97102a9298450848e9ab079babd8e49d07d613549c89b0d04af7a73df39bc
 page:
   kind: entity
-  node_id: cd02423b-895b-4fe8-8929-7738d1069314
+  nodes:
+    - node_id: cd02423b-895b-4fe8-8929-7738d1069314
+      name: Jim Lovell
+      node_type: person
   node_type: person
   title: Jim Lovell
   slug: jim-lovell

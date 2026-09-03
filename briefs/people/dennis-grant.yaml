@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 323e0dda8ef8cda01f568c93dbe84ae10326fe52aba1f52f296d4384e3b6b919
 page:
   kind: entity
-  node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+  nodes:
+    - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
+      name: Dennis Grant
+      node_type: person
   node_type: person
   title: Dennis Grant
   slug: dennis-grant

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5a25fc1ec13b25935546bff8b1096b9f69aba662c55c56ec2869855a2bbf3e6e
 page:
   kind: entity
-  node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+  nodes:
+    - node_id: a6562833-55c1-43a2-ba01-47c66c2d327f
+      name: David Jacobs
+      node_type: person
   node_type: person
   title: David Jacobs
   slug: david-jacobs

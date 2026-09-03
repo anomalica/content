@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 418b53114fb005ca0b889d595583c68498c1cc8427123da4583e7a8fdb830918
 page:
   kind: entity
-  node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+  nodes:
+    - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
+      name: Immaculate Constellation
+      node_type: project
   node_type: project
   title: Immaculate Constellation
   slug: immaculate-constellation

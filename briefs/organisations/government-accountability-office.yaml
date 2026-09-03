@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1c069de4220327f0414123fb711488718dbd04a839c8fb5440806f8b4f532fb1
 page:
   kind: entity
-  node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+  nodes:
+    - node_id: dfd18bbc-2906-454f-90fc-a8fbf36a5f9b
+      name: Government Accountability Office
+      node_type: organisation
   node_type: organisation
   title: Government Accountability Office
   slug: government-accountability-office

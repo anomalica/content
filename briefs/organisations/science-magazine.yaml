@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 049f6fd7ab6e651afd306d2f82b65b4a02d7be25da544f860929977197ab957b
 page:
   kind: entity
-  node_id: 1968e1b3-21cc-4ad5-94fb-11d96334d388
+  nodes:
+    - node_id: 1968e1b3-21cc-4ad5-94fb-11d96334d388
+      name: Science (magazine)
+      node_type: organisation
   node_type: organisation
   title: Science (magazine)
   slug: science-magazine

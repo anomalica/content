@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 30032c32c35ce60cb494020f49e55e4361f566b91a2787f3871289a693275216
 page:
   kind: entity
-  node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+  nodes:
+    - node_id: a0bc0de8-1d81-44e5-96a7-30706ccc34a4
+      name: Jake Barber
+      node_type: person
   node_type: person
   title: Jake Barber
   slug: jake-barber

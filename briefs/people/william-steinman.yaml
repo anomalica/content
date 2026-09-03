@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 95156f46bd69bf82be827a6fcda7f7ef45a5a997bfcbed6ba03c18ba5735e387
 page:
   kind: entity
-  node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+  nodes:
+    - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
+      name: William Steinman
+      node_type: person
   node_type: person
   title: William Steinman
   slug: william-steinman

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 334ee049e51eb6bf0fce02e5cedeb8ec09a428960d2c31448998a2b0076568ce
 page:
   kind: entity
-  node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+  nodes:
+    - node_id: 0e07f47f-6926-41f6-81f7-85f1f628a4c0
+      name: Benjamin Simon
+      node_type: person
   node_type: person
   title: Benjamin Simon
   slug: benjamin-simon

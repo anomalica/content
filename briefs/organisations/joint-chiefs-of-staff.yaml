@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 09e99168918bd39498574f124e0819d699a262d5b35c1f444210b9f3b1be6364
 page:
   kind: entity
-  node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
+  nodes:
+    - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
+      name: Joint Chiefs of Staff
+      node_type: organisation
   node_type: organisation
   title: Joint Chiefs of Staff
   slug: joint-chiefs-of-staff

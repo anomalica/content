@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cc8b6f65435a5108e1c108c9ecff1211ef374b45c788fd2d188afc1ab96fc98a
 page:
   kind: entity
-  node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+  nodes:
+    - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+      name: USA, District of Columbia, Washington
+      node_type: place
   node_type: place
   title: USA, District of Columbia, Washington
   slug: district-of-columbia-washington-usa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3c94c99db5e278f292d9f62840900ec6c972c259dc74d01457f3f26d78aee75f
 page:
   kind: entity
-  node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+  nodes:
+    - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+      name: John Greenewald
+      node_type: person
   node_type: person
   title: John Greenewald
   slug: john-greenewald

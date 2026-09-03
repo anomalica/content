@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 84f4afbb501d5bf6d69f89b42a08b4d7b55801638c7dd8b14c36ef214a4ac3c1
 page:
   kind: entity
-  node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+  nodes:
+    - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
+      name: Outer Space Affairs Group
+      node_type: organisation
   node_type: organisation
   title: Outer Space Affairs Group
   slug: outer-space-affairs-group

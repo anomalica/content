@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 439e1fbb48ea94e7c1d23a324cbd961683500c023d02ca9ca34ac201868334f0
 page:
   kind: entity
-  node_id: f734df78-1ca4-463a-a3be-b431fccf710e
+  nodes:
+    - node_id: f734df78-1ca4-463a-a3be-b431fccf710e
+      name: France, Paris
+      node_type: place
   node_type: place
   title: France, Paris
   slug: paris-france

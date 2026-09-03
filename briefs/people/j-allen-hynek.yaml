@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8095ffed577666e903964a5aeaf70c7832c7d35af0e4abb1a7b740a89b140060
 page:
   kind: entity
-  node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+  nodes:
+    - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
+      name: J. Allen Hynek
+      node_type: person
   node_type: person
   title: J. Allen Hynek
   slug: j-allen-hynek

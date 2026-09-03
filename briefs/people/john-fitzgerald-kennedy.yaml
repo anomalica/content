@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b82488a32e326d41ae731ab5ce2b1faeec6d156f3f2b94fee0adff7f5ca03b86
 page:
   kind: entity
-  node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+  nodes:
+    - node_id: c3c90829-7c63-4c5d-8ba1-e96d65aa1a03
+      name: John Fitzgerald Kennedy
+      node_type: person
   node_type: person
   title: John Fitzgerald Kennedy
   slug: john-fitzgerald-kennedy

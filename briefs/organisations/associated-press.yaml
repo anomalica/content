@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a296f246bacdd353f0c6c3f746e5bbffccd174e9d84e464b194e5d4002205f05
 page:
   kind: entity
-  node_id: 9a751dc2-c8e9-48f9-a82f-5f530cb5430c
+  nodes:
+    - node_id: 9a751dc2-c8e9-48f9-a82f-5f530cb5430c
+      name: Associated Press
+      node_type: organisation
   node_type: organisation
   title: Associated Press
   slug: associated-press

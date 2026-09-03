@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 87865bdefc937422430c3169b60b14ec7f3a994883bc75603138d8ef2390bf01
 page:
   kind: entity
-  node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+  nodes:
+    - node_id: c4098a01-d401-471e-91fe-9a746d3ad69b
+      name: Soviet Union
+      node_type: organisation
   node_type: organisation
   title: Soviet Union
   slug: soviet-union

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ad2fb33a660f3348f96015dc581939eec28a7fb038e1d07a61f5216aa2fd3721
 page:
   kind: entity
-  node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+  nodes:
+    - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      name: Ross Coulthart
+      node_type: person
   node_type: person
   title: Ross Coulthart
   slug: ross-coulthart
@@ -94,7 +97,7 @@ related_nodes:
     slug: the-pentagon
     shared_claims: 13
   - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-    title: psionics
+    title: Psionics
     node_type: topic
     slug: psionics
     shared_claims: 12
@@ -11038,7 +11041,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -11083,7 +11086,7 @@ claims:
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -11168,7 +11171,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -11592,7 +11595,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -17237,7 +17240,7 @@ claims:
         title: United States Congress
         slug: united-states-congress
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: 8ddc4565-b44b-40b1-8508-5379c551ab23
         title: United States Constitution
@@ -17632,7 +17635,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
@@ -17641,7 +17644,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -19159,7 +19162,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -19547,7 +19550,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -19626,16 +19629,16 @@ claims:
       premise: window
     node_refs:
       - node_id: 2889f3e9-7fe4-481e-bb38-2616940e97a6
-        title: particle beam weapon
+        title: Particle beam weapon
         slug: particle-beam-weapon
       - node_id: e28cecb2-7380-4b91-b102-9221a8bd69b5
-        title: scalar weapon
+        title: Scalar weapon
         slug: scalar-weapon
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -19677,7 +19680,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -19717,7 +19720,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -19766,7 +19769,7 @@ claims:
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -19858,7 +19861,7 @@ claims:
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -21357,7 +21360,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-        title: whistleblower protection for defence contractors
+        title: Whistleblower protection for defence contractors
         slug: whistleblower-protection-for-defence-contractors
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -21402,7 +21405,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-        title: whistleblower protection for defence contractors
+        title: Whistleblower protection for defence contractors
         slug: whistleblower-protection-for-defence-contractors
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -21444,7 +21447,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-        title: whistleblower protection for defence contractors
+        title: Whistleblower protection for defence contractors
         slug: whistleblower-protection-for-defence-contractors
       - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
         title: Lockheed Martin
@@ -22609,7 +22612,7 @@ claims:
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -22777,7 +22780,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 8735afd3-e7db-4f67-a5ee-7a938bbd4310
-        title: apartheid
+        title: Apartheid
         slug: apartheid
       - node_id: 98d973da-5f3b-4ec4-b9af-67df71de76a6
         title: F. W. de Klerk
@@ -22867,7 +22870,7 @@ claims:
         title: South West Africa People's Organisation (SWAPO)
         slug: south-west-africa-peoples-organisation-swapo
       - node_id: 8735afd3-e7db-4f67-a5ee-7a938bbd4310
-        title: apartheid
+        title: Apartheid
         slug: apartheid
       - node_id: cb4bbe9b-5e49-46a3-a88d-979b15e63c65
         title: South African Truth and Reconciliation Commission
@@ -22914,7 +22917,7 @@ claims:
         title: South West Africa People's Organisation (SWAPO)
         slug: south-west-africa-peoples-organisation-swapo
       - node_id: 8735afd3-e7db-4f67-a5ee-7a938bbd4310
-        title: apartheid
+        title: Apartheid
         slug: apartheid
     date: null
     date_end: null
@@ -23074,7 +23077,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 8735afd3-e7db-4f67-a5ee-7a938bbd4310
-        title: apartheid
+        title: Apartheid
         slug: apartheid
     date: null
     date_end: null
@@ -24299,7 +24302,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -25322,7 +25325,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null
@@ -25590,7 +25593,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null
@@ -25676,7 +25679,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null
@@ -25718,7 +25721,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null
@@ -25975,7 +25978,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null
@@ -26065,7 +26068,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null
@@ -28316,7 +28319,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
-        title: artificial intelligence generated video fakery
+        title: Artificial intelligence generated video fakery
         slug: artificial-intelligence-generated-video-fakery
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -29458,7 +29461,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -29558,7 +29561,7 @@ claims:
         title: Esalen Institute
         slug: esalen-institute
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
     date: null
     date_end: null
@@ -29604,7 +29607,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -29654,7 +29657,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
         title: Esalen blue hexagonal orb photographs
@@ -29844,7 +29847,7 @@ claims:
         title: Esalen Institute
         slug: esalen-institute
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -30031,7 +30034,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -30329,7 +30332,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: ad56db74-fbe1-4ef6-85e0-4af6c018aa7a
         title: Confirmation bias
@@ -30733,7 +30736,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -30779,7 +30782,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -31457,7 +31460,7 @@ claims:
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -31499,7 +31502,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -31539,7 +31542,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: c6475f05-fafb-45ec-a900-38c363fa39c1
         title: In Plain Sight (Ross Coulthart book)
@@ -31586,7 +31589,7 @@ claims:
         title: The Pentagon
         slug: the-pentagon
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -31756,7 +31759,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 840833d7-9651-4fff-94af-eff8f572068a
-        title: ancient megalithic ruins
+        title: Ancient megalithic ruins
         slug: ancient-megalithic-ruins
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -31797,7 +31800,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 840833d7-9651-4fff-94af-eff8f572068a
-        title: ancient megalithic ruins
+        title: Ancient megalithic ruins
         slug: ancient-megalithic-ruins
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -31842,7 +31845,7 @@ claims:
         title: Egypt, Giza, Great Sphinx of Giza
         slug: giza-great-sphinx-of-giza-egypt
       - node_id: 840833d7-9651-4fff-94af-eff8f572068a
-        title: ancient megalithic ruins
+        title: Ancient megalithic ruins
         slug: ancient-megalithic-ruins
       - node_id: 92847e5f-890b-43a1-8535-b85bad96b2dd
         title: Younger Dryas
@@ -32026,7 +32029,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -32068,7 +32071,7 @@ claims:
         title: Michael Denton
         slug: michael-denton
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -32115,7 +32118,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -32160,7 +32163,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -32205,7 +32208,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -33197,7 +33200,7 @@ claims:
       premise: window
     node_refs:
       - node_id: e28cecb2-7380-4b91-b102-9221a8bd69b5
-        title: scalar weapon
+        title: Scalar weapon
         slug: scalar-weapon
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -33496,7 +33499,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-        title: triune brain theory
+        title: Triune brain theory
         slug: triune-brain-theory
       - node_id: de4613fa-3a05-4a97-b175-89376dd73386
         title: Arthur Koestler
@@ -33539,7 +33542,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-        title: triune brain theory
+        title: Triune brain theory
         slug: triune-brain-theory
       - node_id: de4613fa-3a05-4a97-b175-89376dd73386
         title: Arthur Koestler
@@ -33581,7 +33584,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-        title: triune brain theory
+        title: Triune brain theory
         slug: triune-brain-theory
       - node_id: de4613fa-3a05-4a97-b175-89376dd73386
         title: Arthur Koestler
@@ -39454,7 +39457,7 @@ claims:
         title: USA, New Mexico, White Sands Missile Range
         slug: new-mexico-white-sands-missile-range-usa
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
     date: null
     date_end: null
@@ -40580,7 +40583,7 @@ claims:
         title: Donald Trump
         slug: donald-trump
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
       - node_id: c4a2012c-4510-410e-bf59-ecf3adeb279d
         title: King Air
@@ -40628,7 +40631,7 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
     date: null
     date_end: null
@@ -40939,7 +40942,7 @@ claims:
         title: Non-Human Intelligence
         slug: non-human-intelligence
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
     date: null
     date_end: null

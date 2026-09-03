@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a1c43e3ddb264c878082a878aade3015bbd576d1c33e49887a5dfa90a83b713d
 page:
   kind: entity
-  node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+  nodes:
+    - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+      name: 2004 USS Nimitz UAP encounter
+      node_type: event
   node_type: event
   title: 2004 USS Nimitz UAP encounter
   slug: 2004-uss-nimitz-uap-encounter

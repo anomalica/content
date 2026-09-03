@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 497c6a94a9ed80c7c9751197028df639e361f05ebec465d80bc9de35e039e4e9
 page:
   kind: entity
-  node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+  nodes:
+    - node_id: 11917292-9774-4cdc-8480-4ecd97a0b600
+      name: Princeton University
+      node_type: organisation
   node_type: organisation
   title: Princeton University
   slug: princeton-university

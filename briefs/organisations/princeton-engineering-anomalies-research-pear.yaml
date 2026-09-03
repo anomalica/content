@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4efcc79e53f82ff0c6fad9f1cb00c2b46b0a9a16a51e6f02d088dd6a4cf3557d
 page:
   kind: entity
-  node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+  nodes:
+    - node_id: 65480ae6-531e-4a7b-878c-cae6bd0bac3e
+      name: Princeton Engineering Anomalies Research (PEAR)
+      node_type: organisation
   node_type: organisation
   title: Princeton Engineering Anomalies Research (PEAR)
   slug: princeton-engineering-anomalies-research-pear

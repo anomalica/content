@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fc54e95c2c6b9ae5caf8fdf16320d985926e5e495cc3528f54560d1776d91659
 page:
   kind: entity
-  node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
+  nodes:
+    - node_id: eb5b9f7f-79d4-4bc7-9381-0ef49ea6fa3d
+      name: Screen memory
+      node_type: topic
   node_type: topic
   title: Screen memory
   slug: screen-memory

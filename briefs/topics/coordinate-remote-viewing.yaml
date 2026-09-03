@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: df56128f3342a9bf21b9a47f9d3eb2aa5bb71edbc2577ab528f8aa69d3e01df0
 page:
   kind: entity
-  node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+  nodes:
+    - node_id: c28e8e30-1748-4e98-9b84-02407a8e1e26
+      name: Coordinate Remote Viewing
+      node_type: topic
   node_type: topic
   title: Coordinate Remote Viewing
   slug: coordinate-remote-viewing

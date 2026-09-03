@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 07a05984ec58f4ddb91c69678b77c390271689fced4c87b935e9935f9375a5cf
 page:
   kind: entity
-  node_id: 3500b57a-0dcb-4d35-be16-bdc98305007e
+  nodes:
+    - node_id: 3500b57a-0dcb-4d35-be16-bdc98305007e
+      name: Daniel Fry
+      node_type: person
   node_type: person
   title: Daniel Fry
   slug: daniel-fry

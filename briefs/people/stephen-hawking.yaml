@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 106020dbf66969114f069e1ce8243d2392f856e35efa9bd1f55a78a655cdf256
 page:
   kind: entity
-  node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+  nodes:
+    - node_id: 514c9a2e-3e4e-40f2-8832-2709aa98c567
+      name: Stephen Hawking
+      node_type: person
   node_type: person
   title: Stephen Hawking
   slug: stephen-hawking

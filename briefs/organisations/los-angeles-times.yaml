@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b8d834daf551e7a3d5385e26fd57e2da7f318f4c4cef208c0afffd85b2c7e478
 page:
   kind: entity
-  node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+  nodes:
+    - node_id: dd7cc1c5-c334-4b4f-ac19-14c06c2dd039
+      name: Los Angeles Times
+      node_type: organisation
   node_type: organisation
   title: Los Angeles Times
   slug: los-angeles-times

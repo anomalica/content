@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c1a41b3086fcc22becd6ccfc145074c394ac4e7d88ad38769d863853f79411a3
 page:
   kind: entity
-  node_id: 6dcf8da7-42a8-4a4a-8f1d-38b7fcd032b5
+  nodes:
+    - node_id: 6dcf8da7-42a8-4a4a-8f1d-38b7fcd032b5
+      name: Pew Research Center
+      node_type: organisation
   node_type: organisation
   title: Pew Research Center
   slug: pew-research-center

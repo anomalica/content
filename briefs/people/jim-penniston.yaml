@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: de919cd752c31c66596cefd4b585b81dce6a487367440858e0df525a0713107d
 page:
   kind: entity
-  node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+  nodes:
+    - node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
+      name: Jim Penniston
+      node_type: person
   node_type: person
   title: Jim Penniston
   slug: jim-penniston

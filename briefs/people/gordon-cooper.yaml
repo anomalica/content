@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fe8705c43bb3cd536aab9252ffaa981930423392002aa6183a4c1a7c71a8c0c6
 page:
   kind: entity
-  node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+  nodes:
+    - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
+      name: Gordon Cooper
+      node_type: person
   node_type: person
   title: Gordon Cooper
   slug: gordon-cooper

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 68258f4aeeeb252c77c329b10637932c52280c076b6746a0e39f4cc840abfcd5
 page:
   kind: entity
-  node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+  nodes:
+    - node_id: 706d02f7-09d8-4d58-b064-88c79bc6a53d
+      name: Waived Unacknowledged Special Access Programs (WUSAPs)
+      node_type: topic
   node_type: topic
   title: Waived Unacknowledged Special Access Programs (WUSAPs)
   slug: waived-unacknowledged-special-access-programs-wusaps

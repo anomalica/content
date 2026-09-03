@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6869ae0a980c863e571af0968b888731f2b395ac231f9ba6ab7f9d3810e9b0c6
 page:
   kind: entity
-  node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+  nodes:
+    - node_id: caa7a656-2215-4d61-b883-12ce5ece01a6
+      name: National Academy of Sciences
+      node_type: organisation
   node_type: organisation
   title: National Academy of Sciences
   slug: national-academy-of-sciences

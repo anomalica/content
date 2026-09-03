@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6369a439bc5ce9c6bc9cd22804df64fa80a54c8d5f057926970727a37860fc6e
 page:
   kind: entity
-  node_id: 7c2dc890-9158-4057-a773-a3439914d603
+  nodes:
+    - node_id: 7c2dc890-9158-4057-a773-a3439914d603
+      name: Brazilian Air Force
+      node_type: organisation
   node_type: organisation
   title: Brazilian Air Force
   slug: brazilian-air-force

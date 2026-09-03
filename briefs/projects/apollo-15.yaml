@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c52ba2fa8af47727793388db9c3a76ff499eddbef2f0ad8104f3d7d9b43f92e4
 page:
   kind: entity
-  node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+  nodes:
+    - node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
+      name: Apollo 15
+      node_type: project
   node_type: project
   title: Apollo 15
   slug: apollo-15

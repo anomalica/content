@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7448e287a159c25897af4fac1d550d75bf206364505ba78cd4df0d7d26714eaa
 page:
   kind: entity
-  node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+  nodes:
+    - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
+      name: Battelle Memorial Institute (BMI)
+      node_type: organisation
   node_type: organisation
   title: Battelle Memorial Institute (BMI)
   slug: battelle-memorial-institute-bmi

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1b9ae5a097fb89643e1cbec53a8083980326aeaf8d331618834fc9847557e561
 page:
   kind: entity
-  node_id: 6814b080-a222-4c03-9e18-877cf868e816
+  nodes:
+    - node_id: 6814b080-a222-4c03-9e18-877cf868e816
+      name: Lockheed
+      node_type: organisation
   node_type: organisation
   title: Lockheed
   slug: lockheed

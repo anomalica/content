@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 555386368c863f680e4a272f266a4a99c098b33857f63e31a9611dc540fa5910
 page:
   kind: entity
-  node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+  nodes:
+    - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
+      name: National Aeronautics and Space Administration (NASA)
+      node_type: organisation
   node_type: organisation
   title: National Aeronautics and Space Administration (NASA)
   slug: national-aeronautics-and-space-administration-nasa

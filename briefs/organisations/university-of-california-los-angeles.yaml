@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f297dce2308837da95748e916ae60029a46ea909488f4b7031735fe9618c4603
 page:
   kind: entity
-  node_id: b00af215-6e30-4e08-b15b-21ab67773912
+  nodes:
+    - node_id: b00af215-6e30-4e08-b15b-21ab67773912
+      name: University of California Los Angeles
+      node_type: organisation
   node_type: organisation
   title: University of California Los Angeles
   slug: university-of-california-los-angeles

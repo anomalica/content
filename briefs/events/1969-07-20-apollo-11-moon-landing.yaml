@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2d42af835df747f37c61e5e640cb3eaff9b100d672e282345b83395ddbee7f02
 page:
   kind: entity
-  node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
+  nodes:
+    - node_id: 507f01bf-31d9-4cbe-85b7-8ca02a950653
+      name: Apollo 11 Moon landing, 1969-07-20
+      node_type: event
   node_type: event
   title: Apollo 11 Moon landing, 1969-07-20
   slug: 1969-07-20-apollo-11-moon-landing

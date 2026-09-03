@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 504cbfa4c8f3bf2119a0b277cbc25e407f8dd3969c6b0a5ed91b15e2474dc1ca
 page:
   kind: entity
-  node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+  nodes:
+    - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
+      name: Trinity nuclear test
+      node_type: event
   node_type: event
   title: Trinity nuclear test
   slug: trinity-nuclear-test

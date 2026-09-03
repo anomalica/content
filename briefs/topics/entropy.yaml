@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d16f18af758902e2ac1bc9257b69356354e216f35ad9dee2e23909651e021b3f
 page:
   kind: entity
-  node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+  nodes:
+    - node_id: 0676cb5b-da79-42d5-a3c1-58646f2d0f3b
+      name: Entropy
+      node_type: topic
   node_type: topic
   title: Entropy
   slug: entropy

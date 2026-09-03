@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: dfdbeec36205c8940a2db292ba0ec79e6f1404b8fe11f32a587522b86a77de22
 page:
   kind: entity
-  node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+  nodes:
+    - node_id: ec69e08d-062d-401c-9287-46a45fdc9b4d
+      name: Donald Menzel
+      node_type: person
   node_type: person
   title: Donald Menzel
   slug: donald-menzel

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b0a87ad2a43af63e44721a7d632a9bd13f328835691f49a3af038fe0b571c312
 page:
   kind: entity
-  node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+  nodes:
+    - node_id: ebbc59cd-bc77-405b-845e-889ff3c21b47
+      name: USS Nimitz (CVN-68)
+      node_type: object
   node_type: object
   title: USS Nimitz (CVN-68)
   slug: uss-nimitz-cvn-68

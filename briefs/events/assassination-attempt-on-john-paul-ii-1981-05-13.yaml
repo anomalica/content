@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2ed01eaf01a5a0992ed92df200a9f64159a8c39ad40e2176866df98c131309db
 page:
   kind: entity
-  node_id: 38ecab4b-4ae9-4556-97b6-221dcd957341
+  nodes:
+    - node_id: 38ecab4b-4ae9-4556-97b6-221dcd957341
+      name: Assassination attempt on John Paul II (1981-05-13)
+      node_type: event
   node_type: event
   title: Assassination attempt on John Paul II (1981-05-13)
   slug: assassination-attempt-on-john-paul-ii-1981-05-13

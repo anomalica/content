@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fc680b1b0f587210b009941f9016f49a45a5694e167caa2620b6858cbd02138f
 page:
   kind: entity
-  node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+  nodes:
+    - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+      name: National Air and Space Intelligence Center (NASIC)
+      node_type: organisation
   node_type: organisation
   title: National Air and Space Intelligence Center (NASIC)
   slug: national-air-and-space-intelligence-center-nasic

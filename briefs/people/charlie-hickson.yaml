@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 080b825b98e7a11998eab9592eb27510778fe5526add4e0141f2af18c8931dfd
 page:
   kind: entity
-  node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+  nodes:
+    - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
+      name: Charlie Hickson
+      node_type: person
   node_type: person
   title: Charlie Hickson
   slug: charlie-hickson

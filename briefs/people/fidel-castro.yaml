@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7458565b807e1fa337e94aec0548d52c034dd55dc996819b451a7a9736f35015
 page:
   kind: entity
-  node_id: 7aed4677-7814-4963-9610-13d46bd97440
+  nodes:
+    - node_id: 7aed4677-7814-4963-9610-13d46bd97440
+      name: Fidel Castro
+      node_type: person
   node_type: person
   title: Fidel Castro
   slug: fidel-castro

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 856881736914cb0c281fd01e526ad27f202112c61bc4a17851419366728506d0
 page:
   kind: entity
-  node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+  nodes:
+    - node_id: b26a5e2e-9cb8-484e-92f8-d332245917b5
+      name: Phil McGraw
+      node_type: person
   node_type: person
   title: Phil McGraw
   slug: phil-mcgraw

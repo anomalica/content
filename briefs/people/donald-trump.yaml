@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fec739be7cad5fb364f7764e2104985e4ab2b07509aec003323bb6b2313843a0
 page:
   kind: entity
-  node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+  nodes:
+    - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
+      name: Donald Trump
+      node_type: person
   node_type: person
   title: Donald Trump
   slug: donald-trump
@@ -3336,7 +3339,7 @@ claims:
         title: Donald Trump
         slug: donald-trump
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
       - node_id: c4a2012c-4510-410e-bf59-ecf3adeb279d
         title: King Air

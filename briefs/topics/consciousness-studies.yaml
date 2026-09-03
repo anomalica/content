@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: facc906adda03ba1b5c59b518dcd16ebc08a17cdaa7152b3b0d3b804f5933c46
 page:
   kind: entity
-  node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+  nodes:
+    - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
+      name: Consciousness studies
+      node_type: topic
   node_type: topic
   title: Consciousness studies
   slug: consciousness-studies
@@ -133,6 +136,11 @@ related_nodes:
     node_type: topic
     slug: precognition
     shared_claims: 1
+  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+    title: Psionics
+    node_type: topic
+    slug: psionics
+    shared_claims: 1
   - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
     title: Stanford Research Institute (SRI)
     node_type: organisation
@@ -152,11 +160,6 @@ related_nodes:
     title: Unidentified Flying Object (UFO)
     node_type: topic
     slug: unidentified-flying-object-ufo
-    shared_claims: 1
-  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-    title: psionics
-    node_type: topic
-    slug: psionics
     shared_claims: 1
 claims:
   - claim_id: 3a90c067-7d45-4b1d-92c5-4355b917dfcc
@@ -471,7 +474,7 @@ claims:
         title: Consciousness studies
         slug: consciousness-studies
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

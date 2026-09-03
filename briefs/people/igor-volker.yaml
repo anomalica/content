@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9e03d02a3867c1c1c45a250a51ed7fdfd33e5ca650bd371c47dba68274d1187e
 page:
   kind: entity
-  node_id: e27e23da-63a4-4838-a952-333883df5fd0
+  nodes:
+    - node_id: e27e23da-63a4-4838-a952-333883df5fd0
+      name: Igor Volker
+      node_type: person
   node_type: person
   title: Igor Volker
   slug: igor-volker

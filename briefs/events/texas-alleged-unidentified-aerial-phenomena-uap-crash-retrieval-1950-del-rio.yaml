@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d1de224e1e97ae12d257c55689aab263a8984796184c535287e2a436819a4cae
 page:
   kind: entity
-  node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+  nodes:
+    - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
+      name: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+      node_type: event
   node_type: event
   title: 1950 Del Rio, Texas alleged UAP crash retrieval
   slug: texas-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1950-del-rio

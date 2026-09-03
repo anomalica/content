@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 599a7abdac9673d00f44cdffab85077131dc7ab7b9a1a4bcfaa901b0383aa096
 page:
   kind: entity
-  node_id: a6121d8f-c4ae-4518-8c6d-92cd60d67dde
+  nodes:
+    - node_id: a6121d8f-c4ae-4518-8c6d-92cd60d67dde
+      name: Five Eyes (FVEY)
+      node_type: organisation
   node_type: organisation
   title: Five Eyes (FVEY)
   slug: five-eyes-fvey

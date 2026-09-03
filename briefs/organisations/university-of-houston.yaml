@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 51f5f12fa2733e6a3618ed64d0f294632cd8fb71ad6d4b54e98762073e5fd065
 page:
   kind: entity
-  node_id: b7b658d0-7441-4371-8841-0515c8745e5a
+  nodes:
+    - node_id: b7b658d0-7441-4371-8841-0515c8745e5a
+      name: University of Houston
+      node_type: organisation
   node_type: organisation
   title: University of Houston
   slug: university-of-houston

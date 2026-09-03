@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6fbf7b93c04d5da9932be958f70d089cbc7f0559164f46f9ef6040679c92e115
 page:
   kind: entity
-  node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+  nodes:
+    - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
+      name: The White House
+      node_type: organisation
   node_type: organisation
   title: The White House
   slug: the-white-house

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c0c00f5f5daacf067df86f32755bb3a5862caae488bd1a6e36fd73094b332497
 page:
   kind: entity
-  node_id: 0c0b3b60-1298-4ff9-8ad7-43c3ccde1fc2
+  nodes:
+    - node_id: 0c0b3b60-1298-4ff9-8ad7-43c3ccde1fc2
+      name: Michael Cases
+      node_type: person
   node_type: person
   title: Michael Cases
   slug: michael-cases

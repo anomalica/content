@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c846ddde805036a847cc3fb5404430c87708d985ba4afd7fe05bb06640d11c00
 page:
   kind: entity
-  node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+  nodes:
+    - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+      name: North Atlantic Treaty Organization (NATO)
+      node_type: organisation
   node_type: organisation
   title: North Atlantic Treaty Organization (NATO)
   slug: north-atlantic-treaty-organization-nato

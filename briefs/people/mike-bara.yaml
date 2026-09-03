@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b10b3567f966e99044927bb79632576493dfcd45168fc13b2eb23b53fae4e3b3
 page:
   kind: entity
-  node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+  nodes:
+    - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
+      name: Mike Bara
+      node_type: person
   node_type: person
   title: Mike Bara
   slug: mike-bara

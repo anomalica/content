@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b914cb013a6bd45d63ad9b313372ec78b4d91cb8c7f3097ac61b567199cc409c
 page:
   kind: entity
-  node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+  nodes:
+    - node_id: d1ed6839-5ae4-4866-83b9-8761be29091d
+      name: USA, Nevada, Groom Lake
+      node_type: place
   node_type: place
   title: USA, Nevada, Groom Lake
   slug: nevada-groom-lake-usa

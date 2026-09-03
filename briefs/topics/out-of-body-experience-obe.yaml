@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e41a1d63e1d9c308b2fcfdbea8a9f2a6d9943e9a02c38cf2b60fcc0609200164
 page:
   kind: entity
-  node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+  nodes:
+    - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
+      name: Out-of-Body Experience (OBE)
+      node_type: topic
   node_type: topic
   title: Out-of-Body Experience (OBE)
   slug: out-of-body-experience-obe
@@ -148,6 +151,11 @@ related_nodes:
     node_type: topic
     slug: sleep-paralysis
     shared_claims: 3
+  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+    title: The Greys
+    node_type: topic
+    slug: the-greys
+    shared_claims: 3
   - node_id: 8b2d5e30-ca94-4926-98c5-70566c0988e4
     title: 1999 Admiral Duncan pub bombing
     node_type: event
@@ -177,11 +185,6 @@ related_nodes:
     title: Hemi-Sync audio technology
     node_type: topic
     slug: hemi-sync-audio-technology
-    shared_claims: 2
-  - node_id: 70eafc3a-5018-4220-9bb1-6cfcfab8a82b
-    title: Jungian archetypes
-    node_type: topic
-    slug: jungian-archetypes
     shared_claims: 2
 claims:
   - claim_id: d3b4a171-a092-4acc-b95f-7c366c11d930
@@ -6820,12 +6823,12 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 00:33:41.5-00:33:56.6

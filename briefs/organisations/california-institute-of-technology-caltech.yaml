@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d9d80b5ef06e40d0c5bc2e29674b8edc4048d44074d312ba3f6b1fbd3f1758a8
 page:
   kind: entity
-  node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+  nodes:
+    - node_id: ee833add-d4e3-4b62-88dd-9b9c496e8dd1
+      name: California Institute of Technology (Caltech)
+      node_type: organisation
   node_type: organisation
   title: California Institute of Technology (Caltech)
   slug: california-institute-of-technology-caltech

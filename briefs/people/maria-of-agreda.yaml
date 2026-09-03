@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 433bd12980ef9d3bdd4c0d63b7692527d9efe172bafca26f16bee1afdbfb792d
 page:
   kind: entity
-  node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+  nodes:
+    - node_id: ccaada0b-7348-4d54-bd7b-22896b137901
+      name: Maria of Agreda
+      node_type: person
   node_type: person
   title: Maria of Agreda
   slug: maria-of-agreda

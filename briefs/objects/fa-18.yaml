@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3240479f81ef8947b39b37be1666a494705ae4b689b591f79722fec884ea320f
 page:
   kind: entity
-  node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+  nodes:
+    - node_id: bc8fbcc7-34d0-4453-95bd-35bd520644b0
+      name: F/A-18
+      node_type: object
   node_type: object
   title: F/A-18
   slug: fa-18

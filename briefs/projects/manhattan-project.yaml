@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a4219042ac8bfa96d643e51e3ad8eb2c9edd39bc4464f060e4126fcacca2a824
 page:
   kind: entity
-  node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+  nodes:
+    - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
+      name: Manhattan Project
+      node_type: project
   node_type: project
   title: Manhattan Project
   slug: manhattan-project
@@ -62,6 +65,11 @@ related_nodes:
     title: Church of Scientology
     node_type: organisation
     slug: church-of-scientology
+    shared_claims: 1
+  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
+    title: Crash retrieval programme
+    node_type: topic
+    slug: crash-retrieval-programme
     shared_claims: 1
   - node_id: 6e416b62-f969-4155-a0aa-75a88bfe6824
     title: Ed Dahl
@@ -132,11 +140,6 @@ related_nodes:
     title: Vannevar Bush
     node_type: person
     slug: vannevar-bush
-    shared_claims: 1
-  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-    title: crash retrieval programme
-    node_type: topic
-    slug: crash-retrieval-programme
     shared_claims: 1
 claims:
   - claim_id: 0a367026-8ec5-4cb1-939c-2d317389121f
@@ -982,7 +985,7 @@ claims:
         title: Manhattan Project
         slug: manhattan-project
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null

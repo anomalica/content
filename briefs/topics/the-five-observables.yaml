@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 06c88dba8b5bd82453c5d95b4505db32f6f2f1e9615cf1f552ffbace2c6b8d24
 page:
   kind: entity
-  node_id: 12a45987-5c51-4a85-9c41-d2fbc4142d46
+  nodes:
+    - node_id: 12a45987-5c51-4a85-9c41-d2fbc4142d46
+      name: The five observables
+      node_type: topic
   node_type: topic
   title: The five observables
   slug: the-five-observables

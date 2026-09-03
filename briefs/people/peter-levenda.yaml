@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: eb770b521ed29cc024ac5efa506df96231a1badeadf76f2dce4daa4f35642506
 page:
   kind: entity
-  node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+  nodes:
+    - node_id: 34976fe1-b7eb-44ec-8fbc-a8b8e4da546a
+      name: Peter Levenda
+      node_type: person
   node_type: person
   title: Peter Levenda
   slug: peter-levenda

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4eef3cc0ecb2bd56ed77d65b207e661bbbcc8e4d09e3f83a4e88205d7f1f6d0b
 page:
   kind: entity
-  node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+  nodes:
+    - node_id: d9224bb6-e6c6-4497-8685-7673ae7e45ca
+      name: Facebook
+      node_type: organisation
   node_type: organisation
   title: Facebook
   slug: facebook
@@ -43,6 +46,11 @@ related_nodes:
     node_type: person
     slug: scott-browne
     shared_claims: 2
+  - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
+    title: Artificial intelligence generated video fakery
+    node_type: topic
+    slug: artificial-intelligence-generated-video-fakery
+    shared_claims: 1
   - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
     title: Chris Ramsay
     node_type: person
@@ -62,11 +70,6 @@ related_nodes:
     title: Tyler D.
     node_type: person
     slug: tyler-d
-    shared_claims: 1
-  - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
-    title: artificial intelligence generated video fakery
-    node_type: topic
-    slug: artificial-intelligence-generated-video-fakery
     shared_claims: 1
 claims:
   - claim_id: 9cd88981-358d-4ed5-b606-17b3398d6dd4
@@ -338,7 +341,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
-        title: artificial intelligence generated video fakery
+        title: Artificial intelligence generated video fakery
         slug: artificial-intelligence-generated-video-fakery
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

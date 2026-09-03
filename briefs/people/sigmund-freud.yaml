@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 97b8e920280564159303cdf7a8eecba309bab18934791003cf786696e123a5d3
 page:
   kind: entity
-  node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+  nodes:
+    - node_id: 6a14e481-40a1-43c8-aa57-2def9a30a1fa
+      name: Sigmund Freud
+      node_type: person
   node_type: person
   title: Sigmund Freud
   slug: sigmund-freud

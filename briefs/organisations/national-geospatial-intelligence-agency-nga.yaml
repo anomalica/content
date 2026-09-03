@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 09fa81d13d59aa19379915bdd325af1e6a2e2259ccbe50764ee32ed882c16032
 page:
   kind: entity
-  node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+  nodes:
+    - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+      name: National Geospatial-Intelligence Agency (NGA)
+      node_type: organisation
   node_type: organisation
   title: National Geospatial-Intelligence Agency (NGA)
   slug: national-geospatial-intelligence-agency-nga

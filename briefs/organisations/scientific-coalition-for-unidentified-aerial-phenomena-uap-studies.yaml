@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6b2d3706dfd4cf27b527abfdc6b0139b3f85e024614462f324f622a7d01283ac
 page:
   kind: entity
-  node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+  nodes:
+    - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
+      name: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
+      node_type: organisation
   node_type: organisation
   title: Scientific Coalition for UAP Studies
   slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies

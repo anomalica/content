@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6fa772823d5dc9052ae79f3a50600f196e20f2366ee4b61a4f8429c584ab9fdc
 page:
   kind: entity
-  node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+  nodes:
+    - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
+      name: Mexico, Mexico City
+      node_type: place
   node_type: place
   title: Mexico, Mexico City
   slug: mexico-city-mexico

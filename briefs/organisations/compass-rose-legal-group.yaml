@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0b3a688702bd6252195bff374291c667918dd9a754522c54c60b85562062718d
 page:
   kind: entity
-  node_id: cd25b06d-f567-45e1-b334-8f800f104c07
+  nodes:
+    - node_id: cd25b06d-f567-45e1-b334-8f800f104c07
+      name: Compass Rose Legal Group
+      node_type: organisation
   node_type: organisation
   title: Compass Rose Legal Group
   slug: compass-rose-legal-group

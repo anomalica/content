@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2ec1ee0f3cbcc1bf5f91a2a520d33638259d266d975306b74fde7e3e8aab61b9
 page:
   kind: entity
-  node_id: 224e26e2-c488-413d-9693-7726f1481df8
+  nodes:
+    - node_id: 224e26e2-c488-413d-9693-7726f1481df8
+      name: 1980 Rendlesham Forest incident
+      node_type: event
   node_type: event
   title: 1980 Rendlesham Forest incident
   slug: 1980-rendlesham-forest-incident

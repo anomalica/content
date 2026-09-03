@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7ae34b20b0d42de6da38297a351ad10b4fb79c12e6ef8256b983a2b29415f374
 page:
   kind: entity
-  node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+  nodes:
+    - node_id: 04eddd9c-8a44-4759-897b-f451ad8e65ff
+      name: United States Patent and Trademark Office
+      node_type: organisation
   node_type: organisation
   title: United States Patent and Trademark Office
   slug: united-states-patent-and-trademark-office

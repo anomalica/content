@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2ca5eeb4bb0c0074d710d55e7eff08771211e67c75521c3bca7c78b05668b908
 page:
   kind: entity
-  node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+  nodes:
+    - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
+      name: Christopher Bledsoe
+      node_type: person
   node_type: person
   title: Christopher Bledsoe
   slug: christopher-bledsoe

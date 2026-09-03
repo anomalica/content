@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 94c99d24caf7fba25ecb127145c4eb9eeccbd81da2735aa49848043b346e5da8
 page:
   kind: entity
-  node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+  nodes:
+    - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      name: Luis Elizondo
+      node_type: person
   node_type: person
   title: Luis Elizondo
   slug: luis-elizondo

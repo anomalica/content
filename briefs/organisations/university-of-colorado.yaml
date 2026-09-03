@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 60bfa2a8b249ed4b9ab7006b8378dcd76030daffaabab41bb55e188c3020f8ee
 page:
   kind: entity
-  node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
+  nodes:
+    - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
+      name: University of Colorado
+      node_type: organisation
   node_type: organisation
   title: University of Colorado
   slug: university-of-colorado

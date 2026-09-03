@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 48801c07a8d59f409763f2bcf15bf768e4f2d51e89f0e3b67ab3d215c5eddc09
 page:
   kind: entity
-  node_id: a2ef7e82-b7e5-4099-9065-c98b8a795968
+  nodes:
+    - node_id: a2ef7e82-b7e5-4099-9065-c98b8a795968
+      name: Royal Society
+      node_type: organisation
   node_type: organisation
   title: Royal Society
   slug: royal-society

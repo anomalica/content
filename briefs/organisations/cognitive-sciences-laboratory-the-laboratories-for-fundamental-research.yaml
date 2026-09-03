@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 44a2f9242f3c4299cceefcf0f696500ec70420d50a9b0cef5a7ccd094f7f08d8
 page:
   kind: entity
-  node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+  nodes:
+    - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
+      name: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
+      node_type: organisation
   node_type: organisation
   title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
   slug: cognitive-sciences-laboratory-the-laboratories-for-fundamental-research

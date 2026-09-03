@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6bda43f37f9f9952719f88855a2a94f41f3b8f7f55d29d820b6b091ff68b1bb8
 page:
   kind: entity
-  node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+  nodes:
+    - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+      name: US Senate Select Committee on Intelligence
+      node_type: organisation
   node_type: organisation
   title: US Senate Select Committee on Intelligence
   slug: us-senate-select-committee-on-intelligence

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 57bb53e018e8ab894e3be36c7089d50719db160865af39177a21628463010e72
 page:
   kind: entity
-  node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+  nodes:
+    - node_id: 2ac310ed-0be4-43bd-a103-64143b4d20a8
+      name: Jeffrey Epstein
+      node_type: person
   node_type: person
   title: Jeffrey Epstein
   slug: jeffrey-epstein

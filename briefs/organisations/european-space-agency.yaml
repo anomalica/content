@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 30fbe161cb1cb7f896de2086e35aff502e0b2ad83ff8c6b9e12d97453d53bd08
 page:
   kind: entity
-  node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+  nodes:
+    - node_id: 808c6fba-beff-4734-b8d0-4b40984b19d9
+      name: European Space Agency
+      node_type: organisation
   node_type: organisation
   title: European Space Agency
   slug: european-space-agency

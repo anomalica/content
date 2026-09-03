@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 01fc12e9d6fdcaa09a4ea3b8d25221e6104dc6d1dd0b567c8d3a370375ca2bf0
 page:
   kind: entity
-  node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+  nodes:
+    - node_id: 6a2fe0bb-b8c3-4984-bfce-c899d3d58439
+      name: Annie Jacobsen
+      node_type: person
   node_type: person
   title: Annie Jacobsen
   slug: annie-jacobsen

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7b38f691f59e205c135bae3f5e80fa4dd2f15dcc63b98ba96479597feaffa154
 page:
   kind: entity
-  node_id: eda54301-3c14-4718-9989-68844a2838fd
+  nodes:
+    - node_id: eda54301-3c14-4718-9989-68844a2838fd
+      name: General James Doolittle
+      node_type: person
   node_type: person
   title: General James Doolittle
   slug: general-james-doolittle

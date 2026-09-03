@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 299a5222b111a85a6c91eb59b44bedfe5b9fbb8de6af17e9fbecded1966914e4
 page:
   kind: entity
-  node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+  nodes:
+    - node_id: 2efc3627-d864-45c6-8073-a4d10bba995f
+      name: Hereward Carrington
+      node_type: person
   node_type: person
   title: Hereward Carrington
   slug: hereward-carrington
@@ -88,6 +91,11 @@ related_nodes:
     node_type: topic
     slug: after-death-communication-adc
     shared_claims: 1
+  - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
+    title: Apparition
+    node_type: topic
+    slug: apparition
+    shared_claims: 1
   - node_id: 089c8f3a-c5fe-405d-a8ce-5df9e3951691
     title: Somatic psi (living-agent psi)
     node_type: topic
@@ -107,11 +115,6 @@ related_nodes:
     title: Xenoglossy
     node_type: topic
     slug: xenoglossy
-    shared_claims: 1
-  - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-    title: apparition
-    node_type: topic
-    slug: apparition
     shared_claims: 1
 claims:
   - claim_id: 189859a3-e864-4468-9a6a-e489a5bede82
@@ -830,7 +833,7 @@ claims:
         title: Hereward Carrington
         slug: hereward-carrington
       - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-        title: apparition
+        title: Apparition
         slug: apparition
       - node_id: ec527113-0912-4b33-81d6-d58f7df79dc1
         title: After-death communication (ADC)

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 95e9847e29175d6e9731e0ecab0d70a80ff02ae9cb2391627a9dbd7a2cfdbaa2
 page:
   kind: entity
-  node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+  nodes:
+    - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
+      name: Federal Aviation Administration (FAA)
+      node_type: organisation
   node_type: organisation
   title: Federal Aviation Administration (FAA)
   slug: federal-aviation-administration-faa

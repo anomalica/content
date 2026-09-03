@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2499eb17844b3f454503522637b6d8eea3f13926bebb112ffdad9a7e750e20ba
 page:
   kind: entity
-  node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+  nodes:
+    - node_id: a058b818-ab64-4775-ba08-67f9db5f8453
+      name: Jeff Tarrant
+      node_type: person
   node_type: person
   title: Jeff Tarrant
   slug: jeff-tarrant

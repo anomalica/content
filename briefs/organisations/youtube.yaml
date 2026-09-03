@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e7f727aec2a807bb31c4101456a1f0eaebb03715e4958967c493050bf5574999
 page:
   kind: entity
-  node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+  nodes:
+    - node_id: c61b8532-0c4f-4df1-a299-2487c93e4ef8
+      name: YouTube
+      node_type: organisation
   node_type: organisation
   title: YouTube
   slug: youtube

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2d1882991d5c02f43daeb723b95d74c26e8f995d7b418c434f6bfb8f9961059a
 page:
   kind: entity
-  node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+  nodes:
+    - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
+      name: Aleister Crowley
+      node_type: person
   node_type: person
   title: Aleister Crowley
   slug: aleister-crowley

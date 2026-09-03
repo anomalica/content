@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 342631f6cd4dd88e46cbf6ae75224f032161cf5bbef9341d7c1cdf22b46441df
 page:
   kind: entity
-  node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+  nodes:
+    - node_id: 64178dcc-fc36-4429-b40e-cdee9ff51db7
+      name: Robert Fish
+      node_type: person
   node_type: person
   title: Robert Fish
   slug: robert-fish

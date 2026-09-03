@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6426ddf766a743b02ef937081b8521434e9c4a0dc5c5b5188ae168e7da7cbeef
 page:
   kind: entity
-  node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+  nodes:
+    - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
+      name: Apollo 12
+      node_type: project
   node_type: project
   title: Apollo 12
   slug: apollo-12

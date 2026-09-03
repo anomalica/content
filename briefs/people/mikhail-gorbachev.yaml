@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f73810c5521dcf5d8950bd5e5b6fcf028b2a21f995990fa3816995852600303f
 page:
   kind: entity
-  node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
+  nodes:
+    - node_id: e6230a06-a7e5-4aff-b935-22b5c592a349
+      name: Mikhail Gorbachev
+      node_type: person
   node_type: person
   title: Mikhail Gorbachev
   slug: mikhail-gorbachev

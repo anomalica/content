@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f5f1a1cecb8d16bb7b1f16a491518274fddd1c174c6b37118518358f7546644a
 page:
   kind: entity
-  node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+  nodes:
+    - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
+      name: USA, California, Los Angeles
+      node_type: place
   node_type: place
   title: USA, California, Los Angeles
   slug: california-los-angeles-usa

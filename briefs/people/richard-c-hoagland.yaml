@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5119ca7bddfda71d816ac2186946b7cda55b8df3944a60f34e2117202d40b11b
 page:
   kind: entity
-  node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+  nodes:
+    - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
+      name: Richard C. Hoagland
+      node_type: person
   node_type: person
   title: Richard C. Hoagland
   slug: richard-c-hoagland

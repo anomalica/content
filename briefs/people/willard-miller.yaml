@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 39d87cf4d3b5b72a62c01e018e3a7b991f7dd3f7a8368ed71142b95d1ff93ba0
 page:
   kind: entity
-  node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+  nodes:
+    - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
+      name: Willard Miller
+      node_type: person
   node_type: person
   title: Willard Miller
   slug: willard-miller

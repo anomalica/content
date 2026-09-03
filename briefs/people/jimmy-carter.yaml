@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 348085e1bf5121aa15547223fa8675c79b15d7bf650654897b91c32bf5ab654e
 page:
   kind: entity
-  node_id: 898c410a-7789-4762-b6dd-1139ced89658
+  nodes:
+    - node_id: 898c410a-7789-4762-b6dd-1139ced89658
+      name: Jimmy Carter
+      node_type: person
   node_type: person
   title: Jimmy Carter
   slug: jimmy-carter

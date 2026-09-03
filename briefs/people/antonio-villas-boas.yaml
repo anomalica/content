@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f352b9a11a4416f6ed743c384c8803bd43eb4ed758ace0e3d9493c34a978a955
 page:
   kind: entity
-  node_id: c96ca884-3c42-45b0-aed0-70c7fccb6c8e
+  nodes:
+    - node_id: c96ca884-3c42-45b0-aed0-70c7fccb6c8e
+      name: Antonio Villas-Boas
+      node_type: person
   node_type: person
   title: Antonio Villas-Boas
   slug: antonio-villas-boas

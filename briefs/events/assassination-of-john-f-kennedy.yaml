@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bcf7b209f97b4c8994d16ce47c55cc59e0ebc951845872050e0694e759052b9b
 page:
   kind: entity
-  node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+  nodes:
+    - node_id: bf1fd77c-31b4-481a-bd6b-96c58ffcae88
+      name: Assassination of John F. Kennedy
+      node_type: event
   node_type: event
   title: Assassination of John F. Kennedy
   slug: assassination-of-john-f-kennedy

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 47b580ef593969eb56fea75e379e45f5b589ee7827e6e932a9ec7c64a1479940
 page:
   kind: entity
-  node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+  nodes:
+    - node_id: c6de7725-eb41-40e2-b679-03f2c1e2192e
+      name: Quantum mechanics
+      node_type: topic
   node_type: topic
   title: Quantum mechanics
   slug: quantum-mechanics

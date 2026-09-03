@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6fc432b6ef07c9a646cb7c112e49d80dae254253f97d900f028346a2f72c0891
 page:
   kind: entity
-  node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+  nodes:
+    - node_id: edb771c4-a5e0-4d36-8956-b785c2b1cec1
+      name: Kodak
+      node_type: organisation
   node_type: organisation
   title: Kodak
   slug: kodak

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7e322be8928421ecefc0364f5e907bc6dc86aecd3b6cbfb4eafbd276128c7739
 page:
   kind: entity
-  node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+  nodes:
+    - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
+      name: Vatican
+      node_type: organisation
   node_type: organisation
   title: Vatican
   slug: vatican

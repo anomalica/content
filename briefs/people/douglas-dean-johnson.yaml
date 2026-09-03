@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 51af1577bb0109dc684910bdb35d10ed8d50de54a54ef37ad094c509a94fbdff
 page:
   kind: entity
-  node_id: b5b0ce47-b00e-4fa1-8655-e7bc0c2aaed1
+  nodes:
+    - node_id: b5b0ce47-b00e-4fa1-8655-e7bc0c2aaed1
+      name: Douglas Dean Johnson
+      node_type: person
   node_type: person
   title: Douglas Dean Johnson
   slug: douglas-dean-johnson

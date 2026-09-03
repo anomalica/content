@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f834e03600abbb74d3118403d117b465c38488726e5d56adcbaa3bb09c1158d2
 page:
   kind: entity
-  node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+  nodes:
+    - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
+      name: Tom DeLonge
+      node_type: person
   node_type: person
   title: Tom DeLonge
   slug: tom-delonge
@@ -8388,7 +8391,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
@@ -8397,7 +8400,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null

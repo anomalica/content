@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bac7d1a552f401bf0a52b9c0eeff297f47f2172abd75dc3127c0972642cd3624
 page:
   kind: entity
-  node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+  nodes:
+    - node_id: a3edcb4f-f0b5-42c4-8b04-57dc3744c380
+      name: James Fox
+      node_type: person
   node_type: person
   title: James Fox
   slug: james-fox

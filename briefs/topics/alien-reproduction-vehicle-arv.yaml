@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c5006c1a33bfc8dc1595bd04ad21fb850988b48e938b767efa255049097fb88e
 page:
   kind: entity
-  node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+  nodes:
+    - node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
+      name: Alien Reproduction Vehicle (ARV)
+      node_type: topic
   node_type: topic
   title: Alien Reproduction Vehicle (ARV)
   slug: alien-reproduction-vehicle-arv

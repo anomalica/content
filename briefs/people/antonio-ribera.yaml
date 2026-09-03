@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: de27c055ccf2b0f7f6fce26f294aa162851d513110dcb719cbc4aeaca450e8dc
 page:
   kind: entity
-  node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+  nodes:
+    - node_id: 26b74f6a-e0db-4aa1-98fe-79eb1dcdeed2
+      name: Antonio Ribera
+      node_type: person
   node_type: person
   title: Antonio Ribera
   slug: antonio-ribera

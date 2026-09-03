@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0ded8ae9f4cde60d4e8469acb41b2404ba53a128653e2a32bef613b65eaef48a
 page:
   kind: entity
-  node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
+  nodes:
+    - node_id: ea943180-20a7-469d-8fd5-fe4cdc274849
+      name: Richard Gordon
+      node_type: person
   node_type: person
   title: Richard Gordon
   slug: richard-gordon

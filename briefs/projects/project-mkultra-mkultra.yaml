@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 247b1e9472d8e9025b8e7a5aa2b508c2bc4bf52df66d33e029ce4d289e8d29ec
 page:
   kind: entity
-  node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+  nodes:
+    - node_id: 5d4966d1-e0f0-4c5c-b701-b48b4a2f13c1
+      name: Project MKUltra (MKUltra)
+      node_type: project
   node_type: project
   title: Project MKUltra (MKUltra)
   slug: project-mkultra-mkultra

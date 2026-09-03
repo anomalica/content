@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 614e0e43c4f1e0428dc9cef6f9e3f8d3f9290d6054c1cbc83a12a2cd4cba6caf
 page:
   kind: entity
-  node_id: 56d0ba2e-ba56-4080-9316-2c56e0b4dc03
+  nodes:
+    - node_id: 56d0ba2e-ba56-4080-9316-2c56e0b4dc03
+      name: Socrates
+      node_type: person
   node_type: person
   title: Socrates
   slug: socrates

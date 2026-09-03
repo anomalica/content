@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e85566775c46d1a23df3ef57e268a7c6b5e22733482b392312d5fefb179724a6
 page:
   kind: entity
-  node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+  nodes:
+    - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+      name: Strategic Defense Initiative
+      node_type: project
   node_type: project
   title: Strategic Defense Initiative
   slug: strategic-defense-initiative

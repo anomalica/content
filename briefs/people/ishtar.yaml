@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e873ff35d70c44c7f9dc788c06e78bcb34a7c6b486b326f6995089451277cdd4
 page:
   kind: entity
-  node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+  nodes:
+    - node_id: 387071b6-4aba-45b3-ad84-59f2d187e068
+      name: Ishtar
+      node_type: person
   node_type: person
   title: Ishtar
   slug: ishtar

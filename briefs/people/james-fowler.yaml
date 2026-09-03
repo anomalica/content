@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 58371474a38776f7c9b9e35c0bf2437416a4b626a0132d4bd544c8da9b895781
 page:
   kind: entity
-  node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+  nodes:
+    - node_id: 95f7270e-edbb-41c1-b619-d162313f1d58
+      name: James Fowler
+      node_type: person
   node_type: person
   title: James Fowler
   slug: james-fowler

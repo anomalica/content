@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 09cfe42f569cccf95606b4cdc66aad5250df54c72e6c9d4bba33a06f5d42a6bf
 page:
   kind: entity
-  node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+  nodes:
+    - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+      name: Unidentified Aerial Phenomena Task Force (UAPTF)
+      node_type: project
   node_type: project
   title: Unidentified Aerial Phenomena Task Force (UAPTF)
   slug: unidentified-aerial-phenomena-task-force-uaptf

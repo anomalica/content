@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6bfde1062b8eac5c38dbd231d4139593103e4be51802913373000c3776dbfc2b
 page:
   kind: entity
-  node_id: 378be804-4ade-409d-89e4-2354e375377d
+  nodes:
+    - node_id: 378be804-4ade-409d-89e4-2354e375377d
+      name: Pete Hegseth
+      node_type: person
   node_type: person
   title: Pete Hegseth
   slug: pete-hegseth

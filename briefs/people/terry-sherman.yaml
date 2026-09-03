@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 06a25802820fabd0d0c553e61a4f6d28067a64a6b5adf856ed202ea7d77e0908
 page:
   kind: entity
-  node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+  nodes:
+    - node_id: a0e7ac53-aaa3-441b-a7c8-48272d04eee2
+      name: Terry Sherman
+      node_type: person
   node_type: person
   title: Terry Sherman
   slug: terry-sherman

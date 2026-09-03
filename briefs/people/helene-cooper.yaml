@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 93aa192b6ac7745783a141349f8924f5ed6a9bd7c749a9312c6d873a439b3835
 page:
   kind: entity
-  node_id: c8ac03c3-dd26-4034-ae87-d315728c20a4
+  nodes:
+    - node_id: c8ac03c3-dd26-4034-ae87-d315728c20a4
+      name: Helene Cooper
+      node_type: person
   node_type: person
   title: Helene Cooper
   slug: helene-cooper

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8affc38734594bfaecd4710c396d84ba615b49341a7d5c6dbc6df51291b085ad
 page:
   kind: entity
-  node_id: d1b0c1f5-005e-4833-a948-e02f64cda258
+  nodes:
+    - node_id: d1b0c1f5-005e-4833-a948-e02f64cda258
+      name: US House Committee on Science, Space, and Technology
+      node_type: organisation
   node_type: organisation
   title: US House Committee on Science, Space, and Technology
   slug: space-and-technology-us-house-committee-on-science

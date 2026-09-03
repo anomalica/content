@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7f3136cfd24e32a0433e62a327eb3ab8306d1b488e74fb1b2c59f207e10d36e2
 page:
   kind: entity
-  node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+  nodes:
+    - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+      name: Office of the Director of National Intelligence (ODNI)
+      node_type: organisation
   node_type: organisation
   title: Office of the Director of National Intelligence (ODNI)
   slug: office-of-the-director-of-national-intelligence-odni

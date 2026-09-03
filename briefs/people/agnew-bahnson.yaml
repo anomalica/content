@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a410db7c5589af574c35cbe31430b0bab873af9008e87847190c5a9bf02f28b2
 page:
   kind: entity
-  node_id: f664eac3-734e-435c-b87b-2ac2431134fc
+  nodes:
+    - node_id: f664eac3-734e-435c-b87b-2ac2431134fc
+      name: Agnew Bahnson
+      node_type: person
   node_type: person
   title: Agnew Bahnson
   slug: agnew-bahnson

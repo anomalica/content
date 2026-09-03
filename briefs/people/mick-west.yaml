@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9ad463d89138fd674b656f789a5ce33c74a229d79a7dbeb71460fc56907d9b0e
 page:
   kind: entity
-  node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
+  nodes:
+    - node_id: 9d75354e-4c14-4ed8-a2e6-2b89e1c6e69a
+      name: Mick West
+      node_type: person
   node_type: person
   title: Mick West
   slug: mick-west

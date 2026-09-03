@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6a595dae98cb0c2d8c4600714d7c384d9b1104878787c48fe3b02b2079700dbc
 page:
   kind: entity
-  node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+  nodes:
+    - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
+      name: L. Ron Hubbard
+      node_type: person
   node_type: person
   title: L. Ron Hubbard
   slug: l-ron-hubbard

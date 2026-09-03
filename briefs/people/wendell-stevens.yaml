@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6ffcf0dd8765cc9d3ef71385fdbb65c804ff0a708cc8c0ce0f8c41c54b736aab
 page:
   kind: entity
-  node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+  nodes:
+    - node_id: 537c518b-23ca-4725-aa74-5fe44b97fc85
+      name: Wendell Stevens
+      node_type: person
   node_type: person
   title: Wendell Stevens
   slug: wendell-stevens

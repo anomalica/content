@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fe77cf159010a7c54be10efb0b2bf107a9f519c2e4b8a8d0921b1013765ad4d4
 page:
   kind: entity
-  node_id: 1c98e7bd-43ad-479b-9f62-3af66b1126c3
+  nodes:
+    - node_id: 1c98e7bd-43ad-479b-9f62-3af66b1126c3
+      name: Elizabeth Loftus
+      node_type: person
   node_type: person
   title: Elizabeth Loftus
   slug: elizabeth-loftus

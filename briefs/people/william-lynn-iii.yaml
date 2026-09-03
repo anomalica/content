@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2cbb88c05d11ebdeda96f7c8112b18c94e329fecb2cac45aab24d611188efc59
 page:
   kind: entity
-  node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+  nodes:
+    - node_id: 80cb31ac-aabc-4d90-83ef-9f76e833a9f5
+      name: William Lynn III
+      node_type: person
   node_type: person
   title: William Lynn III
   slug: william-lynn-iii

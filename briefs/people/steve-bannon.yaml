@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 985c2a81ad5674d272a7cdb005e4ad275dd7609f527620fb558ba2ea4549f38d
 page:
   kind: entity
-  node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+  nodes:
+    - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
+      name: Steve Bannon
+      node_type: person
   node_type: person
   title: Steve Bannon
   slug: steve-bannon

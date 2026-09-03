@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c7485e3fe6162ccba1d4557a668f131eef792bf185ec10fc94b10ab37771c586
 page:
   kind: entity
-  node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+  nodes:
+    - node_id: e351583f-bcd7-4360-92b1-395ede249cc2
+      name: Joseph of Cupertino
+      node_type: person
   node_type: person
   title: Joseph of Cupertino
   slug: joseph-of-cupertino

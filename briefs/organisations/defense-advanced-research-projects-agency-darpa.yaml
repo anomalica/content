@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f57ecedf8bd880773c1e30c66d5554647c29f728e1e5a28b3e2c0f6787684c07
 page:
   kind: entity
-  node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+  nodes:
+    - node_id: e9789e87-d720-4b10-899e-9c5ddc168fe0
+      name: Defense Advanced Research Projects Agency (DARPA)
+      node_type: organisation
   node_type: organisation
   title: Defense Advanced Research Projects Agency (DARPA)
   slug: defense-advanced-research-projects-agency-darpa

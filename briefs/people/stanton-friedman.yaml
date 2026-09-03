@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a57d50f57cddb8c0609cac46bfafa1cb632e37c45de857fd7ded97732c2b045f
 page:
   kind: entity
-  node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+  nodes:
+    - node_id: dd4a97ab-5ffd-41ec-8813-81a2c56f0ea1
+      name: Stanton Friedman
+      node_type: person
   node_type: person
   title: Stanton Friedman
   slug: stanton-friedman

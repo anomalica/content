@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d00adccc326c865f1b45ad663ab5928905aeda8e2619e22170ef467cad8c9e42
 page:
   kind: entity
-  node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
+  nodes:
+    - node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
+      name: Northrop Corporation
+      node_type: organisation
   node_type: organisation
   title: Northrop Corporation
   slug: northrop-corporation

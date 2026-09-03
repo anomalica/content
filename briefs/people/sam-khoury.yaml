@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7f84044879d53106d35822820dcc4d5123afe9b7e7115cbf701a052b7a2bb57f
 page:
   kind: entity
-  node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
+  nodes:
+    - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
+      name: Sam Khoury
+      node_type: person
   node_type: person
   title: Sam Khoury
   slug: sam-khoury

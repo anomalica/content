@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c714c48d4abfe0f79db06de409dc674500ce5bbd3dbf2d7694bf0c100b504441
 page:
   kind: entity
-  node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+  nodes:
+    - node_id: 6b42ed17-f30c-4863-ad71-f939193f2c03
+      name: Gary McKinnon
+      node_type: person
   node_type: person
   title: Gary McKinnon
   slug: gary-mckinnon

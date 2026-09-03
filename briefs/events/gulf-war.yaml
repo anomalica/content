@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ef960f384d324b11c09553b9576d46426d8909997bba2136f41d32737be040b4
 page:
   kind: entity
-  node_id: 01901068-df09-4d46-8c2d-aca4db216069
+  nodes:
+    - node_id: 01901068-df09-4d46-8c2d-aca4db216069
+      name: Gulf War
+      node_type: event
   node_type: event
   title: Gulf War
   slug: gulf-war

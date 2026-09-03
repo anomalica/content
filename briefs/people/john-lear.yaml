@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d5532faf9219da3ccee32d8d5276efbf28deeb72d17f6475e3bb8aa0689243dc
 page:
   kind: entity
-  node_id: 34724c86-f42c-4ea6-be89-2ad62bbf2269
+  nodes:
+    - node_id: 34724c86-f42c-4ea6-be89-2ad62bbf2269
+      name: John Lear
+      node_type: person
   node_type: person
   title: John Lear
   slug: john-lear

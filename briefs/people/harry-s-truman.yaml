@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: accf3ec28ec2152ac81f752b5295009a9a746d8028bc8982585a0be793f41645
 page:
   kind: entity
-  node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+  nodes:
+    - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
+      name: Harry S. Truman
+      node_type: person
   node_type: person
   title: Harry S. Truman
   slug: harry-s-truman

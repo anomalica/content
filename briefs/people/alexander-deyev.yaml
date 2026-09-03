@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f461ef5c698f6c91e80e6aace0f096b3538e61633e670ec6c5bcbc871d1d270c
 page:
   kind: entity
-  node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+  nodes:
+    - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
+      name: Alexander Deyev
+      node_type: person
   node_type: person
   title: Alexander Deyev
   slug: alexander-deyev

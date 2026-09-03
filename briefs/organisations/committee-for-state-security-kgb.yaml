@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4ed4d9b66a4de2106b6f6e016cd27c45988110db96d47bc9c7a8e92c65e87702
 page:
   kind: entity
-  node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+  nodes:
+    - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
+      name: Committee for State Security (KGB)
+      node_type: organisation
   node_type: organisation
   title: Committee for State Security (KGB)
   slug: committee-for-state-security-kgb

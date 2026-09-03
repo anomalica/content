@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 708cfc9440132c7543fcc5f0dfe59c4e4fc8d17a2c638c2a26eaecf864165b12
 page:
   kind: entity
-  node_id: 0f912810-85b7-4e73-a97f-f31901933301
+  nodes:
+    - node_id: 0f912810-85b7-4e73-a97f-f31901933301
+      name: United States Marine Corps (USMC)
+      node_type: organisation
   node_type: organisation
   title: United States Marine Corps (USMC)
   slug: united-states-marine-corps-usmc

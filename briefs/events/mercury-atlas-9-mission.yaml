@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 70e94ec9c70858c21a734583ee50e675eeb7f401c1f804a05845e12ccc7d1c40
 page:
   kind: entity
-  node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+  nodes:
+    - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
+      name: Mercury-Atlas 9 mission
+      node_type: event
   node_type: event
   title: Mercury-Atlas 9 mission
   slug: mercury-atlas-9-mission

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d5a7088a47e6e422fc9e16435545a5601b4226be1ce40881a99ae5cd6d9c420d
 page:
   kind: entity
-  node_id: fa4ba20c-867f-4754-b298-14b96e410072
+  nodes:
+    - node_id: fa4ba20c-867f-4754-b298-14b96e410072
+      name: Extraterrestrial hypothesis
+      node_type: topic
   node_type: topic
   title: Extraterrestrial hypothesis
   slug: extraterrestrial-hypothesis

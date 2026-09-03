@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d70d8d31a3a54b633a7acb5383b48a4a0746f9c22644047e207844930ddb496b
 page:
   kind: entity
-  node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+  nodes:
+    - node_id: 09527e2e-b76c-4293-a9ce-a2b531b038e6
+      name: United States Department of Energy (DOE)
+      node_type: organisation
   node_type: organisation
   title: United States Department of Energy (DOE)
   slug: united-states-department-of-energy-doe

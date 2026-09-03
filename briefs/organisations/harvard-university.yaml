@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9f3d116a6a95b31d639f5a5ae081e015578375ea53e30be004fb4d24f1695443
 page:
   kind: entity
-  node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+  nodes:
+    - node_id: fdd724f2-0b15-4664-8f9c-a17be751ec9c
+      name: Harvard University
+      node_type: organisation
   node_type: organisation
   title: Harvard University
   slug: harvard-university

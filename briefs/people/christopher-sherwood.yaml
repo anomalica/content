@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b77d69ec39ee15d8daec028b8ba403dc034a67924697436fef37bbf55f95d80a
 page:
   kind: entity
-  node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+  nodes:
+    - node_id: ed39d473-fca0-485d-8e01-10c33676dcb2
+      name: Christopher Sherwood
+      node_type: person
   node_type: person
   title: Christopher Sherwood
   slug: christopher-sherwood

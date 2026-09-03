@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 71406f5b5212112443ac2e9e4f138d7f746dfa9e99a69e0eec7c2f7a26a10a9e
 page:
   kind: entity
-  node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+  nodes:
+    - node_id: c5060aa6-0437-4ef7-a518-6c7239c491e5
+      name: Massachusetts Institute of Technology (MIT)
+      node_type: organisation
   node_type: organisation
   title: Massachusetts Institute of Technology (MIT)
   slug: massachusetts-institute-of-technology-mit

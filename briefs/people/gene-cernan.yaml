@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cc14175f254c36fdad2e6a562c941bff04a3247599f8b9b064ea32a2e1df2f70
 page:
   kind: entity
-  node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+  nodes:
+    - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
+      name: Gene Cernan
+      node_type: person
   node_type: person
   title: Gene Cernan
   slug: gene-cernan

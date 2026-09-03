@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bac3427477824330aa749777c2b014b683e5f240e00ed5410582ee12b5b94b32
 page:
   kind: entity
-  node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+  nodes:
+    - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+      name: Barry Goldwater
+      node_type: person
   node_type: person
   title: Barry Goldwater
   slug: barry-goldwater

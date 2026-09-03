@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bfe454cae1f4a4e556bb2c14972ac8f9dea9fa574f971bc0b96efd6e6c62c03c
 page:
   kind: entity
-  node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+  nodes:
+    - node_id: 7d0a9d14-858f-43e0-81a5-eb173422d291
+      name: Stephen Miller
+      node_type: person
   node_type: person
   title: Stephen Miller
   slug: stephen-miller

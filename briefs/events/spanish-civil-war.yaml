@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f3acde20297e9d2d663c11bfaa2f15837d9f0dc1f68606e31a705ac9556ab7ac
 page:
   kind: entity
-  node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+  nodes:
+    - node_id: 0f8c8f20-472e-4bc0-a87b-1f344e6a9c4f
+      name: Spanish Civil War
+      node_type: event
   node_type: event
   title: Spanish Civil War
   slug: spanish-civil-war

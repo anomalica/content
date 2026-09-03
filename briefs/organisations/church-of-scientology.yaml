@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5e792aba3392948b08755fc7484ac6ff72b031fec5c7f7f5fda6a42c87057cb6
 page:
   kind: entity
-  node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+  nodes:
+    - node_id: 8b6a34cc-4dc3-4ab2-b545-d3d6535b1516
+      name: Church of Scientology
+      node_type: organisation
   node_type: organisation
   title: Church of Scientology
   slug: church-of-scientology

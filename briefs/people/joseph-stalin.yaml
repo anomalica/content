@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c8e1595723fdd0ec0c436db5e7631bffc86d1348e83b1f6dbcef2a020f34492d
 page:
   kind: entity
-  node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+  nodes:
+    - node_id: c38ab265-3a8b-4a95-aea7-9eb7d97ef0b5
+      name: Joseph Stalin
+      node_type: person
   node_type: person
   title: Joseph Stalin
   slug: joseph-stalin

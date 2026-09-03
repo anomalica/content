@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 844a1ab087161c2e2644cd7fd476194e6b9d0df9cd002f950b591c6e6a2e25fd
 page:
   kind: entity
-  node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+  nodes:
+    - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
+      name: Richard Nixon
+      node_type: person
   node_type: person
   title: Richard Nixon
   slug: richard-nixon

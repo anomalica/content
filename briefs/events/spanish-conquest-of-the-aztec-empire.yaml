@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4ba6140581aacb2ab69d26c4d1a441ed6084ec2c53734a74e9138d4fc08d247a
 page:
   kind: entity
-  node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+  nodes:
+    - node_id: fd1ac0e8-cb84-4d6c-9340-078e18a21f69
+      name: Spanish conquest of the Aztec Empire
+      node_type: event
   node_type: event
   title: Spanish conquest of the Aztec Empire
   slug: spanish-conquest-of-the-aztec-empire

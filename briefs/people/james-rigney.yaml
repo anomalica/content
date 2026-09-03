@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 66507a7f78f8a11fba51c9dd169b69c75929696bcc274e552f1a21ddd8387dfd
 page:
   kind: entity
-  node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+  nodes:
+    - node_id: ffc4dffc-33d3-4a26-9296-5665788889d4
+      name: James Rigney
+      node_type: person
   node_type: person
   title: James Rigney
   slug: james-rigney

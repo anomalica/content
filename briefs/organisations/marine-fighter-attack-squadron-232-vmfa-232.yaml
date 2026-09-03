@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 898619edf9dcd14c27d3178344c17228ed6bf9e62ea07b80b61f00476366d51f
 page:
   kind: entity
-  node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+  nodes:
+    - node_id: ac13d129-b9d6-4a4d-9239-cade8e1fb753
+      name: Marine Fighter Attack Squadron 232 (VMFA-232)
+      node_type: organisation
   node_type: organisation
   title: Marine Fighter Attack Squadron 232 (VMFA-232)
   slug: marine-fighter-attack-squadron-232-vmfa-232

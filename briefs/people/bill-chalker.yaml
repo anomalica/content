@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3321462971c228f80765084d057d7a7e6be2deba4ad9cf87ccdd91bfa353df8d
 page:
   kind: entity
-  node_id: 3ff75793-423c-4333-8402-d5c543074091
+  nodes:
+    - node_id: 3ff75793-423c-4333-8402-d5c543074091
+      name: Bill Chalker
+      node_type: person
   node_type: person
   title: Bill Chalker
   slug: bill-chalker

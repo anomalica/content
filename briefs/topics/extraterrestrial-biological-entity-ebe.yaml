@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8de4e2bdf51d61324b7491e533c9b370c19e15ceac1b8392fdc6aa839efe514d
 page:
   kind: entity
-  node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+  nodes:
+    - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
+      name: Extraterrestrial biological entity (EBE)
+      node_type: topic
   node_type: topic
   title: Extraterrestrial biological entity (EBE)
   slug: extraterrestrial-biological-entity-ebe

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3978d4e55f54324a5873ca0fe6a1891b3c8279f3303d8eaa3e1fc605ae67f304
 page:
   kind: entity
-  node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+  nodes:
+    - node_id: 564663b8-b4bd-411f-bb55-47655b1bf175
+      name: Andre Carson
+      node_type: person
   node_type: person
   title: Andre Carson
   slug: andre-carson

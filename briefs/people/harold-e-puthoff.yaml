@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ce11d696da704732ebbbc3bbef7ef3b0d94146c3e747200698b765d7ab08d4a4
 page:
   kind: entity
-  node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+  nodes:
+    - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
+      name: Harold E. Puthoff
+      node_type: person
   node_type: person
   title: Harold E. Puthoff
   slug: harold-e-puthoff

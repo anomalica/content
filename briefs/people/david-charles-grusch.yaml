@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a0064a1600e3b81359201e909068e0bb28c5b119f514a61ff8e2a38cd1045ee0
 page:
   kind: entity
-  node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+  nodes:
+    - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+      name: David Charles Grusch
+      node_type: person
   node_type: person
   title: David Charles Grusch
   slug: david-charles-grusch

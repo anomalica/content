@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 23b4bcd8fe60b7501e8931047a4463863ab191fd22a6310cfd9965c485023d00
 page:
   kind: entity
-  node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+  nodes:
+    - node_id: ca49b030-d85e-42ed-80ea-2b6ef60d3d7e
+      name: United States Department of the Navy
+      node_type: organisation
   node_type: organisation
   title: United States Department of the Navy
   slug: united-states-department-of-the-navy

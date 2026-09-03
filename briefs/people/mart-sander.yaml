@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 10a2989b25c4690cbb6d95425a2d2bbe5e0cf4af868b21d11bf65cec26b24ae8
 page:
   kind: entity
-  node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+  nodes:
+    - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
+      name: Mart Sander
+      node_type: person
   node_type: person
   title: Mart Sander
   slug: mart-sander

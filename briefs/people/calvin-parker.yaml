@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b02a49f61e774052ddc730186d2e26c6862225ba104631585de789a38f17dbc9
 page:
   kind: entity
-  node_id: 39bf344d-838f-4d5c-bd13-4e9c21d0ab8a
+  nodes:
+    - node_id: 39bf344d-838f-4d5c-bd13-4e9c21d0ab8a
+      name: Calvin Parker
+      node_type: person
   node_type: person
   title: Calvin Parker
   slug: calvin-parker

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c89c40f0d4aea24e22d75b2e59ecb8569b1307eab0de6042963852228e48d764
 page:
   kind: entity
-  node_id: 224c7627-5439-4e73-b583-590caead8999
+  nodes:
+    - node_id: 224c7627-5439-4e73-b583-590caead8999
+      name: Jim Slaight
+      node_type: person
   node_type: person
   title: Jim Slaight
   slug: jim-slaight

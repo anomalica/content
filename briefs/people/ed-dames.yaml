@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d74651d63d3b2c1946e52c8f5a0d61d8b86e8e813c37664a691f0a7dc9fa870c
 page:
   kind: entity
-  node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+  nodes:
+    - node_id: 21e9e5d4-d910-4ff0-b875-a44d75422746
+      name: Ed Dames
+      node_type: person
   node_type: person
   title: Ed Dames
   slug: ed-dames

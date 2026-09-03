@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 60c04d306ca3451520ffd6ca7221da26c521f35cf2471c78b2e1f79678825b34
 page:
   kind: entity
-  node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+  nodes:
+    - node_id: 7565adda-52af-41ad-8dde-f797e3e8a2fd
+      name: Juan Diego
+      node_type: person
   node_type: person
   title: Juan Diego
   slug: juan-diego

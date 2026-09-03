@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 781559542519f9f3632a8910c6defec2edcd788a0c9ec58937b281794f60b203
 page:
   kind: entity
-  node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+  nodes:
+    - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
+      name: Defense Intelligence Agency (DIA)
+      node_type: organisation
   node_type: organisation
   title: Defense Intelligence Agency (DIA)
   slug: defense-intelligence-agency-dia

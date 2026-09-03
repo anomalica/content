@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7deff8d04aa4245128c235088fd1d8036955d197a27e67444ffe6fb144f8ba82
 page:
   kind: entity
-  node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+  nodes:
+    - node_id: 13143b88-fdc8-44c9-a8f2-a6526f76c16e
+      name: Sleep paralysis
+      node_type: topic
   node_type: topic
   title: Sleep paralysis
   slug: sleep-paralysis

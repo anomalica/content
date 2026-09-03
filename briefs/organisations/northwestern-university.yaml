@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bf812bd43db43c77b62a61de7130ee67753d40b99ab627b8a17b03db7046e084
 page:
   kind: entity
-  node_id: d12ebb23-4faf-4060-95a7-156343da4172
+  nodes:
+    - node_id: d12ebb23-4faf-4060-95a7-156343da4172
+      name: Northwestern University
+      node_type: organisation
   node_type: organisation
   title: Northwestern University
   slug: northwestern-university

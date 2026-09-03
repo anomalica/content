@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7a86e77e6e8ba3ad8f4f066584534afc0e19bf594ddc4ddd1c27bd83932c3557
 page:
   kind: entity
-  node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+  nodes:
+    - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
+      name: UK
+      node_type: place
   node_type: place
   title: UK
   slug: uk

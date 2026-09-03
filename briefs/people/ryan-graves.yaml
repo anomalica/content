@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9eb6e2c9c8b4c45d25c4cf557038ed212002aedffd25df8c7947aa53c613e6f7
 page:
   kind: entity
-  node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+  nodes:
+    - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+      name: Ryan Graves
+      node_type: person
   node_type: person
   title: Ryan Graves
   slug: ryan-graves

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4ea32daea84aa76b28a57bd5779335360afb0cc645f08b0bfa6ac74dbda8cb31
 page:
   kind: entity
-  node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+  nodes:
+    - node_id: b9c07d0e-c2cc-40bf-bc17-9987f4942e9e
+      name: Grant Cameron
+      node_type: person
   node_type: person
   title: Grant Cameron
   slug: grant-cameron

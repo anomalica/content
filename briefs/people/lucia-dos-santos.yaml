@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6aaad8e4c9041f715487aa1e2c11db8398b5aac011480cc07a7e5a3765f13028
 page:
   kind: entity
-  node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+  nodes:
+    - node_id: f0add216-a5fe-45e9-9e4a-1e82ebd4db2d
+      name: Lucia dos Santos
+      node_type: person
   node_type: person
   title: Lucia dos Santos
   slug: lucia-dos-santos

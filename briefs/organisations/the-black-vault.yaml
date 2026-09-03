@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 18a3ea4529662b34b6a2cdde13ea230236beadef650b84f90a993a9b55b03ce0
 page:
   kind: entity
-  node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+  nodes:
+    - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
+      name: The Black Vault
+      node_type: organisation
   node_type: organisation
   title: The Black Vault
   slug: the-black-vault

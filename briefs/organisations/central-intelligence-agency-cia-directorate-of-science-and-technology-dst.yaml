@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: afb23176febb78ee3b782db01449e1adece5fdbb0d465960db6760e3cffd5f4d
 page:
   kind: entity
-  node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+  nodes:
+    - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
+      name: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
+      node_type: organisation
   node_type: organisation
   title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
   slug: central-intelligence-agency-cia-directorate-of-science-and-technology-dst

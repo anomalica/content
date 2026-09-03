@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d69ed531f18d7c3c61cc1e5dc0e6932952b8109cd3cbd5a028cca23a481e7ee2
 page:
   kind: entity
-  node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+  nodes:
+    - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
+      name: Vannevar Bush
+      node_type: person
   node_type: person
   title: Vannevar Bush
   slug: vannevar-bush

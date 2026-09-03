@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 682719c0be6cd0bea079fc1c2b553eb2921bfa195b0803a07e0fc7cbe8ec2bd3
 page:
   kind: entity
-  node_id: 02078575-6462-4874-ade3-beaacf18d46f
+  nodes:
+    - node_id: 02078575-6462-4874-ade3-beaacf18d46f
+      name: Jerome Clark
+      node_type: person
   node_type: person
   title: Jerome Clark
   slug: jerome-clark

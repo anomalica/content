@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d2dd606f7366e2112d74d1d3efc8b1fb5aaa8de149e772eb396739b33416b73a
 page:
   kind: entity
-  node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+  nodes:
+    - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
+      name: Sean Kirkpatrick
+      node_type: person
   node_type: person
   title: Sean Kirkpatrick
   slug: sean-kirkpatrick

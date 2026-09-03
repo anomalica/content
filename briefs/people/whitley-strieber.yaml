@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7d25eaed17aa25f93bfffe1da7288b9f271730a8f4fd92470db2e4ae5de552fa
 page:
   kind: entity
-  node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+  nodes:
+    - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
+      name: Whitley Strieber
+      node_type: person
   node_type: person
   title: Whitley Strieber
   slug: whitley-strieber
@@ -81512,9 +81515,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 00:28:13.2-00:28:24.9
@@ -81920,12 +81923,12 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 00:33:41.5-00:33:56.6
@@ -86859,9 +86862,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:16:32.8-01:16:35.1
@@ -86978,9 +86981,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:18:34.4-01:18:50.7
@@ -87149,9 +87152,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
         title: Communion (Whitley Strieber book)
         slug: communion-whitley-strieber-book
@@ -87195,9 +87198,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
         title: Communion (Whitley Strieber book)
         slug: communion-whitley-strieber-book
@@ -87243,9 +87246,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:21:02.4-01:21:12.1
@@ -89622,15 +89625,15 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
         slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
         slug: non-human-intelligence
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:42:09.4-01:42:28.4
@@ -92397,9 +92400,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 02:08:31.7-02:08:35.8
@@ -94906,9 +94909,9 @@ claims:
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
         title: The close encounter experience
         slug: the-close-encounter-experience
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 02:25:59.6-02:26:09.8
@@ -94998,9 +95001,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 02:26:26.3-02:26:29.6

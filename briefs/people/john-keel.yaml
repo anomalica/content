@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 95385e363abbb8b419737c4977d4426b54b65d33ff2607defd39a6fc9ec167e4
 page:
   kind: entity
-  node_id: 22df0786-7788-4823-9724-2321f761ce05
+  nodes:
+    - node_id: 22df0786-7788-4823-9724-2321f761ce05
+      name: John Keel
+      node_type: person
   node_type: person
   title: John Keel
   slug: john-keel

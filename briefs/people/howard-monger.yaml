@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 76eebb44a2b9f0a7389b3269f06ef8deb031f1e8e34e814c9ace26ac73e1f423
 page:
   kind: entity
-  node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+  nodes:
+    - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
+      name: Howard Monger
+      node_type: person
   node_type: person
   title: Howard Monger
   slug: howard-monger

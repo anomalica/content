@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c6a96fa2bdb821671709012e4697e0014c9dbe0ae8849bab49e5772706d4b814
 page:
   kind: entity
-  node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+  nodes:
+    - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
+      name: Federally Funded Research and Development Center (FFRDC)
+      node_type: topic
   node_type: topic
   title: Federally Funded Research and Development Center (FFRDC)
   slug: federally-funded-research-and-development-center-ffrdc

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1c525ea89794d1528b9c2f911e9889a4daaefabb75afe417ee5dc21d0a1b7605
 page:
   kind: entity
-  node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+  nodes:
+    - node_id: f5725e7f-f85b-443a-ac3b-d1d9fcf98eec
+      name: Alien implant
+      node_type: topic
   node_type: topic
   title: Alien implant
   slug: alien-implant

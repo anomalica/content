@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: dc514b91d62ff546340d9809255700d2aec925dcaec8812685eca83e9fcb1a26
 page:
   kind: entity
-  node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+  nodes:
+    - node_id: 91d543c3-8e12-4e0b-a457-d668f5c54bba
+      name: James Mattis
+      node_type: person
   node_type: person
   title: James Mattis
   slug: james-mattis

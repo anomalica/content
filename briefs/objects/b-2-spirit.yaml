@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 24a38af22d67c02ccc5ec0c4bef8852d44d95314f4200257b3c75eab8f0adb05
 page:
   kind: entity
-  node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
+  nodes:
+    - node_id: de58d5ed-956d-4fd7-ac5e-3ff37e27fd64
+      name: B-2 Spirit
+      node_type: object
   node_type: object
   title: B-2 Spirit
   slug: b-2-spirit

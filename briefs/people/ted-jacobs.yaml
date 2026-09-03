@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1175f090c928d8b5840a932a1a8bc5aefb56b4fcbe8e86b6e6d87b61f1247809
 page:
   kind: entity
-  node_id: 6a571252-0129-48c8-9a83-fc10080a37dc
+  nodes:
+    - node_id: 6a571252-0129-48c8-9a83-fc10080a37dc
+      name: Ted Jacobs
+      node_type: person
   node_type: person
   title: Ted Jacobs
   slug: ted-jacobs

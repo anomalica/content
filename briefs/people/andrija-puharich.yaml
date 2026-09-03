@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 756d81ba1d34208cc76d558466c6d4c0bca3f0f793c9bbface3348e4ae66e5f0
 page:
   kind: entity
-  node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+  nodes:
+    - node_id: ce3b2c34-7756-4263-8c86-f7e42c89c63e
+      name: Andrija Puharich
+      node_type: person
   node_type: person
   title: Andrija Puharich
   slug: andrija-puharich

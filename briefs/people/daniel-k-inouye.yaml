@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ba8ea149ac7e520e2b54803c51bbdaf694de9ea1272c473553a21dc660e45760
 page:
   kind: entity
-  node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+  nodes:
+    - node_id: 95677ec8-f94c-422a-933f-2b689ae917fa
+      name: Daniel K. Inouye
+      node_type: person
   node_type: person
   title: Daniel K. Inouye
   slug: daniel-k-inouye

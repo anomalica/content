@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7a66ff0b5384a373a9e451f3486a96d21815ed091c5f036523ad5b1b2a372f45
 page:
   kind: entity
-  node_id: db464567-eb06-453e-adee-560894577755
+  nodes:
+    - node_id: db464567-eb06-453e-adee-560894577755
+      name: White House Office of Science and Technology Policy
+      node_type: organisation
   node_type: organisation
   title: White House Office of Science and Technology Policy
   slug: white-house-office-of-science-and-technology-policy

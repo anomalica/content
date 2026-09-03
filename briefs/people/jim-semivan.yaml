@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ac0c5df411a2f036be8147509bd227c68327acf6277934ef40032f4cb7430717
 page:
   kind: entity
-  node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+  nodes:
+    - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
+      name: Jim Semivan
+      node_type: person
   node_type: person
   title: Jim Semivan
   slug: jim-semivan

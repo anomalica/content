@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2bb716cadcedb675f2f3457323040c1c1cd6ca67eaab4917e0ef36d4bb54c07d
 page:
   kind: entity
-  node_id: de4613fa-3a05-4a97-b175-89376dd73386
+  nodes:
+    - node_id: de4613fa-3a05-4a97-b175-89376dd73386
+      name: Arthur Koestler
+      node_type: person
   node_type: person
   title: Arthur Koestler
   slug: arthur-koestler
@@ -34,7 +37,7 @@ belonging:
   unreviewed: 5
 related_nodes:
   - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-    title: triune brain theory
+    title: Triune brain theory
     node_type: topic
     slug: triune-brain-theory
     shared_claims: 3
@@ -155,7 +158,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-        title: triune brain theory
+        title: Triune brain theory
         slug: triune-brain-theory
       - node_id: de4613fa-3a05-4a97-b175-89376dd73386
         title: Arthur Koestler
@@ -198,7 +201,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-        title: triune brain theory
+        title: Triune brain theory
         slug: triune-brain-theory
       - node_id: de4613fa-3a05-4a97-b175-89376dd73386
         title: Arthur Koestler
@@ -240,7 +243,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 5b3883ab-561a-4760-9538-10071fe10193
-        title: triune brain theory
+        title: Triune brain theory
         slug: triune-brain-theory
       - node_id: de4613fa-3a05-4a97-b175-89376dd73386
         title: Arthur Koestler

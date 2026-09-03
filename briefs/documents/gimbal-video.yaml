@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: eff4ff451ba968587648d399b73673329a08d816c7fa75b70c9b0f6bc8cca2d6
 page:
   kind: entity
-  node_id: e57005b4-b10f-49a9-872f-61f00312b820
+  nodes:
+    - node_id: e57005b4-b10f-49a9-872f-61f00312b820
+      name: Gimbal video
+      node_type: document
   node_type: document
   title: Gimbal video
   slug: gimbal-video

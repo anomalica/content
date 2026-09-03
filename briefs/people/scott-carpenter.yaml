@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3b9cc410bc003f667c6fd5473bb771160d5d894273133287b724b9b8324e0d0b
 page:
   kind: entity
-  node_id: 3beb52a5-c472-4d8e-bbfc-b6ff689d5130
+  nodes:
+    - node_id: 3beb52a5-c472-4d8e-bbfc-b6ff689d5130
+      name: Scott Carpenter
+      node_type: person
   node_type: person
   title: Scott Carpenter
   slug: scott-carpenter

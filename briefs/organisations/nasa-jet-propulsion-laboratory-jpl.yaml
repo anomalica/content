@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 01681517f2fa3d4429a4c05521f244c8c8526346cc3711aa7fa3fc97437f2799
 page:
   kind: entity
-  node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+  nodes:
+    - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
+      name: NASA Jet Propulsion Laboratory (JPL)
+      node_type: organisation
   node_type: organisation
   title: NASA Jet Propulsion Laboratory (JPL)
   slug: nasa-jet-propulsion-laboratory-jpl

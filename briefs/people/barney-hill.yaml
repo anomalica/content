@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ddc7d0a0fdaee9dbf640c871d3e8ca7fa5227321f16ec3854bedabe204b56282
 page:
   kind: entity
-  node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+  nodes:
+    - node_id: ba818a56-7be8-41bd-8dff-132bb4a8f7e9
+      name: Barney Hill
+      node_type: person
   node_type: person
   title: Barney Hill
   slug: barney-hill

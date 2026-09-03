@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5986a42b784f38cee4b375ac07ac7005e563861ce26937177fa4eec8c6781e7d
 page:
   kind: entity
-  node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+  nodes:
+    - node_id: bac12cc3-05f5-4ff5-8830-070294718f8d
+      name: Attack on Pearl Harbor
+      node_type: event
   node_type: event
   title: Attack on Pearl Harbor
   slug: attack-on-pearl-harbor

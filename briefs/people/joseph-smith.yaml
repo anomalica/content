@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d4650a0386f817a8e31232317272d3a013bc7c7ea7150aa007869dc06b538db6
 page:
   kind: entity
-  node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+  nodes:
+    - node_id: ec6e3129-f148-4490-bed4-01f487b632a9
+      name: Joseph Smith
+      node_type: person
   node_type: person
   title: Joseph Smith
   slug: joseph-smith

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b03b1ab5d048e4d0d91dadcb424d66244ed1d1f5022e6d3a03a9c6a70b0fa835
 page:
   kind: entity
-  node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+  nodes:
+    - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
+      name: World War II
+      node_type: event
   node_type: event
   title: World War II
   slug: world-war-ii

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a898267fbe0f87ac3c0d3457d012df55d10d931cefb6b241c8b183192a263370
 page:
   kind: entity
-  node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
+  nodes:
+    - node_id: 00dc4898-5cd9-4e8d-bea4-25e0d3d7abad
+      name: Look Magazine
+      node_type: organisation
   node_type: organisation
   title: Look Magazine
   slug: look-magazine

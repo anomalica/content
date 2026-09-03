@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d901724c7a38c58a5edbc57af3e79a35df3f4a7caae43adf5d6c75c5b262ba9a
 page:
   kind: entity
-  node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+  nodes:
+    - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
+      name: Artificial intelligence (AI)
+      node_type: topic
   node_type: topic
   title: Artificial intelligence (AI)
   slug: artificial-intelligence-ai

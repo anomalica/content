@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ec6923d1655af02b180492b7f81b823fdf639cd3b34518ffe60a82af332bf544
 page:
   kind: entity
-  node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+  nodes:
+    - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
+      name: William Blanchard
+      node_type: person
   node_type: person
   title: William Blanchard
   slug: william-blanchard

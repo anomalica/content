@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c2724cc27ee7d163ce155f859d80a1eec2ed99b43410916f519f30f1b443cb8b
 page:
   kind: entity
-  node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+  nodes:
+    - node_id: f600f7d1-abb3-4690-a30c-9e2798c2f177
+      name: Nancy Mace
+      node_type: person
   node_type: person
   title: Nancy Mace
   slug: nancy-mace

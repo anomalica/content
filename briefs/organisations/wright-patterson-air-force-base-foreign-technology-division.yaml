@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3fd744f1c7103ba10db1f9cce177aba01728e9312ae243494a6490337cb26a9f
 page:
   kind: entity
-  node_id: 7523839e-7d21-42e0-96a9-6c7a0c334028
+  nodes:
+    - node_id: 7523839e-7d21-42e0-96a9-6c7a0c334028
+      name: Foreign Technology Division, Wright-Patterson Air Force Base
+      node_type: organisation
   node_type: organisation
   title: Foreign Technology Division, Wright-Patterson Air Force Base
   slug: wright-patterson-air-force-base-foreign-technology-division

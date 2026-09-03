@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: af6885dddf040bea56e6eb13c9ed9e489fc5fc44b5bd8d38df97010b6bd21988
 page:
   kind: entity
-  node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+  nodes:
+    - node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
+      name: Pat Price
+      node_type: person
   node_type: person
   title: Pat Price
   slug: pat-price

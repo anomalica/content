@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 90d22612948103f1135aab4e50f75b5cca8138b7a5afc074a21191645a6b71a7
 page:
   kind: entity
-  node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+  nodes:
+    - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
+      name: Wernher von Braun
+      node_type: person
   node_type: person
   title: Wernher von Braun
   slug: wernher-von-braun

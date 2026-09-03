@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fa3d57b8ece29f1af09f9d4dc23652ee1e5ed408006d5a97a1793be2dbc2f21b
 page:
   kind: entity
-  node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+  nodes:
+    - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
+      name: Thomas Wilson
+      node_type: person
   node_type: person
   title: Thomas Wilson
   slug: thomas-wilson

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c0033245ffc3f1f5b64d0c051f2167f709b10a682841c553f45c1141149e00c1
 page:
   kind: entity
-  node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+  nodes:
+    - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
+      name: Vatican City
+      node_type: place
   node_type: place
   title: Vatican City
   slug: vatican-city

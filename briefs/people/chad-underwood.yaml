@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d7c3ff97a78b392a5ec84949ed127359c0be28d318188d83104bac2dbd7de661
 page:
   kind: entity
-  node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+  nodes:
+    - node_id: 29f2befa-fe75-484b-a9e8-53a320e66c84
+      name: Chad Underwood
+      node_type: person
   node_type: person
   title: Chad Underwood
   slug: chad-underwood

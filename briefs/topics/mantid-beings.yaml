@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a698d87b99a23b4cde00ce2f96196fcbf8a888327740f6fbdea8e86c3d9efdf6
 page:
   kind: entity
-  node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+  nodes:
+    - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
+      name: Mantid beings
+      node_type: topic
   node_type: topic
   title: Mantid beings
   slug: mantid-beings
@@ -69,7 +72,7 @@ related_nodes:
     slug: the-greys
     shared_claims: 2
   - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-    title: theory of evolution
+    title: Theory of evolution
     node_type: topic
     slug: theory-of-evolution
     shared_claims: 2
@@ -351,7 +354,7 @@ claims:
         title: Reptilian beings
         slug: reptilian-beings
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -442,7 +445,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: be43f851e7a64c25fd73adc9496c97c80ebab8c55bf755eb5a46de08f0aca8e6
 page:
   kind: entity
-  node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+  nodes:
+    - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+      name: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+      node_type: document
   node_type: document
   title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
   slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa

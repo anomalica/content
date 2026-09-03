@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ae907d9c0a39cf92dbb066fa960981cbb303b3270d2ba42292998f110d33f11d
 page:
   kind: entity
-  node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+  nodes:
+    - node_id: d0a6ce69-4f5f-456b-a83c-b68a680224be
+      name: John Mack
+      node_type: person
   node_type: person
   title: John Mack
   slug: john-mack

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 614fd5bc857e5c5d53c38f60d8f6179a503afe999292ddb4a35471b22202b18b
 page:
   kind: entity
-  node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+  nodes:
+    - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
+      name: Collins Elite
+      node_type: organisation
   node_type: organisation
   title: Collins Elite
   slug: collins-elite

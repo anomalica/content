@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5e40a040063bcf21d1eeb0dea4c97670532033758c08303bfebd2aa3b695669a
 page:
   kind: entity
-  node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+  nodes:
+    - node_id: e7d89991-1182-4dbb-a1dc-71199b03d96d
+      name: Robert Weiss
+      node_type: person
   node_type: person
   title: Robert Weiss
   slug: robert-weiss

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 50be66285c4bc3bdd8dcd750eaf106a81a096c0339729c92cc56cfd996ee2292
 page:
   kind: entity
-  node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+  nodes:
+    - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
+      name: Robert Monroe
+      node_type: person
   node_type: person
   title: Robert Monroe
   slug: robert-monroe

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 37f2299224c8f9a288682eeaad5ee8474621003221a482b421ea0133f8c39fca
 page:
   kind: entity
-  node_id: 6dce2996-40fd-4e29-bdfc-264cab8d24ca
+  nodes:
+    - node_id: 6dce2996-40fd-4e29-bdfc-264cab8d24ca
+      name: Hernán Cortés
+      node_type: person
   node_type: person
   title: Hernán Cortés
   slug: hernan-cortes

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b4b6dbaec204e960f72ba98a4c5b6f7f75b1a399d6ce060485277511afae2449
 page:
   kind: entity
-  node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
+  nodes:
+    - node_id: f2a10ed1-543e-4df4-8e98-f45964a6a1af
+      name: United States Space Force (USSF)
+      node_type: organisation
   node_type: organisation
   title: United States Space Force (USSF)
   slug: united-states-space-force-ussf

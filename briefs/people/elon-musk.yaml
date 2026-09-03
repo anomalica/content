@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 33aa57bf0138a25de26af73ab313c7bf9cce56f9e4abfd5724d601dd5d5e63f2
 page:
   kind: entity
-  node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
+  nodes:
+    - node_id: c8e068c2-9087-4ccf-a9ad-55978d1d02b0
+      name: Elon Musk
+      node_type: person
   node_type: person
   title: Elon Musk
   slug: elon-musk

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d67231c95c1378668f813923ff46b314cbe4bf5b622d9a8a150e2196d042f40e
 page:
   kind: entity
-  node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
+  nodes:
+    - node_id: b1f20b71-56e6-401c-a4f6-88e12c16a5ed
+      name: Chakras
+      node_type: topic
   node_type: topic
   title: Chakras
   slug: chakras

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6878cbed903f2ffb1471f4557245226c32416a941efa09476cd05af3b5920c8b
 page:
   kind: entity
-  node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+  nodes:
+    - node_id: 9e257cce-d8c0-4a82-8dd9-e86661742d51
+      name: Colm Kelleher
+      node_type: person
   node_type: person
   title: Colm Kelleher
   slug: colm-kelleher

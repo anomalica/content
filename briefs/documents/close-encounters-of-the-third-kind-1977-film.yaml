@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 86b9d45ad050927383d398a8efb64d617979e4c4628ebd9b27d2f4950080c410
 page:
   kind: entity
-  node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+  nodes:
+    - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
+      name: Close Encounters of the Third Kind (1977 film)
+      node_type: document
   node_type: document
   title: Close Encounters of the Third Kind (1977 film)
   slug: close-encounters-of-the-third-kind-1977-film

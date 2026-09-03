@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cd1d4416fd9deba60b1bc4eb233967b93947f0a5554bbdc662af9b701d2afa37
 page:
   kind: entity
-  node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+  nodes:
+    - node_id: 0fdd20f7-03ac-4826-a495-e60294392ef9
+      name: Dennis Åsberg
+      node_type: person
   node_type: person
   title: Dennis Åsberg
   slug: dennis-asberg

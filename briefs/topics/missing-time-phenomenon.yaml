@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f4302651370f06e5f0e49f9abcd28a9615fb66a2dcf193cbd3ecf6954875116d
 page:
   kind: entity
-  node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
+  nodes:
+    - node_id: afd89359-4e5a-4ab4-8aff-ff47a272a993
+      name: Missing time phenomenon
+      node_type: topic
   node_type: topic
   title: Missing time phenomenon
   slug: missing-time-phenomenon

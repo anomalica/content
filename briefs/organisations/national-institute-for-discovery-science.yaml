@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f6f52d64280ecfadf66fa7edf4889aa01341ad2f30ff002c543a0e8617e59b11
 page:
   kind: entity
-  node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+  nodes:
+    - node_id: b9105415-f61e-4dcb-b873-c2c08a5629cd
+      name: National Institute for Discovery Science
+      node_type: organisation
   node_type: organisation
   title: National Institute for Discovery Science
   slug: national-institute-for-discovery-science
@@ -148,6 +151,11 @@ related_nodes:
     node_type: organisation
     slug: llc-bigelow-aerospace-advanced-space-studies
     shared_claims: 1
+  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
+    title: Crash retrieval programme
+    node_type: topic
+    slug: crash-retrieval-programme
+    shared_claims: 1
   - node_id: f88ffeb0-a63c-44c1-8a72-05cab0b77e3c
     title: Dulce, New Mexico Game and Fish Department
     node_type: organisation
@@ -177,11 +185,6 @@ related_nodes:
     title: Los Alamos National Laboratory
     node_type: organisation
     slug: los-alamos-national-laboratory
-    shared_claims: 1
-  - node_id: 84138743-594f-4e59-854e-82f5f165c85b
-    title: Merl Elote
-    node_type: person
-    slug: merl-elote
     shared_claims: 1
 claims:
   - claim_id: 5aed1c88-2c4a-4001-bd78-15d158e22b9f
@@ -2300,7 +2303,7 @@ claims:
         title: Jesse Michels video with Eric Weinstein and Eric Davis
         slug: jesse-michels-video-with-eric-weinstein-and-eric-davis
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null

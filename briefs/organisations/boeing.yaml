@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e465909df017b931639b47e9c130b3593f4ceac0b74f4d24a5849d5900af26c4
 page:
   kind: entity
-  node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+  nodes:
+    - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
+      name: Boeing
+      node_type: organisation
   node_type: organisation
   title: Boeing
   slug: boeing

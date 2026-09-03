@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: eba2ef0ffd3a25526fbc797a5aa54c082ce2ae881dcd40c79e59b4750918f3dd
 page:
   kind: entity
-  node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+  nodes:
+    - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
+      name: Marjorie Fish
+      node_type: person
   node_type: person
   title: Marjorie Fish
   slug: marjorie-fish

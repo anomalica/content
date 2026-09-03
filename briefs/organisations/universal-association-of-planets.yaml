@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f42f91d84ababf5b1f347e21584d29ff4f7971af20369ad4a96e6a6548b10a80
 page:
   kind: entity
-  node_id: fd0a3c05-c411-4714-8f38-962bb503c4b6
+  nodes:
+    - node_id: fd0a3c05-c411-4714-8f38-962bb503c4b6
+      name: Universal Association of Planets
+      node_type: organisation
   node_type: organisation
   title: Universal Association of Planets
   slug: universal-association-of-planets

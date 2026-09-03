@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f1b9d71f4019239618bc1c50c3700d965fd0c079ca2b08441aa6d1faf3cbe3b8
 page:
   kind: entity
-  node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+  nodes:
+    - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
+      name: United States Naval Forces Central Command (NAVCENT)
+      node_type: organisation
   node_type: organisation
   title: United States Naval Forces Central Command (NAVCENT)
   slug: united-states-naval-forces-central-command-navcent

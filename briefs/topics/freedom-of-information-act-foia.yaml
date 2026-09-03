@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 37aefc662a0d61484da15148ff5e83379ab471218a5717ff24342435f5aa2f9a
 page:
   kind: entity
-  node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+  nodes:
+    - node_id: 7a7d3dc5-791a-4393-a8bd-7afd375c52f3
+      name: Freedom of Information Act (FOIA)
+      node_type: topic
   node_type: topic
   title: Freedom of Information Act (FOIA)
   slug: freedom-of-information-act-foia

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2eb91c17898a2699e3473a97a14527df70456685d3de6164884b8f584f7164c7
 page:
   kind: entity
-  node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+  nodes:
+    - node_id: 2cc858d0-aa73-46c4-bdd0-7cb545271750
+      name: Kary Mullis
+      node_type: person
   node_type: person
   title: Kary Mullis
   slug: kary-mullis

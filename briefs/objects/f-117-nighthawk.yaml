@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e0c2fca61bfe43f9ae243dd6452c661cb7bc3c65cb2d7a91959bc11c5beec546
 page:
   kind: entity
-  node_id: ec339458-25c6-4335-85a1-ca339e46f8f8
+  nodes:
+    - node_id: ec339458-25c6-4335-85a1-ca339e46f8f8
+      name: F-117 Nighthawk
+      node_type: object
   node_type: object
   title: F-117 Nighthawk
   slug: f-117-nighthawk

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d1d9ffb568fdb1c18400a2b95628a8333c8523304d559f411ddb659c1e1d106b
 page:
   kind: entity
-  node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+  nodes:
+    - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+      name: Special Access Program (SAP)
+      node_type: topic
   node_type: topic
   title: Special Access Program (SAP)
   slug: special-access-program-sap

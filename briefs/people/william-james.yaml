@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8fd21c02444006083809e6f51e6e7918da76b6881f9c0d0d1449c7bcd3c21e0d
 page:
   kind: entity
-  node_id: ff9b4d15-f99f-4c43-8530-ae5b783fc7ac
+  nodes:
+    - node_id: ff9b4d15-f99f-4c43-8530-ae5b783fc7ac
+      name: William James
+      node_type: person
   node_type: person
   title: William James
   slug: william-james

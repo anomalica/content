@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 64f5d32b1e3f699d472987134c3e1af5dbbdeed5d24b7349c2115c0fd7d3aa8d
 page:
   kind: entity
-  node_id: 5604216f-d203-4bac-a897-3f442b7c418d
+  nodes:
+    - node_id: 5604216f-d203-4bac-a897-3f442b7c418d
+      name: The Skeptical Inquirer (magazine)
+      node_type: organisation
   node_type: organisation
   title: The Skeptical Inquirer (magazine)
   slug: the-skeptical-inquirer-magazine

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1375c3106c864b02c88870295bd8a6964c653ef166f656f1b6beb90b271a89e7
 page:
   kind: entity
-  node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+  nodes:
+    - node_id: 0606a83a-eb1e-439f-a945-e8daef0d69c9
+      name: Roscoe Hillenkoetter
+      node_type: person
   node_type: person
   title: Roscoe Hillenkoetter
   slug: roscoe-hillenkoetter

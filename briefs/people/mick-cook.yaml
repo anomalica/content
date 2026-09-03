@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e99b073bf6c7a1ef88a9ff2cde7b3efd25850241c7e01921aa960005ca753ecf
 page:
   kind: entity
-  node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+  nodes:
+    - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+      name: Mick Cook
+      node_type: person
   node_type: person
   title: Mick Cook
   slug: mick-cook

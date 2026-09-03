@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: da8aa29f2bb246dc9f9939a11473a1462a78bff00095dc6e46f62f1441825bf7
 page:
   kind: entity
-  node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
+  nodes:
+    - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
+      name: History Channel
+      node_type: organisation
   node_type: organisation
   title: History Channel
   slug: history-channel

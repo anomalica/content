@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d0424da842885289b237466b1882b216ff739016848162a7936e36d6dca2395e
 page:
   kind: entity
-  node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+  nodes:
+    - node_id: b4454c90-f83b-4a34-884b-02bf21fb4f5f
+      name: Steve Justice
+      node_type: person
   node_type: person
   title: Steve Justice
   slug: steve-justice

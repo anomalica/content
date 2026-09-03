@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 182d1e34a0ebce0cecf7393ade2d639cc59cb9b71f5a1a3c01608a15ca7c0d30
 page:
   kind: entity
-  node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+  nodes:
+    - node_id: 2d83eddd-3fff-4559-b07c-7711ada4bf0f
+      name: USA, Nevada, Las Vegas
+      node_type: place
   node_type: place
   title: USA, Nevada, Las Vegas
   slug: nevada-las-vegas-usa

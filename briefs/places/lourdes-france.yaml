@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: de762a8c064c0a5d22cb9ecba39f619387206ebb65f6f36d44d5c09c7c8bad2e
 page:
   kind: entity
-  node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+  nodes:
+    - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
+      name: France, Lourdes
+      node_type: place
   node_type: place
   title: France, Lourdes
   slug: lourdes-france

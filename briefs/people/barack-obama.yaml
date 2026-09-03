@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4d92ba7e68ee50a3590d4bde02d39ac0be364373f9670f19359173aa155652eb
 page:
   kind: entity
-  node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+  nodes:
+    - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
+      name: Barack Obama
+      node_type: person
   node_type: person
   title: Barack Obama
   slug: barack-obama

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 205f3750b9f98942ed7ced5d928d59ebd0ee299a0fd97a33e14300509b007a15
 page:
   kind: entity
-  node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+  nodes:
+    - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
+      name: Cuba
+      node_type: place
   node_type: place
   title: Cuba
   slug: cuba

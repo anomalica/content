@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 501ab4bce4e928a60e3cdd7c4174cf516125cbf6febd13d75c14b953a48060bc
 page:
   kind: entity
-  node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+  nodes:
+    - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
+      name: Office of the President of the United States
+      node_type: organisation
   node_type: organisation
   title: Office of the President of the United States
   slug: office-of-the-president-of-the-united-states

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 285657536f0b97217612e47fc8607e4a8a5aabb3ce996993adbbbf1d8397979d
 page:
   kind: entity
-  node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+  nodes:
+    - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
+      name: Mary Rodwell
+      node_type: person
   node_type: person
   title: Mary Rodwell
   slug: mary-rodwell

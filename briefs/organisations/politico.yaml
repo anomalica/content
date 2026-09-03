@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6a05eb753c1c01f098fc17d03ebf486d38bfe57c284685d41605a259d9cf5757
 page:
   kind: entity
-  node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+  nodes:
+    - node_id: 36754a47-30a4-4ad9-8dcd-5cac51d1e6a4
+      name: Politico
+      node_type: organisation
   node_type: organisation
   title: Politico
   slug: politico

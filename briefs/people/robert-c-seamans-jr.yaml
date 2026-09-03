@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6c565063855e1540dc62aa606e2c44bcf928d336d15ca43d6f1f09b419814773
 page:
   kind: entity
-  node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
+  nodes:
+    - node_id: 61d9ff36-b51c-4763-8799-f74edb1ea479
+      name: Robert C. Seamans Jr.
+      node_type: person
   node_type: person
   title: Robert C. Seamans Jr.
   slug: robert-c-seamans-jr

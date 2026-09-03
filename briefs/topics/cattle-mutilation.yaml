@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a8451cccb96021cb9ccd519fcbf0d34bccc8fc467e8761d55161ed7e4ae451bd
 page:
   kind: entity
-  node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+  nodes:
+    - node_id: 99d8839b-0ae5-4cff-8b2e-f9b6f8d1378c
+      name: Cattle mutilation
+      node_type: topic
   node_type: topic
   title: Cattle mutilation
   slug: cattle-mutilation

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b7458b843c37fcc9bb9b30c3a96d3f642bbfd92b4227d972991d19fe5f317ee6
 page:
   kind: entity
-  node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+  nodes:
+    - node_id: 1f03fa1d-9929-4575-a27b-52dba43ec087
+      name: Anti-Gravity Propulsion
+      node_type: topic
   node_type: topic
   title: Anti-Gravity Propulsion
   slug: anti-gravity-propulsion

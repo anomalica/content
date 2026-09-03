@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0722620b4827d0804fe318484ebbfe8065c0fefbadfd34daa8db41633e72c3b9
 page:
   kind: entity
-  node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+  nodes:
+    - node_id: c2db41b8-bc09-456d-8887-4b79a7e9c757
+      name: The New York Times
+      node_type: organisation
   node_type: organisation
   title: The New York Times
   slug: the-new-york-times

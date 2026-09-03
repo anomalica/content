@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1dff3b4cfdc72ba13aec0d3f219cfa92bbeba063f1668c4384345a6b81393331
 page:
   kind: entity
-  node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+  nodes:
+    - node_id: 6131015e-9308-4c36-bc89-ca45be5f90be
+      name: Robert Richards
+      node_type: person
   node_type: person
   title: Robert Richards
   slug: robert-richards

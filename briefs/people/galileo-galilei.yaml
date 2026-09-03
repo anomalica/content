@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d287e29da11e9147959e3f84ac1b641f87eb346be7b6cbff261de731f5a8bf89
 page:
   kind: entity
-  node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+  nodes:
+    - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
+      name: Galileo Galilei
+      node_type: person
   node_type: person
   title: Galileo Galilei
   slug: galileo-galilei

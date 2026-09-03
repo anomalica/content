@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bd2f6d63b48a2e51ab694d251ba4ca995ecf7036c4eb554c3dbaad8770174c41
 page:
   kind: entity
-  node_id: 814327af-44ac-4970-8062-f3802264a30f
+  nodes:
+    - node_id: 814327af-44ac-4970-8062-f3802264a30f
+      name: Charles Halt
+      node_type: person
   node_type: person
   title: Charles Halt
   slug: charles-halt

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b9ec4f569918fd223df45bfb0d1e8aabb507678717f73c0db6eadef86ba32eaa
 page:
   kind: entity
-  node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+  nodes:
+    - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
+      name: Oke Shannon
+      node_type: person
   node_type: person
   title: Oke Shannon
   slug: oke-shannon

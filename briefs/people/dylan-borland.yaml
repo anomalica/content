@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2de3e75129cb55c573afec0a546ea72045969bef3b0623416f8c546c03ff3fbe
 page:
   kind: entity
-  node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+  nodes:
+    - node_id: c442597b-8900-4212-98ee-ba7b29d985e2
+      name: Dylan Borland
+      node_type: person
   node_type: person
   title: Dylan Borland
   slug: dylan-borland

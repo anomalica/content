@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 282c65878e14ba11c63fb391e67b986dec21ee99419432cf1460554a9dd991c9
 page:
   kind: entity
-  node_id: 378962cf-3d85-4df1-bf17-e4047e308491
+  nodes:
+    - node_id: 378962cf-3d85-4df1-bf17-e4047e308491
+      name: Wikileaks
+      node_type: organisation
   node_type: organisation
   title: Wikileaks
   slug: wikileaks

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9d92f1ee276dcb93803e81e1a36427235dcf1a88c16860fb5604327448e1cdaf
 page:
   kind: entity
-  node_id: 59476464-a679-46ce-9247-b0adcb287762
+  nodes:
+    - node_id: 59476464-a679-46ce-9247-b0adcb287762
+      name: Edgar Mitchell
+      node_type: person
   node_type: person
   title: Edgar Mitchell
   slug: edgar-mitchell

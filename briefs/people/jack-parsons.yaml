@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a44d505249a7b892f46b50214855bc72a00ed72258748677f028bb6edae97a9d
 page:
   kind: entity
-  node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+  nodes:
+    - node_id: b6090b6b-63d9-473d-8d6c-bd4b5f54f24b
+      name: Jack Parsons
+      node_type: person
   node_type: person
   title: Jack Parsons
   slug: jack-parsons

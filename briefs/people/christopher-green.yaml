@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 86dec04d5bbd99551cc3e65d4a624e9e85b4696c48a8594e2fb3f51073f95834
 page:
   kind: entity
-  node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+  nodes:
+    - node_id: 9452773a-568c-48b2-bcb5-f58ccfda1f1b
+      name: Christopher Green
+      node_type: person
   node_type: person
   title: Christopher Green
   slug: christopher-green

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2de073b57d771eea22b49e31de9d70f783903445895a63e0869451829dcf586f
 page:
   kind: entity
-  node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+  nodes:
+    - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
+      name: Albert Einstein
+      node_type: person
   node_type: person
   title: Albert Einstein
   slug: albert-einstein

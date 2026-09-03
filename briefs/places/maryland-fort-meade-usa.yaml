@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 51e6cad02931007bf1eff2858aa0088ead8685e6a511aef52afa5cc06639d419
 page:
   kind: entity
-  node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+  nodes:
+    - node_id: ee0cbb1d-f15e-481f-bbd8-6cf7911d747b
+      name: USA, Maryland, Fort Meade
+      node_type: place
   node_type: place
   title: USA, Maryland, Fort Meade
   slug: maryland-fort-meade-usa

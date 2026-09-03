@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d5f458ae93335eb334c5926a977509dc37aab79763b50067344e48fdf196ff12
 page:
   kind: entity
-  node_id: 30940882-37a5-4db5-980d-282dafd2df49
+  nodes:
+    - node_id: 30940882-37a5-4db5-980d-282dafd2df49
+      name: Nonhuman intelligence (NHI)
+      node_type: topic
   node_type: topic
   title: Nonhuman intelligence (NHI)
   slug: nonhuman-intelligence-nhi

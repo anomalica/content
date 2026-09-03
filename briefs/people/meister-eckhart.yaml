@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e9bf2d6335ceb0cad149a951ecba4fc3fda9d29a5967155083d3281cc60e55f3
 page:
   kind: entity
-  node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+  nodes:
+    - node_id: c04062b2-67fe-4d39-9274-2fb3c36287ad
+      name: Meister Eckhart
+      node_type: person
   node_type: person
   title: Meister Eckhart
   slug: meister-eckhart

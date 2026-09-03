@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7457cbb54aff064ec138898ed51b369db8b710994088a295701af93240dbfb99
 page:
   kind: entity
-  node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+  nodes:
+    - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+      name: Los Alamos National Laboratory
+      node_type: organisation
   node_type: organisation
   title: Los Alamos National Laboratory
   slug: los-alamos-national-laboratory

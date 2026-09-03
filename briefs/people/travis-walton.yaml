@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fecc3f680db0020b4455c2d7cc1df5f8223d25c2cff0771b03c291b29546031e
 page:
   kind: entity
-  node_id: d91e2df7-b885-41ab-952d-002373550f99
+  nodes:
+    - node_id: d91e2df7-b885-41ab-952d-002373550f99
+      name: Travis Walton
+      node_type: person
   node_type: person
   title: Travis Walton
   slug: travis-walton

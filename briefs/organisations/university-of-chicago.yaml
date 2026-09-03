@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b52f488550ea25eeb85b7da96596bf3cc73a62b3a4d88d516687190836e9d177
 page:
   kind: entity
-  node_id: a10e5cac-30e6-48b2-8eae-82c45f4dc894
+  nodes:
+    - node_id: a10e5cac-30e6-48b2-8eae-82c45f4dc894
+      name: University of Chicago
+      node_type: organisation
   node_type: organisation
   title: University of Chicago
   slug: university-of-chicago

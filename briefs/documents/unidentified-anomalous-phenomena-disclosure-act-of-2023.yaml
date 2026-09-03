@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c3e736e4b8c3335cf0920bd8f84e89a84f9a6a384798a2ac42bf51dcd34f896c
 page:
   kind: entity
-  node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+  nodes:
+    - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
+      name: Unidentified Anomalous Phenomena Disclosure Act of 2023
+      node_type: document
   node_type: document
   title: Unidentified Anomalous Phenomena Disclosure Act of 2023
   slug: unidentified-anomalous-phenomena-disclosure-act-of-2023

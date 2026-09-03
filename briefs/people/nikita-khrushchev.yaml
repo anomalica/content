@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7c1605728dbd5267871ebcc8392a98d180e49b7994e1ce68d172f5c0f057169a
 page:
   kind: entity
-  node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+  nodes:
+    - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
+      name: Nikita Khrushchev
+      node_type: person
   node_type: person
   title: Nikita Khrushchev
   slug: nikita-khrushchev

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 378fe5943fe799e2392f3a9c1ba99293d6ff37742c5e94e332e50cfbad436caa
 page:
   kind: entity
-  node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+  nodes:
+    - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
+      name: String theory
+      node_type: topic
   node_type: topic
   title: String theory
   slug: string-theory
@@ -63,6 +66,11 @@ related_nodes:
     node_type: person
     slug: julia-mossbridge
     shared_claims: 1
+  - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
+    title: Limited hangout
+    node_type: topic
+    slug: limited-hangout
+    shared_claims: 1
   - node_id: 2a7e99da-a52b-42f0-ae13-32841e4a3bc8
     title: Quantum gravity
     node_type: topic
@@ -72,11 +80,6 @@ related_nodes:
     title: Quantum mechanics
     node_type: topic
     slug: quantum-mechanics
-    shared_claims: 1
-  - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
-    title: limited hangout
-    node_type: topic
-    slug: limited-hangout
     shared_claims: 1
 claims:
   - claim_id: f0e981e4-e770-4e15-b5dd-6ae747bcdf85
@@ -268,7 +271,7 @@ claims:
         title: String theory
         slug: string-theory
       - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
-        title: limited hangout
+        title: Limited hangout
         slug: limited-hangout
     date: null
     date_end: null

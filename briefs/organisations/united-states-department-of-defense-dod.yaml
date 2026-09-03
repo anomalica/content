@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d3259da3ed37abf5141dbea5b66f7e11c2dc02bdc4caa1168aded7b393d6e5fd
 page:
   kind: entity
-  node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+  nodes:
+    - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+      name: United States Department of Defense (DoD)
+      node_type: organisation
   node_type: organisation
   title: United States Department of Defense (DoD)
   slug: united-states-department-of-defense-dod
@@ -12340,7 +12343,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-        title: whistleblower protection for defence contractors
+        title: Whistleblower protection for defence contractors
         slug: whistleblower-protection-for-defence-contractors
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -12537,7 +12540,7 @@ claims:
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null

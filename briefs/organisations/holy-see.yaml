@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6480d0089018a9bcdcbecbb0e142971121d2d080852ee839b2bd96090be942f8
 page:
   kind: entity
-  node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+  nodes:
+    - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
+      name: Holy See
+      node_type: organisation
   node_type: organisation
   title: Holy See
   slug: holy-see

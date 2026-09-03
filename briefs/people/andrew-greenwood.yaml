@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b17f9543a98d8d2a59c98c9b7c77ee94e1d38173949bd03c937b7c69fe414a85
 page:
   kind: entity
-  node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+  nodes:
+    - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
+      name: Andrew Greenwood
+      node_type: person
   node_type: person
   title: Andrew Greenwood
   slug: andrew-greenwood

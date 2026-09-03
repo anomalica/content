@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1c0649f0a6710220ac5f3958344ba045fabb2207e998c6948f4eabbd7503bf2b
 page:
   kind: entity
-  node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+  nodes:
+    - node_id: ccdf0290-866f-4b6c-8317-9f529510769f
+      name: Angel hair
+      node_type: topic
   node_type: topic
   title: Angel hair
   slug: angel-hair

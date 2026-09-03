@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a63d5292112cee7d1af09c9e7a0d95f33cb4c56a9fb6180291149814fabec743
 page:
   kind: entity
-  node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+  nodes:
+    - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
+      name: Royal New Zealand Air Force
+      node_type: organisation
   node_type: organisation
   title: Royal New Zealand Air Force
   slug: royal-new-zealand-air-force

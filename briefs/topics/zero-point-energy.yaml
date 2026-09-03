@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 75c269eb78793bbd6d575ef3cc9a817dd738ecc01c5a821150b1f382605d2c31
 page:
   kind: entity
-  node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+  nodes:
+    - node_id: 06d065a8-507a-488d-bdd0-50aa4c983490
+      name: Zero-point energy
+      node_type: topic
   node_type: topic
   title: Zero-point energy
   slug: zero-point-energy

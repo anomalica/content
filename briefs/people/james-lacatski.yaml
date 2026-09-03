@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c6ab718655c7416d749c59e845dfb689aa15af77f180c1228c6fd20c87f33ac4
 page:
   kind: entity
-  node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+  nodes:
+    - node_id: 3a865991-eaad-4855-8980-b28dfb98691a
+      name: James Lacatski
+      node_type: person
   node_type: person
   title: James Lacatski
   slug: james-lacatski

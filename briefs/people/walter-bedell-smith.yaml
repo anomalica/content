@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f41d27b01c3019c33252c1fee3cec110e2882d5f02c176191eeab00d59888f4d
 page:
   kind: entity
-  node_id: e243dc50-3c86-4cf2-a9b2-961c7ef0b29e
+  nodes:
+    - node_id: e243dc50-3c86-4cf2-a9b2-961c7ef0b29e
+      name: Walter Bedell Smith
+      node_type: person
   node_type: person
   title: Walter Bedell Smith
   slug: walter-bedell-smith

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 41b0c3c24e799bfb46130ee986ce6b5cdafde01ce6a2b9960c7583674f8823df
 page:
   kind: entity
-  node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+  nodes:
+    - node_id: 2e8d26c9-3989-4a39-ab8c-e25799f9d960
+      name: USA, New York, Manhattan
+      node_type: place
   node_type: place
   title: USA, New York, Manhattan
   slug: new-york-manhattan-usa
@@ -68,11 +71,6 @@ related_nodes:
     node_type: person
     slug: donald-klein
     shared_claims: 1
-  - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-    title: Greys
-    node_type: topic
-    slug: greys
-    shared_claims: 1
   - node_id: a127963a-e89a-4737-adf0-5633988901ea
     title: Jenny (colloquy participant, dancer)
     node_type: person
@@ -87,6 +85,11 @@ related_nodes:
     title: Leslie Kean's two red balloons sighting (Concord, Massachusetts and Manhattan subway)
     node_type: event
     slug: massachusetts-and-manhattan-subway-leslie-keans-two-red-balloons-sighting-concord
+    shared_claims: 1
+  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+    title: The Greys
+    node_type: topic
+    slug: the-greys
     shared_claims: 1
   - node_id: 374982e6-193c-49b4-87fa-1259227a9f3d
     title: Time slip
@@ -890,9 +893,9 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: dfa3268c-8bbb-4c5d-8066-f9a3a416b7e6
         title: Communion (Whitley Strieber book)
         slug: communion-whitley-strieber-book

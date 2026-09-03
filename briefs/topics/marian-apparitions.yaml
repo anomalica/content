@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7ff23389968480f31ca9c6da46eb099df4129473c2fbb8aa52363320c2b3f694
 page:
   kind: entity
-  node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+  nodes:
+    - node_id: 9fcb0a2b-2f0e-401d-86f3-195e2f6053dc
+      name: Marian apparitions
+      node_type: topic
   node_type: topic
   title: Marian apparitions
   slug: marian-apparitions

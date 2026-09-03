@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 52b39d33883df2a6141571f3718524a96ea0f962c4d92d19db4a5f67632046af
 page:
   kind: entity
-  node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+  nodes:
+    - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
+      name: Strike Fighter Squadron 41 (VFA-41)
+      node_type: organisation
   node_type: organisation
   title: Strike Fighter Squadron 41 (VFA-41)
   slug: strike-fighter-squadron-41-vfa-41

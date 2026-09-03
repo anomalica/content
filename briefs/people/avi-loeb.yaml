@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 621a86f0def8e470938bcc2545438dbec6d7dfdcc84bb03f15804fa0f8426c83
 page:
   kind: entity
-  node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+  nodes:
+    - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
+      name: Avi Loeb
+      node_type: person
   node_type: person
   title: Avi Loeb
   slug: avi-loeb

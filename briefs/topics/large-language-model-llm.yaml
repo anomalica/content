@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 08a10e18eca180360e5e13c9593a5e60ecd1cb9b6313809c9ae7792f52e994c4
 page:
   kind: entity
-  node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+  nodes:
+    - node_id: 57e26296-4524-486b-a7ea-fc698140bb84
+      name: Large language model (LLM)
+      node_type: topic
   node_type: topic
   title: Large language model (LLM)
   slug: large-language-model-llm

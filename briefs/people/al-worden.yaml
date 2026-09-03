@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a8a49530130c2531452e4b358b86caab91943fa23072785761cbd3a2c944865b
 page:
   kind: entity
-  node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+  nodes:
+    - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
+      name: Al Worden
+      node_type: person
   node_type: person
   title: Al Worden
   slug: al-worden

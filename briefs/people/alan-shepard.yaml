@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2a972ada76e5232f8bf9d4dc87c221de40bef8cb0e6fcdd4dcae485975c2e327
 page:
   kind: entity
-  node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+  nodes:
+    - node_id: 002ff098-7365-4c8b-8363-2cb043393e68
+      name: Alan Shepard
+      node_type: person
   node_type: person
   title: Alan Shepard
   slug: alan-shepard

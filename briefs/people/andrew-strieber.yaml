@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 40e748269ee3140c75facb73ca5baab0a773e81b359c583c71b7c054b7616740
 page:
   kind: entity
-  node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+  nodes:
+    - node_id: f8296efc-16f5-4fb1-9f55-a5303a4b88c8
+      name: Andrew Strieber
+      node_type: person
   node_type: person
   title: Andrew Strieber
   slug: andrew-strieber

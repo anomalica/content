@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1729929521e3e5c63e545c3fc66dc4dad1008b0d3effbce3e2e36c0825b1e9a8
 page:
   kind: entity
-  node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+  nodes:
+    - node_id: 2116e8f0-ae1b-465d-a6d0-7b73f13db95a
+      name: Linda Moulton Howe
+      node_type: person
   node_type: person
   title: Linda Moulton Howe
   slug: linda-moulton-howe

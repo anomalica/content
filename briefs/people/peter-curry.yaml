@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1f5c94ceb1d160fecf259adc39adf3b1989c23a9163ad2674336a26d6bfa3930
 page:
   kind: entity
-  node_id: 19247384-509d-492b-8701-0f0894424c86
+  nodes:
+    - node_id: 19247384-509d-492b-8701-0f0894424c86
+      name: Peter Curry
+      node_type: person
   node_type: person
   title: Peter Curry
   slug: peter-curry

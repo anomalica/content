@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a3eebc8ee305884b6f87e6a64b38e71435281366ce77c6f267fdf534853145c0
 page:
   kind: entity
-  node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+  nodes:
+    - node_id: 1cc93fc2-f71a-4f59-90e3-dd72c98943db
+      name: Bigelow Aerospace
+      node_type: organisation
   node_type: organisation
   title: Bigelow Aerospace
   slug: bigelow-aerospace

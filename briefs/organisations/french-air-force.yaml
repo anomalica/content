@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 09d16d50e1a50e81a5f982c1d924464e8b2bfc7fa042bf6a5530b0d5f88bcde2
 page:
   kind: entity
-  node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+  nodes:
+    - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
+      name: French Air Force
+      node_type: organisation
   node_type: organisation
   title: French Air Force
   slug: french-air-force

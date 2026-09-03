@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2c2bff8eec02065f5a768852080ca3148088a9cb4b80330d3bc2da7297516df8
 page:
   kind: entity
-  node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+  nodes:
+    - node_id: a3a02857-b28d-434b-b1ad-e6c2d491e8bd
+      name: To the Stars Academy of Arts and Science (TTSA)
+      node_type: organisation
   node_type: organisation
   title: To the Stars Academy of Arts and Science (TTSA)
   slug: to-the-stars-academy-of-arts-and-science-ttsa

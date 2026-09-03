@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 941372aeaf2db5a6c8dac03488585fcf4846e77fb8e08cfacfef1bd0344867f8
 page:
   kind: entity
-  node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+  nodes:
+    - node_id: e19a826c-8076-4fa5-8ec5-e24a00b0d4b9
+      name: Bigelow Aerospace Advanced Space Studies, LLC
+      node_type: organisation
   node_type: organisation
   title: Bigelow Aerospace Advanced Space Studies, LLC
   slug: llc-bigelow-aerospace-advanced-space-studies

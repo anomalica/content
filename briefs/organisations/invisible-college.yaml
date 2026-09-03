@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 56ef29e5dfaab5e15f87e92810bff256a64971b042f28342f3704ad711b72983
 page:
   kind: entity
-  node_id: 1d7f7563-7dae-4a54-9fdc-1d347205cbd4
+  nodes:
+    - node_id: 1d7f7563-7dae-4a54-9fdc-1d347205cbd4
+      name: Invisible College
+      node_type: organisation
   node_type: organisation
   title: Invisible College
   slug: invisible-college

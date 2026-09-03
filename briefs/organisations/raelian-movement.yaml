@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 20f97c59b156c78d7603d3e6315b4d2d19805168b9a99419488e151e84889274
 page:
   kind: entity
-  node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
+  nodes:
+    - node_id: 602e4c3f-f31a-4082-87e1-940b4407d8fa
+      name: Raëlian Movement
+      node_type: organisation
   node_type: organisation
   title: Raëlian Movement
   slug: raelian-movement

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0d31d449adeb275f5013387e546464800f6c91f48b99aef2f41cb655e9fcb46a
 page:
   kind: entity
-  node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+  nodes:
+    - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+      name: Sensitive Compartmented Information Facility (SCIF)
+      node_type: topic
   node_type: topic
   title: Sensitive Compartmented Information Facility (SCIF)
   slug: sensitive-compartmented-information-facility-scif

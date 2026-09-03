@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0b77f93b94f7fbe26cbc6c501836887a1705f67f41b5bb9e4c9d750ae0c6617c
 page:
   kind: entity
-  node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+  nodes:
+    - node_id: b4258228-aad1-462d-8757-27a3a99fdaaf
+      name: Reverse engineering of recovered craft of non-human origin
+      node_type: topic
   node_type: topic
   title: Reverse engineering of recovered craft of non-human origin
   slug: reverse-engineering-of-recovered-craft-of-non-human-origin

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 76e19c479a6f7ce7a93125ba2dd1ba51c957bd5e1365eef0378f2f08e0218097
 page:
   kind: entity
-  node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
+  nodes:
+    - node_id: 3ebf2a70-a0d1-484e-8912-35929642bc47
+      name: Grandfather paradox
+      node_type: topic
   node_type: topic
   title: Grandfather paradox
   slug: grandfather-paradox

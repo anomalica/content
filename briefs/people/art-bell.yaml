@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9aa07ba4cecaf6c1de838753dc675c3a23ae257480286736b6d78cbcfcbe0f9d
 page:
   kind: entity
-  node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+  nodes:
+    - node_id: 30795fa1-7470-496f-8db1-441be0c8750a
+      name: Art Bell
+      node_type: person
   node_type: person
   title: Art Bell
   slug: art-bell

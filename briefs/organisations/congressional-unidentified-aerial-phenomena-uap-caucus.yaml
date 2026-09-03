@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 145094419b8c42738cc86006b9c9d046f8cd6c88a15db722d975c47c2dfd2b90
 page:
   kind: entity
-  node_id: dd625f67-d16a-4389-8a44-45fd7b791519
+  nodes:
+    - node_id: dd625f67-d16a-4389-8a44-45fd7b791519
+      name: Congressional Unidentified Aerial Phenomena (UAP) Caucus
+      node_type: organisation
   node_type: organisation
   title: Congressional UAP Caucus
   slug: congressional-unidentified-aerial-phenomena-uap-caucus

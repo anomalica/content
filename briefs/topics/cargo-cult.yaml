@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4de5379f8b6250bd9bb6bfe99299a9c0d1771b4fb09680155fe672e0b5fd0d25
 page:
   kind: entity
-  node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+  nodes:
+    - node_id: 2194ed7c-cc8f-4554-ba87-dbed04f339ac
+      name: Cargo cult
+      node_type: topic
   node_type: topic
   title: Cargo cult
   slug: cargo-cult

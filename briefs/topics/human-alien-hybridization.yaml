@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6df499cc1dd921a172ec31d93c78071e549b53c72a1ca25d441ad3e8e470a2b2
 page:
   kind: entity
-  node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+  nodes:
+    - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
+      name: Human-alien hybridization
+      node_type: topic
   node_type: topic
   title: Human-alien hybridization
   slug: human-alien-hybridization

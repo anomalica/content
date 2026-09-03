@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ab5cf618492e727c1079f71ae9815bf6f773b20e742101275502108720606a7e
 page:
   kind: entity
-  node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+  nodes:
+    - node_id: a541d9c0-8e46-4def-9ac6-a5d834cb9972
+      name: Pim van Lommel
+      node_type: person
   node_type: person
   title: Pim van Lommel
   slug: pim-van-lommel

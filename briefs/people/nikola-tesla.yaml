@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 02af3ab1dce75b2b16c711b5daa7a3d1c085ca5d0974e0bf9f37cad37097a030
 page:
   kind: entity
-  node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+  nodes:
+    - node_id: d7e78302-bfc0-44d0-b2c8-967b15fde742
+      name: Nikola Tesla
+      node_type: person
   node_type: person
   title: Nikola Tesla
   slug: nikola-tesla

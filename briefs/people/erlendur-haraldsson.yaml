@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: dfe2904f7c3f87978eff8838cf91cd63efc3fbdab52d5c24644a946dbebf2272
 page:
   kind: entity
-  node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+  nodes:
+    - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
+      name: Erlendur Haraldsson
+      node_type: person
   node_type: person
   title: Erlendur Haraldsson
   slug: erlendur-haraldsson
@@ -93,6 +96,11 @@ related_nodes:
     node_type: person
     slug: antonia-mills
     shared_claims: 2
+  - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
+    title: Apparition
+    node_type: topic
+    slug: apparition
+    shared_claims: 2
   - node_id: f149b434-891a-47b1-899b-37c6e9c4c2d1
     title: Denmark, Copenhagen
     node_type: place
@@ -127,11 +135,6 @@ related_nodes:
     title: Satwant Pasricha
     node_type: person
     slug: satwant-pasricha
-    shared_claims: 2
-  - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-    title: apparition
-    node_type: topic
-    slug: apparition
     shared_claims: 2
   - node_id: c18ec082-8faf-4da3-bc2b-03a5b03e6e5c
     title: '"Alleged Encounters with the Dead: The Importance of Violent Death in 337 New Cases" (paper by Erlendur Haraldsson)'
@@ -955,7 +958,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-        title: apparition
+        title: Apparition
         slug: apparition
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson
@@ -1000,7 +1003,7 @@ claims:
         title: Drop-in communicators
         slug: drop-in-communicators
       - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-        title: apparition
+        title: Apparition
         slug: apparition
       - node_id: 7113f0a0-43a7-4c57-8d08-28d419f85121
         title: Erlendur Haraldsson

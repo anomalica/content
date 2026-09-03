@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2da70fa188837ebdbb3f615ec8be39b515a6906e06f29fd448018d8dc2441143
 page:
   kind: entity
-  node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+  nodes:
+    - node_id: 9645dd97-54a9-4d27-9cde-5e948ab7c2f5
+      name: Michael Horn
+      node_type: person
   node_type: person
   title: Michael Horn
   slug: michael-horn

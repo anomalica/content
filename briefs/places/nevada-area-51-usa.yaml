@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ff9f19a028599ff8ce84f0e1831b29cc204c659bb5b446c4e6ffe15a7551b21d
 page:
   kind: entity
-  node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+  nodes:
+    - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+      name: USA, Nevada, Area 51
+      node_type: place
   node_type: place
   title: USA, Nevada, Area 51
   slug: nevada-area-51-usa

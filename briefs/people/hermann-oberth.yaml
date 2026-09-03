@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9fdef5689f51ce36126ac38b1e942d71466d9ca9b835093bb053b0cf82511be7
 page:
   kind: entity
-  node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+  nodes:
+    - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
+      name: Hermann Oberth
+      node_type: person
   node_type: person
   title: Hermann Oberth
   slug: hermann-oberth

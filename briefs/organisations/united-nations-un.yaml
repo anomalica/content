@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0e62209ea5f46568a01e376e0849c7e6eac9afe4563b77051d71308f16a8f6fa
 page:
   kind: entity
-  node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+  nodes:
+    - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
+      name: United Nations (UN)
+      node_type: organisation
   node_type: organisation
   title: United Nations (UN)
   slug: united-nations-un

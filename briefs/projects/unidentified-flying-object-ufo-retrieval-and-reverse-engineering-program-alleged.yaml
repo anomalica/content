@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c9968fefd11f9e62b0c0f003adda5297e7698b096562cb4c953d9eefb6f1fdc6
 page:
   kind: entity
-  node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+  nodes:
+    - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
+      name: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
+      node_type: project
   node_type: project
   title: UFO Retrieval and Reverse Engineering Program (alleged)
   slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged

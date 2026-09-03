@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 524bb159ecc6095e359446b011733df7480d593ee2f6c836423540dcd82bc026
 page:
   kind: entity
-  node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+  nodes:
+    - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
+      name: Mediumship
+      node_type: topic
   node_type: topic
   title: Mediumship
   slug: mediumship

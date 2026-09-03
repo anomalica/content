@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 33789f3b7a9d580573f378bc434a190bfcdfc4df83e8118191cfa306d65f6028
 page:
   kind: entity
-  node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+  nodes:
+    - node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
+      name: USA, New York, New York City
+      node_type: place
   node_type: place
   title: USA, New York, New York City
   slug: new-york-new-york-city-usa

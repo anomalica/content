@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 359d9717de161ff4d5647986a1a7fb64604ffb76b948eda3ef0fbadfed79f9a5
 page:
   kind: entity
-  node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+  nodes:
+    - node_id: 87475644-8ed2-4e3a-88e3-e0c5e12a991e
+      name: Polymerase chain reaction
+      node_type: topic
   node_type: topic
   title: Polymerase chain reaction
   slug: polymerase-chain-reaction

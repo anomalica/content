@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9e40b07b78661d281a14c1a9a9e28e48c45e6db99d72e70ed1f13346acbe1967
 page:
   kind: entity
-  node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+  nodes:
+    - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
+      name: Stanley Krippner
+      node_type: person
   node_type: person
   title: Stanley Krippner
   slug: stanley-krippner

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: aeb73a098e065d000f03fbaa90ce9bc51978fd8cf894c5e705eaceac8d6081ed
 page:
   kind: entity
-  node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+  nodes:
+    - node_id: dd560d10-9e29-4e15-a56b-4524ae0b4b02
+      name: Arthur C. Clarke
+      node_type: person
   node_type: person
   title: Arthur C. Clarke
   slug: arthur-c-clarke

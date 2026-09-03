@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b2512a0d48c7d5c3d7a63849b040cd0ade38fdf29ecaaaf917c4a71dc28ad4d4
 page:
   kind: entity
-  node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+  nodes:
+    - node_id: 9ebd9127-8681-4ead-b17f-55709a8077e6
+      name: Billy Meier
+      node_type: person
   node_type: person
   title: Billy Meier
   slug: billy-meier

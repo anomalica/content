@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ea8005dda29b17bbee777d8d08ab656f246f0b90282d9db9465426ab177662ca
 page:
   kind: entity
-  node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+  nodes:
+    - node_id: a9ab65f5-d3ee-4c94-aa9e-523d3c2dd80d
+      name: Bay of Pigs Invasion 1961
+      node_type: event
   node_type: event
   title: Bay of Pigs Invasion 1961
   slug: bay-of-pigs-invasion-1961

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 853b1eadccd66bc7d6cb9258ff0ade3bbdb58563bbf079756a130f3a71a19add
 page:
   kind: entity
-  node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+  nodes:
+    - node_id: fa84099e-5c8b-4e71-9a62-4bfb8f85c6d8
+      name: Dowsing
+      node_type: topic
   node_type: topic
   title: Dowsing
   slug: dowsing

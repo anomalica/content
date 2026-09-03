@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9dcaa588f00a6a0e76c4f75ef86ddc25ef031bd89975ad8f137b0278f19fc147
 page:
   kind: entity
-  node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
+  nodes:
+    - node_id: da60fe7e-7fdc-4d13-b758-8e2c3514ec22
+      name: John McCone
+      node_type: person
   node_type: person
   title: John McCone
   slug: john-mccone

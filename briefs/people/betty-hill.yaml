@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2ed082885e9187e9129338b3924d7ab7b64e2dc0f7620c5a64f209aa8733f40c
 page:
   kind: entity
-  node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+  nodes:
+    - node_id: 827a669c-493c-4ea2-a245-a47d300ef053
+      name: Betty Hill
+      node_type: person
   node_type: person
   title: Betty Hill
   slug: betty-hill

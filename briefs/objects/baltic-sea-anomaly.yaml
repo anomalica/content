@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cce35bd85eddafe15a0385d6ed290b12da7ff5ba2fb59c66aa0214c8cd964ac7
 page:
   kind: entity
-  node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+  nodes:
+    - node_id: 7d93e155-b9ad-4f9a-833f-5cf9be7ef411
+      name: Baltic Sea anomaly
+      node_type: object
   node_type: object
   title: Baltic Sea anomaly
   slug: baltic-sea-anomaly

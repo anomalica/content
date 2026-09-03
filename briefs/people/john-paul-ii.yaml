@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 20407396b583db9ce36802a5421d8cb8d5ec7200c2bf16e0b9ca7203498b96c7
 page:
   kind: entity
-  node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+  nodes:
+    - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
+      name: John Paul II
+      node_type: person
   node_type: person
   title: John Paul II
   slug: john-paul-ii

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3bb659ab95b6d982e9eb91180a1929f895af754c8c4f7624a294f269776165f9
 page:
   kind: entity
-  node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+  nodes:
+    - node_id: 68a1be1f-3cf3-4fa2-94d5-e0dd5b3d3292
+      name: Ralph Blumenthal
+      node_type: person
   node_type: person
   title: Ralph Blumenthal
   slug: ralph-blumenthal

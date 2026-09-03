@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6e8387c79a18fc68d27461f7d13d5cb64147838b7670322416186bfd8b54f34c
 page:
   kind: entity
-  node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+  nodes:
+    - node_id: 2bcec438-4ef0-4869-a486-e4f13b450105
+      name: Ayahuasca
+      node_type: topic
   node_type: topic
   title: Ayahuasca
   slug: ayahuasca

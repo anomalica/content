@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8ee22d0de4096255aae1b75f6433c888ec8232103d1e6ffea1f0fe6392374c48
 page:
   kind: entity
-  node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+  nodes:
+    - node_id: c6260730-daaa-425f-94a4-6d74920fb46b
+      name: Paul Mellon
+      node_type: person
   node_type: person
   title: Paul Mellon
   slug: paul-mellon

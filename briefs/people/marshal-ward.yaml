@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a35703ed01b4f7c60f70bd1211168600570e5fd33530a2c6de30526a43db13fc
 page:
   kind: entity
-  node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+  nodes:
+    - node_id: 441b178f-e664-4843-8f83-eafdf3c16d97
+      name: Marshal Ward
+      node_type: person
   node_type: person
   title: Marshal Ward
   slug: marshal-ward

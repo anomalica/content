@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cb110e87610ff07993fb1684ae85861e2a6310ae10a48f7a876e6f5a4548aca1
 page:
   kind: entity
-  node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+  nodes:
+    - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
+      name: Remote viewing (RV)
+      node_type: topic
   node_type: topic
   title: Remote viewing (RV)
   slug: remote-viewing-rv

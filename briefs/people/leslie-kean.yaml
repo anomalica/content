@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0b43016cd04ea4e96b33ae2bd460f4ffbc8083ffe036a7f192d1645eddac5aaf
 page:
   kind: entity
-  node_id: 953f6232-9902-437f-ad4c-add4fd080043
+  nodes:
+    - node_id: 953f6232-9902-437f-ad4c-add4fd080043
+      name: Leslie Kean
+      node_type: person
   node_type: person
   title: Leslie Kean
   slug: leslie-kean
@@ -11468,7 +11471,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-        title: apparition
+        title: Apparition
         slug: apparition
       - node_id: 953f6232-9902-437f-ad4c-add4fd080043
         title: Leslie Kean

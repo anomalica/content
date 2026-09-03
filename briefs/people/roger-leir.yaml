@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4444a4768e2cd23d3dc895a729c320dc3f8c8f1520164f46f461835d7f283f9a
 page:
   kind: entity
-  node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+  nodes:
+    - node_id: d868f3e2-31ee-44cb-b645-2953e2e08482
+      name: Roger Leir
+      node_type: person
   node_type: person
   title: Roger Leir
   slug: roger-leir

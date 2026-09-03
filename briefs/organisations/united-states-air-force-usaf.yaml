@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2f43a56fbd359feae66cd2b7775cf83f3d680170960b2d8bb667c38542bef8f6
 page:
   kind: entity
-  node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+  nodes:
+    - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+      name: United States Air Force (USAF)
+      node_type: organisation
   node_type: organisation
   title: United States Air Force (USAF)
   slug: united-states-air-force-usaf

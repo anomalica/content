@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 95f6c2646a1a52b2abf17a9d53b83de93e43a5471fa7492c9735706bb28717ef
 page:
   kind: entity
-  node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+  nodes:
+    - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
+      name: John Cordy
+      node_type: person
   node_type: person
   title: John Cordy
   slug: john-cordy

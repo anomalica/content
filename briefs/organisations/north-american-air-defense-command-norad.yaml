@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 08a1475dfad1d56de8aa92753e221daa505da773c5b95ff2de6c179ac9c01754
 page:
   kind: entity
-  node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+  nodes:
+    - node_id: e46e0501-ca3d-4bbd-ad05-0d03468072e5
+      name: North American Air Defense Command (NORAD)
+      node_type: organisation
   node_type: organisation
   title: North American Air Defense Command (NORAD)
   slug: north-american-air-defense-command-norad

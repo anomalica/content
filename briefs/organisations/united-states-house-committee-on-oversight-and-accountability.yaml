@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bbfe9579ffa6366a20f2efc57cb04fa282ed76023c67c1d5b13b448dc632885a
 page:
   kind: entity
-  node_id: 240453b5-254d-479a-a39f-4340fec022c8
+  nodes:
+    - node_id: 240453b5-254d-479a-a39f-4340fec022c8
+      name: United States House Committee on Oversight and Accountability
+      node_type: organisation
   node_type: organisation
   title: United States House Committee on Oversight and Accountability
   slug: united-states-house-committee-on-oversight-and-accountability

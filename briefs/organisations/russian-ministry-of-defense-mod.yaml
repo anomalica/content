@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ffc0d2b00a70047dad3d6f89ee19b3db0cba7b5ade913f8679ac686e674f5963
 page:
   kind: entity
-  node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+  nodes:
+    - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
+      name: Russian Ministry of Defense (MOD)
+      node_type: organisation
   node_type: organisation
   title: Russian Ministry of Defense (MOD)
   slug: russian-ministry-of-defense-mod

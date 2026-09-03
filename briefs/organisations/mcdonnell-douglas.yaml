@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4d92c1a9bca3525fa57fa749a5aa287c51d43482610d93f0b74de09abb5b18cf
 page:
   kind: entity
-  node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+  nodes:
+    - node_id: d3f1910c-f3bf-4eff-b952-3d38b54e9876
+      name: McDonnell Douglas
+      node_type: organisation
   node_type: organisation
   title: McDonnell Douglas
   slug: mcdonnell-douglas

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: de7b54fbe6f6315a218c9d1c94e17b8c67e15aa818fb952e07e5a266330b4ff2
 page:
   kind: entity
-  node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+  nodes:
+    - node_id: 75080c1c-2b3c-4e17-87c9-0096b1c8e930
+      name: Twitter
+      node_type: organisation
   node_type: organisation
   title: Twitter
   slug: twitter

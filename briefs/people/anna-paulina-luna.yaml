@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0c20d3d73229c56dbeac5f225be107340edbb408ae6c6910089263a9ceb2918f
 page:
   kind: entity
-  node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+  nodes:
+    - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
+      name: Anna Paulina Luna
+      node_type: person
   node_type: person
   title: Anna Paulina Luna
   slug: anna-paulina-luna

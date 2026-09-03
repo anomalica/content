@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 22f8df6fc964e141c3f77eb683adb926701e4fe536ddd4598f49a4f050fcb6fa
 page:
   kind: entity
-  node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+  nodes:
+    - node_id: 3747f795-16b1-4ca4-a0ba-e40460a99255
+      name: Philip Corso
+      node_type: person
   node_type: person
   title: Philip Corso
   slug: philip-corso

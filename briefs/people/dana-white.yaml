@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 26dc593de457f7eebe14ddd18b3b460d2239e1a3e77ac4196ffbd53725706b3f
 page:
   kind: entity
-  node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+  nodes:
+    - node_id: 73f0f85a-5ac1-4e3b-ab75-20b8a3ce35a5
+      name: Dana White
+      node_type: person
   node_type: person
   title: Dana White
   slug: dana-white

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5a532e84a5de5e0c47d3dfa04cfba1d972dbd1a1bbb40f9b5ecd6e35f8436d64
 page:
   kind: entity
-  node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+  nodes:
+    - node_id: de32c790-974b-4c76-91ea-0ce3d2ad5bc8
+      name: USA, Texas, Austin
+      node_type: place
   node_type: place
   title: USA, Texas, Austin
   slug: texas-austin-usa

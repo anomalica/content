@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 76270ef4cf5a2730c6ffd6859e1d31b7dfa407cc3dda9fa86b00175cfb3701ba
 page:
   kind: entity
-  node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+  nodes:
+    - node_id: d888fba5-8ed4-4dd2-b03e-a2aeb1d25ce6
+      name: Sheridan Cavitt
+      node_type: person
   node_type: person
   title: Sheridan Cavitt
   slug: sheridan-cavitt

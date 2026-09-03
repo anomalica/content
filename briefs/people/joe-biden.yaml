@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 114deb620ccc20ca37202674487d0ee9388e93956924406efb9f86e6beb50220
 page:
   kind: entity
-  node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+  nodes:
+    - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
+      name: Joe Biden
+      node_type: person
   node_type: person
   title: Joe Biden
   slug: joe-biden

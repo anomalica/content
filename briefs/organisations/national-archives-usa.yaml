@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2c971253d2c6d0db2dacf8770562b1c088d3b254a42cb057be9d2c6ca7ce72be
 page:
   kind: entity
-  node_id: dd890afa-df11-4b5a-b4c6-c4b77275b2ef
+  nodes:
+    - node_id: dd890afa-df11-4b5a-b4c6-c4b77275b2ef
+      name: USA, National Archives
+      node_type: organisation
   node_type: organisation
   title: USA, National Archives
   slug: national-archives-usa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6cb5f78270aeff94d948a87628bcf02646951d929dc68623a7818dcbe69c5971
 page:
   kind: entity
-  node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+  nodes:
+    - node_id: 5155f44f-289f-4f79-b477-0d6d3b188d52
+      name: Deep state
+      node_type: topic
   node_type: topic
   title: Deep state
   slug: deep-state

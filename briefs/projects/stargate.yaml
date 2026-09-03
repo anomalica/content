@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bf9588ab89a2c88c8bbb319a33b490ed2f2f0fdab90ba6c68fe2680058edc2db
 page:
   kind: entity
-  node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+  nodes:
+    - node_id: 7c938114-e0bc-453c-8ea4-0571efd86908
+      name: Stargate
+      node_type: project
   node_type: project
   title: Stargate
   slug: stargate

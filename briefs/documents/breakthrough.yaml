@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f10ab970f1e8255683304706d73440c00b4734669845c047c49af0584f9a76b6
 page:
   kind: entity
-  node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+  nodes:
+    - node_id: e965a223-7fbd-430a-b4f3-dab1f979e9ef
+      name: Breakthrough
+      node_type: document
   node_type: document
   title: Breakthrough
   slug: breakthrough

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9f081f8b495e2aa2f1b9ecc8c3b853d04b5a01431007501f90f70ce9b65c73ff
 page:
   kind: entity
-  node_id: fea98a3b-1031-4ada-8bfe-a57d326562f3
+  nodes:
+    - node_id: fea98a3b-1031-4ada-8bfe-a57d326562f3
+      name: USA, Virginia, Langley Air Force Base
+      node_type: place
   node_type: place
   title: USA, Virginia, Langley Air Force Base
   slug: virginia-langley-air-force-base-usa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: df256584536d35a5542153c1b6c2fe6f3bfe46dc06b20b5318556761cad1a411
 page:
   kind: entity
-  node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+  nodes:
+    - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+      name: Central Intelligence Agency (CIA)
+      node_type: organisation
   node_type: organisation
   title: Central Intelligence Agency (CIA)
   slug: central-intelligence-agency-cia
@@ -7849,7 +7852,7 @@ claims:
         title: Second World War
         slug: second-world-war
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
     date: null
     date_end: null
@@ -10451,7 +10454,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 6a9476e0-26ff-4efc-bea1-38221ba91caa
-        title: mentalism
+        title: Mentalism
         slug: mentalism
     date: null
     date_end: null

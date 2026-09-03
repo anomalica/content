@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 79756904b64b0a65c3c7baa53047a2cf16d9b774ca7c5ddd67c07e8203d50e1c
 page:
   kind: entity
-  node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
+  nodes:
+    - node_id: 3b1ebc48-28cf-4c0c-8703-416d0b71f224
+      name: Orson Welles
+      node_type: person
   node_type: person
   title: Orson Welles
   slug: orson-welles

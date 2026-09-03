@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b52826841e486db710751ccc6442ac15162e7733cea89c9a95ce735bcee41a7e
 page:
   kind: entity
-  node_id: 8eaaff01-6619-404c-a982-c605217c464a
+  nodes:
+    - node_id: 8eaaff01-6619-404c-a982-c605217c464a
+      name: Canadian Space Agency (CSA)
+      node_type: organisation
   node_type: organisation
   title: Canadian Space Agency (CSA)
   slug: canadian-space-agency-csa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4d60bfda8d4b763d1e11c0f299aa68e5cb31e0cabd66c70a524301912644899e
 page:
   kind: entity
-  node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+  nodes:
+    - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+      name: All-domain Anomaly Resolution Office (AARO)
+      node_type: organisation
   node_type: organisation
   title: All-domain Anomaly Resolution Office (AARO)
   slug: all-domain-anomaly-resolution-office-aaro

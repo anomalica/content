@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a0deef62f19e13fdbbc2c3b28365db1d0bb6d7795be66fde4602d7cece630d07
 page:
   kind: entity
-  node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+  nodes:
+    - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
+      name: Project Blue Book
+      node_type: project
   node_type: project
   title: Project Blue Book
   slug: project-blue-book

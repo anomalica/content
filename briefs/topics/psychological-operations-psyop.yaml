@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 07a079297b0c7796c71e41e5e5ec732de6b87ff055ed7fc818771c1621a9f30e
 page:
   kind: entity
-  node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+  nodes:
+    - node_id: 93fe290b-199f-418a-a3fe-715b41745a4c
+      name: Psychological operations (PSYOP)
+      node_type: topic
   node_type: topic
   title: Psychological operations (PSYOP)
   slug: psychological-operations-psyop

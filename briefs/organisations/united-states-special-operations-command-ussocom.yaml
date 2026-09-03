@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d48460dd375705b91c798e43ed27d6ed7fde3e2611e674624f737f065f9a485c
 page:
   kind: entity
-  node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+  nodes:
+    - node_id: ee111058-7e16-4cd8-b753-f6d211bfdde4
+      name: United States Special Operations Command (USSOCOM)
+      node_type: organisation
   node_type: organisation
   title: United States Special Operations Command (USSOCOM)
   slug: united-states-special-operations-command-ussocom

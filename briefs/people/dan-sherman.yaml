@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 23460e51a8720cbd6c881f8c6eaa16ae3e6eb435f6825756bdf0246014c8b48f
 page:
   kind: entity
-  node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+  nodes:
+    - node_id: 30630ee7-6533-4319-a44f-2ae66a6197d3
+      name: Dan Sherman
+      node_type: person
   node_type: person
   title: Dan Sherman
   slug: dan-sherman
@@ -63,6 +66,11 @@ related_nodes:
     node_type: person
     slug: jesse-mitchells
     shared_claims: 1
+  - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+    title: Predictive programming
+    node_type: topic
+    slug: predictive-programming
+    shared_claims: 1
   - node_id: f88cd30d-7f0e-4b7a-be67-197933355eaa
     title: Project Preserve Destiny
     node_type: project
@@ -72,11 +80,6 @@ related_nodes:
     title: Sexual Encounters with Extraterrestrials
     node_type: document
     slug: sexual-encounters-with-extraterrestrials
-    shared_claims: 1
-  - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-    title: predictive programming
-    node_type: topic
-    slug: predictive-programming
     shared_claims: 1
 claims:
   - claim_id: 20192bb6-0833-48e6-bc38-98ae7c3d3c43
@@ -205,7 +208,7 @@ claims:
         title: Dan Sherman
         slug: dan-sherman
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
     date: null
     date_end: null

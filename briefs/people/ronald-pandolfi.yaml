@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 88200bf190fe7c8c26a7102e8e52f834f48bec509c687ef0ced88d04fb5c322f
 page:
   kind: entity
-  node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+  nodes:
+    - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
+      name: Ronald Pandolfi
+      node_type: person
   node_type: person
   title: Ronald Pandolfi
   slug: ronald-pandolfi

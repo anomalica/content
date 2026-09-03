@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 45648ee757da87550b23cd4e448368a6d92eead59a2f0948e591cf18ee9c6935
 page:
   kind: entity
-  node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+  nodes:
+    - node_id: ff555cb2-efb4-4de4-a3d6-c76a2bd68a6b
+      name: National Geographic
+      node_type: organisation
   node_type: organisation
   title: National Geographic
   slug: national-geographic

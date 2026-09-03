@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3d5d42f17179287a3f38e6421c6520a2ceb14adc1b456bf38758a3118315a400
 page:
   kind: entity
-  node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+  nodes:
+    - node_id: f1f0eba2-92c4-4a7c-9cd1-f8024d23c3df
+      name: David Saunders
+      node_type: person
   node_type: person
   title: David Saunders
   slug: david-saunders

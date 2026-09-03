@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 50c477abfba8777b1690a1a491f2074626f751705935197ea9aceb9aa979f806
 page:
   kind: entity
-  node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+  nodes:
+    - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
+      name: Ryan Wood
+      node_type: person
   node_type: person
   title: Ryan Wood
   slug: ryan-wood

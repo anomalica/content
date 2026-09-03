@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3bcac37bf8752db36cc56beb78911c0ed99e9185b6d6414eb225177eeb1eb49d
 page:
   kind: entity
-  node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+  nodes:
+    - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
+      name: Ontological shock
+      node_type: topic
   node_type: topic
   title: Ontological shock
   slug: ontological-shock

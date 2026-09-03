@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2e88b9ff6c1012e6366ce09ec68311905f3e389bf1c67fb74ef194b0fa07492e
 page:
   kind: entity
-  node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+  nodes:
+    - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
+      name: United States Navy (USN)
+      node_type: organisation
   node_type: organisation
   title: United States Navy (USN)
   slug: united-states-navy-usn

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4b9438cd57f6fa254c07384c3e060eb7bbccf769ae9e329efd2e389a8e8c2359
 page:
   kind: entity
-  node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+  nodes:
+    - node_id: d3a2e105-cca7-4abd-b795-d51b893be697
+      name: Federation of American Scientists
+      node_type: organisation
   node_type: organisation
   title: Federation of American Scientists
   slug: federation-of-american-scientists

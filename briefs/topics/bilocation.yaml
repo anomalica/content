@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 733891b58b31ed7bd44eb2a09c4552078478c8f37f2d084a833904f95ca0ac71
 page:
   kind: entity
-  node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+  nodes:
+    - node_id: 1ca375c2-ea54-473a-92d6-621d26119214
+      name: Bilocation
+      node_type: topic
   node_type: topic
   title: Bilocation
   slug: bilocation

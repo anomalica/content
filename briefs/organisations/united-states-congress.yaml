@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0f383e40b05d698dc5b346b2a86a0a4e0f779762899952e1847ad5dc4d8838c8
 page:
   kind: entity
-  node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+  nodes:
+    - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+      name: United States Congress
+      node_type: organisation
   node_type: organisation
   title: United States Congress
   slug: united-states-congress
@@ -9365,7 +9368,7 @@ claims:
         title: United States Congress
         slug: united-states-congress
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: 8ddc4565-b44b-40b1-8508-5379c551ab23
         title: United States Constitution

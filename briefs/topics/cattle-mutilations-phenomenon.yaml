@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5de0e5716302214d63266d6dc88ea7da66a61a45e3dee43fdcd8727cab1539ec
 page:
   kind: entity
-  node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+  nodes:
+    - node_id: 5c2e2a53-46e8-479b-88a3-74aee6f4f350
+      name: Cattle mutilations phenomenon
+      node_type: topic
   node_type: topic
   title: Cattle mutilations phenomenon
   slug: cattle-mutilations-phenomenon

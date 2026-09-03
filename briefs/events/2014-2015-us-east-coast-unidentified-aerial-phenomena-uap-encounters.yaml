@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a7b0420af3ea19b366b3b05a43e306b3c8d5b3008e4c95ec85cb464cbeb2bc1c
 page:
   kind: entity
-  node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+  nodes:
+    - node_id: 3714792a-cebe-4f13-ae2e-a779ddc45ed4
+      name: 2014-2015 US East Coast Unidentified Aerial Phenomena (UAP) encounters
+      node_type: event
   node_type: event
   title: 2014-2015 US East Coast UAP encounters
   slug: 2014-2015-us-east-coast-unidentified-aerial-phenomena-uap-encounters

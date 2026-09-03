@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f9b48b3487c36cb9211bd693fda5b41a5048184a79f5e5f5542acf3ca64b1d33
 page:
   kind: entity
-  node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+  nodes:
+    - node_id: 2f5d1ccf-30ca-411a-8f55-e78873ade25a
+      name: Cynthia Nelson
+      node_type: person
   node_type: person
   title: Cynthia Nelson
   slug: cynthia-nelson

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2e0e821b2158325b9764f2dfc7ec5fe3386cd8f77ae39538b1c1900f7a86ef4f
 page:
   kind: entity
-  node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+  nodes:
+    - node_id: fd2faec4-ecaf-4f91-abec-e55c06c70e92
+      name: SRI International
+      node_type: organisation
   node_type: organisation
   title: SRI International
   slug: sri-international

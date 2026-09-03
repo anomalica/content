@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f4eed45121db7c0bb504c09237d0d8bd260cd3369a078219bbb533609c9f7d43
 page:
   kind: entity
-  node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
+  nodes:
+    - node_id: 499fffe9-4707-4d7e-bde4-a3701cfe6340
+      name: Deep underground military bases (DUMBs)
+      node_type: topic
   node_type: topic
   title: Deep underground military bases (DUMBs)
   slug: deep-underground-military-bases-dumbs

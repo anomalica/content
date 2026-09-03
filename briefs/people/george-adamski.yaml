@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e3ad68c6938f8c15a107c08a4dadc1416b55275be12021435673f10d29efa772
 page:
   kind: entity
-  node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+  nodes:
+    - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
+      name: George Adamski
+      node_type: person
   node_type: person
   title: George Adamski
   slug: george-adamski

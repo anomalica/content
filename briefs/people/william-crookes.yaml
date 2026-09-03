@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 182874aadb8e13b49653d639d743e97c06b716ad8e65dd32a71bf7cc7a471ec6
 page:
   kind: entity
-  node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+  nodes:
+    - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
+      name: William Crookes
+      node_type: person
   node_type: person
   title: William Crookes
   slug: william-crookes

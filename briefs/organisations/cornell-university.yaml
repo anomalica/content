@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 235f4fb5a7d8ec9409563a362b3c9e40b6d957bdfb7c4615329a021da3f37bb9
 page:
   kind: entity
-  node_id: b1bb4108-2b14-4fbb-8acd-a74e5b17aadc
+  nodes:
+    - node_id: b1bb4108-2b14-4fbb-8acd-a74e5b17aadc
+      name: Cornell University
+      node_type: organisation
   node_type: organisation
   title: Cornell University
   slug: cornell-university

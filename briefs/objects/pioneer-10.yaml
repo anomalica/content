@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b1bf83b38248487816e96b94432802854b55379c0f4d50dcd414083c32aceb5a
 page:
   kind: entity
-  node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+  nodes:
+    - node_id: 9decaa7c-b419-402d-bf42-d766b82ad39b
+      name: Pioneer 10
+      node_type: object
   node_type: object
   title: Pioneer 10
   slug: pioneer-10

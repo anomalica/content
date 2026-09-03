@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7166d19316f58726b6db200314b5e1f209668cd9e87ce9a6738de56e25d34369
 page:
   kind: entity
-  node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
+  nodes:
+    - node_id: 4c34cf12-7384-4511-b4c1-8b0d34e3922c
+      name: The Control System (Vallée's hypothesis)
+      node_type: topic
   node_type: topic
   title: The Control System (Vallée's hypothesis)
   slug: the-control-system-vallees-hypothesis

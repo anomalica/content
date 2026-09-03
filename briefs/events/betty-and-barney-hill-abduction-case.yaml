@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4462c07a0dfff003c0029fc9626ae9b65c111b125165571533e5296378e5ca5b
 page:
   kind: entity
-  node_id: ede32718-5670-4e5a-97da-13b980b85676
+  nodes:
+    - node_id: ede32718-5670-4e5a-97da-13b980b85676
+      name: Betty and Barney Hill abduction case
+      node_type: event
   node_type: event
   title: Betty and Barney Hill abduction case
   slug: betty-and-barney-hill-abduction-case

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 743a13ecfd88b451050958ec674a9531adb20842d16bb1dc9bf745ba96b605cb
 page:
   kind: entity
-  node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+  nodes:
+    - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+      name: Kirsten Gillibrand
+      node_type: person
   node_type: person
   title: Kirsten Gillibrand
   slug: kirsten-gillibrand

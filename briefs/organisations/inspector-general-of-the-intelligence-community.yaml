@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 05451f9a054885b71e44d5588fc65b4fdc40ab801308c2ad8bb2e0dc52d7314a
 page:
   kind: entity
-  node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+  nodes:
+    - node_id: 2f8bc592-ba01-48f6-9266-24078ee327e6
+      name: Inspector General of the Intelligence Community
+      node_type: organisation
   node_type: organisation
   title: Inspector General of the Intelligence Community
   slug: inspector-general-of-the-intelligence-community

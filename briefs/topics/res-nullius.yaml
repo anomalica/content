@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1bc8bca3638dce5030ec707f3e4f9775083daf58763e989f90681128e757ab12
 page:
   kind: entity
-  node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+  nodes:
+    - node_id: 15cfff74-e7ff-4dc6-81bd-dd29f3a9900b
+      name: Res nullius
+      node_type: topic
   node_type: topic
   title: Res nullius
   slug: res-nullius

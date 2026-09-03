@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 94b56beb4d93d56ca339b453c2ee9e3aad5bc44c3c3c75ce97c64ea6113dedde
 page:
   kind: entity
-  node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+  nodes:
+    - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
+      name: Jacques Vallée
+      node_type: person
   node_type: person
   title: Jacques Vallée
   slug: jacques-vallee

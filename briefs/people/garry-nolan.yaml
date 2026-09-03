@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f7c9ef065db4f4a4b7b59e3d293df2b9ed13c79ab5f7caeacb5e58280e8606a7
 page:
   kind: entity
-  node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+  nodes:
+    - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+      name: Garry Nolan
+      node_type: person
   node_type: person
   title: Garry Nolan
   slug: garry-nolan

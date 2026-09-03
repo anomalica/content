@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: eaef2692522a8cef8a7240e830ac920f734df5e128eb397c4341cfcf5417bb32
 page:
   kind: entity
-  node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+  nodes:
+    - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+      name: Bob Lazar
+      node_type: person
   node_type: person
   title: Bob Lazar
   slug: bob-lazar

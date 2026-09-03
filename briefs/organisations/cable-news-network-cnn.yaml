@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: de3c762f835d79b9664bd8b244ae0c00f55b843c6063e7957ff85aac884b1acc
 page:
   kind: entity
-  node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+  nodes:
+    - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
+      name: Cable News Network (CNN)
+      node_type: organisation
   node_type: organisation
   title: Cable News Network (CNN)
   slug: cable-news-network-cnn

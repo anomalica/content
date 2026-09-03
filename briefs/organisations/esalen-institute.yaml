@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7664bed03c4e98cfec719f8b0bb37850299c336b8627230f226bff96a626c7b0
 page:
   kind: entity
-  node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+  nodes:
+    - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
+      name: Esalen Institute
+      node_type: organisation
   node_type: organisation
   title: Esalen Institute
   slug: esalen-institute
@@ -89,7 +92,7 @@ related_nodes:
     slug: non-human-intelligence
     shared_claims: 2
   - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-    title: psionics
+    title: Psionics
     node_type: topic
     slug: psionics
     shared_claims: 2
@@ -511,7 +514,7 @@ claims:
         title: Esalen Institute
         slug: esalen-institute
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
     date: null
     date_end: null
@@ -695,7 +698,7 @@ claims:
         title: Esalen Institute
         slug: esalen-institute
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence

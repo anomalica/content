@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f75bb978a809def26313f8ff5cff66d68914006a9eb94763788c9b84c580bfae
 page:
   kind: entity
-  node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+  nodes:
+    - node_id: 0e3a61c6-53fe-4d1d-ac5d-cbd4d60349bd
+      name: Haim Eshed
+      node_type: person
   node_type: person
   title: Haim Eshed
   slug: haim-eshed

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 54c82fce84b34a6e54891c4ad8194bebc4ae35e7b08148738f56184921d8cf99
 page:
   kind: entity
-  node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+  nodes:
+    - node_id: abb638f9-5aad-44f4-828b-d52b1e70cbeb
+      name: Post-traumatic stress disorder (PTSD)
+      node_type: topic
   node_type: topic
   title: Post-traumatic stress disorder (PTSD)
   slug: post-traumatic-stress-disorder-ptsd

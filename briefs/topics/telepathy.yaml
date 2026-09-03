@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2ced5169f35626963d6f02c8a2a93403ec5ce41ae1316f7c68fa2221e4e1f706
 page:
   kind: entity
-  node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+  nodes:
+    - node_id: cfbc0057-bf0f-45de-97fe-cd0bb58347f9
+      name: Telepathy
+      node_type: topic
   node_type: topic
   title: Telepathy
   slug: telepathy
@@ -173,15 +176,15 @@ related_nodes:
     node_type: topic
     slug: alien-human-hybridisation-programme
     shared_claims: 1
+  - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
+    title: Apparition
+    node_type: topic
+    slug: apparition
+    shared_claims: 1
   - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
     title: Artificial intelligence (AI)
     node_type: topic
     slug: artificial-intelligence-ai
-    shared_claims: 1
-  - node_id: fdcdc179-deb6-421b-b4b1-af7c00e2759f
-    title: Asket
-    node_type: person
-    slug: asket
     shared_claims: 1
 claims:
   - claim_id: aed3d643-7c1a-4300-88c8-2a4226d16fb1
@@ -488,7 +491,7 @@ claims:
         title: Perceptual insertion
         slug: perceptual-insertion
       - node_id: 43cb7566-649a-4491-9d3a-eb6f45e3ee4f
-        title: apparition
+        title: Apparition
         slug: apparition
       - node_id: a185408f-8bc4-4f4c-848f-64e24a3d52bf
         title: Loyd Auerbach

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 00e8c72fc0e7a4c13ae014caa7a2f0a7ad0ce3096d2151e866732efc0704d199
 page:
   kind: entity
-  node_id: eb844394-11fa-4223-ab75-374412b7be46
+  nodes:
+    - node_id: eb844394-11fa-4223-ab75-374412b7be46
+      name: Ball lightning
+      node_type: topic
   node_type: topic
   title: Ball lightning
   slug: ball-lightning

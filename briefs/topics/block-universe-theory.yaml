@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f1f14eeb4c349599a7413c3904549e9220d6d9d1aeceec443a1305df86cf487f
 page:
   kind: entity
-  node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+  nodes:
+    - node_id: a9d055ed-c0a1-468c-a40e-5449159763e8
+      name: Block universe theory
+      node_type: topic
   node_type: topic
   title: Block universe theory
   slug: block-universe-theory

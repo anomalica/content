@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bb19c9ad6fc59ffcf71a09a7d92f87d473eeeff9a7387d9ebdd3527969a6e0b4
 page:
   kind: entity
-  node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+  nodes:
+    - node_id: 775069c3-e9b5-48fb-b66d-e42749036182
+      name: Frank Borman
+      node_type: person
   node_type: person
   title: Frank Borman
   slug: frank-borman

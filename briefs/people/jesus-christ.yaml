@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9443adc4d88542d3347417158e13a68efb36b3ad75bc4836575c8d76cdc7d0e3
 page:
   kind: entity
-  node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+  nodes:
+    - node_id: 85cdb297-ee0f-4bb6-ae2c-65d55cf12f9a
+      name: Jesus Christ
+      node_type: person
   node_type: person
   title: Jesus Christ
   slug: jesus-christ

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: eb5cac87cc9553b52861e5d88b8f992d4492a4bab03f62bbede8c7026af4191b
 page:
   kind: entity
-  node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
+  nodes:
+    - node_id: 8e3eba30-1639-45f5-a0ef-e91c5a19332c
+      name: Zero point field
+      node_type: topic
   node_type: topic
   title: Zero point field
   slug: zero-point-field

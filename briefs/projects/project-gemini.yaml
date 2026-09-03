@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9466211b4dd1829efbbedd746466f033c3370b8f575d01b0c162e1b49bb4cd4c
 page:
   kind: entity
-  node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+  nodes:
+    - node_id: 4c66d918-c18c-4a0e-92c1-71aeb1e3c397
+      name: Project Gemini
+      node_type: project
   node_type: project
   title: Project Gemini
   slug: project-gemini

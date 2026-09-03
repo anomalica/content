@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a69a27e5a1b858098bc0fa6d9f4c1eefb8536c1701f92e8bb3695392872f710b
 page:
   kind: entity
-  node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+  nodes:
+    - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
+      name: Skywatcher
+      node_type: organisation
   node_type: organisation
   title: Skywatcher
   slug: skywatcher
@@ -78,6 +81,11 @@ related_nodes:
     node_type: person
     slug: james-fowler
     shared_claims: 3
+  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
+    title: Psionics
+    node_type: topic
+    slug: psionics
+    shared_claims: 3
   - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
     title: USA, New Mexico, White Sands Missile Range
     node_type: place
@@ -87,11 +95,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 3
-  - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-    title: psionics
-    node_type: topic
-    slug: psionics
     shared_claims: 3
   - node_id: 942227d2-0ca6-413f-b80d-bc6475fc98ab
     title: USA, Texas, El Paso
@@ -441,7 +444,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -537,7 +540,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -583,7 +586,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher

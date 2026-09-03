@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e42f9cdbae463ad7563c541201aab2aec68ae234c7549db370acc65cb322b79a
 page:
   kind: entity
-  node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+  nodes:
+    - node_id: 1741dbb8-1d95-4d60-895e-ce7fd233afd3
+      name: Tucker Carlson
+      node_type: person
   node_type: person
   title: Tucker Carlson
   slug: tucker-carlson

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0fd6e9de732b804b47c836888de5d9f6b51b4b358646b10d6d7980c1e7ce4e4f
 page:
   kind: entity
-  node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+  nodes:
+    - node_id: 5a444e8f-c623-42c6-8018-293818d9df73
+      name: Extrasensory perception (ESP)
+      node_type: topic
   node_type: topic
   title: Extrasensory perception (ESP)
   slug: extrasensory-perception-esp

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4595ff12869b12a70728eabfe1e2c2693c06cd5cd91fea3b155da4f1d15065c4
 page:
   kind: entity
-  node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+  nodes:
+    - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+      name: William J. Clinton
+      node_type: person
   node_type: person
   title: William J. Clinton
   slug: william-j-clinton

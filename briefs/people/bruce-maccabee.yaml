@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a2f7c780cc8bd60463c1cb86488bb132d69aa3f25287a08aea6e68529066903a
 page:
   kind: entity
-  node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+  nodes:
+    - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
+      name: Bruce Maccabee
+      node_type: person
   node_type: person
   title: Bruce Maccabee
   slug: bruce-maccabee

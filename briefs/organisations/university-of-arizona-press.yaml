@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 878cec5b7f1795d0253db0f261c4abafcc8447de0aea9e01f1f21033cacc8560
 page:
   kind: entity
-  node_id: 2857f17e-454a-472d-a73a-b616686f7964
+  nodes:
+    - node_id: 2857f17e-454a-472d-a73a-b616686f7964
+      name: University of Arizona Press
+      node_type: organisation
   node_type: organisation
   title: University of Arizona Press
   slug: university-of-arizona-press

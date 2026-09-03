@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 193a339a9deee40d393edafb67431a4221a078487678713015fc2da1ffd169d8
 page:
   kind: entity
-  node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
+  nodes:
+    - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
+      name: Manuel Pedro Marto
+      node_type: person
   node_type: person
   title: Manuel Pedro Marto
   slug: manuel-pedro-marto

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 808b3504f678d6f1dd4f7ed7fae2454b0143bb3f1411481bf012028a63f6907e
 page:
   kind: entity
-  node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+  nodes:
+    - node_id: 55c1406c-9169-4f28-836b-a9a8afbec687
+      name: Synchronicity
+      node_type: topic
   node_type: topic
   title: Synchronicity
   slug: synchronicity

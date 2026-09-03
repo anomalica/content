@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1e24c6fac44e4297fb2a2da81092a71521c34332148e7deef30756f55f5a7e54
 page:
   kind: entity
-  node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+  nodes:
+    - node_id: dafe307a-e8d2-493d-a08f-1fc350a82519
+      name: Mars
+      node_type: place
   node_type: place
   title: Mars
   slug: mars

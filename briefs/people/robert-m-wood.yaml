@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8247df79d09c3edcd02cbab0dd48cd0f3f104a88d407689af2b3b47cefa5efad
 page:
   kind: entity
-  node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+  nodes:
+    - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
+      name: Robert M. Wood
+      node_type: person
   node_type: person
   title: Robert M. Wood
   slug: robert-m-wood

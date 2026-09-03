@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 66cc91b13790ace5c2a40b4aba979885f4d86a0b9e1823ba3834bf2523f7ab4d
 page:
   kind: entity
-  node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+  nodes:
+    - node_id: 9ab76638-a596-48f1-9a58-9c9251cc97f3
+      name: Eric Davis
+      node_type: person
   node_type: person
   title: Eric Davis
   slug: eric-davis
@@ -7311,7 +7314,7 @@ claims:
         title: Jesse Michels video with Eric Weinstein and Eric Davis
         slug: jesse-michels-video-with-eric-weinstein-and-eric-davis
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null

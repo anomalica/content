@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 62abfe451fa5184c9768d09b84da22dcff40219adef5380c94bdadd279001175
 page:
   kind: entity
-  node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+  nodes:
+    - node_id: dcff1e40-6e40-4bc8-b49f-85d18a6f720d
+      name: USA, Washington, Mount Rainier
+      node_type: place
   node_type: place
   title: USA, Washington, Mount Rainier
   slug: washington-mount-rainier-usa

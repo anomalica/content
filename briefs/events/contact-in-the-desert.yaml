@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c697d2ee59f41ba46ae9ce9ecfb556554abf74fd15088792b89151b0392f94a4
 page:
   kind: entity
-  node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
+  nodes:
+    - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
+      name: Contact in the Desert
+      node_type: event
   node_type: event
   title: Contact in the Desert
   slug: contact-in-the-desert

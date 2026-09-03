@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bfa2f2147f97ae4057e4b41a9b7e367e9ee6e68de0cf3b9cb786132138018051
 page:
   kind: entity
-  node_id: 761237eb-5739-4888-b403-f4fd515e941c
+  nodes:
+    - node_id: 761237eb-5739-4888-b403-f4fd515e941c
+      name: William Cohen
+      node_type: person
   node_type: person
   title: William Cohen
   slug: william-cohen

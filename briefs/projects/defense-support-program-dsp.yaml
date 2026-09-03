@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 94e50ca3ad91c6c9876edd15dcf495dc1ef17f3386439f5cebe5c526724b6252
 page:
   kind: entity
-  node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+  nodes:
+    - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
+      name: Defense Support Program (DSP)
+      node_type: project
   node_type: project
   title: Defense Support Program (DSP)
   slug: defense-support-program-dsp

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 651ae044942780362fd1aa0c4d17846c5352fd431d459d7451d42be808a71c5f
 page:
   kind: entity
-  node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+  nodes:
+    - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
+      name: The Pentagon
+      node_type: organisation
   node_type: organisation
   title: The Pentagon
   slug: the-pentagon
@@ -2224,7 +2227,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: e409daef-3b00-4fb4-9159-0f6a7f41a268
-        title: reverse engineering of non-human craft
+        title: Reverse engineering of non-human craft
         slug: reverse-engineering-of-non-human-craft
     date: null
     date_end: null
@@ -2543,7 +2546,7 @@ claims:
         title: The Pentagon
         slug: the-pentagon
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 15e8cc4bb27cd0d0c2a7f2dc933537a5b5ea41723f9fc62fca1460651b8f3ae5
 page:
   kind: entity
-  node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+  nodes:
+    - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
+      name: USA, New Mexico, Socorro
+      node_type: place
   node_type: place
   title: USA, New Mexico, Socorro
   slug: new-mexico-socorro-usa

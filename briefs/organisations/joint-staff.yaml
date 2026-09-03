@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 492b0e73a5ce37e33dd6802d895c64a4af0fe4b3ba25471464a0770d9c754dda
 page:
   kind: entity
-  node_id: dbb703ca-bb91-4756-b452-95047fb5b186
+  nodes:
+    - node_id: dbb703ca-bb91-4756-b452-95047fb5b186
+      name: Joint Staff
+      node_type: organisation
   node_type: organisation
   title: Joint Staff
   slug: joint-staff

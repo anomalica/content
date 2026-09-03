@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 792c9777333e0b2ad4f2f9edc44e343a26be49bbdd2331dbf7ee944d47c0fec9
 page:
   kind: entity
-  node_id: 9b61acd8-999d-415d-9b20-95b505f29940
+  nodes:
+    - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
+      name: 609th Air Operations Center (609 AOC)
+      node_type: organisation
   node_type: organisation
   title: 609th Air Operations Center (609 AOC)
   slug: 609th-air-operations-center-609-aoc

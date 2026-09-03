@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9637fa7fda0f018315ffdfeb0ae542644146bddf9491da662b3e880ca9d315c2
 page:
   kind: entity
-  node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+  nodes:
+    - node_id: 164b4ec2-1d96-4c98-a5e2-5a7d77568b7c
+      name: Defense Office of Prepublication and Security Review
+      node_type: organisation
   node_type: organisation
   title: Defense Office of Prepublication and Security Review
   slug: defense-office-of-prepublication-and-security-review

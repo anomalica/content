@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 892a8deaff68b20350a926e285a1ca3b3ed9c3b99a4896b72f76cbb69174b4b2
 page:
   kind: entity
-  node_id: bb31f7ea-899c-4373-872c-8c326d325928
+  nodes:
+    - node_id: bb31f7ea-899c-4373-872c-8c326d325928
+      name: Apollo 16
+      node_type: project
   node_type: project
   title: Apollo 16
   slug: apollo-16

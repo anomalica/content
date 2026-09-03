@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7f5b1f8f2a934304bc1e50f19ed5a0d6ac59b27232af73b4088462d8e78c9d11
 page:
   kind: entity
-  node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+  nodes:
+    - node_id: a46ce807-3f52-469e-81b5-0b859ce6dd6b
+      name: Space.com
+      node_type: organisation
   node_type: organisation
   title: Space.com
   slug: spacecom

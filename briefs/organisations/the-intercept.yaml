@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d1969f02ac9afcc06aed43dc30eaf6a17e7e5669270a0ba5b56df98af44aa093
 page:
   kind: entity
-  node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+  nodes:
+    - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
+      name: The Intercept
+      node_type: organisation
   node_type: organisation
   title: The Intercept
   slug: the-intercept

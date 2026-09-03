@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1bd3c906c0afeedfcbeda82ee88c8ee8bf0d6b923a7edac5fea03d775fd56b4c
 page:
   kind: entity
-  node_id: 34552508-15df-4575-b1ee-16f20c026e18
+  nodes:
+    - node_id: 34552508-15df-4575-b1ee-16f20c026e18
+      name: Apollo 13
+      node_type: project
   node_type: project
   title: Apollo 13
   slug: apollo-13

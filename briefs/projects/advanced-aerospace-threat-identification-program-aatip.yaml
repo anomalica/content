@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 362f1fbfbcaf06f9948f07efcf60382e6a9205c28972a18d35254ed33e0c25af
 page:
   kind: entity
-  node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+  nodes:
+    - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
+      name: Advanced Aerospace Threat Identification Program (AATIP)
+      node_type: project
   node_type: project
   title: Advanced Aerospace Threat Identification Program (AATIP)
   slug: advanced-aerospace-threat-identification-program-aatip

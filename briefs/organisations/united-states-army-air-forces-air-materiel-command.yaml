@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cffb36cda044b49e2cca2530bdca96ec88d54b991bcc644ec3553c7ec0c0a38b
 page:
   kind: entity
-  node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+  nodes:
+    - node_id: c5580173-fc55-4af9-84eb-32f7911d0e7a
+      name: United States Army Air Forces Air Materiel Command
+      node_type: organisation
   node_type: organisation
   title: United States Army Air Forces Air Materiel Command
   slug: united-states-army-air-forces-air-materiel-command

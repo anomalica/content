@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8b56fb861e5dc5ebadf222eea41efcbdb8b9e47a152c3a3788e7ca3a3155fccb
 page:
   kind: entity
-  node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+  nodes:
+    - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
+      name: Dan Burisch
+      node_type: person
   node_type: person
   title: Dan Burisch
   slug: dan-burisch
@@ -78,6 +81,11 @@ related_nodes:
     node_type: topic
     slug: alien-abduction
     shared_claims: 1
+  - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
+    title: Breakaway civilisation
+    node_type: topic
+    slug: breakaway-civilisation
+    shared_claims: 1
   - node_id: 99284f65-70b2-42db-9b2b-8ae4d214c701
     title: Brian Jackson
     node_type: person
@@ -107,11 +115,6 @@ related_nodes:
     title: Time travel
     node_type: topic
     slug: time-travel
-    shared_claims: 1
-  - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
-    title: breakaway civilisation
-    node_type: topic
-    slug: breakaway-civilisation
     shared_claims: 1
 claims:
   - claim_id: 65610d91-840a-4097-95f9-1110d5f39986
@@ -1024,7 +1027,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
-        title: breakaway civilisation
+        title: Breakaway civilisation
         slug: breakaway-civilisation
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel

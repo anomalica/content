@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ca1bf8238ad02172745a701f6f0d0b3bb04824a330ef2cddabef8e50f207652e
 page:
   kind: entity
-  node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+  nodes:
+    - node_id: a5b3971d-48da-4c25-b3a4-3a3e274a2449
+      name: Securities and Exchange Commission (SEC)
+      node_type: organisation
   node_type: organisation
   title: Securities and Exchange Commission (SEC)
   slug: securities-and-exchange-commission-sec

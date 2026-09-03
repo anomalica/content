@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a2a689defaf4d9a9385df691b57c5e5ea6101cfe553ea942eee97be60f28fa3d
 page:
   kind: entity
-  node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+  nodes:
+    - node_id: 47723159-4fe3-4a12-a7db-62b47dc97ff8
+      name: Arthur Exon
+      node_type: person
   node_type: person
   title: Arthur Exon
   slug: arthur-exon

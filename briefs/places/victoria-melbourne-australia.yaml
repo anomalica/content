@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c6adff293ae7d3343e72a92889545e08c84e8d44a4c4b5a24e514ec026e36ba1
 page:
   kind: entity
-  node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+  nodes:
+    - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
+      name: Australia, Victoria, Melbourne
+      node_type: place
   node_type: place
   title: Australia, Victoria, Melbourne
   slug: victoria-melbourne-australia

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d76ebc455235c4180d054434b02ca3756988b8e8f30ac40549ae3827e975110b
 page:
   kind: entity
-  node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+  nodes:
+    - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
+      name: USA, New Mexico, Roswell
+      node_type: place
   node_type: place
   title: USA, New Mexico, Roswell
   slug: new-mexico-roswell-usa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 76acd01042674fa10b5356758808df1d8e6e28809e54cc77fb53c7a9cef66029
 page:
   kind: entity
-  node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+  nodes:
+    - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
+      name: USA, California, Edwards Air Force Base
+      node_type: place
   node_type: place
   title: USA, California, Edwards Air Force Base
   slug: california-edwards-air-force-base-usa

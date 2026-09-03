@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7611ffacbed8627d64806c30cbd75f0b4cfc76a30211bb045d0298e0f699decf
 page:
   kind: entity
-  node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+  nodes:
+    - node_id: 35fc165a-2872-4eb0-82fa-be9fa593ee3f
+      name: USA, California, San Diego
+      node_type: place
   node_type: place
   title: USA, California, San Diego
   slug: california-san-diego-usa

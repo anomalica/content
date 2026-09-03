@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c0fb765119b45488ac2b7d655120f45f6805e2100bf3a8a1cb336b7497cf9fa4
 page:
   kind: entity
-  node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+  nodes:
+    - node_id: e921bccc-8a7a-4279-9873-8f3a5997be16
+      name: Christopher Sharp
+      node_type: person
   node_type: person
   title: Christopher Sharp
   slug: christopher-sharp

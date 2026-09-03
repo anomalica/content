@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e916f34be1495dfe023be280b35502f6e5e84310d65ca5a7c9cdcea39234fcf8
 page:
   kind: entity
-  node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+  nodes:
+    - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
+      name: Dwight D. Eisenhower
+      node_type: person
   node_type: person
   title: Dwight D. Eisenhower
   slug: dwight-d-eisenhower

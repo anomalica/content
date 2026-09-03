@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: daf74691c6d50df9ff493cd52df614d41df65e5780756db4a8da7841f414414b
 page:
   kind: entity
-  node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+  nodes:
+    - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+      name: Department of Homeland Security (DHS)
+      node_type: organisation
   node_type: organisation
   title: Department of Homeland Security (DHS)
   slug: department-of-homeland-security-dhs

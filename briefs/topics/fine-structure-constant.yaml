@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c32e64bf45cf94a701dd965deb47fcd864f0e6a097637c1326b6b793b97923ed
 page:
   kind: entity
-  node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
+  nodes:
+    - node_id: c47ce8ee-28f3-4757-8d83-a31e0a0f96bc
+      name: Fine structure constant
+      node_type: topic
   node_type: topic
   title: Fine structure constant
   slug: fine-structure-constant

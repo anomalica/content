@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 191ad98f8f1de304ab58aa4040b88753d87c055b9180444465e96d10e0d58ba5
 page:
   kind: entity
-  node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+  nodes:
+    - node_id: 22049c25-e98a-4e2f-99ce-e8c8da9050cf
+      name: USA, New Mexico, White Sands Missile Range
+      node_type: place
   node_type: place
   title: USA, New Mexico, White Sands Missile Range
   slug: new-mexico-white-sands-missile-range-usa
@@ -68,6 +71,11 @@ related_nodes:
     node_type: person
     slug: donald-trump
     shared_claims: 2
+  - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+    title: High-power microwave (HPM) weapon
+    node_type: topic
+    slug: high-power-microwave-hpm-weapon
+    shared_claims: 2
   - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
     title: Manhattan Project
     node_type: project
@@ -82,11 +90,6 @@ related_nodes:
     title: USA, Texas, El Paso
     node_type: place
     slug: texas-el-paso-usa
-    shared_claims: 2
-  - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-    title: high-power microwave (HPM) weapon
-    node_type: topic
-    slug: high-power-microwave-hpm-weapon
     shared_claims: 2
   - node_id: 5ab2008d-7e60-42e2-a4ad-f7a27e239761
     title: Anomalous Aerial Vehicle (AAV)
@@ -1111,7 +1114,7 @@ claims:
         title: USA, New Mexico, White Sands Missile Range
         slug: new-mexico-white-sands-missile-range-usa
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
     date: null
     date_end: null
@@ -1412,7 +1415,7 @@ claims:
         title: Donald Trump
         slug: donald-trump
       - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
-        title: high-power microwave (HPM) weapon
+        title: High-power microwave (HPM) weapon
         slug: high-power-microwave-hpm-weapon
       - node_id: c4a2012c-4510-410e-bf59-ecf3adeb279d
         title: King Air

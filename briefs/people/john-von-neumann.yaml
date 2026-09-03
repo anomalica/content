@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 10fcc8123f0fc0549f15d913b200c0cbc7da8ca60e6ef57bb1bb42d9f99b5930
 page:
   kind: entity
-  node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+  nodes:
+    - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
+      name: John von Neumann
+      node_type: person
   node_type: person
   title: John von Neumann
   slug: john-von-neumann

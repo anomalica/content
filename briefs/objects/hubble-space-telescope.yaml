@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fd7af2c769ace1437d2508cdd72c650541648a2c562ee33f2a6a9f2d1bb39f93
 page:
   kind: entity
-  node_id: 157467a7-3117-469e-a12d-5d2487f21920
+  nodes:
+    - node_id: 157467a7-3117-469e-a12d-5d2487f21920
+      name: Hubble Space Telescope
+      node_type: object
   node_type: object
   title: Hubble Space Telescope
   slug: hubble-space-telescope

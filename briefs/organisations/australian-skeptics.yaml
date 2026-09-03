@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6d6e784a3a116fa57179eadbeea9cedf606dbaab491e92caa84dc14371ae6052
 page:
   kind: entity
-  node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+  nodes:
+    - node_id: a66d3909-374c-40ae-b3e5-97762c0f5eb1
+      name: Australian Skeptics
+      node_type: organisation
   node_type: organisation
   title: Australian Skeptics
   slug: australian-skeptics

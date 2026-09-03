@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1e15715c2b91d1a60fb9a4b7da7e225442ec6648d1d0fd1d202a6a62126c97b3
 page:
   kind: entity
-  node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+  nodes:
+    - node_id: d0c8f9ff-47d3-4dbe-91a4-aaa9c1e0cd51
+      name: Ufology
+      node_type: topic
   node_type: topic
   title: Ufology
   slug: ufology

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 11a04d69a030e81f24687bdd338966b74b66824b89ab1f6fe7e6700502eafc2b
 page:
   kind: entity
-  node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+  nodes:
+    - node_id: fa0bad6e-9f34-4615-abff-5980ab4afa35
+      name: Elizabeth I
+      node_type: person
   node_type: person
   title: Elizabeth I
   slug: elizabeth-i

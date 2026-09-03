@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fb8a65ff1560cf79f0091b3f81c29e9c7b576c09cd2a71ea7156092b9f8f979b
 page:
   kind: entity
-  node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+  nodes:
+    - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
+      name: Laurance Rockefeller
+      node_type: person
   node_type: person
   title: Laurance Rockefeller
   slug: laurance-rockefeller

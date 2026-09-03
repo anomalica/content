@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a54ab316d024923fdb99606386b8e4bcd0ad96eb3306606354a5403f33a2562f
 page:
   kind: entity
-  node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+  nodes:
+    - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
+      name: Cuban Missile Crisis (1962-10)
+      node_type: event
   node_type: event
   title: Cuban Missile Crisis (1962-10)
   slug: cuban-missile-crisis-1962-10

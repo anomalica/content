@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 200c1aece1fcea5bd44f2446aebae06749d7f2bf152a92aa595e5eaa9280fa72
 page:
   kind: entity
-  node_id: ed962f76-a0e3-4dd8-bc2e-bdc16ad760b2
+  nodes:
+    - node_id: ed962f76-a0e3-4dd8-bc2e-bdc16ad760b2
+      name: Time Magazine
+      node_type: organisation
   node_type: organisation
   title: Time Magazine
   slug: time-magazine

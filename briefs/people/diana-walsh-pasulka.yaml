@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 84a248ca6e791c2523b488aeb099febf67d420287a39e655843fcb1b9354aee2
 page:
   kind: entity
-  node_id: f2daae19-9351-4a8e-b466-664f83887f61
+  nodes:
+    - node_id: f2daae19-9351-4a8e-b466-664f83887f61
+      name: Diana Walsh Pasulka
+      node_type: person
   node_type: person
   title: Diana Walsh Pasulka
   slug: diana-walsh-pasulka

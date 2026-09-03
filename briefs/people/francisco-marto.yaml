@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 58f8732c18c415b702f3057e68b7b3f921e9fc99110d64ef93a3b2fe3e6a8181
 page:
   kind: entity
-  node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+  nodes:
+    - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
+      name: Francisco Marto
+      node_type: person
   node_type: person
   title: Francisco Marto
   slug: francisco-marto

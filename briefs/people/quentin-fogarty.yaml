@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a0bcde798eb962d914962dac9ab6a9539e1a579d2b0da9f25c9f742861a96da4
 page:
   kind: entity
-  node_id: dea6e499-868a-4365-a7e4-04a18a215554
+  nodes:
+    - node_id: dea6e499-868a-4365-a7e4-04a18a215554
+      name: Quentin Fogarty
+      node_type: person
   node_type: person
   title: Quentin Fogarty
   slug: quentin-fogarty

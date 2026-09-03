@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 068ea023cb798820bed61cf71ee2f8af56a1619db4299164300c8b98570c90a9
 page:
   kind: entity
-  node_id: e0a197e9-f299-4903-ac82-5593e0915802
+  nodes:
+    - node_id: e0a197e9-f299-4903-ac82-5593e0915802
+      name: Robertson Panel
+      node_type: project
   node_type: project
   title: Robertson Panel
   slug: robertson-panel

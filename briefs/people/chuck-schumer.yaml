@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 286fef74f54ba350f64a2588b5e645dae717f3662a15ecf51687dc17c787bc23
 page:
   kind: entity
-  node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+  nodes:
+    - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
+      name: Chuck Schumer
+      node_type: person
   node_type: person
   title: Chuck Schumer
   slug: chuck-schumer

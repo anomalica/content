@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 672bd2c65db8e11c01407943b3ccd356031db285bcdde0e5bde9b68caf07dc74
 page:
   kind: entity
-  node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+  nodes:
+    - node_id: 627b2576-c191-49e4-8f9a-509dc530d908
+      name: USA, Texas, San Antonio
+      node_type: place
   node_type: place
   title: USA, Texas, San Antonio
   slug: texas-san-antonio-usa

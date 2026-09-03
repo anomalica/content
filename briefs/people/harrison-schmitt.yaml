@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9df855ae7155f481e0e9281a1f726165591c6edddcf857fcc711097500ed5512
 page:
   kind: entity
-  node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+  nodes:
+    - node_id: ff26748c-1f2d-4563-bbd4-1e7cbf5f2ec5
+      name: Harrison Schmitt
+      node_type: person
   node_type: person
   title: Harrison Schmitt
   slug: harrison-schmitt

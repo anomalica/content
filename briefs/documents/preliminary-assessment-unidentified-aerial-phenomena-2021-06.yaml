@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8e39bfbdb27c3a28b0bf7a75590bdf7e965309642971eb4b82f2b67eeffbc305
 page:
   kind: entity
-  node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+  nodes:
+    - node_id: 13566718-151d-4f6b-96c6-b36797f258d8
+      name: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
+      node_type: document
   node_type: document
   title: 'Preliminary Assessment: Unidentified Aerial Phenomena (2021-06)'
   slug: preliminary-assessment-unidentified-aerial-phenomena-2021-06

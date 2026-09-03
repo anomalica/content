@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2530d7a8521f96df4996dbba71ee3f4ec1b0fe57d3a352ba3da4ce9acfbe354f
 page:
   kind: entity
-  node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+  nodes:
+    - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
+      name: NewsNation
+      node_type: organisation
   node_type: organisation
   title: NewsNation
   slug: newsnation

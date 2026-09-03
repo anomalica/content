@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1642d37578b45e2a58fa6c4ca143f37f42e50239b7c375ce9cdf32b69162f6ce
 page:
   kind: entity
-  node_id: d50d21e7-1f4c-41d9-b156-4b899624ffea
+  nodes:
+    - node_id: d50d21e7-1f4c-41d9-b156-4b899624ffea
+      name: René Descartes
+      node_type: person
   node_type: person
   title: René Descartes
   slug: rene-descartes

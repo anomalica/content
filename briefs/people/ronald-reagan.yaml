@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c83cbba8aa619760113a0863c62b00a314b5aee54a7ae7345b8b7016b0952874
 page:
   kind: entity
-  node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+  nodes:
+    - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
+      name: Ronald Reagan
+      node_type: person
   node_type: person
   title: Ronald Reagan
   slug: ronald-reagan

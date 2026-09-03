@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7db3ed62c0a6e9220b1acda297ff2ab1c70e990712758223c87aad7c6c039325
 page:
   kind: entity
-  node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+  nodes:
+    - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+      name: Scott Ramsey
+      node_type: person
   node_type: person
   title: Scott Ramsey
   slug: scott-ramsey

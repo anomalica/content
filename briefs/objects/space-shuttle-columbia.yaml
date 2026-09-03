@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 27404264a5c9b8086ca94148e88ccc887681351f333be71473413cabba2f3f08
 page:
   kind: entity
-  node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+  nodes:
+    - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
+      name: Space Shuttle Columbia
+      node_type: object
   node_type: object
   title: Space Shuttle Columbia
   slug: space-shuttle-columbia

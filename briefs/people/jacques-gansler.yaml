@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e78ea92cab590bf415867f230266f0b3ed8d7a817b3803b1ca0fae2b2d18e96f
 page:
   kind: entity
-  node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+  nodes:
+    - node_id: 62ec3674-d63c-4567-833f-a0f46b9aa524
+      name: Jacques Gansler
+      node_type: person
   node_type: person
   title: Jacques Gansler
   slug: jacques-gansler

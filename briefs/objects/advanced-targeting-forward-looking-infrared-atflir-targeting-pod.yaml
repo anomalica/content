@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f740904704b9207fe937b7d6be07194924645572293c78659e7f01d8ee5089ae
 page:
   kind: entity
-  node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+  nodes:
+    - node_id: 719c3dd3-db51-4c5d-90ef-94a932b385e2
+      name: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
+      node_type: object
   node_type: object
   title: Advanced Targeting Forward-Looking Infrared (ATFLIR) targeting pod
   slug: advanced-targeting-forward-looking-infrared-atflir-targeting-pod

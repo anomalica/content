@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 53d1b45fc4dcc0fbbca36286bb7b521849cb20d5b3f536f7a93d63321a14793a
 page:
   kind: entity
-  node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+  nodes:
+    - node_id: 13b14438-a42d-4b08-8213-e10f6dd0d242
+      name: Susan Gough
+      node_type: person
   node_type: person
   title: Susan Gough
   slug: susan-gough

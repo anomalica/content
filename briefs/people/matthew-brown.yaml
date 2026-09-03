@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f68f652208c85290127d7d85f80012fadd8eb046cb05120252010e61e84cd348
 page:
   kind: entity
-  node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+  nodes:
+    - node_id: eaacf562-80b6-48bc-8e23-10c75d8485b3
+      name: Matthew Brown
+      node_type: person
   node_type: person
   title: Matthew Brown
   slug: matthew-brown

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ca6e04a1809f9c8f268ebc6c60d2ba9daf5c9bd99615c0668fb037308e385c60
 page:
   kind: entity
-  node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+  nodes:
+    - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
+      name: Michael Shellenberger
+      node_type: person
   node_type: person
   title: Michael Shellenberger
   slug: michael-shellenberger

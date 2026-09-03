@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6693a0504dab63158e2aa56dd10c55b29bff47ce099a407dd5005dd1a8979b84
 page:
   kind: entity
-  node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+  nodes:
+    - node_id: 6bc3e622-15ad-4cd7-b677-a1e6a48d8f82
+      name: Enoch
+      node_type: person
   node_type: person
   title: Enoch
   slug: enoch

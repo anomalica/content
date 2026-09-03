@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ad6c586fa8c910099fda493bee2461d7a92b76d0ae15797462ff6af0b5873fc0
 page:
   kind: entity
-  node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+  nodes:
+    - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
+      name: Walter Schirra
+      node_type: person
   node_type: person
   title: Walter Schirra
   slug: walter-schirra

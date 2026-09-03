@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9609458aa1dc816784f56a32b20684fc7e5351062da579c123195486cc0b46a2
 page:
   kind: entity
-  node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+  nodes:
+    - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
+      name: USA, Florida
+      node_type: place
   node_type: place
   title: USA, Florida
   slug: florida-usa

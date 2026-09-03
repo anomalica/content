@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8daa9888f8aae1b3ea3d1d411c0c1511c77bd020cd5f87fa34592d611a308eb3
 page:
   kind: entity
-  node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
+  nodes:
+    - node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
+      name: 432nd Air Expeditionary Wing (432 AEW)
+      node_type: organisation
   node_type: organisation
   title: 432nd Air Expeditionary Wing (432 AEW)
   slug: 432nd-air-expeditionary-wing-432-aew

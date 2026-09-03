@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e3184d228867a87dc87e957e1d24b308abfa41433211cc16b335ea323d0b1b27
 page:
   kind: entity
-  node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+  nodes:
+    - node_id: 57ab140b-3696-496a-8f2f-467b0e1e9e38
+      name: Kenneth Arnold
+      node_type: person
   node_type: person
   title: Kenneth Arnold
   slug: kenneth-arnold

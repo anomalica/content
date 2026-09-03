@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 14e8a6b4b82cb731a4b913b9bd0918b9e104883924777cfafadb9127fc5d15aa
 page:
   kind: entity
-  node_id: 521300b4-8a92-4419-a368-f7697c583708
+  nodes:
+    - node_id: 521300b4-8a92-4419-a368-f7697c583708
+      name: Paul Davies
+      node_type: person
   node_type: person
   title: Paul Davies
   slug: paul-davies

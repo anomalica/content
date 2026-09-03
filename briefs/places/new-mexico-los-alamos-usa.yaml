@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c426d20429bf675e9ef56328ca39bca2b4fab46ab732779388bdfc410cb98d0f
 page:
   kind: entity
-  node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+  nodes:
+    - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+      name: USA, New Mexico, Los Alamos
+      node_type: place
   node_type: place
   title: USA, New Mexico, Los Alamos
   slug: new-mexico-los-alamos-usa

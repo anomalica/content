@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e93b53e8cac943f970e8b2decb1e466c1bb6aed690a171c439702280a1014a1d
 page:
   kind: entity
-  node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+  nodes:
+    - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
+      name: Daniel Dunglas Home
+      node_type: person
   node_type: person
   title: Daniel Dunglas Home
   slug: daniel-dunglas-home

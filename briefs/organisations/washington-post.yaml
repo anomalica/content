@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e9f56ff05f1154c735b2723e7e28a9e76365d8bcd7512a25bc90dde5f2686f9e
 page:
   kind: entity
-  node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+  nodes:
+    - node_id: bcd2ebc5-2b24-48bc-a1cf-51213ebb0801
+      name: Washington Post
+      node_type: organisation
   node_type: organisation
   title: Washington Post
   slug: washington-post

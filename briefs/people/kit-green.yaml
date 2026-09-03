@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 46b82eef25e61d2c88b9897095bdec9ca1546c2f8d1acb1c434205380d9d79b1
 page:
   kind: entity
-  node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+  nodes:
+    - node_id: 44b5a52b-4fc7-4de7-ac48-d75f0f545583
+      name: Kit Green
+      node_type: person
   node_type: person
   title: Kit Green
   slug: kit-green

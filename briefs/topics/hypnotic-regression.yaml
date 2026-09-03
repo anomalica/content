@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 87f88b1753305f4bddb9eae12ac18a9856b1f9246bf13af9d457261a587703b4
 page:
   kind: entity
-  node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+  nodes:
+    - node_id: 0eb69efb-d775-47f2-a440-4c9874cbf3b8
+      name: Hypnotic regression
+      node_type: topic
   node_type: topic
   title: Hypnotic regression
   slug: hypnotic-regression

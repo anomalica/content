@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6378a04265307bde86e1e22c4909d3ef5ad90b29ddfe797f906fb65651e3e0cd
 page:
   kind: entity
-  node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+  nodes:
+    - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
+      name: New Zealand Herald
+      node_type: organisation
   node_type: organisation
   title: New Zealand Herald
   slug: new-zealand-herald

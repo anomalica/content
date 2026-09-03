@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cc3722d60811c5e529810f9834b23381342a62658fa7f8e982ce3cc277f96a9d
 page:
   kind: entity
-  node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+  nodes:
+    - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+      name: Eric Burlison
+      node_type: person
   node_type: person
   title: Eric Burlison
   slug: eric-burlison

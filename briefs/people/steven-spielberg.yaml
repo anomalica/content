@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3a81c455c0381a21fe3eca77c55268813ad2d578580be449cf68e3435364f302
 page:
   kind: entity
-  node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+  nodes:
+    - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
+      name: Steven Spielberg
+      node_type: person
   node_type: person
   title: Steven Spielberg
   slug: steven-spielberg

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5b98ee80a8743f590313b61159c9a10a2a9e9b21b61e979eafd290a2da22f61e
 page:
   kind: entity
-  node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
+  nodes:
+    - node_id: be3bc9ad-43db-4515-8c79-f5c22b46af9b
+      name: Quantum entanglement
+      node_type: topic
   node_type: topic
   title: Quantum entanglement
   slug: quantum-entanglement

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 351d557cf1b0c4a73ac201c8fde2e77c457f6183a30b193ed546f10a7f74ab74
 page:
   kind: entity
-  node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+  nodes:
+    - node_id: dba2f206-7088-4fe9-9fc5-d7228a9149f4
+      name: George Herbert Walker Bush
+      node_type: person
   node_type: person
   title: George Herbert Walker Bush
   slug: george-herbert-walker-bush

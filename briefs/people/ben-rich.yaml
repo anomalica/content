@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cc2c24c8dfa154c73c6827c7039e864fb7016eaa1049d95cc9ee0ddecf47a602
 page:
   kind: entity
-  node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+  nodes:
+    - node_id: e74fa405-9ccc-4650-a4fd-80d80167fb38
+      name: Ben Rich
+      node_type: person
   node_type: person
   title: Ben Rich
   slug: ben-rich

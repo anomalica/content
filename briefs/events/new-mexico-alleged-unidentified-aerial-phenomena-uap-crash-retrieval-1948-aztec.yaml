@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1b51be85345f06b8e212b7989bf0106e0cbcdbb20afa5a9961215390191be746
 page:
   kind: entity
-  node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+  nodes:
+    - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+      name: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+      node_type: event
   node_type: event
   title: 1948 Aztec, New Mexico alleged UAP crash retrieval
   slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec

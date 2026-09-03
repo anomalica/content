@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 38eef909ec9f2501a78b23e8a3eeefee84cba7b2e2e552ad6ce56234f981524d
 page:
   kind: entity
-  node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+  nodes:
+    - node_id: e6dedf4e-2500-4eac-8289-0589be5e0c8c
+      name: George Hansen
+      node_type: person
   node_type: person
   title: George Hansen
   slug: george-hansen

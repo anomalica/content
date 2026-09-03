@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0f65a1ef97fd666fba3fa6c6605d7cfd91edaaf21ddb8adf91a4add8d828663e
 page:
   kind: entity
-  node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+  nodes:
+    - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
+      name: Chad
+      node_type: person
   node_type: person
   title: Chad
   slug: chad

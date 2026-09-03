@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 903d4bb00609c7ba2142523d90c987661a2af14709fb647d56bb293e5bfab2c6
 page:
   kind: entity
-  node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+  nodes:
+    - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
+      name: Gordon Creighton
+      node_type: person
   node_type: person
   title: Gordon Creighton
   slug: gordon-creighton

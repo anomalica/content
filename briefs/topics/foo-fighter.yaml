@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6355853bc1ed999bf28c8058aa487f979796d77d8e8e8db8fbc6f34323a8f997
 page:
   kind: entity
-  node_id: f94c0e15-7072-4800-a97a-a9843462f35b
+  nodes:
+    - node_id: f94c0e15-7072-4800-a97a-a9843462f35b
+      name: Foo fighter
+      node_type: topic
   node_type: topic
   title: Foo fighter
   slug: foo-fighter

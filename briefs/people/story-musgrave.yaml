@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b4ccc7e4c84440ef40df74f89ff70115b8a0c258de6de6f91cb5e8032671458e
 page:
   kind: entity
-  node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+  nodes:
+    - node_id: 9446003e-30ac-4b79-a1be-8f8d67800fd0
+      name: Story Musgrave
+      node_type: person
   node_type: person
   title: Story Musgrave
   slug: story-musgrave

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d71204e48e2f0fab47c9bae7e731861f829f4b27ce4973c3ae77cf2bd05080e9
 page:
   kind: entity
-  node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+  nodes:
+    - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+      name: National Reconnaissance Office (NRO)
+      node_type: organisation
   node_type: organisation
   title: National Reconnaissance Office (NRO)
   slug: national-reconnaissance-office-nro

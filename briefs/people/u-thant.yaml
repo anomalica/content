@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4f847b0abd485681d59bf1a281ccbb2c8d98701e46ba342bf9eb268ce1adb29f
 page:
   kind: entity
-  node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+  nodes:
+    - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
+      name: U Thant
+      node_type: person
   node_type: person
   title: U Thant
   slug: u-thant

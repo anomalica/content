@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c82d863a88f1f7e819902e38512403fa57c7a74e79651b961859167a9543a919
 page:
   kind: entity
-  node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+  nodes:
+    - node_id: 267cc8b1-ad95-4164-bf4b-3b2fd4acb524
+      name: Ronald S. Moultrie
+      node_type: person
   node_type: person
   title: Ronald S. Moultrie
   slug: ronald-s-moultrie

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1e428ab2edce60af4cb0be7622360200e10bbec73d7474d0e59c8bcd7e0586c5
 page:
   kind: entity
-  node_id: ecded690-0f62-428e-8974-55c3d052248f
+  nodes:
+    - node_id: ecded690-0f62-428e-8974-55c3d052248f
+      name: Hubert Humphrey
+      node_type: person
   node_type: person
   title: Hubert Humphrey
   slug: hubert-humphrey

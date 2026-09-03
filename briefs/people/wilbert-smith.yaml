@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5ad331f4ed71e032ee1d2e1afaa07fb6de1fcc629ef0f9fe5c86cd3746fa6554
 page:
   kind: entity
-  node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+  nodes:
+    - node_id: 4d15bba5-debc-45e0-8256-c430164e3e59
+      name: Wilbert Smith
+      node_type: person
   node_type: person
   title: Wilbert Smith
   slug: wilbert-smith

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 51402a5c51ef7922a6a1f66503022a7d5d7042d01a31fcceb4febd45408b6e0c
 page:
   kind: entity
-  node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+  nodes:
+    - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
+      name: Air Force Office of Special Investigations (AFOSI)
+      node_type: organisation
   node_type: organisation
   title: Air Force Office of Special Investigations (AFOSI)
   slug: air-force-office-of-special-investigations-afosi

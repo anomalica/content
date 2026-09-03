@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 09ca9591b8bc465ab4b116ad67bdb2b69ebb4a2b47b1d20335913faae36efab6
 page:
   kind: entity
-  node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+  nodes:
+    - node_id: 4a996a9b-9692-4d1a-8218-ee7ec7cb1f7c
+      name: Precognitive Remote Viewing
+      node_type: topic
   node_type: topic
   title: Precognitive Remote Viewing
   slug: precognitive-remote-viewing

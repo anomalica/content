@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 58ca8bb052c14e0738ce5517c0793b7a5feb819e006768a3160b3df3d3090cfd
 page:
   kind: entity
-  node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+  nodes:
+    - node_id: c7d94198-c3cd-4159-8f92-2a39857ab6d8
+      name: Baltic Sea
+      node_type: place
   node_type: place
   title: Baltic Sea
   slug: baltic-sea

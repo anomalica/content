@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a5add592d92eaeb61dd36c1ea733b909497a253df1853a2952de96a932593897
 page:
   kind: entity
-  node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+  nodes:
+    - node_id: 2fd7d455-39be-4108-b1fa-b83a8057f23d
+      name: Edgar Cayce
+      node_type: person
   node_type: person
   title: Edgar Cayce
   slug: edgar-cayce

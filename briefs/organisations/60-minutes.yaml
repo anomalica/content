@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 69919e2c969408f44e320a77247130e13c32f19520c1db7d104a6e6697df85d6
 page:
   kind: entity
-  node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+  nodes:
+    - node_id: 5bb7db4b-73e2-42c7-9f93-6454343f11eb
+      name: 60 Minutes
+      node_type: organisation
   node_type: organisation
   title: 60 Minutes
   slug: 60-minutes

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cd15396f708e8449bf55e261d17914a2a1043a2fb87b2705881b344e771ca4e4
 page:
   kind: entity
-  node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+  nodes:
+    - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
+      name: 1964 Socorro UAP encounter
+      node_type: event
   node_type: event
   title: 1964 Socorro UAP encounter
   slug: 1964-socorro-uap-encounter

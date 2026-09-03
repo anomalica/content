@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6657178df7b9cfd909f04df9d8cf9069574acaff4bda0fa4429a53b2049242b3
 page:
   kind: entity
-  node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+  nodes:
+    - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
+      name: Michael Carey
+      node_type: person
   node_type: person
   title: Michael Carey
   slug: michael-carey

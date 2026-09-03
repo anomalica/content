@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a441891f677a2bb469df0a953917df697d85ed24f7f86e11a0d7bd7463a47e61
 page:
   kind: entity
-  node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+  nodes:
+    - node_id: d1f8175d-e37a-4046-ac6e-d871df7e045d
+      name: Organ Kundabuffer
+      node_type: topic
   node_type: topic
   title: Organ Kundabuffer
   slug: organ-kundabuffer

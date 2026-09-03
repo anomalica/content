@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5ca82a3ba2165650834f03079ba50b26365bcc00e4972f332e02a5018221911f
 page:
   kind: entity
-  node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
+  nodes:
+    - node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
+      name: Robert Low
+      node_type: person
   node_type: person
   title: Robert Low
   slug: robert-low

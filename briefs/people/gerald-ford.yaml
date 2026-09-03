@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a242fbc2be67dd9fc0de01747649ae7d5238aaf633cb2468b4502553af62a629
 page:
   kind: entity
-  node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+  nodes:
+    - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
+      name: Gerald Ford
+      node_type: person
   node_type: person
   title: Gerald Ford
   slug: gerald-ford

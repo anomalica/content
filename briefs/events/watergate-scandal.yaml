@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a0fc15bad476608b34b543fbd618958c1d4b705d8728cb453935a37b72d39bd9
 page:
   kind: entity
-  node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+  nodes:
+    - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
+      name: Watergate scandal
+      node_type: event
   node_type: event
   title: Watergate scandal
   slug: watergate-scandal

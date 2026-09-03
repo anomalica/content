@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 488495aebd0a25d8f1df6cfed784168ef8f039ab5472964d6d6e0959f2452504
 page:
   kind: entity
-  node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+  nodes:
+    - node_id: 76248a03-7d4e-4fdb-8c91-412ba73dc575
+      name: United States Naval Academy
+      node_type: organisation
   node_type: organisation
   title: United States Naval Academy
   slug: united-states-naval-academy

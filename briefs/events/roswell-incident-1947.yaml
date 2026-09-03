@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2ffad326ceefae5a85c528ce40a1aa851836ae5f410faa017da185e422bd4eaf
 page:
   kind: entity
-  node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+  nodes:
+    - node_id: b8ea9860-ae6e-4835-8114-6a6626f28797
+      name: Roswell incident (1947)
+      node_type: event
   node_type: event
   title: Roswell incident (1947)
   slug: roswell-incident-1947

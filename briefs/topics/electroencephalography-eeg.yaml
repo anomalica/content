@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a76b21f9a6b75e9a8e072784a0df0dfdf270ae5d51c620146bcf8045e095648e
 page:
   kind: entity
-  node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+  nodes:
+    - node_id: 125af8db-41e0-4f1f-b199-93e677c2aabe
+      name: Electroencephalography (EEG)
+      node_type: topic
   node_type: topic
   title: Electroencephalography (EEG)
   slug: electroencephalography-eeg

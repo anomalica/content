@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d09241b1d3821ab855c6bdc792ebeb8ce40f32bb23b2bd83154d59ff6d681536
 page:
   kind: entity
-  node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+  nodes:
+    - node_id: 76e440c9-d470-44bf-96ca-f1ce37cf7eca
+      name: New York State Psychiatric Institute
+      node_type: organisation
   node_type: organisation
   title: New York State Psychiatric Institute
   slug: new-york-state-psychiatric-institute

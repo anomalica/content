@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9de65f53a0a4a113546021f041d989024c858849dbace9857e8acc0520908f81
 page:
   kind: entity
-  node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+  nodes:
+    - node_id: ff3b3953-e566-48ff-933f-8c176d32db54
+      name: John XXIII
+      node_type: person
   node_type: person
   title: John XXIII
   slug: john-xxiii

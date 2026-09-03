@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c3d9ab2414277f1b9dbc7ba434593ec084d896629fe8919eccbc2fd2ecab2cbd
 page:
   kind: entity
-  node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+  nodes:
+    - node_id: d0c9e76a-0abb-43c6-a250-70888008fe19
+      name: Gang of Eight
+      node_type: organisation
   node_type: organisation
   title: Gang of Eight
   slug: gang-of-eight

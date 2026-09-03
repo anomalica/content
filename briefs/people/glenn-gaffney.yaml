@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ccb51458c65226072dfed01808decb9240566f6a021bac33976e2ccc23274a9a
 page:
   kind: entity
-  node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+  nodes:
+    - node_id: 252b6b28-dc16-4d5c-b799-f896de0590f8
+      name: Glenn Gaffney
+      node_type: person
   node_type: person
   title: Glenn Gaffney
   slug: glenn-gaffney

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 55410c5cc419d6adcdd398afc73cf75c6e496175059e3e7500b3e21b4988a1cd
 page:
   kind: entity
-  node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+  nodes:
+    - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+      name: The Greys
+      node_type: topic
   node_type: topic
   title: The Greys
   slug: the-greys

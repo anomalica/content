@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: dca536347a096e519d014682fb94c7d1a21e34f4b7bd5acae2206e2dc6179674
 page:
   kind: entity
-  node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+  nodes:
+    - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
+      name: Thomas Townsend Brown
+      node_type: person
   node_type: person
   title: Thomas Townsend Brown
   slug: thomas-townsend-brown

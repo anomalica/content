@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4ce269b10b3de9cc768c661b78fa3eca79a368b927992d61dc14b66d63ab9109
 page:
   kind: entity
-  node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+  nodes:
+    - node_id: baa13d91-0551-4f21-ac2f-32fba4c397cf
+      name: USA, New Mexico
+      node_type: place
   node_type: place
   title: USA, New Mexico
   slug: new-mexico-usa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7792a76dc9153beb97de017d1ec7f38d3e62b1b0ee46d9226223e28b428f28be
 page:
   kind: entity
-  node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+  nodes:
+    - node_id: 787a947b-f020-4f9a-bac8-72b82e5c1475
+      name: AN/APG-73 radar
+      node_type: object
   node_type: object
   title: AN/APG-73 radar
   slug: anapg-73-radar

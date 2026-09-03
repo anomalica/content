@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2064bb5efebb620ef940dfb72a7a736c0e0d5f088fc075ccfe5c3cb79f34d08f
 page:
   kind: entity
-  node_id: 4ccf115a-a4e3-4f63-90d9-5e9d4ae38efa
+  nodes:
+    - node_id: 4ccf115a-a4e3-4f63-90d9-5e9d4ae38efa
+      name: Intelligence, Surveillance, and Reconnaissance (ISR)
+      node_type: topic
   node_type: topic
   title: Intelligence, Surveillance, and Reconnaissance (ISR)
   slug: surveillance-and-reconnaissance-isr-intelligence

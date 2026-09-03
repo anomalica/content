@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 24614b65bcf7a09176cf97734ff7e5b66f1d89a81c9e74515360806c1c4193b5
 page:
   kind: entity
-  node_id: fd21f510-9f17-4981-add9-5fed3b6797ae
+  nodes:
+    - node_id: fd21f510-9f17-4981-add9-5fed3b6797ae
+      name: University of Washington
+      node_type: organisation
   node_type: organisation
   title: University of Washington
   slug: university-of-washington

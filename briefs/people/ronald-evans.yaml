@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c87a02b6b2dbbe348d0c364e129adf08f9ab35f18e805c99863ca5c62f2f5a35
 page:
   kind: entity
-  node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
+  nodes:
+    - node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
+      name: Ronald Evans
+      node_type: person
   node_type: person
   title: Ronald Evans
   slug: ronald-evans

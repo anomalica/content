@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e382b76b5e9dabbfbd2ad96cffdfc57429df454e96e9713ae138aeed1d4e680b
 page:
   kind: entity
-  node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+  nodes:
+    - node_id: 51360b23-b55e-4e40-881e-c828b07f01ef
+      name: House Permanent Select Committee on Intelligence
+      node_type: organisation
   node_type: organisation
   title: House Permanent Select Committee on Intelligence
   slug: house-permanent-select-committee-on-intelligence

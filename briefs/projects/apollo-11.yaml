@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3fa703a37e74d931ed489a1251bcd905837700ffd197d5245d9be70523b618e4
 page:
   kind: entity
-  node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+  nodes:
+    - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
+      name: Apollo 11
+      node_type: project
   node_type: project
   title: Apollo 11
   slug: apollo-11

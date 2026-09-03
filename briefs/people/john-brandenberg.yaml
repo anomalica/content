@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f623f69250c81fd86ad0e179e2bbb9dfa98247937cb0de09009f235f0f94e724
 page:
   kind: entity
-  node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+  nodes:
+    - node_id: bbb5b561-9e28-49d2-b469-e6cbd085b289
+      name: John Brandenberg
+      node_type: person
   node_type: person
   title: John Brandenberg
   slug: john-brandenberg

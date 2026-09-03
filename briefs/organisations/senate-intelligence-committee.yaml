@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2047ad6972939c807b3775ded32b1d728155851359590a4ba4fd2631781ffb7b
 page:
   kind: entity
-  node_id: 4b201290-b335-4954-93c7-aa0f3c949167
+  nodes:
+    - node_id: 4b201290-b335-4954-93c7-aa0f3c949167
+      name: Senate Intelligence Committee
+      node_type: organisation
   node_type: organisation
   title: Senate Intelligence Committee
   slug: senate-intelligence-committee

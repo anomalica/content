@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f156390ad5444e095c81f9613c508852a2db22a3f113d1afad876bccf26ae8d4
 page:
   kind: entity
-  node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+  nodes:
+    - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+      name: Federal Bureau of Investigation (FBI)
+      node_type: organisation
   node_type: organisation
   title: Federal Bureau of Investigation (FBI)
   slug: federal-bureau-of-investigation-fbi

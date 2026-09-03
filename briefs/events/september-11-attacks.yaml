@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3e3b0dd1b8aaf3b4ceeb45f20916cda71a8ff3b53d76bb3e232a0efa34cfbb11
 page:
   kind: entity
-  node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+  nodes:
+    - node_id: d33b6079-472c-487b-bdb8-0aa2e20ab2ff
+      name: September 11 attacks
+      node_type: event
   node_type: event
   title: September 11 attacks
   slug: september-11-attacks

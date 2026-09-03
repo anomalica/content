@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6cc1f15ca999ef32b16801bc56083435e1be6d0ed6772be10994b282e2a4f0f3
 page:
   kind: entity
-  node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+  nodes:
+    - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
+      name: Garry Reid
+      node_type: person
   node_type: person
   title: Garry Reid
   slug: garry-reid

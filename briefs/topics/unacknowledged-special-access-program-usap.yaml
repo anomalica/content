@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b68ae5451b1e1ea5405a66834df8558fc7ad610fa86489a390a1040b25c7a3b9
 page:
   kind: entity
-  node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+  nodes:
+    - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
+      name: Unacknowledged special access program (USAP)
+      node_type: topic
   node_type: topic
   title: Unacknowledged special access program (USAP)
   slug: unacknowledged-special-access-program-usap

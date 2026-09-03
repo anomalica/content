@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fe62762ca12800aedb36e636cc0f5cd8aebed2b084a04aa2232e4e7fe5883fdd
 page:
   kind: entity
-  node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+  nodes:
+    - node_id: 03ce9078-270f-4be3-ae7e-45ef913c7e5d
+      name: Walter Haut
+      node_type: person
   node_type: person
   title: Walter Haut
   slug: walter-haut

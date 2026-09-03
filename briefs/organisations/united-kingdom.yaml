@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 894aac917e84bd0a429bd4d8b24e61baf9e4956ed94c02bfd79bde52f26e85f2
 page:
   kind: entity
-  node_id: 75139190-9d0c-47b6-b969-e905f864c633
+  nodes:
+    - node_id: 75139190-9d0c-47b6-b969-e905f864c633
+      name: United Kingdom
+      node_type: organisation
   node_type: organisation
   title: United Kingdom
   slug: united-kingdom

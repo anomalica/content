@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e4374dd8d32c6bed5c3bf07195b9bf1c0c87d8bc4f426bfa1dbd5373ec1da1f7
 page:
   kind: entity
-  node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+  nodes:
+    - node_id: a7726ea1-8d0d-4d27-bdba-be309f70fea1
+      name: Liberation Times
+      node_type: organisation
   node_type: organisation
   title: Liberation Times
   slug: liberation-times

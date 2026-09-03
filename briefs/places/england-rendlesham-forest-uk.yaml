@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f948157fb7bdbfaf9e5ede14c9bac4f593597d7aacc2610977cf012bf21c4020
 page:
   kind: entity
-  node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+  nodes:
+    - node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
+      name: UK, England, Rendlesham Forest
+      node_type: place
   node_type: place
   title: UK, England, Rendlesham Forest
   slug: england-rendlesham-forest-uk

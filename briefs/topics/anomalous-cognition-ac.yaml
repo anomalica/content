@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a177c231e13b3e1fc97cf83bf63c0f3e16d4c58296164dcc84450659a633b7cd
 page:
   kind: entity
-  node_id: abcb5364-007d-441a-b246-86e28f74227d
+  nodes:
+    - node_id: abcb5364-007d-441a-b246-86e28f74227d
+      name: Anomalous Cognition (AC)
+      node_type: topic
   node_type: topic
   title: Anomalous Cognition (AC)
   slug: anomalous-cognition-ac

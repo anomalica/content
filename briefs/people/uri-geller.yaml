@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7254f038a7ec76a6c6abd6c216319d99e42b06118f18946a8a61651214a329ff
 page:
   kind: entity
-  node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+  nodes:
+    - node_id: 7a9b9ff0-2991-43e0-87c6-23beada4ac49
+      name: Uri Geller
+      node_type: person
   node_type: person
   title: Uri Geller
   slug: uri-geller

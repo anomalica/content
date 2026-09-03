@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 15bd5a4317cb7186f809ea9cdab0c2b5c4f81a49da444fca3bd91f6201168b3f
 page:
   kind: entity
-  node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+  nodes:
+    - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+      name: National Security Agency (NSA)
+      node_type: organisation
   node_type: organisation
   title: National Security Agency (NSA)
   slug: national-security-agency-nsa

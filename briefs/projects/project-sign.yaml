@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 143e5d9f65244d3c8db4053761c3a7e3702b1401d5576c59c85193ccbaa15369
 page:
   kind: entity
-  node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+  nodes:
+    - node_id: f5d73324-41fa-47e1-9348-c40a271cfb62
+      name: Project Sign
+      node_type: project
   node_type: project
   title: Project Sign
   slug: project-sign

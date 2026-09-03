@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0e57fc148f3cb5085507264594a534664ac1ab66a47416989e7edbf63e1171fe
 page:
   kind: entity
-  node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+  nodes:
+    - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
+      name: Carrier Air Wing 11 (CVW-11)
+      node_type: organisation
   node_type: organisation
   title: Carrier Air Wing 11 (CVW-11)
   slug: carrier-air-wing-11-cvw-11

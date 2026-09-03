@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4a2d14c58707e450cfe43b11b8818f871b50f67d170bcbaceb2e4f865f0264b3
 page:
   kind: entity
-  node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+  nodes:
+    - node_id: c46f987f-f635-44ee-bfdb-91e4fdf5f90b
+      name: Kevin Day
+      node_type: person
   node_type: person
   title: Kevin Day
   slug: kevin-day

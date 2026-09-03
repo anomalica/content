@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: eafafeae2f005120940884a2f4f1a12b6fe46a950278658edc8cfd8214b96300
 page:
   kind: entity
-  node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+  nodes:
+    - node_id: 302c3ca1-5512-4b2d-af20-17d29a914e3b
+      name: David Grush
+      node_type: person
   node_type: person
   title: David Grush
   slug: david-grush

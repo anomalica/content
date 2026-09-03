@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 49fe6577c66cdf3e77a73c7bc8c98acb9b0d782fb845a1a14fcc5df046a807ab
 page:
   kind: entity
-  node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+  nodes:
+    - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
+      name: Roger Ramey
+      node_type: person
   node_type: person
   title: Roger Ramey
   slug: roger-ramey

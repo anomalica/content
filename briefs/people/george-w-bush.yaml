@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 00c5858e7b58308902e30254a7e54eb155f9d2dba940d014c36865ad59ab45d2
 page:
   kind: entity
-  node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+  nodes:
+    - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
+      name: George W. Bush
+      node_type: person
   node_type: person
   title: George W. Bush
   slug: george-w-bush

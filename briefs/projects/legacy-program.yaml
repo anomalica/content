@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6fcb967893ddefa7c97a7daf5381c891f8c640a1f9d34522100214ca2d538bfd
 page:
   kind: entity
-  node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+  nodes:
+    - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
+      name: Legacy Program
+      node_type: project
   node_type: project
   title: Legacy Program
   slug: legacy-program

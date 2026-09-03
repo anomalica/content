@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0f0bded3a749da2b56e809261b2a7d4e53d8c4f1ee70f8abe0d16e8c616c2f0e
 page:
   kind: entity
-  node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+  nodes:
+    - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
+      name: Anne Strieber
+      node_type: person
   node_type: person
   title: Anne Strieber
   slug: anne-strieber

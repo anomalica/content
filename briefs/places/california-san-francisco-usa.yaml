@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6fc2eb2401275fa94c934133935ce48a2b289cc6f06959311dac4cd99784af75
 page:
   kind: entity
-  node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+  nodes:
+    - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
+      name: USA, California, San Francisco
+      node_type: place
   node_type: place
   title: USA, California, San Francisco
   slug: california-san-francisco-usa

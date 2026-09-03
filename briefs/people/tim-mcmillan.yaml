@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 10f7b63f3710c3caa4bd5d02329425b1216931f20d3246c7a3f6d63ddeb76bd4
 page:
   kind: entity
-  node_id: aefac202-9f9b-433f-81d3-1d384551d045
+  nodes:
+    - node_id: aefac202-9f9b-433f-81d3-1d384551d045
+      name: Tim McMillan
+      node_type: person
   node_type: person
   title: Tim McMillan
   slug: tim-mcmillan

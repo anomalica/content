@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f62402d01c8cc1db9fba5a45aa99e6d8b14daaebc812ff48b55ac4c9a4759abe
 page:
   kind: entity
-  node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+  nodes:
+    - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
+      name: Edwin C. May
+      node_type: person
   node_type: person
   title: Edwin C. May
   slug: edwin-c-may

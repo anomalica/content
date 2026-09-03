@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 782ca36d5f911c74565abdc5d685200e897c27e6d169f745451f4a57046a9083
 page:
   kind: entity
-  node_id: 93df8d48-8068-409a-a198-27e923af6cde
+  nodes:
+    - node_id: 93df8d48-8068-409a-a198-27e923af6cde
+      name: Majestic 12 (MJ-12)
+      node_type: project
   node_type: project
   title: Majestic 12 (MJ-12)
   slug: majestic-12-mj-12

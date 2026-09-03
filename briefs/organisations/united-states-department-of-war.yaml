@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a13314eef62e90ee05ea05eaca4f0507136cb9445b626870404bb42a667fe7c8
 page:
   kind: entity
-  node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+  nodes:
+    - node_id: 2d16e9ea-f92d-4e97-9835-0a1a739ffba6
+      name: United States Department of War
+      node_type: organisation
   node_type: organisation
   title: United States Department of War
   slug: united-states-department-of-war

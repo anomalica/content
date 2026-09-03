@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fd30a2de358bc115a14d2732fe824e83a7c6e7ebf6212a10c54ac53601c30031
 page:
   kind: entity
-  node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+  nodes:
+    - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
+      name: Pius XII
+      node_type: person
   node_type: person
   title: Pius XII
   slug: pius-xii

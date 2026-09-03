@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5c9bdb5a6ff8c4e700323cd7572683fa8bb059382c1dcd77bc396e815f15c185
 page:
   kind: entity
-  node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+  nodes:
+    - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
+      name: USA, California, Big Sur
+      node_type: place
   node_type: place
   title: USA, California, Big Sur
   slug: california-big-sur-usa

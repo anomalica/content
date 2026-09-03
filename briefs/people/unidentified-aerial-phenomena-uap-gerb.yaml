@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 23134737051675be52991557d80ba551286a19ca7e0a42617de18feb27ee9633
 page:
   kind: entity
-  node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+  nodes:
+    - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      name: Unidentified Aerial Phenomena (UAP) Gerb
+      node_type: person
   node_type: person
   title: UAP Gerb
   slug: unidentified-aerial-phenomena-uap-gerb
@@ -63,6 +66,11 @@ related_nodes:
     node_type: person
     slug: bobby-inman
     shared_claims: 2
+  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
+    title: Crash retrieval programme
+    node_type: topic
+    slug: crash-retrieval-programme
+    shared_claims: 2
   - node_id: 4971b32b-e8d8-488a-8cf4-35f92bef0cd0
     title: Dan Burisch
     node_type: person
@@ -88,6 +96,11 @@ related_nodes:
     node_type: organisation
     slug: mitre-corporation
     shared_claims: 2
+  - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
+    title: Microexpressions
+    node_type: topic
+    slug: microexpressions
+    shared_claims: 2
   - node_id: a6fcedef-9273-4fcb-bcac-f04f52aea465
     title: Terry Phillips
     node_type: person
@@ -97,16 +110,6 @@ related_nodes:
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
-    shared_claims: 2
-  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-    title: crash retrieval programme
-    node_type: topic
-    slug: crash-retrieval-programme
-    shared_claims: 2
-  - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
-    title: microexpressions
-    node_type: topic
-    slug: microexpressions
     shared_claims: 2
   - node_id: f4f6027b-98fe-430e-b0c3-92de7e30e2ba
     title: Bill McDonald
@@ -1808,7 +1811,7 @@ claims:
         title: Jesse Michels, Unidentified Aerial Phenomena (UAP) Gerb & Chris Ramsay - Flying Saucer Diner
         slug: unidentified-aerial-phenomena-uap-gerb-chris-ramsay---flying-saucer-diner-jesse-michels
       - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
-        title: microexpressions
+        title: Microexpressions
         slug: microexpressions
     date: '2026-07-17'
     date_end: null
@@ -1857,7 +1860,7 @@ claims:
         title: Jesse Michels, Unidentified Aerial Phenomena (UAP) Gerb & Chris Ramsay - Flying Saucer Diner
         slug: unidentified-aerial-phenomena-uap-gerb-chris-ramsay---flying-saucer-diner-jesse-michels
       - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
-        title: microexpressions
+        title: Microexpressions
         slug: microexpressions
     date: '2026-07-17'
     date_end: null
@@ -3690,7 +3693,7 @@ claims:
         title: Manhattan Project
         slug: manhattan-project
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -3730,7 +3733,7 @@ claims:
         title: Unidentified Aerial Phenomena (UAP) Gerb
         slug: unidentified-aerial-phenomena-uap-gerb
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -3862,7 +3865,7 @@ claims:
         title: Arthur Stancil Jr.
         slug: arthur-stancil-jr
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -4798,7 +4801,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null

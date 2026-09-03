@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f11626e3d36cb81731dff3d9bd3f8edf6ff8e870d246774c195a7b47fe9f3982
 page:
   kind: entity
-  node_id: a77966af-a350-432e-8fbc-2ca59029820b
+  nodes:
+    - node_id: a77966af-a350-432e-8fbc-2ca59029820b
+      name: Fox News
+      node_type: organisation
   node_type: organisation
   title: Fox News
   slug: fox-news

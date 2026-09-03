@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: dbe61a54ae97d7b782b8c169727eb94dd5886855000ce28db8cd09133d5cd3b6
 page:
   kind: entity
-  node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+  nodes:
+    - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
+      name: Search for Extraterrestrial Intelligence (SETI)
+      node_type: topic
   node_type: topic
   title: Search for Extraterrestrial Intelligence (SETI)
   slug: search-for-extraterrestrial-intelligence-seti

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d19cb70aa2af27fd46ab7cd5790e3adb3dba94ed14b4b491bac7ff00de0bbae6
 page:
   kind: entity
-  node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+  nodes:
+    - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
+      name: Lockheed Martin
+      node_type: organisation
   node_type: organisation
   title: Lockheed Martin
   slug: lockheed-martin
@@ -1612,7 +1615,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-        title: whistleblower protection for defence contractors
+        title: Whistleblower protection for defence contractors
         slug: whistleblower-protection-for-defence-contractors
       - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
         title: Lockheed Martin

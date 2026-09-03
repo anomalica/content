@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 568c17f6e6f03e4a3225028d1eb188657dcb5d23fa03b0d11e827ef45c06d887
 page:
   kind: entity
-  node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+  nodes:
+    - node_id: a932f36e-29f1-46fa-a39d-92bd5044f2f9
+      name: Ted Stevens
+      node_type: person
   node_type: person
   title: Ted Stevens
   slug: ted-stevens

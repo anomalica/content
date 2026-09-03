@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8d042359509dc55fd830ba95aacba7caadcc195ae681bd1afb1468b2e170fcb3
 page:
   kind: entity
-  node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+  nodes:
+    - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+      name: Stanford University
+      node_type: organisation
   node_type: organisation
   title: Stanford University
   slug: stanford-university

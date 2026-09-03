@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 57a254613883ca8b7a9bfc47430c60c3b2ec133fb7d79472752842caf72120cd
 page:
   kind: entity
-  node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+  nodes:
+    - node_id: 5d93c82e-5c20-47f0-b7d4-de96abd4f1f4
+      name: Aimé Michel
+      node_type: person
   node_type: person
   title: Aimé Michel
   slug: aime-michel

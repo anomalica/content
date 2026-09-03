@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 261e526e302dd800776abf24a4a28c3e7823c3e68da85fc158c2f5bd6fd286a9
 page:
   kind: entity
-  node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+  nodes:
+    - node_id: c4e4e422-f2b5-4ed3-ae65-ec244ddcc14a
+      name: Jeffrey Kripal
+      node_type: person
   node_type: person
   title: Jeffrey Kripal
   slug: jeffrey-kripal

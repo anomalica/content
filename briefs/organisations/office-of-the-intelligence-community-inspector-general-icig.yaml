@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6b0e7a0207e407a613ac0e8908c5ea0b31cf4dfdd74c40f04a90d858f590fbd3
 page:
   kind: entity
-  node_id: f8f7643c-fe27-4547-8761-440b36e78097
+  nodes:
+    - node_id: f8f7643c-fe27-4547-8761-440b36e78097
+      name: Office of the Intelligence Community Inspector General (ICIG)
+      node_type: organisation
   node_type: organisation
   title: Office of the Intelligence Community Inspector General (ICIG)
   slug: office-of-the-intelligence-community-inspector-general-icig

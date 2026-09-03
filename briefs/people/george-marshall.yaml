@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5fd03e7e24721958e0cc1bf2c5275e5c958e3e87f13b81e9666dbabc8ca20384
 page:
   kind: entity
-  node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+  nodes:
+    - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
+      name: George Marshall
+      node_type: person
   node_type: person
   title: George Marshall
   slug: george-marshall

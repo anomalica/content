@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fe0238a4ca8a0c8127c58f91d828779b3cd00382ae03a698c4bec960bc160cbe
 page:
   kind: entity
-  node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+  nodes:
+    - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
+      name: Jay Stratton
+      node_type: person
   node_type: person
   title: Jay Stratton
   slug: jay-stratton

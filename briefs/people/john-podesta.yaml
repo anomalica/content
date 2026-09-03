@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2186bac49d0cc9dc3391ff4cd7da81550cedb41675957449fdcd9a6236e545ed
 page:
   kind: entity
-  node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+  nodes:
+    - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
+      name: John Podesta
+      node_type: person
   node_type: person
   title: John Podesta
   slug: john-podesta

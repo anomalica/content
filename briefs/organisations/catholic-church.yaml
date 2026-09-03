@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 35d8c25f730a8f8a994d506d34b06378ddcd199b7b7308ed4cdb0613eb626841
 page:
   kind: entity
-  node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+  nodes:
+    - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
+      name: Catholic Church
+      node_type: organisation
   node_type: organisation
   title: Catholic Church
   slug: catholic-church

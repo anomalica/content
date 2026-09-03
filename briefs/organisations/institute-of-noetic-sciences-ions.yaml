@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 238fdf9045598b24ced82fb97bbcc207a94070d84206b4c8176d34a94356ef0b
 page:
   kind: entity
-  node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+  nodes:
+    - node_id: 861ba74d-1ec7-409e-8109-2480212d96ac
+      name: Institute of Noetic Sciences (IONS)
+      node_type: organisation
   node_type: organisation
   title: Institute of Noetic Sciences (IONS)
   slug: institute-of-noetic-sciences-ions

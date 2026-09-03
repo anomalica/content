@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 198732699ae60ae35c9a04f2cc0626ee9516f0cb6a96797290e401e0745b4961
 page:
   kind: entity
-  node_id: 49286131-da81-4d49-9b69-de49065b47c5
+  nodes:
+    - node_id: 49286131-da81-4d49-9b69-de49065b47c5
+      name: Vatican Observatory
+      node_type: organisation
   node_type: organisation
   title: Vatican Observatory
   slug: vatican-observatory

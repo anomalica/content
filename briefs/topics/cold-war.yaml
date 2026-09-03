@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 6d770dcd26354c30c6e728a8cd2c115eea24aa2d3758e0da9de5789d8e46237a
 page:
   kind: entity
-  node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+  nodes:
+    - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
+      name: Cold War
+      node_type: topic
   node_type: topic
   title: Cold War
   slug: cold-war
@@ -58,6 +61,11 @@ related_nodes:
     node_type: topic
     slug: communism
     shared_claims: 1
+  - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
+    title: Predictive programming
+    node_type: topic
+    slug: predictive-programming
+    shared_claims: 1
   - node_id: 42a1bffe-5534-4296-b5d9-f8c3811763c7
     title: Second World War
     node_type: event
@@ -97,11 +105,6 @@ related_nodes:
     title: World War II
     node_type: event
     slug: world-war-ii
-    shared_claims: 1
-  - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-    title: predictive programming
-    node_type: topic
-    slug: predictive-programming
     shared_claims: 1
 claims:
   - claim_id: e166b584-f125-4968-a39f-6905fb96b1a2
@@ -245,7 +248,7 @@ claims:
         title: Second World War
         slug: second-world-war
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
     date: null
     date_end: null

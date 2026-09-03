@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5475364a2028a453bcf791099f0d05d0c753f3fda1bf2ee97c07fbab4ac31306
 page:
   kind: entity
-  node_id: 2928e96b-16f5-4850-802d-f6adf4af9ee4
+  nodes:
+    - node_id: 2928e96b-16f5-4850-802d-f6adf4af9ee4
+      name: Lucretius
+      node_type: person
   node_type: person
   title: Lucretius
   slug: lucretius

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 79365325b3d3b9f20457ae83af485f41a0485c060bdca3fd14d9f6de3bdeceae
 page:
   kind: entity
-  node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+  nodes:
+    - node_id: 0f04d1d3-1b90-4e39-af45-5852e313dffa
+      name: F/A-18F Super Hornet
+      node_type: object
   node_type: object
   title: F/A-18F Super Hornet
   slug: fa-18f-super-hornet

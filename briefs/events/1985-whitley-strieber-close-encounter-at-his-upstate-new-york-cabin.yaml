@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a2243b29850dc7430640cbb9f09114f3ccb60e83ad093380346449a0cb3f5e8e
 page:
   kind: entity
-  node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
+  nodes:
+    - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
+      name: 1985 Whitley Strieber close encounter at his upstate New York cabin
+      node_type: event
   node_type: event
   title: 1985 Whitley Strieber close encounter at his upstate New York cabin
   slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
@@ -63,11 +66,6 @@ related_nodes:
     node_type: document
     slug: communion-whitley-strieber-book
     shared_claims: 1
-  - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-    title: Greys
-    node_type: topic
-    slug: greys
-    shared_claims: 1
   - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
     title: Human-alien hybridization
     node_type: topic
@@ -87,6 +85,11 @@ related_nodes:
     title: New York State Criminal Investigation Division
     node_type: organisation
     slug: new-york-state-criminal-investigation-division
+    shared_claims: 1
+  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+    title: The Greys
+    node_type: topic
+    slug: the-greys
     shared_claims: 1
   - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
     title: Transformation (Whitley Strieber)
@@ -610,15 +613,15 @@ claims:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber
         slug: whitley-strieber
-      - node_id: 7b0d38b3-6a55-429e-885b-64c9b8616206
-        title: Greys
-        slug: greys
       - node_id: 97c90a0b-6567-4a2e-86da-61338378b3e2
         title: 1985 Whitley Strieber close encounter at his upstate New York cabin
         slug: 1985-whitley-strieber-close-encounter-at-his-upstate-new-york-cabin
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
         slug: non-human-intelligence
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:42:09.4-01:42:28.4

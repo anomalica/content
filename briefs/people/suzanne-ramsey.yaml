@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 01230875607bb55da49429087e38ea5f8908599f319fe569a5182ad57224bba6
 page:
   kind: entity
-  node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+  nodes:
+    - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+      name: Suzanne Ramsey
+      node_type: person
   node_type: person
   title: Suzanne Ramsey
   slug: suzanne-ramsey

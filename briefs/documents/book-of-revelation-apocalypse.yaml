@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 80db2220ca5abf70fb4e358149aecd641bd1745b63cc3e3844cdcc4fe7e30082
 page:
   kind: entity
-  node_id: 33f33971-ed63-4558-9881-e771eb40022b
+  nodes:
+    - node_id: 33f33971-ed63-4558-9881-e771eb40022b
+      name: Book of Revelation (Apocalypse)
+      node_type: document
   node_type: document
   title: Book of Revelation (Apocalypse)
   slug: book-of-revelation-apocalypse

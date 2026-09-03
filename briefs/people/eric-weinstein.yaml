@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2a75212fac8ccb8bf8c4261dd0a2f64ec32917654a8f3f82a948c41b2b5ba410
 page:
   kind: entity
-  node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+  nodes:
+    - node_id: 0c950a77-cc2b-4bb3-86ec-b49e0402abd7
+      name: Eric Weinstein
+      node_type: person
   node_type: person
   title: Eric Weinstein
   slug: eric-weinstein
@@ -48,6 +51,11 @@ related_nodes:
     node_type: person
     slug: eric-davis
     shared_claims: 1
+  - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
+    title: Limited hangout
+    node_type: topic
+    slug: limited-hangout
+    shared_claims: 1
   - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
     title: String theory
     node_type: topic
@@ -57,11 +65,6 @@ related_nodes:
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 1
-  - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
-    title: limited hangout
-    node_type: topic
-    slug: limited-hangout
     shared_claims: 1
 claims:
   - claim_id: b0ee3b55-3258-4f21-a805-257bd45f5527
@@ -183,7 +186,7 @@ claims:
         title: String theory
         slug: string-theory
       - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
-        title: limited hangout
+        title: Limited hangout
         slug: limited-hangout
     date: null
     date_end: null

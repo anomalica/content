@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bf56b03df29010923f6543d2ff7c9b2018c77e80dcdd2c9f28aa0bcf45c080a0
 page:
   kind: entity
-  node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+  nodes:
+    - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
+      name: Reptilian beings
+      node_type: topic
   node_type: topic
   title: Reptilian beings
   slug: reptilian-beings
@@ -84,7 +87,7 @@ related_nodes:
     slug: out-of-body-experience-obe
     shared_claims: 1
   - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-    title: theory of evolution
+    title: Theory of evolution
     node_type: topic
     slug: theory-of-evolution
     shared_claims: 1
@@ -270,7 +273,7 @@ claims:
         title: Reptilian beings
         slug: reptilian-beings
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null

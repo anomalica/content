@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cf24c6e8c34a4768e7a31ad1e071b2fcafec5d8a9d247b182232fa16d02d5942
 page:
   kind: entity
-  node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+  nodes:
+    - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+      name: Americans for Safe Aerospace
+      node_type: organisation
   node_type: organisation
   title: Americans for Safe Aerospace
   slug: americans-for-safe-aerospace

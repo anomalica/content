@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4ba9f390fdd4c1c9a04d7211e2be576041dea5affd0353a1dd41b1153b7722ba
 page:
   kind: entity
-  node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
+  nodes:
+    - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
+      name: Alan Bean
+      node_type: person
   node_type: person
   title: Alan Bean
   slug: alan-bean

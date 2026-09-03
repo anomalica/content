@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5cf9be5858ff4d2b272a42a793ed3fc483091ab655fa93ff296d7277354379d7
 page:
   kind: entity
-  node_id: b2029290-6a8a-4c8e-96a9-343625450a29
+  nodes:
+    - node_id: b2029290-6a8a-4c8e-96a9-343625450a29
+      name: Close Encounters of the Fifth Kind (CE5) contact protocol
+      node_type: topic
   node_type: topic
   title: Close Encounters of the Fifth Kind (CE5) contact protocol
   slug: close-encounters-of-the-fifth-kind-ce5-contact-protocol

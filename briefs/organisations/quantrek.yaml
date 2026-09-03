@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 19af80565fc3050edc3430e69e7e9d06f750cc9dd38f0622eaa640dd74da8718
 page:
   kind: entity
-  node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+  nodes:
+    - node_id: 92749a9d-ccbb-4667-82b7-75e85625aed0
+      name: Quantrek
+      node_type: organisation
   node_type: organisation
   title: Quantrek
   slug: quantrek

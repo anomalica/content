@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 809bc2a36528d1812867fc2ef225f71953932bed191b5755ef0cc566c7ac619e
 page:
   kind: entity
-  node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+  nodes:
+    - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+      name: Harry Reid
+      node_type: person
   node_type: person
   title: Harry Reid
   slug: harry-reid

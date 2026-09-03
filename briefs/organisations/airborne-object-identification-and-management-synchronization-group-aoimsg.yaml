@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 32be3797de0e153daf96795ee5c2860a7b8024bea869f01a373f45d098058b56
 page:
   kind: entity
-  node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+  nodes:
+    - node_id: 6b599e03-9c50-4357-a70e-05626c46f264
+      name: Airborne Object Identification and Management Synchronization Group (AOIMSG)
+      node_type: organisation
   node_type: organisation
   title: Airborne Object Identification and Management Synchronization Group (AOIMSG)
   slug: airborne-object-identification-and-management-synchronization-group-aoimsg

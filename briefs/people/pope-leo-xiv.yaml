@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 22c422aa1aeac0b8232762d529f5820be226a1a963ced66c219650a22421a93c
 page:
   kind: entity
-  node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+  nodes:
+    - node_id: 003d66fb-639b-4885-80ff-9cbe54e5c6ff
+      name: Pope Leo XIV
+      node_type: person
   node_type: person
   title: Pope Leo XIV
   slug: pope-leo-xiv

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 017a2dab3ede2291fdcc0585eaba7bef8ec115f38e35f5f189ffeaf4f4f06b17
 page:
   kind: entity
-  node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+  nodes:
+    - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
+      name: Budd Hopkins
+      node_type: person
   node_type: person
   title: Budd Hopkins
   slug: budd-hopkins

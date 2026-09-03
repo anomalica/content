@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 95f6f82b1e8870645b70f88f17b98de766e995d2c388fc362368fe7920d9f764
 page:
   kind: entity
-  node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+  nodes:
+    - node_id: 8d6b6746-ed32-4c5e-bb27-67eb51a84bc5
+      name: Warp drive
+      node_type: topic
   node_type: topic
   title: Warp drive
   slug: warp-drive

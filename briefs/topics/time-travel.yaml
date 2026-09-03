@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1ea1458fbbaccb7a2cf57cdf89ec108248dd22b0309bafc2ff4bf91f30c4f114
 page:
   kind: entity
-  node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+  nodes:
+    - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
+      name: Time travel
+      node_type: topic
   node_type: topic
   title: Time travel
   slug: time-travel
@@ -128,6 +131,11 @@ related_nodes:
     node_type: person
     slug: bob-lazar
     shared_claims: 1
+  - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
+    title: Breakaway civilisation
+    node_type: topic
+    slug: breakaway-civilisation
+    shared_claims: 1
   - node_id: 458b18fd-fdef-47b9-b418-4021376ca630
     title: Christopher Bledsoe
     node_type: person
@@ -177,11 +185,6 @@ related_nodes:
     title: Unconditional love
     node_type: topic
     slug: unconditional-love
-    shared_claims: 1
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    node_type: topic
-    slug: unidentified-anomalous-phenomena-uap
     shared_claims: 1
 claims:
   - claim_id: 3731ee7c-fb1c-4ec1-9424-936c2dd53085
@@ -488,7 +491,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
-        title: breakaway civilisation
+        title: Breakaway civilisation
         slug: breakaway-civilisation
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel

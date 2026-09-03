@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fd584c925044211e6fc272161c69de4475e478760e98daa79abb67a61d88b0d1
 page:
   kind: entity
-  node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+  nodes:
+    - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
+      name: Lucid Dreaming
+      node_type: topic
   node_type: topic
   title: Lucid Dreaming
   slug: lucid-dreaming

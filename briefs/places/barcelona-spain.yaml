@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2d795ab513cf87986c7dffcfd7c2b7c4a8ff45225e341203b96a240757db188a
 page:
   kind: entity
-  node_id: 23946db4-a580-4494-b572-8ec5778678ee
+  nodes:
+    - node_id: 23946db4-a580-4494-b572-8ec5778678ee
+      name: Spain, Barcelona
+      node_type: place
   node_type: place
   title: Spain, Barcelona
   slug: barcelona-spain

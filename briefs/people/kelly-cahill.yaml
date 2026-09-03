@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: ff11c5de8f8941af525bd5500d0040dac4e96e44df86a151e6a63d7c297d9e18
 page:
   kind: entity
-  node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+  nodes:
+    - node_id: 9140412a-da89-49d7-8057-6aa4487f2645
+      name: Kelly Cahill
+      node_type: person
   node_type: person
   title: Kelly Cahill
   slug: kelly-cahill

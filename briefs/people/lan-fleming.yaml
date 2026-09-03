@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 48d11b2d2d651ca1f10e5351378cf1b9645902e9ac21ef864b26fca8f9b1a412
 page:
   kind: entity
-  node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+  nodes:
+    - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
+      name: Lan Fleming
+      node_type: person
   node_type: person
   title: Lan Fleming
   slug: lan-fleming

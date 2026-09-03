@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8212fa29907b21cdafde2c87acc82928807c3b9c21917edf2c856946c4067a79
 page:
   kind: entity
-  node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+  nodes:
+    - node_id: e2f11d41-01c1-4ae5-b1f6-f8c76abccb52
+      name: Mutual UFO Network (MUFON)
+      node_type: organisation
   node_type: organisation
   title: Mutual UFO Network (MUFON)
   slug: mutual-ufo-network-mufon

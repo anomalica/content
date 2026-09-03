@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3654aa0b13be10bb46a6882688fd3d12c31207b20dbad3974833aed271009efc
 page:
   kind: entity
-  node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+  nodes:
+    - node_id: d59b3e14-cb0b-451d-9864-be08bc78133d
+      name: Claude Poher
+      node_type: person
   node_type: person
   title: Claude Poher
   slug: claude-poher

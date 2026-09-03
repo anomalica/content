@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 87b3b155846a5ac5839dcc9ce8d017a0b0511855457c727a5c34d2c9a6a21b8c
 page:
   kind: entity
-  node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+  nodes:
+    - node_id: 1548f21d-7826-4f44-b3fd-b09528750e1e
+      name: Jacques Bergier
+      node_type: person
   node_type: person
   title: Jacques Bergier
   slug: jacques-bergier

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 10b442dd1416161c43fcc8f511d89f39f9a4300cafb910161557cf2e601c70e1
 page:
   kind: entity
-  node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+  nodes:
+    - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
+      name: Royal Australian Air Force
+      node_type: organisation
   node_type: organisation
   title: Royal Australian Air Force
   slug: royal-australian-air-force

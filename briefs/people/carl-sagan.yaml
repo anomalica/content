@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 3091cea9839a05fb2270ff505d707475215b9d57d03e5ff14eb70a75792af940
 page:
   kind: entity
-  node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+  nodes:
+    - node_id: e7aef649-b8cd-42c8-af7f-ab1ceb0226c2
+      name: Carl Sagan
+      node_type: person
   node_type: person
   title: Carl Sagan
   slug: carl-sagan

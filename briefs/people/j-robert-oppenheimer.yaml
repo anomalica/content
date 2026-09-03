@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 18d5efec2f726a5599e8355b52e6d0f29e6cd9dccc96939d6db3a17f102283a7
 page:
   kind: entity
-  node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+  nodes:
+    - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
+      name: J. Robert Oppenheimer
+      node_type: person
   node_type: person
   title: J. Robert Oppenheimer
   slug: j-robert-oppenheimer

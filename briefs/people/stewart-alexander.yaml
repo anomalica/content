@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 202582ea2d62130d2e2f2dbd885324082125c8f6a8d7ae896d2ff00177b94fec
 page:
   kind: entity
-  node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
+  nodes:
+    - node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
+      name: Stewart Alexander
+      node_type: person
   node_type: person
   title: Stewart Alexander
   slug: stewart-alexander

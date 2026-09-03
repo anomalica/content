@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7ed022da5e8aac9f548979df61b2faae0629ce624c3b12f88fcecb8c9087d0f2
 page:
   kind: entity
-  node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+  nodes:
+    - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
+      name: Stanford Research Institute (SRI)
+      node_type: organisation
   node_type: organisation
   title: Stanford Research Institute (SRI)
   slug: stanford-research-institute-sri

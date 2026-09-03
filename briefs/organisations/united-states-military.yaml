@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5e62fa6f6f01bcdd66ec415e44230317354c39f18bf6d644e488dfea90542790
 page:
   kind: entity
-  node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+  nodes:
+    - node_id: 32db0378-4dbe-4ae9-bd4f-47f7906ca892
+      name: United States military
+      node_type: organisation
   node_type: organisation
   title: United States military
   slug: united-states-military

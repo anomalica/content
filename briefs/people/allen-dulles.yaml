@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: a08b8f47f720c05e3071c4dd9c4b211abfd61067f31e581f81a0a468d3a853d4
 page:
   kind: entity
-  node_id: dea35210-38f0-4797-8438-84a5a9f42661
+  nodes:
+    - node_id: dea35210-38f0-4797-8438-84a5a9f42661
+      name: Allen Dulles
+      node_type: person
   node_type: person
   title: Allen Dulles
   slug: allen-dulles

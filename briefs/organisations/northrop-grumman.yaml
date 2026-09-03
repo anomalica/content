@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4c2835bf70eaff462a2ebc4d9903c518173764365b3ec6379403bfaa385df3b5
 page:
   kind: entity
-  node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+  nodes:
+    - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+      name: Northrop Grumman
+      node_type: organisation
   node_type: organisation
   title: Northrop Grumman
   slug: northrop-grumman
@@ -129,7 +132,7 @@ related_nodes:
     slug: united-states-air-force-usaf
     shared_claims: 1
   - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-    title: whistleblower protection for defence contractors
+    title: Whistleblower protection for defence contractors
     node_type: topic
     slug: whistleblower-protection-for-defence-contractors
     shared_claims: 1
@@ -628,7 +631,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
-        title: whistleblower protection for defence contractors
+        title: Whistleblower protection for defence contractors
         slug: whistleblower-protection-for-defence-contractors
       - node_id: be3c2f02-bc7e-4b51-a0e5-48cbbdc20f52
         title: Lockheed Martin

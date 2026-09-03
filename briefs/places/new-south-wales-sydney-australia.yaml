@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: aa1791f01dd147cfde80f20d0fbc8ea334d53ca030100a457f031c2f2886d22f
 page:
   kind: entity
-  node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+  nodes:
+    - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
+      name: Australia, New South Wales, Sydney
+      node_type: place
   node_type: place
   title: Australia, New South Wales, Sydney
   slug: new-south-wales-sydney-australia
@@ -123,6 +126,11 @@ related_nodes:
     node_type: person
     slug: john-mack
     shared_claims: 1
+  - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
+    title: Manipulation of human perception by the phenomenon
+    node_type: topic
+    slug: manipulation-of-human-perception-by-the-phenomenon
+    shared_claims: 1
   - node_id: 0ebb2d59-f1cf-475c-870f-19d8ca33e6f8
     title: Mitochondrial Deoxyribonucleic Acid (DNA)
     node_type: topic
@@ -152,11 +160,6 @@ related_nodes:
     title: Whitley Strieber
     node_type: person
     slug: whitley-strieber
-    shared_claims: 1
-  - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-    title: manipulation of human perception by the phenomenon
-    node_type: topic
-    slug: manipulation-of-human-perception-by-the-phenomenon
     shared_claims: 1
 claims:
   - claim_id: 92b26b56-e12d-4cc6-8827-4a3acab16e3c
@@ -1364,7 +1367,7 @@ claims:
         title: Ross Coulthart
         slug: ross-coulthart
       - node_id: ebbcbfb6-214c-44f3-b3b3-837c9882211e
-        title: manipulation of human perception by the phenomenon
+        title: Manipulation of human perception by the phenomenon
         slug: manipulation-of-human-perception-by-the-phenomenon
     date: null
     date_end: null

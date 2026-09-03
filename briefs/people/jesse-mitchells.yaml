@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 022c94932716578f36601dcbd092807a7479f35378261f8ab470b563fbcdbde8
 page:
   kind: entity
-  node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+  nodes:
+    - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
+      name: Jesse Mitchells
+      node_type: person
   node_type: person
   title: Jesse Mitchells
   slug: jesse-mitchells
@@ -103,6 +106,11 @@ related_nodes:
     node_type: event
     slug: magenta-unidentified-flying-object-ufo-crash
     shared_claims: 4
+  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
+    title: Crash retrieval programme
+    node_type: topic
+    slug: crash-retrieval-programme
+    shared_claims: 3
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
     node_type: person
@@ -132,11 +140,6 @@ related_nodes:
     title: Vatican
     node_type: organisation
     slug: vatican
-    shared_claims: 3
-  - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-    title: crash retrieval programme
-    node_type: topic
-    slug: crash-retrieval-programme
     shared_claims: 3
   - node_id: d6394787-29e2-4208-b126-47abda22b414
     title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
@@ -10414,7 +10417,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -11947,7 +11950,7 @@ claims:
         title: Jesse Michels video with Eric Weinstein and Eric Davis
         slug: jesse-michels-video-with-eric-weinstein-and-eric-davis
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -12030,7 +12033,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -12072,7 +12075,7 @@ claims:
         title: Jesse Mitchells
         slug: jesse-mitchells
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -12118,7 +12121,7 @@ claims:
         title: String theory
         slug: string-theory
       - node_id: 5b203293-842f-43cf-a5af-746bf78aa31e
-        title: limited hangout
+        title: Limited hangout
         slug: limited-hangout
     date: null
     date_end: null

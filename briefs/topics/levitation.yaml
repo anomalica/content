@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 24dc136e1bf226f58fa2f97e042906524cd7897528a05ced14d44e96918f2d38
 page:
   kind: entity
-  node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+  nodes:
+    - node_id: 8279b46d-20a1-4c17-8814-8fec517b2199
+      name: Levitation
+      node_type: topic
   node_type: topic
   title: Levitation
   slug: levitation

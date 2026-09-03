@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 046f4357f5c3b440c7e565a11e27b1de975fba68197a95d9228d5c775aeec7ad
 page:
   kind: entity
-  node_id: 134433ac-c317-4826-9edd-5f732f74521c
+  nodes:
+    - node_id: 134433ac-c317-4826-9edd-5f732f74521c
+      name: UK, London
+      node_type: place
   node_type: place
   title: UK, London
   slug: london-uk

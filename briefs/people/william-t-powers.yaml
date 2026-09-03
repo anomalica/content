@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: dc81f1dfb78200bd8aeadd8a08ca92f8cf75a4b9adc3c6dcde3de44d11b2a4e0
 page:
   kind: entity
-  node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
+  nodes:
+    - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
+      name: William T. Powers
+      node_type: person
   node_type: person
   title: William T. Powers
   slug: william-t-powers

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 7b5813a7a62c7634f0c89c78d544538c295925123f51cc0609dc4917a62717e6
 page:
   kind: entity
-  node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
+  nodes:
+    - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
+      name: Henry Kissinger
+      node_type: person
   node_type: person
   title: Henry Kissinger
   slug: henry-kissinger

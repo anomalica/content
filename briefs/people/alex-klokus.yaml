@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 69853b5eb4992a47b5ed68374835a072d1f9f4f517ddc92f168ecd07a7c08725
 page:
   kind: entity
-  node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+  nodes:
+    - node_id: 8b6e0178-0856-47b3-a14a-780d2bb8b63d
+      name: Alex Klokus
+      node_type: person
   node_type: person
   title: Alex Klokus
   slug: alex-klokus

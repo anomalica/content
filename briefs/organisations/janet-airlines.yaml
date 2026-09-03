@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e92d844fc89e3636c1f6724c3dfcc81425c5e37110039ba7a70b5221daa7d732
 page:
   kind: entity
-  node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+  nodes:
+    - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
+      name: Janet Airlines
+      node_type: organisation
   node_type: organisation
   title: Janet Airlines
   slug: janet-airlines

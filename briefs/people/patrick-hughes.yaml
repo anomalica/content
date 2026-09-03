@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 47d7767a2311269cc0f4d36b3a8338deadcf01883fe7a228ce393f0b1da765a5
 page:
   kind: entity
-  node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
+  nodes:
+    - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
+      name: Patrick Hughes
+      node_type: person
   node_type: person
   title: Patrick Hughes
   slug: patrick-hughes

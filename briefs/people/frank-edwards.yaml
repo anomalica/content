@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f2f70c3357cb6f9dc97ae339d29428019661ecd830192306d44073ba8b62ae74
 page:
   kind: entity
-  node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+  nodes:
+    - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
+      name: Frank Edwards
+      node_type: person
   node_type: person
   title: Frank Edwards
   slug: frank-edwards

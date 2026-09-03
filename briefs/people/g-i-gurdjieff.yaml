@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1135b6a5c6e8585e9b04cbb2a11d77c2c7074155c171394a3b77a91b172965fe
 page:
   kind: entity
-  node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+  nodes:
+    - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
+      name: G. I. Gurdjieff
+      node_type: person
   node_type: person
   title: G. I. Gurdjieff
   slug: g-i-gurdjieff

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: bf5a917a0ea2df186586702e8924f2ffb50699389e3c0f4c1e0c6071b35cfda2
 page:
   kind: entity
-  node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
+  nodes:
+    - node_id: 0a55aeb7-60f2-4b90-8acd-f00a3d0e1ae4
+      name: KGB
+      node_type: organisation
   node_type: organisation
   title: KGB
   slug: kgb

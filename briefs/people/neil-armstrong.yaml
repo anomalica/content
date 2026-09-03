@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 02a0979ba1c07ec6f5ff1b31acd879023ef5f25065d00590bf53c1547a7391bc
 page:
   kind: entity
-  node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+  nodes:
+    - node_id: c661e205-9d5f-4c0b-bafc-450bbbd07288
+      name: Neil Armstrong
+      node_type: person
   node_type: person
   title: Neil Armstrong
   slug: neil-armstrong

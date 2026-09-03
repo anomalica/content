@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b77a262fe164d9d23ea9be414efc8e5c610f19f62ae132073ed220644cb48c29
 page:
   kind: entity
-  node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+  nodes:
+    - node_id: 4ca72f01-5794-474d-8fa6-7c9e04a4ca57
+      name: Condon Report
+      node_type: document
   node_type: document
   title: Condon Report
   slug: condon-report

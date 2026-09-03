@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e79b66df5e5748fbc674b492a96fec1b67d1c97cc7cc57f39ad4481f9fa3c619
 page:
   kind: entity
-  node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+  nodes:
+    - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
+      name: EG&G
+      node_type: organisation
   node_type: organisation
   title: EG&G
   slug: egg

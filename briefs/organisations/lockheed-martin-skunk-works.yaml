@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: da2d562df7e1004fb48380bea5b182b5567062f9c32b6bf40b8a9710faa45338
 page:
   kind: entity
-  node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+  nodes:
+    - node_id: 9795e9e6-0f72-4ae9-9dcb-ed4bd808f2d7
+      name: Lockheed Martin Skunk Works
+      node_type: organisation
   node_type: organisation
   title: Lockheed Martin Skunk Works
   slug: lockheed-martin-skunk-works

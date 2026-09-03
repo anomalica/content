@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 483ea6250ce449f911e83d872f527eab37a3ca803d00270c99e639636b79a686
 page:
   kind: entity
-  node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+  nodes:
+    - node_id: f42a9d89-8151-4266-abb1-d2fe4d3b32ca
+      name: Air Materiel Command
+      node_type: organisation
   node_type: organisation
   title: Air Materiel Command
   slug: air-materiel-command

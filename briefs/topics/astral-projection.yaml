@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b1b72642fd8a59588a7124bfce5a1eb20f2a3f7d2813bef63d7cb940cffebe16
 page:
   kind: entity
-  node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+  nodes:
+    - node_id: 83e9c12f-464c-4ba3-8685-e605cf091a19
+      name: Astral projection
+      node_type: topic
   node_type: topic
   title: Astral projection
   slug: astral-projection

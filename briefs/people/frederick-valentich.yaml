@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5c31feb0015a18fc83ea6c52094f96aca61b590d43808e9ed519bca6b8905b41
 page:
   kind: entity
-  node_id: 19157631-6448-476b-94d2-d80cf5a10387
+  nodes:
+    - node_id: 19157631-6448-476b-94d2-d80cf5a10387
+      name: Frederick Valentich
+      node_type: person
   node_type: person
   title: Frederick Valentich
   slug: frederick-valentich

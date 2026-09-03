@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 435c29732961a737bf6d77d40048d8dff585c7242d9214b2eb666fffe74dee4e
 page:
   kind: entity
-  node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+  nodes:
+    - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
+      name: Shirley MacLaine
+      node_type: person
   node_type: person
   title: Shirley MacLaine
   slug: shirley-maclaine

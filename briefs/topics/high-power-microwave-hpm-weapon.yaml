@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2b84cdb89e3e4bd73446e401f0e86f294b7929239be5142483223b63483808ff
 page:
   kind: entity
-  node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+  nodes:
+    - node_id: a8ed2e9f-3a8f-47cc-b85c-61c07728a00e
+      name: High-power microwave (HPM) weapon
+      node_type: topic
   node_type: topic
   title: High-power microwave (HPM) weapon
   slug: high-power-microwave-hpm-weapon

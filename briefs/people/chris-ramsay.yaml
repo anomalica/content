@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b183e5166682e85e2c5542ddda2bb8f9f4f8603008f0a1a996fd97e5b1494780
 page:
   kind: entity
-  node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+  nodes:
+    - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
+      name: Chris Ramsay
+      node_type: person
   node_type: person
   title: Chris Ramsay
   slug: chris-ramsay
@@ -8157,7 +8160,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
         title: Non-Human Intelligence
@@ -9569,7 +9572,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
-        title: artificial intelligence generated video fakery
+        title: Artificial intelligence generated video fakery
         slug: artificial-intelligence-generated-video-fakery
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -9708,7 +9711,7 @@ claims:
         title: Dan Sherman
         slug: dan-sherman
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
     date: null
     date_end: null
@@ -9762,7 +9765,7 @@ claims:
         title: Second World War
         slug: second-world-war
       - node_id: 82811a97-b71f-47bc-9f99-b06aa75407a5
-        title: predictive programming
+        title: Predictive programming
         slug: predictive-programming
     date: null
     date_end: null
@@ -9902,7 +9905,7 @@ claims:
         title: Reptilian beings
         slug: reptilian-beings
       - node_id: ea29025a-638a-4fb0-b574-a2ff9d937128
-        title: theory of evolution
+        title: Theory of evolution
         slug: theory-of-evolution
     date: null
     date_end: null
@@ -12883,7 +12886,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 6a9476e0-26ff-4efc-bea1-38221ba91caa
-        title: mentalism
+        title: Mentalism
         slug: mentalism
     date: null
     date_end: null
@@ -12923,7 +12926,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: 6a9476e0-26ff-4efc-bea1-38221ba91caa
-        title: mentalism
+        title: Mentalism
         slug: mentalism
     date: null
     date_end: null
@@ -12972,7 +12975,7 @@ claims:
         title: Jesse Michels, Unidentified Aerial Phenomena (UAP) Gerb & Chris Ramsay - Flying Saucer Diner
         slug: unidentified-aerial-phenomena-uap-gerb-chris-ramsay---flying-saucer-diner-jesse-michels
       - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
-        title: microexpressions
+        title: Microexpressions
         slug: microexpressions
     date: '2026-07-17'
     date_end: null
@@ -13021,7 +13024,7 @@ claims:
         title: Jesse Michels, Unidentified Aerial Phenomena (UAP) Gerb & Chris Ramsay - Flying Saucer Diner
         slug: unidentified-aerial-phenomena-uap-gerb-chris-ramsay---flying-saucer-diner-jesse-michels
       - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
-        title: microexpressions
+        title: Microexpressions
         slug: microexpressions
     date: '2026-07-17'
     date_end: null
@@ -13103,7 +13106,7 @@ claims:
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
       - node_id: 6a9476e0-26ff-4efc-bea1-38221ba91caa
-        title: mentalism
+        title: Mentalism
         slug: mentalism
     date: null
     date_end: null
@@ -13344,7 +13347,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: bc04a793-2e55-42e0-9ff7-dd6106c460c7
-        title: microexpressions
+        title: Microexpressions
         slug: microexpressions
     date: null
     date_end: null
@@ -14883,7 +14886,7 @@ claims:
       premise: quote
     node_refs:
       - node_id: 064e1cda-114d-40f3-8829-a478af9f103c
-        title: breakaway civilisation
+        title: Breakaway civilisation
         slug: breakaway-civilisation
       - node_id: 1c57cd6c-8c54-4f61-b180-2bd899c69889
         title: Time travel
@@ -15336,7 +15339,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null
@@ -16787,7 +16790,7 @@ claims:
         title: Chris Ramsay
         slug: chris-ramsay
       - node_id: ec413c12-f2bf-4476-a8f8-4248e1a3ffc7
-        title: crash retrieval programme
+        title: Crash retrieval programme
         slug: crash-retrieval-programme
     date: null
     date_end: null

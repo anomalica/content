@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: c3490e1565b85d6af4729b6e68118f3b0fe141d69aa2ab8a214e09d5ef21a4cd
 page:
   kind: entity
-  node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
+  nodes:
+    - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
+      name: Janine Vallée
+      node_type: person
   node_type: person
   title: Janine Vallée
   slug: janine-vallee

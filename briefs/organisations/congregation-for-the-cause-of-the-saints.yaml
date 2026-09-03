@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0c11f12687fc022ff953f5ea4f66aadd9e9e45a8094ddd525fda5f639164b1f2
 page:
   kind: entity
-  node_id: 5e1e45c3-3628-423d-b155-37209309df3f
+  nodes:
+    - node_id: 5e1e45c3-3628-423d-b155-37209309df3f
+      name: Congregation for the Cause of the Saints
+      node_type: organisation
   node_type: organisation
   title: Congregation for the Cause of the Saints
   slug: congregation-for-the-cause-of-the-saints

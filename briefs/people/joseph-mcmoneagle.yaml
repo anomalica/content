@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: b2a2dbebb20311f9f9a421894b86f5edb5f806c42f58834854a3c82537d5d0fc
 page:
   kind: entity
-  node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+  nodes:
+    - node_id: 9caa600b-5ac0-4ec4-b956-10e029417fc8
+      name: Joseph McMoneagle
+      node_type: person
   node_type: person
   title: Joseph McMoneagle
   slug: joseph-mcmoneagle

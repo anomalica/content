@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9f4b3daff0e33655137bc705ce48875158af20207832f8ba2ac203e01dd60db8
 page:
   kind: entity
-  node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+  nodes:
+    - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
+      name: USA, Texas, Fort Worth
+      node_type: place
   node_type: place
   title: USA, Texas, Fort Worth
   slug: texas-fort-worth-usa

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f6261501257462b73b6f83bad89008c14f16d80951894d9faf792aee202572b4
 page:
   kind: entity
-  node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+  nodes:
+    - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
+      name: Richard Dolan
+      node_type: person
   node_type: person
   title: Richard Dolan
   slug: richard-dolan

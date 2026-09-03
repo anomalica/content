@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 89d1dfc47798f86e89b7fac0ba732b5525bd94341b6e85bc4ae8047647d6ad0b
 page:
   kind: entity
-  node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+  nodes:
+    - node_id: 4f860285-b71a-4057-9f2a-4d76f99e635c
+      name: Plato
+      node_type: person
   node_type: person
   title: Plato
   slug: plato

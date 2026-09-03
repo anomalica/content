@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 029bd3cac9a18cfcf5c8d0ec8f0db6e79c6ff3199d3f166ec1951f562f1987a6
 page:
   kind: entity
-  node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+  nodes:
+    - node_id: b8e249c9-99ce-400d-932b-11367e6f20ed
+      name: E. H. Lamont
+      node_type: person
   node_type: person
   title: E. H. Lamont
   slug: e-h-lamont

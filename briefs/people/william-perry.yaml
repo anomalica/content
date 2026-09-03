@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 8f600646c2d94e053ba56341e7a3d8849e220fce3473f1d0b04820e4c5fd8a62
 page:
   kind: entity
-  node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+  nodes:
+    - node_id: 354e68ca-ceff-4039-8e1c-04a511f017f2
+      name: William Perry
+      node_type: person
   node_type: person
   title: William Perry
   slug: william-perry

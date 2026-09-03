@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 57369370223ef47cce1bddacc760a640efdf9cfee0550360bfc2863e2db81d35
 page:
   kind: entity
-  node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+  nodes:
+    - node_id: e54f1c29-1780-4810-9c40-4f9baa9f8276
+      name: Nonlocal consciousness
+      node_type: topic
   node_type: topic
   title: Nonlocal consciousness
   slug: nonlocal-consciousness

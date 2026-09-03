@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e167c7a999b8976304e48b11cb2849fa75ca6a1b3116d71fbfd16d2212d30eda
 page:
   kind: entity
-  node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+  nodes:
+    - node_id: 34ce20f3-f42f-459a-99e8-1e5fbfa1a01f
+      name: Bryan Bender
+      node_type: person
   node_type: person
   title: Bryan Bender
   slug: bryan-bender

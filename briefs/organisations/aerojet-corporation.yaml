@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f7e321f9783ba55f7f862ea1027af347d6ca2000c57e85059338fa3c517bcd1d
 page:
   kind: entity
-  node_id: 8dd510bc-42f7-492f-bbd8-6fa4ccf2f6c9
+  nodes:
+    - node_id: 8dd510bc-42f7-492f-bbd8-6fa4ccf2f6c9
+      name: Aerojet Corporation
+      node_type: organisation
   node_type: organisation
   title: Aerojet Corporation
   slug: aerojet-corporation

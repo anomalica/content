@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 0f6009149fea2254158f80b63a63cfd559d3b494f30323cafe3bc1deb1084dd6
 page:
   kind: entity
-  node_id: f888411e-b882-4f89-8275-350d19f6c52d
+  nodes:
+    - node_id: f888411e-b882-4f89-8275-350d19f6c52d
+      name: Jesse Marcel
+      node_type: person
   node_type: person
   title: Jesse Marcel
   slug: jesse-marcel

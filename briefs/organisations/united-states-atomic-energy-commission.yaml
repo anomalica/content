@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 87d8d043752d9b929786deb8717eda2382e069ecbc27c01edb29d5a304a52b05
 page:
   kind: entity
-  node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+  nodes:
+    - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
+      name: United States Atomic Energy Commission
+      node_type: organisation
   node_type: organisation
   title: United States Atomic Energy Commission
   slug: united-states-atomic-energy-commission

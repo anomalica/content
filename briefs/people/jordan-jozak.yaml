@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 5e341bd12fd7e1f778a6115d5d74dd7f0c6dd10191caccad702683995e24d1f6
 page:
   kind: entity
-  node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+  nodes:
+    - node_id: 239d0c42-c4e3-4325-82a2-50c20b2c3412
+      name: Jordan Jozak
+      node_type: person
   node_type: person
   title: Jordan Jozak
   slug: jordan-jozak
@@ -44,7 +47,7 @@ related_nodes:
     slug: esalen-institute-skywatcher-psionic-inviting-demonstration
     shared_claims: 8
   - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-    title: psionics
+    title: Psionics
     node_type: topic
     slug: psionics
     shared_claims: 8
@@ -139,7 +142,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -235,7 +238,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -335,7 +338,7 @@ claims:
         title: Esalen Institute
         slug: esalen-institute
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
     date: null
     date_end: null
@@ -382,7 +385,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: 6a174ff1-da8e-4674-8b4a-6b62b2182ec5
         title: Esalen blue hexagonal orb photographs
@@ -575,7 +578,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
@@ -620,7 +623,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: ad56db74-fbe1-4ef6-85e0-4af6c018aa7a
         title: Confirmation bias
@@ -717,7 +720,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher
@@ -763,7 +766,7 @@ claims:
         title: Jordan Jozak
         slug: jordan-jozak
       - node_id: 59e5adca-0786-4ef8-ad50-674371180a4a
-        title: psionics
+        title: Psionics
         slug: psionics
       - node_id: d0e1ccf0-977b-4550-be92-02d4075be4ae
         title: Skywatcher

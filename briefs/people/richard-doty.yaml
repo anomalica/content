@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d80e5d9ad5781fa448009875bad7440ca398ce953e40d8eb5a9dd8233e27eb50
 page:
   kind: entity
-  node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+  nodes:
+    - node_id: 039c59a5-c92b-48c3-9b54-9944e4d81e54
+      name: Richard Doty
+      node_type: person
   node_type: person
   title: Richard Doty
   slug: richard-doty

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 1a9d3c594d50245f5db07161f86dc0d1a6b1fafce14bfedfb0be1fa635ed8a15
 page:
   kind: entity
-  node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
+  nodes:
+    - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
+      name: Philip Klass
+      node_type: person
   node_type: person
   title: Philip Klass
   slug: philip-klass

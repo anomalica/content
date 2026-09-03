@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: f3a465a30e2ce9a35f0d7d51c26253aa71300c2aaab64f2a18e6d247dfceab7d
 page:
   kind: entity
-  node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+  nodes:
+    - node_id: 9b0b82ee-53af-4318-bdde-2b772c6b5754
+      name: Betty Andreasson
+      node_type: person
   node_type: person
   title: Betty Andreasson
   slug: betty-andreasson

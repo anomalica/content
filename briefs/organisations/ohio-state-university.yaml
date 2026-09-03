@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4da8a90b4aa8d8a8f551b8df7b720e4f8c81d4ba98df964fc4b39dcdb76d82d6
 page:
   kind: entity
-  node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
+  nodes:
+    - node_id: 12a9f354-2e71-4792-8b5e-dc43bcdbdaa1
+      name: Ohio State University
+      node_type: organisation
   node_type: organisation
   title: Ohio State University
   slug: ohio-state-university

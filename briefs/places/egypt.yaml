@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 9e19b5acee804bfbfbcc8f6acc9930a0d5ed05d4b92aa1244849ce3b32fed831
 page:
   kind: entity
-  node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+  nodes:
+    - node_id: 6987da55-6570-45e6-ac96-ce73a15eabb8
+      name: Egypt
+      node_type: place
   node_type: place
   title: Egypt
   slug: egypt

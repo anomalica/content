@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: fe24ec776c4bc15ebbd006d158b959722bc696772504e961c735dc0c020b0204
 page:
   kind: entity
-  node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+  nodes:
+    - node_id: 7fd65861-eda0-4690-8268-f21edba6a031
+      name: Graham Hancock
+      node_type: person
   node_type: person
   title: Graham Hancock
   slug: graham-hancock

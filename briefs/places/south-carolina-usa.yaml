@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2bcb172f9e6c12733869234de6b499fbdd6f073b96d08be678f39ae8205b8038
 page:
   kind: entity
-  node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+  nodes:
+    - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
+      name: USA, South Carolina
+      node_type: place
   node_type: place
   title: USA, South Carolina
   slug: south-carolina-usa

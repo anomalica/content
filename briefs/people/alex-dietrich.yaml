@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 2f71e7d38f3efe3e3205bef6effaf2fd1debaf6089ace2160c50e4b6ed2f3b69
 page:
   kind: entity
-  node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+  nodes:
+    - node_id: a69284b3-f41c-438a-9410-53aa2e9cf445
+      name: Alex Dietrich
+      node_type: person
   node_type: person
   title: Alex Dietrich
   slug: alex-dietrich

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: d681b7ca97792042b1c496ba0b1f5319be58def0ed7519086c793002d0ed6339
 page:
   kind: entity
-  node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
+  nodes:
+    - node_id: a17d713f-41a9-48a3-82c7-f41c7745522f
+      name: Hoyt S. Vandenberg
+      node_type: person
   node_type: person
   title: Hoyt S. Vandenberg
   slug: hoyt-s-vandenberg

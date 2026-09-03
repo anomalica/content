@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 4ba39b2de4ea454cb890b902a1550075822b5120666ae6918ecd4320fb13b65a
 page:
   kind: entity
-  node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+  nodes:
+    - node_id: fcc63288-a1cf-48c4-bce9-ade05691f88d
+      name: John Burroughs
+      node_type: person
   node_type: person
   title: John Burroughs
   slug: john-burroughs

@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: cf6fea41f56ef39338020d5f576d5ce621e52a8b4f2ba32939fce728ed46825d
 page:
   kind: entity
-  node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+  nodes:
+    - node_id: caa4dc74-91cb-4bce-8c98-9575005932c1
+      name: Robert Sarbacher
+      node_type: person
   node_type: person
   title: Robert Sarbacher
   slug: robert-sarbacher

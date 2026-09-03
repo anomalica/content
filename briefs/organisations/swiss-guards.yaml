@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 164b336d96cb5e3ce59954b3badcdde6e1c5870ffe12c48e95829d06e6b1a997
 page:
   kind: entity
-  node_id: 3171e62c-9eab-430a-ae66-74268a4c6cfd
+  nodes:
+    - node_id: 3171e62c-9eab-430a-ae66-74268a4c6cfd
+      name: Swiss Guards
+      node_type: organisation
   node_type: organisation
   title: Swiss Guards
   slug: swiss-guards

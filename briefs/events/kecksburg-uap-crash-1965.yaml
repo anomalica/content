@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: e12d1586791bedb3836b3421d92b7a1e4b68effe48fc479391e8e785dab0ff23
 page:
   kind: entity
-  node_id: 2503395d-618e-4633-b38f-df5e05227097
+  nodes:
+    - node_id: 2503395d-618e-4633-b38f-df5e05227097
+      name: Kecksburg UAP Crash 1965
+      node_type: event
   node_type: event
   title: Kecksburg UAP Crash 1965
   slug: kecksburg-uap-crash-1965

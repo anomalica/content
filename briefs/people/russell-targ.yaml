@@ -1,8 +1,11 @@
-schema: anomalica/brief/1
+schema: anomalica/brief/2
 brief_hash: 47a9607f135bb636fd85b1455cf8fe3f793278ab6a2205c10d9a0a09be73d60e
 page:
   kind: entity
-  node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+  nodes:
+    - node_id: eaceaab4-6d50-49da-9974-e72719de76e9
+      name: Russell Targ
+      node_type: person
   node_type: person
   title: Russell Targ
   slug: russell-targ
