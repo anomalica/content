@@ -63,7 +63,7 @@ built_by:
   body_sha256: 6630e710b221c9f472214b7a3ca363238a7af538958713ff121c15abd6d988f9
 ---
 
-Edward Teller was a physicist. In 1950 he coordinated a conference bringing together distinguished scientists to discuss [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap).<sup>1</sup>
+Edward Teller was a physicist. In 1950 he coordinated a conference bringing together distinguished scientists to discuss [Unidentified Anomalous Phenomena (UAP)](/topics/ufos-uaps).<sup>1</sup>
 
 Teller is among the scientists identified in a set of recovered photographs bearing '[Majestic 12 (MJ-12)](/projects/majestic-12-mj-12)' on the back, alongside [John von Neumann](/people/john-von-neumann) and Leo Szilard.<sup>2</sup>
 
