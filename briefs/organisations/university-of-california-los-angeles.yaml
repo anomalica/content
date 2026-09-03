@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 646
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 5
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 1.0
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -65,6 +75,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02e10a76-6e99-4535-ba51-5d483ffc0c28
         title: Mitochondrial Eve hypothesis
@@ -101,6 +116,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.893
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
         title: Douglass Price-Williams
@@ -138,6 +158,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
         title: Douglass Price-Williams
@@ -179,6 +204,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -214,6 +244,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
         title: Douglass Price-Williams

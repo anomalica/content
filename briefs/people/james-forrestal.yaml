@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 392dd9a559dd18a2433fa71fba667e845934e273b9443c326625975625373bfe
+brief_hash: 88597f84830f0de904f840f27b16c143c7b493501e4ca483545bbe1e3a0df938
 page:
   kind: entity
   node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
@@ -9,11 +9,21 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 11
   tokens_estimated: 1662
   sized_against: 1050000
+entailment:
+  assessed: 11
+  unassessed: 0
+  entails: 11
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 5
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.455
+  entailed_by_window_fraction: 0.545
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,7 +48,7 @@ related_nodes:
     node_type: person
     slug: jonathan-caplan
     shared_claims: 4
-  - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+  - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
     title: UK Ministry of Defence
     node_type: organisation
     slug: uk-ministry-of-defence
@@ -90,7 +100,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 0b698905-3653-44a3-9427-8f19df49bf71
-    claim_hash: 357306129a0b3af72b381139399d8ddb7656303c4a1c4ccc84a0b0bf7ab23073
+    claim_hash: fabc704cf926047a33666cb4055763b24f26d50eb7d16a41e193186e6aeeb8c5
     content: Within one week of the Truman Directive of 24 September 1947 directing Vannevar Bush and James Forrestal to set
       up Majestic 12 (MJ-12) and report directly to him, Forrestal met with Henry Tizard, then chief scientific advisor to
       the UK Ministry of Defence, at the beginning of October 1947.
@@ -108,6 +118,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.675
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
         title: 1947-10 Forrestal-Tizard meetings
@@ -121,7 +136,7 @@ claims:
       - node_id: 93df8d48-8068-409a-a198-27e923af6cde
         title: Majestic 12 (MJ-12)
         slug: majestic-12-mj-12
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
         title: UK Ministry of Defence
         slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
@@ -157,6 +172,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
@@ -184,7 +204,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 6ab2281d-c9aa-4954-b55e-c5bcdbeef1ae
-    claim_hash: 62fe209638b67bf6a1682061f2ba551ca24e39b1a0ffcc68ba2fbdf2ec43ae98
+    claim_hash: b6ab4b9a959e8296507ae4d8615928a334ef50d0ccbdfaaf63371b625222298c
     content: In October 1947, James Forrestal held a number of meetings with other Air Force officers and British Ministry
       of Defence officials.
     original_excerpt: Forrestal then had, in the month of October 1947, a number of meetings with other Air Force officers
@@ -200,8 +220,13 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
         title: UK Ministry of Defence
         slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
@@ -235,6 +260,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a8b40482-62f6-40f1-ad7a-7a2e5c41c605
         title: Victor Goddard
@@ -272,6 +302,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -318,6 +353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4128bd50-87f8-46c4-92e5-b0e1e7239816
         title: Truman Directive of 1947-09-24
@@ -359,6 +399,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -389,7 +434,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: 10988019-e1bc-4e72-8302-53217dfdc95c
-    claim_hash: f3e22e173b27d13421990f92e95654a03d045ab218a4937a8fef5281d2117a29
+    claim_hash: dde757af5c4a9124718cc5034a3f4f3c5db793709671976d7b4822106b58bfc3
     content: James Forrestal and Vannevar Bush held a lunch with Henry Tizard, the chief scientific adviser to the UK Ministry
       of Defence, on 1 October 1947.
     original_excerpt: They held a lunch, Forrestal and Bush, Vannevar Bush, held a lunch with the British scientist, Sir Henry
@@ -405,6 +450,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00342f1c-59c8-4b00-aa9d-ad2b8cc6f2f4
         title: 1947-10 Forrestal-Tizard meetings
@@ -415,7 +465,7 @@ claims:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
         slug: henry-tizard
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
         title: UK Ministry of Defence
         slug: uk-ministry-of-defence
       - node_id: ec304822-db5e-484b-9c4a-b2d43d70757a
@@ -450,6 +500,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -497,6 +552,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7a34498a-e727-43f3-aa35-6794f29ceedb
         title: Henry Tizard
@@ -540,6 +600,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 467aae89-c62d-4faa-aa95-a49b2bcd735f
         title: Whitley Strieber

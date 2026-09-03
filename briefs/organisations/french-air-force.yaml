@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 018bbc7bb7076c27b9f3674a0aa85648283f03d630cebb8bb84f414f8e19374b
+brief_hash: 09d16d50e1a50e81a5f982c1d924464e8b2bfc7fa042bf6a5530b0d5f88bcde2
 page:
   kind: entity
   node_id: ec22df36-01d7-47c0-9a91-150b93b82532
@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 1075
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 1
+  neutral: 5
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -37,11 +47,6 @@ related_nodes:
     title: 1958 Bouahmama, Algeria tranquilizing light Unidentified Flying Object (UFO) sighting
     node_type: event
     slug: algeria-tranquilizing-light-unidentified-flying-object-ufo-sighting-1958-bouahmama
-    shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: 9ff5178f-37d8-407c-8fa9-4892755887be
     title: 509th Bomb Group
@@ -67,6 +72,11 @@ related_nodes:
     title: France, Paris
     node_type: place
     slug: paris-france
+    shared_claims: 1
+  - node_id: 3b360b6e-6ca1-4d13-8468-c72e267eff63
+    title: Gretz-Armainvilliers France UAP Sighting 1990
+    node_type: event
+    slug: gretz-armainvilliers-france-uap-sighting-1990
     shared_claims: 1
   - node_id: 0439b77b-861c-42f6-92d2-bb9764b78b86
     title: Jean Gabriel Greslé
@@ -114,6 +124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bba75b2a-e20d-49b6-ab1d-1ca56ff8f342
         title: France, Basses-Alpes, La Javie
@@ -150,6 +165,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86023aed-d6f6-4d5c-91f5-8ebfe3441bc9
         title: 1958 Bouahmama, Algeria tranquilizing light Unidentified Flying Object (UFO) sighting
@@ -171,7 +191,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 6d57c1c5-3477-418e-a95d-dcee17eecbd0
-    claim_hash: 5fbb9b3e907c64dcc0658deef27371fc4ac6e5cd2bcd81c3d81a396973c3f745
+    claim_hash: fd17213b6de2bef4943ec277efe0d20c74e5ba219eeea6ca688e8c27198e0daf
     content: Jean Gabriel Greslé, a former French Air Force and Air France pilot, was standing outside a gym in Gretz-Armainvilliers,
       France, 25 kilometres east of Paris, in November 1990 when he and six of his pupils witnessed a craft.
     original_excerpt: a former French air force and Air France pilot, Jean Gabriel Greslé, was standing outside a gym where
@@ -187,19 +207,24 @@ claims:
         - Timothy Good's book Need To Know
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0439b77b-861c-42f6-92d2-bb9764b78b86
         title: Jean Gabriel Greslé
         slug: jean-gabriel-gresle
+      - node_id: 3b360b6e-6ca1-4d13-8468-c72e267eff63
+        title: Gretz-Armainvilliers France UAP Sighting 1990
+        slug: gretz-armainvilliers-france-uap-sighting-1990
       - node_id: 65058390-bec5-4d48-84a0-bdd823cd974f
         title: Air France
         slug: air-france
       - node_id: 91e70c22-52be-4342-8943-6c180404df3a
         title: France, Gretz-Armainvilliers
         slug: gretz-armainvilliers-france
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: ec22df36-01d7-47c0-9a91-150b93b82532
         title: French Air Force
         slug: french-air-force
@@ -215,7 +240,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -234,6 +259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ae75f016-578f-4a76-bbc6-bdb2ac683d6b
         title: USA, Texas, Fort Worth
@@ -253,7 +283,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -274,6 +304,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.868
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 105344db-a5eb-4108-a72a-a06408ff1a6c
         title: William Blanchard
@@ -302,7 +337,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -323,6 +358,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.671
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5cbf5dc4-1585-4009-9754-52bf086dbd33
         title: Roswell Army Air Field
@@ -345,7 +385,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

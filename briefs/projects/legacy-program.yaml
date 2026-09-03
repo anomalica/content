@@ -9,7 +9,7 @@ page:
   claim_count: 58
   claim_count_total: 58
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 58
   tokens_estimated: 7884
@@ -79,9 +79,9 @@ related_nodes:
     slug: david-charles-grusch
     shared_claims: 3
   - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    title: Unidentified Anomalous Phenomena Disclosure Act of 2023
     node_type: document
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
+    slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     shared_claims: 3
   - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
     title: Eric Burlison
@@ -1082,8 +1082,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:4211-4390
@@ -1133,8 +1133,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:4967-5333
@@ -1219,8 +1219,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:7282-7417

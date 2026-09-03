@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 911
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 6
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 3
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.429
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -66,6 +76,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
         title: Galileo Galilei
@@ -99,6 +114,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
         title: Galileo Galilei
@@ -138,6 +158,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
         title: Galileo Galilei
@@ -171,6 +196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
         title: Galileo Galilei's Inquisition trial
@@ -211,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
         title: Vatican City
@@ -248,6 +283,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
         title: Galileo Galilei
@@ -285,6 +325,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
         title: Vatican City

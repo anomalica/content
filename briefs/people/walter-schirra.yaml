@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 14
   tokens_estimated: 1528
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 9
+  neutral: 5
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.071
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -55,6 +65,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -88,6 +103,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -121,6 +141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -155,6 +180,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -188,6 +218,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -221,6 +256,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.872
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -254,6 +294,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -287,6 +332,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -320,6 +370,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -353,6 +408,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.764
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -385,6 +445,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.819
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -418,6 +483,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55e1f29c-ce7b-4096-9b18-99b6245fca56
         title: Walter Schirra
@@ -452,6 +522,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -495,6 +570,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission

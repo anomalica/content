@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5cca1a954089722e5608a817962eee25ef3cbf18f2914ed5b34984fe06fe2374
+brief_hash: 44af3947bec35e93da4eb78aa9c8203024cd5975b4c809771b5b0ca9f44ab96d
 page:
   kind: entity
   node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
@@ -9,11 +9,21 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 12
   tokens_estimated: 1687
   sized_against: 1050000
+entailment:
+  assessed: 12
+  unassessed: 0
+  entails: 8
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.083
+  entailed_by_window_fraction: 0.583
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 12
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
     shared_claims: 8
   - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
     title: Westall High School
@@ -86,6 +96,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.545
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -127,6 +142,11 @@ claims:
         - Whitley Strieber's discussion with Barry Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -148,7 +168,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: 258df1ac-cfab-4704-a743-a1f08a3685e2
-    claim_hash: d114faca1d22c2e1a53af17c4395dbab245aaaf48d1d605c3daae04a0d6bf653
+    claim_hash: 75ab1fe691131e6840997b6026e099dbf9433ac2d35db1a6a04889472acc3021
     content: During the 1966 Westall High School UFO sighting, Greenwood was teaching a year nine science class when a student
       rushed in to report a flying saucer.
     original_excerpt: I was teaching, I was teaching a year nine, I think it was, class, teaching science. Just before morning
@@ -164,6 +184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
         title: Westall High School
@@ -171,9 +196,9 @@ claims:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
         slug: barry-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1966'
     date_end: null
     location_in_record: 00:46:32.6-00:46:46.2
@@ -188,7 +213,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 507fcd0c-5df2-4d22-a086-fae4faa284ea
-    claim_hash: 63876653647c6f78c6d98346e9a173e72cbdc2c07e1fab222b93bb4527b5ea16
+    claim_hash: db171f9958959f08fbc2338ad3c1cdfed1213a2dbd59ea8368920fbed3e58c9a
     content: During the 1966 Westall High School UFO sighting, Greenwood looked up and saw an object in the sky directly over
       the far side of the school oval.
     original_excerpt: When I looked up, I could see this object in the sky. It was directly over the far side of the oval.
@@ -203,6 +228,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
         title: Westall High School
@@ -210,9 +240,9 @@ claims:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
         slug: barry-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1966'
     date_end: null
     location_in_record: 00:47:16.2-00:47:24.8
@@ -227,7 +257,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 2bc2863d-65db-4512-8491-30b7e9da3f53
-    claim_hash: fffe08da6b3d454c66a02bcd707ac01722caf4f09cc1e5cd960314350e642155
+    claim_hash: 3236e77ce55d9d8b1b554e83800d7ec81c0dcb2b73809769b45cf3958abeee20
     content: The object seen during the 1966 Westall High School UFO sighting was a classic cigar-shaped object that looked
       like grey metal.
     original_excerpt: It was your classic cigar-shaped object that looked like grey metal. That's what it looked like.
@@ -242,13 +272,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
         slug: barry-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1966'
     date_end: null
     location_in_record: 00:47:39.2-00:47:46.8
@@ -263,7 +298,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: b7f75a97-34f5-4654-bb1a-6d5766b7bfb0
-    claim_hash: e3c9fcdc39929ec706f9e51c6b6a69b11fbe04b8b7a198d1c0c0f5b70f301d56
+    claim_hash: f08af7d7abeb6030de3618e0ef0feb030eab3b528ce5c1d37383634b29b38d6a
     content: The object seen during the 1966 Westall High School UFO sighting was grey, almost cylindrical or cigar-shaped,
       and moved with some degree of precision in the sky.
     original_excerpt: It was a grey, almost cylindrical or cigar shaped object, which moved with some degree of precision
@@ -279,13 +314,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
         slug: barry-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1966'
     date_end: null
     location_in_record: 00:48:57.5-00:49:08.5
@@ -300,7 +340,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: d5158358-80b4-4ddd-8ee3-b2421114e616
-    claim_hash: 7611ee2dacadac7c8d2ac4afa273a5efcafe010adceb2fbf6c35a8c90fc00317
+    claim_hash: 3dcc80468476c51c59aeb87dcb617629d952d9b3b15356ca85a8723c9b32993f
     content: During the 1966 Westall High School UFO sighting, a large number of students ran across the school oval after
       the object appeared to move and fly down behind pine trees.
     original_excerpt: There's a significant number that then took off over the oval because it had moved, flown down apparently
@@ -316,6 +356,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.61
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0a09be6a-9435-45f7-a6b6-875d5d25b53d
         title: Westall High School
@@ -323,9 +368,9 @@ claims:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
         slug: barry-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1966'
     date_end: null
     location_in_record: 00:50:06.6-00:50:14.0
@@ -340,7 +385,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 2cf5eb88-92f3-4a7c-a687-16e309a14962
-    claim_hash: b1e99cea4bbfff1c04cd249ba9c42dd86505537af1796629d153a1689ad1bdd2
+    claim_hash: 4d997ad0c2c043643fd657bd0d97eee84775caa13932a2f2b96212bdc605ee78
     content: Two weeks after the 1966 Westall High School UFO sighting, two government officials, one in plain clothes and
       one a senior Air Force officer, visited Greenwood's home and told him he had not seen anything.
     original_excerpt: Two weeks later, a knock on the door, and when I answered it, there were two people there, one in plain
@@ -357,6 +402,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.593
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -364,9 +414,9 @@ claims:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1966'
     date_end: null
     location_in_record: 00:52:48.7-00:53:03.6
@@ -397,6 +447,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.616
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -415,7 +470,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: eb228ce3-95c1-4cdb-85f9-27949f150fda
-    claim_hash: 91766df81faac418e7aa375ffec0b0bd155e11dcf79a9347e9f28bf7bd80f434
+    claim_hash: dd865c7472ff29c0aefc9b52abc964a492402d3d7fab0a7e2a7601be79553981
     content: Twelve months after being threatened by government officials, Greenwood was approached by officials from the
       Office of the President of the United States asking him to speak about the 1966 Westall High School UFO sighting.
     original_excerpt: Which is quite interesting when you realise that officials from another government, 12 months later,
@@ -431,6 +486,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.741
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -438,9 +498,9 @@ claims:
       - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
         title: Office of the President of the United States
         slug: office-of-the-president-of-the-united-states
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1967'
     date_end: null
     location_in_record: 00:53:33.1-00:53:42.8
@@ -472,6 +532,11 @@ claims:
         - Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.776
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -496,7 +561,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 5a22d703-fa74-4c5e-9b2d-a386834f6d1d
-    claim_hash: 015b984fd04ecbb45e5bd7c9c1e83fd59ad4a77116666b72da1fd6880fe0730e
+    claim_hash: 6c6faef4487679b188fd93051fd5e81b42db43d39b4437d80061bf2311f6577e
     content: James McDonald was sent to interview Greenwood about the 1966 Westall High School UFO sighting as part of the
       presidentially authorised inquiry.
     original_excerpt: I think it might have been a Professor James MacDonald. James MacDonald, that's the one.
@@ -511,6 +576,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -518,9 +588,9 @@ claims:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
         slug: james-macdonald
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1967'
     date_end: null
     location_in_record: 00:54:07.4-00:54:11.2

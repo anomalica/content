@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 973
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 6
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 0
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.857
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -136,6 +146,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.623
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -179,6 +194,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ed6f08f-55b3-4d70-99ad-9e70ba96bea2
         title: Eric Davis meeting with Admiral Thomas Wilson, 2002-10-16
@@ -220,6 +240,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 764a795b-48a5-4375-9bbe-c5152dcc329e
         title: EG&G
@@ -261,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.534
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38fbdf77-a36d-4276-9ea2-f85f3b4968f5
         title: Jim Dilettoso
@@ -318,6 +348,11 @@ claims:
         - Luigi Venditelli relaying it
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.746
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
         title: Janet Airlines
@@ -361,6 +396,11 @@ claims:
         - Luigi Venditelli relaying it
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.717
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
         title: Janet Airlines
@@ -403,6 +443,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.649
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb

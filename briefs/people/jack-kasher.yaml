@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 33e229a2bc74e0e54d37e82eccf509183c160c00755b2b105743f1d051bb1c11
+brief_hash: cbdf408e193d262bf1fa3dfea5d936a916dfa9ed83c58544e74aa930c4427936
 page:
   kind: entity
   node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1643
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 8
+  neutral: 0
+  contradicts: 2
+  entailed_by_quote: 1
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.1
+  entailed_by_window_fraction: 0.7
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 10
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+    title: STS-48 Unidentified Aerial Phenomena (UAP) incident
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: sts-48-unidentified-aerial-phenomena-uap-incident
     shared_claims: 9
   - node_id: ced438f0-7eef-4314-babe-1817f40a6951
     title: Space Shuttle Discovery
@@ -97,6 +107,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
         title: STS-48 video anomalous objects incident (1991-09)
@@ -121,7 +136,7 @@ claims:
       content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
       friendly_name: null
   - claim_id: c57548f9-3bb4-4a7c-8a60-37a4f5df2cf9
-    claim_hash: fbc8a34b331ee917c0b5c9e36b0cb4281035617abaabc47ff5a0eabdfb29d300
+    claim_hash: bc47ca0e27365ff016ac557f2ee335d31ab23bedb99433d101513b51399cff02
     content: In the STS-48 UAP incident footage, the main object, otherwise moving at a constant speed, stops for half a second
       before darting off, as determined by Dr. Jack Kasher.
     original_excerpt: The main UAP, as we can see, that's moving along at a constant speed, it actually stops for half a second,
@@ -137,13 +152,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:24:44.1-00:24:55.6
@@ -158,7 +178,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 3f7fc36e-66c5-46b3-b8cb-028f8553630f
-    claim_hash: 30eae6fd4e342872fd0a94be5216028699f28bf9c446c6455efde4b509be32e6
+    claim_hash: 9e8e0be29263fc1185cdd8eb5b13d05d0ba15d321a17d4a9be73c057c30e154a
     content: Jack Kasher's analysis of the STS-48 UAP incident footage showed that the object's half-second stop before darting
       off does not fit the behaviour of an ice particle.
     original_excerpt: That doesn't fit the behavior of an ice particle as Kasher showed extensively in his analysis of this
@@ -174,13 +194,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.804
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:24:59.2-00:25:06.3
@@ -195,7 +220,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 0f63e416-be58-40c7-b227-5668e16084dc
-    claim_hash: 1374b02486db8a4b6b29b3c2b9b4bbac97681e2ecba3dd3f234d5d93646e87e0
+    claim_hash: 87c99e48051a1e9abbb2b122550349b3333a3a741ad7d29109776e47f04cb014
     content: James Oberg of National Aeronautics and Space Administration (NASA) has had back-and-forth exchanges with Mark
       Carlotto and Jack Kasher regarding the STS-48 UAP incident, but did not do so officially on behalf of NASA.
     original_excerpt: There is one person from NASA, James Oberg, who has had some back and forth with Dr. Carlotto, as well
@@ -212,6 +237,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -222,9 +252,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto
@@ -242,7 +272,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 4a20a8f9-26a1-48d5-ba40-f64d04984070
-    claim_hash: b37770dd2831a092b399907257aed95c3872b2ade950cc87a08929f78df6ae7a
+    claim_hash: 812ad6d4762845c75a3eb5cf940bc838bba6da93404543ff86bff00748cdf4cc
     content: Jack Kasher, Mark Carlotto, Mike Barra, and Richard Hoagland have raised anomalies or problems with National
       Aeronautics and Space Administration (NASA)'s ice-debris explanation for the STS-48 UAP incident that Maaneli "Max"
       Derakhshani has never seen satisfactorily explained by NASA or any NASA scientists or engineers.
@@ -260,6 +290,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -270,9 +305,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto
@@ -293,7 +328,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 70322530-6927-4828-a56f-ff41013dce29
-    claim_hash: 186a781573c50d58b20cd5e9c2e8f06e4f41dc70e6da52a9452378356e8421ae
+    claim_hash: a3bf335e8735c1c8f002f8fb4602773156a48a2476ec6221fe088f4065967f36
     content: According to a chart of calculated accelerations produced by Jack Kasher, if the main unidentified aerial phenomenon
       (UAP) of interest in the STS-48 UAP incident was approximately 1.6 kilometres from Space Shuttle Discovery (STS-48),
       the top acceleration was 10.5 g-forces.
@@ -310,6 +345,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -317,9 +357,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: ced438f0-7eef-4314-babe-1817f40a6951
         title: Space Shuttle Discovery
         slug: space-shuttle-discovery
@@ -337,7 +377,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 5a584f90-b4a9-424d-8b30-44628d4a30b6
-    claim_hash: 1fcf96963ef20f23e94a7b842f745bbd5d30f1c877e83e6f336288d850d5face
+    claim_hash: c215ec86cb25779567bd0dc5721de3967e405cd677f3bfc726ca10cc89cd3bf0
     content: According to a chart of calculated accelerations produced by Jack Kasher, if the main unidentified aerial phenomenon
       (UAP) of interest in the STS-48 UAP incident was approximately 1.6 kilometres from Space Shuttle Discovery (STS-48),
       the final velocity reached was approximately 400 kilometres per hour.
@@ -354,6 +394,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -361,9 +406,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: ced438f0-7eef-4314-babe-1817f40a6951
         title: Space Shuttle Discovery
         slug: space-shuttle-discovery
@@ -381,7 +426,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: a078a4b6-fb22-42c0-ae42-bdc7938bb8c9
-    claim_hash: 249ad566a609c812d298c6d18eb5476aec8db0ae7f7de7a55c46c65e2063133e
+    claim_hash: 8737f8b0510ca016b0399f6959bdaddfad7786730954d5a9bf9d8fe11f215a4b
     content: According to a chart of calculated accelerations produced by Jack Kasher, if the main unidentified aerial phenomenon
       (UAP) of interest in the STS-48 UAP incident was at the horizon relative to Space Shuttle Discovery (STS-48), the acceleration
       would have to be 18,000 g-forces.
@@ -398,6 +443,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -405,9 +455,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: ced438f0-7eef-4314-babe-1817f40a6951
         title: Space Shuttle Discovery
         slug: space-shuttle-discovery
@@ -425,7 +475,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 7a333d52-1f56-451f-a39e-a6ea4bb2cd68
-    claim_hash: 7b0809fd080855cc5c1b281efdb5624a06f0c93fa8d4665918b6446b27bba244
+    claim_hash: 0cf2a5bf3b60a6db5cd44f4fdcdcc3432d82a58ca9313020d18657a8d2ff83bc
     content: According to a chart of calculated accelerations produced by Jack Kasher, if the main unidentified aerial phenomenon
       (UAP) of interest in the STS-48 UAP incident was at the horizon relative to Space Shuttle Discovery (STS-48), the final
       velocity reached was approximately 690,000 kilometres per hour.
@@ -442,6 +492,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -449,9 +504,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: ced438f0-7eef-4314-babe-1817f40a6951
         title: Space Shuttle Discovery
         slug: space-shuttle-discovery
@@ -469,7 +524,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: f41d9f61-b1f1-4b0f-8fa0-a1bc7febf858
-    claim_hash: da1346fb08dae59184dcb1c49f2d51561e17367877c77280c181a49426d97a59
+    claim_hash: d77f3ffafa2519b4b93f3a9e6a38fb4c4170bf2fac451a8aa523ca2e228beaf6
     content: Maaneli "Max" Derakhshani argues that Mark Carlotto, Jack Kasher, and Richard Hoagland have provided ample evidence
       that the main unidentified aerial phenomenon (UAP) of interest in the STS-48 UAP incident was at least 160 kilometres
       or further from Space Shuttle Discovery (STS-48).
@@ -487,16 +542,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.594
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
         slug: maaneli-max-derakhshani
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto

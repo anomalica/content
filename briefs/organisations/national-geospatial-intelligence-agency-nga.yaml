@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: ce1e9c0b4a71ae3a0a1d33866fc58b991b0abe570602b571f98067d99536bb73
+brief_hash: 09fa81d13d59aa19379915bdd325af1e6a2e2259ccbe50764ee32ed882c16032
 page:
   kind: entity
   node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
@@ -9,11 +9,21 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 20
   tokens_estimated: 3155
   sized_against: 1050000
+entailment:
+  assessed: 20
+  unassessed: 0
+  entails: 19
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 6
+  entailed_by_window: 13
+  entailed_by_quote_fraction: 0.3
+  entailed_by_window_fraction: 0.65
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -169,6 +179,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.553
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -207,6 +222,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
         title: Unidentified Aerial Phenomena Task Force (UAPTF)
@@ -248,6 +268,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -282,6 +307,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -322,6 +352,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -339,7 +374,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 01d50f41-2216-452f-862d-01ee552943fa
@@ -361,6 +396,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -384,7 +424,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 2bd95216-2d22-4aca-90f8-f636cfc55a39
@@ -404,6 +444,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -421,7 +466,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 47d17cc4-45af-4243-b1ed-b4c4a9c071ff
@@ -442,6 +487,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -462,7 +512,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: bcf246aa-cf08-4c0a-b560-8b28a5871fcb
@@ -480,6 +530,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -497,137 +552,9 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
-  - claim_id: 856a972e-b1a5-4d6e-9981-846e91ca5372
-    claim_hash: 4f6a387aed184b97a8ee0e9ed1e9f122b410e050b3feb1b62ec3e9d759f3e346
-    content: David Grusch worked for the National Geospatial-Intelligence Agency (NGA).
-    original_excerpt: worked for the National Geospatial-Intelligence Agency (NGA)
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-        title: National Geospatial-Intelligence Agency (NGA)
-        slug: national-geospatial-intelligence-agency-nga
-      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-        title: David Charles Grusch
-        slug: david-charles-grusch
-    date: null
-    date_end: null
-    location_in_record: ch32:869-925
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
-    claim_hash: eeb945be75b222ab891cf538ecf45c10478cd8cc1d5a0a61f5fc3c2e93e9668d
-    content: David Grusch was the representative of the National Reconnaissance Office (NRO) and National Geospatial-Intelligence
-      Agency (NGA) on the Pentagon's UAP Task Force.
-    original_excerpt: He was those agencies' rep on the UAP Task Force
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
-        title: Unidentified Aerial Phenomena Task Force (UAPTF)
-        slug: unidentified-aerial-phenomena-task-force-uaptf
-      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-        title: National Geospatial-Intelligence Agency (NGA)
-        slug: national-geospatial-intelligence-agency-nga
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
-        title: David Charles Grusch
-        slug: david-charles-grusch
-    date: null
-    date_end: null
-    location_in_record: ch32:931-974
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
-    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
-    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
-      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
-      data that they were not sharing with each other.
-    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
-      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
-      also appeared to have important UAP data they were not sharing.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-      title: Christopher K. Mellon
-    provenance_chain:
-      origin_kind: speaker
-      origin: Christopher Mellon
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
-        title: National Security Agency (NSA)
-        slug: national-security-agency-nsa
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
-        title: National Geospatial-Intelligence Agency (NGA)
-        slug: national-geospatial-intelligence-agency-nga
-      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
-        title: National Reconnaissance Office (NRO)
-        slug: national-reconnaissance-office-nro
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch6:17564-17844
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 63b1526c-a4b6-4214-950e-85ccce69df5f
     claim_hash: aadaed06a1c7a4cb707242f79df8554ea8deaecf81fa0539730945f9f60cdf94
     content: The Inspector General, U.S. Department of Defense interviewed senior officials and requested unidentified anomalous
@@ -651,6 +578,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -711,7 +643,7 @@ claims:
       record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
         Anomalous Phenomena," August 15, 2023
       record_date: '2024-01-24'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
       content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
       friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 03d65f79-431b-4dcb-9412-ce121509179c
@@ -731,6 +663,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -761,9 +698,152 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 856a972e-b1a5-4d6e-9981-846e91ca5372
+    claim_hash: 4f6a387aed184b97a8ee0e9ed1e9f122b410e050b3feb1b62ec3e9d759f3e346
+    content: David Grusch worked for the National Geospatial-Intelligence Agency (NGA).
+    original_excerpt: worked for the National Geospatial-Intelligence Agency (NGA)
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.566
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: ch32:869-925
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: b61036ef-78da-4966-9953-d63cb1cd578d
+    claim_hash: eeb945be75b222ab891cf538ecf45c10478cd8cc1d5a0a61f5fc3c2e93e9668d
+    content: David Grusch was the representative of the National Reconnaissance Office (NRO) and National Geospatial-Intelligence
+      Agency (NGA) on the Pentagon's UAP Task Force.
+    original_excerpt: He was those agencies' rep on the UAP Task Force
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+        title: Unidentified Aerial Phenomena Task Force (UAPTF)
+        slug: unidentified-aerial-phenomena-task-force-uaptf
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
+        title: David Charles Grusch
+        slug: david-charles-grusch
+    date: null
+    date_end: null
+    location_in_record: ch32:931-974
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 3bf8e55d-3cb7-4c40-b965-b0aa16bcc29a
+    claim_hash: b1ba0dc8a8dbe331424b2a3109e0168c1ea6b88cf0c02021151b7e8d5cba8ae4
+    content: The National Reconnaissance Office (NRO), Central Intelligence Agency (CIA), National Geospatial-Intelligence
+      Agency (NGA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA) appeared to hold important UAP
+      data that they were not sharing with each other.
+    original_excerpt: Meanwhile, the National Reconnaissance Office (NRO), the Central Intelligence Agency (CIA), the National
+      Geospatial-Intelligence Agency (NGA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA)
+      also appeared to have important UAP data they were not sharing.
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+      title: Christopher K. Mellon
+    provenance_chain:
+      origin_kind: speaker
+      origin: Christopher Mellon
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
+        title: National Security Agency (NSA)
+        slug: national-security-agency-nsa
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
+        title: National Geospatial-Intelligence Agency (NGA)
+        slug: national-geospatial-intelligence-agency-nga
+      - node_id: 97c6dfff-e58b-49b7-91c0-010e23dfc758
+        title: National Reconnaissance Office (NRO)
+        slug: national-reconnaissance-office-nro
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch6:17564-17844
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: fb6583a3-526a-4c47-bfa1-f0577c5ba4f2
     claim_hash: 6483dccea9c662242ba057ad45d55bf6354554ccf882948fee253ebacf542bc9
     content: David Grusch was, from November 2021 until April 2023, a Senior GEOINT Capabilities Requirements Officer with
@@ -779,6 +859,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -814,6 +899,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.686
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -852,6 +942,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.81
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a66c3ff-a277-4671-a7bc-49998ef2f0e6
         title: David Grusch's federal whistleblower complaint to the Intelligence Community Inspector General (ICIG)
@@ -879,21 +974,26 @@ claims:
       content_hash: sha256:ec3cbe4e4d742cfb59b787d25ae25a49843f009e4bcb8e5461e0014e6cd4e7e6
       friendly_name: 2025-03-27-web-rep-burlison-welcomes-former-u-s-air-force-officer-david
   - claim_id: b13eaf4c-af73-4282-86b4-ccab074f524c
-    claim_hash: 10d360470cc4f93ca7c0e0779d6eaf10be3002d3ed5c24816d074e8a0992d6b5
+    claim_hash: 637465efdaffca2310b07942f0ce2c98518b075d6e0f92617dad64a79a2e5358
     content: UAP Gerb states that the Immaculate Constellation data would be held in the National Geospatial-Intelligence
       Agency (NGA).
     original_excerpt: This data, of course, would be held in the National Geospatial Intelligence Agency.
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
         title: Immaculate Constellation
@@ -931,6 +1031,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)
@@ -968,6 +1073,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71b60ec7-f862-452e-9945-85fd0d32b4f1
         title: National Geospatial-Intelligence Agency (NGA)

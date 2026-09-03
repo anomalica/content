@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7efe9746506526d20b4b4a980fd26f1a3841f0963b77202dd2c69b39c249749a
+brief_hash: bd2f6d63b48a2e51ab694d251ba4ca995ecf7036c4eb554c3dbaad8770174c41
 page:
   kind: entity
   node_id: 814327af-44ac-4970-8062-f3802264a30f
@@ -9,11 +9,21 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 17
   tokens_estimated: 2588
   sized_against: 1050000
+entailment:
+  assessed: 17
+  unassessed: 0
+  entails: 3
+  neutral: 12
+  contradicts: 2
+  entailed_by_quote: 1
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.059
+  entailed_by_window_fraction: 0.118
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -65,7 +75,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 992f9cb0-522d-4823-a18c-6fd05d13b283
-    claim_hash: b77efdcc2c68a9ebe8d22f80f5303da864572577b01283cf0d68a1f0e5147247
+    claim_hash: 7990f3eba5dcc81d8c9bbfe02f0e775110986dff53533afb3c1a95fc87fd9532
     content: Charles Halt believes something was controlling what he saw during the 1980 Rendlesham Forest UAP incident, and
       described it as 'a bit scary'.
     original_excerpt: '''I just know that there was something somewhere that was controlling what I saw,'' Halt told me. ''It
@@ -81,6 +91,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -97,12 +112,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
-    claim_hash: 0c183aa00c3e27a956ffaf2787086abe82a7aff568a4f7c33682ab29d68f3b22
+    claim_hash: 67717442f1b7a48896d364be53a398452172195471cecefdb2b91730b78027d5
     content: The United States Air Force Office of Special Investigations (OSI) attacked the credibility of Charles Halt's
       sighting during the 1980 Rendlesham Forest UAP incident.
     original_excerpt: He said the US Air Force Office of Special Investigations (OSI) attacked the credibility of his sighting.
@@ -117,6 +132,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -136,12 +156,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 633a87cb-0e91-4a8e-96fd-1f90d870f184
-    claim_hash: 1c509ecd0d5b7c43ceaad9f9a90f4648e477de2d1dca281a6e77bf2e0610b14f
+    claim_hash: 6a64cd2aa1cdcb4d33ac03d69a5de58e9d470337caf032b9b31040b22fb76f39
     content: Charles Halt believes there is a cover-up regarding the 1980 Rendlesham Forest UAP incident.
     original_excerpt: '''I certainly believe there''s a cover-up,'' Halt said.'
     claim_type: opinion
@@ -155,6 +175,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -171,12 +196,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e89fc043-d879-4729-a6c9-4a7485993486
-    claim_hash: 21788a8644472742633fa16e4ce27aabdd5eaa754e6db41f6bbeb83643169d23
+    claim_hash: f1980a607421ee0890a81a2552be49386016747b1c1ae59fe478c40138c9bf66
     content: Charles Halt said the nearby lighthouse was easily visible and quite distinct, at least 30 degrees away from
       what he saw during the 1980 Rendlesham Forest UAP incident.
     original_excerpt: He said the nearby lighthouse was easily visible and quite distinct, at least 30 degrees away, from
@@ -192,6 +217,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -208,12 +238,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: c869e03b-01c8-4d9e-b714-7627028fabde
-    claim_hash: 89a925cae3c698914dc3bd9adfe31943a5efa9dc2359832ee46433ede5d82d37
+    claim_hash: 622e0b77904d96abde4678eda5d9a8cf9b369c38f1c64b4ed7c84cc0865d1dcb
     content: Two nights after the initial 1980 Rendlesham Forest UAP incident, US Air Force Colonel Charles Halt, deputy commander
       of the nearby RAF Bentwaters base, led a patrol back into the forest following another reported landing by an unidentified
       craft, and later wrote a detailed memorandum of what he saw.
@@ -231,6 +261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -253,7 +288,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -272,6 +307,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.897
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 814327af-44ac-4970-8062-f3802264a30f
         title: Charles Halt
@@ -288,12 +328,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: afee89be-47b5-4527-acf6-3bd414fff051
-    claim_hash: 8726cb70c8cda7a01a5844f5c54109f2892c302a41fa43cb722a49ea8710c5f1
+    claim_hash: 419d9757d843292891e6ca15cab89d948ebcfa9a0d331b0a31fe01a0dc980100
     content: Charles Halt witnessed a hovering UAP in Rendlesham Forest at close range and believed the vehicle was probably
       extra-terrestrial.
     original_excerpt: He told me he and his colleagues witnessed a hovering UAP in the forest at close-up range and he believed
@@ -309,6 +349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -328,12 +373,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 0cd61948-4a57-446f-97ad-1581d482eefa
-    claim_hash: 325f226764cb63c1314bb64d5f2e43421dafa98e10f840ad074f987f81ca1eff
+    claim_hash: ece633d44c2323e3c34eebf091d7445da20d2e2847339851ac4b3c181883aa49
     content: During the 1980 Rendlesham Forest UAP incident, Charles Halt made an audiotape of his live commentary describing
       the object as looking 'like an eye winking at you'.
     original_excerpt: he had the presence of mind to audiotape his dramatic live commentary of what he saw, including how
@@ -349,6 +394,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -365,12 +415,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a8584710-8026-459e-8000-8c55bfa4e7a0
-    claim_hash: b767a4c8c68db12fb69fe0af5c732e09aeaf7ffff8f8673fa74ebc288e02f27a
+    claim_hash: f35e68f0f0611eb8f57bace017a8a592cd5220a858e372f9a3c52d2a13fce000
     content: During the 1980 Rendlesham Forest UAP incident, Charles Halt and his patrol watched an object that had 'danced
       about in the forest' shed sparks that looked like molten metal, with a heavy field of static electricity in the air.
     original_excerpt: In a field, he and his patrol watched as the object, which had 'danced about in the forest', shed sparks
@@ -386,6 +436,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -402,12 +457,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 8d9ac7b8-2c0f-4f9a-be71-924afbbf03dc
-    claim_hash: a19a6ef371213d33fe979fb103367f1dc6333419ac57a90fd924ccd78f357c37
+    claim_hash: 82d9a069e46da8be5d6be2ac02335f0d3107ddc705e545bd491feea3e7e49052
     content: During the 1980 Rendlesham Forest UAP incident, the object shone beams of light into the nuclear weapons storage
       area on the RAF Bentwaters base.
     original_excerpt: Perhaps most disturbingly, it shone beams of light into the nuclear weapons storage area on the base.
@@ -422,6 +477,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -441,12 +501,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 0ddd5e7d-2ff6-4231-9224-074a03610205
-    claim_hash: c3bfec31f2a501dbfd6c80c0c2da0267ae70128b6d2152713efbc1d529a3c380
+    claim_hash: 9043af79a35d240f006a66412e2a595747320583c7af45fa08a1a1e4185a431c
     content: Charles Halt is adamant that the objects he saw during the 1980 Rendlesham Forest UAP incident were intelligently
       controlled and probably non-human in origin.
     original_excerpt: But, decades on, Halt is adamant that the objects he saw were intelligently controlled and probably
@@ -462,6 +522,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -478,12 +543,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 489957f8-1f1e-4661-8ba5-ae6a6b70ff8e
-    claim_hash: 140da055db2959f951aae0f2d66de9da1b96f487c09cae8756784e093da04711
+    claim_hash: 4438a644f836985ed6be35051791a08bf691fb226648435cd9f77e93f71b3416
     content: Charles Halt, the deputy base commander at RAF Woodbridge, led a patrol that witnessed what he describes as an
       'intelligently-controlled' object moving through Rendlesham Forest.
     original_excerpt: Lieutenant Colonel Charles Halt, the deputy base commander at RAF Woodridge who led a patrol that witnessed
@@ -499,6 +564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -521,7 +591,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -541,6 +611,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -582,6 +657,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -625,6 +705,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -669,6 +754,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -717,6 +807,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.825
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident

@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 695
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 4
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.4
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -74,6 +84,11 @@ claims:
         - Los Angeles Times
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b3ed18fc-8a8f-4826-8049-e40f5e78798f
         title: William Blair
@@ -115,6 +130,11 @@ claims:
         - Los Angeles Times
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64786265-c265-4e58-8c08-4409072cbf05
         title: Aliens Exist (Blink-182 song)
@@ -134,7 +154,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -155,6 +175,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
         title: Transformation (Whitley Strieber)
@@ -191,6 +216,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
         title: Transformation (Whitley Strieber)
@@ -230,6 +260,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e35ba86-6210-47c7-91f7-eb2dbfee762a
         title: Transformation (Whitley Strieber)

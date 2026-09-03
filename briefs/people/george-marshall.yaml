@@ -9,11 +9,21 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 3
   tokens_estimated: 416
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 1
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -54,6 +64,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
         title: George Marshall
@@ -89,6 +104,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.899
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
         title: George Marshall
@@ -128,6 +148,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
         title: George Marshall

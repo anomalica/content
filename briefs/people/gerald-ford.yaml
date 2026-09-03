@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4c72c924d24d42b6a158436e75f0956c769b535fd8e6bd59de6aacf2d7810ada
+brief_hash: a242fbc2be67dd9fc0de01747649ae7d5238aaf633cb2468b4502553af62a629
 page:
   kind: entity
   node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
@@ -9,11 +9,21 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 8
   tokens_estimated: 1060
   sized_against: 1050000
+entailment:
+  assessed: 8
+  unassessed: 0
+  entails: 7
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.625
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,20 +48,15 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+    title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     shared_claims: 1
   - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
     title: Barack Obama
     node_type: person
     slug: barack-obama
-    shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
     shared_claims: 1
   - node_id: 9162dd11-b0a1-4385-8a10-a9ba47b335a6
     title: J. Allen Hynek
@@ -73,9 +78,14 @@ related_nodes:
     node_type: place
     slug: district-of-columbia-washington-usa
     shared_claims: 1
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 1
 claims:
   - claim_id: a73959da-0e65-4531-939e-9c66d01d3055
-    claim_hash: 4536498d58aa8b80d4ab05d061081d93bb0a50e714e1762f14e30f05b08bcffb
+    claim_hash: 131aa6166cf1f3150ebf9ff2dc5e7af34b51796f49d646d1471b625226e5dd73
     content: Gerald Ford, then a local politician, demanded that full attention be given to what had become known as the Swamp
       Gas scandal, carrying the case to Washington, D.C.
     original_excerpt: Public reaction following the swamp gas statement carried the case to Washington, with help from a then
@@ -89,6 +99,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -96,9 +111,9 @@ claims:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
         slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: c12dc8dd-ffaf-43b3-ac27-048d0e85d081
+        title: 1966 Swamp Gas Unidentified Flying Object (UFO) sightings, Michigan
+        slug: michigan-1966-swamp-gas-unidentified-flying-object-ufo-sightings
     date: '1966'
     date_end: null
     location_in_record: ch10:9633-9852
@@ -125,6 +140,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -142,7 +162,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: c6ab16b0-aa08-4454-b0f9-2cc0f06f4b47
@@ -160,6 +180,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.561
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -182,7 +207,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -203,6 +228,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -216,7 +246,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -237,6 +267,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -253,7 +288,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -274,6 +309,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.835
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -290,7 +330,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -309,6 +349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
@@ -325,12 +370,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 8f999b2d-5a47-448f-9ce3-87f6e6d43145
-    claim_hash: 7373e8f62859fd4519f119d993adb982338c65dde8858d2c3cf2a588042557cb
+    claim_hash: 298e35136016a24a79b6d15c46c6a073c3a9e5ac74105f006588eca8fdf4b925
     content: Ross Coulthart considers it unacceptable that United States presidents Bill Clinton, Barack Obama, Gerald Ford
       and Jimmy Carter were not able to be briefed on Unidentified Flying Object information while serving as commander in
       chief.
@@ -348,13 +393,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3030c72b-534a-4ddb-88ec-c09f315b9d87
         title: Gerald Ford
         slug: gerald-ford
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
         slug: barack-obama
@@ -364,6 +411,9 @@ claims:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart

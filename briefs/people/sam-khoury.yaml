@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 13
   tokens_estimated: 1738
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 12
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 5
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.385
+  entailed_by_window_fraction: 0.538
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -64,6 +74,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -99,6 +114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.692
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -136,6 +156,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -169,6 +194,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -204,6 +234,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -239,6 +274,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -273,6 +313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -316,6 +361,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11a0b1ab-bd10-4402-a5fa-cba701150e29
         title: 1988 Peter Khoury bedroom hooded entity encounter
@@ -357,6 +407,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.792
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -394,6 +449,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -431,6 +491,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -467,6 +532,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.78
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury
@@ -508,6 +578,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 195fd1e4-acd8-4a72-ada1-ebd1f96e23e8
         title: Sam Khoury

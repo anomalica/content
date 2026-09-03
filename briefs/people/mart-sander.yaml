@@ -9,11 +9,21 @@ page:
   claim_count: 123
   claim_count_total: 123
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 123
   tokens_estimated: 16014
   sized_against: 1050000
+entailment:
+  assessed: 123
+  unassessed: 0
+  entails: 94
+  neutral: 14
+  contradicts: 15
+  entailed_by_quote: 13
+  entailed_by_window: 81
+  entailed_by_quote_fraction: 0.106
+  entailed_by_window_fraction: 0.659
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -68,6 +78,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -105,6 +120,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.449
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -138,6 +158,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -176,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -211,6 +241,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.569
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -243,6 +278,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs: []
     date: null
     date_end: null
@@ -274,6 +314,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -311,6 +356,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.902
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -349,6 +399,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -386,6 +441,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -421,6 +481,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -454,6 +519,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -488,6 +558,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -523,6 +598,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e0ff75da-2812-4de4-9284-a21061bc34ac
         title: 1969 discovery of the Merivalja object
@@ -560,6 +640,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.411
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -594,6 +679,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.525
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -630,6 +720,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.596
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0e88da37-922f-4c34-a2c0-cebc9f7e5bfc
         title: Becker shipyards
@@ -670,6 +765,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -710,6 +810,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -746,6 +851,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.673
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9ba9c3-a5a1-4285-94de-b3236b74d208
         title: 1980s Soviet excavation of the Merivalja object
@@ -781,6 +891,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -817,6 +932,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9ba9c3-a5a1-4285-94de-b3236b74d208
         title: 1980s Soviet excavation of the Merivalja object
@@ -855,6 +975,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.803
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -894,6 +1019,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.662
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -930,6 +1060,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.764
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -967,6 +1102,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1001,6 +1141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -1038,6 +1183,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -1076,6 +1226,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.778
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -1117,6 +1272,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -1152,6 +1312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e0ff75da-2812-4de4-9284-a21061bc34ac
         title: 1969 discovery of the Merivalja object
@@ -1189,6 +1354,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f3e12b-5a25-4acd-8eb9-7342e5264471
         title: Estonian Institute of Geology
@@ -1226,6 +1396,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.749
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f3e12b-5a25-4acd-8eb9-7342e5264471
         title: Estonian Institute of Geology
@@ -1263,6 +1438,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.682
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1298,6 +1478,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.931
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1332,6 +1517,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.539
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1367,6 +1557,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1399,6 +1594,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1434,6 +1634,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -1468,6 +1673,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.523
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -1507,6 +1717,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.875
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -1547,6 +1762,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -1584,6 +1804,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -1621,6 +1846,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1659,6 +1889,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.771
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -1700,6 +1935,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.699
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1733,6 +1973,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cdebfe58-4f56-4aed-81a8-3825728c5229
         title: 1561 Nuremberg celestial phenomenon
@@ -1770,6 +2015,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71f72964-f3a2-4d23-aac2-2e621e83c11e
         title: Estonia, Gulf of Finland
@@ -1808,6 +2058,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: aaad19c3-782d-4a16-8673-c06ad1f13014
         title: Estonia, Tallinn
@@ -1842,6 +2097,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -1881,6 +2141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4419b254-dc28-4667-bb6a-887a3aff0226
         title: 1561 Nuremberg celestial phenomenon woodcut
@@ -1914,6 +2179,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4419b254-dc28-4667-bb6a-887a3aff0226
         title: 1561 Nuremberg celestial phenomenon woodcut
@@ -1946,6 +2216,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -1983,6 +2258,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -2017,6 +2297,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 58e4cf08-7154-46d1-86df-65155a7aa3d4
         title: 1585 Vatican archive booklet on Estonian dragon sightings
@@ -2050,6 +2335,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.392
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 58e4cf08-7154-46d1-86df-65155a7aa3d4
         title: 1585 Vatican archive booklet on Estonian dragon sightings
@@ -2087,6 +2377,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f43bc58-3f7e-4dbc-b6bd-839c173ba37f
         title: Estonian Academy of Sciences
@@ -2124,6 +2419,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.389
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -2164,6 +2464,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -2203,6 +2508,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -2240,6 +2550,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -2274,6 +2589,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
         title: Telepathic contact with non-human objects
@@ -2313,6 +2633,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.512
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
         title: Telepathic contact with non-human objects
@@ -2350,6 +2675,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
         title: Telepathic contact with non-human objects
@@ -2389,6 +2719,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8325a820-54e8-41f1-8ee8-7e359ce0562e
         title: Linus Kordes
@@ -2427,6 +2762,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8325a820-54e8-41f1-8ee8-7e359ce0562e
         title: Linus Kordes
@@ -2465,6 +2805,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -2500,6 +2845,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -2538,6 +2888,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.583
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8325a820-54e8-41f1-8ee8-7e359ce0562e
         title: Linus Kordes
@@ -2573,6 +2928,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9ba9c3-a5a1-4285-94de-b3236b74d208
         title: 1980s Soviet excavation of the Merivalja object
@@ -2610,6 +2970,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.626
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9ba9c3-a5a1-4285-94de-b3236b74d208
         title: 1980s Soviet excavation of the Merivalja object
@@ -2645,6 +3010,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9ba9c3-a5a1-4285-94de-b3236b74d208
         title: 1980s Soviet excavation of the Merivalja object
@@ -2680,6 +3050,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -2714,6 +3089,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -2748,6 +3128,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.7
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -2782,6 +3167,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -2819,6 +3209,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -2852,6 +3247,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs: []
     date: null
     date_end: null
@@ -2882,6 +3282,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -2918,6 +3323,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e27e23da-63a4-4838-a952-333883df5fd0
         title: Igor Volker
@@ -2955,6 +3365,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
         title: 1985 reburial of the Merivalja shaft
@@ -2994,6 +3409,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.645
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -3031,6 +3451,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.653
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -3065,6 +3490,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.673
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3f6adfee-7367-4e0f-be48-397198e0e8f6
         title: Kaali crater
@@ -3101,6 +3531,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.623
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e62816e8-9be6-489d-8909-9a89ca8816f5
         title: Estonia, Saaremaa
@@ -3134,6 +3569,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.616
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3f6adfee-7367-4e0f-be48-397198e0e8f6
         title: Kaali crater
@@ -3167,6 +3607,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.722
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3f6adfee-7367-4e0f-be48-397198e0e8f6
         title: Kaali crater
@@ -3206,6 +3651,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b26f2dc8-8e95-4dad-94e6-485fb51a7556
         title: Anto Raukas
@@ -3241,6 +3691,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -3273,6 +3728,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.356
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b26f2dc8-8e95-4dad-94e6-485fb51a7556
         title: Anto Raukas
@@ -3310,6 +3770,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -3347,6 +3812,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.561
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -3381,6 +3851,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -3417,6 +3892,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -3450,6 +3930,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -3483,6 +3968,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
         title: 1985 reburial of the Merivalja shaft
@@ -3518,6 +4008,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -3554,6 +4049,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
         title: Vormsi Enn
@@ -3594,6 +4094,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
         title: Vormsi Enn
@@ -3633,6 +4138,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
         title: Vormsi Enn
@@ -3674,6 +4184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.602
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
         title: 1985 reburial of the Merivalja shaft
@@ -3711,6 +4226,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -3746,6 +4266,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -3780,6 +4305,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4275e483-211d-4044-bf02-a9bde770199b
         title: 1991 Japanese investigation of the Merivalja garden
@@ -3815,6 +4345,11 @@ claims:
         - told to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4275e483-211d-4044-bf02-a9bde770199b
         title: 1991 Japanese investigation of the Merivalja garden
@@ -3853,6 +4388,11 @@ claims:
         - reported to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4275e483-211d-4044-bf02-a9bde770199b
         title: 1991 Japanese investigation of the Merivalja garden
@@ -3890,6 +4430,11 @@ claims:
         - circulated as lore, relayed to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4275e483-211d-4044-bf02-a9bde770199b
         title: 1991 Japanese investigation of the Merivalja garden
@@ -3924,6 +4469,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.58
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -3959,6 +4509,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.571
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -3996,6 +4551,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.708
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -4032,6 +4592,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -4068,6 +4633,11 @@ claims:
         - reported to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.668
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -4105,6 +4675,11 @@ claims:
         - reported to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.574
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -4138,6 +4713,11 @@ claims:
         - reported to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -4171,6 +4751,11 @@ claims:
         - relayed to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98a42ee3-6876-4354-a6c2-8e3be231a4fa
         title: Vivika Eva
@@ -4205,6 +4790,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -4242,6 +4832,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -4279,6 +4874,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -4318,6 +4918,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -4354,6 +4959,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f750f72c-a0ff-40ef-a891-06a2b56286d9
         title: Merivälja object
@@ -4388,6 +4998,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -4425,6 +5040,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -4459,6 +5079,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 58e4cf08-7154-46d1-86df-65155a7aa3d4
         title: 1585 Vatican archive booklet on Estonian dragon sightings

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e4ce4d4be402ad165695716aec172064a5f90ac67ddaec7e8c9810415fcf69f8
+brief_hash: 18d5efec2f726a5599e8355b52e6d0f29e6cd9dccc96939d6db3a17f102283a7
 page:
   kind: entity
   node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
@@ -9,11 +9,21 @@ page:
   claim_count: 54
   claim_count_total: 54
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 54
   tokens_estimated: 9214
   sized_against: 1050000
+entailment:
+  assessed: 54
+  unassessed: 0
+  entails: 31
+  neutral: 23
+  contradicts: 0
+  entailed_by_quote: 9
+  entailed_by_window: 22
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.407
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -63,10 +73,10 @@ related_nodes:
     node_type: place
     slug: new-jersey-princeton-usa
     shared_claims: 2
-  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+  - node_id: d6394787-29e2-4208-b126-47abda22b414
+    title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
     node_type: event
-    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    slug: new-mexico-unidentified-flying-object-ufo-crash-1947-aztec
     shared_claims: 1
   - node_id: cf33763c-c118-4e3c-ae05-21ee0614943e
     title: Howard Menzel
@@ -159,6 +169,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.666
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -194,6 +209,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -229,6 +249,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 204c1263-8b3f-43f8-bf9b-7e8eea8588a6
         title: Law Among Planetary Peoples
@@ -269,6 +294,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -304,6 +334,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -339,6 +374,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -374,6 +414,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -408,6 +453,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -444,6 +494,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -477,6 +532,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
         title: USA, New Jersey, Princeton
@@ -513,6 +573,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -548,6 +613,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
         title: George Marshall
@@ -584,6 +654,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -620,6 +695,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.411
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -656,6 +736,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.413
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -691,6 +776,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -727,6 +817,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.407
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -768,6 +863,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -805,6 +905,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -842,6 +947,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -879,6 +989,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.412
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -914,6 +1029,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.398
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -951,6 +1071,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -988,6 +1113,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1024,6 +1154,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1061,6 +1196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1100,6 +1240,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1136,6 +1281,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1173,6 +1323,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1208,6 +1363,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1243,6 +1403,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.401
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1282,6 +1447,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1320,6 +1490,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1358,6 +1533,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1394,6 +1574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1429,6 +1614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1462,6 +1652,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1502,6 +1697,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.616
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1542,6 +1742,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1582,6 +1787,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1619,6 +1829,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1658,6 +1873,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.584
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1697,6 +1917,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.676
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d88d531-67ae-418c-824b-cb18c6fa867c
         title: Trinity nuclear test
@@ -1737,6 +1962,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 554dfab0-ba18-433c-b995-dcdeca6b8b42
         title: USA, New Mexico, Kirtland Field
@@ -1777,6 +2007,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1814,6 +2049,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1848,6 +2088,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1875,7 +2120,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 3686158e-b007-4c0c-af4b-23373b470d47
-    claim_hash: 7c2e36410f24f095b2ecb2b27e7949c68bf144425186cfd5440aa5bd772579c3
+    claim_hash: ae2b2be7cb501826f4e1b3ed61872b765e1ef5063441b254c1dbc5c475e5742a
     content: William Steinman's book The Crash at Aztec briefly mentions J. Robert Oppenheimer as tangentially related to
       the 1947 Aztec, New Mexico UFO crash and suggests he might have been part of a crash retrieval team.
     original_excerpt: the crash at aztec by steinman he does briefly mention oppenheimer being tangentially related to this
@@ -1892,10 +2137,12 @@ claims:
         - Chris Ramsey's narration
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
       - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
         title: William Steinman
         slug: william-steinman
@@ -1905,6 +2152,9 @@ claims:
       - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
         title: The Crash at Aztec (book by William Steinman)
         slug: the-crash-at-aztec-book-by-william-steinman
+      - node_id: d6394787-29e2-4208-b126-47abda22b414
+        title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
+        slug: new-mexico-unidentified-flying-object-ufo-crash-1947-aztec
     date: null
     date_end: null
     location_in_record: 00:15:04.1-00:15:14.6
@@ -1935,6 +2185,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -1974,6 +2229,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 54ea6105-8f02-4a20-8964-6c93564f2d82
         title: USA, New Jersey, Princeton
@@ -2015,6 +2275,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.899
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b39e286-453b-4bcf-a051-771c436feaf5
         title: George Marshall
@@ -2055,6 +2320,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -2099,6 +2369,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -2131,6 +2406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer

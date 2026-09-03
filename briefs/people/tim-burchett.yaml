@@ -1,29 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 58caccb604b8a0afe03f83b480c9b614439186474230ed03b638d1d8b533ee82
+brief_hash: db0a0bd596b1c1d9dc041a74e8cad0f05d7f691df6ce4e65c4473b0f12dad001
 page:
   kind: entity
   node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
   node_type: person
   title: Tim Burchett
   slug: tim-burchett
-  claim_count: 19
-  claim_count_total: 19
+  claim_count: 20
+  claim_count_total: 20
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 19
-  tokens_estimated: 2429
+  claims: 20
+  tokens_estimated: 2583
   sized_against: 1050000
 entailment:
-  assessed: 19
+  assessed: 20
   unassessed: 0
-  entails: 14
+  entails: 15
   neutral: 2
   contradicts: 3
   entailed_by_quote: 1
-  entailed_by_window: 13
-  entailed_by_quote_fraction: 0.053
-  entailed_by_window_fraction: 0.684
+  entailed_by_window: 14
+  entailed_by_quote_fraction: 0.05
+  entailed_by_window_fraction: 0.7
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -31,23 +31,23 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 19
+  unreviewed: 20
 related_nodes:
   - node_id: 1d228903-0bd7-401a-9902-2656e6e85650
     title: Anna Paulina Luna
     node_type: person
     slug: anna-paulina-luna
     shared_claims: 7
+  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+    title: Eric Burlison
+    node_type: person
+    slug: eric-burlison
+    shared_claims: 5
   - node_id: 6cf462e5-bd6f-4c8a-930a-0fe54c67ec28
     title: Matt Gaetz
     node_type: person
     slug: matt-gaetz
     shared_claims: 5
-  - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
-    title: Eric Burlison
-    node_type: person
-    slug: eric-burlison
-    shared_claims: 4
   - node_id: 4e3caa3f-a8a8-4d99-b17b-3bb42d5652e6
     title: House Hearing on Unidentified Anomalous Phenomena (2023-07-26)
     node_type: event
@@ -63,6 +63,11 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 3
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
+    shared_claims: 3
   - node_id: f813951c-0161-4bab-ad93-06d5511adf8b
     title: Alexandria Ocasio-Cortez
     node_type: person
@@ -77,11 +82,6 @@ related_nodes:
     title: Glenn Grothman
     node_type: person
     slug: glenn-grothman
-    shared_claims: 2
-  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
-    title: United States Congress
-    node_type: organisation
-    slug: united-states-congress
     shared_claims: 2
   - node_id: 55f35a8b-84bc-46d6-8b9b-f131810f7262
     title: 1st Marine Division
@@ -118,6 +118,11 @@ related_nodes:
     node_type: person
     slug: jamie-raskin
     shared_claims: 1
+  - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+    title: Jordan Flowers
+    node_type: person
+    slug: jordan-flowers
+    shared_claims: 1
   - node_id: 69fa2a03-b6bb-41c3-a745-dff92528671c
     title: Manhattan Project
     node_type: project
@@ -138,6 +143,11 @@ related_nodes:
     node_type: person
     slug: stephen-miller
     shared_claims: 1
+  - node_id: 77564a49-b54f-4ed3-a1e1-89f0c143e049
+    title: Steve Scalise
+    node_type: person
+    slug: steve-scalise
+    shared_claims: 1
   - node_id: a316cbb9-b90f-422a-9329-9be7414bda65
     title: USA, Tennessee, Oak Ridge
     node_type: place
@@ -157,6 +167,11 @@ related_nodes:
     title: United States Marine Corps (USMC)
     node_type: organisation
     slug: united-states-marine-corps-usmc
+    shared_claims: 1
+  - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+    title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+    node_type: event
+    slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
     shared_claims: 1
 claims:
   - claim_id: 771089ea-4d90-4e9c-979c-a78b450716cc
@@ -982,6 +997,61 @@ claims:
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 9eb3ae80-f42f-4d65-9150-ac211653c988
+    claim_hash: 88db04ec35cbd6a7e89ce79a694682381918f0c3cf27bf7d505febbf7ae0d7da
+    content: The December 2025 incident precipitated a classified briefing for members of United States Congress, including
+      House Majority Leader Steve Scalise and Representatives Eric Burlison and Tim Burchett.
+    original_excerpt: precipitated a classified briefing for members of Congress, including [House Majority Leader Steve]
+      Scalise and Representatives [Eric] Burlison and [Tim] Burchett.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 77564a49-b54f-4ed3-a1e1-89f0c143e049
+        title: Steve Scalise
+        slug: steve-scalise
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+        title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+    date: 2025-12
+    date_end: null
+    location_in_record: char:1554-1708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
+      friendly_name: null
   - claim_id: 7e837b4f-a5d6-4671-9c49-b4dbf3980b11
     claim_hash: f6ba8a1552cc91472bcf61f6d4f8c5964bb4d99ac3884eef0bdc2d4039319220
     content: Phil McGraw has discussed the Unidentified Aerial Phenomena (UAP) subject with Donald Trump, Stephen Miller,

@@ -1,29 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 797007b1753d295673faf3fd07d3099f9d13f327f9785c9dd6b10f0cd4d9ab8c
+brief_hash: f156390ad5444e095c81f9613c508852a2db22a3f113d1afad876bccf26ae8d4
 page:
   kind: entity
   node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
   node_type: organisation
   title: Federal Bureau of Investigation (FBI)
   slug: federal-bureau-of-investigation-fbi
-  claim_count: 55
-  claim_count_total: 55
+  claim_count: 57
+  claim_count_total: 57
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 55
-  tokens_estimated: 8341
+  claims: 57
+  tokens_estimated: 8598
   sized_against: 1050000
 entailment:
-  assessed: 55
+  assessed: 57
   unassessed: 0
-  entails: 44
+  entails: 46
   neutral: 10
   contradicts: 1
-  entailed_by_quote: 20
-  entailed_by_window: 24
-  entailed_by_quote_fraction: 0.364
-  entailed_by_window_fraction: 0.436
+  entailed_by_quote: 21
+  entailed_by_window: 25
+  entailed_by_quote_fraction: 0.368
+  entailed_by_window_fraction: 0.439
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -31,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 55
+  unreviewed: 57
 related_nodes:
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
@@ -103,6 +103,11 @@ related_nodes:
     node_type: organisation
     slug: office-of-naval-intelligence
     shared_claims: 2
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
     title: Remote viewing (RV)
     node_type: topic
@@ -127,6 +132,11 @@ related_nodes:
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
+    shared_claims: 2
+  - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+    title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+    node_type: event
+    slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
     shared_claims: 2
   - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
     title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -172,16 +182,6 @@ related_nodes:
     title: Bureau of Alcohol, Tobacco, and Firearms
     node_type: organisation
     slug: tobacco-and-firearms-bureau-of-alcohol
-    shared_claims: 1
-  - node_id: 0a1e7914-82e8-48f0-ae45-7a688df8b62f
-    title: Church Committee
-    node_type: organisation
-    slug: church-committee
-    shared_claims: 1
-  - node_id: fac2c1f9-2729-4cf3-aec9-bd07adf3bf06
-    title: Clarence Kelley
-    node_type: person
-    slug: clarence-kelley
     shared_claims: 1
 claims:
   - claim_id: a4804ba5-3583-4175-a6fc-3ed6853f0bd6
@@ -2252,6 +2252,97 @@ claims:
       record_date: '2026-06-30'
       record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 84b1b77a-2b64-4b16-87e9-af8621e04d5c
+    claim_hash: be94e20c2545887135a08628226aa0fd69805d563588d8b1524b622d682fe330
+    content: The December 2025 operation resulted in a Federal Bureau of Investigation (FBI) 302 interview and a personal
+      statement from a senior intelligence official at the Office of the Director of National Intelligence (ODNI).
+    original_excerpt: It resulted in an FBI 302 interview, as well as a personal statement from a senior intelligence official
+      at ODNI
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+        title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+    date: 2025-12
+    date_end: null
+    location_in_record: char:1436-1544
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
+      friendly_name: null
+  - claim_id: eff3fe1a-6daf-41e1-b383-69b8049cbfd3
+    claim_hash: 29db8ed67a4c35c6e7024e8f1fffeead82063e61a4f682ad84fbf7041406efea
+    content: The orb travelled approximately 32 kilometres and moved too quickly for the helicopter to keep up.
+    original_excerpt: According to the Department of War's summary of the FBI interview, the orb travelled for around 20 miles
+      and moved too quickly for the helicopter to keep up.
+    claim_type: measurement
+    attestation: third_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: USPER Statement about UAP Sighting
+      relay:
+        - Department of War
+        - Christopher Sharp
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+      - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+        title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
+    date: 2025-12
+    date_end: null
+    location_in_record: char:5838-5992
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
       friendly_name: null
   - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
     claim_hash: ca30a990dd1cf5a534fb91ca4b64b3c84561da2a3c8ff30b01a48391a9d4a488

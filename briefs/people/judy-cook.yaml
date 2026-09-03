@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 58980619d05e4cf4e151a50c2f4f8133b494bf8fc175e26ee8f54d95bf193061
+brief_hash: 3df5071154009f35b3562b50bfc4a30cd18bb680012c9b0d90d7700679e58b03
 page:
   kind: entity
   node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1033
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 8
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.556
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -49,168 +59,6 @@ related_nodes:
     slug: 2018-cloverly-station-cattle-mutilation
     shared_claims: 1
 claims:
-  - claim_id: 3530196a-e95e-432a-b1e8-8e7172ef5a25
-    claim_hash: 9149c51a27367e3a688d6bf2d0d3a379e66dbffe3c9ba27a5b3cc100f5d762c0
-    content: In September 2018, Mick and Judy Cook, a farming couple near Mackay in north Queensland, Australia, reported
-      finding a dead cow with its udder, an ear and its tongue cut out, and said the cuts were so clean they believed only
-      a high-tech robot or aliens could be responsible.
-    original_excerpt: In September 2018, Mick and Judy Cook, a farming couple near Mackay in north Queensland, Australia,
-      reported finding a dead cow with its udder, an ear and its tongue cut out and said the cuts were so clean, they believed
-      'only a high-tech robot or aliens could be responsible'.
-    claim_type: testimony
-    attestation: second_hand
-    speaker:
-      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
-      title: Mick Cook
-    provenance_chain:
-      origin_kind: named
-      origin: Mick and Judy Cook
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
-        title: Mick Cook
-        slug: mick-cook
-      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
-        title: Judy Cook
-        slug: judy-cook
-      - node_id: c798bdef-222e-4ba2-bfd4-13e2469c056b
-        title: Australia, Queensland, Mackay
-        slug: queensland-mackay-australia
-      - node_id: f8071e58-2814-4734-b283-f3aa5fd2dfa7
-        title: 2018 Cloverly Station cattle mutilation
-        slug: 2018-cloverly-station-cattle-mutilation
-    date: 2018-09
-    date_end: null
-    location_in_record: ch15:3866-4130
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 39dcf66c-d88e-4fbd-b8e6-05c3dce34716
-    claim_hash: a0ed63793939d4d8e283c18e05d70af542d06039fbce1ce799e63571c1821fab
-    content: Mick Cook and Judy Cook said they saw strange lights doing 'weird things' over Cloverly Station late at night.
-    original_excerpt: he volunteered that he and Judy had also seen strange lights doing 'weird things' over his station late
-      at night.
-    claim_type: observation
-    attestation: second_hand
-    speaker:
-      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
-      title: Mick Cook
-    provenance_chain:
-      origin_kind: named
-      origin: Mick Cook and Judy Cook
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
-        title: Mick Cook
-        slug: mick-cook
-      - node_id: 3a43f959-d3d1-4dbd-8871-b5a8522caa8e
-        title: Cloverly Station
-        slug: cloverly-station
-      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
-        title: Judy Cook
-        slug: judy-cook
-    date: null
-    date_end: null
-    location_in_record: ch15:4957-5064
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: c3a14318-4d78-405c-8e31-fa5b897cb467
-    claim_hash: c824580bd35405233e0b589c1e6bc7ef0c34aaaa91cb54b16378ceffd8112f9c
-    content: Mick and Judy Cook of Cloverly Station, north-west of Mackay in Queensland, Australia, have seen strange lights
-      over their farm.
-    original_excerpt: Mick and Judy Cook of Cloverly Station, north-west of Mackay in Queensland, Australia, have seen strange
-      lights over their farm and have lost at least 15 head of cattle, discovered with missing organs and surgical cuts.
-    claim_type: observation
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Mick Cook and Judy Cook
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
-        title: Mick Cook
-        slug: mick-cook
-      - node_id: 3a43f959-d3d1-4dbd-8871-b5a8522caa8e
-        title: Cloverly Station
-        slug: cloverly-station
-      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
-        title: Judy Cook
-        slug: judy-cook
-      - node_id: c798bdef-222e-4ba2-bfd4-13e2469c056b
-        title: Australia, Queensland, Mackay
-        slug: queensland-mackay-australia
-    date: null
-    date_end: null
-    location_in_record: ch37:6718-6932
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 6ea17c00-d78c-48e6-8989-97673da8816d
-    claim_hash: 6a4bae767bfe7cbaac558f71b5d706e0df801a8b365021824ce870368f597606
-    content: Mick and Judy Cook have lost at least 15 head of cattle at Cloverly Station, discovered with missing organs and
-      surgical cuts.
-    original_excerpt: have lost at least 15 head of cattle, discovered with missing organs and surgical cuts.
-    claim_type: observation
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Mick Cook and Judy Cook
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
-        title: Mick Cook
-        slug: mick-cook
-      - node_id: 3a43f959-d3d1-4dbd-8871-b5a8522caa8e
-        title: Cloverly Station
-        slug: cloverly-station
-      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
-        title: Judy Cook
-        slug: judy-cook
-    date: null
-    date_end: null
-    location_in_record: ch37:6850-6932
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 8c2c7053-dbfa-4d7f-b8ff-fa3e8210e2de
     claim_hash: 5687d0e11bfa62326a26b2d6eb85d42488734e8973c06761e06dadd2a30c9d68
     content: Mick Cook and Judy Cook run a 14,000-hectare cattle station in an isolated pocket of North Queensland.
@@ -224,6 +72,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
         title: Mick Cook
@@ -257,6 +110,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
         title: Mick Cook
@@ -292,6 +150,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
         title: Judy Cook
@@ -327,6 +190,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
         title: Mick Cook
@@ -365,6 +233,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
         title: Judy Cook
@@ -385,3 +258,185 @@ claims:
       record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 3530196a-e95e-432a-b1e8-8e7172ef5a25
+    claim_hash: 9149c51a27367e3a688d6bf2d0d3a379e66dbffe3c9ba27a5b3cc100f5d762c0
+    content: In September 2018, Mick and Judy Cook, a farming couple near Mackay in north Queensland, Australia, reported
+      finding a dead cow with its udder, an ear and its tongue cut out, and said the cuts were so clean they believed only
+      a high-tech robot or aliens could be responsible.
+    original_excerpt: In September 2018, Mick and Judy Cook, a farming couple near Mackay in north Queensland, Australia,
+      reported finding a dead cow with its udder, an ear and its tongue cut out and said the cuts were so clean, they believed
+      'only a high-tech robot or aliens could be responsible'.
+    claim_type: testimony
+    attestation: second_hand
+    speaker:
+      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+      title: Mick Cook
+    provenance_chain:
+      origin_kind: named
+      origin: Mick and Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+      - node_id: c798bdef-222e-4ba2-bfd4-13e2469c056b
+        title: Australia, Queensland, Mackay
+        slug: queensland-mackay-australia
+      - node_id: f8071e58-2814-4734-b283-f3aa5fd2dfa7
+        title: 2018 Cloverly Station cattle mutilation
+        slug: 2018-cloverly-station-cattle-mutilation
+    date: 2018-09
+    date_end: null
+    location_in_record: ch15:3866-4130
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 39dcf66c-d88e-4fbd-b8e6-05c3dce34716
+    claim_hash: a0ed63793939d4d8e283c18e05d70af542d06039fbce1ce799e63571c1821fab
+    content: Mick Cook and Judy Cook said they saw strange lights doing 'weird things' over Cloverly Station late at night.
+    original_excerpt: he volunteered that he and Judy had also seen strange lights doing 'weird things' over his station late
+      at night.
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+      title: Mick Cook
+    provenance_chain:
+      origin_kind: named
+      origin: Mick Cook and Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 3a43f959-d3d1-4dbd-8871-b5a8522caa8e
+        title: Cloverly Station
+        slug: cloverly-station
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+    date: null
+    date_end: null
+    location_in_record: ch15:4957-5064
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: c3a14318-4d78-405c-8e31-fa5b897cb467
+    claim_hash: c824580bd35405233e0b589c1e6bc7ef0c34aaaa91cb54b16378ceffd8112f9c
+    content: Mick and Judy Cook of Cloverly Station, north-west of Mackay in Queensland, Australia, have seen strange lights
+      over their farm.
+    original_excerpt: Mick and Judy Cook of Cloverly Station, north-west of Mackay in Queensland, Australia, have seen strange
+      lights over their farm and have lost at least 15 head of cattle, discovered with missing organs and surgical cuts.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Mick Cook and Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 3a43f959-d3d1-4dbd-8871-b5a8522caa8e
+        title: Cloverly Station
+        slug: cloverly-station
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+      - node_id: c798bdef-222e-4ba2-bfd4-13e2469c056b
+        title: Australia, Queensland, Mackay
+        slug: queensland-mackay-australia
+    date: null
+    date_end: null
+    location_in_record: ch37:6718-6932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6ea17c00-d78c-48e6-8989-97673da8816d
+    claim_hash: 6a4bae767bfe7cbaac558f71b5d706e0df801a8b365021824ce870368f597606
+    content: Mick and Judy Cook have lost at least 15 head of cattle at Cloverly Station, discovered with missing organs and
+      surgical cuts.
+    original_excerpt: have lost at least 15 head of cattle, discovered with missing organs and surgical cuts.
+    claim_type: observation
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Mick Cook and Judy Cook
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 1bbb9362-ef9b-4176-b2bf-3c2febf997aa
+        title: Mick Cook
+        slug: mick-cook
+      - node_id: 3a43f959-d3d1-4dbd-8871-b5a8522caa8e
+        title: Cloverly Station
+        slug: cloverly-station
+      - node_id: 3ad152ce-8517-4ea6-921f-b3fc1115a68b
+        title: Judy Cook
+        slug: judy-cook
+    date: null
+    date_end: null
+    location_in_record: ch37:6850-6932
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

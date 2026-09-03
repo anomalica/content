@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e1bd87e27f3331388790d38a3ed0a447ec219f549e7c8c81f86619b4fcefd689
+brief_hash: af6885dddf040bea56e6eb13c9ed9e489fc5fc44b5bd8d38df97010b6bd21988
 page:
   kind: entity
   node_id: e6ee4cde-c5f4-4f02-a164-a66ccdb5bb50
@@ -9,11 +9,21 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 11
   tokens_estimated: 1725
   sized_against: 1050000
+entailment:
+  assessed: 11
+  unassessed: 0
+  entails: 6
+  neutral: 4
+  contradicts: 1
+  entailed_by_quote: 4
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.364
+  entailed_by_window_fraction: 0.182
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -39,7 +49,7 @@ related_nodes:
     slug: northern-territory-mt-zeil-australia
     shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 2
@@ -136,6 +146,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -144,7 +159,7 @@ claims:
         title: Stanford Research Institute (SRI)
         slug: stanford-research-institute-sri
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 8a029ed9-27c5-403c-af49-2e11179910e4
         title: Ingo Swann
@@ -166,7 +181,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: 3e907b24-9c5a-4782-90b9-5a0f34231f7d
-    claim_hash: 7d198c0dda0a9a6552b27838bc2d8a73370a8eb6631a1d84f90314014b7ef5ee
+    claim_hash: 3aa0d1d453f7f310634c1254550d8873d934821a4b8291161bc59f8da8d13264
     content: In 1973, Pat Price, one of the leading psychics in the Stanford Research Institute's remote viewing programme,
       gave Hal Puthoff an unsolicited package containing his remote-viewing notes describing four alleged "UFO bases" on Earth.
     original_excerpt: In 1973 Pat Price, one of the “stars” of the Stanford Research Institute’s (SRI) genesis RV program,
@@ -183,6 +198,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.828
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34fa7ace-5c72-4a1c-80b6-01f654eefe00
         title: Stanford Research Institute (SRI)
@@ -210,7 +230,7 @@ claims:
       content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
       friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
   - claim_id: 1afcba14-41a3-4e0b-9a65-abe9851f645f
-    claim_hash: a60097a0538bd1ec46d054c1e1bc32f4b982b98611249312ea429e1edb15e3bb
+    claim_hash: e8bf3c5963011a2e53d51c005218adeac5e9d86b60e916c7bb65fb5a194661ff
     content: Hal Puthoff was uncertain what to make of Pat Price's remote-viewing notes but was confident of Price's remarkable
       psychic skills.
     original_excerpt: Puthoff didn’t know what to think, but he was sure of Price’s remarkable psychic skills.
@@ -225,6 +245,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -262,6 +287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71556af9-e202-4f6e-9978-a5c332cca743
         title: Australia, Northern Territory, Pine Gap
@@ -283,7 +313,7 @@ claims:
       content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
       friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
   - claim_id: cf93ff54-d6ea-4730-919f-db3ed81bf535
-    claim_hash: fa3c4ba6d1028ae705db802028efc2ee5c1e128469cd3695786b403affbf8326
+    claim_hash: 8c8d72e59359eedc5ff117ea566ece4f3752f55d637cc78f24e5645a9c6281aa
     content: Hal Puthoff was intrigued that Pat Price's remote-viewing location for the alleged Australian alien base was
       Mt. Zeil.
     original_excerpt: Puthoff was intrigued, as Price’s RV location of the alleged Australian “alien base” was Mt. Zeil!
@@ -298,6 +328,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
         title: Australia, Northern Territory, Mt. Zeil
@@ -339,6 +374,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.77
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 82998c55-df89-4fb9-882a-d2e2b1ebfe7a
         title: Ingo Swann's 1975-1977 remote viewing episodes
@@ -380,6 +420,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 91ceb7e1-3d73-4c48-a248-a14171c0e311
         title: Skip Atwater
@@ -417,6 +462,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2bdd3c76-4ff1-47a1-820f-ea0eea457ba0
         title: Australia, Northern Territory, Mt. Zeil
@@ -462,12 +512,17 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 412679c1-c7c7-4961-aba8-f7116fe8f695
         title: 1973 Pat Price remote-viewing of alleged "UFO bases" for Hal Puthoff
         slug: 1973-pat-price-remote-viewing-of-alleged-ufo-bases-for-hal-puthoff
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 8c455260-40f9-4940-82c4-fc9c44f44d19
         title: Spain, Pyrenees, Mt. Perdido
@@ -506,6 +561,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ee606a3-72d8-412a-8bdc-c6077bd02a4a
         title: National Security Agency (NSA)
@@ -525,7 +585,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -548,6 +608,11 @@ claims:
         - Julia Mossbridge
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
         title: Edwin C. May

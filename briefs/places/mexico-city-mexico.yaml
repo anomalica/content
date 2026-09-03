@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 506dc49185c8409b0bebba48a0851adb50b7585b55e115b5d36f213c31ced6cf
+brief_hash: 6fa772823d5dc9052ae79f3a50600f196e20f2366ee4b61a4f8429c584ab9fdc
 page:
   kind: entity
   node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
@@ -9,11 +9,21 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 12
   tokens_estimated: 1641
   sized_against: 1050000
+entailment:
+  assessed: 12
+  unassessed: 0
+  entails: 7
+  neutral: 4
+  contradicts: 1
+  entailed_by_quote: 4
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.25
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -83,7 +93,7 @@ related_nodes:
     node_type: place
     slug: garabandal-spain
     shared_claims: 1
-  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+  - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
     title: USA
     node_type: place
     slug: usa
@@ -119,6 +129,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -158,6 +173,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1afe4a43-ac33-4142-bc75-989df51a628b
         title: Nuño de Guzmán
@@ -193,6 +213,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -228,6 +253,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -265,6 +295,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.654
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -305,6 +340,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -340,6 +380,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -364,7 +409,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 07fee8ef-dc34-4330-83eb-4e24abd7045b
-    claim_hash: 0f4a2899cbf333730552d6118852c5017f020a7b524edb885f6ede7be58e3286
+    claim_hash: e35c903c18e4b28a5662f16a3402e79d4c459d6b1bfc939a2ce98049e8c8769d
     content: Michael Hesemann visited sites of Marian apparitions in Mexico, Italy, Austria, Hungary, Spain, Bosnia and Herzegovina,
       Germany, and the United States.
     original_excerpt: I'd visited the sights of other apparitions, in Mexico, Italy, Austria, Hungary, Spain, Bosnia, Germany,
@@ -380,13 +425,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
+        title: USA
+        slug: usa
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
         slug: mexico-city-mexico
-      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
-        title: USA
-        slug: usa
       - node_id: 34cbcce0-b88a-4057-8691-635f2902c481
         title: Italy, Rome
         slug: rome-italy
@@ -425,6 +475,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -462,6 +517,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -497,6 +557,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City
@@ -538,6 +603,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 25b252fa-d1d5-4e45-a936-75ee31fd1d62
         title: Mexico, Mexico City

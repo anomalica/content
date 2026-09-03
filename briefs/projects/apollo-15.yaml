@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8b77e1619e19402c293cc01d41cb7e059d0e979f2e72e3028ffa76ab2dc6a6a0
+brief_hash: c52ba2fa8af47727793388db9c3a76ff499eddbef2f0ad8104f3d7d9b43f92e4
 page:
   kind: entity
   node_id: f7c95e10-c632-4ab2-bd6c-19102858c5db
@@ -9,11 +9,21 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 16
   tokens_estimated: 2810
   sized_against: 1050000
+entailment:
+  assessed: 16
+  unassessed: 0
+  entails: 14
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 9
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.562
+  entailed_by_window_fraction: 0.312
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -132,6 +142,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
         title: Al Worden
@@ -169,6 +184,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -216,6 +236,11 @@ claims:
         - Apollo 15 official debriefing transcript
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 971a48fe-6eff-402a-bd73-42ec6730e389
         title: David Scott
@@ -259,6 +284,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2b630661-212a-4eaa-86bc-47b006cbaa02
         title: Falcon (Apollo 15 Lunar Module)
@@ -303,6 +333,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.534
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
         title: AS15-88-12013 (Apollo 15 photograph)
@@ -338,6 +373,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.404
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
         title: South Massif (Taurus-Littrow)
@@ -374,6 +414,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
         title: Apollo 17 landing site, Taurus-Littrow
@@ -416,6 +461,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
         title: AS15-88-12013 (Apollo 15 photograph)
@@ -455,6 +505,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.681
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9d743ff2-14e7-4d54-9cde-5d15273a05e4
         title: AS15-88-12013 (Apollo 15 photograph)
@@ -498,6 +553,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d3cbac97-e4da-4a45-b804-5839568e8bd8
         title: Sinus Medii
@@ -542,6 +602,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.895
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -584,6 +649,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc81c235-c101-46bc-9b60-0d618973886f
         title: Dark Mission (ebook)
@@ -626,6 +696,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -662,6 +737,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f7018be6-ae44-455b-9efd-caaa4b7d0b0a
         title: Al Worden
@@ -678,7 +758,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -701,6 +781,11 @@ claims:
         - The Spaceman
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3d253a20-16b2-43c8-94ef-87496dfe4ac3
         title: The Spaceman
@@ -720,12 +805,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 0e1070d7-8e0a-40a3-9e04-3cbcabe3dafc
-    claim_hash: 713f39e010a4f171d40a3dfbf14240814b946df9e7845cc43228b52104759acc
+    claim_hash: c6d133436a77315e4d473c4ead77bc2433e058152c65e6f83f3b6bb595149404
     content: Harrison Schmitt did not use the data card book to the extent he believes it was used on Apollo 15 and possibly
       on Apollo 16.
     original_excerpt: I did not use the data card book to the extent that I know it was used on 15 and maybe on 16.
@@ -740,6 +825,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16

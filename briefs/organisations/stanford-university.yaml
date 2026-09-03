@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 0665248d738b958f486815c838beb129d16678d047e38cf1e1e7c38f835491e7
+brief_hash: 8d042359509dc55fd830ba95aacba7caadcc195ae681bd1afb1468b2e170fcb3
 page:
   kind: entity
   node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
@@ -9,11 +9,21 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 17
   tokens_estimated: 2267
   sized_against: 1050000
+entailment:
+  assessed: 17
+  unassessed: 0
+  entails: 17
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 8
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.471
+  entailed_by_window_fraction: 0.529
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -115,7 +125,7 @@ related_nodes:
     slug: philip-zimbardo
     shared_claims: 1
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 1
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -225,6 +240,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -264,6 +284,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -303,6 +328,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -341,6 +371,44 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
+    claim_hash: dcb12b75fe518c7a52150b7e3ff4d1bcda6734814e5e6fde9fd4e8127d901cd1
+    content: Garry Nolan is a Professor in the Department of Pathology at Stanford University.
+    original_excerpt: Dr. Garry Nolan, a Professor in the Department of Pathology at Stanford University
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
+        title: Stanford University
+        slug: stanford-university
+      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
+        title: Garry Nolan
+        slug: garry-nolan
+    date: null
+    date_end: null
+    location_in_record: char:18165-18237
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
+      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+      record_date: '2023-06-05'
+      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
+      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
+      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
   - claim_id: 5b387560-94a6-415c-90da-39d5a2ea5377
     claim_hash: a0a0ef6224bcea676722b91fb83b50b9f8133bb86acda251f23b457543b0fee7
     content: By 1982, Florenze Mansmann held a doctorate in biomedical engineering and worked at Stanford University.
@@ -354,6 +422,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.862
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -370,7 +443,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -391,6 +464,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3b76da3b-df51-419d-bc15-d55fa86fbb8b
         title: Ubatuba object
@@ -417,43 +495,50 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 82b2198c-9671-459d-86f6-1b8c5136182b
-    claim_hash: dcb12b75fe518c7a52150b7e3ff4d1bcda6734814e5e6fde9fd4e8127d901cd1
-    content: Garry Nolan is a Professor in the Department of Pathology at Stanford University.
-    original_excerpt: Dr. Garry Nolan, a Professor in the Department of Pathology at Stanford University
+  - claim_id: 725407aa-339e-485b-a96d-db25bd0a0241
+    claim_hash: a19f872c8c98b48ff18e347d423ee70816a86ac1660e7ea6c4b4b1df4a52119e
+    content: Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP.
+    original_excerpt: Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin
+      of UFO/UAP.
     claim_type: administrative
-    attestation: null
+    attestation: second_hand
     speaker: null
     provenance_chain:
-      origin_kind: unattributed
-      origin: ''
+      origin_kind: document
+      origin: P.A. Sturrock et al., Physical Evidence Related to UFO Reports
       relay: []
-    attribution_mode: bare_ok
+    attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 53f1bad3-7662-41e0-b816-e0db2df51a94
+        title: Sturrock Panel
+        slug: sturrock-panel
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
         slug: stanford-university
-      - node_id: 7984df1a-3d2e-475c-b0c9-31c258f71855
-        title: Garry Nolan
-        slug: garry-nolan
-    date: null
+    date: '1998'
     date_end: null
-    location_in_record: char:18165-18237
+    location_in_record: char:72240-72356
     evidence:
       score: null
       independent_sources: 1
     provenance:
-      record_id: e790e3f8-b1a1-4ca3-893a-02d67f8815d7
-      record_title: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-      record_date: '2023-06-05'
-      record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
-      content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
-      friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: a204dd47-287c-48cb-b4a7-99a80528c391
     claim_hash: 14e26859e59c841d37f613a31027e1deb34f99ab5bed156d5e8341c1247b0a1a
     content: Harold Puthoff earned his PhD from Stanford University in 1967.
@@ -469,6 +554,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -485,7 +575,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -506,6 +596,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0527eb19-269f-4461-ab4c-54b4efb2fc90
         title: General Electric
@@ -534,7 +629,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -552,9 +647,14 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.525
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -574,7 +674,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -593,6 +693,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -618,7 +723,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -637,6 +742,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -653,7 +763,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -672,6 +782,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -691,7 +806,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -711,6 +826,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.522
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -733,7 +853,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -752,6 +872,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
         title: Stanford University
@@ -771,45 +896,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 725407aa-339e-485b-a96d-db25bd0a0241
-    claim_hash: a19f872c8c98b48ff18e347d423ee70816a86ac1660e7ea6c4b4b1df4a52119e
-    content: Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin of UFO/UAP.
-    original_excerpt: Stanford University's Sturrock Panel (1998) found no convincing evidence for the extraterrestrial origin
-      of UFO/UAP.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: P.A. Sturrock et al., Physical Evidence Related to UFO Reports
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 53f1bad3-7662-41e0-b816-e0db2df51a94
-        title: Sturrock Panel
-        slug: sturrock-panel
-      - node_id: 5c502145-40b9-4dbb-be65-24d903bbff01
-        title: Stanford University
-        slug: stanford-university
-    date: '1998'
-    date_end: null
-    location_in_record: char:72240-72356
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 8c6104a5-0220-4830-b57a-fb18031fcb76
     claim_hash: 63b45b6a5e83c0be67e9a279366f787df44bb38e157b6fd582aa373f868133bb
     content: Philip Zimbardo conducted the Stanford Prison Experiment at Stanford University.
@@ -825,6 +915,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02b3bdb6-239f-4254-b282-15841bdf1a9e
         title: Philip Zimbardo

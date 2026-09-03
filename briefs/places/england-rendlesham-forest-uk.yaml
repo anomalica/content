@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7a695dbc4cf32cd4779dd3e9dfcf770a7db7d193120c98cbc765aa61f25da630
+brief_hash: f948157fb7bdbfaf9e5ede14c9bac4f593597d7aacc2610977cf012bf21c4020
 page:
   kind: entity
   node_id: 7c8cf677-bd98-4fd7-9898-673c2b6115ab
@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1719
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 6
+  neutral: 2
+  contradicts: 2
+  entailed_by_quote: 3
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.3
+  entailed_by_window_fraction: 0.3
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -85,7 +95,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 2e55bf6c-6d57-47ff-8041-668ed1223926
-    claim_hash: 88ec48abc4f86251c05fa47c7ba8d60c06cd36ad0aad7ea079519208918a0585
+    claim_hash: 9f5df0950068f465d7dcac0018c13930b01a3e40c343d31054ebf902cbef8cd1
     content: The December 29, 1980 Huffman, Texas UFO incident occurred on the same day and at about the same hour as the
       December 1980 Rendlesham Forest incident in England.
     original_excerpt: (Oddly enough, this occurred on the same day and at about the same hour that a spectacular and controversial
@@ -101,6 +111,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.671
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -125,7 +140,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: 66f4e374-4358-4848-b051-b2059e92750b
-    claim_hash: b649308043c0394a0820b567f24d0e721223fd155111fdb87990f1dd7ac11cf0
+    claim_hash: fcc284aaa5757044828d8dbc44c5bf77e8136fa3cee584a9d6a828821ca54379
     content: During the 1980 Rendlesham Forest incident, United States military personnel who witnessed the event received
       radiation burns.
     original_excerpt: what is it, Rameshon Forest in England, the U.S. guys that saw stuff and actually got radiation burns.
@@ -140,6 +155,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.636
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -167,7 +187,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 95a6a639-6e27-484b-9278-08a422076163
-    claim_hash: 3ca3f5422341e1e6e15abdcfa4121b2695c4e4924ea00fc1b72225a27b55601b
+    claim_hash: be475ad96af2469053fa94a2e850d7d6eba8d9c7179c263f2d98970cddbc8f6d
     content: On a December morning in 1980, an American military patrol near RAF Woodbridge in Suffolk, England saw lights
       descending into the adjacent Rendlesham Forest.
     original_excerpt: On a December morning in 1980, an American military patrol near the British Royal Air Force base RAF
@@ -181,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -200,12 +225,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: afee89be-47b5-4527-acf6-3bd414fff051
-    claim_hash: 8726cb70c8cda7a01a5844f5c54109f2892c302a41fa43cb722a49ea8710c5f1
+    claim_hash: 419d9757d843292891e6ca15cab89d948ebcfa9a0d331b0a31fe01a0dc980100
     content: Charles Halt witnessed a hovering UAP in Rendlesham Forest at close range and believed the vehicle was probably
       extra-terrestrial.
     original_excerpt: He told me he and his colleagues witnessed a hovering UAP in the forest at close-up range and he believed
@@ -221,6 +246,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -240,12 +270,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d048e30a-67a1-4f6a-88d3-4a5c7611b25f
-    claim_hash: 0e9e74c0777d58eacfb0ecab0bbc9c71aa0c2b6a74548a42b28a3982a5470299
+    claim_hash: fe35841b3b4575dc04f5f80d1ff4471c7d06fb05f5da453839e8ec077204509b
     content: Jim Penniston and John Burroughs claimed they saw a craft land in Rendlesham Forest near the RAF Woodbridge base
       in Suffolk, England, on 1980-12-26.
     original_excerpt: Mr Penniston and Airman John Burroughs claimed they saw the craft land in Rendlesham Forest near the
@@ -259,6 +289,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.719
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -284,12 +319,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 489957f8-1f1e-4661-8ba5-ae6a6b70ff8e
-    claim_hash: 140da055db2959f951aae0f2d66de9da1b96f487c09cae8756784e093da04711
+    claim_hash: 4438a644f836985ed6be35051791a08bf691fb226648435cd9f77e93f71b3416
     content: Charles Halt, the deputy base commander at RAF Woodbridge, led a patrol that witnessed what he describes as an
       'intelligently-controlled' object moving through Rendlesham Forest.
     original_excerpt: Lieutenant Colonel Charles Halt, the deputy base commander at RAF Woodridge who led a patrol that witnessed
@@ -305,6 +340,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -327,12 +367,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3da0d335-124f-469d-bf79-216973759877
-    claim_hash: 3af20350c3d129807e683579f661cdceca1eeafc5f71878e0bde6683313cf020
+    claim_hash: 1e8860454883a50880a73a89ada213b019470d76c2d95e08b0cfa74fb2fd939b
     content: In 1980-12, Unidentified Aerial Phenomena (UAP) appeared over a joint UK-US military facility near Rendlesham
       Forest in Suffolk, England and hovered over an underground bunker where the two allies had secretly stockpiled nuclear
       weapons.
@@ -348,6 +388,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.71
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -364,12 +409,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
-    claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
+    claim_hash: 0b350f94fd8c33f3f4a9c97682fe6a4b84216c441ff2980e7578734cb7aff19e
     content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs and Jim Penniston found a landed
       Unidentified Aerial Phenomenon (UAP) in Rendlesham Forest near a joint UK-US military facility in Suffolk, England,
       where the two allies had stored nuclear weapons in a secret bunker.
@@ -385,6 +430,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -407,7 +457,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -428,6 +478,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 19a3601f-bc98-49bb-8d34-aa41b0e9f4bb
         title: Cold War
@@ -478,6 +533,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident

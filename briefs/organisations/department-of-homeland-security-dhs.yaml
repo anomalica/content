@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 49149e1fd79509b3c8645bbd86a62ac1fe16e0803912cde964e88b8215906f1c
+brief_hash: daf74691c6d50df9ff493cd52df614d41df65e5780756db4a8da7841f414414b
 page:
   kind: entity
   node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
@@ -9,11 +9,21 @@ page:
   claim_count: 28
   claim_count_total: 28
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 28
   tokens_estimated: 4577
   sized_against: 1050000
+entailment:
+  assessed: 28
+  unassessed: 0
+  entails: 27
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 9
+  entailed_by_window: 18
+  entailed_by_quote_fraction: 0.321
+  entailed_by_window_fraction: 0.643
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,15 +48,15 @@ related_nodes:
     node_type: organisation
     slug: united-states-department-of-defense-dod
     shared_claims: 4
+  - node_id: 88a34432-1625-42f4-b5f6-b68230ba3ee2
+    title: 2004 Aguadilla Puerto Rico Unidentified Aerial Phenomena (UAP) encounter
+    node_type: event
+    slug: 2004-aguadilla-puerto-rico-unidentified-aerial-phenomena-uap-encounter
+    shared_claims: 3
   - node_id: cc6d8585-d896-4fc3-b3a2-28d9a7d153ab
     title: Advanced Aerospace Weapon System Applications Program (AAWSAP)
     node_type: project
     slug: advanced-aerospace-weapon-system-applications-program-aawsap
-    shared_claims: 3
-  - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
-    title: Aguadilla Puerto Rico UAP Sighting
-    node_type: event
-    slug: aguadilla-puerto-rico-uap-sighting
     shared_claims: 3
   - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
     title: All-domain Anomaly Resolution Office (AARO)
@@ -157,6 +167,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.767
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -180,250 +195,6 @@ claims:
       record_reference: null
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
-  - claim_id: d058f296-0f9b-437d-aa6c-c3b05f621384
-    claim_hash: 473092dfd1e1491856d438b4b31ce58ba26485ccf7830e277d94e819b1da7738
-    content: A UAP was spotted near the airport in Aguadilla, Puerto Rico in 2004, and was quickly tracked by a helicopter
-      from the United States Department of Homeland Security (DHS).
-    original_excerpt: a bizarre sighting occurred in Aguadilla, Puerto Rico...A UAP was spotted near the airport and was quickly
-      tracked by a helicopter from the US Department of Homeland Security.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-        title: Department of Homeland Security (DHS)
-        slug: department-of-homeland-security-dhs
-      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
-        title: Puerto Rico, Aguadilla
-        slug: aguadilla-puerto-rico
-      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
-        title: Aguadilla Puerto Rico UAP Sighting
-        slug: aguadilla-puerto-rico-uap-sighting
-    date: '2004'
-    date_end: null
-    location_in_record: ch20:20405-20598
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
-    claim_hash: 5859defba381c184510e4cfebbd51a9ca1da3f7ca9fa907f1fc6c7ccfc077b69
-    content: The UAP observed near Aguadilla, Puerto Rico appeared to detect that it was being monitored by the pursuing United
-      States Department of Homeland Security (DHS) helicopter and then rapidly moved away.
-    original_excerpt: seemed to detect that it was being monitored by one of our helicopters. When it did, it zipped away.
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-        title: Department of Homeland Security (DHS)
-        slug: department-of-homeland-security-dhs
-      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
-        title: Aguadilla Puerto Rico UAP Sighting
-        slug: aguadilla-puerto-rico-uap-sighting
-    date: '2004'
-    date_end: null
-    location_in_record: ch20:20785-20880
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 34cce20e-1547-47e2-8b3e-5ff722ba5616
-    claim_hash: 7d03d52589b6474d9a5e38b4285aed06e7d619c88e83926526090266ae0580f7
-    content: Lue Elizondo deemed the United States Department of Homeland Security (DHS) video from Aguadilla, Puerto Rico
-      too sensitive to select for release because of its origin with a sister agency.
-    original_excerpt: I deemed the DHS video from Aguadilla, Puerto Rico, as too sensitive because of its origin, a sister
-      agency.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-        title: Department of Homeland Security (DHS)
-        slug: department-of-homeland-security-dhs
-      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
-        title: Puerto Rico, Aguadilla
-        slug: aguadilla-puerto-rico
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c4a49c72-2aa8-4f73-a639-4256a059dab7
-        title: Aguadilla Puerto Rico UAP Sighting
-        slug: aguadilla-puerto-rico-uap-sighting
-    date: null
-    date_end: null
-    location_in_record: ch27:3644-3745
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 86accb75-cf3c-4673-9547-5a1949c8bb5e
-    claim_hash: 6cb1c2d68785bbd2f2f6581378a757563a17b5bb1138e31dec2e2cd4c2b53c16
-    content: Even though the United States Department of Homeland Security (DHS) video from Aguadilla, Puerto Rico had already
-      leaked online, Lue Elizondo was not willing to confirm it was a US government video without the DHS agreeing to that
-      decision.
-    original_excerpt: Even if it was already leaked online, I wasn’t about to confirm it was indeed a US government video
-      without DHS agreeing to that decision.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-        title: Department of Homeland Security (DHS)
-        slug: department-of-homeland-security-dhs
-      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
-        title: Puerto Rico, Aguadilla
-        slug: aguadilla-puerto-rico
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-    date: null
-    date_end: null
-    location_in_record: ch27:3753-3882
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
-    claim_hash: 27a08d95bcb70c68cbb2eae7ccd2a8b110f419b7a4f7542e4fb217f466bd7110
-    content: Luis Elizondo worked for the Office of the Undersecretary of Defense for Intelligence (OUSD(I)), focused on an
-      information-sharing operation between the Department of Defense, the Department of Homeland Security, and state, local,
-      and tribal law enforcement authorities.
-    original_excerpt: While in that assignment, I worked for the Office of the Undersecretary of Defense for Intelligence
-      (OUSD(I)), focused on an information-sharing operation between the DoD, DHS, and state, local, and tribal law enforcement
-      authorities.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-        title: Department of Homeland Security (DHS)
-        slug: department-of-homeland-security-dhs
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: ch9:1326-1548
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
-    claim_hash: 6be2568de54525d44896806882ff59a2ac0b792c982ca6e221b8ded4a921367f
-    content: Luis Elizondo led classified investigations worldwide with partners including the Federal Bureau of Investigation
-      (FBI), the Central Intelligence Agency (CIA), and the United States Department of Homeland Security (DHS).
-    original_excerpt: I led classified investigations worldwide with partners that included the Federal Bureau of Investigation
-      (FBI), the Central Intelligence Agency (CIA), and the Department of Homeland Security (DHS).
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-      title: Luis Elizondo
-    provenance_chain:
-      origin_kind: speaker
-      origin: Lue Elizondo
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
-        title: Central Intelligence Agency (CIA)
-        slug: central-intelligence-agency-cia
-      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
-        title: Department of Homeland Security (DHS)
-        slug: department-of-homeland-security-dhs
-      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
-        title: Luis Elizondo
-        slug: luis-elizondo
-      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
-        title: Federal Bureau of Investigation (FBI)
-        slug: federal-bureau-of-investigation-fbi
-    date: null
-    date_end: null
-    location_in_record: ch9:719-912
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: c4e57e68-02ae-49d8-8d6d-bbe9c2f86f7b
     claim_hash: f74ca9b466b14fe96bdcad473c4b38e45c954f936ca73d8581254c16745f4e4b
     content: A Prospective Special Access Program (PSAP) was officially requested to stand up the KONA BLUE program.
@@ -438,6 +209,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -453,7 +229,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 73a81550-6f3a-4147-920f-6e725091bd2b
@@ -470,6 +246,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -485,7 +266,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 301b9782-909f-4ddb-ad87-88d685f1c097
@@ -503,6 +284,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -518,7 +304,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 8f0eb21b-58fe-4933-8c07-412536e2e523
@@ -536,6 +322,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.591
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -551,7 +342,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 2a867a89-5ae3-47e4-8844-4c2c06c4de9d
@@ -570,6 +361,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -588,7 +384,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: d34fdac7-a5f1-4875-bc75-4e1918c4a8fc
@@ -606,6 +402,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -621,7 +422,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 2f08c4b1-a303-478c-976d-c997c5a0f454
@@ -640,6 +441,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.507
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -658,7 +464,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 1e3a5df5-75b5-4809-aa29-a144e05eca67
@@ -676,6 +482,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -697,7 +508,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: d1763776-36ad-47a9-8b43-398f8243145f
@@ -717,6 +528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -750,7 +566,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 47e2758a-1ab3-41b5-bca9-466f3392e6f7
@@ -771,6 +587,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.919
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -798,7 +619,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 9fdfa9ac-03d5-457c-aa51-f5988d0b69ad
@@ -817,6 +638,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -835,7 +661,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 02441cd6-574f-4a54-b3a4-e2dbe99d3e1f
@@ -855,6 +681,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -882,25 +713,304 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: d058f296-0f9b-437d-aa6c-c3b05f621384
+    claim_hash: 4206c27b621f9dd2e3d65078fb9720b78c4210c449cf36099308a7db6f17f9d9
+    content: A UAP was spotted near the airport in Aguadilla, Puerto Rico in 2004, and was quickly tracked by a helicopter
+      from the United States Department of Homeland Security (DHS).
+    original_excerpt: a bizarre sighting occurred in Aguadilla, Puerto Rico...A UAP was spotted near the airport and was quickly
+      tracked by a helicopter from the US Department of Homeland Security.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.408
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+        title: Puerto Rico, Aguadilla
+        slug: aguadilla-puerto-rico
+      - node_id: 88a34432-1625-42f4-b5f6-b68230ba3ee2
+        title: 2004 Aguadilla Puerto Rico Unidentified Aerial Phenomena (UAP) encounter
+        slug: 2004-aguadilla-puerto-rico-unidentified-aerial-phenomena-uap-encounter
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20405-20598
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: c2048fb8-ff4a-408a-aaab-6b83fc0b0cb1
+    claim_hash: 989030a8cfa5ac3849786e456966e2f9307269a1992e930a0424cacf5f564e05
+    content: The UAP observed near Aguadilla, Puerto Rico appeared to detect that it was being monitored by the pursuing United
+      States Department of Homeland Security (DHS) helicopter and then rapidly moved away.
+    original_excerpt: seemed to detect that it was being monitored by one of our helicopters. When it did, it zipped away.
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.57
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 88a34432-1625-42f4-b5f6-b68230ba3ee2
+        title: 2004 Aguadilla Puerto Rico Unidentified Aerial Phenomena (UAP) encounter
+        slug: 2004-aguadilla-puerto-rico-unidentified-aerial-phenomena-uap-encounter
+    date: '2004'
+    date_end: null
+    location_in_record: ch20:20785-20880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 34cce20e-1547-47e2-8b3e-5ff722ba5616
+    claim_hash: 5d36650c6cadf150e76d6b2b0ab93c457059ab2b3bc3ae20386bb0df089f6e8c
+    content: Lue Elizondo deemed the United States Department of Homeland Security (DHS) video from Aguadilla, Puerto Rico
+      too sensitive to select for release because of its origin with a sister agency.
+    original_excerpt: I deemed the DHS video from Aguadilla, Puerto Rico, as too sensitive because of its origin, a sister
+      agency.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.585
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+        title: Puerto Rico, Aguadilla
+        slug: aguadilla-puerto-rico
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 88a34432-1625-42f4-b5f6-b68230ba3ee2
+        title: 2004 Aguadilla Puerto Rico Unidentified Aerial Phenomena (UAP) encounter
+        slug: 2004-aguadilla-puerto-rico-unidentified-aerial-phenomena-uap-encounter
+    date: null
+    date_end: null
+    location_in_record: ch27:3644-3745
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 86accb75-cf3c-4673-9547-5a1949c8bb5e
+    claim_hash: 6cb1c2d68785bbd2f2f6581378a757563a17b5bb1138e31dec2e2cd4c2b53c16
+    content: Even though the United States Department of Homeland Security (DHS) video from Aguadilla, Puerto Rico had already
+      leaked online, Lue Elizondo was not willing to confirm it was a US government video without the DHS agreeing to that
+      decision.
+    original_excerpt: Even if it was already leaked online, I wasn’t about to confirm it was indeed a US government video
+      without DHS agreeing to that decision.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 73fd6d5c-d2b8-46e1-bfb9-c21b9712e560
+        title: Puerto Rico, Aguadilla
+        slug: aguadilla-puerto-rico
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+    date: null
+    date_end: null
+    location_in_record: ch27:3753-3882
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 6a85d80d-06cd-475c-91c5-66490a3bd7a0
+    claim_hash: 27a08d95bcb70c68cbb2eae7ccd2a8b110f419b7a4f7542e4fb217f466bd7110
+    content: Luis Elizondo worked for the Office of the Undersecretary of Defense for Intelligence (OUSD(I)), focused on an
+      information-sharing operation between the Department of Defense, the Department of Homeland Security, and state, local,
+      and tribal law enforcement authorities.
+    original_excerpt: While in that assignment, I worked for the Office of the Undersecretary of Defense for Intelligence
+      (OUSD(I)), focused on an information-sharing operation between the DoD, DHS, and state, local, and tribal law enforcement
+      authorities.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: ch9:1326-1548
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
+  - claim_id: 4d1a24ed-c8be-4d09-a5fa-9dd24272674a
+    claim_hash: 6be2568de54525d44896806882ff59a2ac0b792c982ca6e221b8ded4a921367f
+    content: Luis Elizondo led classified investigations worldwide with partners including the Federal Bureau of Investigation
+      (FBI), the Central Intelligence Agency (CIA), and the United States Department of Homeland Security (DHS).
+    original_excerpt: I led classified investigations worldwide with partners that included the Federal Bureau of Investigation
+      (FBI), the Central Intelligence Agency (CIA), and the Department of Homeland Security (DHS).
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+      title: Luis Elizondo
+    provenance_chain:
+      origin_kind: speaker
+      origin: Lue Elizondo
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
+        title: Central Intelligence Agency (CIA)
+        slug: central-intelligence-agency-cia
+      - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
+        title: Department of Homeland Security (DHS)
+        slug: department-of-homeland-security-dhs
+      - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
+        title: Luis Elizondo
+        slug: luis-elizondo
+      - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
+        title: Federal Bureau of Investigation (FBI)
+        slug: federal-bureau-of-investigation-fbi
+    date: null
+    date_end: null
+    location_in_record: ch9:719-912
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 9f3c6f9b-31b6-412b-bf81-fe4a32b3165c
-    claim_hash: 651d514a15a33f2701e499aebbf8d2e6a7b0783e409db88fdcfc978f28a3c7c0
+    claim_hash: ab73d025dc0a55488510fd442eafc4e3104dbdbc82767bc5db166f8402d50fc2
     content: Kona Blue was a Department of Homeland Security Prospective Special Access Program (SAP) material transfer effort.
     original_excerpt: You're talking about the Kona Blue, Department of Homeland Security Prospective Special Access Material
       Transfer, correct?
     claim_type: administrative
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.716
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -936,6 +1046,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.392
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -970,6 +1085,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -1004,6 +1124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -1039,6 +1164,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -1075,6 +1205,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.741
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -1111,6 +1246,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -1147,6 +1287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)
@@ -1186,6 +1331,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 502c7c1d-c898-4ec2-998e-4954e00b6437
         title: Department of Homeland Security (DHS)

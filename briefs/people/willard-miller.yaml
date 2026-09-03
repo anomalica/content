@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 939794cf7d16bea6d12e88b2b32286786695494e144fa8b6e06fa0380a46b6f5
+brief_hash: 39d87cf4d3b5b72a62c01e018e3a7b991f7dd3f7a8368ed71142b95d1ff93ba0
 page:
   kind: entity
   node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
@@ -9,11 +9,21 @@ page:
   claim_count: 47
   claim_count_total: 47
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 47
   tokens_estimated: 7152
   sized_against: 1050000
+entailment:
+  assessed: 47
+  unassessed: 0
+  entails: 32
+  neutral: 10
+  contradicts: 5
+  entailed_by_quote: 16
+  entailed_by_window: 16
+  entailed_by_quote_fraction: 0.34
+  entailed_by_window_fraction: 0.34
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,16 +48,16 @@ related_nodes:
     node_type: person
     slug: eric-davis
     shared_claims: 9
+  - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+    title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+    node_type: event
+    slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
+    shared_claims: 6
   - node_id: 59476464-a679-46ce-9247-b0adcb287762
     title: Edgar Mitchell
     node_type: person
     slug: edgar-mitchell
     shared_claims: 6
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 5
   - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
     title: Defense Intelligence Agency (DIA)
     node_type: organisation
@@ -83,11 +93,6 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 3
-  - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-    title: 1997 Pentagon UAP Briefing
-    node_type: event
-    slug: 1997-pentagon-uap-briefing
-    shared_claims: 2
   - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
     title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
     node_type: event
@@ -148,6 +153,11 @@ related_nodes:
     node_type: document
     slug: 2002-04-25-will-miller-letter-to-eric-davis
     shared_claims: 2
+  - node_id: b55296f0-f4ba-4dfd-90f4-a0152f15ab1f
+    title: 1998 Defense Intelligence Agency Unidentified Aerial Phenomena (UAP) briefing
+    node_type: event
+    slug: 1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing
+    shared_claims: 1
   - node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
     title: Alien Reproduction Vehicle (ARV)
     node_type: topic
@@ -192,6 +202,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -244,6 +259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.653
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -284,6 +304,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.851
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
         title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
@@ -323,7 +348,7 @@ claims:
       content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
       friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
   - claim_id: fc4bd834-e0b6-4596-b0df-d2d4f30718d7
-    claim_hash: 2d20148feed9e523a3577c74d30798bd4d62f8fecd893d3d2d83fcdef87ca7fb
+    claim_hash: 878ea2aeffb17c8585d391f97f5451723bc494c6400891a76de9aa115d898fe7
     content: After the April 1997 Pentagon briefing group broke up, Will Miller and Thomas Wilson talked privately for two
       hours about UFOs, Majestic 12 (MJ-12), the 1947 Roswell UFO incident, and crashed UFOs and alien bodies.
     original_excerpt: After group broke up, Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien
@@ -339,6 +364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
         title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
@@ -385,6 +415,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -422,6 +457,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -461,6 +501,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -496,6 +541,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9177f5-6f60-4cf2-90b4-9e5da21fac0c
         title: Will Miller letter to Eric Davis, 2002-04-25
@@ -536,6 +586,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29ad02b7-4634-48bc-acf6-6b81b6a281e3
         title: USA, Virginia, The Pentagon
@@ -574,6 +629,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -611,6 +671,11 @@ claims:
         - Eric W. Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -659,6 +724,11 @@ claims:
         - Will Miller
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -703,6 +773,11 @@ claims:
         - Will Miller
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -744,6 +819,11 @@ claims:
         - Will Miller
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -783,6 +863,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -822,6 +907,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -859,6 +949,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9177f5-6f60-4cf2-90b4-9e5da21fac0c
         title: Will Miller letter to Eric Davis, 2002-04-25
@@ -902,6 +997,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2bc5c3bd-ce9e-481d-9e00-e42ab1aabf65
         title: Bob Beckwith
@@ -950,6 +1050,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.778
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0cdcbe39-4079-4d7b-bbe3-90e73ffc9b15
         title: National High Magnetic Field Laboratory
@@ -990,6 +1095,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.658
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a3063a2-fb89-4eaf-8879-8c7c5ba6c7de
         title: UFO crash retrieval
@@ -1033,6 +1143,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -1074,6 +1189,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
@@ -1110,6 +1230,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
@@ -1146,6 +1271,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
@@ -1183,6 +1313,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: af72e20b-8fd0-4015-b443-c6da1bae5065
         title: Alien Reproduction Vehicle (ARV)
@@ -1226,6 +1361,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -1265,6 +1405,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
@@ -1300,6 +1445,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06f38038-9b38-40df-8eac-d934fdc6c7b9
         title: Joe Zucharro
@@ -1342,6 +1492,11 @@ claims:
         - Oke Shannon's argument relayed by Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -1383,6 +1538,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1421,6 +1581,11 @@ claims:
         - Oke Shannon's account to Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3580245f-d79a-4e23-b30b-6fc886266a36
         title: Oke Shannon
@@ -1464,6 +1629,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -1502,6 +1672,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1542,6 +1717,11 @@ claims:
         - Edgar D. Mitchell's account to Eric W. Davis
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
@@ -1582,6 +1762,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1627,6 +1812,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -1655,12 +1845,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d09d1a48-1cf6-4b76-b20f-2782eefe340a
-    claim_hash: 008e7c12fa6245dc285e69ec7b574dcb16f60ccca155c87053af52c4cd418ecf
+    claim_hash: c22ca618389340fe13ca0832705b7916e0862f66c554a4c69aeb87bab712c42a
     content: Steven Greer, Willard Miller and Edgar Mitchell presented Admiral Thomas Wilson with what they were convinced
       was strong witness evidence to support their belief that the US government was covering up alien visitations to Earth,
       recovered spacecraft and alien bodies, and technological breakthroughs derived from those discoveries.
@@ -1677,16 +1867,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -1702,12 +1897,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ade03666-fb02-471b-91e5-44b987726c58
-    claim_hash: b8da72d4b86567e3ef7d818e629017fb261c8ba539a5dbaf26e844872c7dc9e7
+    claim_hash: 032abfe5527ad0fee6c1c0855539ff8ad0ae45b6663978659b14c81c1fa8b7e7
     content: Retired Navy Commander Willard Miller supported Steven Greer's account of Admiral Thomas Wilson's frustration
       at the April 1997 Pentagon briefing.
     original_excerpt: Retired Navy Commander Willard Miller also supported Greer's account of Admiral Wilson's frustration.
@@ -1722,13 +1917,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-        title: 1997 Pentagon UAP Briefing
-        slug: 1997-pentagon-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -1744,12 +1944,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 029cf75f-82ce-49d6-a5ab-6143ef4334fa
-    claim_hash: ef381c864fa85dbdf8715ebbfb05f8fcb60c0a6561425efc3d4425e01953761d
+    claim_hash: c892d88ab25e554ee01eac8d74eb0f9821670ba47f7737ea513e4a9537b9b8c4
     content: Willard Miller claimed that just before they left the April 1997 meeting, an aide to Admiral Thomas Wilson made
       the admission that the UAP conspiracy theory called Majestic MJ-12 was actually real.
     original_excerpt: He even claimed that, just before they left the meeting, an aide to the admiral made the extraordinary
@@ -1765,6 +1965,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1772,6 +1977,9 @@ claims:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
         slug: willard-miller
@@ -1784,12 +1992,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
-    claim_hash: 43728ccd07a1c16572a00ca8edf9d7c5c0a7afc421aa0505f1c0d439eb22236e
+    claim_hash: 878ced32e3d46a5e75b20f2ded8fdd3a1d4c54dafe6d2060daede44dceec8943
     content: In 1998, Steven Greer was invited back to the Defense Intelligence Agency, again with Commander Willard Miller,
       to brief the then Director, Admiral Thomas Wilson's immediate superior, Lieutenant General Patrick Hughes, on UFOs.
     original_excerpt: It is to Greer's credit, for example, that he was invited back in 1998 to the Defence Intelligence Agency,
@@ -1804,6 +2012,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.624
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -1814,9 +2027,9 @@ claims:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b55296f0-f4ba-4dfd-90f4-a0152f15ab1f
+        title: 1998 Defense Intelligence Agency Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -1832,12 +2045,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-    claim_hash: aff2804c7aa4205ec689b0102c98a09f3667f43befe1045ccaba9b3d1c355ad1
+    claim_hash: 7d0853d26c840a60cbad1d5e28f8725c3e3f07dbbc4f300fbbe41df78168b47a
     content: Admiral Tom Wilson's Defense Intelligence Agency boss, General Patrick Hughes, invited Steven Greer and Willard
       Miller back to talk about UAPs months after the April 1997 Pentagon meeting.
     original_excerpt: it begs the question why Wilson’s Defence Intelligence Agency boss General Patrick Hughes invited Greer
@@ -1851,16 +2064,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
         slug: patrick-hughes
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
         slug: defense-intelligence-agency-dia
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -1876,12 +2094,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 105688f2-9437-443c-8f5f-5666f6d5996e
-    claim_hash: 220fad5f40fda385ab137f0124d0b5fe23f64031212f86b694dc985224011759
+    claim_hash: 97e9e42d0ab8d244c6852f4c5fb2365c2e4c9209842f98efde2f98e3617f5e5d
     content: Shari Adamiak, Steven Lovekin, Edgar Mitchell and Willard Miller backed Steven Greer's account of the 1997 Pentagon
       meeting.
     original_excerpt: Multiple witnesses at this meeting – Shari Adamiak, Stephen Lovekin, astronaut Edgar Mitchell and Commander
@@ -1895,19 +2113,24 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11432bdc-8b19-431e-8a9c-dd49bd3b3d52
         title: Shari Adamiak
         slug: shari-adamiak
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 885a50ed-1c16-4c97-aa8a-5fad14b157aa
         title: Steven Lovekin
         slug: steven-lovekin
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -1923,12 +2146,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: bde442ba-8fc2-4571-b187-9f9bfa4db840
-    claim_hash: 3c46d7c036230245dae557855729920832ee7f20c3825bf51811a5da93663438
+    claim_hash: 8b97b9482b02820b21539edbb3d1f2b6bd2a5ff6c04fe6d3c2f7c40d6051d66b
     content: Recently retired US Naval Reserve Lieutenant Commander Willard Miller, another attendee of the April 1997 Pentagon
       briefing, served on the operations staff of the US Atlantic Command and at NORAD Space Command with Top Secret security
       clearances.
@@ -1943,16 +2166,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
         slug: north-american-aerospace-defense-command-norad
       - node_id: 7c8f095b-bb35-4459-b507-0289a699ce98
         title: United States Atlantic Command
         slug: united-states-atlantic-command
-      - node_id: dd426c79-15b3-4b5f-8cfc-755ad2cb1b7b
-        title: 1997 Pentagon UAP Briefing
-        slug: 1997-pentagon-uap-briefing
       - node_id: e7dc0f35-9655-4dd6-8eee-f3a8618879d8
         title: Willard Miller
         slug: willard-miller
@@ -1965,7 +2193,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1982,6 +2210,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -1998,7 +2231,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2017,6 +2250,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -2039,7 +2277,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -2060,6 +2298,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
@@ -2082,12 +2325,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3428b898-7fe7-4880-94d3-ddc3656646a9
-    claim_hash: 48d3657488f5d15e365c287c1dcf62ca180f06130ea9d39482a4cee41e072893
+    claim_hash: 699837a62a87aec055dc3515553bb4e10834ff5d671abf50d3cbbb45ab636430
     content: The Admiral Wilson memorandum, on its face, supports what Steven Greer, Edgar Mitchell, Willard Miller, Steven
       Lovekin and Shari Adamiak each said they were told by Tom Wilson at their April 1997 Pentagon meeting about a supposed
       UAP cover-up.
@@ -2103,10 +2346,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.523
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11432bdc-8b19-431e-8a9c-dd49bd3b3d52
         title: Shari Adamiak
         slug: shari-adamiak
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 4b92db24-6fcf-4867-bcbf-897b0806de8c
         title: The Admiral Wilson Memo
         slug: the-admiral-wilson-memo
@@ -2119,9 +2370,6 @@ claims:
       - node_id: 885a50ed-1c16-4c97-aa8a-5fad14b157aa
         title: Steven Lovekin
         slug: steven-lovekin
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -2137,7 +2385,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

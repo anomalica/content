@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 882
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.667
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -135,6 +145,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
         title: Carrier Air Wing 11 (CVW-11)
@@ -158,7 +173,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 0759a3fc-a4c0-4b33-944a-23706f1a680f
@@ -176,6 +191,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
         title: Carrier Air Wing 11 (CVW-11)
@@ -196,7 +216,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 8966dfc1-6de1-4082-96cb-adea9e6b24c4
@@ -212,6 +232,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 55a1da38-fcd1-4e55-b32b-0782c6391461
         title: Carrier Air Wing 11 (CVW-11)
@@ -229,7 +254,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: a8c5e314-ee6a-40f1-8e67-82b965f2030b
@@ -250,6 +275,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.649
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00525b7a-3ae7-44d8-a86a-0b98d1489142
         title: Carrier Airborne Early Warning Squadron 117 (VAW-117)
@@ -309,7 +339,7 @@ claims:
       record_id: 6fd747e8-2a37-40aa-bdb9-bd6048548d63
       record_title: Nimitz Carrier Strike Group (CSG-11) AAV Incident Report
       record_date: '2004-11-14'
-      record_reference: null
+      record_reference: https://s3.documentcloud.org/documents/20743466/nimitz-unredacted.pdf
       content_hash: sha256:6bb4895e7b5f6da34c108d391c382f3c105d89f7d4f653f7c5ea117f8006dec2
       friendly_name: 2004-11-14-pdf-nimitz-carrier-strike-group-csg-11-aav-incident-report
   - claim_id: 8c4b69a1-fc84-40ef-bfa1-60095f10033e
@@ -327,6 +357,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)
@@ -347,7 +382,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: da07893d-2eb0-4db3-a426-f2e4842f3b2d
@@ -366,6 +401,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.694
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e0e4846-4a0f-42ed-b6c1-a39ea2ecbae2
         title: Strike Fighter Squadron 41 (VFA-41)

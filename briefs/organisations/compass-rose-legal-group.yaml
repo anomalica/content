@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 56d9876d787e085f95e645f0fba3d7b5ffea2911a0ad2c12f56aaed0cd47b293
+brief_hash: 0b3a688702bd6252195bff374291c667918dd9a754522c54c60b85562062718d
 page:
   kind: entity
   node_id: cd25b06d-f567-45e1-b334-8f800f104c07
@@ -9,11 +9,21 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 3
   tokens_estimated: 475
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 3
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.667
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -55,7 +65,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: e4107499-d164-4fa0-a043-ea16d5b4a3c1
-    claim_hash: 1147820e89222d19dacd0e2d64f952bdeb049a22422e443ffa83944dcf79c0db
+    claim_hash: e71c49e7e6912e7b14fc95401b43a114114d16ffee8662261abf7b191de2110e
     content: David Charles Grusch is represented by Charles McCullough III, senior partner of the Compass Rose Legal Group
       in Washington, D.C.
     original_excerpt: Grusch is represented by Charles McCullough III, senior partner of the Compass Rose Legal Group in Washington
@@ -68,6 +78,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -113,6 +128,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.413
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fbfaa2f-1f52-4a63-aa1f-d2c746e8deef
         title: Compass Rose press release (2023-06-09)
@@ -156,6 +176,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.625
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9cf86840-6170-4683-be91-e7d12016f16c
         title: David Grusch 2022 whistleblower complaint to the Intelligence Community Inspector General

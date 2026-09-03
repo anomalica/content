@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: b563561339778a1cde67e36107f564bb620d5a14d664193cfa279c1202ee0da7
+brief_hash: b10b3567f966e99044927bb79632576493dfcd45168fc13b2eb23b53fae4e3b3
 page:
   kind: entity
   node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
@@ -9,11 +9,21 @@ page:
   claim_count: 109
   claim_count_total: 109
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 109
   tokens_estimated: 16029
   sized_against: 1050000
+entailment:
+  assessed: 109
+  unassessed: 0
+  entails: 93
+  neutral: 15
+  contradicts: 1
+  entailed_by_quote: 27
+  entailed_by_window: 66
+  entailed_by_quote_fraction: 0.248
+  entailed_by_window_fraction: 0.606
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -128,11 +138,6 @@ related_nodes:
     node_type: object
     slug: the-turkey-shorty-crater-debris
     shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: 9cf922ea-4083-47ac-ae1a-51db2f6cc0a7
     title: Arden Albee
     node_type: person
@@ -173,6 +178,11 @@ related_nodes:
     node_type: object
     slug: eagle-apollo-11-lunar-module
     shared_claims: 1
+  - node_id: 242f3cc4-6031-41b3-888d-91639576f420
+    title: Enterprise Mission
+    node_type: organisation
+    slug: enterprise-mission
+    shared_claims: 1
 claims:
   - claim_id: a73d12e0-57b8-40f2-bc0e-db164a6f707c
     claim_hash: 85103869f86c9d79cc676d713fd27b1f3e0b555718f4c050c496eb90a44fd0c9
@@ -191,6 +201,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.648
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -215,7 +230,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 25801136-c5a8-4718-a94d-d846d029fc93
-    claim_hash: 03d528adc346b212f926578d2d26101b101bc0723248f6a1f845d203f40051c5
+    claim_hash: 9c46f0363903dab0cf89bc7ce4b33c881adcd7162c89b543d340812b5b639091
     content: A grayscale version of a false-colour enhancement of the Cleomedes F and Cleomedes F-a 'domes' shows two distinct
       edges of the major foreground dome, with a steeper-angled background dome visible through it.
     original_excerpt: Fig. 4-31 - Grayscale version of false-color enhancement of Cleomedes F and Cleomedes Fa “domes.” Note
@@ -231,6 +246,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -252,7 +272,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 95312b39-622c-45a2-ba7c-cc3c7ec6be23
-    claim_hash: 0f4933bf3f7308f07f2a5fe0af9812e7cd3723f078de98dae8a7a1da2892adac
+    claim_hash: 6bc083f8411fe49fb86ece8a3f50709e28a2a52eaa0599864a8ca5561eb19412
     content: Mike Bara noticed that the image map for AS10-30-4421 showed Mare Crisium craters Cleomedes F and Cleomedes F-a
       placed just outside the right edge of the photo footprint.
     original_excerpt: The first thing Bara noticed was that the image map for AS10-30-4421 showed that a pair of Mare Crisium
@@ -269,6 +289,11 @@ claims:
         - Richard C. Hoagland
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -296,7 +321,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: b20542e8-9841-4ab3-9086-c1537559cf15
-    claim_hash: 4eec00bb4f3760dabd48d1e04bae6627c0f99d919026c036aba360fafeb7d77d
+    claim_hash: b06348560accad3cd8df506eacf803c766613a44d2a8ddd32e04d0c4ec5487d8
     content: Mike Bara concluded that the larger crater Cleomedes F would have been in front of the smaller crater Cleomedes
       F-a from the camera's perspective, connecting them to the two translucent domes seen in Steve Troy's image.
     original_excerpt: Noting that the larger crater, Cleomedes F, would have been in front of the smaller crater (F-a) from
@@ -313,6 +338,11 @@ claims:
         - Richard C. Hoagland
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -353,6 +383,11 @@ claims:
         - Richard C. Hoagland
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -391,6 +426,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -432,6 +472,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.49
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -477,6 +522,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.664
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -518,6 +568,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.735
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -558,6 +613,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d24f960b-8fe7-4869-bb6c-8477fd067677
         title: Mars Pathfinder
@@ -594,6 +654,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
         title: NASA Jet Propulsion Laboratory (JPL)
@@ -638,6 +703,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
         title: NASA Jet Propulsion Laboratory (JPL)
@@ -686,6 +756,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
         title: Michael Malin
@@ -727,6 +802,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
         title: Michael Malin
@@ -770,6 +850,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.526
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3c5e01a8-8976-4a0c-a210-6059c4d68da2
         title: Cydonia Geometric Relationship Model
@@ -819,6 +904,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3c32077c-6863-4574-8a76-b2a12b7d9214
         title: David Pieri
@@ -857,6 +947,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -898,6 +993,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4e5abbb4-b3b6-4d00-9f9c-5357e4d0587e
         title: Owls and Roosters (intelligence-community terminology)
@@ -938,6 +1038,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -978,6 +1083,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.561
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1021,6 +1131,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.927
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1056,6 +1171,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 52586266-6207-48bf-ad74-ca679326b5a9
         title: Mars Global Surveyor
@@ -1099,6 +1219,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.74
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
         title: Noel Gorelick
@@ -1140,6 +1265,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
         title: Noel Gorelick
@@ -1181,6 +1311,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 226e8578-c1ad-4e05-85d4-54103b2199a9
         title: Noel Gorelick
@@ -1224,6 +1359,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.656
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1270,6 +1410,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1304,6 +1449,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1344,6 +1494,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.585
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1386,6 +1541,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
         title: Michael Malin
@@ -1430,6 +1590,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.57
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1469,6 +1634,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 47ba295d-33fd-414f-b51f-40b99849c5ad
         title: Michael Malin
@@ -1512,6 +1682,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1553,6 +1728,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1591,6 +1771,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1634,6 +1819,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.662
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1682,6 +1872,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.886
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2e6a2e75-339a-4cb2-84b1-bde1cfc80689
         title: '"the turkey" (Shorty Crater debris)'
@@ -1726,6 +1921,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d4091a0-d807-4db5-9d2e-302b40c720b9
         title: Orion (spacecraft)
@@ -1773,6 +1973,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1810,6 +2015,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -1849,6 +2059,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1887,6 +2102,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -1924,6 +2144,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
         title: Ritual Alignment Model
@@ -1956,6 +2181,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -1992,6 +2222,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
@@ -2028,6 +2263,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c8f3909-ef90-4938-9a1c-9325238bd448
         title: Scottish Rite 33rd degree apron
@@ -2061,6 +2301,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.74
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -2101,6 +2346,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
         title: Alignment Optical Telescope (AOT)
@@ -2138,6 +2388,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d76ebf5-e3a7-4441-9918-ef3268539697
         title: Apollo Guidance Computer (AGC)
@@ -2171,6 +2426,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9a34d883-1519-4a7b-ae4a-5c0d8cc65045
         title: Primary Guidance Navigation and Control System (PGNS)
@@ -2205,6 +2465,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b024e145-1d61-4148-bd88-aefff6f53b18
         title: Columbia (Apollo 11 Command Module)
@@ -2243,6 +2508,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.832
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -2280,6 +2550,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.648
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
         title: Alignment Optical Telescope (AOT)
@@ -2318,6 +2593,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -2355,6 +2635,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc81c235-c101-46bc-9b60-0d618973886f
         title: Dark Mission (ebook)
@@ -2389,6 +2674,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -2424,6 +2714,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
         title: Rigel
@@ -2456,6 +2751,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
         title: Rigel
@@ -2493,6 +2793,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
         title: Rigel
@@ -2531,6 +2836,11 @@ claims:
         - Mike Bara's account of direct talks
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.782
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9530a178-14d3-4ab6-96c4-6e9630592da3
         title: Cable News Network (CNN)
@@ -2570,6 +2880,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 059e35da-0b31-47c3-90c9-7289bf18669e
         title: Rigel
@@ -2607,6 +2922,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.791
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 310a37a6-bb3e-4cbc-99c4-90859a6dde56
         title: Alignment Optical Telescope (AOT)
@@ -2650,6 +2970,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -2691,6 +3016,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
         title: NASA Jet Propulsion Laboratory (JPL)
@@ -2738,6 +3068,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc81c235-c101-46bc-9b60-0d618973886f
         title: Dark Mission (ebook)
@@ -2772,6 +3107,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cc81c235-c101-46bc-9b60-0d618973886f
         title: Dark Mission (ebook)
@@ -2810,6 +3150,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -2847,6 +3192,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 383fc644-c1b4-4a39-bf62-5b14ba2db5cc
         title: Aleister Crowley
@@ -2888,6 +3238,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2ccec918-9f0b-4569-ba3f-ddd8c2eb6460
         title: USA, California, Pasadena, 1003 Orange Grove Avenue
@@ -2934,6 +3289,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
         title: L. Ron Hubbard
@@ -2975,6 +3335,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -3012,6 +3377,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -3054,6 +3424,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.526
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
         title: L. Ron Hubbard
@@ -3089,6 +3464,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
         title: L. Ron Hubbard
@@ -3128,6 +3508,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: eb9ca279-70d6-460b-8553-ee9842857624
         title: Larry King
@@ -3162,6 +3547,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.847
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6063296b-f65b-452e-be99-dd564ded9c39
         title: L. Ron Hubbard
@@ -3201,6 +3591,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -3239,6 +3634,11 @@ claims:
         - Mike Bara
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -3279,6 +3679,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7998516d-a05f-46f5-b616-f8262c2ffd4e
         title: People (magazine)
@@ -3316,6 +3721,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -3356,6 +3766,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -3396,6 +3811,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -3440,6 +3860,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.705
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8fdb41d6-4a8f-42d0-b077-962820a39d5b
         title: National Press Club press conference, Washington DC, 2007-10
@@ -3489,6 +3914,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.559
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b3570945-ba7a-45ee-92c4-f8e9ac53a80e
         title: Ken Johnston
@@ -3526,6 +3956,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0fd77440-36ce-44f1-9d07-087874d947b9
         title: Bay Area UFO Expo
@@ -3568,6 +4003,11 @@ claims:
         - Richard C. Hoagland
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.654
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cc81c235-c101-46bc-9b60-0d618973886f
         title: Dark Mission (ebook)
@@ -3606,6 +4046,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 089ed01e-ff45-4bf5-9b86-c9aecdf0c8ba
         title: Phil Plait
@@ -3642,6 +4087,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
         title: Australian Flying Saucer Review
@@ -3679,6 +4129,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 089ed01e-ff45-4bf5-9b86-c9aecdf0c8ba
         title: Phil Plait
@@ -3716,6 +4171,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 52eb1243-51be-4c3d-b032-59dfc6b7f083
         title: Hyper-dimensional physics theory
@@ -3751,6 +4211,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.805
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 084e2b07-613e-4c81-848a-01735f4bf671
         title: 2867 Steins
@@ -3787,6 +4252,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 084e2b07-613e-4c81-848a-01735f4bf671
         title: 2867 Steins
@@ -3824,6 +4294,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.663
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -3864,6 +4339,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -3908,6 +4388,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.421
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -3949,6 +4434,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3487d76a-a9e8-4833-9a17-0a83e4cabe94
         title: James E. Oberg
@@ -3989,6 +4479,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -4033,6 +4528,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3415c08f-e9d9-42f7-b820-14a65d42e499
         title: Eagle (Apollo 11 Lunar Module)
@@ -4077,6 +4577,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 97a6f83c-f18e-4b6c-b00f-d63d8e7879e8
         title: 'First Man: The Life of Neil A. Armstrong'
@@ -4114,6 +4619,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4056024b-6788-453b-a270-7b9890087c91
         title: Buzz Aldrin
@@ -4148,6 +4658,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 91643bca-46df-4724-934b-ac6bd883b4e3
         title: USA, Texas, Tranquility Base (Moon)
@@ -4186,6 +4701,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7ea4ae5b-0201-40dd-bebc-fbcc85db9940
         title: Regulus
@@ -4227,6 +4747,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: be28c01d-c0b8-4d92-8f1e-058f911b267e
         title: Ritual Alignment Model
@@ -4261,6 +4786,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
         title: Horus
@@ -4307,6 +4837,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 354da422-ae2e-41c6-8eeb-b9830475a92d
         title: Horus
@@ -4353,6 +4888,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c762b97-ffec-4ab2-9c1d-989f0566d586
         title: Mike Bara
@@ -4400,6 +4940,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c386199-42da-4a3b-b7fe-b86a28febb34
         title: Isis
@@ -4446,6 +4991,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -4470,7 +5020,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 4a20a8f9-26a1-48d5-ba40-f64d04984070
-    claim_hash: b37770dd2831a092b399907257aed95c3872b2ade950cc87a08929f78df6ae7a
+    claim_hash: 812ad6d4762845c75a3eb5cf940bc838bba6da93404543ff86bff00748cdf4cc
     content: Jack Kasher, Mark Carlotto, Mike Barra, and Richard Hoagland have raised anomalies or problems with National
       Aeronautics and Space Administration (NASA)'s ice-debris explanation for the STS-48 UAP incident that Maaneli "Max"
       Derakhshani has never seen satisfactorily explained by NASA or any NASA scientists or engineers.
@@ -4488,6 +5038,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -4498,9 +5053,9 @@ claims:
       - node_id: 9fb33ea9-e191-4f8a-ac92-593e8db1a26c
         title: Jack Kasher
         slug: jack-kasher
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto

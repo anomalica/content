@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9f4354ad9c879bf7eb87d61a2705f0122b2ecafbf6f3d213338d11bcf7c508fa
+brief_hash: 5c9bdb5a6ff8c4e700323cd7572683fa8bb059382c1dcd77bc396e815f15c185
 page:
   kind: entity
   node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1209
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 5
+  neutral: 1
+  contradicts: 3
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.111
+  entailed_by_window_fraction: 0.444
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,10 +48,10 @@ related_nodes:
     node_type: person
     slug: ross-coulthart
     shared_claims: 3
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+    title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
     shared_claims: 2
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
@@ -73,11 +83,6 @@ related_nodes:
     node_type: organisation
     slug: skywatcher
     shared_claims: 1
-  - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
-    title: USA, California, Edwards Air Force Base
-    node_type: place
-    slug: california-edwards-air-force-base-usa
-    shared_claims: 1
   - node_id: 887aeb17-7249-417c-8305-bacf0f4604e9
     title: USA, California, Pebble Beach
     node_type: place
@@ -87,6 +92,11 @@ related_nodes:
     title: USA, California, San Francisco
     node_type: place
     slug: california-san-francisco-usa
+    shared_claims: 1
+  - node_id: 234ed29f-c8b9-4baa-bbd4-e4048361514a
+    title: USA, California, Vandenberg Air Force Base
+    node_type: place
+    slug: california-vandenberg-air-force-base-usa
     shared_claims: 1
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
@@ -117,6 +127,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 887aeb17-7249-417c-8305-bacf0f4604e9
         title: USA, California, Pebble Beach
@@ -160,6 +175,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
         title: USA, California, Big Sur
@@ -181,7 +201,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 6fdb54e7-ce54-4bef-b387-7519ec3c3889
-    claim_hash: 86aaacadad9b579ac8913a265c2281cd3dc9bad3a9bad34234f0ac8d713e804b
+    claim_hash: 4e8416845b569cae39354d6110a33991b8d1456ea0856b86f48a89eecab9ec73
     content: In September 1964, on a hilltop near Big Sur, California, approximately 160 kilometres from Vandenberg Air Force
       Base, Robert Jacobs filmed a dummy nuclear warhead that had been launched from the base aboard an Atlas intercontinental
       ballistic missile.
@@ -199,7 +219,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.654
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 234ed29f-c8b9-4baa-bbd4-e4048361514a
+        title: USA, California, Vandenberg Air Force Base
+        slug: california-vandenberg-air-force-base-usa
       - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
         title: Robert Jacobs
         slug: robert-jacobs
@@ -209,12 +237,9 @@ claims:
       - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
         title: USA, California, Big Sur
         slug: california-big-sur-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
-        title: USA, California, Edwards Air Force Base
-        slug: california-edwards-air-force-base-usa
+      - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+        title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
+        slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
     date: 1964-09
     date_end: null
     location_in_record: ch10:3869-4094
@@ -224,12 +249,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 28069866-e6e5-44f6-8282-5f400a09debd
-    claim_hash: b1f0a7e1a64840f8374e534df0e987d529790ba5abc82a5b3abf93aae1837609
+    claim_hash: c21a978161261c40a5fe41eca9e4967e11fa134ed06e728e4b2790140d38be8e
     content: Robert Jacobs used a telescope near Big Sur, California, to film a missile launch in 1964.
     original_excerpt: The telescope Bob Jacobs used near Big Sur, California, to film a missile launch in 1964.
     claim_type: observation
@@ -243,6 +268,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 84a01810-560f-4ad7-982d-4f95a0d38b02
         title: Robert Jacobs
@@ -250,9 +280,9 @@ claims:
       - node_id: ad4c5ffb-29fc-42b3-a3cc-29ed186d5456
         title: USA, California, Big Sur
         slug: california-big-sur-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+        title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
+        slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
     date: '1964'
     date_end: null
     location_in_record: ch37:2871-2955
@@ -262,7 +292,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -283,6 +313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.643
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -302,7 +337,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -323,6 +358,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c15657f-8c99-43ad-8912-d2841ba0634f
         title: Esalen Institute Skywatcher psionic inviting demonstration
@@ -371,6 +411,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
         title: Esalen Institute
@@ -410,6 +455,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.479
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
         title: Esalen Institute
@@ -450,6 +500,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.86
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 55180311-d8bf-4d7a-ad49-c4364880b38f
         title: Esalen Institute

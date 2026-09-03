@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: feea71c8498508ed93cf6af244aa9abc3cd2d05dd260ea433043b5193f146823
+brief_hash: 47d7767a2311269cc0f4d36b3a8338deadcf01883fe7a228ce393f0b1da765a5
 page:
   kind: entity
   node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1510
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 4
+  neutral: 4
+  contradicts: 1
+  entailed_by_quote: 3
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.111
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,11 +38,6 @@ related_nodes:
     node_type: person
     slug: thomas-wilson
     shared_claims: 6
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 5
   - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
     title: Steven Greer
     node_type: person
@@ -48,6 +53,16 @@ related_nodes:
     node_type: person
     slug: willard-miller
     shared_claims: 3
+  - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+    title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+    node_type: event
+    slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
+    shared_claims: 2
+  - node_id: b55296f0-f4ba-4dfd-90f4-a0152f15ab1f
+    title: 1998 Defense Intelligence Agency Unidentified Aerial Phenomena (UAP) briefing
+    node_type: event
+    slug: 1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing
+    shared_claims: 2
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
     node_type: person
@@ -57,6 +72,11 @@ related_nodes:
     title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
     node_type: event
     slug: miller-and-mitchell-1997-04-pentagon-briefing-by-greer
+    shared_claims: 1
+  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
+    title: 2004 USS Nimitz UAP encounter
+    node_type: event
+    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: 5ea2fc59-cfad-408a-bf24-b88fadfd2ebc
     title: E-2 Hawkeye
@@ -96,6 +116,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.851
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01c9b273-76b2-49f5-9051-010be7e2a0e5
         title: 1997-04 Pentagon briefing by Greer, Miller and Mitchell
@@ -150,6 +175,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.418
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -188,6 +218,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -209,7 +244,7 @@ claims:
       content_hash: sha256:88afecae4d92b8e1189e72923fe4f2c775ea07221c9685ad9adc83e7f46f9a9d
       friendly_name: 2002-10-16-pdf-ewd-notes-eric-davis-meeting-with-adm-wilson
   - claim_id: 7928db23-db2e-4c30-a5d8-7ba3454cd06f
-    claim_hash: 43728ccd07a1c16572a00ca8edf9d7c5c0a7afc421aa0505f1c0d439eb22236e
+    claim_hash: 878ced32e3d46a5e75b20f2ded8fdd3a1d4c54dafe6d2060daede44dceec8943
     content: In 1998, Steven Greer was invited back to the Defense Intelligence Agency, again with Commander Willard Miller,
       to brief the then Director, Admiral Thomas Wilson's immediate superior, Lieutenant General Patrick Hughes, on UFOs.
     original_excerpt: It is to Greer's credit, for example, that he was invited back in 1998 to the Defence Intelligence Agency,
@@ -224,6 +259,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.624
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -234,9 +274,9 @@ claims:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b55296f0-f4ba-4dfd-90f4-a0152f15ab1f
+        title: 1998 Defense Intelligence Agency Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -252,12 +292,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: bab55aa5-c543-45fd-97a8-d34f820c01e7
-    claim_hash: 7cadacbfde2934baa44f150b167359515d2a037818763fb5036feef328759c99
+    claim_hash: 888bd3c075ab0417bc614f90a215cf92a84968bf2cd5bcf29a29a4a0bd2dd628
     content: Steven Greer claims that General Patrick Hughes grabbed an extra-terrestrial doll from the Steven Spielberg movie,
       which he happened to have on his shelf, declaring, 'Well, I have no doubt that what you are sharing is true, but I have
       made inquiries through channels in my agency and nobody can tell me anything! In fact, all I have gotten is this!'
@@ -276,13 +316,18 @@ claims:
         - Patrick Hughes's alleged statement to Greer
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.785
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
         slug: patrick-hughes
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b55296f0-f4ba-4dfd-90f4-a0152f15ab1f
+        title: 1998 Defense Intelligence Agency Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1998-defense-intelligence-agency-unidentified-aerial-phenomena-uap-briefing
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -295,7 +340,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -318,6 +363,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.861
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -340,12 +390,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 5b4654a8-6c9e-452e-b44b-63ff8fe007e7
-    claim_hash: aff2804c7aa4205ec689b0102c98a09f3667f43befe1045ccaba9b3d1c355ad1
+    claim_hash: 7d0853d26c840a60cbad1d5e28f8725c3e3f07dbbc4f300fbbe41df78168b47a
     content: Admiral Tom Wilson's Defense Intelligence Agency boss, General Patrick Hughes, invited Steven Greer and Willard
       Miller back to talk about UAPs months after the April 1997 Pentagon meeting.
     original_excerpt: it begs the question why Wilson’s Defence Intelligence Agency boss General Patrick Hughes invited Greer
@@ -359,16 +409,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
         slug: patrick-hughes
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
         slug: defense-intelligence-agency-dia
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
         title: Steven Greer
         slug: steven-greer
@@ -384,12 +439,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 29adc409-eabf-47fb-98a1-8150112c2289
-    claim_hash: f744f45486ca381f9b113f84c2ed28d63a45de0723011be38945b9c178cd8227
+    claim_hash: a241f8d409853b2be78cb7c2ed298d624097c66cb3332caedc0a7ba5b49ec0fc
     content: Ross Coulthart suspects the two Defense Intelligence Agency officials involved in the 1997 Pentagon meeting were
       more interested in UAPs than they publicly admit.
     original_excerpt: I suspect, in actual fact, the two Defence Intelligence Agency officials were more interested than they
@@ -405,19 +460,24 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
         slug: patrick-hughes
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
         slug: defense-intelligence-agency-dia
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -430,7 +490,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -452,6 +512,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03a3d7e8-f5bb-4541-96a4-52305160976b
         title: Patrick Hughes
@@ -471,7 +536,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

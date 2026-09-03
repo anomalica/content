@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 634
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 3
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -87,6 +97,11 @@ claims:
         - C. L. Turnage's account of Sherman's claims
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 084ebb6f-7a7f-42b8-b6a9-90a0a5666367
         title: Basque mythology
@@ -127,6 +142,11 @@ claims:
         - C. L. Turnage's account of Sherman's claims
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.902
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 084ebb6f-7a7f-42b8-b6a9-90a0a5666367
         title: Basque mythology
@@ -169,6 +189,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.841
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0faecfe7-7e60-46e5-b110-56b2c3ab48c7
         title: Flight of the Navigator (film)
@@ -212,6 +237,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells

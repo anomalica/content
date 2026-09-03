@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: de96f37b5488abd18dc75d3c688aace1707681b5e30892fd044b3e0fe765a42b
+brief_hash: c3490e1565b85d6af4729b6e68118f3b0fe141d69aa2ab8a214e09d5ef21a4cd
 page:
   kind: entity
   node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 665
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 2
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 0
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,10 +38,10 @@ related_nodes:
     node_type: person
     slug: jacques-vallee
     shared_claims: 5
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: d139c013-f81d-4082-a2eb-8325b1359327
+    title: 1973 Carteret, Normandy Unidentified Flying Object (UFO) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: normandy-unidentified-flying-object-ufo-sighting-1973-carteret
     shared_claims: 2
   - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
     title: France
@@ -76,6 +86,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -115,6 +130,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -142,7 +162,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
-    claim_hash: 5bfd3eb1c8a5aab37c207580ccc6695bc84814db033ca448e184f9684d819ca4
+    claim_hash: 8d43883dadf9e955d7eda9e23350aa4d88c11c0392acb3a1c059765df1a0cf2d
     content: Janine Vallee and Jacques Vallee investigated the Carteret UFO sighting during a research trip through the west
       of France in December 1973.
     original_excerpt: My wife and I investigated this sighting during a research trip through the west of France in December
@@ -158,6 +178,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -168,9 +193,9 @@ claims:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
         slug: france
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d139c013-f81d-4082-a2eb-8325b1359327
+        title: 1973 Carteret, Normandy Unidentified Flying Object (UFO) sighting
+        slug: normandy-unidentified-flying-object-ufo-sighting-1973-carteret
     date: 1973-12
     date_end: null
     location_in_record: ch10:23873-23976
@@ -185,7 +210,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 4ed35f54-bc2b-4d27-8c3d-97cab9fd6a3e
-    claim_hash: 69040518102c2d0b5f127d3f1511fe2644ad9078597f6c099756668f3331a59e
+    claim_hash: 600647c782dd3fa7ccc6d0504debaa2956c8c3821b48feffebb7aeed08ec1d9f
     content: Janine Vallee went to Carteret less than ten days after the 1973 sighting and spoke to one of the witnesses and
       to the police investigators, while Jacques Vallee checked other information.
     original_excerpt: She went to Carteret less than ten days after the occurrence and spoke to one of the witnesses and to
@@ -201,6 +226,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -208,9 +238,9 @@ claims:
       - node_id: a4382072-aedb-441f-90ba-9aa7b3ce81cc
         title: Janine Vallée
         slug: janine-vallee
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d139c013-f81d-4082-a2eb-8325b1359327
+        title: 1973 Carteret, Normandy Unidentified Flying Object (UFO) sighting
+        slug: normandy-unidentified-flying-object-ufo-sighting-1973-carteret
     date: null
     date_end: null
     location_in_record: ch10:23982-24136
@@ -241,6 +271,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.666
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée

@@ -9,7 +9,7 @@ page:
   claim_count: 704
   claim_count_total: 704
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 704
   tokens_estimated: 91182
@@ -406,8 +406,8 @@ claims:
         title: Chuck Schumer
         slug: chuck-schumer
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: 00:02:38.3-00:02:50.2
@@ -2850,8 +2850,8 @@ claims:
         title: Mitch McConnell
         slug: mitch-mcconnell
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: '2024'
     date_end: null
     location_in_record: 00:19:59.4-00:20:07.5
@@ -2892,8 +2892,8 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: '2024'
     date_end: null
     location_in_record: 00:20:08.6-00:20:18.4
@@ -9806,9 +9806,9 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
         title: Reptilian beings
         slug: reptilian-beings
@@ -23708,9 +23708,9 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
         title: Human-alien hybrid children
         slug: human-alien-hybrid-children
@@ -23796,9 +23796,9 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
         title: Human-alien hybrid children
         slug: human-alien-hybrid-children
@@ -23841,9 +23841,9 @@ claims:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
         slug: chris-ramsay
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: c2b91ed3-9d0a-43b6-bcd3-41298753b775
         title: Human-alien hybrid children
         slug: human-alien-hybrid-children

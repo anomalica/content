@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 1084
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 5
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.667
+  entailed_by_window_fraction: 0.167
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -89,6 +99,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c9ed6f84-e749-4834-8027-989da9d18929
         title: Robin Marantz Henig
@@ -132,6 +147,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.773
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
         title: Brad Dancer
@@ -174,6 +194,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.859
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2f670a25-1870-4ba8-8b67-91e45c70f955
         title: Brad Dancer
@@ -210,6 +235,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1231e0bd-34f2-4e27-ad3b-29db129add4c
         title: The OZ Files
@@ -244,6 +274,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
         title: History Channel
@@ -287,6 +322,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: fb74433b-514e-4b1d-a248-38c665262497
         title: 2012 National Geographic Unidentified Flying Object (UFO) belief poll

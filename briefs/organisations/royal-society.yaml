@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 596
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -71,6 +81,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 782e22a7-0df0-4c32-86ac-095f5ac2ec32
         title: Search for Extraterrestrial Intelligence (SETI)
@@ -112,6 +127,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17f4d90d-ea64-4696-818f-d0d11b10cf42
         title: Invisible college of UFO researchers
@@ -152,6 +172,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a2ef7e82-b7e5-4099-9065-c98b8a795968
         title: Royal Society
@@ -187,6 +212,11 @@ claims:
         - The UFO Mystery (FBI Bulletin article by J. Allen Hynek, 1975)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1556627a-c24c-474a-9a3f-a8bbbd67a7f0
         title: The Invisible College

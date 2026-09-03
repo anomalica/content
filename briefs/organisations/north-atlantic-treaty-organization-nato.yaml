@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3bf5bfb980906e361da38ec12cca5bc0b4748dc31fdfbade7d80d411f3ce2653
+brief_hash: c846ddde805036a847cc3fb5404430c87708d985ba4afd7fe05bb06640d11c00
 page:
   kind: entity
   node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 1125
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 7
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,6 +38,11 @@ related_nodes:
     node_type: organisation
     slug: united-nations-un
     shared_claims: 2
+  - node_id: 63beac5e-1858-4079-bae5-17dd5e115e5f
+    title: 1956 RAF Bentwaters-Lakenheath Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: 1956-raf-bentwaters-lakenheath-unidentified-aerial-phenomena-uap-incident
+    shared_claims: 1
   - node_id: c2d58d98-057c-4fb4-b4a3-aa1b4d445aae
     title: Bosnia
     node_type: place
@@ -52,11 +67,6 @@ related_nodes:
     title: Predator unmanned aerial vehicle (UAV)
     node_type: object
     slug: predator-unmanned-aerial-vehicle-uav
-    shared_claims: 1
-  - node_id: 1df6323e-2a18-496a-b9cd-e73cb7f90b53
-    title: RAF Bentwaters UAP Sighting 1956
-    node_type: event
-    slug: raf-bentwaters-uap-sighting-1956
     shared_claims: 1
   - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
     title: Scott W. Bray
@@ -90,6 +100,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.681
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -114,7 +129,7 @@ claims:
       content_hash: sha256:0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d12025886c
       friendly_name: undated-pdf-uap-sighting-report
   - claim_id: 24892690-59bc-4ec9-942b-8a991143641c
-    claim_hash: 1cc6d79d893ac97b1569e7924ba3d784591da40d05c93b99c2ac43e0c1eed331
+    claim_hash: 486b954cbd259b0b4047011436e5eccdb64b28b6d6abc1761fc7ed0e94454f40
     content: On 1956-08-13, radar operators at the NATO base RAF Bentwaters in Suffolk, England, which was known to be armed
       with nuclear weapons, tracked an object soaring towards them at speeds of up to approximately 14,500 kilometres per
       hour.
@@ -129,13 +144,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.782
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 1df6323e-2a18-496a-b9cd-e73cb7f90b53
-        title: RAF Bentwaters UAP Sighting 1956
-        slug: raf-bentwaters-uap-sighting-1956
       - node_id: 2993e6e0-6c79-4c60-a1d3-f2f023ea2957
         title: UK, England, RAF Bentwaters
         slug: england-raf-bentwaters-uk
+      - node_id: 63beac5e-1858-4079-bae5-17dd5e115e5f
+        title: 1956 RAF Bentwaters-Lakenheath Unidentified Aerial Phenomena (UAP) incident
+        slug: 1956-raf-bentwaters-lakenheath-unidentified-aerial-phenomena-uap-incident
       - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
         title: North Atlantic Treaty Organization (NATO)
         slug: north-atlantic-treaty-organization-nato
@@ -148,44 +168,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: e277c8ec-8ce1-43d7-ab06-8a0867059774
-    claim_hash: 8593b804299ff2f5da065bd7a500bbc41d59fde134938d0c034e3dee5fd47afb
-    content: Scott Bray holds the position of Assistant Secretary General for Intelligence and Security at the North Atlantic
-      Treaty Organization (NATO).
-    original_excerpt: —Scott Bray, NATO’s Assistant Secretary General for Intelligence and Security
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
-        title: North Atlantic Treaty Organization (NATO)
-        slug: north-atlantic-treaty-organization-nato
-      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
-        title: Scott W. Bray
-        slug: scott-w-bray
-    date: null
-    date_end: null
-    location_in_record: ch35:5443-5511
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 8d60814d-0fb7-4552-b897-4514a20308da
     claim_hash: b5b639681e0d45c1c5e21fb7563c2e1ae30d6f580646428ec4c8bf9d5b34e140
     content: The Predator UAV was used to support United Nations and North Atlantic Treaty Organization efforts in Bosnia
@@ -201,6 +187,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
         title: Predator unmanned aerial vehicle (UAV)
@@ -225,9 +216,48 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: e277c8ec-8ce1-43d7-ab06-8a0867059774
+    claim_hash: 8593b804299ff2f5da065bd7a500bbc41d59fde134938d0c034e3dee5fd47afb
+    content: Scott Bray holds the position of Assistant Secretary General for Intelligence and Security at the North Atlantic
+      Treaty Organization (NATO).
+    original_excerpt: —Scott Bray, NATO’s Assistant Secretary General for Intelligence and Security
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
+        title: North Atlantic Treaty Organization (NATO)
+        slug: north-atlantic-treaty-organization-nato
+      - node_id: 93bff7ad-ecec-4d5c-a815-9ecd44105198
+        title: Scott W. Bray
+        slug: scott-w-bray
+    date: null
+    date_end: null
+    location_in_record: ch35:5443-5511
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 91b6a59c-52e5-48cb-b803-acf618ac400d
     claim_hash: 7e3e3e86d51b748958e784c62bdd49c7864774198ef786d16bf2daa916ecdf23
     content: Norway, Sweden and Finland all joined NATO, bringing the North Atlantic Treaty Organisation (NATO) to Russia's
@@ -241,6 +271,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
         title: North Atlantic Treaty Organization (NATO)
@@ -274,6 +309,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
         title: North Atlantic Treaty Organization (NATO)
@@ -308,6 +348,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
         title: Donald Trump

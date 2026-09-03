@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a978c0eaf23015ef7e336a138cbd3fbc41f9d2151f4c12bce3a9bffddea1777d
+brief_hash: 08a10e18eca180360e5e13c9593a5e60ecd1cb9b6313809c9ae7792f52e994c4
 page:
   kind: entity
   node_id: 57e26296-4524-486b-a7ea-fc698140bb84
@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 977
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 6
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.667
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -50,7 +60,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 4b5b8d4b-5a2c-4284-bb00-e5dd0e456564
-    claim_hash: 798f285686e05f542b44e75dcca79e648bf6a10a70f9efa98ef1a78384430d5f
+    claim_hash: ebc605ccaf199b27eff1da81c94dfa8083eb2730cf187bd7d38ee9e26e39f39e
     content: Chris Ramsay considers that commercial developers are not seeking to build a better artificial intelligence but
       a more lucrative one, whereas the military is building a better one, and that the packaged corporate version is designed
       to flatter users rather than be accurate so that they keep paying for it.
@@ -68,6 +78,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -109,6 +124,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.795
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -148,6 +168,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -185,6 +210,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.753
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -220,6 +250,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)
@@ -260,6 +295,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e5c824e-2d45-43db-bcbd-2526c91dc0df
         title: Artificial intelligence (AI)

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 026d41bebaed0ef7b203aaf68661a882322bf0c18c0881d62963c17398e8f76f
+brief_hash: fb8a65ff1560cf79f0091b3f81c29e9c7b576c09cd2a71ea7156092b9f8f979b
 page:
   kind: entity
   node_id: f657fb13-198a-45d6-9530-253f2784f9d2
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 662
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 1
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,6 +38,11 @@ related_nodes:
     node_type: person
     slug: hillary-clinton
     shared_claims: 2
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
+    shared_claims: 2
   - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
     title: 1994 Harvard review of John E. Mack
     node_type: event
@@ -37,11 +52,6 @@ related_nodes:
     title: Are We Alone?
     node_type: document
     slug: are-we-alone
-    shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
     shared_claims: 1
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
@@ -78,11 +88,6 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 1
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-    title: William J. Clinton
-    node_type: person
-    slug: william-j-clinton
-    shared_claims: 1
 claims:
   - claim_id: b4a0d92a-ee97-4ee6-aa2f-4446e6fbed9b
     claim_hash: 90f89403661035327439dd5b1a75e64bc75e1cf7180da1004ab62f4fb847ef51
@@ -97,6 +102,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 29466c1d-0375-43e7-8fbb-a86fd30bc169
         title: 1994 Harvard review of John E. Mack
@@ -119,12 +129,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3df658f8-ae37-4065-bd87-f55e38d1eebe
-    claim_hash: 71be9221588d47566091324083f8939b79cd253ef4c568a347984a22c1503f1f
+    claim_hash: f104e7e50be1567bc7b43cacd7ca6b32e30367f2c97b7d199671a81e9da889ef
     content: After lobbying from billionaire businessman and UAP believer Laurance Rockefeller, President Bill Clinton ordered
       his new CIA Director James Woolsey to release more of the files on UAPs.
     original_excerpt: after lobbying from billionaire businessman and UAP believer Laurance Rockefeller, the president ordered
@@ -138,16 +148,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: f273bab6-92d0-446a-b0a4-9d3988248228
         title: James Woolsey
         slug: james-woolsey
@@ -163,7 +178,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -183,6 +198,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 335f2869-3102-445f-ae63-1a13d0efe9a7
         title: Are We Alone?
@@ -205,12 +225,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 089e1f5c-803c-4865-879a-88e525f0f546
-    claim_hash: aa02d81895022fcfab0d8eec8abdca4508361fda4bcd747c277076ef1686fa44
+    claim_hash: e73faceaaeaca6740f605b9dcbd7c9e657547086fad709ce320abc77a99a487c
     content: Laurance Rockefeller was very close with the Clintons and constantly tried to interest them in UFO disclosure.
     original_excerpt: And Laurance Rockefeller, uh, is very close with the Clintons and trying to get them to do disclosure,
       get them more interested constantly.
@@ -225,16 +245,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33ae3380-25ea-442a-9d60-69b285a20182
         title: Hillary Clinton
         slug: hillary-clinton
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
         title: Laurance Rockefeller
         slug: laurance-rockefeller
@@ -264,6 +289,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f657fb13-198a-45d6-9530-253f2784f9d2
         title: Laurance Rockefeller

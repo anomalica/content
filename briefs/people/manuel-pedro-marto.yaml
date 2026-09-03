@@ -9,11 +9,21 @@ page:
   claim_count: 23
   claim_count_total: 23
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 23
   tokens_estimated: 3625
   sized_against: 1050000
+entailment:
+  assessed: 23
+  unassessed: 0
+  entails: 19
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 15
+  entailed_by_quote_fraction: 0.174
+  entailed_by_window_fraction: 0.652
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -104,6 +114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -150,6 +165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
         title: Artur Santos
@@ -191,6 +211,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.688
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5222074d-c008-4d08-8de3-4ab6e71fd1b9
         title: Artur Santos
@@ -230,6 +255,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.407
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -282,6 +312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.485
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -322,6 +357,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -362,6 +402,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.803
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -400,6 +445,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 79277187-1caf-4840-a135-5819bc771321
         title: Portugal, Fatima, Cova da Iria
@@ -437,6 +487,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.485
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 912ba4ce-83e0-4026-8832-15dec8956ec0
         title: Third apparition of Our Lady of Fatima (1917-07-13)
@@ -475,6 +530,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 912ba4ce-83e0-4026-8832-15dec8956ec0
         title: Third apparition of Our Lady of Fatima (1917-07-13)
@@ -513,6 +573,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.433
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 795f01f2-5445-44fb-9d72-316edf5694f7
         title: Portugal, Valinhos
@@ -549,6 +614,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -586,6 +656,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.603
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -622,6 +697,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -657,6 +737,11 @@ claims:
         - Marto, Manuel Pedro's recollection
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -694,6 +779,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.611
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -734,6 +824,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.935
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -771,6 +866,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -806,6 +906,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
         title: Miracle of the Sun (1917-10-13)
@@ -843,6 +948,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.731
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a3d7425b-b814-43c7-b4f4-a84328bded4f
         title: Miracle of the Sun (1917-10-13)
@@ -877,6 +987,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.942
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b8138fb-8844-40ba-9512-21dc1ea1ba39
         title: Francisco Marto
@@ -919,6 +1034,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.892
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto
@@ -952,6 +1072,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a7c7c92b-be28-4c65-8365-80f9c5e695b8
         title: Manuel Pedro Marto

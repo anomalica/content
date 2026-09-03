@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8b22c1077f7e397cd1a3717f6c38fcfbc454ff462b13d8852c9f84ca9f730feb
+brief_hash: de919cd752c31c66596cefd4b585b81dce6a487367440858e0df525a0713107d
 page:
   kind: entity
   node_id: 43c5b374-2f2a-4989-a2e7-3589f0094845
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 1059
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 3
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.286
+  entailed_by_window_fraction: 0.143
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -45,7 +55,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 61fab06b-afa8-48e1-99b1-081d406beffe
-    claim_hash: 294b70f30952ad33e0dc7201c78af82026b7c070427b3c764e13553f03d5d862
+    claim_hash: b84dae6129040f91e8a662b0b256b6a2f6d9fa98c4b66033e8ca96168784d0fd
     content: Sergeant Jim Penniston described seeing a small three-metre-wide craft during the 1980 Rendlesham Forest UAP
       incident composed of what looked like a black smoky glass-like material, with unfamiliar symbols inscribed on its upper
       side.
@@ -62,6 +72,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -78,12 +93,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6c345463-54d2-4a10-a007-dd9fcc2d9716
-    claim_hash: bd3b4921f230f2b1fae68bbe7f041852479677bfd960e8e350b04fe680277e65
+    claim_hash: b2aa541cdc376a9c0f5c9d9b82c210a6461cf1d5bbc9603496d57f3d7b3dae90
     content: Jim Penniston claimed, much later, that he touched the craft seen during the 1980 Rendlesham Forest UAP incident
       and recorded sketches of the hieroglyphic inscriptions in a notebook.
     original_excerpt: Penniston made the astonishing claim much later that he touched the craft and recorded sketches of the
@@ -99,6 +114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -115,12 +135,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 79c08b1f-9948-4a79-80f0-1066ec0b66f5
-    claim_hash: ebeed772586a0fcd464ede94b4412cd2fc0425e584cf8d27cb17bf1fdc726f5f
+    claim_hash: 6dec0f7281b294425f259ea7214bbebb257f67d6f5eca383215e52908b390671
     content: Jim Penniston claimed that he and his colleagues suffered 'missing time' during the 1980 Rendlesham Forest UAP
       incident, with their memories deliberately confused and blocked in some way.
     original_excerpt: Penniston also raised dramatic claims that he and his colleagues suffered 'missing time' during the
@@ -136,6 +156,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -152,12 +177,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 2681d130-76e7-40d1-b272-a847f6c9a796
-    claim_hash: 5c3e60f4138c6743e74a2160bca6af051f628afd3ea54c4482ea4c9eda16d344
+    claim_hash: 0772ec32b4d6734a6b2c4dcc5201469757ac2ee313adde8c5d3a23c14a762772
     content: A sketch of the purported Rendlesham Forest UAP was drawn by witness Jim Penniston.
     original_excerpt: A sketch of the purported Rendlesham Forest UAP drawn by witness Staff Sergeant Jim Penniston.
     claim_type: administrative
@@ -171,6 +196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -187,12 +217,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d048e30a-67a1-4f6a-88d3-4a5c7611b25f
-    claim_hash: 0e9e74c0777d58eacfb0ecab0bbc9c71aa0c2b6a74548a42b28a3982a5470299
+    claim_hash: fe35841b3b4575dc04f5f80d1ff4471c7d06fb05f5da453839e8ec077204509b
     content: Jim Penniston and John Burroughs claimed they saw a craft land in Rendlesham Forest near the RAF Woodbridge base
       in Suffolk, England, on 1980-12-26.
     original_excerpt: Mr Penniston and Airman John Burroughs claimed they saw the craft land in Rendlesham Forest near the
@@ -206,6 +236,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.719
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -231,12 +266,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d81cc4be-6bc9-487c-834e-f8cb317e3de9
-    claim_hash: 61a67059388181b63569268874a94d43a0a6a4434bd33fff0f0c93f21114fdc8
+    claim_hash: 0b350f94fd8c33f3f4a9c97682fe6a4b84216c441ff2980e7578734cb7aff19e
     content: During the 1980 Rendlesham Forest incident, security policemen John Burroughs and Jim Penniston found a landed
       Unidentified Aerial Phenomenon (UAP) in Rendlesham Forest near a joint UK-US military facility in Suffolk, England,
       where the two allies had stored nuclear weapons in a secret bunker.
@@ -252,6 +287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -274,7 +314,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -293,6 +333,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -312,7 +357,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

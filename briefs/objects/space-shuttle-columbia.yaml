@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4cfdd21e570e095acbc80212a20fece81776e63f471948e45f00c1d6a80cab36
+brief_hash: 27404264a5c9b8086ca94148e88ccc887681351f333be71473413cabba2f3f08
 page:
   kind: entity
   node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
@@ -9,11 +9,21 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 16
   tokens_estimated: 2019
   sized_against: 1050000
+entailment:
+  assessed: 16
+  unassessed: 0
+  entails: 16
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 7
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.438
+  entailed_by_window_fraction: 0.562
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,11 +48,6 @@ related_nodes:
     node_type: organisation
     slug: national-aeronautics-and-space-administration-nasa
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: 07af9c54-dc18-45df-93dc-1cbf79da6fce
     title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (Mark J. Carlotto, 2005)
     node_type: document
@@ -62,6 +67,11 @@ related_nodes:
     title: Richard C. Hoagland
     node_type: person
     slug: richard-c-hoagland
+    shared_claims: 1
+  - node_id: fd0f66b9-f7c3-4ded-872b-ab74cf998db1
+    title: STS-80 Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: sts-80-unidentified-aerial-phenomena-uap-incident
     shared_claims: 1
   - node_id: c0176fab-652b-4872-a2f9-1063f80b9389
     title: STS-80 video disk-like object sightings (1996-12-02)
@@ -93,7 +103,7 @@ related_nodes:
     node_type: place
     slug: puerto-rico-usa
     shared_claims: 1
-  - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
     title: William J. Clinton
     node_type: person
     slug: william-j-clinton
@@ -116,6 +126,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -153,6 +168,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -193,6 +213,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 07af9c54-dc18-45df-93dc-1cbf79da6fce
         title: Anomalous Phenomena in Space Shuttle Mission STS-80 Video (Mark J. Carlotto, 2005)
@@ -233,6 +258,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -273,6 +303,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -310,6 +345,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -346,6 +386,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.69
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -381,6 +426,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: af6dbe90-6360-40ab-ac31-ed08acbc94d4
         title: STS-80
@@ -402,7 +452,7 @@ claims:
       content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
       friendly_name: null
   - claim_id: 5745724a-4361-490c-8fd0-0690ceef489f
-    claim_hash: ff0f56016d032d130a528409bba1df9933718ef5f3e5788724a15f7e5ceefd11
+    claim_hash: defc230dae367cc594e9ebec223d0a717ffe7ec4c5e54f61ca113f3ea97ca02d
     content: NASA switched to an environmentally friendly external tank insulating foam in 1996 to appease the Clinton administration's
       Environmental Protection Agency, and had experienced trouble with it ever since.
     original_excerpt: Investigations revealed that NASA, in an effort to appease the Clinton administration's EPA, had switched
@@ -416,16 +466,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
-      - node_id: 6ab4de8a-5e1e-4fd4-a5bb-6a96ff234ad4
-        title: William J. Clinton
-        slug: william-j-clinton
       - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
         title: Space Shuttle Columbia
         slug: space-shuttle-columbia
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: db7bbf0d-f11e-4f91-aa05-29771dab68b7
         title: Environmental Protection Agency (EPA)
         slug: environmental-protection-agency-epa
@@ -459,6 +514,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.757
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -499,6 +559,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -535,6 +600,11 @@ claims:
         - D. W. Pasulka
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.631
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -570,6 +640,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.
@@ -603,6 +678,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 23889f9d-fde8-4ad1-b307-4d0ccbeac8d7
         title: Space Shuttle Atlantis
@@ -630,7 +710,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: f2d0b1bd-6aee-4b29-abea-88076319a45f
@@ -646,6 +726,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
         title: Space Shuttle Columbia
@@ -661,11 +746,11 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 0e175092-28fd-419e-a805-e966562a20f0
-    claim_hash: 37ecfe9d525db52d41fc95dd8ef704dc10956ed55b41bd69674e17e21bf8c586
+    claim_hash: 7dc23a6739d84e345b011317cc5fa4ec06dce6a301a72ed949f1a0d7bdd03185
     content: The STS-80 UAP incident footage was recorded from Space Shuttle Columbia (STS-80) at an altitude of approximately
       560 kilometres, looking down at Puerto Rico.
     original_excerpt: We're looking from this view from the space shuttle, I guess around 350 something miles high. We're
@@ -681,19 +766,24 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.801
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 86f8df64-f392-47ca-93fb-c5d8c00ad7a1
         title: USA, Puerto Rico
         slug: puerto-rico-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
         slug: maaneli-max-derakhshani
       - node_id: c32507e1-c3c3-4309-a4db-af7bdaaf77b0
         title: Space Shuttle Columbia
         slug: space-shuttle-columbia
+      - node_id: fd0f66b9-f7c3-4ded-872b-ab74cf998db1
+        title: STS-80 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-80-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:46:00.8-00:46:07.5

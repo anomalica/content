@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9a79b6a9d2438c2723ad8ef2474e3ba00495a31e9cf5ac28af6860b0d5b60682
+brief_hash: f1b9d71f4019239618bc1c50c3700d965fd0c079ca2b08441aa6d1faf3cbe3b8
 page:
   kind: entity
   node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 730
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 6
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.833
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -57,6 +67,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
         title: United States Naval Forces Central Command (NAVCENT)
@@ -89,6 +104,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4167f02c-6de0-4e71-b7f2-afad64767943
         title: Strait of Hormuz
@@ -129,6 +149,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
         title: United States Naval Forces Central Command (NAVCENT)
@@ -164,6 +189,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.806
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
         title: United States Naval Forces Central Command (NAVCENT)
@@ -194,6 +224,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
         title: United States Naval Forces Central Command (NAVCENT)
@@ -211,20 +246,25 @@ claims:
       record_reference: null
       content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
       friendly_name: null
-  - claim_id: 2ffe5bfa-25c2-4a6c-afc8-0fc873c6cd6a
-    claim_hash: a80b600eea548cbd9e760378c1be0146e68b4b2ae5feb6e14590b171263003fc
-    content: The mission that included the 2022-07-31 UAP sighting near Deir ez-Zor, Syria fell under the combatant command
-      of United States Central Command (USCENTCOM).
-    original_excerpt: 'Combatant Command (COCOM): USCENTCOM'
+  - claim_id: 63cdef0c-7036-40fa-a7fc-394ba0a265db
+    claim_hash: 47313d9ac8c83278af148db9cc8bf3c37a9f236544d812f59f3f5c4e09112c35
+    content: The mission associated with the 31 July 2022 UAP sighting near Deir ez-Zor fell under United States Central Command
+      (USCENTCOM) as the combatant command.
+    original_excerpt: '**Combatant Command (COCOM):** USCENTCOM'
     claim_type: administrative
     attestation: second_hand
     speaker: null
     provenance_chain:
       origin_kind: document
-      origin: the mission report (MISREP)
+      origin: the mission report admin section
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4601c91f-54fd-4465-91dc-850378d5eed9
         title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
@@ -232,9 +272,9 @@ claims:
       - node_id: 71e19b96-d74c-4ebe-a427-d979a83673a3
         title: United States Naval Forces Central Command (NAVCENT)
         slug: united-states-naval-forces-central-command-navcent
-    date: '2022-07-31'
+    date: null
     date_end: null
-    location_in_record: char:1507-1534
+    location_in_record: char:1640-1669
     evidence:
       score: null
       independent_sources: 1

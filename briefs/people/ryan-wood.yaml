@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 968
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 5
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -68,6 +78,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.426
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6260d48c-d517-49e6-be1a-ab4b0482f4b6
         title: Classification Review of All UFO Intelligence Files Affecting National Security (memo)
@@ -107,6 +122,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.536
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8fc62232-3acf-41ec-9851-4886ef37419d
         title: Ryan Wood
@@ -148,6 +168,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -191,6 +216,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -228,6 +258,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -264,6 +299,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1dccbb94-275f-44de-8f9a-edb60870ff3e
         title: Timothy Cooper
@@ -305,6 +345,11 @@ claims:
         - report to Robert Wood and Ryan Wood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8784e981-b45a-4459-8cd9-56c3fcb8eb2d
         title: Robert M. Wood

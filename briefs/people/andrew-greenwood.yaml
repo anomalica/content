@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1bc3b08fbd7224ff57abb9720a321721453b9b26983f44610cc550127b7b6354
+brief_hash: b17f9543a98d8d2a59c98c9b7c77ee94e1d38173949bd03c937b7c69fe414a85
 page:
   kind: entity
   node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
@@ -9,11 +9,21 @@ page:
   claim_count: 17
   claim_count_total: 17
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 17
   tokens_estimated: 1892
   sized_against: 1050000
+entailment:
+  assessed: 17
+  unassessed: 0
+  entails: 8
+  neutral: 5
+  contradicts: 4
+  entailed_by_quote: 1
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.059
+  entailed_by_window_fraction: 0.412
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -27,17 +37,12 @@ related_nodes:
     title: 1966 Westall Unidentified Flying Object (UFO) incident
     node_type: event
     slug: 1966-westall-unidentified-flying-object-ufo-incident
-    shared_claims: 11
+    shared_claims: 14
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
     node_type: person
     slug: ross-coulthart
     shared_claims: 5
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 3
   - node_id: b2f9fdfa-2065-4dc6-ba0f-379f778cb4f9
     title: Australia, Victoria, Westall High School
     node_type: place
@@ -55,7 +60,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: a976f236-77d2-40b1-8510-68332f9e6139
-    claim_hash: 304400401023a550be5a9fd75b7ba66c20cdba66f2f01e1eb6c1553a87c3112b
+    claim_hash: c93319af025a4388a243d13f9117cefc98608593f2144299e7a7955cd9162b8a
     content: Teacher Andrew Greenwood confirmed he saw a silvery-green disc during the Westall school incident on 6 April
       1966.
     original_excerpt: Teacher Andrew Greenwood later confirmed he too saw a silvery-green disc.
@@ -68,13 +73,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
         slug: andrew-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
     date: '1966-04-06'
     date_end: null
     location_in_record: ch10:12156-12224
@@ -84,12 +94,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 89a2094f-504c-441b-b0d7-e409d6b3934f
-    claim_hash: d33aa629ee4d1988863f032059b09e6700bbf13e7b44aa6a5fe8c8a487829ff3
+    claim_hash: 466ffd6ddc3d28806555a8d449dd7b04a7e88e2d9cd6a66e3e478a65ec40d5b0
     content: Teacher Andrew Greenwood said two government agents knocked on his door the night of the Westall incident and
       warned him not to speak about what he saw.
     original_excerpt: Teacher Andrew Greenwood says two government agents even knocked on his door that night and warned him
@@ -103,13 +113,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
         slug: andrew-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
     date: '1966-04-06'
     date_end: null
     location_in_record: ch10:15322-15452
@@ -119,12 +134,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b7f8db86-b364-4196-b2be-470736cce791
-    claim_hash: 24baf08be0f49f36d295a0e80afe05d396cc9b7eddbcd03b929173c263cbdd84
+    claim_hash: c8eaae3c362885508dd1443308cab25b1c9ac34bd600e1bc443a6c50c3d647a4
     content: Andrew Greenwood says the newspaper article about the Westall sighting led to a subsequent visit to his home
       by government and military officials, who threatened him to keep quiet about what he saw.
     original_excerpt: Greenwood says the article led to the subsequent visit to his home by government and military officials,
@@ -140,13 +155,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
         slug: andrew-greenwood
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
+        title: 1966 Westall Unidentified Flying Object (UFO) incident
+        slug: 1966-westall-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch37:2497-2650
@@ -156,7 +176,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -176,6 +196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -217,6 +242,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -255,6 +285,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.789
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -296,6 +331,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -337,6 +377,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -379,6 +424,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -417,6 +467,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.857
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -456,6 +511,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -492,6 +552,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -530,6 +595,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -565,6 +635,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -598,6 +673,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -634,6 +714,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -671,6 +756,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.958
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood

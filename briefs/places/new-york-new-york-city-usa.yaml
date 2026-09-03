@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3dcd1113f30c84948b8c8ea77a394e5174b8609b272562b9978aaaccb6056904
+brief_hash: 33789f3b7a9d580573f378bc434a190bfcdfc4df83e8118191cfa306d65f6028
 page:
   kind: entity
   node_id: e8d67c8e-f0dd-4c2a-bc87-8d3b4715a228
@@ -9,11 +9,21 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 11
   tokens_estimated: 1649
   sized_against: 1050000
+entailment:
+  assessed: 11
+  unassessed: 0
+  entails: 10
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 6
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.545
+  entailed_by_window_fraction: 0.364
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -73,7 +83,7 @@ related_nodes:
     node_type: person
     slug: jacques-vallee
     shared_claims: 1
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+  - node_id: 8fb276de-0132-423b-a194-863021a9d1d0
     title: Mrs. M.
     node_type: person
     slug: mrs-m
@@ -122,6 +132,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 01bdd3c4-9335-494b-9206-2615f7453f73
         title: United Nations Special Political Committee
@@ -168,6 +183,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.731
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0ccfa4fa-7fae-4c16-bdf5-5b561bef99e0
         title: Antigravity
@@ -195,7 +215,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: 2a0c4cf4-8d3d-4c61-8020-7cc8ed14249d
-    claim_hash: af2693eedafd88fa05260929a3c8c5b8858a5a55b38d3f56fa0b436f65dfa31c
+    claim_hash: f50c8dc96d544f433588f25be2c7f3cb23a2d75211d65ac2944efb1fcd054304
     content: R.G., a friend of Mrs. M., had suggested that Robert Monroe attempt to visit a séance to be held by Mrs. M. in
       a New York apartment on a Friday night.
     original_excerpt: R.G., a friend of Mrs. M., had suggested that I attempt to 'visit' a séance to be held by Mrs. M. in
@@ -211,11 +231,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
         slug: robert-monroe
-      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+      - node_id: 8fb276de-0132-423b-a194-863021a9d1d0
         title: Mrs. M.
         slug: mrs-m
       - node_id: c2a3a5d9-cc8d-44c1-a397-c3e79b3508f3
@@ -255,6 +280,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -290,6 +320,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.727
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -333,6 +368,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 54fb2b2c-27a0-4250-b0ce-5526a6dc13a2
         title: USA, New Jersey, Newark Airport
@@ -375,6 +415,11 @@ claims:
         - a letter to Charles T. Tart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -416,6 +461,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c4b8749d-1f12-431f-9942-5610bd750a9a
         title: Stanley Krippner
@@ -455,6 +505,11 @@ claims:
         - Stanley Krippner's letter to Charles T. Tart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -498,6 +553,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -536,6 +596,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: adbaf699-a6e5-418c-a8ba-24e21dd0ab92
         title: Budd Hopkins

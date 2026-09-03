@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: d44f991aeb97719a0b9c5f08c8a1f97c80f821ed3a3553e4f4565db2139545e1
+brief_hash: 88200bf190fe7c8c26a7102e8e52f834f48bec509c687ef0ced88d04fb5c322f
 page:
   kind: entity
   node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1188
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 8
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 5
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.3
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,10 +38,10 @@ related_nodes:
     node_type: organisation
     slug: central-intelligence-agency-cia
     shared_claims: 6
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+    title: William J. Clinton
     node_type: person
-    slug: bill-clinton
+    slug: william-j-clinton
     shared_claims: 5
   - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
     title: Bruce Maccabee
@@ -89,6 +99,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -110,7 +125,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 1b8cf3b4-33dc-4f1b-b6e3-077b1d580dec
-    claim_hash: 3468eb4bb961beed0a260eaa2f295f4d4a3445960212c939d60ba84e955681a7
+    claim_hash: ca30a990dd1cf5a534fb91ca4b64b3c84561da2a3c8ff30b01a48391a9d4a488
     content: Ronald Pandolfi advised Bill Clinton that he should be briefed by Bruce Maccabee, a longtime civilian UFO researcher
       who had written a book about UFOs and the FBI.
     original_excerpt: Ron Pandolfi told Clinton he should get briefed by a guy named Bruce Maccabee who had written about
@@ -126,6 +141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -133,15 +153,15 @@ claims:
       - node_id: 0c0f7266-312d-4b09-99a4-0126cc96308d
         title: Bruce Maccabee
         slug: bruce-maccabee
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
       - node_id: c430b2b2-7900-45c9-9882-98ac4ab14e88
         title: Federal Bureau of Investigation (FBI)
         slug: federal-bureau-of-investigation-fbi
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:47:46.2-00:47:56.5
@@ -156,7 +176,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: fcfb04bf-222b-495d-84f0-b1300da49864
-    claim_hash: 6e25c3facbcbc190644c919db5ed05f6281744e187663c0b9313a110de9d06ed
+    claim_hash: 8afd8d4a196532c2ee5b58a6757ffb9bce97c40ba6cec389a680c285d370c475
     content: Ronald Pandolfi was running the CIA's Weird Desk at the time Bill Clinton's science advisor sought a UFO briefing.
     original_excerpt: And at that point, a guy called Dr. Ronald Pandolfi was running the Weird Desk.
     claim_type: testimony
@@ -170,6 +190,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -177,9 +202,9 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:49:18.8-00:49:23.0
@@ -194,7 +219,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 63d32f5f-d26e-4216-badd-0b4f1f215298
-    claim_hash: 28b8bc2246e7f6ffceb3d3a98e168b92700292d743951f82e7f2823501776789
+    claim_hash: 740799f8062d5fe6336d7dfdd25175c1d27ae0999c4440b06f185f05b1cc5f6c
     content: Bruce Maccabee received a call from Ronald Pandolfi asking him to deliver to Bill Clinton's science advisor the
       lecture he had once given to the CIA, and was told the briefing was the following morning at eight o'clock, leaving
       almost no time to prepare.
@@ -213,6 +238,11 @@ claims:
         - Bruce Maccabee's public retelling of the story
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -223,9 +253,9 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:49:25.2-00:49:44.0
@@ -240,7 +270,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ae2337df-7ca4-42ec-8003-256b17cac3ed
-    claim_hash: 36770d4be758af97eac8b6d3ad2c05a9b25e999e3728eaf3f74d81de636ef9fc
+    claim_hash: cadb29696b85a7a97a44634a95215f63eedbabadcb4d65ab43e122fb0bb33300
     content: William LaParl suggested that the CIA's handling of the Bill Clinton UFO briefing request was intended to push
       the matter away rather than confront what was going on.
     original_excerpt: And there's a guy called William LaParl, who I think had closer interactions with Pandolfi at this time.
@@ -257,6 +287,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -267,9 +302,9 @@ claims:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:50:02.1-00:50:13.8
@@ -284,7 +319,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: b0a1244b-8c2a-49c2-a771-6303eb2cd0b8
-    claim_hash: 8ff1e3581c9c47f7e404c392c77848a634ed417a3842808aad2013447b324c6c
+    claim_hash: 7711b486d5033dfa346bb84e086ce78ddfa4536f744d6bdea2c8d4dd1e056a68
     content: Bill Clinton's attempt to obtain UFO information was shut down by Ronald Pandolfi, in Jason Samosa's account.
     original_excerpt: You've got Clinton, comes in, he's just this guy, and he wants the information and it's shut down by
       Dr. Pandolfi
@@ -299,16 +334,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
         slug: ronald-pandolfi
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
     date: null
     date_end: null
     location_in_record: 00:50:38.2-00:50:45.7
@@ -340,6 +380,11 @@ claims:
         - an interview with Danny Jones
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -379,6 +424,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -412,6 +462,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.755
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi
@@ -450,6 +505,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c023c1b-30bd-48a1-a836-2b291ff5853a
         title: Ronald Pandolfi

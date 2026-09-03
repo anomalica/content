@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1608
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 7
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.222
+  entailed_by_window_fraction: 0.556
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -155,6 +165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.458
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0eb98bbe-5bbf-42a5-baf9-1f885cf7f557
         title: Keith Morgan
@@ -195,6 +210,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
         title: American Broadcasting Company (ABC)
@@ -236,6 +256,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.72
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 370b81cb-43b6-4a6d-84f1-61882ee4e05e
         title: Joyce Bergstrom
@@ -277,6 +302,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.75
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
         title: American Broadcasting Company (ABC)
@@ -316,6 +346,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 56c758eb-6bcb-4b36-951a-c9b674c8ff65
         title: Man in Space (film)
@@ -353,6 +388,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.505
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2bb9dc7d-3f6a-48eb-be12-5e963cba37ea
         title: Nightline (ABC News programme)
@@ -399,6 +439,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
         title: Walter Sullivan
@@ -461,6 +506,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
         title: American Broadcasting Company (ABC)
@@ -500,6 +550,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.709
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5af95a06-2e78-4b56-a826-0d83e136ead8
         title: American Broadcasting Company (ABC)

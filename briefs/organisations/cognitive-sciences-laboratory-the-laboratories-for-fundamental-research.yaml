@@ -9,11 +9,21 @@ page:
   claim_count: 21
   claim_count_total: 21
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 21
   tokens_estimated: 3298
   sized_against: 1050000
+entailment:
+  assessed: 21
+  unassessed: 0
+  entails: 21
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 18
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.857
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -49,7 +59,7 @@ related_nodes:
     slug: edwin-c-may
     shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 2
@@ -106,6 +116,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -143,6 +158,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.7
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -187,6 +207,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.382
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -222,9 +247,14 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.374
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -265,6 +295,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -308,6 +343,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -343,6 +383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.829
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
         title: USA, California, Palo Alto
@@ -383,6 +428,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -417,6 +467,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -451,6 +506,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -489,6 +549,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.759
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -526,6 +591,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.447
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -563,6 +633,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.58
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -597,6 +672,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -637,6 +717,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.55
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
         title: Edwin C. May
@@ -676,6 +761,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 453f8a2a-ff6f-4d61-a7ad-4d8eaab66452
         title: Edwin C. May
@@ -714,6 +804,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -748,6 +843,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.458
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
         title: Project STARGATE
@@ -789,6 +889,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ec014d7-24dd-43a2-afa0-6bac966d33a4
         title: Project STARGATE
@@ -829,6 +934,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -865,12 +975,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0ef51947-c1a0-4888-99c1-313a2990a9c4
         title: USA, California, Palo Alto
         slug: california-palo-alto-usa
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory

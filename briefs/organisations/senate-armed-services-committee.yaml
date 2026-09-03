@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: b6f96508b458ff459f28043d163841173aef55850c85f3981877fb62bd9221fa
+brief_hash: 32c5cf445da090954eeb0ae1ed6f475b37d608b04304415d1d9e540406c73c01
 page:
   kind: entity
   node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 13
   tokens_estimated: 1957
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 10
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 7
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.538
+  entailed_by_window_fraction: 0.231
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -53,10 +63,10 @@ related_nodes:
     node_type: organisation
     slug: united-states-navy-usn
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 163d263a-0d5b-4181-afa7-134d0e8b7a24
+    title: 1955 Trans-Caucasus Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1955-trans-caucasus-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 1
   - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
     title: Barry Goldwater
@@ -124,9 +134,9 @@ related_nodes:
     slug: strom-thurmond
     shared_claims: 1
   - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    title: Unidentified Anomalous Phenomena Disclosure Act of 2023
     node_type: document
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
+    slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     shared_claims: 1
   - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
     title: United States Department of Defense (DoD)
@@ -134,121 +144,6 @@ related_nodes:
     slug: united-states-department-of-defense-dod
     shared_claims: 1
 claims:
-  - claim_id: 154b7a76-e207-4667-801f-1bdde5b26c61
-    claim_hash: ad4db02b0a977ae6c4fa3f48100d665eb34df859c220c2fdd132b05825531639
-    content: Strom Thurmond was the chairman of the United States Senate Armed Services Committee.
-    original_excerpt: Senator Thurmond, who was the powerful chairman of the Senate Armed Services Committee
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
-        title: Senate Armed Services Committee
-        slug: senate-armed-services-committee
-      - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
-        title: Strom Thurmond
-        slug: strom-thurmond
-    date: null
-    date_end: null
-    location_in_record: ch25:22212-22289
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
-    claim_hash: 79c8c7e7b1a93f86255235c9b6e97286a8e279eb09308465bef7ba7195f540fa
-    content: Barry Goldwater served on the United States Senate Armed Services Committee, the Aeronautical and Space Sciences
-      Committee, and was a former chairman of the Senate Intelligence Committee.
-    original_excerpt: Goldwater was a very senior Senator; he served on the Armed Services Committee, the Aeronautical and
-      Space Sciences Committee, and was a former chairman of the Senate Intelligence Committee.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
-        title: Barry Goldwater
-        slug: barry-goldwater
-      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
-        title: Senate Armed Services Committee
-        slug: senate-armed-services-committee
-    date: null
-    date_end: null
-    location_in_record: ch27:19147-19327
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 23a7ff59-6c44-443e-9020-c4d3877ad18e
-    claim_hash: a263a64ecad81e19dc1d9d25e3045b314aa57fe2ab20d0a3e467b4b6914b0845
-    content: In 1955, during a visit to the Soviet Union, United States Senator Richard Russell, head of the Senate Armed
-      Services Committee, looked out of his train window in the Trans-Caucasus region and saw a disc-shaped object slowly
-      ascending vertically, with its outer surface revolving slowly and two lights visible on top.
-    original_excerpt: looked out of his train window in the Trans-Caucasus region to see a disc-shaped object slowly ascending
-      vertically, with its outer surface revolving slowly and with two lights visible on the top
-    claim_type: observation
-    attestation: second_hand
-    speaker:
-      node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
-      title: Richard Russell
-    provenance_chain:
-      origin_kind: named
-      origin: Richard Russell
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
-        title: Richard Russell
-        slug: richard-russell
-      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
-        title: Senate Armed Services Committee
-        slug: senate-armed-services-committee
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
-      - node_id: c7965e59-a337-48a9-be72-5ecf730cfa24
-        title: Russia, Trans-Caucasus
-        slug: trans-caucasus-russia
-    date: '1955'
-    date_end: null
-    location_in_record: ch9:765-957
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ba82812a-2d1c-479b-9249-60187dbf5494
     claim_hash: 68be1ba4c8e0ffd20a92f41044622987032937457781bb6cff3f8205c777b8c6
     content: The first briefing Christopher Mellon facilitated on retrievals of unexplained objects was provided to staff
@@ -266,6 +161,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.43
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -289,6 +189,136 @@ claims:
       record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 154b7a76-e207-4667-801f-1bdde5b26c61
+    claim_hash: ad4db02b0a977ae6c4fa3f48100d665eb34df859c220c2fdd132b05825531639
+    content: Strom Thurmond was the chairman of the United States Senate Armed Services Committee.
+    original_excerpt: Senator Thurmond, who was the powerful chairman of the Senate Armed Services Committee
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+      - node_id: 9c05e5aa-adcc-4988-ac84-7d062a159a23
+        title: Strom Thurmond
+        slug: strom-thurmond
+    date: null
+    date_end: null
+    location_in_record: ch25:22212-22289
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
+    claim_hash: 79c8c7e7b1a93f86255235c9b6e97286a8e279eb09308465bef7ba7195f540fa
+    content: Barry Goldwater served on the United States Senate Armed Services Committee, the Aeronautical and Space Sciences
+      Committee, and was a former chairman of the Senate Intelligence Committee.
+    original_excerpt: Goldwater was a very senior Senator; he served on the Armed Services Committee, the Aeronautical and
+      Space Sciences Committee, and was a former chairman of the Senate Intelligence Committee.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+        title: Barry Goldwater
+        slug: barry-goldwater
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+    date: null
+    date_end: null
+    location_in_record: ch27:19147-19327
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 23a7ff59-6c44-443e-9020-c4d3877ad18e
+    claim_hash: e3b3c7f1ac61e7956f2f152c8a102229393baf9f2abf4667087c77e081a365f7
+    content: In 1955, during a visit to the Soviet Union, United States Senator Richard Russell, head of the Senate Armed
+      Services Committee, looked out of his train window in the Trans-Caucasus region and saw a disc-shaped object slowly
+      ascending vertically, with its outer surface revolving slowly and two lights visible on top.
+    original_excerpt: looked out of his train window in the Trans-Caucasus region to see a disc-shaped object slowly ascending
+      vertically, with its outer surface revolving slowly and with two lights visible on the top
+    claim_type: observation
+    attestation: second_hand
+    speaker:
+      node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
+      title: Richard Russell
+    provenance_chain:
+      origin_kind: named
+      origin: Richard Russell
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 163d263a-0d5b-4181-afa7-134d0e8b7a24
+        title: 1955 Trans-Caucasus Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1955-trans-caucasus-unidentified-aerial-phenomena-uap-sighting
+      - node_id: 70355193-4371-46f6-8c0f-6e66a60d261b
+        title: Richard Russell
+        slug: richard-russell
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+      - node_id: c7965e59-a337-48a9-be72-5ecf730cfa24
+        title: Russia, Trans-Caucasus
+        slug: trans-caucasus-russia
+    date: '1955'
+    date_end: null
+    location_in_record: ch9:765-957
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
     claim_hash: 9bffce4180a52276e4635ad8b7cfb3f55a94e0f85887935b9bd050bec6d5f3f8
     content: Eric Davis briefed Department of Defense (DoD) agencies and staff members from both the Senate Armed Services
@@ -306,6 +336,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.698
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -328,7 +363,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -350,6 +385,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.601
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -369,7 +409,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -389,6 +429,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.839
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -411,7 +456,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -432,6 +477,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -440,8 +490,8 @@ claims:
         title: Senate Armed Services Committee
         slug: senate-armed-services-committee
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: '2023'
     date_end: null
     location_in_record: ch32:6163-6329
@@ -451,7 +501,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -473,6 +523,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -492,7 +547,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -512,6 +567,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
         title: Christopher K. Mellon
@@ -531,7 +591,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -553,6 +613,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -578,7 +643,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -599,6 +664,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
         title: Senate Armed Services Committee
@@ -636,6 +706,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.593
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
         title: Sean Kirkpatrick

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5759bd820a0e4e8f084c3a81cde81432ecc9212b9d1b750929af5544248d82e5
+brief_hash: 2c971253d2c6d0db2dacf8770562b1c088d3b254a42cb057be9d2c6ca7ce72be
 page:
   kind: entity
   node_id: dd890afa-df11-4b5a-b4c6-c4b77275b2ef
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 905
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -100,6 +110,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.607
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 242f3cc4-6031-41b3-888d-91639576f420
         title: Enterprise Mission
@@ -149,6 +164,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -191,6 +211,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86002941-4b26-48e5-8629-0d332b938ca9
         title: Apollo 11
@@ -226,6 +251,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.43
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 59020b67-d31b-444e-b1c3-fba4a58e924e
         title: USA, Maryland, Greenbelt, Goddard Space Flight Center (GSFC)
@@ -247,7 +277,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 79100e7b-36ac-4cfa-8b52-b76e8b5145b3
-    claim_hash: 829d1ed39b774e6c4d701283b317b883e1bcd6250eae5c1747191a0a16858989
+    claim_hash: 629a6f9b3b9f12ff170c8aaac95f19764aa1c11607711845fd0ec73bc6cbc919
     content: The war.gov/UFOs release included one of the Apollo 17 images showing a triangular arrangement of blue lights,
       scanned from the US National Archives.
     original_excerpt: one of the Apollo images they showed from Apollo 17 of this triangular arrangement of blue lights, They
@@ -263,6 +293,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.959
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7485c32b-311e-4c47-9279-4b11d8149c7b
         title: War.gov/UFOs release

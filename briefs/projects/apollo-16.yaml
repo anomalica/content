@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 465c4c0a30c06e0f8a9425ea2f1048eb60f262668e6d52ee0f8b3defed5b94fa
+brief_hash: 892a8deaff68b20350a926e285a1ca3b3ed9c3b99a4896b72f76cbb69174b4b2
 page:
   kind: entity
   node_id: bb31f7ea-899c-4373-872c-8c326d325928
@@ -9,11 +9,21 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 15
   tokens_estimated: 2240
   sized_against: 1050000
+entailment:
+  assessed: 15
+  unassessed: 0
+  entails: 15
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 8
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.533
+  entailed_by_window_fraction: 0.467
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -106,6 +116,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -143,6 +158,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -179,6 +199,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.472
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -218,6 +243,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -248,6 +278,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.813
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
         title: Orion (Apollo 16 Lunar Module)
@@ -284,6 +319,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.559
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
         title: Orion (Apollo 16 Lunar Module)
@@ -317,6 +357,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 07ff368f-3ac8-4204-98dd-faf540958308
         title: Descartes (lunar crater)
@@ -353,6 +398,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
         title: Orion (Apollo 16 Lunar Module)
@@ -392,6 +442,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2bd9d043-7930-45eb-93b3-ddeec7e67dba
         title: Orion (Apollo 16 Lunar Module)
@@ -433,6 +488,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: aeb780b9-3c7f-425a-96f6-ae24e38a1db1
         title: Charles Duke
@@ -470,6 +530,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
         title: Apollo 17 landing site, Taurus-Littrow
@@ -509,6 +574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 90e3876c-6482-4dc0-85b7-f23f374a9a93
         title: Apollo 17 landing site, Taurus-Littrow
@@ -536,7 +606,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 0e1070d7-8e0a-40a3-9e04-3cbcabe3dafc
-    claim_hash: 713f39e010a4f171d40a3dfbf14240814b946df9e7845cc43228b52104759acc
+    claim_hash: c6d133436a77315e4d473c4ead77bc2433e058152c65e6f83f3b6bb595149404
     content: Harrison Schmitt did not use the data card book to the extent he believes it was used on Apollo 15 and possibly
       on Apollo 16.
     original_excerpt: I did not use the data card book to the extent that I know it was used on 15 and maybe on 16.
@@ -551,6 +621,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -575,7 +650,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 59823a5d-0bac-485b-adce-31eac3ddd183
-    claim_hash: fc214707bfd332244a04aada73bb08332edea2390b9b356b4767a18629a12356
+    claim_hash: 595c4ba87ffcfe69b4b646580b759597cb8a274a0b0862f2dbc18c6101c41ae4
     content: On Apollo 17, the onset of a loose-stool problem was delayed until about the 11th or 12th day, unlike on Apollo
       16.
     original_excerpt: I think it's important to try to understand why Apollo 17 was different than 16, and at least in the
@@ -591,6 +666,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16
@@ -615,7 +695,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 31cfa078-9577-4437-b151-3abf534ab345
-    claim_hash: 01faa7f55a6c575992390c57fe1e0a23af010efaf4f147eaa9dea475ba56514b
+    claim_hash: 3a66283c09a4a76d3c82a86945dc02eacc13fddacc4ab64ddb98cf5578546feb
     content: Harrison Schmitt's personal opinion, based on limited in-flight observation and consideration of electrolyte
       intake levels, was that the reduced electrolyte quantity compared to Apollo 16 meant electrolyte saturation was not
       reached until the 11th or 12th day for the Command Module Pilot and Lunar Module Pilot on Apollo 17.
@@ -633,6 +713,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.94
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: bb31f7ea-899c-4373-872c-8c326d325928
         title: Apollo 16

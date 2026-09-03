@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: d57a7e71bb968bfdbc4f938d2baf8d560b2f22562c2a47c6feac8b3a1aa2d197
+brief_hash: 7a86e77e6e8ba3ad8f4f066584534afc0e19bf594ddc4ddd1c27bd83932c3557
 page:
   kind: entity
   node_id: e2e54c56-bb2e-404b-acde-395745fc950c
   node_type: place
   title: UK
   slug: uk
-  claim_count: 8
-  claim_count_total: 8
+  claim_count: 7
+  claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 8
-  tokens_estimated: 1027
+  claims: 7
+  tokens_estimated: 854
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 7
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.286
+  entailed_by_window_fraction: 0.714
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 8
+  unreviewed: 7
 related_nodes:
   - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
     title: France
@@ -78,29 +88,9 @@ related_nodes:
     node_type: topic
     slug: lucid-dreaming
     shared_claims: 1
-  - node_id: bd4c37aa-ba3b-4bd0-a38d-75dad60ab2ff
-    title: Partial Nuclear Test Ban Treaty signing (1963-08-05)
-    node_type: event
-    slug: partial-nuclear-test-ban-treaty-signing-1963-08-05
-    shared_claims: 1
-  - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-    title: Russia, Moscow
-    node_type: place
-    slug: moscow-russia
-    shared_claims: 1
-  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-    title: USA, District of Columbia, Washington
-    node_type: place
-    slug: district-of-columbia-washington-usa
-    shared_claims: 1
-  - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
-    title: Vatican
-    node_type: organisation
-    slug: vatican
-    shared_claims: 1
 claims:
   - claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
-    claim_hash: 81c6fcd58de7e6a5c213b5ae85d20ab31d39634715b252d5f3581842f7ccb01e
+    claim_hash: 89d62cbed56a0432f6041fc53da28e7f6d54503c306450fef8a309a4245c870d
     content: On 1939-09-02, Great Britain and France sent Hitler an ultimatum demanding the end of all military action by
       1939-09-03.
     original_excerpt: On September 2, Great Britain and France sent him an ultimatum demanding the end of all military action
@@ -114,6 +104,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.794
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -138,7 +133,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
-    claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
+    claim_hash: b8415b80e6dce963af7f5f47703fd3bd6cdd198b06f63c516c6cf91f7ef512f4
     content: When Hitler ignored the ultimatum, Great Britain and France declared war on Germany, officially beginning the
       Second World War.
     original_excerpt: When it was ignored, both nations declared war on Germany. With this the Second World War had officially
@@ -152,6 +147,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -181,52 +181,8 @@ claims:
       record_reference: null
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
-  - claim_id: 56067770-abe8-4a87-8bb3-ae139e7f2f75
-    claim_hash: 28c0579d9a29665dbce27af25624e869df54cac91b7dda236d5c48e463b030ca
-    content: According to European News, the agreement signed by the foreign ministers of the United Kingdom and Russia and
-      the U.S. secretary of state to stop atomic bomb tests was due to intervention by the Vatican.
-    original_excerpt: According to the magazine the agreement signed by the foreign ministers of the United Kingdom and Russia,
-      and the U.S. secretary of state, to stop atomic bomb tests, was 'due to intervention by the Vatican.'
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: European News magazine
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: bd4c37aa-ba3b-4bd0-a38d-75dad60ab2ff
-        title: Partial Nuclear Test Ban Treaty signing (1963-08-05)
-        slug: partial-nuclear-test-ban-treaty-signing-1963-08-05
-      - node_id: cb54ad51-94b1-4a33-b036-7c00ad40cf6b
-        title: Vatican
-        slug: vatican
-      - node_id: e2e54c56-bb2e-404b-acde-395745fc950c
-        title: UK
-        slug: uk
-      - node_id: f612ccb6-6742-42e5-bd05-97ab49801197
-        title: Russia, Moscow
-        slug: moscow-russia
-    date: null
-    date_end: null
-    location_in_record: ch17:463-661
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 171e1337-151f-40c5-8b9a-659faac4c5f6
-      record_title: The Fatima Secret
-      record_date: '2000-11-28'
-      record_reference: null
-      content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
-      friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
-    claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
+    claim_hash: 4f7f181e00237767e89c4b2f853feb0c1ad11cea77e0cee49fcd33da8038b408
     content: At the outbreak of World War I, Germany marched against France, causing Britain to declare war on the German
       Reich.
     original_excerpt: Germany reacted by marching against France, causing Britain to declare war on the German Reich.
@@ -239,6 +195,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -266,7 +227,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
-    claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
+    claim_hash: f1f4249b8fcf8de04c0e40886d0c786e36304926f476d675de905e633b385b54
     content: The allied troops of France and England stopped the German advance after four weeks in World War I, but over
       600,000 German and French soldiers had lost their lives by that point.
     original_excerpt: The allied troops of France and England succeeded in stopping the German advance after four weeks, but
@@ -280,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -323,6 +289,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.556
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -360,6 +331,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 535aae6a-751d-4161-b6b1-df834e088504
         title: Chris Roe
@@ -399,6 +375,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a610319b-44dc-400e-b0c1-3bc958022b56
         title: Lucid Dreaming

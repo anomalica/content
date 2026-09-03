@@ -9,11 +9,21 @@ page:
   claim_count: 63
   claim_count_total: 63
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 63
   tokens_estimated: 9366
   sized_against: 1050000
+entailment:
+  assessed: 63
+  unassessed: 0
+  entails: 55
+  neutral: 5
+  contradicts: 3
+  entailed_by_quote: 14
+  entailed_by_window: 41
+  entailed_by_quote_fraction: 0.222
+  entailed_by_window_fraction: 0.651
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -39,7 +49,7 @@ related_nodes:
     slug: geomagnetic-fluctuations-gmf
     shared_claims: 23
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 5
@@ -126,6 +136,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.805
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -164,6 +179,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -204,6 +224,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -245,9 +270,14 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.374
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -285,6 +315,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6b16c8b6-53f3-4bb8-8109-a1ebc1636931
         title: The Laboratories for Fundamental Research, Cognitive Sciences Laboratory
@@ -321,6 +356,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.378
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -357,6 +397,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.814
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -394,6 +439,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -430,6 +480,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.748
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -470,6 +525,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.787
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -510,6 +570,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.475
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -547,6 +612,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -586,6 +656,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.749
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -622,6 +697,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.662
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -665,6 +745,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -704,6 +789,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.604
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -743,6 +833,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.624
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -783,6 +878,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.731
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -823,6 +923,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -863,6 +968,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -904,6 +1014,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -944,6 +1059,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -976,6 +1096,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.484
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -1013,6 +1138,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.574
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -1050,12 +1180,17 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
         title: Ganzfeld procedure
         slug: ganzfeld-procedure
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -1094,6 +1229,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.552
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -1129,6 +1269,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.948
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -1167,6 +1312,11 @@ claims:
         - S. James P. Spottiswoode's paper
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64f100c7-ad23-46ef-8818-ed5100b507c5
         title: Charlie Hickson
@@ -1203,6 +1353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1244,6 +1399,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.485
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1284,6 +1444,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.937
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -1324,6 +1489,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.416
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -1364,6 +1534,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.722
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -1403,6 +1578,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -1443,6 +1623,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1485,6 +1670,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1527,6 +1717,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.565
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1570,6 +1765,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.804
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
         title: Ganzfeld procedure
@@ -1578,7 +1778,7 @@ claims:
         title: Geomagnetic Fluctuations (GMF)
         slug: geomagnetic-fluctuations-gmf
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -1616,12 +1816,17 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
         slug: geomagnetic-fluctuations-gmf
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -1662,6 +1867,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1705,6 +1915,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.595
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26a7cfe5-ff47-4cab-b6b4-042ffac921cf
         title: Michael Persinger
@@ -1745,6 +1960,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1783,6 +2003,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.438
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26a7cfe5-ff47-4cab-b6b4-042ffac921cf
         title: Michael Persinger
@@ -1823,6 +2048,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1863,6 +2093,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1906,6 +2141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1945,6 +2185,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -1985,6 +2230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.779
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -2025,6 +2275,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.846
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c9fa76a-2f7b-4f4f-964a-7dd041c19d6c
         title: S. James P. Spottiswoode
@@ -2062,6 +2317,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -2101,6 +2361,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -2142,6 +2407,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -2187,6 +2457,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.922
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -2232,9 +2507,14 @@ claims:
         - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -2271,6 +2551,11 @@ claims:
         - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -2316,6 +2601,11 @@ claims:
         - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.488
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a57de97-2fe8-41b9-951a-b58486bf15a5
         title: Geomagnetic Fluctuations (GMF)
@@ -2355,6 +2645,11 @@ claims:
         - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -2391,6 +2686,11 @@ claims:
         - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -2430,6 +2730,11 @@ claims:
         - 'research paper reprinted in Remote Viewing Secrets: A Handbook'
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 101c26f5-00b3-4d25-9163-9b8140824acc
         title: Ganzfeld procedure
@@ -2469,6 +2774,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.64
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -2503,6 +2813,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -2542,6 +2857,11 @@ claims:
         - D. W. Pasulka's own observation of her cousin
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: abcb5364-007d-441a-b246-86e28f74227d
         title: Anomalous Cognition (AC)
@@ -2582,6 +2902,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.839
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24136f1c-4cb7-4030-8ed1-35855481a65e
         title: Tyler D.

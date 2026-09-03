@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: db6038220cc8204df4d0a739a0e05b7ce8a918a6615adb3484f3b03e9111fe6a
+brief_hash: 7db3ed62c0a6e9220b1acda297ff2ab1c70e990712758223c87aad7c6c039325
 page:
   kind: entity
   node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1001
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 5
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.111
+  entailed_by_window_fraction: 0.444
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -27,7 +37,7 @@ related_nodes:
     title: 1948 Roswell UFO incident
     node_type: event
     slug: 1948-roswell-ufo-incident
-    shared_claims: 5
+    shared_claims: 6
   - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
     title: Suzanne Ramsey
     node_type: person
@@ -47,11 +57,6 @@ related_nodes:
     title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
     node_type: event
     slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-    shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
     title: Frank Thayer
@@ -74,99 +79,8 @@ related_nodes:
     slug: new-mexico-roswell-usa
     shared_claims: 1
 claims:
-  - claim_id: 81e0fff9-c9ed-43f3-a8a4-c4897f519685
-    claim_hash: 80b8d69297f977dd8fff5f41ab602d2a7053b15034988920d5f4c3f18eeca489
-    content: Authors Scott Ramsey, Suzanne Ramsey and Frank Thayer tracked down witnesses to corroborate their claim of a
-      giant 30-metre-diameter flying saucer found lying on a mesa above Hart Canyon east of Aztec, New Mexico.
-    original_excerpt: Authors Scott and Suzanne Ramsey and Dr Frank Thayer tracked down an extraordinary number of witnesses
-      to corroborate what they allege was a giant '100-foot diameter (30-metres) flying saucer' found lying on a mesa above
-      Hart Canyon east of the town of Aztec.
-    claim_type: hearsay
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Scott Ramsey, Suzanne Ramsey and Frank Thayer
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-      - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
-        title: Frank Thayer
-        slug: frank-thayer
-      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
-        title: Scott Ramsey
-        slug: scott-ramsey
-      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-        title: Suzanne Ramsey
-        slug: suzanne-ramsey
-      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-        title: USA, New Mexico, Aztec
-        slug: new-mexico-aztec-usa
-      - node_id: de197282-8103-49ca-9474-76f73f431890
-        title: USA, New Mexico, Hart Canyon
-        slug: new-mexico-hart-canyon-usa
-    date: '1948-03-25'
-    date_end: null
-    location_in_record: ch17:14283-14536
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 1a7a8f09-5bf8-461e-87ee-1bf9fd9bbd84
-    claim_hash: 484b2fb572940e73afe7d2b259725975118c49fe6ceac67bd48024d833161a45
-    content: Ross Coulthart spent several days with Scott Ramsey and Suzanne Ramsey in May 2021 walking the Aztec, New Mexico
-      site and reviewing their evidence, including direct witness sightings of a craft and purported alien beings.
-    original_excerpt: I spent several days with the Ramseys in May 2021, walking the Aztec site, and reviewing their extremely
-      detailed evidence, including direct witness sightings of a craft (and purported alien beings).
-    claim_type: observation
-    attestation: first_hand
-    speaker:
-      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-      title: Ross Coulthart
-    provenance_chain:
-      origin_kind: speaker
-      origin: Ross Coulthart
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
-        title: Scott Ramsey
-        slug: scott-ramsey
-      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
-        title: Suzanne Ramsey
-        slug: suzanne-ramsey
-      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-        title: USA, New Mexico, Aztec
-        slug: new-mexico-aztec-usa
-      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-        title: Ross Coulthart
-        slug: ross-coulthart
-    date: 2021-05
-    date_end: null
-    location_in_record: ch17:14748-14939
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 2d26c425-fbc5-4ea7-bc8a-8b1d3606d9c6
-    claim_hash: a5107341869f4270b25a143ee311d49b79ea61dab190c5333696bfae6390a182
+    claim_hash: 11f619e4b30d090130a21e6eb9411c43f436cb574103b81f17b64e0b678a3bb1
     content: Scott Ramsey found out about the 1948 Roswell crash site by accident from local Navajo Indians talking about
       the crash site.
     original_excerpt: Scott found out by accident from local Navajo Indians talking about the crash site.
@@ -182,6 +96,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.895
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
         title: 1948 Roswell UFO incident
@@ -206,7 +125,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: d97d7530-ce7e-43d5-9066-5a89ad358d53
-    claim_hash: 635b2dce06c8fbf2b4fa7da790f4a2ccbf64c1a6fe6a395d13528b92421fc084
+    claim_hash: 6b961507f415ab6ea2ba89692a87b603fd0e72d68c8a59668377e74be4ca13a7
     content: On 1948-03-25, oil workers discovered a lenticular craft after being called out because of a brush fire.
     original_excerpt: Well, on March 25th, 1948, oil workers discovered a lenticular craft laying up here after being called
       out because of a brush fire.
@@ -221,16 +140,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
+        title: 1948 Roswell UFO incident
+        slug: 1948-roswell-ufo-incident
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
         slug: new-mexico-roswell-usa
       - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
         title: Scott Ramsey
         slug: scott-ramsey
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: '1948-03-25'
     date_end: null
     location_in_record: 00:58:33.1-00:58:42.5
@@ -245,7 +169,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 4e4ed678-34a2-4c8f-b682-0d920c4d9304
-    claim_hash: f107b85611907d1583fa38e6d686852233bbda1c70c92b6e4f3df828cbba12f4
+    claim_hash: cbcf7bb3a61d7a32a7d8eb358627e2ed6f1ddd851542c8aa2583af18cd0e1dd9
     content: The 1948 Roswell crash object was approximately 5.5 metres tall and just under 30 metres across.
     original_excerpt: about 18 feet tall, just short of 100 feet across.
     claim_type: measurement
@@ -259,6 +183,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
         title: 1948 Roswell UFO incident
@@ -280,7 +209,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 7669408d-e53e-411b-8b4f-d3b249f10e94
-    claim_hash: e9c9b0cafe1d82d7a709279fda9d32484fd13fa77974cc3320bfaa1ef2a1f98f
+    claim_hash: 7c0bce336ae17ba2c848decf949105744e3b35806412fae3b3671077c30fae10
     content: According to Scott Ramsey and Suzanne Ramsey's research, 16 dead alien bodies were found on board the craft recovered
       in 1948 near Roswell.
     original_excerpt: How many individual dead ... aliens are on board this craft? 16. 16 aliens. 16.
@@ -295,6 +224,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.596
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
         title: 1948 Roswell UFO incident
@@ -319,7 +253,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: b26915b0-86c7-438e-8ca3-427d350c3e1d
-    claim_hash: fd4e071e6c7b27797296c397e42a84bad619db14d5b455c7c19dcc3a96f1ff5a
+    claim_hash: 17e6e4984a7a893c8006e9f16937ed261da7754529b2a869c0eb2282eb1008ae
     content: According to Scott Ramsey, the military arrived at the 1948 Roswell crash site in the late morning to early noontime.
     original_excerpt: The military, late morning, early noontime.
     claim_type: testimony
@@ -333,6 +267,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.865
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
         title: 1948 Roswell UFO incident
@@ -354,7 +293,7 @@ claims:
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
   - claim_id: 27e649fd-5bc8-43ab-a090-c86ae3e3dc5d
-    claim_hash: cfdf09e3698569b73c3e4c952d74062fc3aa9dc1749c40f28f31c10b2a5e10c3
+    claim_hash: 238c9b53369d7d737a47e491080907c33d372d65bafd8246cec4eb7583ba5322
     content: Scott Ramsey's opinion is that the recovered craft from the 1948 Roswell incident was taken to Los Alamos National
       Laboratory.
     original_excerpt: They took it to the Los Alamos nuclear laboratory. That's my opinion.
@@ -369,6 +308,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
         title: 1948 Roswell UFO incident
@@ -408,6 +352,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
         title: Scott Ramsey
@@ -425,3 +374,104 @@ claims:
       record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: 81e0fff9-c9ed-43f3-a8a4-c4897f519685
+    claim_hash: 80b8d69297f977dd8fff5f41ab602d2a7053b15034988920d5f4c3f18eeca489
+    content: Authors Scott Ramsey, Suzanne Ramsey and Frank Thayer tracked down witnesses to corroborate their claim of a
+      giant 30-metre-diameter flying saucer found lying on a mesa above Hart Canyon east of Aztec, New Mexico.
+    original_excerpt: Authors Scott and Suzanne Ramsey and Dr Frank Thayer tracked down an extraordinary number of witnesses
+      to corroborate what they allege was a giant '100-foot diameter (30-metres) flying saucer' found lying on a mesa above
+      Hart Canyon east of the town of Aztec.
+    claim_type: hearsay
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Scott Ramsey, Suzanne Ramsey and Frank Thayer
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
+        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+      - node_id: 332ce87b-4210-4969-8cf0-1c79fdefece4
+        title: Frank Thayer
+        slug: frank-thayer
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: de197282-8103-49ca-9474-76f73f431890
+        title: USA, New Mexico, Hart Canyon
+        slug: new-mexico-hart-canyon-usa
+    date: '1948-03-25'
+    date_end: null
+    location_in_record: ch17:14283-14536
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1a7a8f09-5bf8-461e-87ee-1bf9fd9bbd84
+    claim_hash: 484b2fb572940e73afe7d2b259725975118c49fe6ceac67bd48024d833161a45
+    content: Ross Coulthart spent several days with Scott Ramsey and Suzanne Ramsey in May 2021 walking the Aztec, New Mexico
+      site and reviewing their evidence, including direct witness sightings of a craft and purported alien beings.
+    original_excerpt: I spent several days with the Ramseys in May 2021, walking the Aztec site, and reviewing their extremely
+      detailed evidence, including direct witness sightings of a craft (and purported alien beings).
+    claim_type: observation
+    attestation: first_hand
+    speaker:
+      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+      title: Ross Coulthart
+    provenance_chain:
+      origin_kind: speaker
+      origin: Ross Coulthart
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
+        title: Scott Ramsey
+        slug: scott-ramsey
+      - node_id: c4f511c9-910a-4ca1-9299-53e5d035528d
+        title: Suzanne Ramsey
+        slug: suzanne-ramsey
+      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+        title: USA, New Mexico, Aztec
+        slug: new-mexico-aztec-usa
+      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
+        title: Ross Coulthart
+        slug: ross-coulthart
+    date: 2021-05
+    date_end: null
+    location_in_record: ch17:14748-14939
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

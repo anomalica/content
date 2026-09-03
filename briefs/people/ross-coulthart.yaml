@@ -9,7 +9,7 @@ page:
   claim_count: 1253
   claim_count_total: 1253
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 1253
   tokens_estimated: 169754
@@ -20780,9 +20780,9 @@ claims:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
         slug: uap-crash-retrieval-and-reverse-engineering-program
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -20821,9 +20821,9 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
@@ -33366,9 +33366,9 @@ claims:
       - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
         title: Mantid beings
         slug: mantid-beings
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
         title: Reptilian beings
         slug: reptilian-beings
@@ -46488,12 +46488,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
         slug: sean-chittle
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: '1959'
     date_end: null
     location_in_record: 00:11:52.1-00:12:02.6
@@ -46531,12 +46531,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
         slug: sean-chittle
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: '1959'
     date_end: null
     location_in_record: 00:12:04.0-00:12:11.1
@@ -46573,15 +46573,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
         slug: steven-spielberg
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
         slug: sean-chittle
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 00:12:12.8-00:12:18.3
@@ -46622,9 +46622,6 @@ claims:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
         slug: close-encounters-of-the-third-kind-1977-film
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
         slug: steven-spielberg
@@ -46634,6 +46631,9 @@ claims:
       - node_id: a17397f1-2702-420a-9578-584220463893
         title: The War of the Worlds
         slug: the-war-of-the-worlds
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
         title: E.T. the Extra-Terrestrial (1982 film)
         slug: et-the-extra-terrestrial-1982-film
@@ -46675,12 +46675,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
         slug: sean-chittle
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 00:12:29.4-00:12:33.1
@@ -46717,12 +46717,12 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle
         slug: sean-chittle
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart

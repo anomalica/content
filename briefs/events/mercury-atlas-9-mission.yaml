@@ -9,11 +9,21 @@ page:
   claim_count: 28
   claim_count_total: 28
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 28
   tokens_estimated: 2662
   sized_against: 1050000
+entailment:
+  assessed: 28
+  unassessed: 0
+  entails: 13
+  neutral: 14
+  contradicts: 1
+  entailed_by_quote: 0
+  entailed_by_window: 13
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.464
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -66,6 +76,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -103,6 +118,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.7
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -142,6 +162,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -179,6 +204,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -214,6 +244,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -250,6 +285,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -286,6 +326,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.655
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -323,6 +368,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.771
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -356,6 +406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -388,6 +443,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -424,6 +484,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -459,6 +524,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -494,6 +564,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -529,6 +604,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -565,6 +645,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -600,6 +685,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.696
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -635,6 +725,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.643
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -672,6 +767,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -715,6 +815,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -756,6 +861,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.843
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -791,6 +901,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.755
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -826,6 +941,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -865,6 +985,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.757
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -901,6 +1026,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -937,6 +1067,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -973,6 +1108,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -1009,6 +1149,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.896
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission
@@ -1045,6 +1190,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03473bdf-16be-425d-baf4-626a4ed828aa
         title: Mercury-Atlas 9 mission

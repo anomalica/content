@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: e7e4aaed45003e233bf362cfa195109a56775d95f97459773432ff66da4a1e8f
+brief_hash: 6369a439bc5ce9c6bc9cd22804df64fa80a54c8d5f057926970727a37860fc6e
 page:
   kind: entity
   node_id: 7c2dc890-9158-4057-a773-a3439914d603
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 814
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 2
+  neutral: 3
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 5
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+    title: Varginha Unidentified Flying Object (UFO) incident
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: varginha-unidentified-flying-object-ufo-incident
     shared_claims: 2
   - node_id: b053d9ca-821d-409a-bf48-ab33b2d96a0d
     title: 1977-1978 Brazilian Air Force investigation into Colares Unidentified Flying Object (UFO) incidents
@@ -89,6 +99,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 24062290-5170-4b30-bff7-409b06300930
         title: Institutional Act No. 5 (Brazilian Government Regulation)
@@ -127,6 +142,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.4
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a622a76-8084-42a8-ac0f-33b7dc5c5606
         title: Uyrange Hollanda
@@ -146,12 +166,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: cc26899d-fdb8-41a3-b854-f78917e85b6a
-    claim_hash: 83d4f81005070854703e4285497b18d76e9d3d2a49b381ce4037fca856882abc
+    claim_hash: 279761a7863501733215785bb5972dae7bf76c128071917226ebb4c4155c7584
     content: Among Brazilian investigators, there is a suggestion that the North American Aerospace Defense Command (NORAD)
       might have warned the Brazilian military that an object was headed for the area where it fell during the 1996 Varginha
       incident.
@@ -169,6 +189,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
         title: North American Aerospace Defense Command (NORAD)
@@ -176,9 +201,9 @@ claims:
       - node_id: 7c2dc890-9158-4057-a773-a3439914d603
         title: Brazilian Air Force
         slug: brazilian-air-force
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:10240-10428
@@ -193,7 +218,7 @@ claims:
       content_hash: sha256:524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008e17102e7
       friendly_name: 2025-01-15-ebook-the-fourth-mind
   - claim_id: 152e74e9-19db-4276-b195-15e79faecfa0
-    claim_hash: 34efcd42dc3cbc4f2a6f52d89f4076bedde5eda990b4f41922e9b49246376b59
+    claim_hash: 92fd6b319c7fc8a4acedda2b268909a5a200a19a68cb78b8d9bf6320d2dcad8c
     content: The Brazilian military appeared prepared to embark on a search mission in the Varginha area on the night of the
       1996 incident and delivered an injured person to a local hospital while stating that there was nothing unusual about
       the case.
@@ -211,6 +236,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.43
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 169c1ccd-e1ee-4ad3-91f8-94de0675f903
         title: Humanitas Hospital
@@ -218,12 +248,12 @@ claims:
       - node_id: 7c2dc890-9158-4057-a773-a3439914d603
         title: Brazilian Air Force
         slug: brazilian-air-force
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b0974e63-0c84-49e4-917c-dc8d5733fd2c
         title: Brazil, Varginha
         slug: varginha-brazil
+      - node_id: e82964a8-57d6-40ea-a37e-e74742a7d46f
+        title: Varginha Unidentified Flying Object (UFO) incident
+        slug: varginha-unidentified-flying-object-ufo-incident
     date: null
     date_end: null
     location_in_record: ch13:10483-10713
@@ -255,6 +285,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.837
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 69c58b5d-f47b-44dd-8ec6-2e6352cbc0a4
         title: Brazil, Pará, Colares

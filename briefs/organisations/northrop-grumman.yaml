@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: ccfdb5764047b2f288cb0bb16a53cc2da43c7879cecb463cb146927c8dc85204
+brief_hash: 4c2835bf70eaff462a2ebc4d9903c518173764365b3ec6379403bfaa385df3b5
 page:
   kind: entity
   node_id: c08687d3-db82-43e7-86aa-dd3516a74265
@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 13
   tokens_estimated: 1747
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 12
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.231
+  entailed_by_window_fraction: 0.692
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -140,6 +150,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.878
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -182,6 +197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -223,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.431
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
         title: Crew Exploration Vehicle (CEV)
@@ -261,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.408
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bb4edd27-ef6b-4b47-8650-2a83ae9e149d
         title: Crew Exploration Vehicle (CEV)
@@ -300,6 +330,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.825
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e0f36b1-57e0-486f-aeeb-1e20da75efd9
         title: Boeing
@@ -326,6 +361,49 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
+  - claim_id: d0708ea5-ccbc-48bf-96de-e6520c0c7110
+    claim_hash: 0e7fdbc6d78afb3118c93d0c293cb90257f5a5ff6b6f285b99d42a74e3bc42c2
+    content: The RQ-4 Global Hawk, built by Northrop Grumman, is the largest unmanned aerial system (UAS) in operation by
+      the United States Air Force (USAF).
+    original_excerpt: Built by Northrop Grumman, the RQ-4 Global Hawk is the largest UAS in operation by the USAF.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Congressional Research Service report R47067
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: bcec6900-fcc4-4e5d-b241-cf73e3755094
+        title: Global Hawk
+        slug: global-hawk
+      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
+        title: Northrop Grumman
+        slug: northrop-grumman
+    date: null
+    date_end: null
+    location_in_record: char:143423-143510
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 7ec460a8-44f4-49ad-9cde-b1c5a56ae2ba
     claim_hash: caef8d2df0c5bf459d19744dadbe8b15432c961f9c2de7557abb52401b37a687
     content: TRW was eventually purchased by Northrop Grumman.
@@ -341,6 +419,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.569
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 75748cac-be9a-4dd5-bf52-40e41da1bab0
         title: TRW Inc.
@@ -357,7 +440,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -376,6 +459,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
         title: Northrop Grumman
@@ -389,7 +477,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -413,6 +501,11 @@ claims:
         - told confidentially to Lue Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0017e9ea-ba2f-4c15-9767-6f5a0f4035a0
         title: BAE Systems
@@ -450,48 +543,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: d0708ea5-ccbc-48bf-96de-e6520c0c7110
-    claim_hash: 0e7fdbc6d78afb3118c93d0c293cb90257f5a5ff6b6f285b99d42a74e3bc42c2
-    content: The RQ-4 Global Hawk, built by Northrop Grumman, is the largest unmanned aerial system (UAS) in operation by
-      the United States Air Force (USAF).
-    original_excerpt: Built by Northrop Grumman, the RQ-4 Global Hawk is the largest UAS in operation by the USAF.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Congressional Research Service report R47067
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: bcec6900-fcc4-4e5d-b241-cf73e3755094
-        title: Global Hawk
-        slug: global-hawk
-      - node_id: c08687d3-db82-43e7-86aa-dd3516a74265
-        title: Northrop Grumman
-        slug: northrop-grumman
-    date: null
-    date_end: null
-    location_in_record: char:143423-143510
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 2733ea11-98d7-4838-bc67-434e245d61f5
     claim_hash: 849fd00ef5619642a61e9f6b818c2d3c1b9c1ab157f8b1ba9fda99969466f795
     content: Ross Coulthart considers members of the control group overseeing the legacy UFO retrieval programme to be present
@@ -509,6 +564,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0bbdac2d-a855-466a-a051-2afa64a779e2
         title: UAP crash retrieval and reverse engineering program
@@ -561,6 +621,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.546
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8b4306c9-4b92-4260-88da-a7ae6af7954d
         title: whistleblower protection for defence contractors
@@ -588,7 +653,7 @@ claims:
       content_hash: sha256:73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653becca2bdc
       friendly_name: null
   - claim_id: 31626a94-6157-4424-9461-695aaaf77fc7
-    claim_hash: ce6bfc1666e185695fc560369b6053217bb2367b3db347a582268be9834177cb
+    claim_hash: 1e958b1a23c4edb803deb9769e241456ca21c6d6c3dbbf35e1e802bde895ca4f
     content: There are allegations that Lockheed Martin Space Systems Company and Northrop Grumman established their own retrieval
       and recovery activities, self-funded through Independent Research and Development (IRAD) funds.
     original_excerpt: specific aerospace contractors, I'll name them Lucky Martin and Northrop Grumman, established their
@@ -596,14 +661,19 @@ claims:
     claim_type: hearsay
     attestation: null
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: unattributed
       origin: unnamed allegations
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.733
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ab61de92-c966-4cab-a3c5-05208029f462
         title: Lockheed Martin Space Systems Company
@@ -641,6 +711,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff

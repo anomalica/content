@@ -9,11 +9,21 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 12
   tokens_estimated: 1353
   sized_against: 1050000
+entailment:
+  assessed: 12
+  unassessed: 0
+  entails: 9
+  neutral: 3
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.583
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -109,6 +119,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -127,7 +142,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -148,6 +163,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
         title: Craig McPherson
@@ -163,7 +183,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -184,6 +204,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.617
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2d997284-4cd7-4aba-8527-2d7ab31365ed
         title: USA, Nevada, Indian Springs Air Force Base
@@ -202,7 +227,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -223,6 +248,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a1c194b8-6ce1-4a1a-b9c9-ee35f289b3eb
         title: Foreign Technology Applications Studies Division (FTASD)
@@ -238,7 +268,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -259,6 +289,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
         title: Craig McPherson
@@ -274,7 +309,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -295,6 +330,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.387
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
         title: Craig McPherson
@@ -310,7 +350,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -330,6 +370,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 81ad9518-926a-472b-8e33-fa1462d4068b
         title: Craig McPherson
@@ -348,7 +393,7 @@ claims:
       independent_sources: 1
     provenance:
       record_id: b5ce4e51-f90a-48a5-a043-656e457a6de3
-      record_title: Project Serpo
+      record_title: Interview with Dr Craig McPherson, scientist and former employee of Area 51
       record_date: '2007-06-20'
       record_reference: https://www.bibliotecapleyades.net/sociopolitica/serpo/information24.htm
       content_hash: sha256:a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad71a2c9885
@@ -370,6 +415,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 63e1b3ae-d158-452e-af0c-46def54337cd
         title: 1991 Nellis Air Force Base security lockdown
@@ -398,7 +448,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -417,6 +467,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -436,7 +491,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -459,6 +514,11 @@ claims:
         - Luigi Venditelli relaying it
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.746
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
         title: Janet Airlines
@@ -502,6 +562,11 @@ claims:
         - Luigi Venditelli relaying it
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.717
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
         title: Janet Airlines
@@ -545,6 +610,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1bb24d9f-7f69-4a98-ae83-2bf4a36e5ca5
         title: Janet Airlines

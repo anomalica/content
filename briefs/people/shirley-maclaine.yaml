@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3337d9589ee0e7186a350ac0e311f7866a4e7fef536bd7ad40af6d344df75702
+brief_hash: 435c29732961a737bf6d77d40048d8dff585c7242d9214b2eb666fffe74dee4e
 page:
   kind: entity
   node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 887
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 4
+  neutral: 1
+  contradicts: 2
+  entailed_by_quote: 2
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.286
+  entailed_by_window_fraction: 0.286
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -80,7 +90,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: acafea30-aa20-4779-96a1-8b060048b940
-    claim_hash: 7124a022a11ee37005ab291cbde5b0102ed76b10de18af8f2c254df3d58e8737
+    claim_hash: cababe616b3e41760b7c6c016055df396ab8dcf0e288a71b8de2132a65417bbf
     content: Whitley Strieber recalls sitting on the deck of a Malibu oceanside restaurant with Anne Strieber and Shirley
       MacLaine, listening to them discuss conflict between the dark and the light.
     original_excerpt: I can recall sitting on the deck at Geoffrey’s oceanside restaurant in Malibu with Anne and Shirley
@@ -96,6 +106,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 23df5a4d-b30f-4c3d-b155-0bb1d6355328
         title: Anne Strieber
@@ -140,6 +155,11 @@ claims:
         - Whitley Strieber
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.903
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cd9b19f6-d66e-4e22-99ea-b5f8a2024e4d
         title: Shirley MacLaine
@@ -174,6 +194,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 96b7973f-154d-40e4-8b19-81d26c7d53d6
         title: USA, California, Los Angeles
@@ -212,6 +237,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
@@ -254,6 +284,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.802
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 62136055-e8e7-4269-b624-9cee709b51cf
         title: Going Within
@@ -284,7 +319,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ef4a09d0-8187-4dd0-844f-8cb32c0bd023
-    claim_hash: fb9fa3191a43816fc01b339ed326ab9cbca3429ba7c30b48e64e1cf447efc93a
+    claim_hash: 4d3a5fae8105dd3e2d6efec0b3230d42fed8d7a929623372652bda7d7d13ab03
     content: An experiencer present at the Washington DC meeting described in Shirley MacLaine's Going Within claimed she
       was part of an alien hybrid programme and that her foetus went missing three months into the pregnancy, according to
       Jesse Michels.
@@ -303,6 +338,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
         title: Human-alien hybridization
@@ -349,6 +389,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b706134-940a-4110-809b-ae3c42dcc2f4
         title: Hans-Adam II

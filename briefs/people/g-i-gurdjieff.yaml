@@ -9,11 +9,21 @@ page:
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 8
   tokens_estimated: 1432
   sized_against: 1050000
+entailment:
+  assessed: 8
+  unassessed: 0
+  entails: 6
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -81,6 +91,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -123,6 +138,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -165,6 +185,11 @@ claims:
         - report reaching Robert Monroe
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -199,6 +224,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.649
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -234,6 +264,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.541
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -271,6 +306,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -314,6 +354,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff
@@ -356,6 +401,11 @@ claims:
         - Whitley Strieber's reading of the book
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06ee95cb-01e6-433d-a9af-0dad77e55649
         title: G. I. Gurdjieff

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: d0006090deaa4211b6939029ed6e38b6e5ff13595828684ce302b212ec851a1d
+brief_hash: e85566775c46d1a23df3ef57e268a7c6b5e22733482b392312d5fefb179724a6
 page:
   kind: entity
   node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 900
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 7
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -81,6 +91,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
         title: Strategic Defense Initiative
@@ -104,6 +119,200 @@ claims:
       record_reference: null
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
+  - claim_id: f750dd77-0748-4ec6-8642-b247bcf91a63
+    claim_hash: 545c06c5fadff97a5897e3902ebde3e6c6d7d277b2bfe42e479d16efc15003d3
+    content: At the initiative of President Ronald Reagan, the Strategic Defense Initiative Organization was established in
+      1984 to explore a multi-layered strategic defence against ballistic missiles.
+    original_excerpt: At the initiative of President Ronald Reagan, the Strategic Defense Initiative Organization was established
+      in 1984 to explore a multi-layered strategic defense against ballistic missiles
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+        title: Strategic Defense Initiative
+        slug: strategic-defense-initiative
+      - node_id: 9dd583cb-ee4d-4941-987d-81d439722022
+        title: President Ronald Reagan
+        slug: president-ronald-reagan
+      - node_id: b6d20a8b-bcb2-4715-89b7-dba02b92d6f6
+        title: Strategic Defense Initiative Organization
+        slug: strategic-defense-initiative-organization
+    date: '1984'
+    date_end: null
+    location_in_record: char:134772-134951
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 36608f96-f2d7-49ed-8f0f-f814a9b983b2
+    claim_hash: 68ad8064a06c1a2c4d5553014253edb595de8e8ea02a5c7db00dda46a426c2d2
+    content: The Strategic Defense Initiative involved research into space-based and ground-based systems including laser
+      and interceptor missiles.
+    original_excerpt: this program involved research into space-based and ground-based systems including laser and interceptor
+      missiles.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+        title: Strategic Defense Initiative
+        slug: strategic-defense-initiative
+    date: null
+    date_end: null
+    location_in_record: char:134961-135066
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: b5050b7e-ea3b-449f-99e6-dbdc78c2fa01
+    claim_hash: 9ab0983681830ccafbf06a4a0c909000ab43047682bdc948c5fc165aaef09142
+    content: The Strategic Defense Initiative research effort involved national laboratories and academia.
+    original_excerpt: This intensive research effort involved national laboratories and academia.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.582
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+        title: Strategic Defense Initiative
+        slug: strategic-defense-initiative
+    date: null
+    date_end: null
+    location_in_record: char:135076-135142
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: 8b658a0b-ec5f-42ba-b682-2100592e055e
+    claim_hash: 8c7a7ccfd314ae56c280532128c60e275bbcdf7fbbc2e7eb01ce3517d7c147a5
+    content: Some of the technologies researched under the Strategic Defense Initiative were determined to be years from development,
+      and funding was reduced.
+    original_excerpt: Some of the technologies researched were determined to be years from development, and funding was reduced.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+        title: Strategic Defense Initiative
+        slug: strategic-defense-initiative
+    date: null
+    date_end: null
+    location_in_record: char:135152-135250
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: add825b9-5ef5-46f2-ba78-e35f3815a17f
+    claim_hash: c5595461e840f3f7ca8487041d592a47d39b69dbfd58f18a11d269deb739da0a
+    content: The Strategic Defense Initiative programme ended in 1993 and was replaced by the Ballistic Missile Defense Organization.
+    original_excerpt: The program ended in 1993 and was replaced by the Ballistic Missile Defense Organization.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.47
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
+        title: Strategic Defense Initiative
+        slug: strategic-defense-initiative
+      - node_id: 90131c9e-fbc8-4c4b-a176-6ce2172ff5f4
+        title: Ballistic Missile Defense Organization
+        slug: ballistic-missile-defense-organization
+    date: '1993'
+    date_end: null
+    location_in_record: char:135259-135335
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
+      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
+        Volume I
+      record_date: '2024-02-01'
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
+      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 48e38691-af41-4320-8f3b-b20e58bf35bf
     claim_hash: 09dccee088f5f2955d7b29c6b8034a69c07acc3da4793c40b2e389250916be1c
     content: Luis Elizondo has reason to believe the Strategic Defense Initiative (SDI), nicknamed the Star Wars programme,
@@ -121,6 +330,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -143,176 +357,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: f750dd77-0748-4ec6-8642-b247bcf91a63
-    claim_hash: 545c06c5fadff97a5897e3902ebde3e6c6d7d277b2bfe42e479d16efc15003d3
-    content: At the initiative of President Ronald Reagan, the Strategic Defense Initiative Organization was established in
-      1984 to explore a multi-layered strategic defence against ballistic missiles.
-    original_excerpt: At the initiative of President Ronald Reagan, the Strategic Defense Initiative Organization was established
-      in 1984 to explore a multi-layered strategic defense against ballistic missiles
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-        title: Strategic Defense Initiative
-        slug: strategic-defense-initiative
-      - node_id: 9dd583cb-ee4d-4941-987d-81d439722022
-        title: President Ronald Reagan
-        slug: president-ronald-reagan
-      - node_id: b6d20a8b-bcb2-4715-89b7-dba02b92d6f6
-        title: Strategic Defense Initiative Organization
-        slug: strategic-defense-initiative-organization
-    date: '1984'
-    date_end: null
-    location_in_record: char:134772-134951
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 36608f96-f2d7-49ed-8f0f-f814a9b983b2
-    claim_hash: 68ad8064a06c1a2c4d5553014253edb595de8e8ea02a5c7db00dda46a426c2d2
-    content: The Strategic Defense Initiative involved research into space-based and ground-based systems including laser
-      and interceptor missiles.
-    original_excerpt: this program involved research into space-based and ground-based systems including laser and interceptor
-      missiles.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-        title: Strategic Defense Initiative
-        slug: strategic-defense-initiative
-    date: null
-    date_end: null
-    location_in_record: char:134961-135066
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: b5050b7e-ea3b-449f-99e6-dbdc78c2fa01
-    claim_hash: 9ab0983681830ccafbf06a4a0c909000ab43047682bdc948c5fc165aaef09142
-    content: The Strategic Defense Initiative research effort involved national laboratories and academia.
-    original_excerpt: This intensive research effort involved national laboratories and academia.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-        title: Strategic Defense Initiative
-        slug: strategic-defense-initiative
-    date: null
-    date_end: null
-    location_in_record: char:135076-135142
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: 8b658a0b-ec5f-42ba-b682-2100592e055e
-    claim_hash: 8c7a7ccfd314ae56c280532128c60e275bbcdf7fbbc2e7eb01ce3517d7c147a5
-    content: Some of the technologies researched under the Strategic Defense Initiative were determined to be years from development,
-      and funding was reduced.
-    original_excerpt: Some of the technologies researched were determined to be years from development, and funding was reduced.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-        title: Strategic Defense Initiative
-        slug: strategic-defense-initiative
-    date: null
-    date_end: null
-    location_in_record: char:135152-135250
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
-  - claim_id: add825b9-5ef5-46f2-ba78-e35f3815a17f
-    claim_hash: c5595461e840f3f7ca8487041d592a47d39b69dbfd58f18a11d269deb739da0a
-    content: The Strategic Defense Initiative programme ended in 1993 and was replaced by the Ballistic Missile Defense Organization.
-    original_excerpt: The program ended in 1993 and was replaced by the Ballistic Missile Defense Organization.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 343666c0-9e9a-4e7a-b09e-3feda27209b0
-        title: Strategic Defense Initiative
-        slug: strategic-defense-initiative
-      - node_id: 90131c9e-fbc8-4c4b-a176-6ce2172ff5f4
-        title: Ballistic Missile Defense Organization
-        slug: ballistic-missile-defense-organization
-    date: '1993'
-    date_end: null
-    location_in_record: char:135259-135335
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: d3743fdf-6a99-43ef-98d4-b79ef60f0e47
-      record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
-        Volume I
-      record_date: '2024-02-01'
-      record_reference: null
-      content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
-      friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

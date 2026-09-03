@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 1c61dcd0bf61d0243b2d224927ae416bab13fff51dd4c7a2e217f40f2013057d
+brief_hash: c9968fefd11f9e62b0c0f003adda5297e7698b096562cb4c953d9eefb6f1fdc6
 page:
   kind: entity
   node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
   node_type: project
-  title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
+  title: UFO Retrieval and Reverse Engineering Program (alleged)
   slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
   claim_count: 8
   claim_count_total: 8
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 8
   tokens_estimated: 1092
   sized_against: 1050000
+entailment:
+  assessed: 8
+  unassessed: 0
+  entails: 7
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.125
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,9 +38,9 @@ related_nodes:
     node_type: person
     slug: david-charles-grusch
     shared_claims: 3
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    node_type: organisation
+  - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+    title: All-Domain Anomaly Resolution Office (AARO)
+    node_type: project
     slug: all-domain-anomaly-resolution-office-aaro
     shared_claims: 1
   - node_id: fd762f68-499a-42ef-bf95-51700cf29af3
@@ -61,6 +71,11 @@ claims:
         - reported
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
@@ -99,6 +114,11 @@ claims:
         - Michael Shellenberger
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
@@ -136,6 +156,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
@@ -154,7 +179,7 @@ claims:
       content_hash: sha256:90adc95e78f8aa5fb46873b510fe1cfd420a909322daec66f5b671ab1989ce15
       friendly_name: 2023-06-09-web-claims-that-ufo-information-was-inappropriately-withheld
   - claim_id: ff36a6e7-6c37-4f2d-a64d-1b78e965e101
-    claim_hash: 809f0e13475c11db78e4bdf10b7389423b7870243f41c63cd65de4e93a2dcbd0
+    claim_hash: 7a2a9c9fe5af6387036cd17bcb48d4b49159e458aec72447f48d0ee72d9a0c1e
     content: Marik von Rennenkampff considers it conceivable that the All-domain Anomaly Resolution Office, the Department
       of Defense's current UFO analysis effort, is not privy to the alleged UFO Retrieval and Reverse Engineering Program,
       like its predecessor organisations.
@@ -171,12 +196,17 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
         slug: unidentified-flying-object-ufo-retrieval-and-reverse-engineering-program-alleged
-      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-        title: All-domain Anomaly Resolution Office (AARO)
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
         slug: all-domain-anomaly-resolution-office-aaro
     date: null
     date_end: null
@@ -206,6 +236,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
@@ -243,6 +278,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
@@ -279,6 +319,11 @@ claims:
         - reported by Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)
@@ -315,6 +360,11 @@ claims:
         - reported by Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a4be630-647c-44d0-81ad-3c6953d07779
         title: Unidentified Flying Object (UFO) Retrieval and Reverse Engineering Program (alleged)

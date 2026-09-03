@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: a3fc7211b1862176d3f193748d3cddcc4a8f1fb8ceee9b9fd2dbfcb7243815bf
+brief_hash: a9b245c01ea191dd8721cdd4179419403edbb208e3a5e71bbd809e9cf306f498
 page:
   kind: entity
   node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
   node_type: event
   title: 2023 Chinese spy balloon incident
   slug: 2023-chinese-spy-balloon-incident
-  claim_count: 9
-  claim_count_total: 9
+  claim_count: 8
+  claim_count_total: 8
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 9
-  tokens_estimated: 1218
+  claims: 8
+  tokens_estimated: 1000
   sized_against: 1050000
+entailment:
+  assessed: 8
+  unassessed: 0
+  entails: 5
+  neutral: 1
+  contradicts: 2
+  entailed_by_quote: 2
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.375
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,7 +31,7 @@ publication:
 belonging:
   verified: 1
   suspect_excluded: 0
-  unreviewed: 8
+  unreviewed: 7
 related_nodes:
   - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
     title: USA, South Carolina
@@ -33,20 +43,10 @@ related_nodes:
     node_type: person
     slug: david-charles-grusch
     shared_claims: 1
-  - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
-    title: North American Aerospace Defense Command (NORAD)
-    node_type: organisation
-    slug: north-american-aerospace-defense-command-norad
-    shared_claims: 1
   - node_id: 4f799605-879b-4e8d-935d-811b4bd7c6ac
     title: USA, Alaska
     node_type: place
     slug: alaska-usa
-    shared_claims: 1
-  - node_id: ec649497-7311-46a2-a0bc-7498dab02b40
-    title: USA, Alaska, Deadhorse
-    node_type: place
-    slug: alaska-deadhorse-usa
     shared_claims: 1
   - node_id: 1e13b23d-bec2-4cea-a7c0-e2f0d2a77659
     title: USA, Montana
@@ -59,45 +59,6 @@ related_nodes:
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 1
 claims:
-  - claim_id: 20e40f0f-ad22-47b8-b935-95123138348b
-    claim_hash: 31858eb4ee0efe77d5a2c47a64074b847bfa9a801e8c3f2912a13bc5f5f12c36
-    content: After the 2023 Chinese spy balloon shoot-down, the North American Aerospace Defense Command (NORAD) adjusted
-      the sensitivity of its radars and detected an unknown car-sized object off the coast near Deadhorse, Alaska on 2023-02-10.
-    original_excerpt: When the North American Aerospace Defense Command (NORAD), under fire from an angry White House over
-      the Chinese balloon incursion, belatedly adjusted the sensitivity of its radars it almost immediately detected another
-      unknown 'car-sized object' just off the coast near Deadhorse on Friday 10 February
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: verified
-    node_refs:
-      - node_id: 4760afb8-2a14-4c60-8924-e2956b67e73c
-        title: North American Aerospace Defense Command (NORAD)
-        slug: north-american-aerospace-defense-command-norad
-      - node_id: ec649497-7311-46a2-a0bc-7498dab02b40
-        title: USA, Alaska, Deadhorse
-        slug: alaska-deadhorse-usa
-      - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
-        title: 2023 Chinese spy balloon incident
-        slug: 2023-chinese-spy-balloon-incident
-    date: '2023-02-10'
-    date_end: null
-    location_in_record: ch29:3497-3791
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 10e7b685-c960-4222-acbc-ee337d3395c7
     claim_hash: 457176056d76b9c6702d22aa1b69d289af65a4d33730cc28a44458320fa1c54b
     content: David Grusch said he saw no reason recent shoot-down video footage could not have been released to the public,
@@ -115,6 +76,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
@@ -132,7 +98,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 8dfe1861-47bd-4943-878f-e8c0f2bf07b8
@@ -150,6 +116,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -167,7 +138,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 2bbb99a9-6614-4a5f-ba5c-731c3ffe36b6
@@ -187,6 +158,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
         title: 2023 Chinese spy balloon incident
@@ -201,7 +177,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 1e904e95-9db4-41ee-b7ac-134e32b88245
@@ -220,6 +196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1e13b23d-bec2-4cea-a7c0-e2f0d2a77659
         title: USA, Montana
@@ -240,7 +221,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 66e7b0af-350b-42e5-ba60-d6d559902a87
@@ -260,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
         title: 2023 Chinese spy balloon incident
@@ -274,7 +260,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: cc7f041b-3331-4231-b72b-f191f828e414
@@ -294,6 +280,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.566
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4543ad6e-cef3-463f-9071-2d9c517a933b
         title: USA, South Carolina
@@ -311,7 +302,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: bb1eed81-6f80-4ca8-8346-4c77380cf349
@@ -330,6 +321,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.516
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f5c77540-3f7d-4e1b-abba-eb4407593e8e
         title: 2023 Chinese spy balloon incident
@@ -344,7 +340,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 3c7c9092-cc1c-482f-9c70-124943aa53e7
@@ -364,6 +360,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -381,6 +382,6 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

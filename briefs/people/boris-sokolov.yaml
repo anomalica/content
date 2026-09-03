@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 0cb750a29f29d4d41d6a8b6b27523c7040b2c6492659b0fb38dd75dfffae7daf
+brief_hash: d36d36202dca600596d1a55eabaafc45c3d9c0fdc297c0083dd1573c79aa3ccc
 page:
   kind: entity
   node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 1078
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 5
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.571
+  entailed_by_window_fraction: 0.143
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,15 +48,10 @@ related_nodes:
     node_type: organisation
     slug: soviet-union
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: f0771233-f62e-43cd-b26d-690b7f6930e3
+    title: 1982 Byelokoroviche Soviet missile base Unidentified Aerial Phenomena (UAP) incident
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
-  - node_id: 0e834b43-83b7-4485-837c-a6c0bb9ea31d
-    title: Byelokoroviche Nuclear Base UAP 1982
-    node_type: event
-    slug: byelokoroviche-nuclear-base-uap-1982
+    slug: 1982-byelokoroviche-soviet-missile-base-unidentified-aerial-phenomena-uap-incident
     shared_claims: 1
   - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
     title: George Knapp
@@ -62,6 +67,11 @@ related_nodes:
     title: Russian Air Defense Forces
     node_type: organisation
     slug: russian-air-defense-forces
+    shared_claims: 1
+  - node_id: 5364ebc7-5dc8-4ab5-8ad8-b0a30ca8fd9a
+    title: Russian ICBM base Unidentified Flying Object (UFO) incident, Ukraine
+    node_type: event
+    slug: ukraine-russian-icbm-base-unidentified-flying-object-ufo-incident
     shared_claims: 1
   - node_id: fcc5bf6d-e343-4f87-885d-88aba4c1f953
     title: Ukraine, Byelokoroviche
@@ -86,6 +96,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -124,6 +139,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.636
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
         title: Russian Air Defense Forces
@@ -148,7 +168,7 @@ claims:
       content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
       friendly_name: undated-pdf-statement-to-congress
   - claim_id: dbccd397-ee05-4f7d-a4b9-3bfdae36d1a1
-    claim_hash: 6ecb58d7104196e7ad2f349992f2cdd3cc5591e619bd12e938554e8abec7775c
+    claim_hash: 658dca2930bbff4ea28de9cb8b092e5cca0eac95fe841cd0b6f609da20190122
     content: Boris Sokolov shared information with George Knapp about an alarming incident at a Russian ICBM base in Ukraine
       in which UFOs appeared, performed manoeuvres in front of stunned eyewitnesses, and then took control of the base's launch
       system.
@@ -167,13 +187,18 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.894
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 5364ebc7-5dc8-4ab5-8ad8-b0a30ca8fd9a
+        title: Russian ICBM base Unidentified Flying Object (UFO) incident, Ukraine
+        slug: ukraine-russian-icbm-base-unidentified-flying-object-ufo-incident
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
         title: Boris Sokolov
         slug: boris-sokolov
@@ -194,7 +219,7 @@ claims:
       content_hash: sha256:4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5fb6374eb2
       friendly_name: undated-pdf-statement-to-congress
   - claim_id: caaf5eeb-2789-486a-ba4a-f400b45a46a7
-    claim_hash: 2f245ee71755c19ee41846f4e8262a965193993c930428167881a47d9195f671
+    claim_hash: 445b06438a2efd151d6ab6e84ceb69c90dc96d41a290f8cd37e958d6b0083d06
     content: Boris Sokolov related an incident over a Soviet nuclear missile base at Byelokoroviche in Ukraine in October
       1982, where a 274-metre-wide craft hovered for several hours.
     original_excerpt: Sokolov related an incident over a Soviet nuclear missile base at Byelokoroviche in the Ukraine in October
@@ -210,10 +235,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 0e834b43-83b7-4485-837c-a6c0bb9ea31d
-        title: Byelokoroviche Nuclear Base UAP 1982
-        slug: byelokoroviche-nuclear-base-uap-1982
+      - node_id: f0771233-f62e-43cd-b26d-690b7f6930e3
+        title: 1982 Byelokoroviche Soviet missile base Unidentified Aerial Phenomena (UAP) incident
+        slug: 1982-byelokoroviche-soviet-missile-base-unidentified-aerial-phenomena-uap-incident
       - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
         title: Boris Sokolov
         slug: boris-sokolov
@@ -229,7 +259,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -249,6 +279,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f1d1cbad-b806-4a5b-a45a-3effc967d5a4
         title: Boris Sokolov
@@ -262,7 +297,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -284,6 +319,11 @@ claims:
         - Project Condign report
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.605
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a4f584ab-b230-4924-92a9-3c20c1523bdd
         title: Project Condign
@@ -303,7 +343,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -327,6 +367,11 @@ claims:
         - Project Condign report
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -349,7 +394,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

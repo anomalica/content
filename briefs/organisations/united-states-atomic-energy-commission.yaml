@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 70e0ad5fef0e19986147e1e6b52255e97cab5f9843aa9ef32eb659e7bd2e4266
+brief_hash: 87d8d043752d9b929786deb8717eda2382e069ecbc27c01edb29d5a304a52b05
 page:
   kind: entity
   node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1368
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 7
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.222
+  entailed_by_window_fraction: 0.556
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,10 +38,10 @@ related_nodes:
     node_type: person
     slug: harry-s-truman
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 73cf2050-792d-4631-8bee-4c9c7876f44c
+    title: 1952 Hanford nuclear site Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1952-hanford-nuclear-site-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 1
   - node_id: e764620e-fd8c-48ec-87c3-f95cd7a5cbf3
     title: Blair House meeting of 1949-07-14
@@ -78,15 +88,15 @@ related_nodes:
     node_type: person
     slug: t-keith-glennan
     shared_claims: 1
-  - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-    title: USA, District of Columbia, Washington
-    node_type: place
-    slug: district-of-columbia-washington-usa
-    shared_claims: 1
   - node_id: 5ae3af33-c204-4a42-bfbd-a63f2de3a4df
     title: USA, Nevada, Frenchman's Flat
     node_type: place
     slug: nevada-frenchmans-flat-usa
+    shared_claims: 1
+  - node_id: fd188cb4-1778-439f-8e88-bf7bef9a5c3d
+    title: USA, Washington, Richland
+    node_type: place
+    slug: washington-richland-usa
     shared_claims: 1
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
@@ -124,6 +134,11 @@ claims:
         - told Raymond Fowler directly
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.428
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ae3af33-c204-4a42-bfbd-a63f2de3a4df
         title: USA, Nevada, Frenchman's Flat
@@ -157,6 +172,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
         title: United States Atomic Energy Commission
@@ -178,7 +198,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 9c47ce30-b15e-4d0e-ad48-6ddefc27335d
-    claim_hash: 9dfc5a70cf4fa5dd47d73143dea7223357170c353e03cf60d5dada3c7ab39e64
+    claim_hash: 99d54b8c4ba69120034f25fed75042445172532198849ddbfdf463a3cdf7f80e
     content: In July 1952, two pilots witnessed a flat and round flying saucer-shaped object hovering over the Atomic Energy
       Commission's Hanford nuclear bomb factory in Richland, Washington.
     original_excerpt: In July 1952, two pilots witnessed a flat and round flying saucer–shaped object hovering over the highly
@@ -192,16 +212,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
         title: United States Atomic Energy Commission
         slug: united-states-atomic-energy-commission
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 73cf2050-792d-4631-8bee-4c9c7876f44c
+        title: 1952 Hanford nuclear site Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1952-hanford-nuclear-site-unidentified-aerial-phenomena-uap-sighting
+      - node_id: fd188cb4-1778-439f-8e88-bf7bef9a5c3d
+        title: USA, Washington, Richland
+        slug: washington-richland-usa
     date: 1952-07
     date_end: null
     location_in_record: ch8:15524-15636
@@ -211,7 +236,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -228,6 +253,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -264,6 +294,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
         title: United States Atomic Energy Commission
@@ -304,6 +339,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.869
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6ccc0ddb-8dc6-4dd0-92d5-c86e9e3cda25
         title: United States Atomic Energy Commission
@@ -328,7 +368,7 @@ claims:
       content_hash: sha256:997f10be0944799ca9f24ff953039ce516ea336d40b19c26acecc07360cb2ab1
       friendly_name: null
   - claim_id: aba985af-7ac6-4601-8b1c-24495a9218df
-    claim_hash: e2ace5a091f06ec4fa596bfcf174842d74b68e532186dfc700befd3d9c6763d9
+    claim_hash: 77b8a8836e7109a9ae199433ecb222e1fc0890467956bc27fc72cc0f31493bb8
     content: In 1948, President Harry Truman is alleged to have established classified presidential executive orders, referred
       to by Eric Davis as Presidential Emergency Action Documents (PEADs), that relegated custody of recovered disks to Atomic
       Energy Commission National Lab Control to be studied under Vannevar Bush's Joint Research and Development Board and
@@ -341,14 +381,19 @@ claims:
     claim_type: hearsay
     attestation: null
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: unattributed
       origin: unnamed allegations
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -382,21 +427,26 @@ claims:
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
       friendly_name: null
   - claim_id: 33a819dc-587d-454b-9e28-bffa996c2794
-    claim_hash: 80faaaab99018809634fae39238babd01d9dcd9fecaf7e1a962b50b3d694e655
+    claim_hash: 9f5ddc033ce02e3ecd183de494d3f6448edd31e5584711d01c755b29545e9e33
     content: UAP Gerb considers the allegation that President Harry Truman established classified 1948 presidential executive
       orders relegating recovered disks to Atomic Energy Commission National Lab Control factually correct.
     original_excerpt: And I do think that is factually correct.
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -434,6 +484,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)

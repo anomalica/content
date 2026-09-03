@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8e57d9d76bc43937ead8453df424be6f5afb3cc29c6b2837cf5a89044d3c1bd1
+brief_hash: 6bda43f37f9f9952719f88855a2a94f41f3b8f7f55d29d820b6b091ff68b1bb8
 page:
   kind: entity
   node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
@@ -9,11 +9,21 @@ page:
   claim_count: 22
   claim_count_total: 22
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 22
   tokens_estimated: 3684
   sized_against: 1050000
+entailment:
+  assessed: 22
+  unassessed: 0
+  entails: 15
+  neutral: 5
+  contradicts: 2
+  entailed_by_quote: 5
+  entailed_by_window: 10
+  entailed_by_quote_fraction: 0.227
+  entailed_by_window_fraction: 0.455
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -159,348 +169,6 @@ related_nodes:
     slug: united-states-air-force-usaf
     shared_claims: 1
 claims:
-  - claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
-    claim_hash: f1609f2438a6c2a6a75f39dff8ebcbc82bb52280fdba70f7d6ae369195139758
-    content: Christopher Mellon was a staffer to the United States Senate Select Committee on Intelligence in Washington DC.
-    original_excerpt: A staffer to the powerful US Senate Select Committee on Intelligence in Washington DC
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
-        title: USA, District of Columbia, Washington
-        slug: district-of-columbia-washington-usa
-    date: null
-    date_end: null
-    location_in_record: ch13:7678-7761
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
-    claim_hash: 1907f42e202effc18a7c87c5fe21de79a4452dd5df4d395c44ba00e4cbfe30c7
-    content: Christopher Mellon's role on the Senate Intelligence Committee staff required him to review top-secret Sensitive
-      Compartmented Information (SCI) projects inside Special Access Programs (SAPs), most of which remain classified.
-    original_excerpt: His role on the Senate Intelligence Committee staff required him to review top-secret Sensitive Compartmented
-      Information (SCI) projects inside Special Access Programs (SAPs), most of which still remain classified.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
-        title: Special Access Program (SAP)
-        slug: special-access-program-sap
-      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
-        title: Sensitive Compartmented Information Facility (SCIF)
-        slug: sensitive-compartmented-information-facility-scif
-    date: null
-    date_end: null
-    location_in_record: ch13:9050-9253
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
-    claim_hash: 9018544c3ff71e05ad1e89def79e044dd2ac569c00b9cd8cfa85a5d4c7c61eaf
-    content: Christopher Mellon monitored Area 51, a highly secure US Air Force facility within the Nevada test range, for
-      the Senate Intelligence Committee.
-    original_excerpt: One of the top-secret Department of Defence sites Mellon monitored for the Senate Intelligence Committee
-      was Area 51, a highly secure US Air Force facility within the massive Nevada test range.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: narration
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
-        title: USA, Nevada, Area 51
-        slug: nevada-area-51-usa
-    date: null
-    date_end: null
-    location_in_record: ch13:9266-9479
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: d522cd02-b439-4e56-bd47-78f2c8d16132
-    claim_hash: 3e2bb91d177c878d7c82ae32f3a5ef7640c840a6810ecd70402f87db855aa0f6
-    content: Harry Reid served for two years on the United States Senate Select Committee on Intelligence.
-    original_excerpt: He also served for two years on one of the Senate's most powerful committees, the Select Committee on
-      Intelligence.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
-        title: Harry Reid
-        slug: harry-reid
-    date: null
-    date_end: null
-    location_in_record: ch17:1214-1343
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 987d8cfc-0c0c-4d52-a4ae-e9e7d4fcac52
-    claim_hash: 8da0f61fcaa584971790e8a785953a22397c3e8fc7f60271095111a3f18ae17b
-    content: Christopher Mellon was a Senate Intelligence Committee staffer.
-    original_excerpt: Mellon was keenly aware of the UAP mystery from his past investigations as a Senate Intelligence Committee
-      staffer
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
-        title: Christopher K. Mellon
-        slug: christopher-k-mellon
-    date: null
-    date_end: null
-    location_in_record: ch21:2041-2148
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
-    claim_hash: 79c8c7e7b1a93f86255235c9b6e97286a8e279eb09308465bef7ba7195f540fa
-    content: Barry Goldwater served on the United States Senate Armed Services Committee, the Aeronautical and Space Sciences
-      Committee, and was a former chairman of the Senate Intelligence Committee.
-    original_excerpt: Goldwater was a very senior Senator; he served on the Armed Services Committee, the Aeronautical and
-      Space Sciences Committee, and was a former chairman of the Senate Intelligence Committee.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
-        title: Barry Goldwater
-        slug: barry-goldwater
-      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
-        title: Senate Armed Services Committee
-        slug: senate-armed-services-committee
-    date: null
-    date_end: null
-    location_in_record: ch27:19147-19327
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: a8496531-a608-4712-8976-2e3ce23befc7
-    claim_hash: 8ea81e8d08750b948883ddb71681a3f42bc060abd1c12d49f0d95d93c5714476
-    content: In late 2020, the United States Senate Intelligence Committee demanded that US intelligence agencies and the
-      Department of Defense compile a report on all data collected on Unidentified Aerial Phenomena (UAP), including navy
-      pilot sightings.
-    original_excerpt: in late 2020, the US's powerful Senate Intelligence Committee also demanded US intelligence agencies
-      and the Defence Department compile a report on all data collected on UAPs, including the navy pilot sightings.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
-        title: United States Department of Defense (DoD)
-        slug: united-states-department-of-defense-dod
-      - node_id: fc5968c9-7495-4831-9570-f305513980e9
-        title: Late 2020 US Senate Intelligence Committee demand for Unidentified Aerial Phenomena (UAP) report
-        slug: late-2020-us-senate-intelligence-committee-demand-for-unidentified-aerial-phenomena-uap-report
-    date: '2020'
-    date_end: null
-    location_in_record: ch28:26614-26815
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 51ece265-ac9f-4fc5-8aee-a88879ae9133
-    claim_hash: f23fea4bdec46935cfef8a88754b47255edfe939625f30ce8e98321b8745fb10
-    content: The United States Senate Intelligence Committee's demanded report on Unidentified Aerial Phenomena (UAP) data
-      was due in June 2021 but was likely to be delayed.
-    original_excerpt: That report was due in June 2021 but was likely to be delayed.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: 2021-06
-    date_end: null
-    location_in_record: ch28:26826-26880
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
-    claim_hash: 61d9f02643b15f6c423b504d826351bd55c18a409f027a035037f27026258a25
-    content: Democratic Senator Mark Warner, the former chairman of the Senate Select Committee for Intelligence, and his
-      replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation in the National Defense
-      Authorization Act 2023.
-    original_excerpt: Both the former chairman of the Senate Select Committee for Intelligence, Democrat Senator Mark Warner
-      and his replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-      - node_id: 9be4bc41-599a-42bc-89db-a0c106eb82b5
-        title: Mark Warner
-        slug: mark-warner
-      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
-        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
-        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
-    date: null
-    date_end: null
-    location_in_record: ch30:13954-14150
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 5bf13d82-936b-49a8-bb9c-a28bb0a14cbf
     claim_hash: fbe7d61bfd4cc4dbfaed5ddfbc4418f2e1db28b709877092cb296ad09ae125a6
     content: The US Senate's Intelligence Committee ordered the Director of National Intelligence and the Secretary of Defense
@@ -516,6 +184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -558,6 +231,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -608,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.969
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -651,6 +334,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.43
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -674,6 +362,439 @@ claims:
       record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 83c001d4-c605-46ed-acfd-2f62fa8c8999
+    claim_hash: f1609f2438a6c2a6a75f39dff8ebcbc82bb52280fdba70f7d6ae369195139758
+    content: Christopher Mellon was a staffer to the United States Senate Select Committee on Intelligence in Washington DC.
+    original_excerpt: A staffer to the powerful US Senate Select Committee on Intelligence in Washington DC
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
+        title: USA, District of Columbia, Washington
+        slug: district-of-columbia-washington-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:7678-7761
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3001af87-f811-4ab3-8454-e641775abf6d
+    claim_hash: 1907f42e202effc18a7c87c5fe21de79a4452dd5df4d395c44ba00e4cbfe30c7
+    content: Christopher Mellon's role on the Senate Intelligence Committee staff required him to review top-secret Sensitive
+      Compartmented Information (SCI) projects inside Special Access Programs (SAPs), most of which remain classified.
+    original_excerpt: His role on the Senate Intelligence Committee staff required him to review top-secret Sensitive Compartmented
+      Information (SCI) projects inside Special Access Programs (SAPs), most of which still remain classified.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
+      - node_id: 9bb3e171-2197-411c-ab51-c4ea9dd2048f
+        title: Sensitive Compartmented Information Facility (SCIF)
+        slug: sensitive-compartmented-information-facility-scif
+    date: null
+    date_end: null
+    location_in_record: ch13:9050-9253
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 86acde03-2c78-4459-a2ad-d227d1609f8d
+    claim_hash: 9018544c3ff71e05ad1e89def79e044dd2ac569c00b9cd8cfa85a5d4c7c61eaf
+    content: Christopher Mellon monitored Area 51, a highly secure US Air Force facility within the Nevada test range, for
+      the Senate Intelligence Committee.
+    original_excerpt: One of the top-secret Department of Defence sites Mellon monitored for the Senate Intelligence Committee
+      was Area 51, a highly secure US Air Force facility within the massive Nevada test range.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.787
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+      - node_id: dcfde05e-4c6d-4f3a-80da-781e42865401
+        title: USA, Nevada, Area 51
+        slug: nevada-area-51-usa
+    date: null
+    date_end: null
+    location_in_record: ch13:9266-9479
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: d522cd02-b439-4e56-bd47-78f2c8d16132
+    claim_hash: 3e2bb91d177c878d7c82ae32f3a5ef7640c840a6810ecd70402f87db855aa0f6
+    content: Harry Reid served for two years on the United States Senate Select Committee on Intelligence.
+    original_excerpt: He also served for two years on one of the Senate's most powerful committees, the Select Committee on
+      Intelligence.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: c91974f0-961f-4db8-b7b0-22d4b846e5d5
+        title: Harry Reid
+        slug: harry-reid
+    date: null
+    date_end: null
+    location_in_record: ch17:1214-1343
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 987d8cfc-0c0c-4d52-a4ae-e9e7d4fcac52
+    claim_hash: 8da0f61fcaa584971790e8a785953a22397c3e8fc7f60271095111a3f18ae17b
+    content: Christopher Mellon was a Senate Intelligence Committee staffer.
+    original_excerpt: Mellon was keenly aware of the UAP mystery from his past investigations as a Senate Intelligence Committee
+      staffer
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 5d06f518-dd64-4429-9026-b930e88660d2
+        title: Christopher K. Mellon
+        slug: christopher-k-mellon
+    date: null
+    date_end: null
+    location_in_record: ch21:2041-2148
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 8b72cc0d-2659-420d-ae47-138a2023f3f3
+    claim_hash: 79c8c7e7b1a93f86255235c9b6e97286a8e279eb09308465bef7ba7195f540fa
+    content: Barry Goldwater served on the United States Senate Armed Services Committee, the Aeronautical and Space Sciences
+      Committee, and was a former chairman of the Senate Intelligence Committee.
+    original_excerpt: Goldwater was a very senior Senator; he served on the Armed Services Committee, the Aeronautical and
+      Space Sciences Committee, and was a former chairman of the Senate Intelligence Committee.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 76246f1a-4b58-41f6-a5c3-7a63845fac61
+        title: Barry Goldwater
+        slug: barry-goldwater
+      - node_id: 892a2221-56f5-471e-942f-ebdf5967d7be
+        title: Senate Armed Services Committee
+        slug: senate-armed-services-committee
+    date: null
+    date_end: null
+    location_in_record: ch27:19147-19327
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: a8496531-a608-4712-8976-2e3ce23befc7
+    claim_hash: 8ea81e8d08750b948883ddb71681a3f42bc060abd1c12d49f0d95d93c5714476
+    content: In late 2020, the United States Senate Intelligence Committee demanded that US intelligence agencies and the
+      Department of Defense compile a report on all data collected on Unidentified Aerial Phenomena (UAP), including navy
+      pilot sightings.
+    original_excerpt: in late 2020, the US's powerful Senate Intelligence Committee also demanded US intelligence agencies
+      and the Defence Department compile a report on all data collected on UAPs, including the navy pilot sightings.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
+        title: United States Department of Defense (DoD)
+        slug: united-states-department-of-defense-dod
+      - node_id: fc5968c9-7495-4831-9570-f305513980e9
+        title: Late 2020 US Senate Intelligence Committee demand for Unidentified Aerial Phenomena (UAP) report
+        slug: late-2020-us-senate-intelligence-committee-demand-for-unidentified-aerial-phenomena-uap-report
+    date: '2020'
+    date_end: null
+    location_in_record: ch28:26614-26815
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 51ece265-ac9f-4fc5-8aee-a88879ae9133
+    claim_hash: f23fea4bdec46935cfef8a88754b47255edfe939625f30ce8e98321b8745fb10
+    content: The United States Senate Intelligence Committee's demanded report on Unidentified Aerial Phenomena (UAP) data
+      was due in June 2021 but was likely to be delayed.
+    original_excerpt: That report was due in June 2021 but was likely to be delayed.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: 2021-06
+    date_end: null
+    location_in_record: ch28:26826-26880
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 869a8653-cc65-47c0-ba8e-792f70dba6ec
+    claim_hash: 61d9f02643b15f6c423b504d826351bd55c18a409f027a035037f27026258a25
+    content: Democratic Senator Mark Warner, the former chairman of the Senate Select Committee for Intelligence, and his
+      replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation in the National Defense
+      Authorization Act 2023.
+    original_excerpt: Both the former chairman of the Senate Select Committee for Intelligence, Democrat Senator Mark Warner
+      and his replacement, Republican Senator Marco Rubio, strongly and publicly supported the UAP legislation.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+      - node_id: 9be4bc41-599a-42bc-89db-a0c106eb82b5
+        title: Mark Warner
+        slug: mark-warner
+      - node_id: e6a30ca9-6ec3-4bbe-9d72-3c8db8ecdfa7
+        title: National Defense Authorization Act for Fiscal Year 2023 (FY2023 NDAA)
+        slug: national-defense-authorization-act-for-fiscal-year-2023-fy2023-ndaa
+    date: null
+    date_end: null
+    location_in_record: ch30:13954-14150
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 6eab19e0-e876-4eba-bcb0-2369d0f54c80
+    claim_hash: a9655ff11ef5facec660811a002e5cc9458e5934664323f3dae86ceac14ab323
+    content: The Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act identified concerns
+      that the U.S. Government did not have a unified, comprehensive process in place for collecting and analysing intelligence
+      on Unidentified Anomalous Phenomena (UAP).
+    original_excerpt: In the Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act,
+      the Senate Select Committee identified concerns that the U.S. Government did not have a unified, comprehensive process
+      in place for collecting and analyzing intelligence on UAP.
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.539
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
+        title: US Senate Select Committee on Intelligence
+        slug: us-senate-select-committee-on-intelligence
+      - node_id: 3eea3831-b364-4b8e-aa97-d3b283df6d73
+        title: Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act
+        slug: senate-select-committee-on-intelligence-report-on-the-fy-2021-intelligence-authorization-act
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: '2020-06-08'
+    date_end: null
+    location_in_record: char:5807-6081
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
+      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
+        Anomalous Phenomena," August 15, 2023
+      record_date: '2024-01-24'
+      record_reference: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
+      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
+      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 8a89e117-678f-49f7-8c52-672a96cd2e99
     claim_hash: 9bffce4180a52276e4635ad8b7cfb3f55a94e0f85887935b9bd050bec6d5f3f8
     content: Eric Davis briefed Department of Defense (DoD) agencies and staff members from both the Senate Armed Services
@@ -691,6 +812,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.698
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -713,7 +839,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -735,6 +861,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.601
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -754,51 +885,10 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 6eab19e0-e876-4eba-bcb0-2369d0f54c80
-    claim_hash: a9655ff11ef5facec660811a002e5cc9458e5934664323f3dae86ceac14ab323
-    content: The Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act identified concerns
-      that the U.S. Government did not have a unified, comprehensive process in place for collecting and analysing intelligence
-      on Unidentified Anomalous Phenomena (UAP).
-    original_excerpt: In the Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act,
-      the Senate Select Committee identified concerns that the U.S. Government did not have a unified, comprehensive process
-      in place for collecting and analyzing intelligence on UAP.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
-        title: US Senate Select Committee on Intelligence
-        slug: us-senate-select-committee-on-intelligence
-      - node_id: 3eea3831-b364-4b8e-aa97-d3b283df6d73
-        title: Senate Select Committee on Intelligence Report on the FY 2021 Intelligence Authorization Act
-        slug: senate-select-committee-on-intelligence-report-on-the-fy-2021-intelligence-authorization-act
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: '2020-06-08'
-    date_end: null
-    location_in_record: char:5807-6081
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 16fab195-3d1d-4a8f-b0b0-6bf40d611152
-      record_title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's Actions Regarding Unidentified
-        Anomalous Phenomena," August 15, 2023
-      record_date: '2024-01-24'
-      record_reference: null
-      content_hash: sha256:e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab897a0bdd3
-      friendly_name: 2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-
   - claim_id: 84f07469-aa64-4c12-a4e2-b5b90dce9a58
     claim_hash: a699bb96e6364b20f13793894c7578d40ef2584adfcea7d014f2fd185c6ccdef
     content: The anonymous author of the Reddit document on nonhuman anatomy, when asked whether he had shared the account
@@ -818,6 +908,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -859,6 +954,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -901,6 +1001,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -938,6 +1043,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -981,6 +1091,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence
@@ -1023,6 +1138,11 @@ claims:
         - David Grusch
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 239e614e-3d4a-4291-a2a6-d22b124f61b6
         title: US Senate Select Committee on Intelligence

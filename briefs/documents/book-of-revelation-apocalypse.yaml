@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 947
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 3
+  neutral: 2
+  contradicts: 2
+  entailed_by_quote: 3
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -83,6 +93,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33f33971-ed63-4558-9881-e771eb40022b
         title: Book of Revelation (Apocalypse)
@@ -119,6 +134,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33f33971-ed63-4558-9881-e771eb40022b
         title: Book of Revelation (Apocalypse)
@@ -151,6 +171,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33f33971-ed63-4558-9881-e771eb40022b
         title: Book of Revelation (Apocalypse)
@@ -183,6 +208,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33f33971-ed63-4558-9881-e771eb40022b
         title: Book of Revelation (Apocalypse)
@@ -218,6 +248,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 062f6ed5-feee-4d01-a76c-44d4b6b4dbc9
         title: Ptolemaeus
@@ -267,6 +302,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33f33971-ed63-4558-9881-e771eb40022b
         title: Book of Revelation (Apocalypse)
@@ -306,6 +346,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 33f33971-ed63-4558-9881-e771eb40022b
         title: Book of Revelation (Apocalypse)

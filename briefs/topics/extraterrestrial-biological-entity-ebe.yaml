@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 2c7a2a065b4af649989895c8845cd84110caa516a03f098aa96934d450f45c53
+brief_hash: 8de4e2bdf51d61324b7491e533c9b370c19e15ceac1b8392fdc6aa839efe514d
 page:
   kind: entity
   node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 1151
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 4
+  neutral: 3
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.429
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -74,6 +84,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.41
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
         title: Extraterrestrial biological entity (EBE)
@@ -107,6 +122,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.372
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
         title: Extraterrestrial biological entity (EBE)
@@ -139,6 +159,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
         title: Extraterrestrial biological entity (EBE)
@@ -171,6 +196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.389
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
         title: Extraterrestrial biological entity (EBE)
@@ -192,7 +222,7 @@ claims:
       content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
       friendly_name: null
   - claim_id: 05c80664-5109-486c-a318-4c8b7ef1fd18
-    claim_hash: 6c821f4527124c8b4dda8b616a7bde845d4dccad5580862a44e04d31a6859299
+    claim_hash: df5353b98709faff101cdf47ae0396cb7db7958e3adc76978c96fb8c34f62a31
     content: In a confession tape, Shirley Wright said she studied under Albert Einstein at Princeton and was taken to the
       crash site of the 1947 Roswell UFO crash, given a tour inside the craft, shown eight dead bodies and one living entity,
       and had an exchange and communication with one of the entities.
@@ -211,6 +241,11 @@ claims:
         - a confession tape recorded by Shirley Wright
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 35380539-7caf-46ec-9614-1956abdd7e7a
         title: USA, New Mexico, Roswell
@@ -241,7 +276,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 4ffbb1f8-9c1a-4c28-abd2-c6bb95123eea
-    claim_hash: f747d4f4789041fbf96e52f8c893a811bfe6900810b6517595fa4d0cc5b5c13e
+    claim_hash: 0caf46c4402ade4e613f647e260157618931142ad9881db0280fe542094be29c
     content: On the confession tape, Shirley Wright said the surviving entity indicated to those present that it was not from
       their galaxy.
     original_excerpt: They indicated to us that they were not from our galaxy, definitely not from our galaxy.
@@ -257,6 +292,11 @@ claims:
         - a confession tape recorded by Shirley Wright
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 913881ee-38df-400d-8494-6c84d853b010
         title: Shirley Wright
@@ -296,6 +336,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
         title: Extraterrestrial biological entity (EBE)

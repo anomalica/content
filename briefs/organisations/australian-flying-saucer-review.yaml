@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 718
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 6
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.714
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -34,9 +44,9 @@ related_nodes:
     slug: duke-of-edinburgh-prince-philip
     shared_claims: 2
   - node_id: 515d17db-70be-409a-84e9-e99cbebbd243
-    title: C. Bowen
+    title: Charles Bowen
     node_type: person
-    slug: c-bowen
+    slug: charles-bowen
     shared_claims: 1
   - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
     title: Gordon Creighton
@@ -70,6 +80,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ceef90e6-92c4-4c3f-a271-834edef4d021
         title: Australian Flying Saucer Review
@@ -105,6 +120,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
         title: Jonathan Caplan
@@ -142,6 +162,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c16c86b6-7526-46cd-bcd8-7f74283ebf2c
         title: Jonathan Caplan
@@ -178,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -214,6 +244,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
         title: Prince Philip, Duke of Edinburgh
@@ -254,10 +289,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 515d17db-70be-409a-84e9-e99cbebbd243
-        title: C. Bowen
-        slug: c-bowen
+        title: Charles Bowen
+        slug: charles-bowen
       - node_id: 807dfee6-055a-4f2e-ba5a-3e25f62f0138
         title: Gordon Creighton
         slug: gordon-creighton
@@ -295,6 +335,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8930d84b-2a19-44fc-82cb-4af19328be48
         title: Prince Philip, Duke of Edinburgh

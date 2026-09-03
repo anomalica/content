@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fcdb7731e9b9c76053dc5e296d217a093ce68ed965d5ff242001af44311b03cf
+brief_hash: 43fd8a62aed7afe4a6ce7a9d1bf23c098a5b61a119e749700c5dc7c4397c0d7c
 page:
   kind: entity
   node_id: 46886954-19d1-4d21-861a-9e653fb096a3
@@ -9,11 +9,21 @@ page:
   claim_count: 118
   claim_count_total: 118
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 118
   tokens_estimated: 16263
   sized_against: 1050000
+entailment:
+  assessed: 118
+  unassessed: 0
+  entails: 97
+  neutral: 15
+  contradicts: 6
+  entailed_by_quote: 26
+  entailed_by_window: 71
+  entailed_by_quote_fraction: 0.22
+  entailed_by_window_fraction: 0.602
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -143,11 +153,6 @@ related_nodes:
     node_type: event
     slug: circa-1957-wairakei-flying-saucer-sighting-by-surveying-engineer
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: c0e7a75a-6931-4d2b-8f96-ac29ab9262a3
     title: Australia, New South Wales, Sydney
     node_type: place
@@ -173,9 +178,14 @@ related_nodes:
     node_type: person
     slug: brian-king
     shared_claims: 1
+  - node_id: e4044a2b-73aa-4513-879d-342b4a4a522a
+    title: New Zealand, Auckland
+    node_type: place
+    slug: auckland-new-zealand
+    shared_claims: 1
 claims:
   - claim_id: 5a22d703-fa74-4c5e-9b2d-a386834f6d1d
-    claim_hash: 015b984fd04ecbb45e5bd7c9c1e83fd59ad4a77116666b72da1fd6880fe0730e
+    claim_hash: 6c6faef4487679b188fd93051fd5e81b42db43d39b4437d80061bf2311f6577e
     content: James McDonald was sent to interview Greenwood about the 1966 Westall High School UFO sighting as part of the
       presidentially authorised inquiry.
     original_excerpt: I think it might have been a Professor James MacDonald. James MacDonald, that's the one.
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -197,9 +212,9 @@ claims:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
         slug: james-macdonald
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1967'
     date_end: null
     location_in_record: 00:54:07.4-00:54:11.2
@@ -228,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -262,6 +282,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.841
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -295,6 +320,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0ddd0918-cf6b-4df7-9ed1-6e31d2ee276a
         title: Brian King
@@ -333,6 +363,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -366,6 +401,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -399,6 +439,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -431,6 +476,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -463,6 +513,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -495,6 +550,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -528,6 +588,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -567,6 +632,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -606,6 +676,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -645,6 +720,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -681,6 +761,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -717,6 +802,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -757,6 +847,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.585
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -798,6 +893,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.925
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2857f17e-454a-472d-a73a-b616686f7964
         title: University of Arizona Press
@@ -835,6 +935,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -872,6 +977,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -908,6 +1018,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -945,6 +1060,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -979,6 +1099,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.822
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1016,6 +1141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.638
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1049,6 +1179,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1085,6 +1220,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.508
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1122,6 +1262,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1159,6 +1304,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.849
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1195,6 +1345,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1233,6 +1388,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.787
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -1273,6 +1433,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1309,6 +1474,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.784
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -1350,6 +1520,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1394,6 +1569,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1430,6 +1610,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1469,6 +1654,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1509,6 +1699,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.701
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -1551,6 +1746,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -1595,6 +1795,11 @@ claims:
         - James E. McDonald's interview with him
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1634,6 +1839,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1675,6 +1885,11 @@ claims:
         - James E. McDonald's interview with him
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1711,6 +1926,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1751,6 +1971,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
         title: Outer Space Affairs Group
@@ -1795,6 +2020,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.626
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -1839,6 +2069,11 @@ claims:
         - James E. McDonald
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -1884,6 +2119,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -1925,6 +2165,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -1966,6 +2211,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2003,6 +2253,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2044,6 +2299,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0f30bbbd-1921-4c56-a05a-5e125dc0c0e3
         title: New Zealand, Waikato, Wairakei
@@ -2082,6 +2342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 339cda28-8b99-44a6-bce2-e045a09a4115
         title: Wairakei flying saucer sighting by surveying engineer, circa 1957
@@ -2121,6 +2386,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.673
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2158,6 +2428,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.568
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -2198,6 +2473,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -2238,6 +2518,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.595
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -2276,6 +2561,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.57
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2311,6 +2601,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2348,6 +2643,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2389,6 +2689,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2424,6 +2729,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2460,6 +2770,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.817
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2496,6 +2811,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.852
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2536,6 +2856,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2574,6 +2899,11 @@ claims:
         - publications of private UFO investigating groups
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2613,6 +2943,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2652,6 +2987,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.8
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2692,6 +3032,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2729,6 +3074,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2764,6 +3114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.711
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2799,6 +3154,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2835,6 +3195,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -2877,6 +3242,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2914,6 +3284,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -2956,6 +3331,11 @@ claims:
         - James E. McDonald's interview with her
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -2992,6 +3372,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -3034,6 +3419,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3074,6 +3464,11 @@ claims:
         - United States Air Force press releases
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -3116,6 +3511,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -3156,6 +3556,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3191,6 +3596,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3228,6 +3638,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.805
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3265,6 +3680,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3302,6 +3722,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3339,6 +3764,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3376,6 +3806,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3417,6 +3852,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e7634d4-9639-4ddd-a1a5-52063e67cf4c
         title: Australia, Tasmania, Hobart
@@ -3464,6 +3904,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -3502,6 +3947,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3538,6 +3988,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3576,6 +4031,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3613,6 +4073,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3649,6 +4114,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3687,6 +4157,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3724,6 +4199,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3764,6 +4244,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.526
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3804,6 +4289,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3845,6 +4335,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3881,6 +4376,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3918,6 +4418,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3950,6 +4455,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -3985,6 +4495,11 @@ claims:
         - James E. McDonald
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4023,6 +4538,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4063,6 +4583,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4101,6 +4626,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -4142,6 +4672,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4179,6 +4714,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4216,6 +4756,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.82
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
         title: Outer Space Affairs Group
@@ -4260,6 +4805,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
         title: Outer Space Affairs Group
@@ -4300,6 +4850,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -4341,6 +4896,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -4382,6 +4942,11 @@ claims:
         - James E. McDonald
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -4430,6 +4995,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -4469,6 +5039,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -4508,6 +5083,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -4551,6 +5131,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.579
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -4590,6 +5175,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4623,6 +5213,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -4653,6 +5248,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2857f17e-454a-472d-a73a-b616686f7964
         title: University of Arizona Press

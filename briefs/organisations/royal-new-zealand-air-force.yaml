@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 44d1f5beb2c6097e366699bdfe4eb734e330f11f9156d674d4db13eff82aacbd
+brief_hash: a63d5292112cee7d1af09c9e7a0d95f33cb4c56a9fb6180291149814fabec743
 page:
   kind: entity
   node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 758
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 1
+  neutral: 5
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.167
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 6
 related_nodes:
-  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-    title: Kaikoura UAP Sighting
+  - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+    title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: kaikoura-uap-sighting
+    slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 4
   - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
     title: 1978 Kaikoura lights incident
@@ -60,7 +70,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 8d2149bd-01a7-4ccf-89a0-01eb74b746b4
-    claim_hash: 37b631c43a54fd050ca7db9692aa9a3b971686f632fdff8080e22a0fa02e790c
+    claim_hash: 73486311fc95cb5714d48cd8477a20c3b648f1d2dbbb5196dd3e8aefcdddea4c
     content: The Royal New Zealand Air Force's official line asserted that the Wellington air traffic controllers did not
       know what they were looking at during the 1978 Kaikoura UAP sighting.
     original_excerpt: '''They went with the line that we air traffic controllers didn''t know what we were looking at. That''s
@@ -76,13 +86,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:1237-1372
@@ -92,12 +107,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 80eefa23-c2a4-43bc-8920-df85698b75e4
-    claim_hash: 41e4f8acd1e267ce4591a53faf91709aaa20861d5e8ff9699212d0129fefc69f
+    claim_hash: f9847f745592babf61bb882e33364431c8456a077bb0d3478ab0f20d8faea367
     content: Air force investigators into the 1978 Kaikoura UAP sighting claimed to have interviewed all witnesses, yet never
       interviewed John Cordy.
     original_excerpt: what surprised me most about Cordy's evidence was that air force investigators claimed to have interviewed
@@ -113,13 +128,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -132,12 +152,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: fb87036f-461b-4972-8b10-30ef64c09388
-    claim_hash: b03928481641fe56948711b9f521883608e686da1a53c726999ea15f7e7ead54
+    claim_hash: 8cddb661f4451d29ce82a545c3dcf897d5d7bd982675fd6eeb5ba89883d6c404
     content: The ridicule directed at Quentin Fogarty after the Royal New Zealand Air Force's finding on the 1978 Kaikoura
       UAP sighting took a toll on his career.
     original_excerpt: his long-time friend and colleague Dennis Grant told me the ridicule directed at Fogarty after the air
@@ -153,16 +173,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: dea6e499-868a-4365-a7e4-04a18a215554
         title: Quentin Fogarty
         slug: quentin-fogarty
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:4576-4714
@@ -172,12 +197,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b1704f99-8d36-4d4c-98b9-6fd61ee5a8ae
-    claim_hash: 11d8e59599d605a6ea48c6539dfbf0889163e39bf6aa2c913446ea9434b76595
+    claim_hash: 9e32a2570add8d7db74469589474e7b201e455414cc085f0a1a714c129ebc866
     content: Dennis Grant was not interviewed by Royal New Zealand Air Force investigators about the 1978 Kaikoura UAP sighting.
     original_excerpt: I was not surprised to hear from Grant that he was not interviewed by the Royal New Zealand Air Force
       investigators.
@@ -192,16 +217,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6908-7010
@@ -211,7 +241,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -234,6 +264,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.56
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
@@ -269,6 +304,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 339cda28-8b99-44a6-bce2-e045a09a4115
         title: Wairakei flying saucer sighting by surveying engineer, circa 1957

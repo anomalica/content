@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8ae02655974e779c60bbe44b25f47773fc19a94e0a70ef4fa574cf3257c399e3
+brief_hash: 3c94c99db5e278f292d9f62840900ec6c972c259dc74d01457f3f26d78aee75f
 page:
   kind: entity
   node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
@@ -9,11 +9,21 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 11
   tokens_estimated: 1570
   sized_against: 1050000
+entailment:
+  assessed: 11
+  unassessed: 0
+  entails: 10
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 3
+  entailed_by_window: 7
+  entailed_by_quote_fraction: 0.273
+  entailed_by_window_fraction: 0.636
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -112,6 +122,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
         title: John Greenewald
@@ -151,6 +166,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 290badaf-6308-4425-9c37-b1da518c0882
         title: Kari DeLonge
@@ -198,6 +218,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
         title: John Greenewald
@@ -236,6 +261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -272,6 +302,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.582
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
         title: John Greenewald
@@ -309,6 +344,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.577
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 290badaf-6308-4425-9c37-b1da518c0882
         title: Kari DeLonge
@@ -338,6 +378,50 @@ claims:
       record_reference: https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
       content_hash: sha256:f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf29e0cff2c
       friendly_name: 2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an
+  - claim_id: dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
+    claim_hash: fb98bde84f6db7fb0942158d07a8cdbea1623d62cd8f0457e0eb9adebf652142
+    content: The Office of the Under Secretary of Defense for Intelligence and Security, a component of the Office of the
+      Secretary of Defense, located eight pages determined responsive to parts one and two of John Greenewald's Freedom of
+      Information Act request.
+    original_excerpt: The Under Secretary of Defense for Intelligence & Security, a component of the Office of the Secretary
+      of Defense, conducted a search of their records systems and located eight pages determined to be responsive to parts
+      one and two of your request.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 52a81097-af0d-4b40-a084-fef72e901628
+      title: Stephanie L. Carr
+    provenance_chain:
+      origin_kind: speaker
+      origin: Stephanie L. Carr
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
+        title: John Greenewald
+        slug: john-greenewald
+      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
+        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
+        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
+    date: null
+    date_end: null
+    location_in_record: char:569-809
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
+      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
+      record_date: '2022-08-17'
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
+      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
+      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: f66c86f4-cc07-4c4b-a267-7decee52d115
     claim_hash: a9e71d3f928c9f587ebd0fee4f5bc28fbadce7bff65d1df080cad2ed0f19ce4c
     content: On 2019-09-11, John Greenewald reported via The Black Vault that the US Navy had released the dates of three
@@ -355,6 +439,11 @@ claims:
         - The Black Vault
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.556
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
         title: The Black Vault
@@ -374,7 +463,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -394,6 +483,11 @@ claims:
         - The Black Vault
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
         title: The Black Vault
@@ -417,49 +511,10 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: dd88e9df-d1b5-4faf-9f81-9bb8dc58eb73
-    claim_hash: 772a5eead6e9f0119b4f40067a38f5cbfc371d7d56163375b2e6200a386aa6b8
-    content: The Office of the Under Secretary of Defense for Intelligence and Security, a component of the Office of the
-      Secretary of Defense, located eight pages determined responsive to parts one and two of John Greenewald's Freedom of
-      Information Act request.
-    original_excerpt: The Under Secretary of Defense for Intelligence & Security, a component of the Office of the Secretary
-      of Defense, conducted a search of their records systems and located eight pages determined to be responsive to parts
-      one and two of your request.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 52a81097-af0d-4b40-a084-fef72e901628
-      title: Stephanie L. Carr
-    provenance_chain:
-      origin_kind: speaker
-      origin: Stephanie L. Carr
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 7155e2e0-0cd2-4ee7-963d-6e47c3f093f2
-        title: John Greenewald
-        slug: john-greenewald
-      - node_id: f9c1f5e2-7a4b-4767-9954-a9d0f73bd908
-        title: Office of the Under Secretary of Defense for Intelligence (OUSDI)
-        slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
-    date: null
-    date_end: null
-    location_in_record: char:569-809
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
-      record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
-      record_date: '2022-08-17'
-      record_reference: null
-      content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
-      friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 8daa4135-3d2f-4c59-9eb0-8301cdc7c67c
     claim_hash: df8abf4100953ee1e40074a94152fea50ece242feaa033ff0dbd38f05234f0bf
     content: John Greenewald filed a Freedom of Information Act request that returned information indicating either about
@@ -478,6 +533,11 @@ claims:
         - John Greenewald's published FOIA result
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -514,6 +574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 49e20a47-e0d6-429d-8e8e-f20f6705a850
         title: The Black Vault

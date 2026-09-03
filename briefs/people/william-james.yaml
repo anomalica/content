@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1581
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 9
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.3
+  entailed_by_window_fraction: 0.6
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -115,6 +125,11 @@ claims:
         - Jacques Vallée
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c2685fbe-5a15-4183-8ce2-f97818983c84
         title: 'Man the Puppet: The Art of Controlling Minds'
@@ -154,6 +169,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -194,6 +214,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -232,6 +257,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.79
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -269,6 +299,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.513
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -311,6 +346,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.427
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -353,6 +393,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43d5d4a5-7db5-46c4-b0b5-27bd64faa692
         title: Leonora E. Piper
@@ -389,6 +434,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17375bf5-aa9e-49b5-8fcd-298534bee0c5
         title: Oliver Lodge
@@ -442,6 +492,11 @@ claims:
         - William James's 1896 "Address of the President Before the Society for Psychical Research"
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 993db6de-1f58-44e1-a47f-fbb2fd0458f5
         title: American Society for Psychical Research
@@ -482,6 +537,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ff9b4d15-f99f-4c43-8530-ae5b783fc7ac
         title: William James

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7d84e03daaf1ba6176e488e7cba833bcaab3c4f3614b4b37b26e6414a85a61b8
+brief_hash: 00c5858e7b58308902e30254a7e54eb155f9d2dba940d014c36865ad59ab45d2
 page:
   kind: entity
   node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
@@ -9,11 +9,21 @@ page:
   claim_count: 25
   claim_count_total: 25
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 25
   tokens_estimated: 3807
   sized_against: 1050000
+entailment:
+  assessed: 25
+  unassessed: 0
+  entails: 24
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 12
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.48
+  entailed_by_window_fraction: 0.48
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -153,10 +163,10 @@ related_nodes:
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
     shared_claims: 1
-  - node_id: acceba76-6ebc-405f-bdcb-43caeb454bc7
-    title: Unmasking the Face on Mars (National Aeronautics and Space Administration (NASA) article)
+  - node_id: 5f28f745-e4a2-43a7-a547-33e5b2d019c9
+    title: Unmasking the Face on Mars (NASA article)
     node_type: document
-    slug: unmasking-the-face-on-mars-national-aeronautics-and-space-administration-nasa-article
+    slug: unmasking-the-face-on-mars-nasa-article
     shared_claims: 1
 claims:
   - claim_id: a689f390-5a78-488b-8480-377360e2d44c
@@ -174,6 +184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c3a290b-86c2-47c3-bcb5-1ae213efbc29
         title: Sean O'Keefe
@@ -201,7 +216,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 0366132f-57d0-4fc8-b821-5b41971f16ef
-    claim_hash: d8a487edf9e23778248d82f678b73aca97ac2377ead2eb52ba76dfac9063518b
+    claim_hash: c80c3ebcca72f705732b2ee33ef663fc8c9615adf9aec04d10b19c482cc9b35f
     content: President George W. Bush replaced Dan Goldin as NASA Administrator with Sean O'Keefe shortly after the 'Unmasking
       the Face on Mars' Mars Orbiter Laser Altimeter (MOLA) controversy had been exposed.
     original_excerpt: President Bush had replaced Dan Goldin with his own man, Sean O’Keefe, shortly after the “Unmasking
@@ -215,6 +230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03b7390b-c6ee-4c68-9536-b6f547c4734d
         title: Dan Goldin
@@ -225,12 +245,12 @@ claims:
       - node_id: 2c3a290b-86c2-47c3-bcb5-1ae213efbc29
         title: Sean O'Keefe
         slug: sean-okeefe
+      - node_id: 5f28f745-e4a2-43a7-a547-33e5b2d019c9
+        title: Unmasking the Face on Mars (NASA article)
+        slug: unmasking-the-face-on-mars-nasa-article
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
         slug: george-w-bush
-      - node_id: acceba76-6ebc-405f-bdcb-43caeb454bc7
-        title: Unmasking the Face on Mars (National Aeronautics and Space Administration (NASA) article)
-        slug: unmasking-the-face-on-mars-national-aeronautics-and-space-administration-nasa-article
     date: null
     date_end: null
     location_in_record: ch16:14236-14374
@@ -259,6 +279,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15aa046d-01d6-4a32-9fff-9ad47b653236
         title: Opportunity
@@ -304,6 +329,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -343,6 +373,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -378,6 +413,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -415,6 +455,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.629
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -448,6 +493,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -481,6 +531,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1623e9f3-5ac3-4e67-86d0-ceb1072826dc
         title: Richard Dolan
@@ -516,6 +571,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
         title: Gene Cernan
@@ -558,6 +618,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195bef2f-f91b-4f57-a868-ea50866a6a53
         title: Al Gore
@@ -592,6 +657,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.495
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -627,6 +697,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f308d88-d2de-4252-9456-3615d3a27796
         title: USA, Florida
@@ -660,6 +735,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.799
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 195bef2f-f91b-4f57-a868-ea50866a6a53
         title: Al Gore
@@ -696,6 +776,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 003e3882-7994-4ff2-9b08-e140df865bbe
         title: September 11 attacks, 2001-09-11
@@ -734,6 +819,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.562
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
         title: International Space Station (ISS)
@@ -773,6 +863,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f39bc18-bf04-42ba-8127-33d988dfed95
         title: International Space Station (ISS)
@@ -812,6 +907,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -852,6 +952,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.497
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -882,6 +987,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -917,6 +1027,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.736
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -956,6 +1071,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -994,6 +1114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -1034,6 +1159,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8d16b687-0581-4cf5-952a-a6ad7dfe7016
         title: George W. Bush
@@ -1074,6 +1204,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)

@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: cdaa6cdc63ea8ac5e96e8e0d5414f8125ecb967761202133b32f2d56c5db8347
+brief_hash: 1b51be85345f06b8e212b7989bf0106e0cbcdbb20afa5a9961215390191be746
 page:
   kind: entity
   node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
   node_type: event
-  title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+  title: 1948 Aztec, New Mexico alleged UAP crash retrieval
   slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-  claim_count: 10
-  claim_count_total: 10
+  claim_count: 6
+  claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 10
-  tokens_estimated: 1294
+  claims: 6
+  tokens_estimated: 855
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 1
+  neutral: 5
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,18 +31,8 @@ publication:
 belonging:
   verified: 4
   suspect_excluded: 0
-  unreviewed: 6
+  unreviewed: 2
 related_nodes:
-  - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-    title: USA, New Mexico, Aztec
-    node_type: place
-    slug: new-mexico-aztec-usa
-    shared_claims: 4
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    node_type: person
-    slug: jesse-mitchells
-    shared_claims: 2
   - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
     title: Ross Coulthart
     node_type: person
@@ -42,6 +42,11 @@ related_nodes:
     title: Silas Newton
     node_type: person
     slug: silas-newton
+    shared_claims: 2
+  - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
+    title: USA, New Mexico, Aztec
+    node_type: place
+    slug: new-mexico-aztec-usa
     shared_claims: 2
   - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
     title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -58,11 +63,6 @@ related_nodes:
     node_type: person
     slug: frank-thayer
     shared_claims: 1
-  - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-    title: J. Robert Oppenheimer
-    node_type: person
-    slug: j-robert-oppenheimer
-    shared_claims: 1
   - node_id: 9bf92931-085a-4b8b-92fb-d9044a99da75
     title: Scott Ramsey
     node_type: person
@@ -72,16 +72,6 @@ related_nodes:
     title: Suzanne Ramsey
     node_type: person
     slug: suzanne-ramsey
-    shared_claims: 1
-  - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
-    title: The Crash at Aztec (book by William Steinman)
-    node_type: document
-    slug: the-crash-at-aztec-book-by-william-steinman
-    shared_claims: 1
-  - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-    title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-    node_type: document
-    slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
     shared_claims: 1
   - node_id: de197282-8103-49ca-9474-76f73f431890
     title: USA, New Mexico, Hart Canyon
@@ -97,11 +87,6 @@ related_nodes:
     title: United States Army
     node_type: organisation
     slug: united-states-army
-    shared_claims: 1
-  - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-    title: William Steinman
-    node_type: person
-    slug: william-steinman
     shared_claims: 1
 claims:
   - claim_id: 2a569a48-75c5-4aa1-9362-162caeeb8b34
@@ -119,6 +104,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
         title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -135,7 +125,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -155,6 +145,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
         title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -183,7 +178,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -201,6 +196,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
         title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -217,7 +217,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -236,6 +236,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 14ac1ead-cf3f-422e-9bda-8ede06aa1d8a
         title: 1950 Del Rio, Texas alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -252,7 +257,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -273,6 +278,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
         title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -298,7 +308,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -319,6 +329,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
         title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
@@ -338,164 +353,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3686158e-b007-4c0c-af4b-23373b470d47
-    claim_hash: 7c2e36410f24f095b2ecb2b27e7949c68bf144425186cfd5440aa5bd772579c3
-    content: William Steinman's book The Crash at Aztec briefly mentions J. Robert Oppenheimer as tangentially related to
-      the 1947 Aztec, New Mexico UFO crash and suggests he might have been part of a crash retrieval team.
-    original_excerpt: the crash at aztec by steinman he does briefly mention oppenheimer being tangentially related to this
-      somehow and suggests that he might have even been part of a crash retrieval team
-    claim_type: hearsay
-    attestation: second_hand
-    speaker:
-      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-      title: Chris Ramsay
-    provenance_chain:
-      origin_kind: document
-      origin: The Crash at Aztec (book by William Steinman)
-      relay:
-        - Chris Ramsey's narration
-    attribution_mode: unknown
-    attachment: verified
-    node_refs:
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-      - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
-        title: William Steinman
-        slug: william-steinman
-      - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
-        title: J. Robert Oppenheimer
-        slug: j-robert-oppenheimer
-      - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
-        title: The Crash at Aztec (book by William Steinman)
-        slug: the-crash-at-aztec-book-by-william-steinman
-    date: null
-    date_end: null
-    location_in_record: 00:15:04.1-00:15:14.6
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
-      record_date: '2025-04-11'
-      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-      friendly_name: null
-  - claim_id: 492acced-60fb-44df-a60c-5380bfc35a7f
-    claim_hash: eaf862fd34fa03b3bf6d76da9873f0b506913a652980aa59c2c694092d4c4b4f
-    content: Eight months after The Relationships with Inhabitants of Celestial Bodies (1947 document) was written, a crash
-      occurred at Aztec, New Mexico.
-    original_excerpt: eight months later a crash in aztec new mexico
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-      title: Chris Ramsay
-    provenance_chain:
-      origin_kind: speaker
-      origin: Chris Ramsey
-      relay: []
-    attribution_mode: unknown
-    attachment: verified
-    node_refs:
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-        title: USA, New Mexico, Aztec
-        slug: new-mexico-aztec-usa
-      - node_id: df15f4e2-5929-4ee0-b7ac-15c580096011
-        title: The Relationships with Inhabitants of Celestial Bodies (1947 document)
-        slug: the-relationships-with-inhabitants-of-celestial-bodies-1947-document
-    date: null
-    date_end: null
-    location_in_record: 00:35:16.8-00:35:19.7
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: f87bfd7f-e9da-40a1-b798-17f613313a67
-      record_title: Aliens and Albert Einstein - The Secret Document - DEBRIEFED ep. 33
-      record_date: '2025-04-11'
-      record_reference: https://www.youtube.com/watch?v=iSWqhLKzy2Q
-      content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
-      friendly_name: null
-  - claim_id: db5428f4-12bc-4940-844b-147f9cc960f9
-    claim_hash: bec1635be5aac3707042c8f93892292d57da6c0e7ea55f1339f21603bb97df84
-    content: Jesse Michels and his editor travelled to Aztec, New Mexico to investigate the reported crash there.
-    original_excerpt: my editors here with me and we both went to Aztec, New Mexico to investigate the crash there.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-      title: Jesse Mitchells
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jesse Michels
-      relay: []
-    attribution_mode: bare_ok
-    attachment: verified
-    node_refs:
-      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-        title: Jesse Mitchells
-        slug: jesse-mitchells
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-      - node_id: dcaf78c7-5895-4ecb-9cd8-9fb6169ea93d
-        title: USA, New Mexico, Aztec
-        slug: new-mexico-aztec-usa
-    date: null
-    date_end: null
-    location_in_record: 01:00:51.2-01:00:55.4
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: 284a69c3-31d6-4357-8c0e-86079d6366cd
-    claim_hash: 98693b96049bc782bc4b1228deeb1d5189481f99f48b933992b51d43aa6b985c
-    content: Jesse Michels entered the Aztec, New Mexico investigation sceptical and came away fairly sure a crash occurred
-      there.
-    original_excerpt: I came in skeptical and I came out pretty sure that there was a crash there
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-      title: Jesse Mitchells
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jesse Michels
-      relay: []
-    attribution_mode: unknown
-    attachment: verified
-    node_refs:
-      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-        title: Jesse Mitchells
-        slug: jesse-mitchells
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
-    date: null
-    date_end: null
-    location_in_record: 01:01:00.2-01:01:04.5
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null

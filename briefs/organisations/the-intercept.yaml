@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 610
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -83,6 +93,11 @@ claims:
         - an email to The Intercept
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.806
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
         title: The Intercept
@@ -121,6 +136,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.43
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
         title: The Intercept
@@ -144,7 +164,7 @@ claims:
     provenance:
       record_id: 6277b269-0970-4c9f-bb3f-9af4babe813e
       record_title: Pentagon Reinforces Mr. Luis Elizondo Had “No Responsibilities” on AATIP; Senator Harry Reid’s 2009 Memo
-        Changes Nothing - The Black Vault
+        Changes Nothing
       record_date: '2019-06-14'
       record_reference: https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/
       content_hash: sha256:b5f3b4fc656776dcac742cb3190859da4a5d67bf028530c1aeea49b186b0adfc
@@ -167,6 +187,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.885
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1e7db324-7094-4476-9d77-7220562ccdca
         title: David Grusch congressional testimony (2023-07-26)
@@ -210,6 +235,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 389a5fcc-7af0-4927-88fc-d6e111d21c06
         title: The Intercept

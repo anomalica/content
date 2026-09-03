@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fdb3221d0c2e8c0fe1dd5c42231ea9bf8de57edef1a60a5d968e55e3aa5b44d7
+brief_hash: cf24c6e8c34a4768e7a31ad1e071b2fcafec5d8a9d247b182232fa16d02d5942
 page:
   kind: entity
   node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1235
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 8
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 3
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.3
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -44,76 +54,6 @@ related_nodes:
     slug: house-hearing-on-unidentified-anomalous-phenomena-2023-07-26
     shared_claims: 1
 claims:
-  - claim_id: ab2f212d-3754-4c55-8ea2-97288d736b40
-    claim_hash: 70875496d13e28f15dffc6973f08dad872e9f0a48451e994788672c3537d2c6a
-    content: Ryan Graves launched an organisation called Americans for Safe Aerospace (ASA), which advocates for aerospace
-      safety and national security.
-    original_excerpt: In a laudable initiative, Ryan Graves has launched an organisation called Americans for Safe Aerospace
-      (ASA), which advocates for aerospace safety and national security.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
-        title: Americans for Safe Aerospace
-        slug: americans-for-safe-aerospace
-      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
-        title: Ryan Graves
-        slug: ryan-graves
-    date: null
-    date_end: null
-    location_in_record: ch29:28922-29082
-    evidence:
-      score: null
-      independent_sources: 2
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ea1c1e64-3d47-4ed3-b736-2a5345f5ec35
-    claim_hash: 77abefbde03ba1720a2eb881ddab34369dc7cc391dec268f9a81a6dc82b88629
-    content: Americans for Safe Aerospace (ASA) supports military and civilian pilots and others in the aerospace industry
-      who report Unidentified Aerial Phenomena (UAP), demanding more disclosure from public officials.
-    original_excerpt: It supports military and civilian pilots and others in the aerospace industry who report UAPs, demanding
-      more disclosure from public officials.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
-        title: Americans for Safe Aerospace
-        slug: americans-for-safe-aerospace
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-    date: null
-    date_end: null
-    location_in_record: ch29:29092-29218
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a4e6afd9-fbd9-4e3c-a9ce-f0e0ed5d4a65
     claim_hash: b87e3f84afce1cefdd30d687c1e0bb19a83554d84fa42e61582def0cd6d0b91b
     content: Ryan Graves is the Executive Director of Americans for Safe Aerospace.
@@ -129,6 +69,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -146,7 +91,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 84b7279b-3df5-4fa1-97ca-103d67dcf61c
@@ -163,6 +108,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -183,7 +133,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 1d0f715d-89eb-4654-81fd-ff8b58be1317
@@ -201,6 +151,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -218,7 +173,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 5f634167-7d07-4560-a064-cd12ac2fb826
@@ -238,6 +193,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -252,7 +212,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 1b232bf5-f526-4510-88e4-4d9768f5d0d3
@@ -272,6 +232,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.463
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -286,7 +251,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 5ee9271a-8e09-4bb9-a30f-3eb40fdeb817
@@ -305,6 +270,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -322,7 +292,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: e65da470-625f-4bee-a9e6-f715c3665756
@@ -342,6 +312,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -359,7 +334,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 3dd7ca4d-c96a-4e98-8c97-f8acfb1ce6fe
@@ -380,6 +355,11 @@ claims:
         - a witness who approached Ryan Graves at Americans for Safe Aerospace
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
         title: Americans for Safe Aerospace
@@ -400,6 +380,86 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
+  - claim_id: ab2f212d-3754-4c55-8ea2-97288d736b40
+    claim_hash: 70875496d13e28f15dffc6973f08dad872e9f0a48451e994788672c3537d2c6a
+    content: Ryan Graves launched an organisation called Americans for Safe Aerospace (ASA), which advocates for aerospace
+      safety and national security.
+    original_excerpt: In a laudable initiative, Ryan Graves has launched an organisation called Americans for Safe Aerospace
+      (ASA), which advocates for aerospace safety and national security.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+        title: Americans for Safe Aerospace
+        slug: americans-for-safe-aerospace
+      - node_id: 64be188f-bca4-416a-a06b-fc30fd1d7eff
+        title: Ryan Graves
+        slug: ryan-graves
+    date: null
+    date_end: null
+    location_in_record: ch29:28922-29082
+    evidence:
+      score: null
+      independent_sources: 2
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: ea1c1e64-3d47-4ed3-b736-2a5345f5ec35
+    claim_hash: 77abefbde03ba1720a2eb881ddab34369dc7cc391dec268f9a81a6dc82b88629
+    content: Americans for Safe Aerospace (ASA) supports military and civilian pilots and others in the aerospace industry
+      who report Unidentified Aerial Phenomena (UAP), demanding more disclosure from public officials.
+    original_excerpt: It supports military and civilian pilots and others in the aerospace industry who report UAPs, demanding
+      more disclosure from public officials.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 128e4d1b-a051-42e4-8de1-5357bbfa2dbb
+        title: Americans for Safe Aerospace
+        slug: americans-for-safe-aerospace
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: ch29:29092-29218
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight

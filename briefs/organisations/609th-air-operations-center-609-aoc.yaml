@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5f403ddf3d9d9a58726a5aea79b444be523081c7fc1f83be417eb20828d8386d
+brief_hash: 792c9777333e0b2ad4f2f9edc44e343a26be49bbdd2331dbf7ee944d47c0fec9
 page:
   kind: entity
   node_id: 9b61acd8-999d-415d-9b20-95b505f29940
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
-  tokens_estimated: 493
+  tokens_estimated: 444
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 4
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -27,17 +37,7 @@ related_nodes:
     title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
     node_type: event
     slug: syria-2022-07-31-unidentified-aerial-phenomena-uap-sighting-near-deir-ez-zor
-    shared_claims: 1
-  - node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
-    title: 432nd Air Expeditionary Wing (432 AEW)
-    node_type: organisation
-    slug: 432nd-air-expeditionary-wing-432-aew
-    shared_claims: 1
-  - node_id: e67c1cdb-46fc-487a-8b8d-f1b8f623987f
-    title: 89th Attack Squadron (ATKS)
-    node_type: organisation
-    slug: 89th-attack-squadron-atks
-    shared_claims: 1
+    shared_claims: 3
 claims:
   - claim_id: 488e2803-d3c5-489b-bb70-971ec2b87e36
     claim_hash: 712a9b43756546a3ce1d03cddad14ccb7071cdb1eecf8c170e6c98768933cec0
@@ -54,6 +54,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
         title: 609th Air Operations Center (609 AOC)
@@ -84,6 +89,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.517
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
         title: 609th Air Operations Center (609 AOC)
@@ -101,20 +111,25 @@ claims:
       record_reference: null
       content_hash: sha256:39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc6cee13b1
       friendly_name: null
-  - claim_id: ba7265ee-13f3-4821-8d2a-b75c228992fb
-    claim_hash: 34482fe7412f8416972a9842c919bffda04c40bc9322fc43ae2bc898a4bfa051
-    content: The mission that included the 2022-07-31 UAP sighting near Deir ez-Zor, Syria was overseen by the 609th Combined
-      Air Operations Center (609 CAOC) as the operations center.
-    original_excerpt: 'Operations Center: 609th'
+  - claim_id: 6ef77c0b-e2df-471c-84bd-edf2d34c658d
+    claim_hash: 73b87172d480f8754e50cab0a904f8b4ce18d50bc1ac90409ca2c858d8939ac7
+    content: The mission associated with the 31 July 2022 UAP sighting near Deir ez-Zor was overseen by the 609th Air Operations
+      Center.
+    original_excerpt: '**Operations Center:** 609th'
     claim_type: administrative
     attestation: second_hand
     speaker: null
     provenance_chain:
       origin_kind: document
-      origin: the mission report (MISREP)
+      origin: the mission report admin section
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.434
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4601c91f-54fd-4465-91dc-850378d5eed9
         title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
@@ -122,9 +137,9 @@ claims:
       - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
         title: 609th Air Operations Center (609 AOC)
         slug: 609th-air-operations-center-609-aoc
-    date: '2022-07-31'
+    date: null
     date_end: null
-    location_in_record: char:1466-1466
+    location_in_record: char:1572-1593
     evidence:
       score: null
       independent_sources: 1
@@ -135,34 +150,35 @@ claims:
       record_reference: null
       content_hash: sha256:b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e190ef817
       friendly_name: null
-  - claim_id: bc69e382-2897-4247-add4-23d125ba6c13
-    claim_hash: 9d0df214e6e657b0c78420ae5f13b8c59ace62637d47cbc3e9ccfbc32bc12767
-    content: The quality control (QC) reviewer for the mission report was assigned to the 89th Attack Squadron (89 ATKS),
-      part of the 432nd Air Expeditionary Wing (432 AEW), with an operations center of 609th Combined Air Operations Center
-      (609 CAOC).
-    original_excerpt: "Unit: 89 ATKS\n- Wing: 432 AEW\n... Operations Center: 609 CAOC"
+  - claim_id: 8dbc5b6e-dd02-412c-82fd-ce63a382346b
+    claim_hash: f2faa033afe6887eebd38947573924e0b137c728aecdc0521870ce7d5db09885
+    content: The quality-control reviewer of the mission report covering the 31 July 2022 UAP sighting near Deir ez-Zor was
+      affiliated with the 609th Combined Air Operations Center (609 CAOC).
+    original_excerpt: '**Operations Center:** 609 CAOC'
     claim_type: administrative
     attestation: second_hand
     speaker: null
     provenance_chain:
       origin_kind: document
-      origin: the mission report (MISREP)
+      origin: the mission report QC section
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 4601c91f-54fd-4465-91dc-850378d5eed9
+        title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
+        slug: syria-2022-07-31-unidentified-aerial-phenomena-uap-sighting-near-deir-ez-zor
       - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
         title: 609th Air Operations Center (609 AOC)
         slug: 609th-air-operations-center-609-aoc
-      - node_id: e67c1cdb-46fc-487a-8b8d-f1b8f623987f
-        title: 89th Attack Squadron (ATKS)
-        slug: 89th-attack-squadron-atks
-      - node_id: fa3c9876-887c-4998-8a22-d70a78c43c73
-        title: 432nd Air Expeditionary Wing (432 AEW)
-        slug: 432nd-air-expeditionary-wing-432-aew
-    date: '2022-07-31'
+    date: null
     date_end: null
-    location_in_record: char:1941-1961
+    location_in_record: char:2624-2649
     evidence:
       score: null
       independent_sources: 1
@@ -173,27 +189,35 @@ claims:
       record_reference: null
       content_hash: sha256:b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e190ef817
       friendly_name: null
-  - claim_id: 23534654-98c0-47b4-94e3-7691fa032973
-    claim_hash: d81398769ec8d04df1fad9e17e9c06f87cc57b646c6efb53b1a8a8b8b390188c
-    content: The approver of the mission report was assigned to the 609th Air Operations Center, with an operations center
-      of 609th Combined Air Operations Center (609 CAOC).
-    original_excerpt: "Unit: 609th AOC\n... Operations Center: 609 CAOC"
+  - claim_id: d70954ea-1972-4a75-9263-a9dd382e92cb
+    claim_hash: b80fe3d5f38bae2a66ac01cdca5591cf516c488fd9314788fd2f193cbc108bff
+    content: The approver of the mission report covering the 31 July 2022 UAP sighting near Deir ez-Zor holds the rank of
+      Senior Airman (SrA) and belongs to the 609th Air Operations Center.
+    original_excerpt: '**Rank:** SrA ... **Unit:** 609th AOC'
     claim_type: administrative
     attestation: second_hand
     speaker: null
     provenance_chain:
       origin_kind: document
-      origin: the mission report (MISREP)
+      origin: the mission report approver section
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 4601c91f-54fd-4465-91dc-850378d5eed9
+        title: 2022-07-31 Unidentified Aerial Phenomena (UAP) sighting near Deir ez-Zor, Syria
+        slug: syria-2022-07-31-unidentified-aerial-phenomena-uap-sighting-near-deir-ez-zor
       - node_id: 9b61acd8-999d-415d-9b20-95b505f29940
         title: 609th Air Operations Center (609 AOC)
         slug: 609th-air-operations-center-609-aoc
-    date: '2022-07-31'
+    date: null
     date_end: null
-    location_in_record: lines 70-80
+    location_in_record: char:2675-2768
     evidence:
       score: null
       independent_sources: 1

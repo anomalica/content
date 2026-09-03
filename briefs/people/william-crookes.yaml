@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1449
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 7
+  neutral: 1
+  contradicts: 1
+  entailed_by_quote: 3
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.444
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -49,6 +59,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -82,6 +97,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.603
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
         title: William Crookes
@@ -116,6 +136,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.814
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -153,6 +178,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.553
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -190,6 +220,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.849
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -225,6 +260,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.558
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -266,6 +306,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
         title: Living matter through matter (mediumship phenomenon)
@@ -306,6 +351,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e0db0e22-b38e-4cb5-b1b6-0e4790876f9e
         title: William Crookes
@@ -338,6 +388,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home

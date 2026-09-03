@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 22d4786dc9439907cb9d837476f2432cbcb23f4040a971709b5bfdd48819ce77
+brief_hash: 1bd3c906c0afeedfcbeda82ee88c8ee8bf0d6b923a7edac5fea03d775fd56b4c
 page:
   kind: entity
   node_id: 34552508-15df-4575-b1ee-16f20c026e18
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 469
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 1.0
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -74,6 +84,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34552508-15df-4575-b1ee-16f20c026e18
         title: Apollo 13
@@ -118,6 +133,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34552508-15df-4575-b1ee-16f20c026e18
         title: Apollo 13
@@ -152,6 +172,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34552508-15df-4575-b1ee-16f20c026e18
         title: Apollo 13
@@ -173,7 +198,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 3669ca88-543c-49e7-80ed-6472213f652f
-    claim_hash: aaadfe24d45f41db77f1c056ca4b9842785ab66d9c7f7856bf4db5c93fcbf1ee
+    claim_hash: 53618a6746fd07fc8ac5bff6bf8f2ff14aa4779c6f964bf1d0a6c211d1d4583e
     content: Members of the Apollo 13 mission were aware that they were being followed and believed they were probably benevolently
       protected.
     original_excerpt: I've spoken to other people who've told me that even the members of Apollo 13 were aware that they were
@@ -189,6 +214,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 34552508-15df-4575-b1ee-16f20c026e18
         title: Apollo 13

@@ -9,7 +9,7 @@ page:
   claim_count: 327
   claim_count_total: 327
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 327
   tokens_estimated: 37171
@@ -3421,12 +3421,12 @@ claims:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
         slug: jesse-mitchells
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction
         slug: alien-abduction
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:03:22.5-01:03:35.8

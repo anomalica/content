@@ -9,7 +9,7 @@ page:
   claim_count: 70
   claim_count_total: 70
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 70
   tokens_estimated: 9670

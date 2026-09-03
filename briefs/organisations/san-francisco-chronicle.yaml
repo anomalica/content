@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: dc46ec6734e9f9a09f950329d71ec8422587ae3ee1434c8c5ae630c79eeb54ee
+brief_hash: 8504c84e6eac8be9fc7e208590fb5883d5bc9e2acd07af1d55e32377e92873d1
 page:
   kind: entity
   node_id: 7da2cf2b-788e-43ff-912c-1a6087f7bd06
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 849
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 4
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.6
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -104,6 +114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 28b55b1b-8a63-4dbb-b444-8704078244fc
         title: O'Hara (San Francisco Chronicle reporter)
@@ -142,6 +157,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5d5aa4e3-7bc3-4206-97e9-86ceeb333478
         title: USA, California, San Francisco
@@ -182,6 +202,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.929
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0958b0b1-bd61-4b80-930c-740c94c2e02b
         title: Walter Sullivan
@@ -227,7 +252,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: b47bbe0c-9ff8-40ac-bc70-2d8d1d9c979e
-    claim_hash: 788c131e8272bf0b753866e1d0f4927188cbd843f802c1feff7b5c9d826a5a99
+    claim_hash: 190d3228b2c56307a0ae2ffdfba3ec9d955d811f3052b48fa530d57596ec9440
     content: 'The San Francisco Chronicle, under the headline "DISC: SOLUTION COLLAPSES," reported that General Roger M. Ramey
       said the Roswell wreckage was a "high-altitude weather observation device" consisting of a box kite and a balloon.'
     original_excerpt: 'Under the headline DISC: SOLUTION COLLAPSES the *Chronicle* reported that General Roger M. Ramey had
@@ -242,6 +267,11 @@ claims:
         - San Francisco Chronicle
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -266,7 +296,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: de085f16-60cb-4778-a8c5-6197ec7266cd
-    claim_hash: d66715dbc1b701323610f6a41009ca20069d7958417628ba99ce2bed733c6ca6
+    claim_hash: 023e2de66344fe9c168540113b451d28180ba3f7cc31c36ba12f7c4b19b918cd
     content: Later in the same San Francisco Chronicle story, General Roger M. Ramey was reported to have said the Roswell
       wreckage was a "star-shaped tinfoil target designed to reflect radar."
     original_excerpt: Later in the same story General Ramey is reported to have said that it was a "starshaped tinfoil target
@@ -281,6 +311,11 @@ claims:
         - San Francisco Chronicle
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey

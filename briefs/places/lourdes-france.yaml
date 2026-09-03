@@ -9,11 +9,21 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 31
   tokens_estimated: 4098
   sized_against: 1050000
+entailment:
+  assessed: 31
+  unassessed: 0
+  entails: 23
+  neutral: 8
+  contradicts: 0
+  entailed_by_quote: 7
+  entailed_by_window: 16
+  entailed_by_quote_fraction: 0.226
+  entailed_by_window_fraction: 0.516
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -102,6 +112,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5832114b-8a53-41f4-895c-6806175921c5
         title: Alfredo Ottaviani
@@ -140,6 +155,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -174,6 +194,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.436
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4134cd3c-bf3d-45ba-a761-c226847bf4db
         title: Lourdes Marian apparitions (1858-02-11 to 1858-07-16)
@@ -212,6 +237,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.554
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -247,6 +277,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -282,6 +317,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -317,6 +357,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -351,6 +396,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.518
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -385,6 +435,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -416,6 +471,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -449,6 +509,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -482,6 +547,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.54
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -512,6 +582,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.557
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -543,6 +618,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 115cebed-55a2-482a-aa57-412be008ffc4
         title: Episcopal investigation committee into the Lourdes apparitions (1858-07-28)
@@ -579,6 +659,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.834
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -611,6 +696,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -646,6 +736,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.415
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -680,6 +775,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -720,6 +820,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -758,6 +863,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 145b612d-15cd-44ed-90ab-9d677de5f1b8
         title: Father Peyramalle
@@ -793,6 +903,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -832,6 +947,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.581
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -870,6 +990,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -903,6 +1028,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -938,6 +1068,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.678
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30d5f933-f6de-46b8-8d13-821454a8c92d
         title: 1858 Lourdes Marian apparitions
@@ -979,6 +1114,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1019,6 +1159,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1059,6 +1204,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.68
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1094,6 +1244,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1131,6 +1286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.472
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes
@@ -1170,6 +1330,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.895
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f005ad1-71f3-4bf2-a1aa-1bd10d44489e
         title: France, Lourdes

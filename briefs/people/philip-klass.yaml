@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fa3570c318f9c6e34d42a97d5edd34f697d6c2c2488e8750ac5ff7b5da11af7c
+brief_hash: 1a9d3c594d50245f5db07161f86dc0d1a6b1fafce14bfedfb0be1fa635ed8a15
 page:
   kind: entity
   node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
@@ -9,11 +9,21 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 11
   tokens_estimated: 1498
   sized_against: 1050000
+entailment:
+  assessed: 11
+  unassessed: 0
+  entails: 2
+  neutral: 9
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.091
+  entailed_by_window_fraction: 0.091
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,11 +33,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 11
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: cf02e44b-2222-4bd0-96d7-28cd5126f27e
+    title: 1971 Delphos, Kansas Unidentified Flying Object (UFO) landing
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 4
+    slug: kansas-unidentified-flying-object-ufo-landing-1971-delphos
+    shared_claims: 2
   - node_id: bd82e185-d546-4be3-94ad-4516e0b41928
     title: Aviation Week and Space Technology
     node_type: organisation
@@ -43,6 +53,16 @@ related_nodes:
     node_type: document
     slug: ufos-explained-book-by-philip-klass
     shared_claims: 2
+  - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+    title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
+    shared_claims: 1
+  - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+    title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
   - node_id: 1bd56506-dee8-4025-abff-abfa358a1aae
     title: Committee for the Scientific Investigation of Claims of the Paranormal (CSICOP)
     node_type: organisation
@@ -76,6 +96,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.732
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -107,6 +132,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.625
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -128,7 +158,7 @@ claims:
       content_hash: sha256:b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4001275f9
       friendly_name: 2013-06-16-ebook-communion
   - claim_id: 2d1af5fb-ffd9-450e-a945-80abe248c929
-    claim_hash: 4d1f5cefa0a0c0743579be65442d14658022d4c7e115e86a6eb413b3fc313ac0
+    claim_hash: 7cfeba67e4801097336bb4dfaa52226bba406cec38e2917eccf42ce1ce065389
     content: Microscopic examination resolved the white substance from the Delphos, Kansas ring into fibres, contradicting
       Philip Klass's explanation in his book UFOs Explained that the substance was produced by sheep urine from a circular
       device.
@@ -144,6 +174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -151,9 +186,9 @@ claims:
       - node_id: 1d1d4442-d595-4c42-94bf-e49796680cee
         title: UFOs Explained (book by Philip Klass)
         slug: ufos-explained-book-by-philip-klass
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cf02e44b-2222-4bd0-96d7-28cd5126f27e
+        title: 1971 Delphos, Kansas Unidentified Flying Object (UFO) landing
+        slug: kansas-unidentified-flying-object-ufo-landing-1971-delphos
     date: null
     date_end: null
     location_in_record: ch9:41780-42018
@@ -168,7 +203,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 5c218f54-9f4e-43a6-9987-c5aec72009a9
-    claim_hash: e6520cf7f3ce08723e4d3ea4bc4750bdedfb3fafd0d78262653586ee773bb222
+    claim_hash: e92a2eb77dc7f08efda1a1659506877c9f04b26afc90f26ba9d80c0eeeaecfd8
     content: Philip Klass proposed in his book UFOs Explained that the white substance at the Delphos, Kansas ring site was
       produced by the urine of sheep feeding from a circular device.
     original_excerpt: the urine of sheep feeding from a circular device
@@ -184,6 +219,11 @@ claims:
         - UFOs Explained (book by Philip Klass)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -191,9 +231,9 @@ claims:
       - node_id: 1d1d4442-d595-4c42-94bf-e49796680cee
         title: UFOs Explained (book by Philip Klass)
         slug: ufos-explained-book-by-philip-klass
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cf02e44b-2222-4bd0-96d7-28cd5126f27e
+        title: 1971 Delphos, Kansas Unidentified Flying Object (UFO) landing
+        slug: kansas-unidentified-flying-object-ufo-landing-1971-delphos
     date: null
     date_end: null
     location_in_record: ch9:41975-42018
@@ -208,7 +248,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 0c37f328-192b-410d-b232-7a7fa1bd9144
-    claim_hash: 81f27a41daac714a6b871925454e36dca1234e558596585b3fd5e5ebd84498c6
+    claim_hash: f4bc49f567197a8dd29fefa7351087be1d934cb6aeb04b512e1da395d46b5ca1
     content: Florenze Mansmann backed Robert Jacobs' account of the 1964 Vandenberg incident after reading that sceptics James
       Oberg and Philip Klass were attacking Jacobs with claims that his sighting was fanciful and uncorroborated.
     original_excerpt: backed Jacobs' account because he read how sceptics James Oberg and journalist Philip Klass were attacking
@@ -222,6 +262,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -235,9 +280,9 @@ claims:
       - node_id: a7401fee-f052-47b4-95d5-4ce7f695aa7d
         title: Florenze Mansmann
         slug: florenze-mansmann
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: e37d75bb-3981-44f1-a5a2-c353652ea8e3
+        title: 1964 Vandenberg missile warhead Unidentified Aerial Phenomena (UAP) incident
+        slug: 1964-vandenberg-missile-warhead-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: ch10:6482-6647
@@ -247,7 +292,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -268,6 +313,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -284,7 +334,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -303,6 +353,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -319,12 +374,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b4551724-7c47-44fb-8401-b11c725a2aca
-    claim_hash: 7c5ff709f54d4b0d1bd59e54f5430efc2743a76fc9e3e117151487a07e9fabbc
+    claim_hash: 6d0a5747acb274cdccb6db538d666b9eaa13cb4b711bae96124dde3276a4e0d2
     content: Philip Klass, who was not a witness to the 1986 Japan Airlines Flight 1628 UAP sighting, dismissed it as nothing
       anomalous, saying the crew was clearly tricked by an atmospheric phenomenon.
     original_excerpt: who was not actually a witness to the JAL sighting, rapidly dismissed it as nothing anomalous, saying
@@ -340,13 +395,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
         slug: philip-klass
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:14021-14170
@@ -356,7 +416,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -375,6 +435,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.961
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -391,7 +456,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -408,6 +473,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -421,7 +491,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -440,6 +510,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0840aa1b-826a-4ae8-9fd2-d3658731462e
         title: Philip Klass
@@ -453,7 +528,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

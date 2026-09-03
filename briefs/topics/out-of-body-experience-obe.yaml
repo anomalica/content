@@ -9,7 +9,7 @@ page:
   claim_count: 348
   claim_count_total: 348
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 348
   tokens_estimated: 48047
@@ -173,15 +173,15 @@ related_nodes:
     node_type: project
     slug: gateway-experience-monroe-institute-program
     shared_claims: 2
-  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-    title: Grey aliens
-    node_type: topic
-    slug: grey-aliens
-    shared_claims: 2
   - node_id: 6abc7e34-35e0-416c-b0f5-a29f44683289
     title: Hemi-Sync audio technology
     node_type: topic
     slug: hemi-sync-audio-technology
+    shared_claims: 2
+  - node_id: 70eafc3a-5018-4220-9bb1-6cfcfab8a82b
+    title: Jungian archetypes
+    node_type: topic
+    slug: jungian-archetypes
     shared_claims: 2
 claims:
   - claim_id: d3b4a171-a092-4acc-b95f-7c366c11d930
@@ -10432,15 +10432,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
       premise: window
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:07:50.8-01:07:51.8
@@ -11186,15 +11186,15 @@ claims:
       model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
       premise: quote
     node_refs:
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
         title: Out-of-Body Experience (OBE)
         slug: out-of-body-experience-obe
       - node_id: 91228f6b-79b5-483a-a62b-c98f5eed12ab
         title: Jason Quitt
         slug: jason-quitt
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
     date: null
     date_end: null
     location_in_record: 01:32:57.0-01:33:03.8

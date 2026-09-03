@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9b680801f19a2484e325b6042d98e23f1be9849837b4ab659522d6d8296f25f4
+brief_hash: 95f6c2646a1a52b2abf17a9d53b83de93e43a5471fa7492c9735706bb28717ef
 page:
   kind: entity
   node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
@@ -9,11 +9,21 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 20
   tokens_estimated: 2725
   sized_against: 1050000
+entailment:
+  assessed: 20
+  unassessed: 0
+  entails: 5
+  neutral: 14
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.05
+  entailed_by_window_fraction: 0.2
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 20
 related_nodes:
-  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-    title: Kaikoura UAP Sighting
+  - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+    title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: kaikoura-uap-sighting
+    slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 13
   - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
     title: 1978 Kaikoura lights incident
@@ -80,7 +90,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 6369331b-9e3f-47c6-8341-7b9b51a79669
-    claim_hash: c495381a2389976a6587e2dc7759f1983540679c5c709a71dc34629b12f4cc18
+    claim_hash: ef1c3a841496cf1b70cd30d788fb3b495939a665bf443fe1844500337a2a960d
     content: John Cordy considers the objects tracked on radar during the 1978 Kaikoura UAP sighting to have been solid objects
       giving a genuine radar return, not refractions or atmospheric effects.
     original_excerpt: '''They weren''t refractions or atmospherics. They were solid objects giving a radar return. There is
@@ -96,10 +106,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -112,12 +127,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 8d2149bd-01a7-4ccf-89a0-01eb74b746b4
-    claim_hash: 37b631c43a54fd050ca7db9692aa9a3b971686f632fdff8080e22a0fa02e790c
+    claim_hash: 73486311fc95cb5714d48cd8477a20c3b648f1d2dbbb5196dd3e8aefcdddea4c
     content: The Royal New Zealand Air Force's official line asserted that the Wellington air traffic controllers did not
       know what they were looking at during the 1978 Kaikoura UAP sighting.
     original_excerpt: '''They went with the line that we air traffic controllers didn''t know what we were looking at. That''s
@@ -133,13 +148,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:1237-1372
@@ -149,12 +169,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 80eefa23-c2a4-43bc-8920-df85698b75e4
-    claim_hash: 41e4f8acd1e267ce4591a53faf91709aaa20861d5e8ff9699212d0129fefc69f
+    claim_hash: f9847f745592babf61bb882e33364431c8456a077bb0d3478ab0f20d8faea367
     content: Air force investigators into the 1978 Kaikoura UAP sighting claimed to have interviewed all witnesses, yet never
       interviewed John Cordy.
     original_excerpt: what surprised me most about Cordy's evidence was that air force investigators claimed to have interviewed
@@ -170,13 +190,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -189,12 +214,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e111d2e0-0e68-4b5a-b3f1-a4968ecd43a5
-    claim_hash: 107d6753a71bc7272cb6a5ce5b40c977a20f59aa97aa28702c7c7d787cdf6bf1
+    claim_hash: a12f4686acc712092c6fddebe1f684f98d0b1811af99bf589f1d0428e98e224a
     content: The Royal New Zealand Air Force's official finding on the 1978 Kaikoura UAP sighting asserted that John Cordy
       and other air traffic controllers at Wellington Airport were confused by anomalous faulty radar returns.
     original_excerpt: He remains bitter that the Royal New Zealand Air Force's official finding asserted that he and other
@@ -209,13 +234,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: d3b2268a-9812-4dff-bafb-ea1435ecaa62
         title: Royal New Zealand Air Force report into the 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
         slug: royal-new-zealand-air-force-report-into-the-1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -228,12 +258,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 947a5a36-b129-41db-9a82-714c789fb6ae
-    claim_hash: ac3362b1f5b4daea02e18138aab6a5c741fb2246993023fdcf7d69e339a6e86a
+    claim_hash: 607b7b78b1ffbefe459f79b554b4cdce909543c7dea9cbade5ff9cae27a3bded
     content: John Cordy knew that what the Argosy aircraft's occupants saw during the 1978 Kaikoura UAP sighting was neither
       squid boat lights nor the planet Venus.
     original_excerpt: He knew enough to know that what the Argosy aircraft's occupants saw that night was neither squid boat
@@ -249,16 +279,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: 4e4282df-0f0a-4912-a87b-5ebda6fbb2e7
         title: Cessna aircraft flown by Frederick Valentich
         slug: cessna-aircraft-flown-by-frederick-valentich
       - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
         title: Argosy aircraft
         slug: argosy-aircraft
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -271,12 +306,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 30a5467a-71a0-4590-aa1a-47426e28f1dc
-    claim_hash: 87998639eef4682efd265a08f48714e6f669b0910b40f9c02e09e37acac2f6f5
+    claim_hash: bcf87db87109b8be4184286466f5d40519fc650af4bfa77e7b7a507d1e64bf96
     content: John Cordy does not believe the objects seen during the 1978 Kaikoura UAP sighting were aliens in flying saucers,
       but considers them simply unidentified.
     original_excerpt: '''They were simply unidentified. There''s been lots of explanations but none of them fit the facts,''
@@ -292,10 +327,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -308,12 +348,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 0daee911-f1a4-4471-b58f-e1bedd6aa9fd
-    claim_hash: 7a48b8ffca8c200405cd2e4cd32a4b9f5e9b2aa920c0f06a42f5dcb4f0adf0c0
+    claim_hash: c51e8bcf3bcd645f10c3b4243d41c10a21e696f186a4d6c0e46817533e56e5d5
     content: During the 1978 Kaikoura UAP sighting, John Cordy was in communication with the pilot as he described the objects
       moving around him, and Cordy could see the objects on radar at the same time.
     original_excerpt: '''We saw targets on radar that we could not explain. We were in communication with the pilot as he
@@ -329,10 +369,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -345,12 +390,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 7f1122a5-c082-46a8-8552-b1eae4356956
-    claim_hash: 144265e9709f65b498aa16ad79d962286e9f414bdac10c75e0355f5e8038c0bb
+    claim_hash: da56cb898cdd8d9c4e92435bde0b97c5954ede4157bd4dbe2a3dee7191d8b9ad
     content: During the 1978 Kaikoura UAP sighting, the objects parallel-tracked the aircraft for approximately 64 kilometres.
     original_excerpt: They parallel-tracked the plane for 40 miles.
     claim_type: measurement
@@ -364,10 +409,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -380,12 +430,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 40661950-19c0-45aa-9489-e011e535792b
-    claim_hash: 0b26e5802cd72da933ab22a917c483db6983565f0d93aa0cf0f57b1dbc3ea279
+    claim_hash: ef7e47436546f8427012a8210d0d68927e9129d4eae60a5d8afeb5566dc0a7b8
     content: The objects tracked during the 1978 Kaikoura UAP sighting were at an altitude of approximately 4,300 metres,
       making it implausible that squid boats could have been dropping fishing lines there.
     original_excerpt: I'd love to have seen how squid boats could possibly be dropping their lines from the 14,000-feet altitude
@@ -401,10 +451,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -417,12 +472,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d9209c18-a619-4206-bac8-6e2e67ca6302
-    claim_hash: 9acca8339bbbfaee070f882c85bf97637fec024bff62dadc7f795708a88bb860
+    claim_hash: e9c48c5f5ec8204a660f71aa2bac6dbb395f2d2c618f1f7be31e0db6eb6ead10
     content: John Cordy's considered professional opinion is that there was nothing wrong with the radar on either night the
       objects were seen during the 1978 Kaikoura UAP sighting.
     original_excerpt: '''It is my considered professional opinion that there was nothing wrong with the radar on either night
@@ -438,10 +493,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -454,12 +514,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: cabf1726-ed68-4f9d-aa58-c46e85876388
-    claim_hash: d1d45b3509387f5d9854f7a5b8b65b32ecf1e1eba698b2d1fc1bc0fa664b34cf
+    claim_hash: a56a73899313d355a77745514b92a230bd5a8e763f4733004fb0c7a34a85d978
     content: John Cordy was one of the Wellington airport air traffic controllers on duty the night unidentified objects appeared
       on radar screens during the 1978 Kaikoura UAP sighting in late December 1978.
     original_excerpt: For John was one of the Wellington airport air traffic controllers on duty the night the unidentified
@@ -475,13 +535,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
         slug: wellington-new-zealand
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -494,12 +559,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4ff1e012-f2be-48cc-a963-706b50f2f4b6
-    claim_hash: 91ee809641f750b23db29af6cad54d3ff286178be6f9ba4ca5ec402a6c63a7ab
+    claim_hash: b6737650b907912f6bddd9bf25dea5bb7e9d34e44799ac1fed12a1b358eb9776
     content: Geoff Causer and John Cordy were air traffic controllers at Wellington Airport, New Zealand, control tower who
       witnessed the Kaikoura UFOs tracking a cargo aircraft in 1978-12.
     original_excerpt: 'Two of the air traffic controllers at Wellington Airport, New Zealand, control tower who witnessed
@@ -513,16 +578,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.476
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
         slug: wellington-new-zealand
       - node_id: b0fca9a1-c27c-4c42-8d99-c3104b9843ea
         title: Geoff Causer
         slug: geoff-causer
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -535,12 +605,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e0415779-8a88-408b-a821-903b262eb04f
-    claim_hash: bf957d75b43aec6b9df0bcebdcd3bf0633cca82a24c677d8007f4f7ed7f3baab
+    claim_hash: 89ce5b5ce69fc8eeed878637c793a50fe924092b89929c9b9daac65482ee8c55
     content: John Cordy says there was nothing wrong with the radar system on the night of the 1978 Kaikoura UAP sighting.
     original_excerpt: Despite official assertions, Cordy says there was nothing wrong with the radar system that night
     claim_type: testimony
@@ -554,10 +624,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.566
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -570,12 +645,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d413de7a-82ea-4292-a33b-ba8f9565dd08
-    claim_hash: 539ae4784e422d0276884cb8607d4116805968f2b24cc0303c0d5ba0e93801b2
+    claim_hash: 86e29caeb2bc5fde782f3ed5d78f2dd3a9cdb3e6dad75e675ba4655b3c8a45b7
     content: John Cordy says whatever was tracked during the 1978 Kaikoura UAP sighting was not fishing-boat lights reflecting
       off clouds, because he saw it on his radar.
     original_excerpt: whatever it was, it was not fishing-boat lights reflecting off clouds, because he saw it on his radar.
@@ -590,10 +665,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
         slug: john-cordy
@@ -606,7 +686,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -626,6 +706,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.862
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
@@ -665,6 +750,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
         title: 1978 Kaikoura lights incident
@@ -706,6 +796,11 @@ claims:
         - interview with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 746f41bc-1c2e-4912-9df8-0711676f4dab
         title: 1978 Kaikoura lights incident
@@ -748,6 +843,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
@@ -789,6 +889,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: fc449df6-ae44-400a-afe8-ad2816fa1e9f
         title: John Cordy
@@ -825,6 +930,11 @@ claims:
         - interview with Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.796
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington

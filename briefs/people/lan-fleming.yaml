@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 71a7768da046d313903cdcf62c0506be9b0e96a6059b47a5e1fbe85cbc1892e1
+brief_hash: 48d11b2d2d651ca1f10e5351378cf1b9645902e9ac21ef864b26fca8f9b1a412
 page:
   kind: entity
   node_id: 17139f45-6414-44aa-9ab9-082107aafa73
@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 13
   tokens_estimated: 2299
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 12
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.231
+  entailed_by_window_fraction: 0.692
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -64,10 +74,10 @@ related_nodes:
     node_type: event
     slug: sts-48-video-anomalous-objects-incident-1991-09
     shared_claims: 1
-  - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-    title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
+  - node_id: ca640715-7454-4feb-8900-ef3f7106da63
+    title: Society for Planetary SETI Research
     node_type: organisation
-    slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
+    slug: society-for-planetary-seti-research
     shared_claims: 1
 claims:
   - claim_id: e7986d19-e959-44b7-b803-e096d0d0bf96
@@ -87,6 +97,11 @@ claims:
         - Mark J. Carlotto
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.613
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e11144-52fa-48d1-9e87-a29b9253d02f
         title: STS-48 video anomalous objects incident (1991-09)
@@ -111,7 +126,7 @@ claims:
       content_hash: sha256:4c4bf584f8b4895378307383152cb3150dd5ad2368a0e996a77ec6309926d36a
       friendly_name: null
   - claim_id: dedd7318-08f4-4b0a-ba1b-d484476af915
-    claim_hash: 03868278b98f210895c3b02bc8953a12b5b42cc76855a078bc7dc5e0f2332676
+    claim_hash: 34d51636ce3389ff4c6021dffbbb6af74a7e35ac47acb3ad5b251047232872fb
     content: Lan Fleming, a member of the Society for Planetary SETI Research (SPSR), was also a NASA contractor by day.
     original_excerpt: One researcher, Lan Fleming of SPSR, was also a NASA contractor by day.
     claim_type: administrative
@@ -123,6 +138,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.655
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -130,9 +150,9 @@ claims:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
-      - node_id: 77a66521-4349-49be-a470-921a1a85cb1a
-        title: Society for Planetary Search for Extraterrestrial Intelligence (SETI) Research (Society for Planetary SPSR)
-        slug: society-for-planetary-search-for-extraterrestrial-intelligence-seti-research-society-for-planetary-spsr
+      - node_id: ca640715-7454-4feb-8900-ef3f7106da63
+        title: Society for Planetary SETI Research
+        slug: society-for-planetary-seti-research
     date: null
     date_end: null
     location_in_record: ch13:27314-27381
@@ -164,6 +184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.784
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -204,6 +229,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -241,6 +271,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -282,6 +317,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -324,6 +364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -364,6 +409,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.625
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -406,6 +456,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.675
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -444,6 +499,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.585
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -482,6 +542,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.798
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming
@@ -519,6 +584,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46b784b5-1299-4969-a705-b06c20ce7c5e
         title: USA, Idaho, Middle Butte Mesa
@@ -557,6 +627,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.479
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 17139f45-6414-44aa-9ab9-082107aafa73
         title: Lan Fleming

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 19776e17751e7fa4f859dee73ed75edc434917942141649eb8337a8df1f13b1f
+brief_hash: 69755742b65a9043cc6f542f04b9f15b1b5c465159d0ffc82f971432db69f3a8
 page:
   kind: entity
   node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 948
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 5
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,10 +43,10 @@ related_nodes:
     node_type: organisation
     slug: central-intelligence-agency-cia
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 071659d5-595b-4d88-b123-3308559620fc
+    title: 1964 Socorro Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1964-socorro-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 1
   - node_id: 304a1e2d-14b4-44c6-b406-c8cc4e45d6b3
     title: Charles Hardin
@@ -91,6 +101,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.801
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
@@ -126,6 +141,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.451
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
         title: Hector Quintanilla
@@ -156,6 +176,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.927
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7523839e-7d21-42e0-96a9-6c7a0c334028
         title: Foreign Technology Division, Wright-Patterson Air Force Base
@@ -191,6 +216,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -227,6 +257,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -251,7 +286,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: 69cbc373-965b-47b8-a126-6665e119c803
-    claim_hash: 4377174d9ed5d25187432e55059e0cca4663294162414cb2592898dc8044d940
+    claim_hash: b2d1a4b21f28cf8a6a163389baa92c286e4d934d2fdde5f9920d4a19916029c2
     content: Declassified CIA files reveal that Hector Quintanilla, the Project Blue Book officer in charge of the Zamora
       investigation, was convinced Lonnie Zamora was telling the truth and described the case as 'the best-documented case
       on record'.
@@ -267,7 +302,15 @@ claims:
         - declassified Central Intelligence Agency files
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.926
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 071659d5-595b-4d88-b123-3308559620fc
+        title: 1964 Socorro Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1964-socorro-unidentified-aerial-phenomena-uap-sighting
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
         slug: central-intelligence-agency-cia
@@ -277,9 +320,6 @@ claims:
       - node_id: 7809c08f-f6ff-4c91-8d6e-d6dff08a7639
         title: Lonnie Zamora
         slug: lonnie-zamora
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: bfa2c88e-0510-4436-b895-7c21615b61ae
         title: Hector Quintanilla
         slug: hector-quintanilla
@@ -292,7 +332,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -311,6 +351,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 304a1e2d-14b4-44c6-b406-c8cc4e45d6b3
         title: Charles Hardin
@@ -338,6 +383,6 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

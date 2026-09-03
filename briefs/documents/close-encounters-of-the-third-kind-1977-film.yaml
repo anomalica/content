@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1437
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 10
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 7
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.7
+  entailed_by_window_fraction: 0.3
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -47,11 +57,6 @@ related_nodes:
     title: E.T. the Extra-Terrestrial (1982 film)
     node_type: document
     slug: et-the-extra-terrestrial-1982-film
-    shared_claims: 1
-  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-    title: Grey aliens
-    node_type: topic
-    slug: grey-aliens
     shared_claims: 1
   - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
     title: Jacques Vallée
@@ -97,6 +102,11 @@ related_nodes:
     title: TRW Inc.
     node_type: organisation
     slug: trw-inc
+    shared_claims: 1
+  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+    title: The Greys
+    node_type: topic
+    slug: the-greys
     shared_claims: 1
   - node_id: a17397f1-2702-420a-9578-584220463893
     title: The War of the Worlds
@@ -146,6 +156,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
         title: Bob Barry
@@ -184,6 +199,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1ee54ade-efe8-4112-9dd8-04511c90534f
         title: Bob Barry
@@ -227,6 +247,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -262,6 +287,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.534
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
@@ -281,7 +311,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -300,6 +330,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
@@ -343,6 +378,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
@@ -387,6 +427,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -434,6 +479,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -478,6 +528,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
@@ -516,13 +571,15 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.659
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2149bfba-36b7-42d7-a63e-a7539948da7a
         title: Close Encounters of the Third Kind (1977 film)
         slug: close-encounters-of-the-third-kind-1977-film
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
       - node_id: 5afb275d-8fa1-4158-8e22-a9c65fd70992
         title: Steven Spielberg
         slug: steven-spielberg
@@ -532,6 +589,9 @@ claims:
       - node_id: a17397f1-2702-420a-9578-584220463893
         title: The War of the Worlds
         slug: the-war-of-the-worlds
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: f4841a52-2478-4a33-bdcf-25da0e0d8f7f
         title: E.T. the Extra-Terrestrial (1982 film)
         slug: et-the-extra-terrestrial-1982-film

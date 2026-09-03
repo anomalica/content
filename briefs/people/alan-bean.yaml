@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3c98cecec603f1acc689ac4787c1b082e1fff13d770eb7d9de48876d375ccadc
+brief_hash: 4ba9f390fdd4c1c9a04d7211e2be576041dea5affd0353a1dd41b1153b7722ba
 page:
   kind: entity
   node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
@@ -9,11 +9,21 @@ page:
   claim_count: 24
   claim_count_total: 24
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 24
   tokens_estimated: 3626
   sized_against: 1050000
+entailment:
+  assessed: 24
+  unassessed: 0
+  entails: 24
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 10
+  entailed_by_window: 14
+  entailed_by_quote_fraction: 0.417
+  entailed_by_window_fraction: 0.583
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -48,10 +58,10 @@ related_nodes:
     node_type: person
     slug: richard-c-hoagland
     shared_claims: 3
-  - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-    title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
+  - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+    title: Pinpoint for Science (NASA film)
     node_type: document
-    slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
+    slug: pinpoint-for-science-nasa-film
     shared_claims: 2
   - node_id: 1b3aac69-4e88-4547-b310-19382c120ca2
     title: Surveyor 3
@@ -113,6 +123,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -147,6 +162,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -183,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.807
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -216,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -234,7 +264,7 @@ claims:
       content_hash: sha256:74dc1a19ef09d093ceba4a0ab082bf3729cb19218c0c3481d8b71f814740c9b3
       friendly_name: undated-pdf-apollo-12-air-to-ground-voice-transcription
   - claim_id: dde73d64-34b9-4476-ae0a-1fe01916d09d
-    claim_hash: fbbddb698903dbb52ebafb107e1b03740937f0719124bde1799eb145857dbc97
+    claim_hash: 468d1c536d8efa666bd119f6af262ebbf2a3681e2ea064aea30f5b857fe78d64
     content: The NASA mission film Pinpoint for Science was named after Pete Conrad and Alan Bean's successful pinpoint lunar
       landing during Apollo 12.
     original_excerpt: Ergo the name of that official mission film, after Pete Conrad and Alan Bean's incredibly successful
@@ -248,6 +278,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -255,12 +290,12 @@ claims:
       - node_id: 217e3d89-db7f-4bab-ac38-8b084ce3a176
         title: Pete Conrad
         slug: pete-conrad
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
     date: null
     date_end: null
     location_in_record: ch11:101792-101910
@@ -275,7 +310,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 8579d04c-6e62-431a-8f10-30494ae2eb70
-    claim_hash: bc066423aa3cc500ff919366b9e6d7881d121fb2f6078b8aff4ef0514af82efc
+    claim_hash: d8164ab844c0fafcc2b2ce16e0692d3608d61a6598b7f4f77a294b171fb4c9ae
     content: Richard C. Hoagland focused on original Oxberry Animation Stand animations that NASA's contract producers had
       incorporated into Pinpoint for Science, consisting of pans and zooms of stills from the original Apollo 12 Hasselblad
       shots taken on the Moon by Pete Conrad and Alan Bean.
@@ -293,6 +328,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.59
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -300,15 +340,15 @@ claims:
       - node_id: 217e3d89-db7f-4bab-ac38-8b084ce3a176
         title: Pete Conrad
         slug: pete-conrad
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
       - node_id: 899a5e63-d997-4685-b67f-09dac73fbb20
         title: Oxberry Animation Stand
         slug: oxberry-animation-stand
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
       - node_id: e1650a1d-8feb-4841-a403-0d71e176d2d9
         title: Richard C. Hoagland
         slug: richard-c-hoagland
@@ -338,6 +378,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.489
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -368,6 +413,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.896
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -403,6 +453,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -438,6 +493,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -473,6 +533,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -512,6 +577,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.947
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -545,6 +615,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.881
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -577,6 +652,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -612,6 +692,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.488
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -647,6 +732,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -684,6 +774,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -722,6 +817,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.953
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -763,6 +863,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -807,6 +912,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d3b4b82-d581-4d32-8082-b7ef62ce183c
         title: Gold visors (Apollo helmet visors)
@@ -847,6 +957,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.813
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -884,6 +999,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.586
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -922,6 +1042,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.916
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean
@@ -962,6 +1087,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.534
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 15f79cad-e99c-4db2-91e2-933b5588f120
         title: Alan Bean

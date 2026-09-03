@@ -9,11 +9,21 @@ page:
   claim_count: 34
   claim_count_total: 34
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 34
   tokens_estimated: 4446
   sized_against: 1050000
+entailment:
+  assessed: 34
+  unassessed: 0
+  entails: 20
+  neutral: 4
+  contradicts: 10
+  entailed_by_quote: 2
+  entailed_by_window: 18
+  entailed_by_quote_fraction: 0.059
+  entailed_by_window_fraction: 0.529
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -137,6 +147,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
         title: Nuremberg celestial phenomenon engraving of 1566
@@ -183,6 +198,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.866
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
         title: Nuremberg celestial phenomenon engraving of 1566
@@ -228,6 +248,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 95e29275-4734-4feb-ba93-0ce455eae6bb
         title: Nuremberg celestial phenomenon engraving of 1566
@@ -266,6 +291,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -299,6 +329,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -334,6 +369,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6d410c29-dd8f-4aa3-9311-f201ce0dd4ff
         title: Felix Siegel
@@ -372,6 +412,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -409,6 +454,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -446,6 +496,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.706
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -483,6 +538,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -518,6 +578,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.637
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -552,6 +617,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -587,6 +657,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.771
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e5ca493a-95a6-4499-b297-c11055fdd303
         title: Mart Sander
@@ -628,6 +703,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.699
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -661,6 +741,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cdebfe58-4f56-4aed-81a8-3825728c5229
         title: 1561 Nuremberg celestial phenomenon
@@ -698,6 +783,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71f72964-f3a2-4d23-aac2-2e621e83c11e
         title: Estonia, Gulf of Finland
@@ -736,6 +826,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.525
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -776,6 +871,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -813,6 +913,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7f43bc58-3f7e-4dbc-b6bd-839c173ba37f
         title: Estonian Academy of Sciences
@@ -850,6 +955,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.389
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -890,6 +1000,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -929,6 +1044,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -966,6 +1086,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 346df5bf-dea2-4581-b79f-65d10641f682
         title: Telepathic contact with non-human objects
@@ -1005,6 +1130,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8325a820-54e8-41f1-8ee8-7e359ce0562e
         title: Linus Kordes
@@ -1046,6 +1176,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1083,6 +1218,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -1119,6 +1259,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
         title: 1985 reburial of the Merivalja shaft
@@ -1154,6 +1299,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.805
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -1194,6 +1344,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1226,6 +1381,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e62816e8-9be6-489d-8909-9a89ca8816f5
         title: Estonia, Saaremaa
@@ -1263,6 +1423,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.58
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1298,6 +1463,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.571
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1336,6 +1506,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev
@@ -1375,6 +1550,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: f3fd5012-43f9-4615-bf52-34f4a2e9f7ff
         title: Alexander Deyev

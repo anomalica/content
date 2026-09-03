@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 789d81c0cd56b157c2d4010ca6f18de8ae8a3e772424865163d8a051856254a4
+brief_hash: 621a86f0def8e470938bcc2545438dbec6d7dfdcc84bb03f15804fa0f8426c83
 page:
   kind: entity
   node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
@@ -9,11 +9,21 @@ page:
   claim_count: 49
   claim_count_total: 49
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 49
   tokens_estimated: 6915
   sized_against: 1050000
+entailment:
+  assessed: 49
+  unassessed: 0
+  entails: 38
+  neutral: 7
+  contradicts: 4
+  entailed_by_quote: 14
+  entailed_by_window: 24
+  entailed_by_quote_fraction: 0.286
+  entailed_by_window_fraction: 0.49
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -68,9 +78,9 @@ related_nodes:
     node_type: person
     slug: brandon-routh
     shared_claims: 1
-  - node_id: a8b35232-98c3-4db9-b1b2-b0d2b024bd56
+  - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
     title: Galileo Project
-    node_type: project
+    node_type: organisation
     slug: galileo-project
     shared_claims: 1
   - node_id: 71aaf24b-dbf2-492b-8fc0-97cdc20c3b67
@@ -152,6 +162,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -189,6 +204,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
         title: United States Congress
@@ -226,6 +246,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -264,6 +289,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -301,6 +331,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -340,6 +375,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 08cbc988-0d5b-45a3-88b3-938f81e08c4a
         title: Vela nuclear-detection satellite program
@@ -373,6 +413,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08cbc988-0d5b-45a3-88b3-938f81e08c4a
         title: Vela nuclear-detection satellite program
@@ -409,6 +454,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08cbc988-0d5b-45a3-88b3-938f81e08c4a
         title: Vela nuclear-detection satellite program
@@ -444,6 +494,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs: []
     date: null
     date_end: null
@@ -477,6 +532,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -514,6 +574,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -552,6 +617,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.529
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4608d6f8-17e4-4eea-81c5-f59dcf727853
         title: Jon Kosloski
@@ -589,6 +659,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: aea07e2a-f31c-4efb-9747-5328fcdfc5b8
         title: All-Domain Anomaly Resolution Office (AARO) third tranche historical record report (2026-06-12)
@@ -632,6 +707,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 378be804-4ade-409d-89e4-2354e375377d
         title: Pete Hegseth
@@ -677,6 +757,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4608d6f8-17e4-4eea-81c5-f59dcf727853
         title: Jon Kosloski
@@ -723,6 +808,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.725
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d191410c-c196-4b82-80e8-178935220d44
         title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
@@ -761,6 +851,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 997facc0-2c81-4d74-9fc5-d819de1c1d47
         title: The White House
@@ -802,6 +897,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -839,6 +939,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.976
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -873,6 +978,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.748
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -905,6 +1015,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.882
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -942,6 +1057,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.823
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -979,6 +1099,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1015,6 +1140,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
         title: Galileo Galilei
@@ -1048,6 +1178,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.856
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 36f10e24-12f5-47e3-a57e-17f7a9497589
         title: Galileo Galilei's Inquisition trial
@@ -1088,6 +1223,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
         title: Vatican City
@@ -1125,6 +1265,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e9f049a-481a-4f16-8704-5250716a07f3
         title: Galileo Galilei
@@ -1162,6 +1307,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4290466e-f30e-426f-8357-e31c0e252b5a
         title: Vatican City
@@ -1202,6 +1352,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.949
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1239,6 +1394,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
         title: String theory
@@ -1277,6 +1437,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
         title: String theory
@@ -1313,6 +1478,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 221cb090-6c03-4bc2-8b68-79fe700bbc2a
         title: String theory
@@ -1346,6 +1516,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1381,6 +1556,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.945
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1423,6 +1603,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.928
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1611b011-9fcf-4376-8a69-f7b26b22b0ee
         title: Brandon Routh
@@ -1460,6 +1645,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1492,6 +1682,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.668
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1f31a334-a2bc-4eae-88b3-5795d81ac97a
         title: Immaculate Constellation
@@ -1528,6 +1723,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: d191410c-c196-4b82-80e8-178935220d44
         title: Avi Loeb's All-Domain Anomaly Resolution Office (AARO) science advisory council
@@ -1562,6 +1762,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.88
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1596,6 +1801,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1628,6 +1838,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1662,6 +1877,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1696,6 +1916,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1728,6 +1953,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.901
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1761,6 +1991,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1796,6 +2031,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.608
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 379a5b1d-c65a-4d59-bdea-1a72ba2ee783
         title: USA, Massachusetts, Lexington
@@ -1840,6 +2080,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.754
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1861,7 +2106,7 @@ claims:
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
       friendly_name: null
   - claim_id: b56b72ba-bdde-4cde-aad2-0134f997f3f9
-    claim_hash: e50b071a132d2ec3116ab887ba8dc86e451e359b2a28cd4705206290bc5e2836
+    claim_hash: 1e1b7b14ddf68d4076a890d3239d26563d6d02195a98433d97f230ae4556f5b8
     content: Avi Loeb of the Galileo Project speculated that the blue lights seen in imagery from the Apollo 12 and Apollo
       17 missions were camera artifacts, possibly caused by diffraction of dust inside the camera lens.
     original_excerpt: Professor Avi Loeb from the Galileo Project suggested, he speculated that the blue lights that were
@@ -1878,6 +2123,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb
@@ -1885,7 +2135,7 @@ claims:
       - node_id: 663c59e3-0b99-4577-b723-d5d1337aa119
         title: Apollo 12
         slug: apollo-12
-      - node_id: a8b35232-98c3-4db9-b1b2-b0d2b024bd56
+      - node_id: 85f8bd31-f61c-42f2-aa26-97fa022d841c
         title: Galileo Project
         slug: galileo-project
       - node_id: c76ec8f2-cf2e-4693-b24c-b3ce9c5879d0
@@ -1905,7 +2155,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 29e00399-a0f0-4e88-96d1-22282326db23
-    claim_hash: 3c304881f85bef5acb4694ea843762bc456e2070f8b8f63ce31901f79d9c0d9c
+    claim_hash: 80d03781201848be867794a17f64fd9c9ad8b92b1d5c3dc19cef58215241a556
     content: Maaneli "Max" Derakhshani considers Avi Loeb's prosaic explanation of the Apollo 17 blue-lights anomaly to be
       very contrived.
     original_excerpt: I think that that is a very contrived prosaic explanation of the UAP anomaly in the Apollo 17 image.
@@ -1920,6 +2170,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.797
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5f29d662-0d3b-4af3-ab7d-16cbb0a33d30
         title: Avi Loeb

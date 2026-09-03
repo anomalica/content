@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 192e5c1be30b6920deb337a2d4c26896ca8c8f87502cb523eb74a646f6d240ea
+brief_hash: fc6dedac7acd719e9dd9e0af1456c490d9471c9df694c3fc569da6c97a7325bc
 page:
   kind: entity
   node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
@@ -9,11 +9,21 @@ page:
   claim_count: 35
   claim_count_total: 35
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 35
   tokens_estimated: 5943
   sized_against: 1050000
+entailment:
+  assessed: 35
+  unassessed: 0
+  entails: 34
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 16
+  entailed_by_window: 18
+  entailed_by_quote_fraction: 0.457
+  entailed_by_window_fraction: 0.514
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -158,10 +168,10 @@ related_nodes:
     node_type: organisation
     slug: national-space-science-data-center-nssdc
     shared_claims: 1
-  - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-    title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
+  - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+    title: Pinpoint for Science (NASA film)
     node_type: document
-    slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
+    slug: pinpoint-for-science-nasa-film
     shared_claims: 1
   - node_id: 84569307-cc03-42d7-b004-fb9c2a204c6e
     title: The Tower/Cube (lunar object)
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.672
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -228,6 +243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -266,6 +286,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.693
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 03ab2996-fb98-41cf-ad3c-70718f85afe3
         title: Ukert
@@ -308,6 +333,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -335,7 +365,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: c6a20d53-7c25-4dc1-ac53-de698bce920e
-    claim_hash: 2280c441ebd19e884ff31db932ae65d9641de049cc4d80778f3eafac5e6694f7
+    claim_hash: e0d0be70c1a52ba1056860c4c788f9d1feb4c0b93c0d129fff303e829d98c4cc
     content: A screen capture from the Apollo 12 film 'Pinpoint for Science' and a section of Apollo 14 photograph AS14-66-9301
       show the same inclined buttresses from two landing sites separated by approximately 196 kilometres.
     original_excerpt: Fig. 4-35 - Screen cap from Apollo 12 film “Pinpoint for Science” (L) and from AS14-66-9301 (R) showing
@@ -349,16 +379,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.761
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 2c7efbfa-c6b8-4e45-9cd9-5bf4746fac62
+        title: Pinpoint for Science (NASA film)
+        slug: pinpoint-for-science-nasa-film
       - node_id: 5994d3a9-ed93-4a00-8267-33e05e34aafb
         title: AS14-66-9301 "Mitchell Under Glass" (Apollo 14 photograph)
         slug: as14-66-9301-mitchell-under-glass-apollo-14-photograph
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
         slug: project-apollo
-      - node_id: b192289d-63d3-4852-bb71-8e52e5471322
-        title: Pinpoint for Science (National Aeronautics and Space Administration (NASA) film)
-        slug: pinpoint-for-science-national-aeronautics-and-space-administration-nasa-film
     date: null
     date_end: null
     location_in_record: ch11:166017-166207
@@ -389,6 +424,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.472
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 03ab2996-fb98-41cf-ad3c-70718f85afe3
         title: Ukert
@@ -434,6 +474,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.943
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6d58c7e1-1f70-41e1-9a75-aba9310651d5
         title: Lunar Orbiter 2
@@ -478,6 +523,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -519,6 +569,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.605
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -558,6 +613,11 @@ claims:
         - Richard C. Hoagland
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.44
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -596,6 +656,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
         title: Gene Cernan
@@ -641,6 +706,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.726
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 16d9a460-6b83-4620-a885-0c2d4996a474
         title: Cernan silent protest at 2004 National Aeronautics and Space Administration (NASA) announcement
@@ -680,6 +750,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 78fa60ab-5317-4b20-8b60-b63e4c02db8a
         title: Steve Troy
@@ -721,6 +796,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 78fa60ab-5317-4b20-8b60-b63e4c02db8a
         title: Steve Troy
@@ -764,6 +844,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -799,6 +884,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -836,6 +926,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
         title: Gene Cernan
@@ -880,6 +975,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.666
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -920,6 +1020,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.538
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -962,6 +1067,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.537
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
         title: South Massif (Taurus-Littrow)
@@ -999,6 +1109,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.533
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1031,6 +1146,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.739
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 439db8f0-59d3-4b3f-aeda-94b96ad1a8b6
         title: Apollo 18
@@ -1074,6 +1194,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.444
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
         title: Gene Cernan
@@ -1115,6 +1240,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1158,6 +1288,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3dbb3456-f49b-413f-9496-c4b0acd10ef0
         title: South Massif (Taurus-Littrow)
@@ -1197,6 +1332,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.921
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4facfe0c-8adb-4b1c-942d-2a3d368ec4d8
         title: Gene Cernan
@@ -1234,6 +1374,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.573
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1268,6 +1413,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.527
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1307,6 +1457,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -1349,6 +1504,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1383,6 +1543,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1416,6 +1581,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1448,6 +1618,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -1469,7 +1644,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: e741b1cb-7e7c-4ae5-a0e5-9c06478052ef
@@ -1485,6 +1660,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 43ed4721-95fb-4272-9bcd-310521f045f1
         title: Project Mercury
@@ -1509,7 +1689,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: c7d6f550-7d84-444f-b4e0-6a85e51ffac8
@@ -1525,6 +1705,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7c2808dc-3286-4636-bb89-686b84bbb47a
         title: Project Apollo
@@ -1540,6 +1725,6 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

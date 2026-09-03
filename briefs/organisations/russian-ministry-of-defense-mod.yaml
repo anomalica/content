@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 792
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -69,6 +79,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
         title: Russian Ministry of Defense (MOD)
@@ -108,6 +123,11 @@ claims:
         - George Knapp
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.848
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4934a3a7-1af0-47c3-8d96-33153b3f853c
         title: Russian Air Defense Forces
@@ -149,6 +169,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
         title: George Knapp
@@ -189,6 +214,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 864a25f2-ce04-471d-93e4-7f8f2b486ead
         title: Russian Ministry of Defense (MOD)

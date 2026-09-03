@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 88bcf1f49187e09ce75996cc037503e29c9255611eedf31d7bb132c089b0cd5e
+brief_hash: 28097980f4930feab87289672f685bf2e13b054965ffb48f8167981e7dbba4a5
 page:
   kind: entity
   node_id: b313ff4d-577c-4225-876a-aa8890efb16d
   node_type: event
   title: 1980 Texas diamond-shaped UAP encounter
   slug: 1980-texas-diamond-shaped-uap-encounter
-  claim_count: 8
-  claim_count_total: 8
+  claim_count: 5
+  claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 8
-  tokens_estimated: 1063
+  claims: 5
+  tokens_estimated: 599
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 0
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,133 +31,16 @@ publication:
 belonging:
   verified: 8
   suspect_excluded: 0
-  unreviewed: 0
+  unreviewed: -3
 related_nodes:
-  - node_id: b329877d-51db-4154-85f3-ff2c90f71e4c
-    title: USA, Texas, Dayton
-    node_type: place
-    slug: texas-dayton-usa
-    shared_claims: 2
   - node_id: 938d6410-f60d-42da-9ea9-6c3a6cd65a43
     title: USA, Texas
     node_type: place
     slug: texas-usa
     shared_claims: 1
-  - node_id: ceb6f042-116a-4000-852a-6509fbbe2ca8
-    title: USA, Texas, Sheppard Air Force Base
-    node_type: place
-    slug: texas-sheppard-air-force-base-usa
-    shared_claims: 1
 claims:
-  - claim_id: 982a91bf-07e2-47a3-b6b4-cd2a3d3f04cf
-    claim_hash: 34da7e5d5848283ca7beab3700efdb4115a3a6ad1de102d83be29c1dc9b08e8e
-    content: In December 1980, a person in Dayton, Texas developed cancer following a UFO encounter and sued the United States
-      government, but the case was rejected, including on appeal to a higher court.
-    original_excerpt: one case we know of down there, Dayton, Texas, December of 1980, a person had developed cancer. And
-      they were so upset that they sued the United States government. And then when they were rejected, they appealed to a
-      higher court, and they were still rejected.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: d92b06f4-08e6-4138-8c83-7959f54a61bc
-      title: Raymond E. Fowler
-    provenance_chain:
-      origin_kind: speaker
-      origin: Raymond Fowler
-      relay: []
-    attribution_mode: bare_ok
-    attachment: verified
-    node_refs:
-      - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
-        title: 1980 Texas diamond-shaped UAP encounter
-        slug: 1980-texas-diamond-shaped-uap-encounter
-      - node_id: b329877d-51db-4154-85f3-ff2c90f71e4c
-        title: USA, Texas, Dayton
-        slug: texas-dayton-usa
-    date: 1980-12
-    date_end: null
-    location_in_record: 00:31:14.8-00:31:30.7
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 4c975267-b18f-447b-aea0-321d5f3aaf25
-      record_title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full Interview, 1987)
-      record_date: null
-      record_reference: https://www.youtube.com/watch?v=eIx6NytOGTs
-      content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
-      friendly_name: null
-  - claim_id: 7164d57c-30e5-4da3-a902-b43f6b46b67f
-    claim_hash: 781bd7fec3f3a71372896e88eb64e358a6cc3c1d73ec12930f161932dca53a6a
-    content: On the evening of 29 December 1980, a UAP encounter took place near Dayton, Texas.
-    original_excerpt: At the same time as the unfolding Rendlesham drama, on the evening of 29 December 1980, a UAP encounter
-      took place near Dayton, Texas.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: verified
-    node_refs:
-      - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
-        title: 1980 Texas diamond-shaped UAP encounter
-        slug: 1980-texas-diamond-shaped-uap-encounter
-      - node_id: b329877d-51db-4154-85f3-ff2c90f71e4c
-        title: USA, Texas, Dayton
-        slug: texas-dayton-usa
-    date: '1980-12-29'
-    date_end: null
-    location_in_record: ch12:11146-11274
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 78940122-0e5c-42b5-a64e-76db1b45b42a
-    claim_hash: bee20a7812a11d7b9bd01a51154ee7f839b8d6480f9796500f6c5b67b2d24f9c
-    content: In July 1953, Perrin Air Force Base in North Texas reported seeing seven UAPs in a Z-shaped formation, each with
-      one bright red light, hovering at estimated altitudes of approximately 1500 to 2400 metres.
-    original_excerpt: In July 1953, Perrin Air Force Base in North Texas reported seeing seven UAPs in a Z-shaped formation,
-      'with one bright red light, on each object hovering at estimated altitudes from five to eight thousand feet.'
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: personnel at Perrin Air Force Base
-      relay: []
-    attribution_mode: bare_ok
-    attachment: verified
-    node_refs:
-      - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
-        title: 1980 Texas diamond-shaped UAP encounter
-        slug: 1980-texas-diamond-shaped-uap-encounter
-      - node_id: ceb6f042-116a-4000-852a-6509fbbe2ca8
-        title: USA, Texas, Sheppard Air Force Base
-        slug: texas-sheppard-air-force-base-usa
-    date: 1953-07
-    date_end: null
-    location_in_record: ch8:19194-19400
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 79cdcd5d-830c-43be-888b-02f1bac263e7
-    claim_hash: 487f493395c15fb8cbb9cc91363714d4025c068380858ef35a94d2c72236222d
+    claim_hash: cf107a3b228e48f5f91bc49a7280bb7f4eb98228e371e06ea2ffee57a596a1f4
     content: In December 1980, two women and a boy driving on a Texas road saw a diamond-shaped Unidentified Aerial Phenomenon
       (UAP) descend and hover over a nearby tree.
     original_excerpt: Two women and a boy driving on a lonely Texas road saw what resembled a diamond-shaped UAP descend and
@@ -161,6 +54,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: verified
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 938d6410-f60d-42da-9ea9-6c3a6cd65a43
         title: USA, Texas
@@ -177,12 +75,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: d348d06b-54fd-4a0f-ab5b-44e9d56f33bd
-    claim_hash: 6e0753a3438a2eea2fcc942de5bc60a42a16723e7366b5d4be81c8a585bc7c70
+    claim_hash: 982d64e999635bf8ba456ea22662dbb2de95bcc04a09adc1121a77b97d0d7ad2
     content: During the December 1980 Texas diamond-shaped UAP encounter, the women sensed a massive amount of heat emanating
       from the object.
     original_excerpt: They sensed a massive amount of heat emanating from the object.
@@ -195,6 +93,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: verified
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
         title: 1980 Texas diamond-shaped UAP encounter
@@ -208,12 +111,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: fe884ed0-4846-470c-a074-115333ad7d0d
-    claim_hash: efe0e4553c0c5f86a8040582392e27b4a3ee8d578e265e2c75484c8675d07ac8
+    claim_hash: 331c76d60697109be710ae8afec431887ccee06023d0dd35930f2accd6c680bd
     content: After the December 1980 Texas diamond-shaped UAP encounter, the two women developed symptoms including headaches,
       severe skin burns, nausea, diarrhoea, eye damage, lesions, exhaustion, hair loss, and shedding fingernails.
     original_excerpt: their symptoms moved swiftly from headaches to severe skin burns, nausea, diarrhea, eye damage, lesions,
@@ -227,6 +130,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: verified
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
         title: 1980 Texas diamond-shaped UAP encounter
@@ -240,12 +148,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: ec4d535a-bb47-48ad-9a0e-1584fa2c8859
-    claim_hash: fc5dd9e499014a27332145a3e1225703dea8c7a5432f563f294df7f05e1534c2
+    claim_hash: 5c3a476bae1a5a38a413d70dd0e4ac2fa2c9b7ff72cf4fa04abab27e8a842a8a
     content: After the December 1980 Texas diamond-shaped UAP encounter, the boy who remained in the car developed eye problems
       requiring glasses for schoolwork.
     original_excerpt: The boy, who remained in the car, also had eye problems and suddenly needed to wear glasses for his
@@ -259,6 +167,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: verified
+    entailment:
+      label: contradicts
+      score: 0.425
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
         title: 1980 Texas diamond-shaped UAP encounter
@@ -272,12 +185,12 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 4bc207a5-5a08-4cfb-a571-f65c9243ddb4
-    claim_hash: 6d1d7f24e22b2b913c2ab06303a6a2377c25c16de9080aa2af4a46a006cef90b
+    claim_hash: f6cebd5de5e2c1615a10f9e1dae6beff220c80e7392e0ec0df48d11c8f875f25
     content: After the December 1980 Texas diamond-shaped UAP encounter, one of the women later developed severe cataracts
       and the other developed breast cancer.
     original_excerpt: One woman later developed severe cataracts, the other breast cancer.
@@ -290,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: verified
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b313ff4d-577c-4225-876a-aa8890efb16d
         title: 1980 Texas diamond-shaped UAP encounter
@@ -303,7 +221,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

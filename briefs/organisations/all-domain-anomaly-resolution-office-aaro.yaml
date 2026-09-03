@@ -1,29 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 299c21e6b0ca4d8d6ba91deb5ba51ddccda0acaf95e3c92da4b3598980c5f300
+brief_hash: 4d60bfda8d4b763d1e11c0f299aa68e5cb31e0cabd66c70a524301912644899e
 page:
   kind: entity
   node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
   node_type: organisation
   title: All-domain Anomaly Resolution Office (AARO)
   slug: all-domain-anomaly-resolution-office-aaro
-  claim_count: 186
-  claim_count_total: 186
+  claim_count: 187
+  claim_count_total: 187
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 186
-  tokens_estimated: 32776
+  claims: 187
+  tokens_estimated: 32902
   sized_against: 1050000
 entailment:
-  assessed: 186
+  assessed: 187
   unassessed: 0
-  entails: 172
+  entails: 173
   neutral: 8
   contradicts: 6
   entailed_by_quote: 35
-  entailed_by_window: 137
-  entailed_by_quote_fraction: 0.188
-  entailed_by_window_fraction: 0.737
+  entailed_by_window: 138
+  entailed_by_quote_fraction: 0.187
+  entailed_by_window_fraction: 0.738
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -31,13 +31,13 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 186
+  unreviewed: 187
 related_nodes:
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
     slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 54
+    shared_claims: 55
   - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
     title: United States Department of Defense (DoD)
     node_type: organisation
@@ -168,6 +168,11 @@ related_nodes:
     node_type: organisation
     slug: national-security-agency-nsa
     shared_claims: 2
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 2
   - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
     title: Robert Bigelow
     node_type: person
@@ -177,11 +182,6 @@ related_nodes:
     title: Sean Kirkpatrick
     node_type: person
     slug: sean-kirkpatrick
-    shared_claims: 2
-  - node_id: f6627920-babb-4b85-83c0-f1a37b92d10f
-    title: Special Access Programs
-    node_type: matter
-    slug: special-access-programs
     shared_claims: 2
 claims:
   - claim_id: 7c5ea02f-2555-453e-a570-a6d6e9accd08
@@ -7430,6 +7430,55 @@ claims:
       record_date: '2026-06-30'
       record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 1358d589-f0dc-4205-8d58-9797e01b7e53
+    claim_hash: 3bff15aa5bceddb207c4c504a20aa4b055e7db2401ffd3ced236b896b9901233
+    content: The All-Domain Anomaly Resolution Office (AARO) and the Office of the Director of National Intelligence (ODNI)
+      know that unidentified aerial phenomena are a real phenomenon.
+    original_excerpt: it suggests not only that AARO—the All-domain Anomaly Resolution Office—and ODNI know this is a real
+      phenomenon
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:2034-2135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
       friendly_name: null
   - claim_id: 9375fbdd-bd28-4269-8289-ec9885414910
     claim_hash: 70863add088c6aa2afd9d3e66cab455b733a146e764063a011cfa8e6d9b51dc3

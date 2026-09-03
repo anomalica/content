@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: cc0f5474603b37bbef3c035ac97392e7d5b1ba1bbe018d47154d8af992ea2168
+brief_hash: 524bb159ecc6095e359446b011733df7480d593ee2f6c836423540dcd82bc026
 page:
   kind: entity
   node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 743
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 4
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.6
+  entailed_by_window_fraction: 0.2
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,13 +38,13 @@ related_nodes:
     node_type: person
     slug: robert-monroe
     shared_claims: 3
-  - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
+  - node_id: 8fb276de-0132-423b-a194-863021a9d1d0
     title: Mrs. M.
     node_type: person
     slug: mrs-m
     shared_claims: 2
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 2
@@ -81,6 +91,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
@@ -105,7 +120,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: 6626fa9c-31ca-45e7-a5a7-47ec304e6081
-    claim_hash: e3fcd3ba6936da504b34332ac91bc376f4397033ca75b3d704a857a63c27d41a
+    claim_hash: 8167457020d2e29674a9945d6b109411c96b0b2b575899c9da557f53e9aae560
     content: On the night of 1960-10-12, Robert Monroe reported an out-of-body experience in which he first consulted Mrs.
       M., a woman he believed had mediumistic powers, regarding séances.
     original_excerpt: 10/12/60 Night / The results are so contradictory to what I believed that it must be reported in detail.
@@ -122,16 +137,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
         slug: robert-monroe
+      - node_id: 8fb276de-0132-423b-a194-863021a9d1d0
+        title: Mrs. M.
+        slug: mrs-m
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
         title: Mediumship
         slug: mediumship
-      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-        title: Mrs. M.
-        slug: mrs-m
     date: '1960-10-12'
     date_end: null
     location_in_record: ch11:10822-11046
@@ -146,7 +166,7 @@ claims:
       content_hash: sha256:b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029dc180b44
       friendly_name: 2014-11-11-ebook-journeys-out-of-the-body
   - claim_id: fb4fa28a-b19c-4792-a85f-ffc8959e88b9
-    claim_hash: 9b6d673ed92f8abd7ca71927aa9146a5ba508825902154d777b4daae0d7769b9
+    claim_hash: c393f62bc21b5745fadc9aa5f17be16efa1d55e4057576c4810f981731717598
     content: Robert Monroe considered that the "guides" who spoke through Mrs. M. during her trance sittings were manifestations
       of a self-induced hypnotic or split-personality state rather than genuine spirit communication.
     original_excerpt: I came away with the definite impression that Mrs. M., although deeply sincere, was acting out some
@@ -163,16 +183,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 39bc257e-6dcc-4c45-b021-a456625771cb
         title: Robert Monroe
         slug: robert-monroe
+      - node_id: 8fb276de-0132-423b-a194-863021a9d1d0
+        title: Mrs. M.
+        slug: mrs-m
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
         title: Mediumship
         slug: mediumship
-      - node_id: aec90c64-d425-450c-a97c-10bbc3a0d5cb
-        title: Mrs. M.
-        slug: mrs-m
     date: null
     date_end: null
     location_in_record: ch11:11201-11486
@@ -203,6 +228,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -214,7 +244,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
         title: Clairvoyance
@@ -250,12 +280,17 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
         slug: robert-bigelow
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: a69cb66f-4b85-4b59-a1ca-067d21a5640a
         title: Mediumship

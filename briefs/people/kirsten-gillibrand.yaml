@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 32a766464f712738b55e1e79a676b333e805dd517efd5e7831dadfe77e236bda
+brief_hash: 743a13ecfd88b451050958ec674a9531adb20842d16bb1dc9bf745ba96b605cb
 page:
   kind: entity
   node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 1101
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 7
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.571
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -104,48 +114,11 @@ related_nodes:
     slug: senate-armed-services-committee
     shared_claims: 1
   - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    title: Unidentified Anomalous Phenomena Disclosure Act of 2023
     node_type: document
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
+    slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     shared_claims: 1
 claims:
-  - claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
-    claim_hash: 66336262495a7d058b2383f56da4324ca2e4c5dbbcc94ee0b56bcf8e33b6a172
-    content: Marco Rubio made a bipartisan effort with Democratic Senator Kristen Gillibrand to create an office to establish
-      a coordinated effort to report and respond to unidentified objects.
-    original_excerpt: and he pointed to his bipartisan eff ort with Democratic Senator Kristen Gillibrand, creating an offi
-      ce to establish a coordinated eff ort to report and respond to unidentifi ed objects.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-      title: Marco Rubio
-    provenance_chain:
-      origin_kind: speaker
-      origin: Marco Rubio
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
-        title: Kirsten Gillibrand
-        slug: kirsten-gillibrand
-      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
-        title: Marco Rubio
-        slug: marco-rubio
-    date: null
-    date_end: null
-    location_in_record: ch29:31373-31552
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: eb5c953e-3be8-4fdc-b75e-6b8e65f8ee6b
     claim_hash: 099e571d4e11d8c2df03c2cfdbde456de497db7439332eb48c3f03342a6d6f5e
     content: The National Defense Authorization Act for Fiscal Year 2023 was spearheaded by Senators Kirsten Gillibrand and
@@ -161,6 +134,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21f9d7aa-0cd8-4a9e-8153-a4bcc85c77ad
         title: Joe Biden
@@ -187,6 +165,48 @@ claims:
       record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 4edfb886-4ae6-43e2-b9ab-4aa2363d4834
+    claim_hash: 66336262495a7d058b2383f56da4324ca2e4c5dbbcc94ee0b56bcf8e33b6a172
+    content: Marco Rubio made a bipartisan effort with Democratic Senator Kristen Gillibrand to create an office to establish
+      a coordinated effort to report and respond to unidentified objects.
+    original_excerpt: and he pointed to his bipartisan eff ort with Democratic Senator Kristen Gillibrand, creating an offi
+      ce to establish a coordinated eff ort to report and respond to unidentifi ed objects.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+      title: Marco Rubio
+    provenance_chain:
+      origin_kind: speaker
+      origin: Marco Rubio
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 8e578903-f8a2-44e4-ae42-3ede681682e8
+        title: Kirsten Gillibrand
+        slug: kirsten-gillibrand
+      - node_id: 981b261d-7fb4-408c-a643-0bd820a4c4ca
+        title: Marco Rubio
+        slug: marco-rubio
+    date: null
+    date_end: null
+    location_in_record: ch29:31373-31552
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: adea157c-4485-459e-9776-d1a66737c42e
     claim_hash: a9151f193da628e874be9b375c2ac9e4692133f97f1c30fb1781fa401a83c3a6
     content: Republican senators Roy Blunt, Lindsey Graham, and Marco Rubio, and Democratic senators Kirsten Gillibrand and
@@ -207,6 +227,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.742
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 26734bde-b2a6-4ef5-b186-6d1bb2fb72f5
         title: Ruben Gallego
@@ -244,7 +269,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -265,6 +290,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.941
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
         title: Chuck Schumer
@@ -279,8 +309,8 @@ claims:
         title: Marco Rubio
         slug: marco-rubio
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: 2023-07
     date_end: null
     location_in_record: ch32:3989-4205
@@ -290,7 +320,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -312,6 +342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.954
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -328,7 +363,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -349,6 +384,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -365,7 +405,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -386,6 +426,11 @@ claims:
         - Robert Bigelow reading aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.593
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 02b74577-f272-4ae7-8520-5fda4eacb5f2
         title: Sean Kirkpatrick

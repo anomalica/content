@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 4d1be57938e18a1179a66ca053210c834dabb771446ef6b897832e516427d30b
+brief_hash: dbf9ddbd4f3d37f6f87b2bd094ae8e3ae957974d17d927ce2de30ccb61b1f8ba
 page:
   kind: entity
   node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 673
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 2
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,16 +33,21 @@ belonging:
   suspect_excluded: 0
   unreviewed: 4
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+    title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 4
+    slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 3
   - node_id: f7f451bb-90db-4f69-97a2-e892d218a0af
     title: USA, Alaska, Anchorage
     node_type: place
     slug: alaska-anchorage-usa
     shared_claims: 2
+  - node_id: 212f6a5d-30ab-4ff7-934f-7a2aad32a9b7
+    title: 1978 Japan Airlines Flight 1628 Alaska Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: 1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting
+    shared_claims: 1
   - node_id: b0d24cf5-0952-4d73-ad89-fe29f61309b7
     title: Boeing 747
     node_type: object
@@ -50,7 +65,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 24139b91-3bf0-4b78-9118-e769fda0614c
-    claim_hash: c7b45e4c89d64ed0513a7d08859eb4bec0def23b469065b890758523317a9dee
+    claim_hash: 1d27aaf25361c4ea8079068f0b9d58ffbfaa5ab00dd82feaa149d52eff5940f3
     content: The 1978 Japan Airlines Flight 1628 Alaska UFO sighting involved a huge UFO seen by a Japan Airlines crew flying
       a Boeing 747 cargo plane into Anchorage, Alaska, which followed them for hundreds of kilometres.
     original_excerpt: this involved a huge UFO seen by a Japanese Airlines crew flying a cargo plane, a Boeing 747, into Anchorage,
@@ -66,10 +81,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.755
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 212f6a5d-30ab-4ff7-934f-7a2aad32a9b7
+        title: 1978 Japan Airlines Flight 1628 Alaska Unidentified Flying Object (UFO) sighting
+        slug: 1978-japan-airlines-flight-1628-alaska-unidentified-flying-object-ufo-sighting
       - node_id: b0d24cf5-0952-4d73-ad89-fe29f61309b7
         title: Boeing 747
         slug: boeing-747
@@ -93,7 +113,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: 54fdfc57-67a5-49ac-9923-66d080575991
-    claim_hash: 728cc3bf55ba49438dd8e00515d8630ba84341e5633da149c152aa89af706566
+    claim_hash: 92c59aae72fdc6c978b14fdd761d40f9e704c9973d247dce2598d1107eecd76f
     content: On 17 November 1986, the pilots of Japan Airlines flight 1628 reported seeing two glowing spaceships and a gigantic
       mothercraft in flight near Anchorage, Alaska, though this was not made public at the time.
     original_excerpt: Though not made public at the time, on 17 November 1986, the pilots of Japan Airlines flight 1628 reported
@@ -107,13 +127,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1cfffc9b-b3c8-4e8f-a1ff-a98432f9fdad
         title: Japan Airlines Flight 1628 Boeing 747
         slug: japan-airlines-flight-1628-boeing-747
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
         title: Japan Airlines
         slug: japan-airlines
@@ -129,12 +154,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d798e0e1-29a9-4d0d-ac4f-0ac39fef1b14
-    claim_hash: 75cc3211682ee66d250ea9b7a00aed4c6194d09e2884c16e6dade598f43ada26
+    claim_hash: e9ff87a9fab1e3b332caea222f391857a967b2117056ea56f3e2cea2ed6cfbe2
     content: The Japanese crew of Japan Airlines flight 1628 were interviewed by the Federal Aviation Administration and were
       adamant they had seen a gigantic craft, clearly not of any known terrestrial technology, which tracked them on their
       journey.
@@ -150,13 +175,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.955
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: 94a78181-7c9b-420b-973e-1bcb186b8fa5
         title: Federal Aviation Administration (FAA)
         slug: federal-aviation-administration-faa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
         title: Japan Airlines
         slug: japan-airlines
@@ -169,12 +199,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4ad47949-b9da-4e51-8aea-5a63680791c3
-    claim_hash: cec6f8bd9a245b9624acf3814abedebc35ba328e2e78e27ef529c665a43f7458
+    claim_hash: 4aea506e242afad954678e7d58d65df6fc21e8beb63803a26574e7f3f63e8d40
     content: The crew of Japan Airlines flight 1628 never wavered from their claim about the craft they saw, despite a lot
       of harassment to persuade them otherwise.
     original_excerpt: and they never wavered from that claim, despite a lot of harassment to persuade them otherwise.
@@ -187,10 +217,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 408c2547-fcd7-464f-bb2a-8e2311bf2e6d
+        title: 1986 Japan Airlines Flight 1628 Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1986-japan-airlines-flight-1628-unidentified-aerial-phenomena-uap-sighting
       - node_id: bb1cb8d7-932c-4bce-b15a-92f695005a34
         title: Japan Airlines
         slug: japan-airlines
@@ -203,7 +238,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3b80d7c777446ffc8ad21f22c44db58a011bc6db3963e3d94936f4a258494fa5
+brief_hash: 10b442dd1416161c43fcc8f511d89f39f9a4300cafb910161557cf2e601c70e1
 page:
   kind: entity
   node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
@@ -9,11 +9,21 @@ page:
   claim_count: 34
   claim_count_total: 34
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 34
   tokens_estimated: 5651
   sized_against: 1050000
+entailment:
+  assessed: 34
+  unassessed: 0
+  entails: 18
+  neutral: 15
+  contradicts: 1
+  entailed_by_quote: 15
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.441
+  entailed_by_window_fraction: 0.088
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,20 +33,25 @@ belonging:
   suspect_excluded: 0
   unreviewed: 34
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 9
   - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
     title: Harry Turner
     node_type: person
     slug: harry-turner
     shared_claims: 6
+  - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+    title: North West Cape 1973 UAP Sighting
+    node_type: event
+    slug: north-west-cape-1973-uap-sighting
+    shared_claims: 6
   - node_id: 6a0908ae-a9fa-4a24-9c24-20573b939788
     title: 1954 Harry Turner Directorate of Air Force Intelligence (DAFI) Unidentified Aerial Phenomena (UAP) review
     node_type: event
     slug: 1954-harry-turner-directorate-of-air-force-intelligence-dafi-unidentified-aerial-phenomena-uap-review
+    shared_claims: 3
+  - node_id: 62f50575-ea8f-46b6-962e-08dc7716f9e0
+    title: 1987 North West Cape Learmonth Special Air Service (SAS) Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1987-north-west-cape-learmonth-special-air-service-sas-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 3
   - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
     title: Bill Lynn
@@ -53,6 +68,11 @@ related_nodes:
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 3
+  - node_id: bd854be3-66cf-4f1f-976a-671d1d31bd09
+    title: 1966 Tully Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1966-tully-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 2
   - node_id: 3ff75793-423c-4333-8402-d5c543074091
     title: Bill Chalker
     node_type: person
@@ -88,6 +108,11 @@ related_nodes:
     node_type: event
     slug: 1930-warrnambool-mystery-aircraft-investigation
     shared_claims: 1
+  - node_id: 1b1bad32-112b-4d6b-8ab1-3f60c9ddc0e0
+    title: 1954 Woomera Canberra aircraft Unidentified Aerial Phenomena (UAP) sighting
+    node_type: event
+    slug: 1954-woomera-canberra-aircraft-unidentified-aerial-phenomena-uap-sighting
+    shared_claims: 1
   - node_id: e10d037b-b94e-464e-9d35-8d193a99891b
     title: 1966 Westall Unidentified Flying Object (UFO) incident
     node_type: event
@@ -97,6 +122,11 @@ related_nodes:
     title: 1967 Central Australia Royal Australian Air Force (RAAF) photo-mapping Unidentified Aerial Phenomena (UAP) film
     node_type: event
     slug: 1967-central-australia-royal-australian-air-force-raaf-photo-mapping-unidentified-aerial-phenomena-uap-film
+    shared_claims: 1
+  - node_id: b2b3cb65-b05b-40ca-a0d9-a6e10700acaa
+    title: 1991 North West Cape UAP sighting
+    node_type: event
+    slug: 1991-north-west-cape-uap-sighting
     shared_claims: 1
   - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
     title: Andrew Greenwood
@@ -153,26 +183,6 @@ related_nodes:
     node_type: place
     slug: western-australia-learmonth-air-force-base-australia
     shared_claims: 1
-  - node_id: c66228aa-5207-4761-8fd2-29e28ac99788
-    title: George Pedley
-    node_type: person
-    slug: george-pedley
-    shared_claims: 1
-  - node_id: 53817f50-5c92-46a3-ab0a-a38faa57a755
-    title: Graham (Kiama solid light witness)
-    node_type: person
-    slug: graham-kiama-solid-light-witness
-    shared_claims: 1
-  - node_id: c576c8f5-70ac-40f4-9fbc-560c52f188b8
-    title: Graham's early 1970s Kiama solid light encounter
-    node_type: event
-    slug: grahams-early-1970s-kiama-solid-light-encounter
-    shared_claims: 1
-  - node_id: 82058332-da91-4ed0-96ed-dbe570d48389
-    title: Harry Turner's 1954 classified UFO scientific appreciation report
-    node_type: document
-    slug: harry-turners-1954-classified-ufo-scientific-appreciation-report
-    shared_claims: 1
 claims:
   - claim_id: 78509507-01c8-4991-88ea-b725652a5e68
     claim_hash: 4d15e8056070f53f74d4cea6e64fd58fda43d03faeed34639514761db09e8f81
@@ -190,6 +200,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.488
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 82058332-da91-4ed0-96ed-dbe570d48389
         title: Harry Turner's 1954 classified UFO scientific appreciation report
@@ -231,6 +246,11 @@ claims:
         - Bill Chalker
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 53817f50-5c92-46a3-ab0a-a38faa57a755
         title: Graham (Kiama solid light witness)
@@ -258,7 +278,7 @@ claims:
       content_hash: sha256:c6f7fbc1252e3e58dde49d78d313335b748445aadf567656a5c0eb95d6ac9c3b
       friendly_name: 2005-11-14-ebook-hair-of-the-alien-dna-and-other-forensic-evidence-for-alien
   - claim_id: 225e6811-64a1-41de-9538-3dfc0ee539dc
-    claim_hash: fa576fc5faf2696483b705ae79a3c60785565e69ea1916b3031ff4005f7fb62a
+    claim_hash: ea0ef8602feb8195f87ed3651d5608770677711cce508333ee7719598ba6ab31
     content: A sighting in Queensland in January 1966 that drew close attention from the Royal Australian Air Force involved
       farmer George Pedley near Tully.
     original_excerpt: One sighting in Queensland that did draw the close attention of the Royal Australian Air Force occurred
@@ -272,16 +292,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 76e6004f-263c-4bcc-bcac-f2ae88bcf18a
         title: Australia, Queensland, Tully
         slug: queensland-tully-australia
+      - node_id: bd854be3-66cf-4f1f-976a-671d1d31bd09
+        title: 1966 Tully Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1966-tully-unidentified-aerial-phenomena-uap-sighting
       - node_id: c66228aa-5207-4761-8fd2-29e28ac99788
         title: George Pedley
         slug: george-pedley
-      - node_id: c8009844-c6b4-47bf-b759-6e35e756928b
-        title: Tully Queensland UAP Sighting 1966
-        slug: tully-queensland-uap-sighting-1966
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -294,12 +319,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4a03ab38-46c0-414e-8f9e-fdbc0069fb29
-    claim_hash: 0af7de8e8b1c6b8e1e7af747deb789b1f03d9aa4c6d2321120236876e905ccd9
+    claim_hash: b1d6e2f4ecb862a1abaf66b75295070cdb4e920e3339772065e4d76e2484f044
     content: The Royal Australian Air Force's investigation into the 1966 Tully UAP sighting attributed the Tully Nests to
       whirling masses of tropical air known as 'Willy Willies'.
     original_excerpt: The subsequent air force investigation weakly speculated the ‘Nests’ were caused by whirling masses
@@ -313,10 +338,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bd854be3-66cf-4f1f-976a-671d1d31bd09
+        title: 1966 Tully Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1966-tully-unidentified-aerial-phenomena-uap-sighting
       - node_id: d2ccb079-8428-4baf-8fb8-d5adf6f68185
         title: Tully Nests
         slug: tully-nests
@@ -332,7 +362,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -352,6 +382,11 @@ claims:
         - an unnamed US Air Force sergeant
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00ddabaa-3b1e-43cb-8125-2fc0c27b98c9
         title: Australia, Central Australia
@@ -372,12 +407,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: fadc1655-87bd-4aad-9a6e-1753b1aee715
-    claim_hash: 3a8826fc6eda2005030fe6f41c7a4710dae333691c662d7877f052be40ebc40d
+    claim_hash: 7df4ace5fe7fa74e414639232cc84302fca4571faed9906b9afdea79271ae2c0
     content: Bill Lynn's daughter Kate recalled her father describing how he used the bonnet of his pick-up truck to sketch
       the object and make notes about what he saw.
     original_excerpt: Kate remembers her father describing how he used the bonnet of his pick-up truck to sketch the object
@@ -394,13 +429,18 @@ claims:
         - Kate Lynn
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1b626902-0a69-43b0-9867-b50b9b1ef5b8
         title: Kate Lynn
         slug: kate-lynn
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
       - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
         title: Bill Lynn
         slug: bill-lynn
@@ -416,12 +456,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 230bcfe9-1aa5-4324-8180-24f522226892
-    claim_hash: 70b65a467d473b0ccc7be28b6989755171255bb3a2ab366bee4794cfa5900462
+    claim_hash: ab889abcb29b702fecc418cbfb3a1dfb64048aaf14643a2aa8f5250553aa0d4f
     content: Bill Lynn's sketch of the 1973 object appears in his Royal Australian Air Force sighting report.
     original_excerpt: a sketch that appears in his Royal Australian Air Force sighting report.
     claim_type: administrative
@@ -433,10 +473,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
       - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
         title: Bill Lynn
         slug: bill-lynn
@@ -452,12 +497,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6bfde33c-6f73-4189-9c51-b6892c471334
-    claim_hash: 290b44cc792c4925dac99fb9e714eb037a56aae43c1fa37892ec1bfbcef5ce4a
+    claim_hash: c16724b43ff6546c9a16b05e4d684c6bc50f456a0591106c6cbb565720829914
     content: There are now no records of the 1973 North West Cape sighting in declassified Royal Australian Air Force sighting
       records from 1973 held by the Australian National Archives.
     original_excerpt: Curiously, there are now no records of this 1973 North West Cape sighting anywhere in declassified Royal
@@ -472,6 +517,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
         title: North West Cape 1973 UAP Sighting
@@ -491,12 +541,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: f382a1b2-c377-4094-94d3-44220f4ce947
-    claim_hash: 3ecaf5cb3157c5b95280cf62fb84b29e551d1939f74998eb8b3ae6abe7da4d35
+    claim_hash: 0fb6f8a3329738924f112021d4afb9e0658b66bfa6ebdcae042d982cbc9b447a
     content: The original 1973 sighting reports were lawfully provided to researchers by the Royal Australian Air Force public
       relations section as part of a release of sightings reports in 1974-75, years before Australian freedom of information
       laws were enacted.
@@ -511,10 +561,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -527,7 +582,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -548,6 +603,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -564,7 +624,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -581,6 +641,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
         title: Harry Turner
@@ -600,7 +665,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -617,6 +682,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
         title: Harry Turner
@@ -633,12 +703,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 60a4cc1b-70b7-4fba-a713-e5f3b9c82caa
-    claim_hash: 1181c04a2d4ac981be52500278837b2606ff13f98984d239ae97c3b6ba93c6ad
+    claim_hash: eba9762a0e70bf6471da4a255747564666bb32e2445e898ebcbb773052ab02b5
     content: Two official Australian Air Force sightings reports detail an incident at the United States Naval Communication
       Station near Exmouth on Western Australia's North West Cape, the same base where Annie Farinaccio had her encounter
       with a triangular object in the early 1990s.
@@ -654,6 +724,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 419a6395-f958-4ca3-bc05-62f515f01ad1
         title: Australia, Western Australia, Exmouth
@@ -664,9 +739,9 @@ claims:
       - node_id: 8ae82812-de79-426e-b429-e1c5e283ade4
         title: USA, North Western Australia, North West Cape
         slug: north-western-australia-north-west-cape-usa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: b2b3cb65-b05b-40ca-a0d9-a6e10700acaa
+        title: 1991 North West Cape UAP sighting
+        slug: 1991-north-west-cape-uap-sighting
       - node_id: c19294af-d60a-4fe7-b309-7ea327a816c0
         title: United States Naval Communication Station Harold E. Holt
         slug: united-states-naval-communication-station-harold-e-holt
@@ -682,7 +757,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -701,6 +776,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
         title: Harry Turner
@@ -720,12 +800,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 7f0a7b5f-3150-4cce-9725-0804651a848c
-    claim_hash: c8b5cf8c8200c50817a6eff03d7b9defcad1aa63e1a9d6789e7b32140b312859
+    claim_hash: c0ba85a49cb2ba0f838914f26ed77e1fd04e2714d15c603e20607aa9aed93646
     content: Royal Australian Air Force sightings reports show both Bill Lynn and a US officer named Lieutenant Commander
       Moyer or Meyer independently reported seeing a revolving or pulsating object hovering in the sky on the evening of 1973-10-25.
     original_excerpt: The Royal Australian Air Force sightings reports show both Lynn and a US officer named Lieutenant Commander
@@ -740,13 +820,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 826e64fe-a23a-48bf-9759-2752a4417974
         title: Lieutenant Commander Moyer or Meyer
         slug: lieutenant-commander-moyer-or-meyer
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
       - node_id: c02bca71-cad9-4f6a-92eb-bf43dafdc424
         title: Bill Lynn
         slug: bill-lynn
@@ -762,12 +847,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 842a5a4f-2164-42c3-b5b0-b8296141121c
-    claim_hash: 3f09f876e1b63570b061effe1f48ce3288d86d2bb189962a33ccbeb9c22b07c7
+    claim_hash: ed70832e77b00fd927da920af6b6f1ccd5248062c85c9d34228ce649687b0be3
     content: Lieutenant Commander Moyer or Meyer reported in an 'Unusual Aerial Sighting' report to the Royal Australian Air
       Force that his attention was drawn to a large black object in the clear sky.
     original_excerpt: In an 'Unusual Aerial Sighting' report he filed with the Royal Australian Air Force, he wrote that his
@@ -784,13 +869,18 @@ claims:
         - Unusual Aerial Sighting report
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 826e64fe-a23a-48bf-9759-2752a4417974
         title: Lieutenant Commander Moyer or Meyer
         slug: lieutenant-commander-moyer-or-meyer
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: a50a3d44-6eb5-47f1-92ce-64328b2ec25f
+        title: North West Cape 1973 UAP Sighting
+        slug: north-west-cape-1973-uap-sighting
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -803,12 +893,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: abec6eee-8a5b-4969-95ef-3ea6953497ff
-    claim_hash: 79f47d8ee9aed12455cc23affe1576d39a7b43d59183245d46a10e52e99ac482
+    claim_hash: 939d75b4ede32aaf88d68bd2d690c385a2b69cecaf24fec1506fe2f6d1c4723a
     content: In 1987, two warrant officers from the Special Air Service (SAS) Regiment were so alarmed by what they saw over
       the nearby Learmonth air force base that they filed 'Unusual Aerial Sightings' reports to the Royal Australian Air Force.
     original_excerpt: two warrant officers from the elite Special Air Service (SAS) Regiment were so alarmed by what they
@@ -823,6 +913,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 19d421c6-da44-4cc7-a972-52edcc71d4ab
         title: Australia, Western Australia, Learmonth Air Force Base
@@ -830,9 +925,9 @@ claims:
       - node_id: 4b767889-791d-4a09-8928-60a7af55754b
         title: Special Air Service (SAS) Regiment
         slug: special-air-service-sas-regiment
-      - node_id: 863234c4-b181-4578-aa7c-d413f2f2855f
-        title: Learmonth 1987 UAP Sighting
-        slug: learmonth-1987-uap-sighting
+      - node_id: 62f50575-ea8f-46b6-962e-08dc7716f9e0
+        title: 1987 North West Cape Learmonth Special Air Service (SAS) Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1987-north-west-cape-learmonth-special-air-service-sas-unidentified-aerial-phenomena-uap-sighting
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -845,12 +940,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: cd6aa6d2-f1ec-4820-9f5d-6d82f6392405
-    claim_hash: 85b4f19d3d04a630e454f649796b760bbfb35714d2a748150cb1c2b52de177b5
+    claim_hash: 44009a222a8c006a8a4f63639c7a439adcbd6d8b6c0c677e05d46dad1e6bd88c
     content: A statement by an investigating major supporting the 1987 North West Cape Learmonth SAS UAP sighting reports
       noted that three radios were used in unsuccessful attempts to raise the RAAF aircraft that was approaching, and this
       was the only time communications were lost over six days of exercises.
@@ -866,10 +961,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 62f50575-ea8f-46b6-962e-08dc7716f9e0
+        title: 1987 North West Cape Learmonth Special Air Service (SAS) Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1987-north-west-cape-learmonth-special-air-service-sas-unidentified-aerial-phenomena-uap-sighting
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -882,12 +982,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: a2d10b79-eb49-4f5b-8b9e-500c10bbe5f2
-    claim_hash: e05201d32c5ac85ec40f45a22389d6b2f66be75cd8c7b26205257b500e8fa109
+    claim_hash: 2ca33e9ce6301c63bb6aa78a641df24f3fc381640b319a64f58e360044bf3b36
     content: During the 1987 North West Cape Learmonth SAS UAP sighting, the object was also observed by the RAAF pilots of
       the aircraft in support, who refused to report the incident.
     original_excerpt: '''It was also observed by the RAAF pilots of the aircraft in support, who refused to report the incident.'''
@@ -900,10 +1000,15 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 62f50575-ea8f-46b6-962e-08dc7716f9e0
+        title: 1987 North West Cape Learmonth Special Air Service (SAS) Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1987-north-west-cape-learmonth-special-air-service-sas-unidentified-aerial-phenomena-uap-sighting
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -916,7 +1021,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -937,6 +1042,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.498
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8ae82812-de79-426e-b429-e1c5e283ade4
         title: USA, North Western Australia, North West Cape
@@ -956,7 +1066,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -976,6 +1086,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b9cc7a4d-48b8-49cc-9d23-5d6a4b1abe92
         title: George Jones
@@ -998,7 +1113,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1017,6 +1132,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b9cc7a4d-48b8-49cc-9d23-5d6a4b1abe92
         title: George Jones
@@ -1033,7 +1153,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1055,6 +1175,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.863
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
@@ -1071,7 +1196,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1093,6 +1218,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.905
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
@@ -1109,7 +1239,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1133,6 +1263,11 @@ claims:
         - Ross Coulthart's shorthand notes
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
@@ -1146,7 +1281,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1165,6 +1300,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
         title: Harry Turner
@@ -1184,7 +1324,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1203,6 +1343,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -1219,7 +1364,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1240,6 +1385,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -1262,12 +1412,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d9a72019-9586-4128-a641-ae5235b929b7
-    claim_hash: a8a7ac37355b36d264a6b86c915f0cb9b3a0a27e41606213c5da7021052fae23
+    claim_hash: 00795795426f111f2b80d2ba130d2e2c48f08d760e25c0b0661e6ad88fb25000
     content: In May 1954 at the Woomera Rocket Range, security officer Sydney Baker witnessed an object travelling across
       the path of an approaching Canberra aircraft at a speed he estimated to be three times the aircraft's velocity of approximately
       870 kilometres per hour.
@@ -1285,19 +1435,24 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 015d00f4-9b67-4ed0-9ecc-b7ca3065394d
         title: Sydney Baker
         slug: sydney-baker
+      - node_id: 1b1bad32-112b-4d6b-8ab1-3f60c9ddc0e0
+        title: 1954 Woomera Canberra aircraft Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1954-woomera-canberra-aircraft-unidentified-aerial-phenomena-uap-sighting
       - node_id: 5706d302-c4c3-47db-9e8c-241891916c5c
         title: Canberra aircraft
         slug: canberra-aircraft
       - node_id: bf3ad97d-fbe8-49f2-a18f-1027c475eb2c
         title: Australia, South Australia, Woomera Rocket Range
         slug: south-australia-woomera-rocket-range-australia
-      - node_id: c095ed29-3921-4383-928b-22b3b7da08bb
-        title: Woomera 1954 UAP Sighting
-        slug: woomera-1954-uap-sighting
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -1310,7 +1465,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1327,6 +1482,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5706d302-c4c3-47db-9e8c-241891916c5c
         title: Canberra aircraft
@@ -1343,7 +1503,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1364,6 +1524,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 442f8857-a05f-42e3-ba13-1040ab4b62ed
         title: Harry Turner
@@ -1383,7 +1548,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -1405,6 +1570,11 @@ claims:
         - Ross Coulthart interview with Andrew Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.956
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a52d4e0-c8a1-49c6-a01d-8d37d6e69887
         title: Andrew Greenwood
@@ -1447,6 +1617,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.779
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9637fccf-5c0b-48d7-8bda-a56265f67450
         title: Australia, Victoria, Royal Australian Air Force (RAAF) Base East Sale
@@ -1487,6 +1662,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)

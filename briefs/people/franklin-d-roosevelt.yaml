@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5633e88882c5e28cf883e419c51b36231dccda2469fa1740825dd2967c9d24e8
+brief_hash: d7326514d396941818c0c7ce68bec63d2df205776d9d597117a263bcdde40b21
 page:
   kind: entity
   node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
@@ -9,11 +9,21 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 12
   tokens_estimated: 1781
   sized_against: 1050000
+entailment:
+  assessed: 12
+  unassessed: 0
+  entails: 10
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.667
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,6 +48,11 @@ related_nodes:
     node_type: person
     slug: joseph-stalin
     shared_claims: 2
+  - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+    title: Magenta Unidentified Flying Object (UFO) crash
+    node_type: event
+    slug: magenta-unidentified-flying-object-ufo-crash
+    shared_claims: 2
   - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
     title: Pius XII
     node_type: person
@@ -52,11 +67,6 @@ related_nodes:
     title: 1943 Tehran Conference
     node_type: event
     slug: 1943-tehran-conference
-    shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: fd98c5b1-c5f0-4c2c-a619-58e2035654e8
     title: A Bodyguard of Lies
@@ -103,11 +113,6 @@ related_nodes:
     node_type: organisation
     slug: london-controlling-section-lcs
     shared_claims: 1
-  - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
-    title: Magenta Unidentified Flying Object (UFO) crash
-    node_type: event
-    slug: magenta-unidentified-flying-object-ufo-crash
-    shared_claims: 1
   - node_id: d598de6c-bff7-4393-8616-eb28f4401dd8
     title: Mars Reconnaissance Orbiter (MRO) image PSP_008427_1380
     node_type: document
@@ -153,6 +158,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.542
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2033dabc-4df6-41f0-b6d7-fede336c84c0
         title: William Dudley Pelley
@@ -190,6 +200,11 @@ claims:
         - A Bodyguard of Lies
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.432
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08a0520e-bf78-480f-b6ac-9cbb8021f20f
         title: 1943 Tehran Conference
@@ -236,6 +251,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.759
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29d39310-2ab5-4df0-aa63-25d30a7b9f6d
         title: Winston Churchill
@@ -278,6 +298,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -317,6 +342,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 01ac6d11-095a-456f-9e5a-31bbf7be74d0
         title: Linda Hunt
@@ -368,6 +398,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
@@ -408,6 +443,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.718
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
@@ -443,6 +483,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
@@ -484,6 +529,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.782
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6ebe4a8f-c51e-421e-80a4-cb399c3a15d3
         title: The New Deal
@@ -524,6 +574,11 @@ claims:
         - Jason Samosa's research
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
@@ -545,7 +600,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 86ca639a-0b26-4e25-ae60-cf7535396729
-    claim_hash: b695c2d9f699a113d7e4affa39713903a4bee9504fe0bcd9974b5db4e6a1884c
+    claim_hash: fd0393dd4cfaffa70961bd488c9340c1d782528c70cb0027ef77ef77ee1f0024
     content: Information about the Magenta UFO crash was back-channelled through Pope Pius XII to Franklin D. Roosevelt.
     original_excerpt: but it was the information about it was back channeled through Pope Pius the 12th to FDR
     claim_type: hearsay
@@ -559,6 +614,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -566,12 +626,12 @@ claims:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
         slug: franklin-d-roosevelt
+      - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+        title: Magenta Unidentified Flying Object (UFO) crash
+        slug: magenta-unidentified-flying-object-ufo-crash
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
         slug: pius-xii
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: 02:22:56.4-02:23:02.2
@@ -600,6 +660,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
         title: Holy See

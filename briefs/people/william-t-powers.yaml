@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1991fda4464a32fae73a959177fa26102a25d3b51c2b7e8d7e5081c0df335b9b
+brief_hash: dc81f1dfb78200bd8aeadd8a08ca92f8cf75a4b9adc3c6dcde3de44d11b2a4e0
 page:
   kind: entity
   node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 549
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 5
 related_nodes:
-  - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
-    title: 1964 Socorro UAP encounter
+  - node_id: e48b1560-f198-4f5b-9406-6ddb18b35b15
+    title: Socorro, New Mexico Unidentified Flying Object (UFO) landing
     node_type: event
-    slug: 1964-socorro-uap-encounter
+    slug: new-mexico-unidentified-flying-object-ufo-landing-socorro
     shared_claims: 3
   - node_id: a0643448-eca0-4b08-9036-658daf27b1a3
     title: Douglass Price-Williams
@@ -60,7 +70,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 4cd77f04-84e4-4ab0-9a9d-30de95b1737f
-    claim_hash: 44ae36220fc8cbb922ec3e9df8a927460d5a6ab1e26ea205e4747a4aa72c28d8
+    claim_hash: 52dc61b9cdc8c46bf3a820800603285ae01ec1f9eeb1ac60d5966b59db54e611
     content: William Powers was an Air Force astronomer who helped investigate the Socorro, New Mexico UFO landing.
     original_excerpt: we found out from Dr. William Powers, who was an Air Force astronomer who helped investigate that case
     claim_type: administrative
@@ -74,6 +84,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
         title: William T. Powers
@@ -81,9 +96,9 @@ claims:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
-      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
-        title: 1964 Socorro UAP encounter
-        slug: 1964-socorro-uap-encounter
+      - node_id: e48b1560-f198-4f5b-9406-6ddb18b35b15
+        title: Socorro, New Mexico Unidentified Flying Object (UFO) landing
+        slug: new-mexico-unidentified-flying-object-ufo-landing-socorro
     date: null
     date_end: null
     location_in_record: 00:41:04.3-00:41:09.4
@@ -98,7 +113,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: bfb56d18-983d-4036-92b1-a55a01db2e7b
-    claim_hash: dbb92b03c7743302c0752638857e5d1dcb2a1f7e2de6b980644568f85699a45c
+    claim_hash: 968e1339e821055af16db8d8280a31cbfd2de46cce8df0c2832fbb6e4360eeed
     content: At the Socorro, New Mexico UFO landing, investigators found a ton of weight sitting on each pad mark, measured
       with a penetrometer.
     original_excerpt: he said that they use a penetrometer on each one of those pad marks and there was a ton sitting on each
@@ -115,13 +130,18 @@ claims:
         - Raymond Fowler
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
         title: William T. Powers
         slug: william-t-powers
-      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
-        title: 1964 Socorro UAP encounter
-        slug: 1964-socorro-uap-encounter
+      - node_id: e48b1560-f198-4f5b-9406-6ddb18b35b15
+        title: Socorro, New Mexico Unidentified Flying Object (UFO) landing
+        slug: new-mexico-unidentified-flying-object-ufo-landing-socorro
       - node_id: ebb776dd-7416-4782-a345-9273c19c7fdd
         title: USA, New Mexico, Socorro
         slug: new-mexico-socorro-usa
@@ -139,7 +159,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: 44c22bdc-da5c-4a1a-ad1c-406d954a984b
-    claim_hash: 09b9d6d6a27b399e1def21487767e192664b6c2fcb668f18a3206777de2d4285
+    claim_hash: 1700658d4526378cd4b2c0cf844f57d3d8fadaaa108456bd003e2b135342fcad
     content: At the Socorro, New Mexico UFO landing, the centre of gravity within the quadruped landing gear was directly
       over burn number one.
     original_excerpt: He said the center of gravity within the quadruped landing gear was right over burn number one.
@@ -155,13 +175,18 @@ claims:
         - Raymond Fowler
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
         title: William T. Powers
         slug: william-t-powers
-      - node_id: 35e7651b-150c-447e-9b1e-f2919e4272f1
-        title: 1964 Socorro UAP encounter
-        slug: 1964-socorro-uap-encounter
+      - node_id: e48b1560-f198-4f5b-9406-6ddb18b35b15
+        title: Socorro, New Mexico Unidentified Flying Object (UFO) landing
+        slug: new-mexico-unidentified-flying-object-ufo-landing-socorro
     date: '1964-04-24'
     date_end: null
     location_in_record: 00:41:17.4-00:41:23.5
@@ -193,6 +218,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.509
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
         title: William T. Powers
@@ -234,6 +264,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.782
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06feb3fb-cb2f-4f4d-9a39-917259b6709a
         title: William T. Powers

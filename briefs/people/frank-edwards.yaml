@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: aaa65b79f6da9202021a284c3cdcf1f1135b43d46dd61592799b5b0dec27de59
+brief_hash: f2f70c3357cb6f9dc97ae339d29428019661ecd830192306d44073ba8b62ae74
 page:
   kind: entity
   node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 1074
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 6
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.714
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,15 +48,15 @@ related_nodes:
     node_type: person
     slug: vannevar-bush
     shared_claims: 2
+  - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+    title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+    node_type: event
+    slug: dc-unidentified-flying-object-ufo-flap-1952-washington
+    shared_claims: 1
   - node_id: b2fbe5b0-23fe-483b-b999-45527a0cdee8
     title: 1952 Washington, D.C. Unidentified Flying Object (UFO) sightings
     node_type: event
     slug: dc-unidentified-flying-object-ufo-sightings-1952-washington
-    shared_claims: 1
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
     shared_claims: 1
   - node_id: 89cd90dc-96d7-4d6c-9768-0d5ab823d93a
     title: Canada
@@ -82,6 +92,11 @@ claims:
         - a 1966 book
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.412
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -103,7 +118,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: b1bcace5-88b7-431d-b0ee-81a0a0317077
@@ -121,6 +136,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.474
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 89cd90dc-96d7-4d6c-9768-0d5ab823d93a
         title: Canada
@@ -139,7 +159,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: dea9ec81-7fe6-45c5-9237-81be34af98c9
@@ -157,6 +177,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -175,7 +200,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: c0b94ac9-4985-4b42-9af8-eeb13438b84e
@@ -192,6 +217,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.452
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4ada3704-4cd8-4cf2-b0fe-fcfb6716abaa
         title: Vannevar Bush
@@ -213,7 +243,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 551705c2-3d8e-4194-9b07-1b2dca26495e
@@ -231,6 +261,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
         title: Frank Edwards
@@ -249,7 +284,7 @@ claims:
       content_hash: sha256:eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121abef783c
       friendly_name: null
   - claim_id: 2692579f-295f-44c3-af8f-05a20f269bc5
-    claim_hash: 68de96e44f6b85146b5a6cc9300ec8cac1442854670bfa39323ae71f3fe764b8
+    claim_hash: db18599f5c8f70f9a7818c2b4444ac355855e94b193bfd5509b132770a750fc1
     content: Frank Edwards, in a 1956 lecture, maintained that in 1952 Albert Einstein had delivered an urgent message to
       then-President Harry Truman warning that Truman's shoot-down policy toward UFOs over Washington, D.C. was unwise.
     original_excerpt: Edwards maintained that just four years prior in 1952, Albert Einstein had delivered an urgent message
@@ -266,6 +301,11 @@ claims:
         - Frank Edwards's sources and understanding of historical circumstance
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman
@@ -273,12 +313,12 @@ claims:
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: e0f5987b-40af-4833-88bc-51b0904fb4dd
         title: Frank Edwards
         slug: frank-edwards
+      - node_id: e27e026c-a6a0-46bc-8da2-5f83577abc6c
+        title: 1952 Washington, D.C. Unidentified Flying Object (UFO) flap
+        slug: dc-unidentified-flying-object-ufo-flap-1952-washington
     date: '1956'
     date_end: null
     location_in_record: 00:08:40.5-00:08:54.2
@@ -311,6 +351,11 @@ claims:
         - Frank Edwards's sources and understanding of historical circumstance
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 589d7469-f87f-4da5-afa8-cabca7be6818
         title: Harry S. Truman

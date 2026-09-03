@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 34e1be735a29791fde6cd07e636ae6026ac331afd4c2b3a461ded4037db5bc19
+brief_hash: fd30a2de358bc115a14d2732fe824e83a7c6e7ebf6212a10c54ac53601c30031
 page:
   kind: entity
   node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
@@ -9,11 +9,21 @@ page:
   claim_count: 55
   claim_count_total: 55
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 55
   tokens_estimated: 7962
   sized_against: 1050000
+entailment:
+  assessed: 55
+  unassessed: 0
+  entails: 51
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 17
+  entailed_by_window: 34
+  entailed_by_quote_fraction: 0.309
+  entailed_by_window_fraction: 0.618
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -58,6 +68,11 @@ related_nodes:
     node_type: organisation
     slug: vatican
     shared_claims: 4
+  - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+    title: Magenta Unidentified Flying Object (UFO) crash
+    node_type: event
+    slug: magenta-unidentified-flying-object-ufo-crash
+    shared_claims: 3
   - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
     title: Pius XII radio message on Fatima jubilee (1942-10-31)
     node_type: event
@@ -88,11 +103,6 @@ related_nodes:
     node_type: person
     slug: john-xxiii
     shared_claims: 2
-  - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
-    title: Magenta Unidentified Flying Object (UFO) crash
-    node_type: event
-    slug: magenta-unidentified-flying-object-ufo-crash
-    shared_claims: 2
   - node_id: e63698cc-274e-4e27-b576-a027fb10f37f
     title: Paul VI
     node_type: person
@@ -108,11 +118,6 @@ related_nodes:
     node_type: person
     slug: robert-serrou
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
     title: Basilica of Our Lady of the Rosary of Fatima
     node_type: object
@@ -173,6 +178,11 @@ related_nodes:
     node_type: event
     slug: father-schweigls-interview-of-sister-lucia-at-coimbra-convent-1952-09-02
     shared_claims: 1
+  - node_id: 33472749-aeb3-467b-ab00-0a0ca0cb3ff5
+    title: Holy Office
+    node_type: organisation
+    slug: holy-office
+    shared_claims: 1
 claims:
   - claim_id: 98960f14-b1f8-4bf4-86ed-833cfdd5e5ea
     claim_hash: 7e2e3e00ebb8e0c4bfd7a7fa6604e7a15d4b7a1233194e64f943ffa8be2e38b8
@@ -189,6 +199,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.417
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -226,6 +241,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -268,6 +288,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -305,6 +330,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -340,6 +370,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.551
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -376,6 +411,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.863
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02193b62-30a2-4ad5-9fa0-a64c90c9b236
         title: Basilica of Our Lady of the Rosary of Fatima
@@ -418,6 +458,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -454,6 +499,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.778
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -490,6 +540,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.587
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -530,6 +585,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -567,6 +627,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -602,6 +667,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.768
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -638,6 +708,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -673,6 +748,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -708,6 +788,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.411
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -745,6 +830,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.675
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -783,6 +873,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -824,6 +919,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -861,6 +961,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.854
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -896,6 +1001,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 49286131-da81-4d49-9b69-de49065b47c5
         title: Vatican Observatory
@@ -934,6 +1044,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.46
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -971,6 +1086,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 995e1089-d41e-4477-aab3-df8e942b1a4d
         title: Marian Year declaration (1953-09-08)
@@ -1009,6 +1129,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.487
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1049,6 +1174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1092,6 +1222,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.535
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1125,6 +1260,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1164,6 +1304,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1199,6 +1344,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 86a3d282-0dee-49af-8533-93f32405844e
         title: Portugal, Leiria
@@ -1235,6 +1385,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.624
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1268,6 +1423,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1308,6 +1468,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
         title: Pius XII radio message on Fatima jubilee (1942-10-31)
@@ -1345,6 +1510,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.93
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
         title: Pius XII radio message on Fatima jubilee (1942-10-31)
@@ -1383,6 +1553,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2eebf534-955a-46bf-bacd-fecdd5074643
         title: Pius XII radio message on Fatima jubilee (1942-10-31)
@@ -1421,6 +1596,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
         title: Pius XII repetition of the consecration (1942-12-08)
@@ -1462,6 +1642,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.704
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1500,6 +1685,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.471
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1534,6 +1724,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.515
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1575,6 +1770,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 00327df7-19aa-40c9-b7df-656e66c0b14c
         title: Robert Serrou's photograph of the Third Secret safe (1957-05-14)
@@ -1620,6 +1820,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6809b8f3-f710-463e-a449-efe785c89a8f
         title: Robert Serrou
@@ -1660,6 +1865,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.887
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -1696,6 +1906,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.495
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 29dcfae9-39d3-4fa7-ba84-d068cc392028
         title: Death of Pius XII (1958-10-09)
@@ -1738,6 +1953,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.496
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 11e5d467-eddb-4565-b496-984e85ca249a
         title: Italy, Castel Gandolfo
@@ -1765,7 +1985,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 22d9a161-c1d4-45a7-85b9-32bbb274ab96
-    claim_hash: 6f0f82f15c6579bca81be1c8dd844859a0434f41de439f87d82fc1d49898a3d0
+    claim_hash: 1f6d2a6c54cc49286302bf71389c46f63e1d95a7a2d40aabcfcf6dd1811c060f
     content: Five popes - Pius XII, John XXIII, Paul VI, John Paul I, and John Paul II - kept the Third Secret of Fatima under
       lock and key.
     original_excerpt: There must have been a reason why five popes, Pius XII, John XXIII, Paul VI, and John Paul I and II,
@@ -1779,6 +1999,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1823,6 +2048,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 71ccefe7-af9a-459b-962d-787a8c17ccd6
         title: Portugal, Coimbra
@@ -1868,6 +2098,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -1901,6 +2136,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1934,6 +2174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.661
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -1972,6 +2217,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
@@ -2005,6 +2255,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.501
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0f9aa10e-8dfd-4ae9-a03f-750a51ef7dda
         title: Pius XII repetition of the consecration (1942-12-08)
@@ -2044,6 +2299,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -2090,6 +2350,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.923
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -2136,6 +2401,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4484f20d-af42-40af-b0ab-964afae98ec7
         title: John Paul II
@@ -2160,7 +2430,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 86ca639a-0b26-4e25-ae60-cf7535396729
-    claim_hash: b695c2d9f699a113d7e4affa39713903a4bee9504fe0bcd9974b5db4e6a1884c
+    claim_hash: fd0393dd4cfaffa70961bd488c9340c1d782528c70cb0027ef77ef77ee1f0024
     content: Information about the Magenta UFO crash was back-channelled through Pope Pius XII to Franklin D. Roosevelt.
     original_excerpt: but it was the information about it was back channeled through Pope Pius the 12th to FDR
     claim_type: hearsay
@@ -2174,6 +2444,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2181,12 +2456,12 @@ claims:
       - node_id: 7bc18490-04d7-41f1-94bf-99d46ba1f4e2
         title: Franklin D. Roosevelt
         slug: franklin-d-roosevelt
+      - node_id: 84a72770-ffbf-4f8f-8327-b66fd0183da1
+        title: Magenta Unidentified Flying Object (UFO) crash
+        slug: magenta-unidentified-flying-object-ufo-crash
       - node_id: 9dd4a9e0-df04-4593-83cb-d36dc7dabdab
         title: Pius XII
         slug: pius-xii
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: 02:22:56.4-02:23:02.2
@@ -2216,6 +2491,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
         title: Jesse Mitchells
@@ -2257,6 +2537,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0233cce8-2687-4ccb-b0ab-8bbaddf5656c
         title: Holy See

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5ea7c3b6487fa1758e0f45e40a4b5641d3de920ee1b00606d9d96b79f11a0781
+brief_hash: 173c220c9a869862428ae83948b8dbe434759975675396c8dbafa6c95529fa12
 page:
   kind: entity
   node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
@@ -9,11 +9,21 @@ page:
   claim_count: 15
   claim_count_total: 15
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 15
   tokens_estimated: 2189
   sized_against: 1050000
+entailment:
+  assessed: 15
+  unassessed: 0
+  entails: 6
+  neutral: 8
+  contradicts: 1
+  entailed_by_quote: 5
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.067
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,30 +33,35 @@ belonging:
   suspect_excluded: 0
   unreviewed: 15
 related_nodes:
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
+    title: RAF Cosford UAP Sighting 1993
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 4
-  - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+    slug: raf-cosford-uap-sighting-1993
+    shared_claims: 5
+  - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
     title: UK Ministry of Defence
     node_type: organisation
     slug: uk-ministry-of-defence
     shared_claims: 4
+  - node_id: 174ff35a-f848-487c-9985-31b6b159ebad
+    title: RAF Shawbury UAP Sighting 1993
+    node_type: event
+    slug: raf-shawbury-uap-sighting-1993
+    shared_claims: 3
   - node_id: 75139190-9d0c-47b6-b969-e905f864c633
     title: United Kingdom
     node_type: organisation
     slug: united-kingdom
     shared_claims: 3
-  - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
-    title: RAF Cosford UAP Sighting 1993
-    node_type: event
-    slug: raf-cosford-uap-sighting-1993
-    shared_claims: 2
   - node_id: 224e26e2-c488-413d-9693-7726f1481df8
     title: 1980 Rendlesham Forest incident
     node_type: event
     slug: 1980-rendlesham-forest-incident
+    shared_claims: 1
+  - node_id: 9daa55cf-1840-40ca-a1e3-a7f2b07c704d
+    title: 1990 North Sea RAF Tornado Unidentified Aerial Phenomena (UAP) encounter
+    node_type: event
+    slug: 1990-north-sea-raf-tornado-unidentified-aerial-phenomena-uap-encounter
     shared_claims: 1
   - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
     title: Germany
@@ -73,15 +88,15 @@ related_nodes:
     node_type: place
     slug: england-north-sea-uk
     shared_claims: 1
+  - node_id: 26e0fbeb-ed8c-4dc2-b241-429739a2fc62
+    title: UK, England, RAF Cosford
+    node_type: place
+    slug: england-raf-cosford-uk
+    shared_claims: 1
   - node_id: cb1370c2-6ff0-4d92-94a0-09f259d1671a
     title: UK, England, Wolverhampton
     node_type: place
     slug: england-wolverhampton-uk
-    shared_claims: 1
-  - node_id: 134433ac-c317-4826-9edd-5f732f74521c
-    title: UK, London
-    node_type: place
-    slug: london-uk
     shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
@@ -89,44 +104,8 @@ related_nodes:
     slug: unidentified-flying-object-ufo
     shared_claims: 1
 claims:
-  - claim_id: 3a8ef6a0-374a-499a-913e-2af89612ab5a
-    claim_hash: 15eaae01a0364f90872f5f56db86ccbc34f96b919368ee62cbc6b0519d9a699f
-    content: Nick Pope headed the British Ministry of Defence's 'UFO Desk' in the 1990s.
-    original_excerpt: Nick Pope, who headed the British Ministry of Defence's 'UFO Desk' in the 1990s, told me the radiation
-      levels tested the next day were many times higher than normal background, a finding challenged by sceptics.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
-      title: Nick Pope
-    provenance_chain:
-      origin_kind: speaker
-      origin: Nick Pope
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
-        title: Nick Pope
-        slug: nick-pope
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
-        title: UK Ministry of Defence
-        slug: uk-ministry-of-defence
-    date: null
-    date_end: null
-    location_in_record: ch12:8251-8452
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 61fed439-9d19-4b0e-a712-f92ec9705db1
-    claim_hash: fb8543cc916c3b3d7ee5220ce7410cec6a7fbac66f89c285e50e21cacc6a89b0
+    claim_hash: 848da2abc598b3faf8081d10e8231949834a1c64f8c0dba75297e42895b0f84c
     content: Radiation levels tested the day after the 1980 Rendlesham Forest UAP incident were many times higher than normal
       background, though this finding was challenged by sceptics.
     original_excerpt: Nick Pope, who headed the British Ministry of Defence's 'UFO Desk' in the 1990s, told me the radiation
@@ -142,6 +121,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.985
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 224e26e2-c488-413d-9693-7726f1481df8
         title: 1980 Rendlesham Forest incident
@@ -158,12 +142,53 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a8ef6a0-374a-499a-913e-2af89612ab5a
+    claim_hash: 8ce9c15f576c2182efcd38452a20ed00897ebe3031410461e9f190178043cca7
+    content: Nick Pope headed the British Ministry of Defence's 'UFO Desk' in the 1990s.
+    original_excerpt: Nick Pope, who headed the British Ministry of Defence's 'UFO Desk' in the 1990s, told me the radiation
+      levels tested the next day were many times higher than normal background, a finding challenged by sceptics.
+    claim_type: administrative
+    attestation: first_hand
+    speaker:
+      node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+      title: Nick Pope
+    provenance_chain:
+      origin_kind: speaker
+      origin: Nick Pope
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
+        title: Nick Pope
+        slug: nick-pope
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
+        title: UK Ministry of Defence
+        slug: uk-ministry-of-defence
+    date: null
+    date_end: null
+    location_in_record: ch12:8251-8452
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: d0f3c989-0bf2-4fe7-a2aa-493ba00a5c06
-    claim_hash: 2c29be8d98ba08f0d16309579d36547c20e12ec1a2473cdc200f4e82629cd89a
+    claim_hash: a2730c941e10572288694786eeb45f34e873574bd0500407b84abee6c26899d3
     content: Nick Pope disclosed that, at the same time as the November 1990 French sighting at Gretz-Armainvilliers, three
       Royal Air Force Tornado jets flying from the United Kingdom to Germany above the North Sea encountered a large object
       that sat on their wing tips and then overtook them at unimaginable speed.
@@ -181,6 +206,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26f5dd61-d147-4b41-9666-b0d28b6915d7
         title: Tornado jet
@@ -194,9 +224,9 @@ claims:
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: 9daa55cf-1840-40ca-a1e3-a7f2b07c704d
+        title: 1990 North Sea RAF Tornado Unidentified Aerial Phenomena (UAP) encounter
+        slug: 1990-north-sea-raf-tornado-unidentified-aerial-phenomena-uap-encounter
     date: 1990-11
     date_end: null
     location_in_record: ch13:5119-5455
@@ -206,12 +236,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e842bafa-d6b6-42b1-828a-7b999dfa7720
-    claim_hash: 97ff2571790a71b17eb36fadf2b3031ba252968a219b0431d97841f268f9e1c7
+    claim_hash: c9ba050684b8432841ad453c4bc7f508819d4fa5e1c6979ddc5b7a967eba457c
     content: The object in the 1990 North Sea RAF Tornado UAP encounter appeared as a massive craft covered with blue and
       white lights.
     original_excerpt: An apparent craft, it was 'massive and covered with blue and white lights'.
@@ -226,10 +256,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: bfaddf4a-fb20-422c-8cdf-ea575d113ce7
-        title: RAF Tornado UAP Encounter 1990
-        slug: raf-tornado-uap-encounter-1990
+      - node_id: 9daa55cf-1840-40ca-a1e3-a7f2b07c704d
+        title: 1990 North Sea RAF Tornado Unidentified Aerial Phenomena (UAP) encounter
+        slug: 1990-north-sea-raf-tornado-unidentified-aerial-phenomena-uap-encounter
     date: null
     date_end: null
     location_in_record: ch13:5463-5530
@@ -239,12 +274,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6e009e94-fd0c-4979-a512-a79a76ca73ef
-    claim_hash: 442b0cfb2e1099b2d02f4425c8a72160f5115e4771fe7272326cc12accae1784
+    claim_hash: d63e425ad90e5caa173c9987ad7c8e4569b2146ac03bad7c67e35381ce242dc9
     content: After leaving the Ministry of Defence, Nick Pope detailed his inside knowledge of a major wave of UAP sightings
       across the United Kingdom in March 1993, all involving massive triangular-shaped craft.
     original_excerpt: After he left the Ministry of Defence, Nick Pope detailed his inside knowledge of a major wave of UAP
@@ -260,11 +295,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
         title: UK Ministry of Defence
         slug: uk-ministry-of-defence
     date: 1993-03
@@ -276,12 +316,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: c8d3fe49-9e8a-4ae1-bba0-b077f29844e7
-    claim_hash: 3bbfeecc0a251261224caa6a2ee565d37cad466e5ce21cfd53a08b319086214d
+    claim_hash: 45d57ed672b5aac3396543ac82cfea00586cd55525f7a95ddfda970cf13f707c
     content: While at the Ministry of Defence, Nick Pope investigated a 31 March 1993 classified report from a patrol of Royal
       Air Force police officers at RAF Cosford base near Wolverhampton of a huge diamond-shaped object about 200 metres across,
       flying just a few hundred metres above them.
@@ -300,10 +340,15 @@ claims:
         - classified Ministry of Defence report reviewed by Nick Pope
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 134433ac-c317-4826-9edd-5f732f74521c
-        title: UK, London
-        slug: london-uk
+      - node_id: 26e0fbeb-ed8c-4dc2-b241-429739a2fc62
+        title: UK, England, RAF Cosford
+        slug: england-raf-cosford-uk
       - node_id: 2755122f-47bc-42f0-8c37-0c84bda49f92
         title: Royal Air Force Police
         slug: royal-air-force-police
@@ -325,7 +370,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -346,6 +391,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
@@ -359,12 +409,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b08da5d8-f46d-4578-8a9d-344c855d7216
-    claim_hash: 847590a5d1977e809d4e13d6862fca346e147cd3586a72aad238bae61181d8b0
+    claim_hash: 71c73cba9341bd8d9743e9e66b5c8774cd846b174855e9990b551c13fdec3d28
     content: Nick Pope's superior in the Ministry of Defence told him, 'I don't believe in little green men but even I think
       this is highly unusual', regarding the 1993 RAF Cosford UAP sighting.
     original_excerpt: Pope says his superior in the Ministry of Defence told him, 'I don't believe in little green men but
@@ -381,6 +431,11 @@ claims:
         - Nick Pope
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
         title: RAF Cosford UAP Sighting 1993
@@ -388,7 +443,7 @@ claims:
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
         title: UK Ministry of Defence
         slug: uk-ministry-of-defence
     date: null
@@ -400,12 +455,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 632708db-56ca-44bb-8030-48e613e83f72
-    claim_hash: 703d1ccfcd45c0ea5085a05e6f56f5eff5f406384305652cdbd2ab1f29a156c8
+    claim_hash: 8a5d7402b2a121670fdd2ae5b737a84efe72fa8d9ff6eb9a866d0eb85e4025c9
     content: Nick Pope and his superiors in the Ministry of Defence were flummoxed by the highly credible witness accounts
       of solid craft hovering over RAF Cosford and RAF Shawbury, and it was all declared a complete unknown.
     original_excerpt: As Nick Pope told me, he and his superiors in the air force were flummoxed by these highly credible
@@ -421,13 +476,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.865
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 174ff35a-f848-487c-9985-31b6b159ebad
+        title: RAF Shawbury UAP Sighting 1993
+        slug: raf-shawbury-uap-sighting-1993
+      - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
+        title: RAF Cosford UAP Sighting 1993
+        slug: raf-cosford-uap-sighting-1993
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch13:6906-7103
@@ -437,12 +500,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: cde2f32b-a662-4f6f-ac8f-5252ba909700
-    claim_hash: 235d1dd5100316d1c3e0ee166b7daece677945fdd573d376cf1160d5533ed4a9
+    claim_hash: ead8292fc76e6a39ab3c440f970c796203f7ebb8654b86445dedc076221a372c
     content: Nick Pope said he had to publicly maintain the party line that UFOs are of no defence significance while at the
       Ministry of Defence, but knew that was nonsense.
     original_excerpt: '''When I was doing that job, I had to come out with this party line that UFOs are of no defence significance
@@ -458,11 +521,16 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ebfeea63-bb6d-4fa3-a1e9-35b5a2c33b7f
+      - node_id: c9a04514-70af-422b-b625-86f8bdf6b9e0
         title: UK Ministry of Defence
         slug: uk-ministry-of-defence
     date: null
@@ -474,12 +542,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b8486f0b-279c-40cc-8093-7b6b393ce6fc
-    claim_hash: cf6cc0d694432e89f2a3fe3cec4f757c5d163033006cfa15fc58a2c7928d943e
+    claim_hash: 1ffc81fc6916a80fe362af0d0473eb4c48da633b806feaf5e960ba2ecc820fd6
     content: Nick Pope considers UFOs passing directly over military bases with impunity, as in the RAF Cosford and RAF Shawbury
       incidents, to be a defence issue.
     original_excerpt: When you have an incident like this with UFOs passing directly over military bases with impunity, it's
@@ -495,13 +563,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 174ff35a-f848-487c-9985-31b6b159ebad
+        title: RAF Shawbury UAP Sighting 1993
+        slug: raf-shawbury-uap-sighting-1993
+      - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
+        title: RAF Cosford UAP Sighting 1993
+        slug: raf-cosford-uap-sighting-1993
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch13:7268-7391
@@ -511,12 +587,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: eb2866b7-5110-4f22-a29a-ee91cf1f3f57
-    claim_hash: 1c830b54a1f08a86e2f0c3cc58f2c3683a0f5defe28a15cfad10f8f29134c8fa
+    claim_hash: 8f63862668d3fe40af5222a381c20d27b66b8a6b78d017ecf808f37a6a7caa34
     content: Nick Pope has no doubt in his mind whatsoever that the witnesses of the 1993 RAF Cosford and RAF Shawbury UAP
       sightings saw something real and solid.
     original_excerpt: I've got no doubt in my mind whatsoever these witnesses saw something real and solid. You can take it
@@ -532,13 +608,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 174ff35a-f848-487c-9985-31b6b159ebad
+        title: RAF Shawbury UAP Sighting 1993
+        slug: raf-shawbury-uap-sighting-1993
+      - node_id: 556b7bc5-ebb4-4927-92dc-b5f07e03cf9c
+        title: RAF Cosford UAP Sighting 1993
+        slug: raf-cosford-uap-sighting-1993
       - node_id: 7955b61c-1b1b-4da6-b19c-c9d0d79944d7
         title: Nick Pope
         slug: nick-pope
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: null
     date_end: null
     location_in_record: ch13:7398-7533
@@ -548,7 +632,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -569,6 +653,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.944
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0afc1d4e-dcb2-47c0-95a1-65220ab59f26
         title: The X-Files (TV series)
@@ -612,6 +701,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 75139190-9d0c-47b6-b969-e905f864c633
         title: United Kingdom
@@ -649,6 +743,11 @@ claims:
         - Chris Ramsay
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.578
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 75139190-9d0c-47b6-b969-e905f864c633
         title: United Kingdom

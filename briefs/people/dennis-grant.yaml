@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3059edbb7bb00d2f48acb42c999b3fc4f901160dd0845b5c5afc8a23f5d92eea
+brief_hash: 323e0dda8ef8cda01f568c93dbe84ae10326fe52aba1f52f296d4384e3b6b919
 page:
   kind: entity
   node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
@@ -9,11 +9,21 @@ page:
   claim_count: 19
   claim_count_total: 19
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 19
   tokens_estimated: 2538
   sized_against: 1050000
+entailment:
+  assessed: 19
+  unassessed: 0
+  entails: 3
+  neutral: 16
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.158
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,10 +33,10 @@ belonging:
   suspect_excluded: 0
   unreviewed: 19
 related_nodes:
-  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-    title: Kaikoura UAP Sighting
+  - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+    title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: kaikoura-uap-sighting
+    slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 13
   - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
     title: New Zealand, Wellington
@@ -90,6 +100,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.846
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: dea6e499-868a-4365-a7e4-04a18a215554
         title: Quentin Fogarty
@@ -106,12 +121,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: fb87036f-461b-4972-8b10-30ef64c09388
-    claim_hash: b03928481641fe56948711b9f521883608e686da1a53c726999ea15f7e7ead54
+    claim_hash: 8cddb661f4451d29ce82a545c3dcf897d5d7bd982675fd6eeb5ba89883d6c404
     content: The ridicule directed at Quentin Fogarty after the Royal New Zealand Air Force's finding on the 1978 Kaikoura
       UAP sighting took a toll on his career.
     original_excerpt: his long-time friend and colleague Dennis Grant told me the ridicule directed at Fogarty after the air
@@ -127,16 +142,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: dea6e499-868a-4365-a7e4-04a18a215554
         title: Quentin Fogarty
         slug: quentin-fogarty
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:4576-4714
@@ -146,12 +166,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 4d747b0c-8089-4ba2-8b6d-92fce8f939eb
-    claim_hash: 12bd189b2263019fd9fb30edf2504607b3e0d8d71ba5a7abc605e2c07e61ddd0
+    claim_hash: da411b3640095f2fb499db8301c975a397c6a349a35901bbd91190cf1dbdaafd
     content: Dennis Grant considers that one of the many failures of the 1978 Kaikoura UAP sighting case was universal media
       scepticism when more rigour was justified.
     original_excerpt: '''One of the many failures was universal media scepticism when more rigour was justified in this case.
@@ -167,16 +187,21 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: dea6e499-868a-4365-a7e4-04a18a215554
         title: Quentin Fogarty
         slug: quentin-fogarty
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:4809-4993
@@ -186,7 +211,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -205,6 +230,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
         title: Australia, Victoria, Melbourne
@@ -221,12 +251,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 55a13b37-209c-4914-aa16-7480ed27363c
-    claim_hash: 52c585e83d963b175fa6ecce1fbd705d0c0297536d787f9b3121cb3795c620c9
+    claim_hash: 8815841d6f2d7399240c87595b09bb4a5d4e99ad95ae8ad07446660b54931161
     content: Dennis Grant joined Quentin Fogarty on the Argosy aircraft's return trip from Christchurch to Blenheim on the
       night of the 1978 Kaikoura UAP sighting and saw the objects.
     original_excerpt: He joined Fogarty on the Argosy plane's return trip from Christchurch to Blenheim that December 1978
@@ -242,7 +272,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: dea6e499-868a-4365-a7e4-04a18a215554
         title: Quentin Fogarty
         slug: quentin-fogarty
@@ -252,9 +290,6 @@ claims:
       - node_id: e7fe2fbf-cd70-46ef-ba18-dc6c1d66e10a
         title: Argosy aircraft
         slug: argosy-aircraft
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:5159-5278
@@ -264,12 +299,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 07fd7052-8e72-435f-afbb-f5b3612dc438
-    claim_hash: 158c8dc0dfc6dec46655df8d89142afc811f9216e5c70c04ccc3f37b9f57359c
+    claim_hash: af63bb69f5aeee72e5649e06f4e6c863ab5374d60777a1d2871cfc9b0a6f4337
     content: Dennis Grant considers the 1978 Kaikoura UAP sighting the most intriguing and strange story he has ever worked
       on.
     original_excerpt: '''It still remains the most intriguing and strange story I have ever worked on,'' Grant tells me.'
@@ -284,13 +319,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:5288-5379
@@ -300,12 +340,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e71cb5df-a355-4acd-b892-7f7c05ac94f4
-    claim_hash: b4bdfbf873d13ac51a147167b16dd0bd0efb164465817ca1b016991e869cac8e
+    claim_hash: 36dc59ac9aa312472a764d4f1affba20c2d6a94fc2f7132d4fd249296325bee4
     content: Dennis Grant did not see the planet Venus during the 1978 Kaikoura UAP sighting; Venus was at an entirely wrong
       angle to where they were looking.
     original_excerpt: We didn't see Venus, which is what the air force suggested. Venus was at an entirely wrong angle to
@@ -321,13 +361,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:5438-5552
@@ -337,12 +382,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 70bb3f2f-4d3f-458e-92e2-3d7b24483201
-    claim_hash: 147cc7456669ae4520af94dd7ccd7874ca7167d63ceee6ecfab0784329332757
+    claim_hash: 989c56b7600f5121df2891840e917f06624693b4492db7bceedc6e25f0a36982
     content: Dennis Grant was the only person on board the aircraft that night during the 1978 Kaikoura UAP sighting to keep
       contemporaneous notes.
     original_excerpt: Dennis Grant was the only person on board the plane that night to keep contemporaneous notes.
@@ -357,13 +402,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:5636-5723
@@ -373,12 +423,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 73543a0c-a0b9-467c-b841-313fa52d634d
-    claim_hash: ef53e069742a9738fbe4ef90f58a7ebbb2bccee5f1f570d89fda68fc80fe8282
+    claim_hash: d69caaafa519e47b7b52dc0ce486011fb9574e1cfbd9cf6ad26282f23aaba876
     content: During the 1978 Kaikoura UAP sighting, the glowing orbs witnessed moving around the aircraft were frequently
       and simultaneously tracked on both Wellington radar and the aircraft's own radar.
     original_excerpt: What struck him the most was that, frequently during the flight, the strange glowing orbs they all witnessed
@@ -394,16 +444,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
         slug: wellington-new-zealand
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:5730-5937
@@ -413,12 +468,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6c0d6f6f-1877-436d-ae7d-4319befabbbf
-    claim_hash: ec31e5418c757815acf8cec1d5f0190e19b806abb10d327fdb5b361c9721e687
+    claim_hash: 227edeec88a38d2288a648665403db420db3405cb3c665c1f5931cb4a1d83e6a
     content: During the 1978 Kaikoura UAP sighting, when the aircraft crew reported where they could see an object, Wellington
       radar was simultaneously tracking it across Cook Strait on their equipment.
     original_excerpt: '''We were listening in to the conversation with Wellington radar and when we said where we could see
@@ -434,16 +489,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
         slug: wellington-new-zealand
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:5945-6126
@@ -453,12 +513,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 64ab26d9-c16b-402e-82ee-b6673efe505f
-    claim_hash: 24363e52cc3a51b20bf4bca011d5093d547d704654b02ecbdca20eb3f78d7b23
+    claim_hash: 1db7393d5545d33bd3bdfda195ef65a7f235b57fb41082175cc545df909d95ef
     content: Dennis Grant and other witnesses during the 1978 Kaikoura UAP sighting were close enough to the orbs at times
       to see their light reflected on the ocean below.
     original_excerpt: Grant also says they were close enough to the orbs at times to see their light reflected on the ocean
@@ -475,13 +535,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6131-6363
@@ -491,12 +556,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: f164cffb-1c5a-4e09-8a11-c92050c6e487
-    claim_hash: 58788fcdfe87718c7130e063719dd8248dc13770063c5019a0650bd8c6d77b85
+    claim_hash: d00d4240cb2526660f643880a1e9d0ab5ea27ff591f7f17c3abd8cd4ef827b62
     content: During the 1978 Kaikoura UAP sighting, the objects were lit internally, with some clearly circular and others
       elongated in shape.
     original_excerpt: He said the objects were lit internally; some were clearly circular but others were elongated.
@@ -511,13 +576,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6371-6455
@@ -527,12 +597,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: e53cc03d-5ecf-43c1-98ce-1ab2b353cb04
-    claim_hash: b054b6f143b8231d6d5395641f47055f6a2aa79686dae1aa937f9cae352f4b8e
+    claim_hash: d8229a0c0d9f1064a96995f95969141aff87b0468f4c104084474faa42b2924a
     content: Dennis Grant considers there must have been some sort of dimension and solidity to the objects seen during the
       1978 Kaikoura UAP sighting because they were picked up by radar as they were being watched.
     original_excerpt: '''There must have been some sort of dimension, a solidity, to them because they were picked up by the
@@ -548,13 +618,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6467-6613
@@ -564,12 +639,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 01c7132e-75c6-4525-a477-1e4dc2e0523c
-    claim_hash: e08d4d8fdb2f6e236a62ab7015cdebf073d9ec3f6bed6c1175cceb0ad6babc62
+    claim_hash: 210875581cda97eb9238af66b58f7dd944bf89d8f5b9e378ee06178d09f52b15
     content: During the 1978 Kaikoura UAP sighting, the aircraft was also in communication with Christchurch air traffic control
       in the South Island as well as Wellington in the North Island.
     original_excerpt: he recalled that the plane was also in communication with Christchurch air traffic control in the South
@@ -585,16 +660,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington
         slug: wellington-new-zealand
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6641-6788
@@ -604,12 +684,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 0adcaaaf-b4e5-474d-865b-5e4fec53677c
-    claim_hash: c43cb4d57768e82961bf602f2a3b843130fbc917cff03364730afd6218a4f1da
+    claim_hash: 6b1ecfcaeb8e84d525198b95b7dc4a7b3b7bf106e5c3023d2e0276c765ad0fad
     content: The audio tapes of the Christchurch radio exchanges from the night of the 1978 Kaikoura UAP sighting were lost
       within a few days of the incident.
     original_excerpt: he learned the audio tapes of the Christchurch radio exchanges were lost within a few days of the incident.
@@ -624,13 +704,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6800-6898
@@ -640,12 +725,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: b1704f99-8d36-4d4c-98b9-6fd61ee5a8ae
-    claim_hash: 11d8e59599d605a6ea48c6539dfbf0889163e39bf6aa2c913446ea9434b76595
+    claim_hash: 9e32a2570add8d7db74469589474e7b201e455414cc085f0a1a714c129ebc866
     content: Dennis Grant was not interviewed by Royal New Zealand Air Force investigators about the 1978 Kaikoura UAP sighting.
     original_excerpt: I was not surprised to hear from Grant that he was not interviewed by the Royal New Zealand Air Force
       investigators.
@@ -660,16 +745,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 41d43ef9-532d-45b4-b3c8-1fa0f43b5933
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
         slug: dennis-grant
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:6908-7010
@@ -679,7 +769,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -700,6 +790,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 62234717-6c34-4845-9017-7f9e9fa69df9
         title: Kaikoura Unidentified Flying Object (UFO) film footage
@@ -748,6 +843,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e77dc4a2-da3e-4c1c-8cff-0d52576776d4
         title: Dennis Grant
@@ -784,6 +884,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 58d9897e-c5c4-42e1-96ce-26ced5f411cf
         title: New Zealand, Wellington

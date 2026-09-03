@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: c404165c0d0402a0125dda1a98a23837db927948ba02a5a6f4cbbe961c438a84
+brief_hash: d5f458ae93335eb334c5926a977509dc37aab79763b50067344e48fdf196ff12
 page:
   kind: entity
   node_id: 30940882-37a5-4db5-980d-282dafd2df49
   node_type: topic
   title: Nonhuman intelligence (NHI)
   slug: nonhuman-intelligence-nhi
-  claim_count: 36
-  claim_count_total: 36
+  claim_count: 17
+  claim_count_total: 17
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 36
-  tokens_estimated: 5541
+  claims: 17
+  tokens_estimated: 2577
   sized_against: 1050000
+entailment:
+  assessed: 17
+  unassessed: 0
+  entails: 17
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 7
+  entailed_by_window: 10
+  entailed_by_quote_fraction: 0.412
+  entailed_by_window_fraction: 0.588
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,77 +31,32 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 36
+  unreviewed: 17
 related_nodes:
-  - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-    title: Julia Mossbridge
-    node_type: person
-    slug: julia-mossbridge
-    shared_claims: 6
-  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
-    node_type: topic
-    slug: unidentified-anomalous-phenomena-uap
-    shared_claims: 5
-  - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-    title: Jason Samosa
-    node_type: person
-    slug: jason-samosa
-    shared_claims: 4
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
     node_type: person
     slug: luis-elizondo
     shared_claims: 4
-  - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-    title: Chris Ramsay
-    node_type: person
-    slug: chris-ramsay
-    shared_claims: 3
-  - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-    title: Informational substrate
+  - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+    title: Unidentified Anomalous Phenomena (UAP)
     node_type: topic
-    slug: informational-substrate
-    shared_claims: 3
+    slug: unidentified-anomalous-phenomena-uap
+    shared_claims: 4
   - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    title: Unidentified Anomalous Phenomena Disclosure Act of 2023
     node_type: document
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
+    slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     shared_claims: 3
   - node_id: c2b88bab-7d80-4d6d-a0d6-f237a928b790
     title: 2023-07 Congressional Unidentified Aerial Phenomena (UAP) hearing
     node_type: event
     slug: 2023-07-congressional-unidentified-aerial-phenomena-uap-hearing
     shared_claims: 2
-  - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-    title: Alien abduction
-    node_type: topic
-    slug: alien-abduction
-    shared_claims: 2
-  - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
-    title: Hermann Oberth
-    node_type: person
-    slug: hermann-oberth
-    shared_claims: 2
   - node_id: d047a520-092f-4fe5-935d-ef4eadd7c952
     title: Legacy Program
     node_type: project
     slug: legacy-program
-    shared_claims: 2
-  - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
-    title: Ontological shock
-    node_type: topic
-    slug: ontological-shock
-    shared_claims: 2
-  - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
-    title: Thomas Townsend Brown
-    node_type: person
-    slug: thomas-townsend-brown
-    shared_claims: 2
-  - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-    title: Unidentified Flying Object (UFO)
-    node_type: topic
-    slug: unidentified-flying-object-ufo
     shared_claims: 2
   - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
     title: Central Intelligence Agency (CIA)
@@ -103,40 +68,10 @@ related_nodes:
     node_type: person
     slug: chuck-schumer
     shared_claims: 1
-  - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
-    title: Contact in the Desert
-    node_type: event
-    slug: contact-in-the-desert
-    shared_claims: 1
-  - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-    title: Dwight D. Eisenhower
-    node_type: person
-    slug: dwight-d-eisenhower
-    shared_claims: 1
-  - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-    title: George Adamski
-    node_type: person
-    slug: george-adamski
-    shared_claims: 1
   - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
     title: Harold E. Puthoff
     node_type: person
     slug: harold-e-puthoff
-    shared_claims: 1
-  - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-    title: Human-alien hybridization
-    node_type: topic
-    slug: human-alien-hybridization
-    shared_claims: 1
-  - node_id: 17cea78e-2ae0-4307-b7b4-05f4ae24f543
-    title: Iraq War
-    node_type: event
-    slug: iraq-war
-    shared_claims: 1
-  - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-    title: Jesse Mitchells
-    node_type: person
-    slug: jesse-mitchells
     shared_claims: 1
   - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
     title: Jim Semivan
@@ -148,11 +83,6 @@ related_nodes:
     node_type: organisation
     slug: national-security-archive
     shared_claims: 1
-  - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-    title: Out-of-Body Experience (OBE)
-    node_type: topic
-    slug: out-of-body-experience-obe
-    shared_claims: 1
   - node_id: 3690087e-5e65-4693-8b72-f144d9963dd5
     title: Richard Nixon
     node_type: person
@@ -163,19 +93,24 @@ related_nodes:
     node_type: event
     slug: roswell-incident-1947
     shared_claims: 1
-  - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
-    title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
-    node_type: organisation
-    slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
+  - node_id: c2161b8f-ab11-449c-8521-174024cb0552
+    title: USA, Washington DC, Pentagon
+    node_type: place
+    slug: washington-dc-pentagon-usa
     shared_claims: 1
-  - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-    title: Tom DeLonge
-    node_type: person
-    slug: tom-delonge
+  - node_id: 501412f8-f77e-40f4-926b-18142d005cd4
+    title: Unidentified Aerial Phenomena Task Force (UAPTF)
+    node_type: project
+    slug: unidentified-aerial-phenomena-task-force-uaptf
+    shared_claims: 1
+  - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+    title: United States Congress
+    node_type: organisation
+    slug: united-states-congress
     shared_claims: 1
 claims:
   - claim_id: 7d33d7a2-94cd-4fe1-8625-2d07866d6d96
-    claim_hash: ba8d9dab37a7d6d19310eee5ba1a0e4985efd8209b43dc34faebc79bce001b36
+    claim_hash: 10d2d8acb6f40f332425c293b55bc2dfde8791857c857fe634d2513f3fd0b4b5
     content: Harold Puthoff told Luis Elizondo that four deceased nonhuman bodies were recovered from the 1947 Roswell UAP
       crash.
     original_excerpt: Hal went on to tell me something else that truly blew my mind. Four deceased nonhuman bodies were in
@@ -191,6 +126,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.577
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -210,7 +150,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -235,6 +175,11 @@ claims:
         - several senior officials
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.689
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -254,7 +199,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -275,6 +220,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -291,7 +241,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -312,6 +262,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.532
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -328,7 +283,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -349,6 +304,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.931
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -368,7 +328,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -389,6 +349,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.963
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -405,7 +370,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -427,6 +392,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.605
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -443,7 +413,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -460,6 +430,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -476,7 +451,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -494,6 +469,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.499
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -510,7 +490,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -533,13 +513,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.847
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
         slug: nonhuman-intelligence-nhi
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:4529-4775
@@ -549,7 +534,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -573,6 +558,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.937
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -584,8 +574,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:4967-5333
@@ -595,7 +585,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -616,6 +606,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 21c03772-b277-4f24-9f35-27aa5b3b5d7a
         title: Chuck Schumer
@@ -632,7 +627,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -653,6 +648,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.602
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -661,8 +661,8 @@ claims:
         title: National Security Archive
         slug: national-security-archive
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:7492-7657
@@ -672,7 +672,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -692,6 +692,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c8b4d30-0305-4694-8008-7eab18bc4996
         title: Jim Semivan
@@ -708,7 +713,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -727,6 +732,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -743,7 +753,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -764,6 +774,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -783,7 +798,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -804,6 +819,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 30940882-37a5-4db5-980d-282dafd2df49
         title: Nonhuman intelligence (NHI)
@@ -823,776 +843,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
-  - claim_id: 7b1683b3-02be-4d7e-b82b-fa9b8fac09a1
-    claim_hash: e14bcfc6eb82a1979ebdb1aaf27c096d6e7e3ce68dc5c4e2395633ec547f8760
-    content: Jesse Michels is sympathetic to the idea that humanity exists within a control system and that UFOs might be
-      von Neumann replicator envoys of a larger intelligence.
-    original_excerpt: I'm sympathetic to ideas like that, that we're in some sort of control system or something. And, uh,
-      these might be von Neumann replicator envoys or something of some like larger intelligence.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-      title: Jesse Mitchells
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jesse Michels
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-        title: Jesse Mitchells
-        slug: jesse-mitchells
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: bd204df6-8fcd-44db-b5dc-371b1d62c6ff
-        title: Von Neumann probe
-        slug: von-neumann-probe
-    date: null
-    date_end: null
-    location_in_record: 01:03:05.6-01:03:19.0
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: e0a87107-6a02-4923-ac6b-63fc61b1909c
-    claim_hash: d61f1bf19ab4cf726abb80a5d0d1759a54898c9502a81365b8b56551c17624fa
-    content: Thomas Townsend Brown appears to have been inspired by so-called space brothers, that is non-human intelligences.
-    original_excerpt: And it seems like he was inspired by quote unquote, space brothers.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-      title: Jesse Mitchells
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jesse Michels
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
-        title: Thomas Townsend Brown
-        slug: thomas-townsend-brown
-    date: null
-    date_end: null
-    location_in_record: 01:10:00.8-01:10:03.4
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: e0d704bd-9a0f-4902-8172-08741fc1e13b
-    claim_hash: 4152b6ac7e4c594042158490c7eed57b9d92d6033f2547f8cec65675b1d50c00
-    content: Thomas Townsend Brown claimed he was communicating with aliens much of the time.
-    original_excerpt: No, he's claimed he was like kind of communicating with aliens half the time
-    claim_type: hearsay
-    attestation: second_hand
-    speaker:
-      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-      title: Jesse Mitchells
-    provenance_chain:
-      origin_kind: named
-      origin: Thomas Townsend Brown
-      relay:
-        - Jesse Michels
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: caf1c89f-4922-48c6-8cae-f8f0cbd45a7a
-        title: Thomas Townsend Brown
-        slug: thomas-townsend-brown
-    date: null
-    date_end: null
-    location_in_record: 01:10:55.6-01:10:58.9
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: 75b38262-d8c8-4a84-891b-d29cd377efc9
-    claim_hash: 3434c9c4d89ba67a890ec378ed302cb7f276c0df61883ccebf5d900a43531d90
-    content: Hermann Oberth respected the beings riding in UFOs.
-    original_excerpt: But Dr. Oberth truly respected the beings actually riding in UFOs.
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: an unidentified speaker in an inserted archival clip
-      relay:
-        - an archival recording played in the video
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-        title: Unidentified Flying Object (UFO)
-        slug: unidentified-flying-object-ufo
-      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
-        title: Hermann Oberth
-        slug: hermann-oberth
-    date: null
-    date_end: null
-    location_in_record: 01:11:56.0-01:12:01.1
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: ac0a636a-dd6c-4f22-89ce-6cba067e8cf7
-    claim_hash: 486a1349a6d52b469f7ec6c1f745de19c6cafb3f24bc379ac9c4cf679874c362
-    content: Jason Samosa considers human-alien hybridisation a late-stage disclosure topic and possibly too dangerous to
-      discuss at all, because the ability to breed with non-human entities would imply humans are related to them and would
-      destabilise religion.
-    original_excerpt: you begin to realize why it would be at the very least a late stage topic. And then you might even realize
-      maybe it's too dangerous to even talk about it... if we can breed with non-human entities, does that mean that we're
-      related?... now you're destabilizing religion as well.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-      title: Jason Samosa
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jason Samosa
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 3577713c-b79b-4e25-9c24-d83f45c7555d
-        title: Human-alien hybridization
-        slug: human-alien-hybridization
-      - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
-        title: Unidentified Flying Object (UFO)
-        slug: unidentified-flying-object-ufo
-      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-        title: Jason Samosa
-        slug: jason-samosa
-    date: null
-    date_end: null
-    location_in_record: 02:09:32.4-02:09:51.1
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: a030c13c-7a54-4dce-b375-1007da26cc51
-    claim_hash: a3bedb554f99063df9cc6435a3ecc32aa537a4d416c53fc33f5bdd208970f4a0
-    content: In early interviews, before his advisors were publicly known, Tom DeLonge suggested that some actions taken in
-      the Iraq War may have been related to certain groups there connected with non-human entities and helping them proliferate,
-      and that this may have been one of the motivations for the war.
-    original_excerpt: DeLonge, again, like early interviews before anyone knew whose advisors were, he was talking about how
-      some of the things that we did in Iraq may have been related to certain groups of people there who were connected with
-      certain non-human entities and were helping them proliferate. And that that may have been one of the motivations
-    claim_type: hearsay
-    attestation: second_hand
-    speaker:
-      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-      title: Jason Samosa
-    provenance_chain:
-      origin_kind: named
-      origin: Tom DeLonge
-      relay:
-        - Jason Samosa
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 17cea78e-2ae0-4307-b7b4-05f4ae24f543
-        title: Iraq War
-        slug: iraq-war
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
-        title: Tom DeLonge
-        slug: tom-delonge
-      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-        title: Jason Samosa
-        slug: jason-samosa
-    date: null
-    date_end: null
-    location_in_record: 02:15:34.3-02:15:51.2
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: 41d80304-cda9-4fc7-b466-b7de1ed6295f
-    claim_hash: ce9b5c0bc3b965743a60541a1466c2cc970c05daf084b2919b235f92f1fe891b
-    content: Hermann Oberth claimed that a relationship existed with non-human beings.
-    original_excerpt: we talked about a Hermann, I forget his name, the German guy, the Nazi guy who claimed that they had
-      a relationship. Hermann Oberth?
-    claim_type: hearsay
-    attestation: second_hand
-    speaker:
-      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-      title: Jason Samosa
-    provenance_chain:
-      origin_kind: named
-      origin: Hermann Oberth
-      relay:
-        - Jason Samosa
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
-        title: Hermann Oberth
-        slug: hermann-oberth
-      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-        title: Jason Samosa
-        slug: jason-samosa
-    date: null
-    date_end: null
-    location_in_record: 02:16:59.5-02:17:05.6
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: 83d59f0d-d276-4a24-b2e6-8ad18d81e8ab
-    claim_hash: c694d1fd2e66a425f160327770284627d18d9d57a4d97bdb6019bc7b89c14c9a
-    content: Jason Samosa considers a relationship between humans and non-human beings the key epistemic foundation for understanding
-      geopolitics, and holds that such a relationship would inevitably affect geopolitics.
-    original_excerpt: you're telling me we have a relationship and that's not impacting our geopolitics? I think it's probably
-      the key epistemic foundation that we would have to understand what's going on.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-      title: Jason Samosa
-    provenance_chain:
-      origin_kind: speaker
-      origin: Jason Samosa
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
-        title: Jason Samosa
-        slug: jason-samosa
-    date: null
-    date_end: null
-    location_in_record: 02:17:13.3-02:17:21.8
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: 00d0e6f0-8b98-4385-93c2-8cc0560ffdb6
-    claim_hash: 401470c2bae4ee0db49a71f08cf24dc47fb95904642b8f0c79480047802e0ec2
-    content: Dwight D. Eisenhower is rumoured to have made a deal with aliens in 1954 permitting medical experiments to be
-      carried out on the human population.
-    original_excerpt: Eisenhower is rumored to, you know, do his deal with the aliens around allowing medical experiments
-      to be done among the human population.
-    claim_type: hearsay
-    attestation: null
-    speaker:
-      node_id: 079d4381-4273-418b-bc9a-468623f95c6e
-      title: Jesse Mitchells
-    provenance_chain:
-      origin_kind: unattributed
-      origin: unattributed rumour circulating in UFO lore, relayed by Jesse Michels
-      relay:
-        - Jesse Michels
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: bfd491e5-8e60-456c-bb6c-da2fb39d96f0
-        title: USA, California, Edwards Air Force Base
-        slug: california-edwards-air-force-base-usa
-      - node_id: f175f6db-6c31-49bc-9ca8-0e4487fd7d39
-        title: Dwight D. Eisenhower
-        slug: dwight-d-eisenhower
-    date: '1954'
-    date_end: null
-    location_in_record: 02:23:59.6-02:24:07.6
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 64b84f95-238c-4ab7-a678-bee55f985b14
-      record_title: The UFO Cover-Up Leads to One Secret Society — and One Final Event
-      record_date: '2026-07-14'
-      record_reference: https://www.youtube.com/watch?v=kccrkCGGzX4
-      content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
-      friendly_name: null
-  - claim_id: f06a7fd1-f380-46f5-83c0-f4e7673a83dd
-    claim_hash: 463134caa42d62f6ff954a8410ddfd646ecdb8f845b3532dee84997eb023c353
-    content: Julia Mossbridge considers that because humans have not conceived of consciousness-based capabilities, they also
-      fail to assume non-human intelligence (NHI) might possess them.
-    original_excerpt: we're not going to assume that another species or NHI or whatever you want to call aliens, we're not
-      going to assume that they have that capacity because we haven't thought of it yet.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-        title: Julia Mossbridge
-        slug: julia-mossbridge
-    date: null
-    date_end: null
-    location_in_record: 00:07:17.0-00:07:26.8
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 46b4aeed-c1bf-4f6c-a602-04048c7d1558
-    claim_hash: 407a0f920f623e1536e88373a1e5d64a691dcd0216677f7529980e31970a6df4
-    content: Sovereignty over one's own mind in the presence of non-human intelligence was one of the topics discussed on
-      a panel Julia Mossbridge took part in at Contact in the Desert.
-    original_excerpt: there is this idea of sovereignty. That's one of the things we were talking about at that conference...
-      Contact in the desert in this panel. And there's this idea of like, well, even if there are an NHI, if there's aliens,
-      how can we be sovereign over our own minds?
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-        title: Julia Mossbridge
-        slug: julia-mossbridge
-      - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
-        title: Contact in the Desert
-        slug: contact-in-the-desert
-    date: null
-    date_end: null
-    location_in_record: 00:48:11.8-00:48:27.0
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 9a9933ff-a37b-40ce-a2ca-6cba5d772771
-    claim_hash: a96b5331ee01c79cd267e66fd17e320fc6b8f5c1a2e2becf109271f02ccba152
-    content: Part of the concern among people worried about ontological shock is the discovery that aliens are carrying out
-      mind control.
-    original_excerpt: there's a little concern in this ontological shock that the people who are worried about ontological
-      shock that will discover that, you know, aliens are doing mind control.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
-        title: Ontological shock
-        slug: ontological-shock
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-        title: Julia Mossbridge
-        slug: julia-mossbridge
-    date: null
-    date_end: null
-    location_in_record: 00:49:08.0-00:49:15.0
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 13456444-0c2b-42a2-8d91-691d5a61a477
-    claim_hash: e6f451c12426c26eaf4a50122808b0270a9dfab2972b61a4b228fc562385e30c
-    content: Julia Mossbridge regards it as immaterial to the question of mental control whether influence over the mind comes
-      from aliens or from one's own subconscious, since a person has no control over either.
-    original_excerpt: I was like, kind of, does it matter whether it's aliens or you're subconscious? You still don't have
-      any control over
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 16ac4918-5f86-4a22-8f9a-84c0ad2a1d63
-        title: Ontological shock
-        slug: ontological-shock
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-        title: Julia Mossbridge
-        slug: julia-mossbridge
-    date: null
-    date_end: null
-    location_in_record: 00:49:15.3-00:49:20.6
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 158c07c9-64d7-4503-9d83-e23fd54c5ea9
-    claim_hash: 7c1f242d048aef44ae17ab7ff60335447868d709280ef0e582e3b304ac89b2da
-    content: Chris Ramsay describes reported alien encounters, including with Nordic-type beings described by George Adamski,
-      with mantis-like insectoid beings and with greys, as consistently accompanied by a sense of familiarity, love, compassion
-      and calm and an impression that the beings mean the witness no harm.
-    original_excerpt: whether you're talking about like the, the sort of blonde, you know, uh, blue-eyed, blajaran, Nordic
-      ... George Adamski spoke about ... whether they're these insect mantis looking creatures or whether it's the greys or
-      whatever, but they always feel flooded with this sense of a familiarity, but then the sense of love and compassion,
-      like they mean you no harm.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-      title: Chris Ramsay
-    provenance_chain:
-      origin_kind: speaker
-      origin: Chris Ramsay
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 149ef809-ade7-4aa1-979c-c9d94e869484
-        title: George Adamski
-        slug: george-adamski
-      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-        title: Chris Ramsay
-        slug: chris-ramsay
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: Alien abduction
-        slug: alien-abduction
-    date: null
-    date_end: null
-    location_in_record: 01:03:17.3-01:03:43.2
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: a80a0b03-7374-4510-b8a8-74bd1f552229
-    claim_hash: ab28f1651fbdc4d12cff2df1f4dad6e11cd3a1b1fe134e73f1de4c5489e3f88c
-    content: Chris Ramsay proposes that non-human intelligences communicate with humans by way of their access to the informational
-      substrate, which for them is a natural mode of communication.
-    original_excerpt: do you think like hypothetically, like that's what they're also using to communicate is they just have
-      access to that substrate and for them to communicate, it's just like a natural, more.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-      title: Chris Ramsay
-    provenance_chain:
-      origin_kind: speaker
-      origin: Chris Ramsay
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-        title: Chris Ramsay
-        slug: chris-ramsay
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: Informational substrate
-        slug: informational-substrate
-    date: null
-    date_end: null
-    location_in_record: 01:03:49.6-01:04:00.9
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 0d37db19-edc6-4f12-aae7-225af80a820a
-    claim_hash: c47841757ea224fc700588d8f94548f5faf596744ff9a74a6e67d3448ef849a2
-    content: Julia Mossbridge considers that a sufficiently sophisticated culture would have no interest in war, regarding
-      war as primitive, and would instead be aware of interdependence, of consciousness being everywhere, and of the informational
-      substrate underlain by love.
-    original_excerpt: if you actually are a sophisticated enough culture, you're not interested in war. Like war is so primitive.
-      It's just not interesting. You're aware that we're all interdependent. You're aware that consciousness is everywhere.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: Informational substrate
-        slug: informational-substrate
-      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-        title: Julia Mossbridge
-        slug: julia-mossbridge
-      - node_id: 8f0329c5-501b-44ce-bf71-23a45a1b4d9b
-        title: Unconditional love
-        slug: unconditional-love
-    date: null
-    date_end: null
-    location_in_record: 01:06:06.9-01:06:19.7
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 77fc8b03-4693-4d98-8030-2ad1bb637809
-    claim_hash: 443acfa39507061a26e76a1401ec8747ce33565793452ecdf6f2cc7e8c4a9937
-    content: Julia Mossbridge proposes that reported alien visitations may be memories inserted into people's minds by an
-      agent that understands the informational substrate, rather than events that physically happened.
-    original_excerpt: that speaks to alien visitations where people just have these things potentially inserted into their
-      mind that didn't actually physically happen but they're insertions because if you understand the informational substrate
-      you can do those insertions
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 425bc3c7-e4ce-451d-9c0a-fc3de2f415cd
-        title: Informational substrate
-        slug: informational-substrate
-      - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-        title: Julia Mossbridge
-        slug: julia-mossbridge
-      - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
-        title: Alien abduction
-        slug: alien-abduction
-    date: null
-    date_end: null
-    location_in_record: 01:09:21.5-01:09:32.9
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 91f6a95d-e611-43dd-a34a-88f836e9611d
-    claim_hash: b605c219d9b1c483641bd76c9ffad2aba978f1a32e83cd6b38b30000ba3e22e9
-    content: Chris Ramsay has had no contact experiences with non-human intelligence other than seeing some things in the
-      sky and hearing a female voice during an out-of-body experience.
-    original_excerpt: 'Julia Mossbridge: Do you have any contact experiences? Chris Ramsay: No. No other than, you know, seeing
-      some things in the sky. ... And then that one time throughout the out-of-body experience hearing a female voice.'
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-      title: Chris Ramsay
-    provenance_chain:
-      origin_kind: speaker
-      origin: Chris Ramsay
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
-        title: Chris Ramsay
-        slug: chris-ramsay
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
-        title: Out-of-Body Experience (OBE)
-        slug: out-of-body-experience-obe
-    date: null
-    date_end: null
-    location_in_record: 02:04:35.6-02:04:52.1
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null
-  - claim_id: 10c0e1b2-33d4-41e5-b6d0-4b45acb85317
-    claim_hash: e3b35adc4978020c3d100e2ce7f1dceb52980de39e03bdf615cf848889750930
-    content: The Scientific Coalition for UAP Studies is a group made up mostly of scientists and engineers trying to work
-      out what can be learned about Unidentified Aerial Phenomena and about non-human intelligence.
-    original_excerpt: it's a group of scientists and engineers mostly who are trying to figure out what can we learn about
-      UAP and what's the deal with NHI.
-    claim_type: administrative
-    attestation: first_hand
-    speaker:
-      node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
-      title: Julia Mossbridge
-    provenance_chain:
-      origin_kind: speaker
-      origin: Julia Mossbridge
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: a3c6c31c-1d30-47e3-9dc2-215371969cc6
-        title: Scientific Coalition for Unidentified Aerial Phenomena (UAP) Studies
-        slug: scientific-coalition-for-unidentified-aerial-phenomena-uap-studies
-    date: null
-    date_end: null
-    location_in_record: 02:46:51.9-02:46:59.3
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 43b2873d-8ebe-46aa-9425-a7e273c46e34
-      record_title: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge | ep. 99
-      record_date: '2026-08-14'
-      record_reference: https://www.youtube.com/watch?v=-qt2FYdP_EA
-      content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
-      friendly_name: null

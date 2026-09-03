@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5631c2e66e87d5fb8e2e1c3d62919c9df5672d917fcf35503299a62792f2a714
+brief_hash: a296f246bacdd353f0c6c3f746e5bbffccd174e9d84e464b194e5d4002205f05
 page:
   kind: entity
   node_id: 9a751dc2-c8e9-48f9-a82f-5f530cb5430c
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 811
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.4
+  entailed_by_window_fraction: 0.6
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -94,6 +104,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.547
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3e3d0fe7-a2cf-4e09-ab26-7beca4bece48
         title: NASA Jet Propulsion Laboratory (JPL)
@@ -139,6 +154,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.429
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 91311fa3-e6c9-410e-bb50-6d7c8ac45c51
         title: Mars Climate Orbiter (MCO)
@@ -160,7 +180,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 5aab5b4a-bed0-47e8-8b58-9ab46dced3fa
-    claim_hash: b40b92382ee3689ace95ad74bdb337d2408f300f7d90ab44e9e428e8b9eec3ad
+    claim_hash: c29ac074b107b00d7f2a8560b18dc6faafe290bdacc05e6f878d0e4ca677d663
     content: Rancher W. W. Brazel, the original discoverer of the Roswell debris, was quoted by the Associated Press as being
       "sorry he told about it" and described what he found as tinfoil and other debris.
     original_excerpt: the original discoverer of the device, rancher W. W. Brazel, was quoted by the Associated Press as being
@@ -175,6 +195,11 @@ claims:
         - Associated Press
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1084421d-b68c-43c6-ba69-18d15084e5ec
         title: W. W. Brazel
@@ -213,6 +238,11 @@ claims:
         - Associated Press and CNBC report
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 685735df-78d2-4ab2-970b-05932dcda3db
         title: 2023-02 Yukon cylindrical object shoot-down
@@ -235,7 +265,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -255,6 +285,11 @@ claims:
         - Associated Press
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.67
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3b0c0328-6dfc-4b20-acce-d0f40ec02706
         title: Roger Ramey
@@ -274,7 +309,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight

@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1681
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 9
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 5
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.556
+  entailed_by_window_fraction: 0.444
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -51,7 +61,7 @@ related_nodes:
   - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
     title: Chris
     node_type: person
-    slug: chris
+    slug: chris-c04b2337
     shared_claims: 1
   - node_id: 32d00165-71c5-4ca8-a07c-180914be45c4
     title: Consciousness studies
@@ -89,7 +99,7 @@ related_nodes:
     slug: mediumship
     shared_claims: 1
   - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-    title: Remote Viewing (RV)
+    title: Remote viewing (RV)
     node_type: topic
     slug: remote-viewing-rv
     shared_claims: 1
@@ -135,6 +145,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.422
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a32c6d6-997c-42fe-8985-cb36e7471fb0
         title: Mary Rodwell
@@ -183,6 +198,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 36e396ed-1562-40df-8175-bb6666c1c7b6
         title: Drop-in communicators
@@ -231,6 +251,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.492
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
         title: Clairvoyance
@@ -273,6 +298,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0aed84c4-5861-4d7a-8ca3-4facde7e112f
         title: Lois
@@ -288,7 +318,7 @@ claims:
         slug: loyd-auerbach
       - node_id: c04b2337-90ee-42c1-8f03-c26248a4092f
         title: Chris
-        slug: chris
+        slug: chris-c04b2337
     date: null
     date_end: null
     location_in_record: ch31:31549-31880
@@ -321,6 +351,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1e74fcfd-5ab8-4c0b-b9c4-f3189c773c88
         title: Survival hypothesis
@@ -364,6 +399,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 37977667-bf57-4a8f-beca-cc4ab84f66c4
         title: Stewart Alexander
@@ -399,6 +439,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
         title: Clairvoyance
@@ -431,6 +476,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.544
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 66df6be3-9190-4aa9-9a1c-ef19bb90f070
         title: Living-Agent Psi (LAP) hypothesis
@@ -468,6 +518,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0d4dfba6-a53b-4f23-a2ad-e4c9bea44076
         title: Robert Bigelow
@@ -479,7 +534,7 @@ claims:
         title: Precognition
         slug: precognition
       - node_id: 41c9281c-4a11-4399-b324-a8486a96c766
-        title: Remote Viewing (RV)
+        title: Remote viewing (RV)
         slug: remote-viewing-rv
       - node_id: 931f929f-808d-4b09-975d-94c8c65170cd
         title: Clairvoyance

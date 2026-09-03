@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 1ec9e66313d1d37f20ffc391131bab06479c89af45b69cece855dbe505c48d74
+brief_hash: 213a3f6177d2589050ccb21e9c77b6879f1c7ce002091e10a8384269e88d8517
 page:
   kind: entity
   node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
   node_type: event
   title: 1997 Phoenix Lights
   slug: 1997-phoenix-lights
-  claim_count: 9
-  claim_count_total: 9
+  claim_count: 5
+  claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 9
-  tokens_estimated: 1217
+  claims: 5
+  tokens_estimated: 572
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 1.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,37 +31,17 @@ publication:
 belonging:
   verified: 4
   suspect_excluded: 0
-  unreviewed: 5
+  unreviewed: 1
 related_nodes:
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
     node_type: person
     slug: david-fravor
     shared_claims: 2
-  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-    title: United States Air Force (USAF)
-    node_type: organisation
-    slug: united-states-air-force-usaf
-    shared_claims: 2
-  - node_id: 61fcb875-0985-4128-8cad-444e3d834548
-    title: Air National Guard
-    node_type: organisation
-    slug: air-national-guard
-    shared_claims: 1
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
     title: David Charles Grusch
     node_type: person
     slug: david-charles-grusch
-    shared_claims: 1
-  - node_id: 5e22bb8d-0f1d-4b17-a1cd-fffe71e2e200
-    title: Fife Symington
-    node_type: person
-    slug: fife-symington
-    shared_claims: 1
-  - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-    title: Ross Coulthart
-    node_type: person
-    slug: ross-coulthart
     shared_claims: 1
   - node_id: 02dfdc15-2bec-48cc-b5c2-d0280ca72844
     title: USA, Arizona, Barry M. Goldwater Range
@@ -62,6 +52,11 @@ related_nodes:
     title: USA, Arizona, Luke Air Force Base
     node_type: place
     slug: arizona-luke-air-force-base-usa
+    shared_claims: 1
+  - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+    title: United States Air Force (USAF)
+    node_type: organisation
+    slug: united-states-air-force-usaf
     shared_claims: 1
 claims:
   - claim_id: 69845000-f6c9-48d5-ba9e-226ef49fa0d0
@@ -79,6 +74,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
         title: 1997 Phoenix Lights
@@ -115,6 +115,11 @@ claims:
         - David Fravor relaying the Air Force's public statement
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.932
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -152,6 +157,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
         title: 1997 Phoenix Lights
@@ -172,151 +182,6 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-  - claim_id: a2020484-fca3-488c-8519-49a5b897407f
-    claim_hash: 80ce266266af6b4617a46630ebf42b1bd5b6558badc0d638ac09dd751fe771b4
-    content: Many people who witnessed the 1997 Phoenix Lights perceived the object as a single black triangular or chevron-shaped
-      craft hovering noiselessly in the night sky, with lights in each corner.
-    original_excerpt: Many perceived the object as a single black triangular or chevron-shaped craft hovering noiselessly
-      in the night sky, with lights in each corner.
-    claim_type: testimony
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: verified
-    node_refs:
-      - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
-        title: 1997 Phoenix Lights
-        slug: 1997-phoenix-lights
-    date: null
-    date_end: null
-    location_in_record: ch14:24350-24488
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 95472c68-0a28-4902-9faf-efe9af89b631
-    claim_hash: fae8616fbb32fb3370b806e9443b4558b326327f08265c5d97ccb1ee1201d68d
-    content: The Air National Guard later claimed that the public had seen only high-intensity flares dropped during a training
-      exercise during the 1997 Phoenix Lights sighting.
-    original_excerpt: The Air National Guard later implausibly claimed that all the public had seen were high-intensity flares
-      dropped during a training exercise.
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Air National Guard
-      relay: []
-    attribution_mode: unknown
-    attachment: verified
-    node_refs:
-      - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
-        title: 1997 Phoenix Lights
-        slug: 1997-phoenix-lights
-      - node_id: 61fcb875-0985-4128-8cad-444e3d834548
-        title: Air National Guard
-        slug: air-national-guard
-    date: null
-    date_end: null
-    location_in_record: ch14:24496-24627
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 13e34fef-dc2b-4186-8392-d0e0b1a015ac
-    claim_hash: 497193914af9afad4b6d19b4be2042029f782aed86302b2690520b60ce2225ad
-    content: Arizona Governor Fife Symington said that as a pilot and former air force officer, the craft observed during
-      the 1997 Phoenix Lights sighting did not resemble any man-made object he had ever seen, and that it was not high-altitude
-      flares because flares don't fly in formation.
-    original_excerpt: ‘As a pilot and a former air force officer, I can definitely say that this craft did not resemble any
-      man-made object I’d ever seen. And it was certainly not high-altitude flares because flares don’t fly in formation.’
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: 5e22bb8d-0f1d-4b17-a1cd-fffe71e2e200
-      title: Fife Symington
-    provenance_chain:
-      origin_kind: speaker
-      origin: Fife Symington
-      relay: []
-    attribution_mode: unknown
-    attachment: verified
-    node_refs:
-      - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
-        title: 1997 Phoenix Lights
-        slug: 1997-phoenix-lights
-      - node_id: 5e22bb8d-0f1d-4b17-a1cd-fffe71e2e200
-        title: Fife Symington
-        slug: fife-symington
-    date: null
-    date_end: null
-    location_in_record: ch14:24689-24895
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: ac6322b0-4f1f-4d46-b2a0-bcc869719128
-    claim_hash: 4690c2565bfd7ac5ecd5ea824d46e0ce24677df1d4b91e7a006dd39fb6b6240a
-    content: Ross Coulthart considers the explanations offered by the US military for the 1997 Phoenix Lights sighting to
-      be risible in light of the evidence from a large number of witnesses.
-    original_excerpt: The explanations offered by the US military for the Phoenix sighting are risible in light of the clear
-      evidence from an enormous number of witnesses; flares and a mass delusion do not cut it as an explanation.
-    claim_type: opinion
-    attestation: first_hand
-    speaker:
-      node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-      title: Ross Coulthart
-    provenance_chain:
-      origin_kind: speaker
-      origin: Ross Coulthart
-      relay: []
-    attribution_mode: unknown
-    attachment: verified
-    node_refs:
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
-        title: 1997 Phoenix Lights
-        slug: 1997-phoenix-lights
-      - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
-        title: Ross Coulthart
-        slug: ross-coulthart
-    date: null
-    date_end: null
-    location_in_record: ch14:25399-25596
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 42eece88-1508-4f3e-af13-8489456e4386
     claim_hash: 8e86d44437a598c46318a71751d4bc648d10810c532438b5a6fef482b5600d9a
     content: In 1997, the Phoenix Lights case in the Phoenix Valley area of Arizona was officially explained as a military
@@ -335,6 +200,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02dfdc15-2bec-48cc-b5c2-d0280ca72844
         title: USA, Arizona, Barry M. Goldwater Range
@@ -355,7 +225,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 50d452e3-f295-43d9-ade7-ecc9878d8cde
@@ -374,6 +244,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5a14f91d-37b8-4659-87f7-15501bca4c61
         title: 1997 Phoenix Lights
@@ -391,6 +266,6 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

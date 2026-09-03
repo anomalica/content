@@ -9,11 +9,21 @@ page:
   claim_count: 12
   claim_count_total: 12
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 12
   tokens_estimated: 1308
   sized_against: 1050000
+entailment:
+  assessed: 12
+  unassessed: 0
+  entails: 7
+  neutral: 3
+  contradicts: 2
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.167
+  entailed_by_window_fraction: 0.417
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -71,6 +81,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 31e64dec-5d6d-4389-ae76-dbb418225378
         title: Committee for State Security (KGB)
@@ -112,6 +127,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.665
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -149,6 +169,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.95
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -186,6 +211,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -222,6 +252,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.79
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3a99db97-5bbc-4710-a37a-dd08d103dfd4
         title: Estonia, Tallinn, Merivälja
@@ -258,6 +293,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.414
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e27e23da-63a4-4838-a952-333883df5fd0
         title: Igor Volker
@@ -295,6 +335,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.788
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6d138ed9-1c46-4179-aea4-f2d50f516329
         title: 1985 reburial of the Merivalja shaft
@@ -334,6 +379,11 @@ claims:
         - Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.612
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e27e23da-63a4-4838-a952-333883df5fd0
         title: Igor Volker
@@ -370,6 +420,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
         title: Vormsi Enn
@@ -410,6 +465,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.437
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
         title: Vormsi Enn
@@ -449,6 +509,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.494
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 28321cb0-a2d5-4ac7-9ac3-ada7ff169dcc
         title: Vormsi Enn
@@ -493,6 +558,11 @@ claims:
         - told to Mart Sander
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4275e483-211d-4044-bf02-a9bde770199b
         title: 1991 Japanese investigation of the Merivalja garden

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 1a99250500d6854a71a54dc6ff6c4ec824c9aa3854b8d809055cd0ea250b2ff6
+brief_hash: a54ab316d024923fdb99606386b8e4bcd0ad96eb3306606354a5403f33a2562f
 page:
   kind: entity
   node_id: e98a32b4-349a-4a66-b918-f07622fdace1
@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 13
   tokens_estimated: 1726
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 13
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 11
+  entailed_by_quote_fraction: 0.154
+  entailed_by_window_fraction: 0.846
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -98,7 +108,7 @@ related_nodes:
     node_type: place
     slug: london-uk
     shared_claims: 1
-  - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+  - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
     title: USA
     node_type: place
     slug: usa
@@ -129,6 +139,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -168,6 +183,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.593
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -204,6 +224,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.614
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
         title: Cuba
@@ -228,7 +253,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    claim_hash: 7014a78b74ee9b9e2e75d749ee05e5a66bc89171ebb05248828c4133b2f42353
     content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
       help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
     original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
@@ -242,6 +267,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -287,6 +317,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
         title: Cuban Missile Crisis (1962-10)
@@ -322,6 +357,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -349,7 +389,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: e6588c00-a9e2-4b4c-ae52-9ab8ec5d4657
-    claim_hash: 0522f70d75606f273041870df875d2e1dfba30de406b20504e51fea4c21eb52f
+    claim_hash: 714956df1cf0e6ca5d975a54894ec386c3fe93cc906fd4f57e7ecd5fc293cb3b
     content: On 1962-10-28, Nikita Khrushchev agreed to dismantle the Soviet missiles on Cuba, after extracting a guarantee
       from the United States that it would not invade Cuba.
     original_excerpt: Finally on October 28 Khrushchev agreed to this as well, after extracting a guarantee from the U.S.
@@ -363,11 +403,16 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1fa66dfc-6e67-4838-a828-fcf88d3bdfc0
         title: Nikita Khrushchev
         slug: nikita-khrushchev
-      - node_id: 2e6ef937-4471-457c-b4fa-7e078cf3baf6
+      - node_id: 22317795-bd5d-45e6-b3ec-2988cca70cac
         title: USA
         slug: usa
       - node_id: 37ce5ca9-55f8-466e-86f6-4e80d24247dc
@@ -407,6 +452,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6e230da1-2d10-4a16-920d-3dbc2369e898
         title: Michael Hesemann
@@ -434,7 +484,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: bb204a48-7cf7-4919-972c-1780814d51fd
-    claim_hash: b10f2794b54e717b8c565733fd5d31930a4e5b983ed7b6963b99c8605194d9c7
+    claim_hash: 117703fd676658f0c1be49e3581117096fb53016873827e41699b6e3fa1504d3
     content: The diplomatic version of the Third Secret of Fatima had allegedly been sent by the Vatican to the governments
       of Washington, London, and Moscow during the height of the Cuban Missile Crisis (1962-10) a year before its publication.
     original_excerpt: which had allegedly been sent by the Vatican to the governments of Washington, London, and Moscow during
@@ -448,6 +498,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.435
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 134433ac-c317-4826-9edd-5f732f74521c
         title: UK, London
@@ -497,6 +552,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.554
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06d4e2fc-77bb-4c00-bb30-de3462fb11b1
         title: Second Vatican Council
@@ -535,6 +595,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.85
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: e98a32b4-349a-4a66-b918-f07622fdace1
         title: Cuban Missile Crisis (1962-10)
@@ -570,6 +635,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff85bf3-f9a6-430f-8b43-fb75bee7b8d2
         title: Bulletin of the Atomic Scientists
@@ -610,6 +680,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3ff85bf3-f9a6-430f-8b43-fb75bee7b8d2
         title: Bulletin of the Atomic Scientists

@@ -9,11 +9,21 @@ page:
   claim_count: 20
   claim_count_total: 20
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 20
   tokens_estimated: 3167
   sized_against: 1050000
+entailment:
+  assessed: 20
+  unassessed: 0
+  entails: 18
+  neutral: 0
+  contradicts: 2
+  entailed_by_quote: 10
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.4
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -125,6 +135,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.645
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 11cc2398-fb5f-4a63-9256-7050ea29cfee
         title: September 19, 1961 Betty and Barney Hill interrupted journey and UFO abduction
@@ -171,6 +186,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.925
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -211,6 +231,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -247,6 +272,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -284,6 +314,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.967
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -326,6 +361,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -363,6 +403,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -403,6 +448,11 @@ claims:
         - Olavo Fontes
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -446,6 +496,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.816
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3ff75793-423c-4333-8402-d5c543074091
         title: Bill Chalker
@@ -486,6 +541,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.908
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3c98b2ca-d85a-4935-b38a-3c01e72d5eac
         title: Pheomelanin
@@ -529,6 +589,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3273c059-0835-4596-a5dd-b855dea25555
         title: Credo Mutwa
@@ -566,6 +631,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08069dff-75d9-47df-acd9-045c51e23376
         title: Bill Chalker's 2002 interview with Credo Mutwa
@@ -610,6 +680,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.694
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1b9339d2-39f0-4a42-8691-8b80b6958982
         title: Tuatha de Danann
@@ -654,6 +729,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 22ec2c2f-e04e-4702-92ff-a16bf615a9d3
         title: October 15, 1957 Antonio Villas-Boas abduction
@@ -699,6 +779,11 @@ claims:
         - published case account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2877e738-6dd8-4b18-8ad5-59dbee0d1ee1
         title: 1957 Antonio Villas-Boas encounter, Brazil
@@ -737,6 +822,11 @@ claims:
         - published case account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.493
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2877e738-6dd8-4b18-8ad5-59dbee0d1ee1
         title: 1957 Antonio Villas-Boas encounter, Brazil
@@ -774,6 +864,11 @@ claims:
         - published case account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.468
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2877e738-6dd8-4b18-8ad5-59dbee0d1ee1
         title: 1957 Antonio Villas-Boas encounter, Brazil
@@ -814,6 +909,11 @@ claims:
         - published case account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.518
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2877e738-6dd8-4b18-8ad5-59dbee0d1ee1
         title: 1957 Antonio Villas-Boas encounter, Brazil
@@ -851,6 +951,11 @@ claims:
         - published case account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.836
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2877e738-6dd8-4b18-8ad5-59dbee0d1ee1
         title: 1957 Antonio Villas-Boas encounter, Brazil
@@ -888,6 +993,11 @@ claims:
         - published case account
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.632
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2877e738-6dd8-4b18-8ad5-59dbee0d1ee1
         title: 1957 Antonio Villas-Boas encounter, Brazil

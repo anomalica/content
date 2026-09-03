@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: ab15f4e2ac078cf06926330d5bb5a8fb2bdf18e5685a4590fbff458885d7d414
+brief_hash: 2530d7a8521f96df4996dbba71ee3f4ec1b0fe57d3a352ba3da4ce9acfbe354f
 page:
   kind: entity
   node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 580
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,9 +43,9 @@ related_nodes:
     node_type: person
     slug: ali-bradley
     shared_claims: 1
-  - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-    title: All-domain Anomaly Resolution Office (AARO)
-    node_type: organisation
+  - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+    title: All-Domain Anomaly Resolution Office (AARO)
+    node_type: project
     slug: all-domain-anomaly-resolution-office-aaro
     shared_claims: 1
   - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
@@ -55,7 +65,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: 200dbe20-614e-43ee-89f2-39a5174b6c6d
-    claim_hash: 5396baf01b6aa959f4cc4535225976622e9c10ba9d6dd84fc3c03e8954b25f13
+    claim_hash: 33ab9e8e426af55f004fe7734bf873fb5811b6cb32761f1cc789476a34454e03
     content: In a statement to NewsNation, the United States Department of Defense denied that the All-domain Anomaly Resolution
       Office had uncovered the sort of activity alleged by David Grusch.
     original_excerpt: In a statement to NewsNation, the Department of Defense denied that the Pentagon’s new UFO office has
@@ -72,6 +82,11 @@ claims:
         - a statement to NewsNation
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.417
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
         title: NewsNation
@@ -79,12 +94,12 @@ claims:
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
         slug: united-states-department-of-defense-dod
+      - node_id: bebef0bd-de5a-4c96-a4bf-0efb763c1fd0
+        title: All-Domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
       - node_id: d4241f5a-1063-4970-ba02-5a391c02d96d
         title: David Charles Grusch
         slug: david-charles-grusch
-      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
-        title: All-domain Anomaly Resolution Office (AARO)
-        slug: all-domain-anomaly-resolution-office-aaro
     date: null
     date_end: null
     location_in_record: char:2788-3001
@@ -115,6 +130,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
         title: NewsNation
@@ -150,6 +170,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 68765641-06a8-4801-a75f-9d37075a3b5c
         title: NewsNation
@@ -189,6 +214,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 642b94b4-3874-4145-84a5-ae31cc9d9bc3
         title: Ali Bradley

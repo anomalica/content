@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 45753285cd05e4972ba7b861e18af933ff274de5d0a525f550e4b38fb83549ff
+brief_hash: 4462c07a0dfff003c0029fc9626ae9b65c111b125165571533e5296378e5ca5b
 page:
   kind: entity
   node_id: ede32718-5670-4e5a-97da-13b980b85676
@@ -9,11 +9,21 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 3
   tokens_estimated: 279
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 2
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 1
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -63,6 +73,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a677a1c-da2b-44c6-a50b-ee45fe1e5f1a
         title: Marjorie Fish
@@ -104,6 +119,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.911
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 65058869-076f-47d0-92ea-f8daf08b94cf
         title: Barack Obama
@@ -125,7 +145,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: cee073e3-9d8c-4ace-8239-5dae82abb296
-    claim_hash: 6abcc2e6eed63356b765817d274339e044262b094cd55fcd28af6ed5dca6c054
+    claim_hash: 7f43acc6d1d8a3c423e22e1488275bbf09e0e1b3d8238c816b720a99d7080070
     content: Betty and Barney Hill were the subjects of America's first famous alien abduction case.
     original_excerpt: '[note: Betty and Barney Hill - Subjects of America''s first famous abduction case]'
     claim_type: administrative
@@ -137,6 +157,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98eeed83-96a9-45ef-bb14-cb915d45fc9c
         title: Alien abduction

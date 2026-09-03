@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 3893d1493eadaec595dd59a68eaf3cf79f72f5c506cb561f3b04c015023cb7ef
+brief_hash: 6657178df7b9cfd909f04df9d8cf9069574acaff4bda0fa4429a53b2049242b3
 page:
   kind: entity
   node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 923
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 4
+  neutral: 3
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.429
+  entailed_by_window_fraction: 0.143
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -42,7 +52,7 @@ related_nodes:
     title: William McCasland
     node_type: person
     slug: william-mccasland
-    shared_claims: 2
+    shared_claims: 3
   - node_id: 91c443e8-5105-4f38-8d10-10ba0e24f5c5
     title: Hillary Clinton presidential campaign
     node_type: organisation
@@ -57,11 +67,6 @@ related_nodes:
     title: Milia Fisher
     node_type: person
     slug: milia-fisher
-    shared_claims: 1
-  - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-    title: Neil McCasland
-    node_type: person
-    slug: neil-mccasland
     shared_claims: 1
   - node_id: ef2bb79d-43f0-4dd8-8a98-f100f3269e92
     title: Podesta email leak correspondence with Tom DeLonge
@@ -99,6 +104,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 13dd6341-c313-47b9-b7cd-07f36290876d
         title: Milia Fisher
@@ -130,12 +140,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: af2a5199-eea9-4b16-b522-84f8a0533deb
-    claim_hash: 162d48a1a9408a2ffc0c8c478e11623f0ad5e10c34848a6058d585d6a5b0c0e6
+    claim_hash: ae8509e1998f47fdf4af36d5d53f5d83b8b702a85465da5b4de5f0316d0ad689
     content: The leaked Podesta emails reveal that Tom DeLonge was in contact with one of America's most senior private aerospace
       chief executives, a campaign manager for Hillary Clinton, and two senior recently retired US Air Force generals, and
       that UAP were discussed among them.
@@ -151,13 +161,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
         slug: john-podesta
-      - node_id: 3906876c-b2ac-4c8d-b864-6cb5a02e13b6
-        title: Neil McCasland
-        slug: neil-mccasland
+      - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
+        title: William McCasland
+        slug: william-mccasland
       - node_id: c3938d3d-6d68-4a6d-94db-45321eed124d
         title: Tom DeLonge
         slug: tom-delonge
@@ -176,7 +191,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -195,6 +210,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 619cf545-7418-417a-af4e-9acf7930f3b2
         title: US Air Force Space Command
@@ -214,7 +234,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -231,6 +251,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.76
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cc40c23e-57c0-4a40-b658-13edc499cf25
         title: Michael Carey
@@ -244,7 +269,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -264,6 +289,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 38d071fa-d938-4b68-a428-0572ffbb1b95
         title: William McCasland
@@ -304,6 +334,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.914
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -346,6 +381,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)

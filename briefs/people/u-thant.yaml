@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: ab0edc860a9d7dd016a99574050ad250e167e4f0b47a04d1fd5807d88e7eebfd
+brief_hash: 4f847b0abd485681d59bf1a281ccbb2c8d98701e46ba342bf9eb268ce1adb29f
 page:
   kind: entity
   node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 14
   tokens_estimated: 2022
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 11
+  neutral: 2
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 9
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.643
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -118,6 +128,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.608
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -145,7 +160,7 @@ claims:
       content_hash: sha256:c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3facbb50e476
       friendly_name: null
   - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    claim_hash: 7014a78b74ee9b9e2e75d749ee05e5a66bc89171ebb05248828c4133b2f42353
     content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
       help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
     original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
@@ -159,6 +174,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -206,6 +226,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -247,6 +272,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.626
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -291,6 +321,11 @@ claims:
         - James E. McDonald
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.644
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -336,6 +371,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -377,6 +417,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -420,6 +465,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.952
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -461,6 +511,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -502,6 +557,11 @@ claims:
         - James E. McDonald
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -550,6 +610,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -589,6 +654,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -628,6 +698,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 02c1d97e-abc0-42f3-a125-e4a9be195ef5
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
@@ -671,6 +746,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.579
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant

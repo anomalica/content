@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: a8c1a6e65873c6ad694ac2d9091a16694af3e0c12cb0d0c151cc0dae2e1385a9
+brief_hash: 7b38f691f59e205c135bae3f5e80fa4dd2f15dcc63b98ba96479597feaffa154
 page:
   kind: entity
   node_id: eda54301-3c14-4718-9989-68844a2838fd
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 619
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.25
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -86,6 +96,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.608
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a033be0-83e4-4892-93b3-dd0d5829aa1a
         title: 1946-1947 European ghost rocket wave
@@ -123,6 +138,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.972
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 9a9b3804-9945-4895-9a47-71a9fcc1a9b5
         title: Shell Corporation
@@ -150,7 +170,7 @@ claims:
       content_hash: sha256:0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5ac9fd3168
       friendly_name: 0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults
   - claim_id: 205b7915-e34b-42a4-b68b-546fdd0bf778
-    claim_hash: 727092aeef9ef89eb426139c083f12823e56638aee509988bdeced8f92e6fa68
+    claim_hash: 720f8207b7766f04d76dec0d6fde375dd94114fe3905231b59befd1bc0e68b6a
     content: Major Murphy said General James Doolittle's conclusions from his 1946 investigation in Sweden have never been
       revealed.
     original_excerpt: '"His conclusions have never been revealed," answered Major Murphy with a sigh that seemed to say, If
@@ -166,6 +186,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -207,6 +232,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)

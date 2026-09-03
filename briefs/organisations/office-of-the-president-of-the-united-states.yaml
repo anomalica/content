@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7b07063424e5ed3ef2c5d8c1d2ec7f73d254a468769ea5657ce28fdc7c7b1310
+brief_hash: 501ab4bce4e928a60e3cdd7c4174cf516125cbf6febd13d75c14b953a48060bc
 page:
   kind: entity
   node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
@@ -9,11 +9,21 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 3
   tokens_estimated: 452
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 1
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,11 +38,6 @@ related_nodes:
     node_type: person
     slug: barry-greenwood
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
     title: Sean Chittle
     node_type: person
@@ -43,9 +48,14 @@ related_nodes:
     node_type: topic
     slug: unidentified-flying-object-ufo
     shared_claims: 1
+  - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+    title: Westall Unidentified Flying Object (UFO) sighting 1966
+    node_type: event
+    slug: westall-unidentified-flying-object-ufo-sighting-1966
+    shared_claims: 1
 claims:
   - claim_id: eb228ce3-95c1-4cdb-85f9-27949f150fda
-    claim_hash: 91766df81faac418e7aa375ffec0b0bd155e11dcf79a9347e9f28bf7bd80f434
+    claim_hash: dd865c7472ff29c0aefc9b52abc964a492402d3d7fab0a7e2a7601be79553981
     content: Twelve months after being threatened by government officials, Greenwood was approached by officials from the
       Office of the President of the United States asking him to speak about the 1966 Westall High School UFO sighting.
     original_excerpt: Which is quite interesting when you realise that officials from another government, 12 months later,
@@ -61,6 +71,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.741
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -68,9 +83,9 @@ claims:
       - node_id: ad2adf65-6f3a-4f12-b694-503f7270bf37
         title: Office of the President of the United States
         slug: office-of-the-president-of-the-united-states
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
+        title: Westall Unidentified Flying Object (UFO) sighting 1966
+        slug: westall-unidentified-flying-object-ufo-sighting-1966
     date: '1967'
     date_end: null
     location_in_record: 00:53:33.1-00:53:42.8
@@ -102,6 +117,11 @@ claims:
         - Greenwood
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.776
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 10259ae2-22f7-49f6-b652-cc13f83987df
         title: Barry Greenwood
@@ -142,6 +162,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 653ae3f4-0a54-432d-a847-3e3e9def55e2
         title: Sean Chittle

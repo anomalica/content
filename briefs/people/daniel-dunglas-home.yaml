@@ -9,11 +9,21 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 18
   tokens_estimated: 2281
   sized_against: 1050000
+entailment:
+  assessed: 18
+  unassessed: 0
+  entails: 15
+  neutral: 1
+  contradicts: 2
+  entailed_by_quote: 4
+  entailed_by_window: 11
+  entailed_by_quote_fraction: 0.222
+  entailed_by_window_fraction: 0.611
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -67,6 +77,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -97,6 +112,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.462
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -130,6 +150,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -160,6 +185,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.934
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5a9dfa4a-7bdc-46a0-8e93-d8a91ab0bf58
         title: UK, Scotland
@@ -195,6 +225,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -229,6 +264,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -261,6 +301,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.564
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -293,6 +338,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -327,6 +377,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.814
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -364,6 +419,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.553
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -401,6 +461,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.849
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -436,6 +501,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 513f6595-b6ed-429b-bcd6-7200533c6dd1
         title: Indridi Indridason
@@ -471,6 +541,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.558
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -512,6 +587,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.978
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3f40e3be-237a-43f4-91f5-fe8c70d19ecc
         title: Living matter through matter (mediumship phenomenon)
@@ -549,6 +629,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.53
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -579,6 +664,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.734
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home
@@ -611,6 +701,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.526
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5b9aead5-37b6-4c06-a3e6-74455a076a25
         title: Mark Twain
@@ -646,6 +741,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5fd3a8a9-7df6-4904-bf94-2b091e8d3f0f
         title: Daniel Dunglas Home

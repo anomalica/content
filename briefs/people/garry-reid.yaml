@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 15dfe720a5f62b58b13cb36ab1050ecc5122cf69918b487175fc0aa320e1b2b2
+brief_hash: 6cc1f15ca999ef32b16801bc56083435e1be6d0ed6772be10994b282e2a4f0f3
 page:
   kind: entity
   node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
@@ -9,11 +9,21 @@ page:
   claim_count: 59
   claim_count_total: 59
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 59
   tokens_estimated: 7871
   sized_against: 1050000
+entailment:
+  assessed: 59
+  unassessed: 0
+  entails: 50
+  neutral: 2
+  contradicts: 7
+  entailed_by_quote: 12
+  entailed_by_window: 38
+  entailed_by_quote_fraction: 0.203
+  entailed_by_window_fraction: 0.644
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -125,6 +135,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -142,7 +157,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 9980bad2-09bd-4034-8495-79b6fcd00ff5
@@ -163,6 +178,11 @@ claims:
         - Luis Elizondo's direct supervisor
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.772
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -177,7 +197,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: b8b97b7f-8c19-44c8-942a-f75c9f548ad1
@@ -196,6 +216,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.877
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -213,7 +238,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 67532264-8b2e-4625-a7db-b7ce342b5100
@@ -232,6 +257,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.98
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -252,7 +282,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: f3a0eacc-cb62-4142-98f2-8cc496176525
@@ -272,6 +302,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -289,7 +324,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 84a722e2-7d82-4891-b8f9-b0effb92214f
@@ -310,6 +345,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -324,7 +364,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: afed40fd-5cd1-4c32-b201-4ce790e9b24b
@@ -343,6 +383,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.503
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -363,11 +408,11 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 449bfb84-09b3-4111-ad6d-8b0a18f41db2
-    claim_hash: 7a7ac8bd66e30dab9c79cdc330d91c027f18e145c5be4d797b0c85e5d60d3e1a
+    claim_hash: 5d98c46359d5d484a92a82de93651899a36ccac9332df214c91c826a328a33a6
     content: Luis Elizondo's second resignation letter was not consistent with Luis Elizondo's first resignation letter, which
       Luis Elizondo personally handed to his supervisor.
     original_excerpt: The letter is not consistent with the first resignation letter Mr. Elizondo personally handed his supervisor.
@@ -382,6 +427,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.654
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -399,7 +449,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 2b8f0284-d740-4d28-a484-38c36244c891
@@ -418,6 +468,11 @@ claims:
         - a phone call with Garry Reid
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.737
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -435,7 +490,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: e6945a2b-178e-4853-a87d-9737924084e9
@@ -454,6 +509,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -471,7 +531,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 861629de-1d09-4a17-a3e0-8d8f9553032c
@@ -491,6 +551,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -508,7 +573,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: c7f5cde0-7845-46c1-be60-08b9b3e3da0a
@@ -528,6 +593,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -548,7 +618,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 9ce1ac19-a34d-4dcd-bbed-02f2358cc202
@@ -567,6 +637,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.567
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -587,7 +662,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: f04cedcf-822f-491f-8115-74df1c81c932
@@ -608,6 +683,11 @@ claims:
         - a conversation with Office of the Under Secretary of Defense for Intelligence staff
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.552
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -625,7 +705,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 37dab71b-5333-4581-9f09-719f27efac74
@@ -645,6 +725,11 @@ claims:
         - a conversation with Office of the Under Secretary of Defense for Intelligence staff
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.696
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -662,7 +747,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: f884219b-bd8b-4f8a-9d1d-3090fff0b55b
@@ -682,6 +767,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -702,7 +792,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 4cd5f123-5578-41a2-88d5-608d0bdc3f88
@@ -722,6 +812,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.562
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -739,7 +834,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: b277f3c3-8e17-43d6-952f-784797ba9cb5
@@ -758,6 +853,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.502
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -775,7 +875,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: ddec9833-fd27-4352-881f-28ecab0ed8c7
@@ -795,6 +895,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -812,7 +917,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 55bfb99f-8c3f-4f8e-bafc-fd70a63d978a
@@ -832,6 +937,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1a465190-9f1c-4e44-ad9d-7bc79e5725ca
         title: Office of Military Commissions
@@ -849,7 +959,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 17ebb920-9e1e-4503-a10d-55185df50fcb
@@ -868,6 +978,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -888,7 +1003,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 19ef963a-8b51-41db-891c-9e1ca0491c42
@@ -906,6 +1021,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.946
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -920,7 +1040,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 777cea01-50aa-48e1-bc07-b7267c7b7027
@@ -939,6 +1059,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.84
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -956,7 +1081,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 8e1d3010-def9-431d-b6cd-b8fcf9546671
@@ -975,6 +1100,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.973
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -992,7 +1122,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: c8d9f03f-09b0-481a-b139-a4cc24a0008f
@@ -1011,6 +1141,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1028,7 +1163,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 83165e49-47c2-40e5-ae2e-199ea9f683ec
@@ -1048,6 +1183,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1068,7 +1208,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 5ffe9c57-0b3a-4b44-9d68-e0701b3a933b
@@ -1088,6 +1228,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1105,7 +1250,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 11c06711-00b9-4eff-a26c-2ae94a732f39
@@ -1125,6 +1270,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.526
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: e9fca8b0-6cd0-42ed-88d3-f255863c0615
         title: Elizondo First Resignation Letter (2017-10-03)
@@ -1142,7 +1292,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: a9fdac08-2b0f-44c1-a561-c123b6f98b2b
@@ -1163,6 +1313,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.454
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1180,7 +1335,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: a0528307-3306-4e89-8ebc-4fc8ffd1269f
@@ -1199,6 +1354,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1219,7 +1379,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 1b92d22c-f23a-4264-9b59-7f0440940c81
@@ -1239,6 +1399,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1256,7 +1421,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 38c72fef-5654-4931-bc67-5abb3c3c47f0
@@ -1277,6 +1442,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.658
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1297,7 +1467,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: a0031e6c-3ea4-4987-8797-b2c60066d94a
@@ -1317,6 +1487,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.965
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
         title: Air Force Office of Special Investigations (AFOSI)
@@ -1334,7 +1509,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 7576f4ee-f8e5-4627-bcf1-55172f77e3d9
@@ -1354,6 +1529,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1371,7 +1551,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 8004f6a1-51ab-4d38-9ec4-14de5462301d
@@ -1393,6 +1573,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1416,7 +1601,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 11e5616e-a547-42ad-9d41-9c8b6a14fcf6
@@ -1437,6 +1622,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.801
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -1460,7 +1650,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 2c65246e-426c-4cec-8603-17f00dbd7c1e
@@ -1479,6 +1669,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.639
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0efaff51-0ab9-4fe3-9448-7b0798c23897
         title: December 17, 2017 unidentified aerial phenomena footage broadcast on national news
@@ -1496,7 +1691,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 28641d91-ce38-4499-878f-511ec87bd404
@@ -1518,6 +1713,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.617
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -1538,7 +1738,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 5523afad-ef64-437d-89e3-4b1f5cc916ef
@@ -1558,6 +1758,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1578,7 +1783,7 @@ claims:
       record_id: 76cc7d2f-448c-495d-b7fd-c60691cad7ea
       record_title: 'FOIA Response 18-F-0324: AATIP and Luis Elizondo Documents'
       record_date: '2022-08-17'
-      record_reference: null
+      record_reference: https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf
       content_hash: sha256:871c3dd25cbe67b03b3a67adb47e73855eb7c2c89dd185934191372a76b861a3
       friendly_name: 2022-08-17-pdf-foia-response-18-f-0324-aatip-and-luis-elizondo-documents
   - claim_id: 900dd4a3-9342-437d-9180-a6de8346dbad
@@ -1598,6 +1803,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.91
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -1617,7 +1827,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1637,6 +1847,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.72
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -1656,7 +1871,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1677,6 +1892,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -1693,7 +1913,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1716,6 +1936,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 225406d4-7059-4d5f-aaf4-f88d959a8866
         title: Joint Ethics Regulations
@@ -1735,7 +1960,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1756,6 +1981,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.683
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1775,7 +2005,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1794,6 +2024,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.442
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
@@ -1813,7 +2048,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1834,6 +2069,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.481
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 305f45ce-b428-4c49-bb1d-4d612f8701da
         title: John Garrity
@@ -1856,7 +2096,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1877,6 +2117,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.982
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c1618c8-50db-42c9-860e-6d736ef280bf
         title: Advanced Aerospace Threat Identification Program (AATIP)
@@ -1896,7 +2141,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1916,6 +2161,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -1932,7 +2182,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1951,6 +2201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.467
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
         title: United States Department of Defense (DoD)
@@ -1967,7 +2222,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -1988,6 +2243,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.811
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -2004,7 +2264,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2023,6 +2283,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.871
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -2042,7 +2307,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2064,6 +2329,11 @@ claims:
         - colleagues at OUSD(I)
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.469
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -2086,7 +2356,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2106,6 +2376,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.464
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -2122,7 +2397,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2144,6 +2419,11 @@ claims:
         - a friend of Luis Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -2160,7 +2440,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2181,6 +2461,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3a8d4f90-929c-471e-b781-3ab9d383c5ec
         title: Defense Counterintelligence Security Agency (DCSA)
@@ -2200,7 +2485,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2221,6 +2506,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -2237,7 +2527,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2256,6 +2546,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
         title: Defense Intelligence Agency (DIA)
@@ -2272,7 +2567,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2292,6 +2587,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.629
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -2308,7 +2608,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -2327,6 +2627,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.676
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c1c15bd7-15de-4c43-a01e-a6c706992c54
         title: Garry Reid
@@ -2343,7 +2648,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

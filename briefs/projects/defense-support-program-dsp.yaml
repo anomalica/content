@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 6c44d659a9a497298dcd08d19048fe28bea887b98621eb98eef56dcc465f319a
+brief_hash: 94e50ca3ad91c6c9876edd15dcf495dc1ef17f3386439f5cebe5c526724b6252
 page:
   kind: entity
   node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 14
   tokens_estimated: 2217
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 5
+  neutral: 8
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.214
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,10 +38,10 @@ related_nodes:
     node_type: person
     slug: ross-coulthart
     shared_claims: 4
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+    title: STS-48 Unidentified Aerial Phenomena (UAP) incident
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: sts-48-unidentified-aerial-phenomena-uap-incident
     shared_claims: 3
   - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
     title: John Podesta
@@ -104,6 +114,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -117,7 +132,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -136,6 +151,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.957
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -152,7 +172,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -171,6 +191,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -184,7 +209,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -201,6 +226,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -214,7 +244,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -236,6 +266,11 @@ claims:
         - 2015 WikiLeaks release
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.915
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -255,7 +290,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -276,6 +311,11 @@ claims:
         - email to John Podesta
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.975
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 176b82fd-52fb-4c89-944c-e03e424fd545
         title: John Podesta
@@ -295,12 +335,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 69b1ae03-5a4e-4cdd-8c38-9e873fbbb739
-    claim_hash: a1c66a54bca039e6a1288d85cbc9e4470d41e6f12c18cc87b3428cb659b2ac73
+    claim_hash: 7a80b0a3e3fb61ffa38af10ec7179c48594d9f5a25f7f34bdff7d5a1c749a244
     content: What the military calls fastwalkers, or unidentified fast-moving objects tracked by Defense Support Program (DSP)
       satellites, appear in subsequent space shuttle videos and in the fully uncut version of the STS-48 UAP incident footage.
     original_excerpt: there are a number of what seem to be what the military calls fastwalkers or projectiles that move extremely
@@ -316,16 +356,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.528
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
         slug: defense-support-program-dsp
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
         slug: maaneli-max-derakhshani
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:29:43.9-00:30:00.3
@@ -359,6 +404,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.671
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -377,7 +427,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 3f61b9de-6565-4eb8-a0ba-5a2ccdf89ff1
-    claim_hash: 6a9649125ce2b8265bce9c48314ac8db6aa2ea1826e863c2f65bf17430ca6be3
+    claim_hash: 5de9de338f48f2edb52baddedee73fd9bd0882dba6215b754e40417783c06786
     content: Maaneli "Max" Derakhshani would like to determine whether the Defense Support Program (DSP) satellite system
       tracked a fastwalker at the precise location of the main unidentified aerial phenomenon (UAP) during the STS-48 UAP
       incident.
@@ -394,6 +444,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.939
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -401,12 +456,12 @@ claims:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
       - node_id: b258ba79-75af-4717-8da2-cd62d86428e6
         title: Maaneli "Max" Derakhshani
         slug: maaneli-max-derakhshani
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
     date: null
     date_end: null
     location_in_record: 00:42:46.2-00:42:58.4
@@ -438,6 +493,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.609
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0ec49d0b-3c20-4d64-aadc-cac410206e5b
         title: 'America''s Space Sentinels: The History of the Defense Support Program (DSP) and SBIRS Satellite Systems'
@@ -484,6 +544,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.966
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -525,6 +590,11 @@ claims:
         - Ross Coulthart
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -560,6 +630,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.9
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -581,7 +656,7 @@ claims:
       content_hash: sha256:f37882ab1f880101b3e452e3802d7afc296c07eb413f65ebea554984f3b8cdef
       friendly_name: null
   - claim_id: 4a96c065-7f66-4997-8441-7bdd0f20eb05
-    claim_hash: 3bad6264279912e5693e46e7fab09ec0485db1ea62b88b3fa13103705ec0a38c
+    claim_hash: 56e8dcd651bd23755a30b3dc36647ad2e7a4f420edbfe935f96f9335db7b173a
     content: Mark Carlotto states in his research paper on the STS-48 UAP incident that there is some correlation between
       Defense Support Program (DSP) satellite data at the time over that region of Earth and what was observed in the STS-48
       UAP incident, with Carlotto providing a reference for this in his paper.
@@ -600,6 +675,11 @@ claims:
         - Maaneli "Max" Derakhshani
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.794
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c31895a-7f5c-432f-b569-1f31f25a0ca3
         title: Defense Support Program (DSP)
@@ -607,9 +687,9 @@ claims:
       - node_id: a7a85a91-0a71-43cd-87ca-6fea2c4a549b
         title: Dr. Mark Carlotto's STS-48 analysis paper
         slug: dr-mark-carlottos-sts-48-analysis-paper
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: cd9db0d9-5951-4d87-a50b-7d772c61da41
         title: Mark C. Carlotto
         slug: mark-c-carlotto

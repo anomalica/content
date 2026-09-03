@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 33af2c3ee3dde5f0d54cf6840ae8dad2268e0a64e668ca4c679b0d24f0eb61c3
+brief_hash: 60bfa2a8b249ed4b9ab7006b8378dcd76030daffaabab41bb55e188c3020f8ee
 page:
   kind: entity
   node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
@@ -9,11 +9,21 @@ page:
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 14
   tokens_estimated: 2100
   sized_against: 1050000
+entailment:
+  assessed: 14
+  unassessed: 0
+  entails: 7
+  neutral: 7
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 5
+  entailed_by_quote_fraction: 0.143
+  entailed_by_window_fraction: 0.357
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -111,6 +121,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -149,6 +164,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -185,6 +205,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
         title: Robert Low
@@ -227,6 +252,11 @@ claims:
         - a memo to his superiors
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.962
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1a7dc447-a9f3-4087-bfc4-09f294913e6e
         title: Robert Low
@@ -266,6 +296,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.453
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -301,6 +336,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.439
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -337,6 +377,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -374,6 +419,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -412,6 +462,11 @@ claims:
         - an unnamed informant
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -446,6 +501,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -482,6 +542,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.555
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -517,6 +582,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -537,50 +607,6 @@ claims:
       record_reference: null
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
-  - claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
-    claim_hash: 133e4fe0343cf61a815f876ff0d5297987f9dc21183f753338aae79375e4b661
-    content: The Condon Committee inquiry, an Air Force-funded UAP study at the University of Colorado chaired by physicist
-      Edward Condon, declared the UAP topic devoid of scientific merit.
-    original_excerpt: A subsequent Air Force–funded UAP study at the University of Colorado went further, declaring the topic
-      devoid of scientific merit. Chaired by physicist Edward Condon...
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: named
-      origin: Condon Committee inquiry
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
-        title: University of Colorado
-        slug: university-of-colorado
-      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
-        title: United States Air Force (USAF)
-        slug: united-states-air-force-usaf
-      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
-        title: Edward U. Condon
-        slug: edward-u-condon
-      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
-      - node_id: da868edb-9324-4c9a-b61a-1da6f37280cf
-        title: Condon Committee inquiry
-        slug: condon-committee-inquiry
-    date: null
-    date_end: null
-    location_in_record: ch6:3383-3543
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 3a89c295-272b-42ee-9838-317a2721be03
-      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
-      record_reference: null
-      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
-      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
   - claim_id: 1725b8da-9347-48db-b207-3a49505ddb8c
     claim_hash: 6985a0f374cce80ccae66c9dfb1aad5ed85f1fe4d9fa4a79b77da70a209bdefe
     content: Dr. Edward U. Condon, a physicist and former Director of the National Bureau of Standards, was the scientific
@@ -597,6 +623,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
         title: University of Colorado
@@ -624,6 +655,55 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
+  - claim_id: cab171f2-f6fa-4bd5-b6dc-794f6f0f7999
+    claim_hash: 133e4fe0343cf61a815f876ff0d5297987f9dc21183f753338aae79375e4b661
+    content: The Condon Committee inquiry, an Air Force-funded UAP study at the University of Colorado chaired by physicist
+      Edward Condon, declared the UAP topic devoid of scientific merit.
+    original_excerpt: A subsequent Air Force–funded UAP study at the University of Colorado went further, declaring the topic
+      devoid of scientific merit. Chaired by physicist Edward Condon...
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: named
+      origin: Condon Committee inquiry
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.457
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 2c01fb73-719a-4022-b45a-d17aa935125e
+        title: University of Colorado
+        slug: university-of-colorado
+      - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
+        title: United States Air Force (USAF)
+        slug: united-states-air-force-usaf
+      - node_id: 4c22ee6f-cb2b-4f85-94ba-1442741abd32
+        title: Edward U. Condon
+        slug: edward-u-condon
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: da868edb-9324-4c9a-b61a-1da6f37280cf
+        title: Condon Committee inquiry
+        slug: condon-committee-inquiry
+    date: null
+    date_end: null
+    location_in_record: ch6:3383-3543
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: 3a89c295-272b-42ee-9838-317a2721be03
+      record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+      record_date: '2024-08-19'
+      record_reference: null
+      content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
+      friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

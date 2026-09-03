@@ -4,12 +4,12 @@ page:
   kind: entity
   node_id: 87be216c-2fde-4e95-9755-8c97df856b06
   node_type: event
-  title: Kenneth Arnold Unidentified Flying Object (UFO) sighting
+  title: Kenneth Arnold UFO sighting
   slug: kenneth-arnold-unidentified-flying-object-ufo-sighting
   claim_count: 14
   claim_count_total: 14
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 14
   tokens_estimated: 1754

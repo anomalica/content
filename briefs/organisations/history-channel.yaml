@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 8341d6f2b14329643999b853615ea3e49d0fe47cb7b29e83917f46ecf8f780c6
+brief_hash: da8aa29f2bb246dc9f9939a11473a1462a78bff00095dc6e46f62f1441825bf7
 page:
   kind: entity
   node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 705
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 4
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 2
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.5
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -93,6 +103,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
         title: History Channel
@@ -133,6 +148,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.511
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
         title: History Channel
@@ -160,7 +180,7 @@ claims:
       content_hash: sha256:ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b16ac4758
       friendly_name: 2019-ebook-american-cosmic
   - claim_id: cb5369fd-11e7-403b-9b58-19107da89a59
-    claim_hash: 138f4f7e10bf16eabe337f205be442b781ab329aa1c739e52484e22ef3a3b0d2
+    claim_hash: 0a76e07b4d7ca998ec4ab444c29825ea5aa917f26f3e8709317940edf0e2b394
     content: The History Channel wanted to produce a television show with the To The Stars Academy (TTSA) team featuring investigators
       interviewing former military personnel about their Unidentified Aerial Phenomena (UAP) encounters.
     original_excerpt: The History Channel wanted to do a show with the TTSA team that would put seasoned investigators in
@@ -176,6 +196,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
         title: History Channel
@@ -195,7 +220,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -216,6 +241,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 4bd6fd95-3858-460d-a0a1-7c2d409507d1
         title: History Channel
@@ -235,7 +265,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

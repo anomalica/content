@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: cca725bdf4f5d365423b1568b9f364f498d4f6f9053ce8540efae4a96e9193b4
+brief_hash: 09e99168918bd39498574f124e0819d699a262d5b35c1f444210b9f3b1be6364
 page:
   kind: entity
   node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
@@ -9,11 +9,21 @@ page:
   claim_count: 11
   claim_count_total: 11
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 11
   tokens_estimated: 2201
   sized_against: 1050000
+entailment:
+  assessed: 11
+  unassessed: 0
+  entails: 7
+  neutral: 4
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.364
+  entailed_by_window_fraction: 0.273
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,10 +43,10 @@ related_nodes:
     node_type: person
     slug: luis-elizondo
     shared_claims: 3
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
+  - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+    title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
     node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
+    slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
     shared_claims: 1
   - node_id: 2a9dc569-ac94-4e71-8fc5-71211753a876
     title: 2012-02 Jennifer Elizondo crosswalk accident
@@ -108,6 +118,11 @@ related_nodes:
     node_type: organisation
     slug: office-of-the-under-secretary-of-defense-for-intelligence-ousdi
     shared_claims: 1
+  - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+    title: Operation W
+    node_type: project
+    slug: operation-w
+    shared_claims: 1
   - node_id: e4389da4-1980-4cb6-b557-6c563f9b134a
     title: Steven Greer
     node_type: person
@@ -154,6 +169,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.482
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
         title: Joint Chiefs of Staff
@@ -181,7 +201,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: 97e71932-9336-475b-9c9b-320b2f0e8228
-    claim_hash: 671239027ca65c06cc4c70193b29bcb6c75e9b8f4045473307338bc37b42e808
+    claim_hash: 775c207237238d7eb5730827cc5257a3952c9ba79842de90bc3293f6c620b1e7
     content: Steven Greer claims that an aide to Admiral Thomas Wilson told him that the subject of Majestic MJ-12 came up
       and there had been a lot of debate as to whether it was real, and that the aide said 'we know it exists', but that the
       Directorate for the Joint Staff did not have the need to know what MJ-12 does.
@@ -201,10 +221,18 @@ claims:
         - an aide to Admiral Thomas Wilson
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.974
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
         slug: thomas-wilson
+      - node_id: 83a74c7d-e510-4564-8261-2c9576ecedba
+        title: Operation W
+        slug: operation-w
       - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
         title: Joint Chiefs of Staff
         slug: joint-chiefs-of-staff
@@ -220,12 +248,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 26e287f6-ae79-48e8-af43-1566a2e32b6c
-    claim_hash: 5226f10e926c8dc95bda7147a0100f457a4aa8aacccf907fcbc4836b97fa4b63
+    claim_hash: baa5f97d3c825a862a126d22f7691bc4044d5c5265379e51c531ce7a4d4c0065
     content: In April 1997, Edgar Mitchell's renown as an astronaut opened the way for an extraordinary briefing with the
       Deputy Director of Intelligence for the US military's Joint Chiefs of Staff, Admiral Thomas Wilson.
     original_excerpt: Which was why in April 1997, Mitchell's renown opened the way for an extraordinary briefing with the
@@ -239,7 +267,15 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 30350b83-07c8-4266-a990-70143e1ccd0b
+        title: 1997-04 Pentagon Unidentified Aerial Phenomena (UAP) briefing
+        slug: 1997-04-pentagon-unidentified-aerial-phenomena-uap-briefing
       - node_id: 59476464-a679-46ce-9247-b0adcb287762
         title: Edgar Mitchell
         slug: edgar-mitchell
@@ -249,9 +285,6 @@ claims:
       - node_id: 95535ea3-01ed-41d1-bbfc-df71eb0e89a1
         title: Joint Chiefs of Staff
         slug: joint-chiefs-of-staff
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
     date: 1997-04
     date_end: null
     location_in_record: ch14:8565-8758
@@ -261,7 +294,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -282,6 +315,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0ebef494-7138-409f-8759-58961e45979e
         title: Area 51 (Annie Jacobsen book)
@@ -304,7 +342,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -328,6 +366,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6dcdfe60-bc2f-4be2-a041-9957a82f371e
         title: Harold E. Puthoff
@@ -353,7 +396,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -372,6 +415,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8161270a-248d-424a-8aaa-f76999efc02b
         title: Thomas Wilson
@@ -388,7 +436,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -406,6 +454,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.812
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c81ac2f-a904-48b8-afb1-8ca14e99b21c
         title: Arthur Radford
@@ -425,12 +478,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 18fc8638-0404-4146-b35c-cb8317742af0
-    claim_hash: e0f6af284795516a92eb9e38e3f71d43969a8290b61e1f6475a8ff533426e40c
+    claim_hash: b6a8ecf085975226058533cd70a5c6f31b7f40122049d84c6aed6fa626d138ec
     content: Luis Elizondo was assigned a parking spot along the Pentagon's River Entrance, alongside senior military staff
       including the chairman of the Joint Chiefs of Staff, the secretaries of each service, the undersecretaries, and the
       Secretary of Defense.
@@ -448,6 +501,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.52
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
         title: The Pentagon
@@ -467,7 +525,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -489,6 +547,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.842
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2a9dc569-ac94-4e71-8fc5-71211753a876
         title: 2012-02 Jennifer Elizondo crosswalk accident
@@ -511,7 +574,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -533,6 +596,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -549,7 +617,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -572,6 +640,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.767
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 51d882d7-ae4b-4a91-bc4f-a2b900fb1196
         title: Jay Stratton
@@ -597,7 +670,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos

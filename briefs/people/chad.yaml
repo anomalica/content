@@ -1,19 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 45f547321ea9ced79ca9d12463f8492c4c68d127dabafc6331b1e4627a26e8e1
+brief_hash: 0f65a1ef97fd666fba3fa6c6605d7cfd91edaaf21ddb8adf91a4add8d828663e
 page:
   kind: entity
   node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
   node_type: person
   title: Chad
   slug: chad
-  claim_count: 4
-  claim_count_total: 4
+  claim_count: 3
+  claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 4
-  tokens_estimated: 521
+  claims: 3
+  tokens_estimated: 397
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 2
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.333
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -21,21 +31,21 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 4
+  unreviewed: 3
 related_nodes:
   - node_id: c09e3558-1732-4676-a218-d67d285d98ef
     title: David Fravor
     node_type: person
     slug: david-fravor
-    shared_claims: 4
-  - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+    shared_claims: 3
+  - node_id: c1437a36-d3b1-4d94-a14e-edc6440fb6d3
     title: Ray
     node_type: person
     slug: ray
     shared_claims: 3
 claims:
   - claim_id: 283250af-5d12-4789-9b40-15a4af0f937d
-    claim_hash: 45420488c2413afb79bbac0e75b3ff4b526bdf00cb0585e9bf9bae1b12fd1768
+    claim_hash: e4e69dd861e611da688c63d0b630a223dbbf5e6d2906276370c12f60633d84e0
     content: David Fravor's cousin Chad and cousin Ray lived near him in the same neighbourhood where they grew up as part
       of an Italian family.
     original_excerpt: we all grew up in the same neighborhood uh we kind of they had Italian side of the family that's how
@@ -52,6 +62,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
         title: Chad
@@ -59,7 +74,7 @@ claims:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
         slug: david-fravor
-      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+      - node_id: c1437a36-d3b1-4d94-a14e-edc6440fb6d3
         title: Ray
         slug: ray
     date: null
@@ -76,7 +91,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 86343c7a-0100-42cc-803d-37a9c0d48668
-    claim_hash: 630cd434675f95cc86ed4e51a42c8d4040b1683239a96a63905b3e735433d28b
+    claim_hash: 2f7e9579ba6edc0eac1a095138767979b4ffcf528c2a9ee67fc7d53601525f8e
     content: David Fravor said he would drop everything and travel immediately if his cousins Ray or Chad ever needed him.
     original_excerpt: I said, if one of those, if Ray or Chad ever needs me, if something happens... It's I'm booking the
       ticket and I don't give a shit what it costs because I will be there
@@ -91,6 +106,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
         title: Chad
@@ -98,7 +118,7 @@ claims:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
         slug: david-fravor
-      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+      - node_id: c1437a36-d3b1-4d94-a14e-edc6440fb6d3
         title: Ray
         slug: ray
     date: null
@@ -115,7 +135,7 @@ claims:
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
   - claim_id: 33645fc1-b5b0-49ed-b109-28ea8ac3d806
-    claim_hash: 957bf176dde615ac01bbb65cb31898647f6ab75787a72a61b9416638c267471d
+    claim_hash: 3f3460608c6afde8c3ef4f3c63940f72426cd25f795faf4e084e134df81bccba
     content: David Fravor grew up with his cousins Chad and Ray, along with two other family members, and considers them like
       brothers.
     original_excerpt: there's my cousin Chad, and I got two boys, there's 14 of us, but there's only two boys, there's three
@@ -131,6 +151,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
         title: Chad
@@ -138,7 +163,7 @@ claims:
       - node_id: c09e3558-1732-4676-a218-d67d285d98ef
         title: David Fravor
         slug: david-fravor
-      - node_id: f6b77b81-0c99-4e74-8925-22bef25ef346
+      - node_id: c1437a36-d3b1-4d94-a14e-edc6440fb6d3
         title: Ray
         slug: ray
     date: null
@@ -154,40 +179,3 @@ claims:
       record_reference: https://www.youtube.com/watch?v=aB8zcAttP1E
       content_hash: sha256:135d49705c30c2588e7ba62675a709cf330462887ea6391ddcdc4f19fd6afb8a
       friendly_name: 2020-09-08-video-david-fravor-ufos-aliens-fighter-jets-and-aerospace.v2
-  - claim_id: 0457f9df-392e-4aef-9f4f-1e62dbdbb400
-    claim_hash: 88bd5b51aade2452937f0d0a1fb01693274700048051ea777cc1ff6858864e4b
-    content: Chad, who took the video of the Tic Tac object, reviewed electro-optical and infrared imaging modes and found
-      no visual signs of propulsion.
-    original_excerpt: Chad, who took the video, went through all the EO, which is black and white TV and the I&R modes and
-      there is no visual signs of propulsion.
-    claim_type: observation
-    attestation: second_hand
-    speaker:
-      node_id: c09e3558-1732-4676-a218-d67d285d98ef
-      title: David Fravor
-    provenance_chain:
-      origin_kind: named
-      origin: Chad
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: b1df50ce-047d-49d4-b5b5-7fae83d2c4fd
-        title: Chad
-        slug: chad
-      - node_id: c09e3558-1732-4676-a218-d67d285d98ef
-        title: David Fravor
-        slug: david-fravor
-    date: '2004-11-14'
-    date_end: null
-    location_in_record: char:124924-125053
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: 5e233de3-335a-46b1-8b03-81df19638eae
-      record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
-      record_date: '2023-07-26'
-      record_reference: null
-      content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
-      friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety

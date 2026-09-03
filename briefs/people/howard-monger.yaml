@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1236
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 8
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 6
+  entailed_by_window: 2
+  entailed_by_quote_fraction: 0.667
+  entailed_by_window_fraction: 0.222
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -52,6 +62,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -84,6 +99,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -119,6 +139,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -154,6 +179,11 @@ claims:
         - From Outer Space to You
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -190,6 +220,11 @@ claims:
         - From Outer Space to You
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -226,6 +261,11 @@ claims:
         - From Outer Space to You
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -258,6 +298,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -293,6 +338,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.938
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger
@@ -330,6 +380,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 135df6ee-8e0c-4913-a7bb-f696f64c5cde
         title: Howard Monger

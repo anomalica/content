@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 544b0befbfd7c92de590d37258295796ae61281246d4f1d1bed31a0ef9b184db
+brief_hash: 69d827e8972bdea8898891f8c65033c841c062cfab4c3a469325ad6df9495fca
 page:
   kind: entity
   node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
@@ -9,11 +9,21 @@ page:
   claim_count: 30
   claim_count_total: 30
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 30
   tokens_estimated: 4459
   sized_against: 1050000
+entailment:
+  assessed: 30
+  unassessed: 0
+  entails: 17
+  neutral: 11
+  contradicts: 2
+  entailed_by_quote: 9
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.3
+  entailed_by_window_fraction: 0.267
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -43,11 +53,6 @@ related_nodes:
     node_type: place
     slug: uk
     shared_claims: 4
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 3
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -58,11 +63,21 @@ related_nodes:
     node_type: event
     slug: world-war-ii
     shared_claims: 3
+  - node_id: cf02e44b-2222-4bd0-96d7-28cd5126f27e
+    title: 1971 Delphos, Kansas Unidentified Flying Object (UFO) landing
+    node_type: event
+    slug: kansas-unidentified-flying-object-ufo-landing-1971-delphos
+    shared_claims: 2
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
     node_type: organisation
     slug: united-states-air-force-usaf
     shared_claims: 2
+  - node_id: d139c013-f81d-4082-a2eb-8325b1359327
+    title: 1973 Carteret, Normandy Unidentified Flying Object (UFO) sighting
+    node_type: event
+    slug: normandy-unidentified-flying-object-ufo-sighting-1973-carteret
+    shared_claims: 1
   - node_id: e95835fe-733e-4777-bb60-740d9727e2c8
     title: Adolf Hitler
     node_type: person
@@ -160,7 +175,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: cb006f68-f2cb-45d0-8457-c6099d512b12
-    claim_hash: 81c6fcd58de7e6a5c213b5ae85d20ab31d39634715b252d5f3581842f7ccb01e
+    claim_hash: 89d62cbed56a0432f6041fc53da28e7f6d54503c306450fef8a309a4245c870d
     content: On 1939-09-02, Great Britain and France sent Hitler an ultimatum demanding the end of all military action by
       1939-09-03.
     original_excerpt: On September 2, Great Britain and France sent him an ultimatum demanding the end of all military action
@@ -174,6 +189,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.794
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -198,7 +218,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 12ff0950-e2f8-416d-a5f7-0f5e2e5aef08
-    claim_hash: c01be8c0f82310bf7197ce3a4f9a147b58e602984699d511b625eddfa44dc39f
+    claim_hash: b8415b80e6dce963af7f5f47703fd3bd6cdd198b06f63c516c6cf91f7ef512f4
     content: When Hitler ignored the ultimatum, Great Britain and France declared war on Germany, officially beginning the
       Second World War.
     original_excerpt: When it was ignored, both nations declared war on Germany. With this the Second World War had officially
@@ -212,6 +232,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -254,6 +279,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 736bc2ff-468f-4858-843b-02f87430ab25
         title: Marcel Clément
@@ -289,6 +319,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -316,7 +351,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 98a67d15-1f49-4a99-ab63-50eb78109af1
-    claim_hash: dac8926b962f2622b1f03f25cd4e2c87fc06ee077664df81b9818930ac227d42
+    claim_hash: 4f7f181e00237767e89c4b2f853feb0c1ad11cea77e0cee49fcd33da8038b408
     content: At the outbreak of World War I, Germany marched against France, causing Britain to declare war on the German
       Reich.
     original_excerpt: Germany reacted by marching against France, causing Britain to declare war on the German Reich.
@@ -329,6 +364,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.446
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -356,7 +396,7 @@ claims:
       content_hash: sha256:9bf4add893919003d22339e9a284d4675c0fa2b721db4513d812863f9d7701ab
       friendly_name: 2000-11-28-ebook-the-fatima-secret
   - claim_id: 5717d87b-f70e-42fc-be02-9f9b9086284e
-    claim_hash: 87af12e59e3cab09ee2de2a68da8e4a46d2597186c4d66de9491605108d91aab
+    claim_hash: f1f4249b8fcf8de04c0e40886d0c786e36304926f476d675de905e633b385b54
     content: The allied troops of France and England stopped the German advance after four weeks in World War I, but over
       600,000 German and French soldiers had lost their lives by that point.
     original_excerpt: The allied troops of France and England succeeded in stopping the German advance after four weeks, but
@@ -370,6 +410,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.424
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 33ae4490-caad-4ccc-9af2-98152d7dfc72
         title: Germany
@@ -411,6 +456,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -432,7 +482,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 6606f592-5bf1-4e43-8de8-0ae8f78d3eb0
-    claim_hash: 5bfd3eb1c8a5aab37c207580ccc6695bc84814db033ca448e184f9684d819ca4
+    claim_hash: 8d43883dadf9e955d7eda9e23350aa4d88c11c0392acb3a1c059765df1a0cf2d
     content: Janine Vallee and Jacques Vallee investigated the Carteret UFO sighting during a research trip through the west
       of France in December 1973.
     original_excerpt: My wife and I investigated this sighting during a research trip through the west of France in December
@@ -448,6 +498,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -458,9 +513,9 @@ claims:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
         slug: france
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: d139c013-f81d-4082-a2eb-8325b1359327
+        title: 1973 Carteret, Normandy Unidentified Flying Object (UFO) sighting
+        slug: normandy-unidentified-flying-object-ufo-sighting-1973-carteret
     date: 1973-12
     date_end: null
     location_in_record: ch10:23873-23976
@@ -492,6 +547,11 @@ claims:
         - friends in Paris
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -532,6 +592,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.993
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -570,6 +635,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6c262c92-9da2-45a2-abbb-81e95cdd400c
         title: Catholic Church
@@ -609,6 +679,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.538
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
         title: United States Air Force (USAF)
@@ -647,6 +722,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4f682bad-24d5-4823-b631-7c02515d787e
         title: French Space Agency
@@ -684,6 +764,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 4c8a2a8d-4542-4b8d-bf52-a8ebcade3342
         title: UMMO organization
@@ -721,6 +806,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 5230531e-701a-4bd3-a2d6-bbd59fd2233c
         title: Ireland, County Wicklow
@@ -762,6 +852,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -799,6 +894,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -839,6 +939,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.909
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -880,6 +985,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -921,6 +1031,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.889
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -956,6 +1071,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -994,6 +1114,11 @@ claims:
         - Jacques Vallee
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.92
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -1026,6 +1151,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -1044,7 +1174,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 24fe8472-3946-4f87-9efe-93be1c6383e6
-    claim_hash: 785f582bf405fa460c244e584e92ce8c7b1e5c7a061223fa5790baefcba0ca99
+    claim_hash: d1846aa50bfd41699e9658347a4eb6f304e27ac0d343e3cd6d01a7be08961d6b
     content: Jacques Vallee obtained a sample of the white substance from Ted Phillips from the Delphos, Kansas UFO landing
       site and forwarded it to a biological laboratory in France for microscopic examination.
     original_excerpt: I obtained a sample of the white substance from Mr. Phillips and forwarded it to a biological laboratory
@@ -1061,6 +1191,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -1071,9 +1206,9 @@ claims:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
         slug: france
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cf02e44b-2222-4bd0-96d7-28cd5126f27e
+        title: 1971 Delphos, Kansas Unidentified Flying Object (UFO) landing
+        slug: kansas-unidentified-flying-object-ufo-landing-1971-delphos
     date: null
     date_end: null
     location_in_record: ch9:41503-41769
@@ -1088,7 +1223,7 @@ claims:
       content_hash: sha256:5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b8489cc11c26
       friendly_name: 2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has
   - claim_id: 616e8fd2-760f-47c9-84cb-64e5fa4bd871
-    claim_hash: 1e9dae85805877ce4fdde5d6558f03168b428e8a588dd1368b9d25a88ee79835
+    claim_hash: 7e87a7558075b1fc4c03e75d12a31302ca9f1fa0f840387111d51ec59158f94a
     content: An anonymous French biologist who wished not to be named identified the organism in the Delphos, Kansas ring's
       white substance as belonging to the family Actinomycetaceae and the genus Nocardia.
     original_excerpt: The French biologist who identified it, and who has wished not to be named in this book determined that
@@ -1102,13 +1237,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
         slug: france
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: cf02e44b-2222-4bd0-96d7-28cd5126f27e
+        title: 1971 Delphos, Kansas Unidentified Flying Object (UFO) landing
+        slug: kansas-unidentified-flying-object-ufo-landing-1971-delphos
     date: null
     date_end: null
     location_in_record: ch9:42190-42368
@@ -1135,6 +1275,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.477
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -1170,6 +1315,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7af2cf9f-a4c2-4fe4-852a-37c5b12a69a1
         title: French Institute of Higher Studies for National Defense
@@ -1208,6 +1358,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -1243,6 +1398,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.441
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France
@@ -1278,6 +1438,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.898
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: ac7bb1f5-4935-4a97-b71c-27c03b4bfdd8
         title: France

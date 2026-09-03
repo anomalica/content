@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5ebe1840c0c7ab0f5c517b234ce687ac779bf4930db4f204bf8e586f68ff573a
+brief_hash: 614fd5bc857e5c5d53c38f60d8f6179a503afe999292ddb4a35471b22202b18b
 page:
   kind: entity
   node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
@@ -9,11 +9,21 @@ page:
   claim_count: 16
   claim_count_total: 16
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 16
   tokens_estimated: 2420
   sized_against: 1050000
+entailment:
+  assessed: 16
+  unassessed: 0
+  entails: 15
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 3
+  entailed_by_window: 12
+  entailed_by_quote_fraction: 0.188
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -52,11 +62,6 @@ related_nodes:
     title: Air Force Office of Special Investigations (AFOSI)
     node_type: organisation
     slug: air-force-office-of-special-investigations-afosi
-    shared_claims: 1
-  - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-    title: Bill Clinton
-    node_type: person
-    slug: bill-clinton
     shared_claims: 1
   - node_id: 1dfc0714-c2ac-4923-b546-61a19f0755f0
     title: Central Intelligence Agency (CIA) Directorate of Science and Technology (DS&T)
@@ -113,20 +118,25 @@ related_nodes:
     node_type: event
     slug: roswell-incident-1947
     shared_claims: 1
+  - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+    title: Special Access Program (SAP)
+    node_type: topic
+    slug: special-access-program-sap
+    shared_claims: 1
   - node_id: c2161b8f-ab11-449c-8521-174024cb0552
     title: USA, Washington DC, Pentagon
     node_type: place
     slug: washington-dc-pentagon-usa
     shared_claims: 1
-  - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-    title: Unacknowledged special access program (USAP)
-    node_type: topic
-    slug: unacknowledged-special-access-program-usap
-    shared_claims: 1
   - node_id: 99f08514-5471-4eaf-bce3-46c474a8d304
     title: United States Department of Defense (DoD)
     node_type: organisation
     slug: united-states-department-of-defense-dod
+    shared_claims: 1
+  - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+    title: William J. Clinton
+    node_type: person
+    slug: william-j-clinton
     shared_claims: 1
   - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
     title: World War II
@@ -150,6 +160,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -166,7 +181,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -186,6 +201,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.983
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -205,7 +225,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -227,6 +247,11 @@ claims:
         - stories heard by Luis Elizondo
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
@@ -246,7 +271,7 @@ claims:
     provenance:
       record_id: 3a89c295-272b-42ee-9838-317a2721be03
       record_title: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-      record_date: '2024'
+      record_date: '2024-08-19'
       record_reference: null
       content_hash: sha256:303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f406267a57df41
       friendly_name: 2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos
@@ -268,6 +293,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -295,7 +325,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 05246a1d-7d42-4e9d-a1ae-70f7e2e22bb1
-    claim_hash: 6b463429cdc54b0ce84bdd2ffc603f36f5370481bded715a86f247576a268708
+    claim_hash: d69b2c8c47473f88121f3c012362ac7348f281a091626b1b1fa0087748da564a
     content: The Collins Elite traces back to the period immediately after the 1947 Roswell crash, when investigators were
       trying to understand the Unidentified Flying Object (UFO) phenomenon.
     original_excerpt: It was founded in… Well, it traces back to right after the Roswell crash. They're trying to understand
@@ -312,6 +342,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -353,6 +388,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -393,6 +433,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -438,6 +483,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.618
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -459,7 +509,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: d08b4223-48aa-4f62-a33e-a34e4da61ed5
-    claim_hash: 3a82800b8fde1c2dd2fe7e2a5c6a3545c35945b6c49f75285a21419815fa8793
+    claim_hash: 1e192cd9e02d63acb2720beb65b7e3e4db5a1fe96bf1eed0eae9f387ce74d3f8
     content: Jason Samosa considers that special access programs (SAPs) did not exist under that terminology in 1952, but
       that the Collins Elite funding arrangement resembles one.
     original_excerpt: I don't think special access programs were a thing then by that terminology, but it sounds like that
@@ -474,13 +524,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 64d41f78-598d-433c-a49d-f0d19fd62b27
+        title: Special Access Program (SAP)
+        slug: special-access-program-sap
       - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
         title: Collins Elite
         slug: collins-elite
-      - node_id: f00507a7-50a4-4d1f-839c-ade4c6b6d5cb
-        title: Unacknowledged special access program (USAP)
-        slug: unacknowledged-special-access-program-usap
       - node_id: ff0a86b8-8f3c-4291-94ed-c6d303875ce8
         title: Jason Samosa
         slug: jason-samosa
@@ -516,6 +571,11 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.895
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 1c74a06c-1b3f-43b4-b54c-3f6b44fd8192
         title: Ronald Reagan
@@ -560,6 +620,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -602,6 +667,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)
@@ -629,7 +699,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: ad2c4c0a-c2ef-4be3-a09b-9d8d61f50a82
-    claim_hash: f970fd8d8a19573b2adac20da07f0ecf5b8475fce422055f024413bbd6263c49
+    claim_hash: 4f957edfb2fa9e4aa4ddc6eaf79d16d199fb0f79f2111bfe56d0e5e38489a20c
     content: The administrations preceding Bill Clinton's were staffed with quite religious people, including Collins Elite
       types, members of The Family and the Knights of Malta, connected to a broader establishment tracing back to the Office
       of Strategic Services in World War II, in Jason Samosa's assessment.
@@ -647,19 +717,24 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1c2b71ac-662d-4cbf-80fe-06d97aa016fb
         title: Office of Strategic Services (OSS)
         slug: office-of-strategic-services-oss
-      - node_id: 459eb5cf-ea76-4cad-9421-a726261cd3a2
-        title: Bill Clinton
-        slug: bill-clinton
       - node_id: 9d32a2ba-3862-4abe-983f-4abd38c728ea
         title: The Family (The Fellowship)
         slug: the-family-the-fellowship
       - node_id: b9230db2-eef8-4526-86aa-97f693336b1a
         title: Knights of Malta
         slug: knights-of-malta
+      - node_id: c8b2f71c-febf-446f-9b1e-3e6bdc6c86c5
+        title: William J. Clinton
+        slug: william-j-clinton
       - node_id: dcb95bd1-7593-4fe4-a992-2fc6a05fcb2c
         title: World War II
         slug: world-war-ii
@@ -698,6 +773,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 84a43dea-0183-4bb1-b2d7-c9637920d75f
         title: Eschatology
@@ -737,6 +817,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: cad0a6eb-0ed3-44ee-8f8f-b22d7603c6f3
         title: Air Force Office of Special Investigations (AFOSI)
@@ -774,6 +859,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: df2fedf9-5457-461a-a96c-2ade2d4e69ce
         title: Collins Elite

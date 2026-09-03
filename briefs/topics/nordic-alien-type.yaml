@@ -9,7 +9,7 @@ page:
   claim_count: 18
   claim_count_total: 18
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 18
   tokens_estimated: 2883
@@ -118,11 +118,6 @@ related_nodes:
     node_type: topic
     slug: gray-alien-stereotype
     shared_claims: 1
-  - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-    title: Grey aliens
-    node_type: topic
-    slug: grey-aliens
-    shared_claims: 1
   - node_id: a384e65a-f90f-4829-9bc0-cd87e84a56cf
     title: Jason Reza Jorjani
     node_type: person
@@ -157,6 +152,11 @@ related_nodes:
     title: Solid light phenomenon (UFO)
     node_type: topic
     slug: solid-light-phenomenon-ufo
+    shared_claims: 1
+  - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+    title: The Greys
+    node_type: topic
+    slug: the-greys
     shared_claims: 1
   - node_id: d91e2df7-b885-41ab-952d-002373550f99
     title: Travis Walton
@@ -841,9 +841,9 @@ claims:
       - node_id: 17a564b3-f5bb-4f8b-a24a-6117966b5522
         title: Mantid beings
         slug: mantid-beings
-      - node_id: 374c2897-b2f0-4827-9d58-87c4a13567ca
-        title: Grey aliens
-        slug: grey-aliens
+      - node_id: a6f65c44-ae94-40d7-b317-a0b2fd8205fe
+        title: The Greys
+        slug: the-greys
       - node_id: b093fc3e-21e3-4b01-8313-56bc63efdea7
         title: Reptilian beings
         slug: reptilian-beings

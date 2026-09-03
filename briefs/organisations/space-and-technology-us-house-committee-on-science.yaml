@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 39200f8f80fc637f491993a139287da94b2b5e56c2490b2d918137cbf66fb39e
+brief_hash: 8affc38734594bfaecd4710c396d84ba615b49341a7d5c6dbc6df51291b085ad
 page:
   kind: entity
   node_id: d1b0c1f5-005e-4833-a948-e02f64cda258
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 620
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 3
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 0.75
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,11 +43,6 @@ related_nodes:
     node_type: person
     slug: maxwell-frost
     shared_claims: 2
-  - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-    title: 2004 USS Nimitz UAP encounter
-    node_type: event
-    slug: 2004-uss-nimitz-uap-encounter
-    shared_claims: 1
   - node_id: c6b4eb8e-321f-49d2-a627-29b365603977
     title: Bill Nelson
     node_type: person
@@ -57,6 +62,11 @@ related_nodes:
     title: Robert Roe
     node_type: person
     slug: robert-roe
+    shared_claims: 1
+  - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+    title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+    node_type: event
+    slug: sts-48-unidentified-aerial-phenomena-uap-incident
     shared_claims: 1
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
@@ -81,6 +91,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.971
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2d427ac3-7b6c-49bf-a21d-f4291473c1f3
         title: Robert Roe
@@ -125,6 +140,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: a780b830-629b-42fd-9a3c-83da9eea0e78
         title: Maxwell Frost
@@ -142,7 +162,7 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: 762dd61a-06e0-46c7-962a-0b4d29858eac
@@ -162,6 +182,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
@@ -188,11 +213,11 @@ claims:
       record_id: 5e233de3-335a-46b1-8b03-81df19638eae
       record_title: 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'
       record_date: '2023-07-26'
-      record_reference: null
+      record_reference: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Transcript-20230726.pdf
       content_hash: sha256:e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed69a6d8ec1
       friendly_name: 2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety
   - claim_id: cf262ec5-9c04-4885-9324-6990301d9aca
-    claim_hash: f8c8980e29fb81004a3c4889d90ac0f77f5ea040ea0e23b3fdab8add32e31a9f
+    claim_hash: 87e1fe43e000f2a416a4ede0c2f3f45613264e3f46eefb620225a52a36bfa125
     content: National Aeronautics and Space Administration (NASA)'s official response to the STS-48 UAP incident was limited
       to its official statement and testimony given to the United States House Committee on Space Science and Technology.
     original_excerpt: NASA's official response seems to just be limited to that statement and what they told the House Committee
@@ -208,13 +233,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.815
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5e47c787-005b-4c91-ba4b-c9bec48146c9
         title: National Aeronautics and Space Administration (NASA)
         slug: national-aeronautics-and-space-administration-nasa
-      - node_id: ae7507ac-dcb4-4689-bb0e-7c2e8ab4c5ac
-        title: 2004 USS Nimitz UAP encounter
-        slug: 2004-uss-nimitz-uap-encounter
+      - node_id: be909f79-08f0-490f-ad92-093b8ff44a31
+        title: STS-48 Unidentified Aerial Phenomena (UAP) incident
+        slug: sts-48-unidentified-aerial-phenomena-uap-incident
       - node_id: d1b0c1f5-005e-4833-a948-e02f64cda258
         title: US House Committee on Science, Space, and Technology
         slug: space-and-technology-us-house-committee-on-science

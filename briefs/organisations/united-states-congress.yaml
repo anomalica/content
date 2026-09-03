@@ -1,29 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: ea394718a1c87a5a9cd02508d235d42580afdaab950beb17996a75c865f64bfb
+brief_hash: 0f383e40b05d698dc5b346b2a86a0a4e0f779762899952e1847ad5dc4d8838c8
 page:
   kind: entity
   node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
   node_type: organisation
   title: United States Congress
   slug: united-states-congress
-  claim_count: 264
-  claim_count_total: 264
+  claim_count: 266
+  claim_count_total: 266
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 264
-  tokens_estimated: 42517
+  claims: 266
+  tokens_estimated: 42750
   sized_against: 1050000
 entailment:
-  assessed: 264
+  assessed: 266
   unassessed: 0
-  entails: 218
+  entails: 220
   neutral: 34
   contradicts: 12
   entailed_by_quote: 61
-  entailed_by_window: 157
-  entailed_by_quote_fraction: 0.231
-  entailed_by_window_fraction: 0.595
+  entailed_by_window: 159
+  entailed_by_quote_fraction: 0.229
+  entailed_by_window_fraction: 0.598
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -31,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 264
+  unreviewed: 266
 related_nodes:
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
     title: Unidentified Anomalous Phenomena (UAP)
@@ -164,9 +164,9 @@ related_nodes:
     slug: space-exploration-initiative-sei
     shared_claims: 4
   - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-    title: Unidentified Aerial Phenomena (UAP) Disclosure Act
+    title: Unidentified Anomalous Phenomena Disclosure Act of 2023
     node_type: document
-    slug: unidentified-aerial-phenomena-uap-disclosure-act
+    slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     shared_claims: 4
   - node_id: f087deb0-586f-4b7c-be3c-eb23e49569a5
     title: 2024 United States congressional hearing on UAPs (13 November)
@@ -7281,8 +7281,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:4211-4390
@@ -7332,8 +7332,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:4967-5333
@@ -7417,8 +7417,8 @@ claims:
         title: United States Congress
         slug: united-states-congress
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:7152-7258
@@ -7462,8 +7462,8 @@ claims:
         title: Legacy Program
         slug: legacy-program
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: null
     date_end: null
     location_in_record: ch32:7282-7417
@@ -10452,6 +10452,104 @@ claims:
       record_date: '2026-06-30'
       record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 2064dd7e-2fc8-4043-a870-705485309d31
+    claim_hash: 87d7bd80a88b8185479318d992bdb193b2ede8807606f8b344db5153e953179f
+    content: Steve Scalise confirmed that he and some other members of Congress attended a classified briefing.
+    original_excerpt: Well, we had a classified briefing that some of us went to.
+    claim_type: testimony
+    attestation: third_hand
+    speaker:
+      node_id: 77564a49-b54f-4ed3-a1e1-89f0c143e049
+      title: Steve Scalise
+    provenance_chain:
+      origin_kind: named
+      origin: Steve Scalise
+      relay:
+        - journalist Matt Laslo
+        - Christopher Sharp
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 77564a49-b54f-4ed3-a1e1-89f0c143e049
+        title: Steve Scalise
+        slug: steve-scalise
+    date: '2026-04-28'
+    date_end: null
+    location_in_record: char:12762-12818
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
+      friendly_name: null
+  - claim_id: 9eb3ae80-f42f-4d65-9150-ac211653c988
+    claim_hash: 88db04ec35cbd6a7e89ce79a694682381918f0c3cf27bf7d505febbf7ae0d7da
+    content: The December 2025 incident precipitated a classified briefing for members of United States Congress, including
+      House Majority Leader Steve Scalise and Representatives Eric Burlison and Tim Burchett.
+    original_excerpt: precipitated a classified briefing for members of Congress, including [House Majority Leader Steve]
+      Scalise and Representatives [Eric] Burlison and [Tim] Burchett.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 4fb65b2c-296a-493d-bbc7-65e4b763c1f0
+        title: United States Congress
+        slug: united-states-congress
+      - node_id: 71b8e508-1c7b-4573-a68e-34c777cdeffa
+        title: Tim Burchett
+        slug: tim-burchett
+      - node_id: 77564a49-b54f-4ed3-a1e1-89f0c143e049
+        title: Steve Scalise
+        slug: steve-scalise
+      - node_id: d0dc734b-e88b-4274-bdfd-8181139805b2
+        title: Eric Burlison
+        slug: eric-burlison
+      - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+        title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+    date: 2025-12
+    date_end: null
+    location_in_record: char:1554-1708
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
       friendly_name: null
   - claim_id: e32b34d5-61dd-48ed-a9b0-e14bb9edae7e
     claim_hash: 1f8fdf6f4b58edac20898cbd9fd51a7bc18a7cc71eb509650ba6de0616895839

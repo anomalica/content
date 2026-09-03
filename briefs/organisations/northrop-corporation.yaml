@@ -9,11 +9,21 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 3
   tokens_estimated: 363
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 3
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 1.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -99,6 +109,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.45
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 8e86b811-cd15-4d4a-bd4f-bed40ed720b6
         title: Northrop Corporation
@@ -145,6 +160,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.981
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 25a787b0-7c63-445a-b21d-0d4e15c05f46
         title: Lockheed Corporation
@@ -196,6 +216,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.61
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0958a9ec-0ffb-4ce8-9d45-b10623111b85
         title: USA, California, Tejon

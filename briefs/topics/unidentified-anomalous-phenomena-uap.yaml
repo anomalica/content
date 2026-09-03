@@ -1,29 +1,29 @@
 schema: anomalica/brief/1
-brief_hash: 6c9de2cfc6ba34b389878106924bbb4b222070c177340a132e4dd7f0eef25946
+brief_hash: 5b407762e2b9787c581ce8949010d66278c99fd443d89934628e1cc505795af2
 page:
   kind: entity
   node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
   node_type: topic
-  title: Unidentified Anomalous Phenomena (UAP)
+  title: UAP
   slug: unidentified-anomalous-phenomena-uap
-  claim_count: 1129
-  claim_count_total: 1129
+  claim_count: 1133
+  claim_count_total: 1133
 generated:
-  graph_version: '2026-09-02T14:12:13.257772+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
-  claims: 1129
-  tokens_estimated: 170819
+  claims: 1133
+  tokens_estimated: 171315
   sized_against: 1050000
 entailment:
-  assessed: 1129
+  assessed: 1133
   unassessed: 0
-  entails: 926
+  entails: 930
   neutral: 166
   contradicts: 37
   entailed_by_quote: 285
-  entailed_by_window: 641
+  entailed_by_window: 645
   entailed_by_quote_fraction: 0.252
-  entailed_by_window_fraction: 0.568
+  entailed_by_window_fraction: 0.569
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -31,7 +31,7 @@ publication:
 belonging:
   verified: 0
   suspect_excluded: 0
-  unreviewed: 1129
+  unreviewed: 1133
 related_nodes:
   - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
     title: Luis Elizondo
@@ -62,7 +62,7 @@ related_nodes:
     title: All-domain Anomaly Resolution Office (AARO)
     node_type: organisation
     slug: all-domain-anomaly-resolution-office-aaro
-    shared_claims: 54
+    shared_claims: 55
   - node_id: 816c219b-6372-49f6-9579-5eeabb9a7474
     title: Donald Trump
     node_type: person
@@ -173,16 +173,16 @@ related_nodes:
     node_type: person
     slug: harold-e-puthoff
     shared_claims: 10
+  - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+    title: Office of the Director of National Intelligence (ODNI)
+    node_type: organisation
+    slug: office-of-the-director-of-national-intelligence-odni
+    shared_claims: 10
   - node_id: 403edb72-ebc4-4b89-8746-4cd19e089691
     title: The Pentagon
     node_type: organisation
     slug: the-pentagon
     shared_claims: 10
-  - node_id: 382b6d6c-0182-4121-8bfc-525602d667b1
-    title: Defense Intelligence Agency (DIA)
-    node_type: organisation
-    slug: defense-intelligence-agency-dia
-    shared_claims: 9
 claims:
   - claim_id: 92dbc915-df68-4ed3-a8e7-d91da4646bdd
     claim_hash: d837422e002e9eeb9cd362cd70ca5ec7972848850343088c686102f17942cbc3
@@ -33302,8 +33302,8 @@ claims:
         title: Unidentified Anomalous Phenomena (UAP)
         slug: unidentified-anomalous-phenomena-uap
       - node_id: da0ae6a2-3fcc-4a18-b9ba-2e215b0c66a9
-        title: Unidentified Aerial Phenomena (UAP) Disclosure Act
-        slug: unidentified-aerial-phenomena-uap-disclosure-act
+        title: Unidentified Anomalous Phenomena Disclosure Act of 2023
+        slug: unidentified-anomalous-phenomena-disclosure-act-of-2023
     date: '2024'
     date_end: null
     location_in_record: 00:20:08.6-00:20:18.4
@@ -39289,6 +39289,188 @@ claims:
       record_date: '2026-06-30'
       record_reference: https://www.youtube.com/watch?v=tZHuAZpLdFw
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
+      friendly_name: null
+  - claim_id: 9e71cecf-47d1-497d-beee-c8b79557772c
+    claim_hash: 460eee969a62b95f2f13ff83c90a70a448cfab18df1c01d1e30c4959b1e21b24
+    content: During the December 2025 incursion over a sensitive military facility in the southwestern United States, the
+      Office of the Director of National Intelligence (ODNI) was conducting an unidentified aerial phenomena-luring operation.
+    original_excerpt: during the December 2025 incursion in the southwestern United States over a sensitive military facility,
+      the Office of the Director of National Intelligence was conducting a UAP-luring operation.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.989
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+        title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+    date: 2025-12
+    date_end: null
+    location_in_record: char:1084-1269
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
+      friendly_name: null
+  - claim_id: 4f726ef3-a37c-433e-a4f3-e0dfbb9994b2
+    claim_hash: 96e230371b1355e9c5d5135f17929d007dc22f7d1aea3fc3982828a011dd8dc7
+    content: The December 2025 incident was described as incontrovertible proof that a real unidentified aerial phenomena
+      phenomenon exists.
+    original_excerpt: This event was described as incontrovertible proof that there is a real phenomenon here
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: d3a82f5e-f2f8-4c27-a138-04bf6c373787
+        title: Utah drone Unidentified Aerial Phenomena (UAP) encounter
+        slug: utah-drone-unidentified-aerial-phenomena-uap-encounter
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+    date: 2025-12
+    date_end: null
+    location_in_record: char:1720-1803
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
+      friendly_name: null
+  - claim_id: 1358d589-f0dc-4205-8d58-9797e01b7e53
+    claim_hash: 3bff15aa5bceddb207c4c504a20aa4b055e7db2401ffd3ced236b896b9901233
+    content: The All-Domain Anomaly Resolution Office (AARO) and the Office of the Director of National Intelligence (ODNI)
+      know that unidentified aerial phenomena are a real phenomenon.
+    original_excerpt: it suggests not only that AARO—the All-domain Anomaly Resolution Office—and ODNI know this is a real
+      phenomenon
+    claim_type: opinion
+    attestation: first_hand
+    speaker:
+      node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+      title: Jordan Flowers
+    provenance_chain:
+      origin_kind: speaker
+      origin: Jordan Flowers
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+      - node_id: c52fd2ac-fa87-43e8-8a8b-1bbd33ef6a28
+        title: Office of the Director of National Intelligence (ODNI)
+        slug: office-of-the-director-of-national-intelligence-odni
+      - node_id: d45bb5fb-ce7a-4893-8a4a-ba1eaf171fab
+        title: Jordan Flowers
+        slug: jordan-flowers
+      - node_id: e79e207c-a848-4eb7-9246-07587b20d2c1
+        title: All-domain Anomaly Resolution Office (AARO)
+        slug: all-domain-anomaly-resolution-office-aaro
+    date: null
+    date_end: null
+    location_in_record: char:2034-2135
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
+      friendly_name: null
+  - claim_id: 6aab8f4c-c523-400a-816d-77af8415e97e
+    claim_hash: ad2b6edda0361e75576423b1921bd3507c6c8cf2900bba16263cf787731ffc9f
+    content: The Disclosure Foundation is an advocacy group focused on Unidentified Aerial Phenomena (UAP).
+    original_excerpt: The Disclosure Foundation is an advocacy group focused on Unidentified Anomalous Phenomena, or UAP.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: article narration
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
+    node_refs:
+      - node_id: 32eb9860-856b-4b06-abf3-b43571c80852
+        title: Disclosure Foundation
+        slug: disclosure-foundation
+      - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
+        title: Unidentified Anomalous Phenomena (UAP)
+        slug: unidentified-anomalous-phenomena-uap
+    date: null
+    date_end: null
+    location_in_record: char:534-629
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: ef003ed0-6948-43f6-9243-12c7612be97e
+      record_title: FBI Photos Show Orbs Beneath Helicopter During Alleged ODNI UAP “Luring Operation” — Liberation Times
+        | Reimagining Old News
+      record_date: '2026-07-12'
+      record_reference: https://www.liberationtimes.com/home/us-conducted-successful-ufo-luring-operation-advocate-claims-as-government-files-detail-orb-encounters
+      content_hash: sha256:7229c46a4e1ac9cd564bbbd3c00a0b2ff6bf9da95c432ba95bb2a68956e671fe
       friendly_name: null
   - claim_id: 120424d0-b8ac-474c-9d12-cd807ff4122a
     claim_hash: de397ff47ccc90d837fc5842153e9169c02c1b2aade77eff874b39db7dc98118

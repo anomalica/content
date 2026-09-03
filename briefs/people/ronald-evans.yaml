@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 9fbe4a5eb4f94830dbb6c54fe239bb1db212b920e68d76e3437385b477769ccd
+brief_hash: c87a02b6b2dbbe348d0c364e129adf08f9ab35f18e805c99863ca5c62f2f5a35
 page:
   kind: entity
   node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 647
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -68,6 +78,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
         title: Ronald Evans
@@ -89,7 +104,7 @@ claims:
       content_hash: sha256:25a9e93d79b0f1feb552ba94747fac0cde92b2e690764a8bcc7ed225c3e4b6a8
       friendly_name: null
   - claim_id: d9686b1d-a568-4bf9-9229-d511a8f4890e
-    claim_hash: 8b08d84de15ad0870d66f14df867ecfb6cb2491f934d58dda4e5c3eac251f230
+    claim_hash: c9eb5e512d034614526bab1d0576804f9f9b52a22d304d6a8b2e2b9348de4c58
     content: Ronald Evans carried the burden of general flight planning for Apollo 17 on behalf of Eugene Cernan and Harrison
       Schmitt.
     original_excerpt: Ron sort of carried the burden of that for both Gene and myself.
@@ -104,6 +119,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.443
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
         title: Ronald Evans
@@ -131,7 +151,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 0c5448a4-d511-4589-8a43-80890ee159dd
-    claim_hash: 2585dd6299435b1e13f038d5f88679225e423c711081eed85a927d0768bb7e54
+    claim_hash: 2f52ed79808fea6474ee7901db116e36784a03810a19d7eed1caf066c8f21248
     content: Harrison Schmitt observed that the light flash phenomena was not visible to himself or the other two crewmen
       during only that one interval around the ALPMET blindfold experiment.
     original_excerpt: So it just seemed to be that one interval on either side of it where the light flash phenomena was not
@@ -147,6 +167,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
         title: Ronald Evans
@@ -174,7 +199,7 @@ claims:
       content_hash: sha256:63c518ebd5b9dbaf027b3dcdbc0f7fe2572ff85e4be34b72062dd82cb161830b
       friendly_name: null
   - claim_id: 8d679ea3-f46f-4b76-bcbe-d5051ea52287
-    claim_hash: 6cef24436066a6f0ecc6afe86a0e46524305abce610778e88fb0d7ca1db74451
+    claim_hash: ce71ad2a54d1eaf25b3b529a6f97679f3fcbac04207515a22f10617a7500a4ac
     content: Ronald Evans dealt with the Lunar Sounder, which took the most training time of any single area for the Apollo
       17 crew.
     original_excerpt: Ron, I guess the biggest single area that took time was one that Ron had to deal with, and that was
@@ -190,6 +215,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 3998e88f-70fd-4fd9-afa1-aa4a8bea2362
         title: Lunar Sounder
@@ -232,6 +262,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.8
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 64977787-2b5d-4859-aae8-bb7bec4a4a99
         title: Ronald Evans

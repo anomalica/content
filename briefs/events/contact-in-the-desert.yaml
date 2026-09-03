@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: fb1451b9043a29a7f5f4f763e8a3b9359c666f64a31ce4a434804f8229e9c504
+brief_hash: c697d2ee59f41ba46ae9ce9ecfb556554abf74fd15088792b89151b0392f94a4
 page:
   kind: entity
   node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
@@ -9,11 +9,21 @@ page:
   claim_count: 9
   claim_count_total: 9
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 9
   tokens_estimated: 1135
   sized_against: 1050000
+entailment:
+  assessed: 9
+  unassessed: 0
+  entails: 7
+  neutral: 2
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 6
+  entailed_by_quote_fraction: 0.111
+  entailed_by_window_fraction: 0.667
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -48,10 +58,10 @@ related_nodes:
     node_type: topic
     slug: atlantis
     shared_claims: 1
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: Nonhuman intelligence (NHI)
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
     node_type: topic
-    slug: nonhuman-intelligence-nhi
+    slug: non-human-intelligence
     shared_claims: 1
   - node_id: 8b0155a9-fabc-4b8d-9ee9-45eac58dbf2e
     title: Out-of-Body Experience (OBE)
@@ -84,6 +94,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -123,6 +138,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 09224572-7980-4e4d-a433-e05c3a40a77e
         title: Atlantis
@@ -164,6 +184,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 2fb38d8e-5dc9-429c-a03e-e7573f67e4a0
         title: Paul Smith
@@ -206,6 +231,11 @@ claims:
         - a conversation with Chris Ramsay at the convention
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.396
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -244,6 +274,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -268,7 +303,7 @@ claims:
       content_hash: sha256:8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8998cfdcd
       friendly_name: null
   - claim_id: 46b4aeed-c1bf-4f6c-a602-04048c7d1558
-    claim_hash: 407a0f920f623e1536e88373a1e5d64a691dcd0216677f7529980e31970a6df4
+    claim_hash: 317e9a6a63909ca30188f479add3c4a4cc644859914e87ba1140d1a0c86c62ee
     content: Sovereignty over one's own mind in the presence of non-human intelligence was one of the topics discussed on
       a panel Julia Mossbridge took part in at Contact in the Desert.
     original_excerpt: there is this idea of sovereignty. That's one of the things we were talking about at that conference...
@@ -285,13 +320,18 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.988
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
       - node_id: b900faaa-0e7d-4baf-a026-408c717cdb1f
         title: Contact in the Desert
         slug: contact-in-the-desert
@@ -325,6 +365,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -365,6 +410,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.96
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
@@ -405,6 +455,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay

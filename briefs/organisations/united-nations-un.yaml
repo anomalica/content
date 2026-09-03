@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 6508f8df4e0044bc39e1f05a39004692aa9a6e3971ef6940f7f5bc6347ba1eb3
+brief_hash: 0e62209ea5f46568a01e376e0849c7e6eac9afe4563b77051d71308f16a8f6fa
 page:
   kind: entity
   node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
@@ -9,11 +9,21 @@ page:
   claim_count: 31
   claim_count_total: 31
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 31
   tokens_estimated: 5761
   sized_against: 1050000
+entailment:
+  assessed: 31
+  unassessed: 0
+  entails: 23
+  neutral: 8
+  contradicts: 0
+  entailed_by_quote: 5
+  entailed_by_window: 18
+  entailed_by_quote_fraction: 0.161
+  entailed_by_window_fraction: 0.581
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -193,6 +203,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.608
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -236,6 +251,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -273,6 +293,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.571
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 1eabd894-9059-432b-990a-74c0a81eec82
         title: Gordon Cooper
@@ -314,6 +339,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -346,6 +376,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.389
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9c0c395f-291e-41fd-b164-edfd2fbae57b
         title: Extraterrestrial biological entity (EBE)
@@ -382,6 +417,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.41
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -414,6 +454,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.483
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -448,6 +493,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.736
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -482,6 +532,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.423
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 61f58052-335f-455c-b493-9ab16a6c11c0
         title: J. Robert Oppenheimer
@@ -506,7 +561,7 @@ claims:
       content_hash: sha256:d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43c42e81a4
       friendly_name: null
   - claim_id: d0f76a8d-f4a0-448e-8aa1-5385a930e4f2
-    claim_hash: b6aa4108a781f7cdfd0459932a25478135d5bec2654486fe1401c4f6d859c068
+    claim_hash: 7014a78b74ee9b9e2e75d749ee05e5a66bc89171ebb05248828c4133b2f42353
     content: United Nations Secretary General U Thant told the heads of state in Washington, Havana, and Moscow that he would
       help mediate the Cuban Missile Crisis discussion, at the request of forty-five other UN member nations.
     original_excerpt: The UN secretary general U Thant told the heads of state in Washington, Havana, and Moscow that he would
@@ -520,6 +575,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.445
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant
@@ -569,6 +629,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.473
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
@@ -616,6 +681,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.486
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9da33243-6854-43d4-b60d-fbeeb284787e
         title: USA, District of Columbia, Washington
@@ -659,6 +729,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
         title: Hoagland presentation at United Nations, 1992
@@ -705,6 +780,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.51
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
         title: Hoagland presentation at United Nations, 1992
@@ -747,6 +827,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
         title: Hoagland presentation at United Nations, 1992
@@ -788,6 +873,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.89
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 8f488d6a-ebc1-4ff3-83db-fc54d4efd7b5
         title: Kennedy United Nations General Assembly speech, 1963-09-20
@@ -830,6 +920,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.977
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
         title: Hoagland presentation at United Nations, 1992
@@ -882,6 +977,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.987
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 08991fc4-7d33-4cc1-81ad-9886f4b4c947
         title: Hoagland presentation at United Nations, 1992
@@ -925,6 +1025,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.986
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06412ca6-a1b6-411b-9e8b-2100b8c961bd
         title: Jacques Vallée
@@ -963,6 +1068,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.465
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 435a9455-09bd-484b-a515-5ede8f27e97f
         title: Predator unmanned aerial vehicle (UAV)
@@ -987,7 +1097,7 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a
   - claim_id: 5ccb2a47-faa3-4917-97e8-3d423cadbc87
@@ -1005,6 +1115,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.995
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -1042,6 +1157,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -1079,6 +1199,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -1117,6 +1242,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -1154,6 +1284,11 @@ claims:
         - Chris Ramsey reading the document aloud
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: c5f92da6-c01e-4a4a-9055-0b234f7a89ca
         title: United Nations (UN)
@@ -1188,6 +1323,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 3e274df3-f113-48d4-87e0-5a82f3391806
         title: Chang
@@ -1224,6 +1364,11 @@ claims:
     provenance_chain: null
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.97
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 92f893a7-50c3-4873-ad60-1a5f8c6db44f
         title: North Atlantic Treaty Organization (NATO)
@@ -1261,6 +1406,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.572
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
         title: Outer Space Affairs Group
@@ -1307,6 +1457,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
         title: James MacDonald
@@ -1347,6 +1502,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.82
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 21ac8572-72ad-41d7-a958-dbe41135e845
         title: Outer Space Affairs Group
@@ -1397,6 +1557,11 @@ claims:
         - James E. McDonald
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.99
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 06cbf698-b9fd-4f4e-8c60-4cc4edf7efc2
         title: U Thant

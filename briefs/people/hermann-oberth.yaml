@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: aa69869d986421c068a464c84d096ea25d1efc24b09e93a530d319998ca7609e
+brief_hash: 9fdef5689f51ce36126ac38b1e942d71466d9ca9b835093bb053b0cf82511be7
 page:
   kind: entity
   node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
@@ -9,11 +9,21 @@ page:
   claim_count: 7
   claim_count_total: 7
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 7
   tokens_estimated: 729
   sized_against: 1050000
+entailment:
+  assessed: 7
+  unassessed: 0
+  entails: 7
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 4
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.571
+  entailed_by_window_fraction: 0.429
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -33,10 +43,10 @@ related_nodes:
     node_type: person
     slug: wernher-von-braun
     shared_claims: 3
-  - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-    title: Nonhuman intelligence (NHI)
+  - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+    title: Non-Human Intelligence
     node_type: topic
-    slug: nonhuman-intelligence-nhi
+    slug: non-human-intelligence
     shared_claims: 2
   - node_id: b3b222d2-ced6-49c2-9a1e-06991531f87e
     title: Ed Forman
@@ -73,6 +83,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.543
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
         title: Wernher von Braun
@@ -114,6 +129,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.715
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
         title: Wernher von Braun
@@ -149,6 +169,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.984
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 6f90c776-6afc-49e2-ac5a-9335d9259398
         title: Wernher von Braun
@@ -186,6 +211,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.576
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -223,6 +253,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.992
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -247,7 +282,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 75b38262-d8c8-4a84-891b-d29cd377efc9
-    claim_hash: 3434c9c4d89ba67a890ec378ed302cb7f276c0df61883ccebf5d900a43531d90
+    claim_hash: ffbc2fdbebc1db279ae3e44e1173a5e7b63859abc894280a50d3c1f9e1484625
     content: Hermann Oberth respected the beings riding in UFOs.
     original_excerpt: But Dr. Oberth truly respected the beings actually riding in UFOs.
     claim_type: testimony
@@ -260,13 +295,18 @@ claims:
         - an archival recording played in the video
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.951
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
       - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
         title: Hermann Oberth
         slug: hermann-oberth
@@ -284,7 +324,7 @@ claims:
       content_hash: sha256:d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7b5a1b98d
       friendly_name: null
   - claim_id: 41d80304-cda9-4fc7-b466-b7de1ed6295f
-    claim_hash: ce9b5c0bc3b965743a60541a1466c2cc970c05daf084b2919b235f92f1fe891b
+    claim_hash: 6a1129f87c52065a96e6403656e8dbb58c781d81222eb7bd8c914324e633f5a5
     content: Hermann Oberth claimed that a relationship existed with non-human beings.
     original_excerpt: we talked about a Hermann, I forget his name, the German guy, the Nazi guy who claimed that they had
       a relationship. Hermann Oberth?
@@ -300,10 +340,15 @@ claims:
         - Jason Samosa
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
-      - node_id: 30940882-37a5-4db5-980d-282dafd2df49
-        title: Nonhuman intelligence (NHI)
-        slug: nonhuman-intelligence-nhi
+      - node_id: 9c74d864-957a-4654-a5b6-1249fe654ec7
+        title: Non-Human Intelligence
+        slug: non-human-intelligence
       - node_id: fda41e1c-f593-4e3b-8393-fa33980dfe84
         title: Hermann Oberth
         slug: hermann-oberth

@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 5723ce247c42df7aaa23717403c1c11f9651f0aed507ae2bab27425f7ba6da4e
+brief_hash: 7457cbb54aff064ec138898ed51b369db8b710994088a295701af93240dbfb99
 page:
   kind: entity
   node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
@@ -9,11 +9,21 @@ page:
   claim_count: 13
   claim_count_total: 13
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 13
   tokens_estimated: 1852
   sized_against: 1050000
+entailment:
+  assessed: 13
+  unassessed: 0
+  entails: 7
+  neutral: 4
+  contradicts: 2
+  entailed_by_quote: 4
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.308
+  entailed_by_window_fraction: 0.231
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -63,10 +73,10 @@ related_nodes:
     node_type: document
     slug: 1952-central-intelligence-agency-cia-document-on-flying-disc-sightings
     shared_claims: 1
-  - node_id: 7521d1ab-75a8-4417-9697-20deefc01873
-    title: 1952 Los Alamos National Laboratory UAP sighting
+  - node_id: 7a05496e-487c-406e-be55-caa8a6b0627d
+    title: 1952 Los Alamos Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: 1952-los-alamos-national-laboratory-uap-sighting
+    slug: 1952-los-alamos-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 1
   - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
     title: Bob Lazar
@@ -114,231 +124,8 @@ related_nodes:
     slug: unidentified-aerial-phenomena-uap-gerb
     shared_claims: 1
 claims:
-  - claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
-    claim_hash: 3d529f3e6531e86f319e8ea7d87ce8dcfc261d5c7c63eff90666b95bcf92b597
-    content: George Knapp rebutted official denials that Bob Lazar ever worked at Los Alamos National Laboratory in New Mexico,
-      citing an old news story placing Lazar there and the fact that Lazar sneaked Knapp into the secure facility and was
-      familiar with the site and its workers.
-    original_excerpt: Journalist George Knapp has convincingly rebutted official denials that Lazar ever worked at Los Alamos
-      National Laboratory in New Mexico; not only is there an old news story placing him there, Lazar sneaked Knapp into the
-      secure facility and Lazar was clearly very familiar with the site and knew workers inside.
-    claim_type: testimony
-    attestation: first_hand
-    speaker:
-      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-      title: George Knapp
-    provenance_chain:
-      origin_kind: speaker
-      origin: George Knapp
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
-        title: George Knapp
-        slug: george-knapp
-      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
-        title: USA, New Mexico, Los Alamos
-        slug: new-mexico-los-alamos-usa
-      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
-        title: Bob Lazar
-        slug: bob-lazar
-      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
-        title: Los Alamos National Laboratory
-        slug: los-alamos-national-laboratory
-    date: null
-    date_end: null
-    location_in_record: ch13:23810-24116
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 05939327-0016-4175-9800-ae3e66ea709d
-    claim_hash: 31b50c56de9126515970ccdae7e08eeb78806b990410a8e47f1952abc0d752cd
-    content: The 1952 CIA document on flying disc sightings acknowledged unexplained sightings over the Los Alamos National
-      Laboratory and Oak Ridge National Laboratory nuclear weapons laboratories at a time when the background radiation count
-      had risen inexplicably.
-    original_excerpt: it also acknowledged unexplained sightings over the highly sensitive Los Alamos and Oak Ridge nuclear
-      weapons laboratories 'at a time when the background radiation count had risen inexplicably.'
-    claim_type: administrative
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: document
-      origin: 1952 CIA document on flying disc sightings
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
-        title: Oak Ridge National Laboratory
-        slug: oak-ridge-national-laboratory
-      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
-        title: Los Alamos National Laboratory
-        slug: los-alamos-national-laboratory
-      - node_id: d539c9a5-3791-43e0-a299-bc4894b3bb6b
-        title: 1952 Central Intelligence Agency (CIA) document on flying disc sightings
-        slug: 1952-central-intelligence-agency-cia-document-on-flying-disc-sightings
-    date: '1952'
-    date_end: null
-    location_in_record: ch8:10073-10253
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 2530694a-531e-41fb-b88a-8dbfe19e5cb1
-    claim_hash: 18e27d1fd1fbb9e98bbf8a5fffa89246e62d9d799f23a3e1eb232738a0738ec0
-    content: In April 1950, fifteen people at the Los Alamos National Laboratory watched an object hovering at approximately
-      610 metres for 20 minutes.
-    original_excerpt: In April 1950, 15 people at the Los Alamos nuclear weapons laboratory watched an object hovering at
-      2000 feet for 20 minutes
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: witnesses at Los Alamos National Laboratory
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
-        title: Los Alamos National Laboratory
-        slug: los-alamos-national-laboratory
-      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
-        title: Los Alamos 1950 UAP Sighting
-        slug: los-alamos-1950-uap-sighting
-    date: 1950-04
-    date_end: null
-    location_in_record: ch8:5064-5181
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 1b971d84-fed6-4e53-8cf2-6fe39c437273
-    claim_hash: 75b3e4ee89c284a9ed494cdb87afd8e6d72a121c43872d33a7f3a69b20247eb2
-    content: Seen through a telescope, the object observed at Los Alamos National Laboratory in April 1950 was described as
-      flat, roughly circular, and about 2.7 metres in diameter.
-    original_excerpt: Seen through a telescope, the metallic-looking object was described as flat, roughly circular and about
-      nine feet (2.7 metres) in diameter
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: witnesses at Los Alamos National Laboratory
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
-        title: Los Alamos National Laboratory
-        slug: los-alamos-national-laboratory
-      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
-        title: Los Alamos 1950 UAP Sighting
-        slug: los-alamos-1950-uap-sighting
-    date: 1950-04
-    date_end: null
-    location_in_record: ch8:5190-5320
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 3a3fca08-7cff-4f04-87a7-4867b9666992
-    claim_hash: 810157477e2e0d1f96cf837f955d49b3ba5102ca6a721e8f1224c3c198ddb128
-    content: A scientist who watched the April 1950 Los Alamos National Laboratory object said it flew faster than any known
-      conventional aircraft.
-    original_excerpt: The scientist watching it said it flew 'faster than any known conventional aircraft.'
-    claim_type: testimony
-    attestation: second_hand
-    speaker: null
-    provenance_chain:
-      origin_kind: anonymous
-      origin: an unnamed scientist who witnessed the object
-      relay: []
-    attribution_mode: unknown
-    attachment: unreviewed
-    node_refs:
-      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
-        title: Los Alamos National Laboratory
-        slug: los-alamos-national-laboratory
-      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
-        title: Los Alamos 1950 UAP Sighting
-        slug: los-alamos-1950-uap-sighting
-    date: 1950-04
-    date_end: null
-    location_in_record: ch8:5330-5431
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 42bb0528-d7bb-4630-bd5b-1315dad45fb0
-    claim_hash: dadb634fa704b9ee7f2b442b8cb8edc7306412874f376fced4e8366e1737ff9b
-    content: In July 1952, multiple witnesses at Los Alamos National Laboratory saw a white egg-shaped object, larger than
-      a jet, that was at one stage motionless in the sky and then moving extremely fast.
-    original_excerpt: In July 1952, multiple witnesses at Los Alamos saw a white egg-shaped object, larger than a jet, that
-      was at one stage motionless in the sky and then moving extremely fast
-    claim_type: observation
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: witnesses at Los Alamos National Laboratory
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 7521d1ab-75a8-4417-9697-20deefc01873
-        title: 1952 Los Alamos National Laboratory UAP sighting
-        slug: 1952-los-alamos-national-laboratory-uap-sighting
-      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
-        title: Los Alamos National Laboratory
-        slug: los-alamos-national-laboratory
-    date: 1952-07
-    date_end: null
-    location_in_record: ch8:5443-5610
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 27e649fd-5bc8-43ab-a090-c86ae3e3dc5d
-    claim_hash: cfdf09e3698569b73c3e4c952d74062fc3aa9dc1749c40f28f31c10b2a5e10c3
+    claim_hash: 238c9b53369d7d737a47e491080907c33d372d65bafd8246cec4eb7583ba5322
     content: Scott Ramsey's opinion is that the recovered craft from the 1948 Roswell incident was taken to Los Alamos National
       Laboratory.
     original_excerpt: They took it to the Los Alamos nuclear laboratory. That's my opinion.
@@ -353,6 +140,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 2cae35cf-6627-4487-a101-93d79f1bd786
         title: 1948 Roswell UFO incident
@@ -376,8 +168,261 @@ claims:
       record_reference: https://www.youtube.com/watch?v=sm6AL5lA4Zc
       content_hash: sha256:957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643a7603660
       friendly_name: 2021-09-06-video-the-ufo-phenomenon-full-documentary-2021-7news-spotlight.v2
+  - claim_id: a2578240-b430-4934-ae53-5e9e9911ac02
+    claim_hash: 3d529f3e6531e86f319e8ea7d87ce8dcfc261d5c7c63eff90666b95bcf92b597
+    content: George Knapp rebutted official denials that Bob Lazar ever worked at Los Alamos National Laboratory in New Mexico,
+      citing an old news story placing Lazar there and the fact that Lazar sneaked Knapp into the secure facility and was
+      familiar with the site and its workers.
+    original_excerpt: Journalist George Knapp has convincingly rebutted official denials that Lazar ever worked at Los Alamos
+      National Laboratory in New Mexico; not only is there an old news story placing him there, Lazar sneaked Knapp into the
+      secure facility and Lazar was clearly very familiar with the site and knew workers inside.
+    claim_type: testimony
+    attestation: first_hand
+    speaker:
+      node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+      title: George Knapp
+    provenance_chain:
+      origin_kind: speaker
+      origin: George Knapp
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.979
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6712e8fa-3b86-4982-a102-e2d38e0b29d6
+        title: George Knapp
+        slug: george-knapp
+      - node_id: 99b62ee0-a336-4919-9804-070632a0e1a3
+        title: USA, New Mexico, Los Alamos
+        slug: new-mexico-los-alamos-usa
+      - node_id: b0c0fde0-37e6-4632-8d64-a95091f03a49
+        title: Bob Lazar
+        slug: bob-lazar
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: null
+    date_end: null
+    location_in_record: ch13:23810-24116
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 05939327-0016-4175-9800-ae3e66ea709d
+    claim_hash: 31b50c56de9126515970ccdae7e08eeb78806b990410a8e47f1952abc0d752cd
+    content: The 1952 CIA document on flying disc sightings acknowledged unexplained sightings over the Los Alamos National
+      Laboratory and Oak Ridge National Laboratory nuclear weapons laboratories at a time when the background radiation count
+      had risen inexplicably.
+    original_excerpt: it also acknowledged unexplained sightings over the highly sensitive Los Alamos and Oak Ridge nuclear
+      weapons laboratories 'at a time when the background radiation count had risen inexplicably.'
+    claim_type: administrative
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: document
+      origin: 1952 CIA document on flying disc sightings
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 6b5cea3e-8880-46eb-909e-19cba47e9b0b
+        title: Oak Ridge National Laboratory
+        slug: oak-ridge-national-laboratory
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: d539c9a5-3791-43e0-a299-bc4894b3bb6b
+        title: 1952 Central Intelligence Agency (CIA) document on flying disc sightings
+        slug: 1952-central-intelligence-agency-cia-document-on-flying-disc-sightings
+    date: '1952'
+    date_end: null
+    location_in_record: ch8:10073-10253
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 2530694a-531e-41fb-b88a-8dbfe19e5cb1
+    claim_hash: c9b407d69834add1e47bdeea08e8c355a594aef50fb128d3cb114c2e5c02abc3
+    content: In April 1950, fifteen people at the Los Alamos National Laboratory watched an object hovering at approximately
+      610 metres for 20 minutes.
+    original_excerpt: In April 1950, 15 people at the Los Alamos nuclear weapons laboratory watched an object hovering at
+      2000 feet for 20 minutes
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: witnesses at Los Alamos National Laboratory
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.918
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+        title: Los Alamos 1950 UAP Sighting
+        slug: los-alamos-1950-uap-sighting
+    date: 1950-04
+    date_end: null
+    location_in_record: ch8:5064-5181
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 1b971d84-fed6-4e53-8cf2-6fe39c437273
+    claim_hash: df143cf9b53e0d72ee14ba3acb3d2a5568ebe2c10aba15eeae0e16d92762e8af
+    content: Seen through a telescope, the object observed at Los Alamos National Laboratory in April 1950 was described as
+      flat, roughly circular, and about 2.7 metres in diameter.
+    original_excerpt: Seen through a telescope, the metallic-looking object was described as flat, roughly circular and about
+      nine feet (2.7 metres) in diameter
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: witnesses at Los Alamos National Laboratory
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+        title: Los Alamos 1950 UAP Sighting
+        slug: los-alamos-1950-uap-sighting
+    date: 1950-04
+    date_end: null
+    location_in_record: ch8:5190-5320
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 3a3fca08-7cff-4f04-87a7-4867b9666992
+    claim_hash: 604d2aa8954fdbd0ed6d2288310d74f12cb116ef12f55b04b3c99484a7b99af3
+    content: A scientist who watched the April 1950 Los Alamos National Laboratory object said it flew faster than any known
+      conventional aircraft.
+    original_excerpt: The scientist watching it said it flew 'faster than any known conventional aircraft.'
+    claim_type: testimony
+    attestation: second_hand
+    speaker: null
+    provenance_chain:
+      origin_kind: anonymous
+      origin: an unnamed scientist who witnessed the object
+      relay: []
+    attribution_mode: unknown
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+      - node_id: c6cace21-b8ae-4a11-b511-9a911c109214
+        title: Los Alamos 1950 UAP Sighting
+        slug: los-alamos-1950-uap-sighting
+    date: 1950-04
+    date_end: null
+    location_in_record: ch8:5330-5431
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 42bb0528-d7bb-4630-bd5b-1315dad45fb0
+    claim_hash: adbe5ce3e85890a000215ce09afdfd20baf7298ee41d761eacdb4a86dc4ba773
+    content: In July 1952, multiple witnesses at Los Alamos National Laboratory saw a white egg-shaped object, larger than
+      a jet, that was at one stage motionless in the sky and then moving extremely fast.
+    original_excerpt: In July 1952, multiple witnesses at Los Alamos saw a white egg-shaped object, larger than a jet, that
+      was at one stage motionless in the sky and then moving extremely fast
+    claim_type: observation
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: witnesses at Los Alamos National Laboratory
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.748
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 7a05496e-487c-406e-be55-caa8a6b0627d
+        title: 1952 Los Alamos Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1952-los-alamos-unidentified-aerial-phenomena-uap-sighting
+      - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
+        title: Los Alamos National Laboratory
+        slug: los-alamos-national-laboratory
+    date: 1952-07
+    date_end: null
+    location_in_record: ch8:5443-5610
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 6e405eb9-4e1d-487b-9294-e6bb669ec1fd
-    claim_hash: d2321ea3fdd8a5045f121fa9737c5da841b0113907fe814d6b32ea5cb92482f4
+    claim_hash: ab18dd1d841ef60e200b46673784028c46f7adb4253b546b41f8d948f96b8267
     content: Historically, Sandia National Laboratories, Lawrence Livermore National Laboratory, Los Alamos National Laboratory,
       and Oak Ridge National Laboratory have been extremely culpable in UAP-related retrieval operations, especially right
       after World War II.
@@ -386,14 +431,19 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.785
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 575753c5-cafa-48cf-9529-22dcc6e08ffe
         title: Sandia National Laboratories
@@ -439,6 +489,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.455
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
         title: Steve Bannon
@@ -484,6 +539,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.964
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 25b424e6-dc71-4394-b364-20668adc6d28
         title: Steve Bannon
@@ -528,6 +588,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.936
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -568,6 +633,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
         title: Los Alamos National Laboratory
@@ -604,6 +674,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: b65ca672-cb9e-4a57-a0fb-56ede7e118a4
         title: Los Alamos National Laboratory

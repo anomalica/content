@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 89bf807ceefe07e6b731a30323cdceee08054fadeaa1106d9891fa94f830865c
+brief_hash: 95156f46bd69bf82be827a6fcda7f7ef45a5a997bfcbed6ba03c18ba5735e387
 page:
   kind: entity
   node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
@@ -9,11 +9,21 @@ page:
   claim_count: 6
   claim_count_total: 6
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 6
   tokens_estimated: 709
   sized_against: 1050000
+entailment:
+  assessed: 6
+  unassessed: 0
+  entails: 2
+  neutral: 3
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 0
+  entailed_by_quote_fraction: 0.333
+  entailed_by_window_fraction: 0.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,10 +48,10 @@ related_nodes:
     node_type: person
     slug: robert-sarbacher
     shared_claims: 2
-  - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-    title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
+  - node_id: d6394787-29e2-4208-b126-47abda22b414
+    title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
     node_type: event
-    slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
+    slug: new-mexico-unidentified-flying-object-ufo-crash-1947-aztec
     shared_claims: 1
   - node_id: 418ccd0f-4646-46ee-9f02-5c344fa277d1
     title: Eric Walker
@@ -92,6 +102,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
         title: William Steinman
@@ -108,7 +123,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -129,6 +144,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
         title: William Steinman
@@ -145,12 +165,12 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 3686158e-b007-4c0c-af4b-23373b470d47
-    claim_hash: 7c2e36410f24f095b2ecb2b27e7949c68bf144425186cfd5440aa5bd772579c3
+    claim_hash: ae2b2be7cb501826f4e1b3ed61872b765e1ef5063441b254c1dbc5c475e5742a
     content: William Steinman's book The Crash at Aztec briefly mentions J. Robert Oppenheimer as tangentially related to
       the 1947 Aztec, New Mexico UFO crash and suggests he might have been part of a crash retrieval team.
     original_excerpt: the crash at aztec by steinman he does briefly mention oppenheimer being tangentially related to this
@@ -167,10 +187,12 @@ claims:
         - Chris Ramsey's narration
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.913
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
-      - node_id: 2e7b05e9-7ad8-4abd-a155-48d85bd9adc5
-        title: 1948 Aztec, New Mexico alleged Unidentified Aerial Phenomena (UAP) crash retrieval
-        slug: new-mexico-alleged-unidentified-aerial-phenomena-uap-crash-retrieval-1948-aztec
       - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
         title: William Steinman
         slug: william-steinman
@@ -180,6 +202,9 @@ claims:
       - node_id: be0f7797-340f-49e0-a9d2-60eabb4e5d15
         title: The Crash at Aztec (book by William Steinman)
         slug: the-crash-at-aztec-book-by-william-steinman
+      - node_id: d6394787-29e2-4208-b126-47abda22b414
+        title: 1947 Aztec, New Mexico Unidentified Flying Object (UFO) crash
+        slug: new-mexico-unidentified-flying-object-ufo-crash-1947-aztec
     date: null
     date_end: null
     location_in_record: 00:15:04.1-00:15:14.6
@@ -212,6 +237,11 @@ claims:
         - Jonathan Caplan
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.991
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 26448fd2-26bf-4101-b653-420bf22433d8
         title: John von Neumann
@@ -254,6 +284,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.997
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 399a8c23-20a1-423c-8a18-d5d0f5078e92
         title: William Steinman
@@ -295,6 +330,11 @@ claims:
         - Jesse Michels
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.897
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 0c444899-f412-4dd4-aa47-0d6677ec405c
         title: Henry Kissinger

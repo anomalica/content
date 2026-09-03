@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 77703709225d44ecb982fa25b1ad71112de81ce59248aa9120d49e6205321e66
+brief_hash: c6a96fa2bdb821671709012e4697e0014c9dbe0ae8849bab49e5772706d4b814
 page:
   kind: entity
   node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
@@ -9,11 +9,21 @@ page:
   claim_count: 3
   claim_count_total: 3
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 3
   tokens_estimated: 386
   sized_against: 1050000
+entailment:
+  assessed: 3
+  unassessed: 0
+  entails: 3
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 0
+  entailed_by_window: 3
+  entailed_by_quote_fraction: 0.0
+  entailed_by_window_fraction: 1.0
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -38,14 +48,14 @@ related_nodes:
     node_type: topic
     slug: reverse-engineering-of-recovered-craft-of-non-human-origin
     shared_claims: 1
-  - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-    title: UAP Gerb
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
     node_type: person
-    slug: uap-gerb
+    slug: unidentified-aerial-phenomena-uap-gerb
     shared_claims: 1
 claims:
   - claim_id: b2f8e5a8-6fa3-4545-b809-778f6ed2e0d5
-    claim_hash: 230c0bf6c10edf8210d3aaa6232c2a1a76a98b093c82678ed5bb322bbc6f2dc2
+    claim_hash: 8afce3d1efa7a2868888a226a79baa8e971857663c82b200c937f9a4075a51e1
     content: UAP Gerb has led multiple letters to various Federally Funded Research and Development Centers (FFRDCs).
     original_excerpt: And Congressman, you have led multiple letters to various FFRDCs.
     claim_type: administrative
@@ -57,13 +67,18 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.553
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
       - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
         title: Federally Funded Research and Development Center (FFRDC)
         slug: federally-funded-research-and-development-center-ffrdc
-      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-        title: UAP Gerb
-        slug: uap-gerb
     date: null
     date_end: null
     location_in_record: 00:06:36.8-00:06:40.3
@@ -94,6 +109,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 67b73a04-8bdf-43f7-8853-c21492336ef9
         title: Federally Funded Research and Development Center (FFRDC)
@@ -129,6 +149,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.999
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 38b84d4a-96df-4684-bb46-f6f64f392add
         title: Central Intelligence Agency (CIA)

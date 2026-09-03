@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 99581648cf7bef194b7c0eaddc01e368b0281a7fb09dd590da45d774ab988635
+brief_hash: fc680b1b0f587210b009941f9016f49a45a5694e167caa2620b6858cbd02138f
 page:
   kind: entity
   node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
@@ -9,11 +9,21 @@ page:
   claim_count: 10
   claim_count_total: 10
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 10
   tokens_estimated: 1257
   sized_against: 1050000
+entailment:
+  assessed: 10
+  unassessed: 0
+  entails: 9
+  neutral: 1
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 8
+  entailed_by_quote_fraction: 0.1
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -59,73 +69,6 @@ related_nodes:
     slug: united-states-department-of-defense-dod
     shared_claims: 1
 claims:
-  - claim_id: 514722ce-63fa-4448-81a0-0ea4f5398461
-    claim_hash: 1840fde75806929d189144b7076136a260069e22cd23e9d70cc2090e55862d34
-    content: The Foreign Technology Division has been rolled into the National Air and Space Intelligence Center (NASIC).
-    original_excerpt: Today, the Foreign Technology Division has been rolled into the National Air and Space Intelligence
-      Center (NASIC).
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-        title: National Air and Space Intelligence Center (NASIC)
-        slug: national-air-and-space-intelligence-center-nasic
-      - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
-        title: Foreign Technology Division
-        slug: foreign-technology-division
-    date: null
-    date_end: null
-    location_in_record: ch20:8447-8555
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
-  - claim_id: 977690ec-9b74-449d-8bb1-54bf031c433f
-    claim_hash: ea557aabc6cb5406571f72850baef44ef153a06f70d1912a1663909c80e2fe7d
-    content: In 2003, the Foreign Technology Division was absorbed into the National Air and Space Intelligence Center (NASIC).
-    original_excerpt: In 2003, it was absorbed into NASIC, the National Air and Space Intelligence Centre.
-    claim_type: administrative
-    attestation: null
-    speaker: null
-    provenance_chain:
-      origin_kind: unattributed
-      origin: ''
-      relay: []
-    attribution_mode: bare_ok
-    attachment: unreviewed
-    node_refs:
-      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
-        title: National Air and Space Intelligence Center (NASIC)
-        slug: national-air-and-space-intelligence-center-nasic
-      - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
-        title: Foreign Technology Division
-        slug: foreign-technology-division
-    date: '2003'
-    date_end: null
-    location_in_record: ch27:20214-20291
-    evidence:
-      score: null
-      independent_sources: 1
-    provenance:
-      record_id: e381660c-87c0-40d6-b275-32a5874dc085
-      record_title: In Plain Sight
-      record_date: '2021'
-      record_reference: null
-      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
-      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: ce0964aa-62e2-4f4a-a0aa-e5569f9bded5
     claim_hash: 9d24c6c8fb5f5ac1e8432f8bab4b5f2d3df3991e98620bb0a8c88141aefac651
     content: Jonathan Grey, the intelligence officer specialising in Unidentified Aerial Phenomena (UAP) analysis at the National
@@ -142,6 +85,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -178,6 +126,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.459
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -212,6 +165,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.456
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -250,6 +208,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.48
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -282,6 +245,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.478
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -313,6 +281,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.461
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -350,6 +323,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.5
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -373,6 +351,83 @@ claims:
       record_reference: https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/
       content_hash: sha256:5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5da5d4335
       friendly_name: 2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non
+  - claim_id: 514722ce-63fa-4448-81a0-0ea4f5398461
+    claim_hash: 1840fde75806929d189144b7076136a260069e22cd23e9d70cc2090e55862d34
+    content: The Foreign Technology Division has been rolled into the National Air and Space Intelligence Center (NASIC).
+    original_excerpt: Today, the Foreign Technology Division has been rolled into the National Air and Space Intelligence
+      Center (NASIC).
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
+        title: Foreign Technology Division
+        slug: foreign-technology-division
+    date: null
+    date_end: null
+    location_in_record: ch20:8447-8555
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
+  - claim_id: 977690ec-9b74-449d-8bb1-54bf031c433f
+    claim_hash: ea557aabc6cb5406571f72850baef44ef153a06f70d1912a1663909c80e2fe7d
+    content: In 2003, the Foreign Technology Division was absorbed into the National Air and Space Intelligence Center (NASIC).
+    original_excerpt: In 2003, it was absorbed into NASIC, the National Air and Space Intelligence Centre.
+    claim_type: administrative
+    attestation: null
+    speaker: null
+    provenance_chain:
+      origin_kind: unattributed
+      origin: ''
+      relay: []
+    attribution_mode: bare_ok
+    attachment: unreviewed
+    entailment:
+      label: neutral
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
+    node_refs:
+      - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
+        title: National Air and Space Intelligence Center (NASIC)
+        slug: national-air-and-space-intelligence-center-nasic
+      - node_id: 73728e30-29a1-4939-ab42-78e3fdeaf5dd
+        title: Foreign Technology Division
+        slug: foreign-technology-division
+    date: '2003'
+    date_end: null
+    location_in_record: ch27:20214-20291
+    evidence:
+      score: null
+      independent_sources: 1
+    provenance:
+      record_id: e381660c-87c0-40d6-b275-32a5874dc085
+      record_title: In Plain Sight
+      record_date: '2023-11-17'
+      record_reference: null
+      content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
+      friendly_name: 2023-11-17-ebook-in-plain-sight
   - claim_id: 252d0b85-5c43-47c9-81f7-1fca98affda2
     claim_hash: 4dd106db1a0b052bbd4e1d5c54c26afcf6205479269823ce290736b85c333a0d
     content: The Air Technical Intelligence Center (ATIC) later became the National Air and Space Intelligence Center (NASIC).
@@ -386,6 +441,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.448
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 08e130e9-09b0-4071-b3ab-7132fa3a7284
         title: National Air and Space Intelligence Center (NASIC)
@@ -404,6 +464,6 @@ claims:
       record_title: Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP),
         Volume I
       record_date: '2024-02-01'
-      record_reference: null
+      record_reference: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
       content_hash: sha256:8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868
       friendly_name: 2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a

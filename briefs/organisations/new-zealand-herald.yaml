@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: 7a8ae193db58218182eb511cad24410a4bf47cc040a835a6caafe192a5a6dac0
+brief_hash: 6378a04265307bde86e1e22c4909d3ef5ad90b29ddfe797f906fb65651e3e0cd
 page:
   kind: entity
   node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
@@ -9,11 +9,21 @@ page:
   claim_count: 4
   claim_count_total: 4
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 4
   tokens_estimated: 412
   sized_against: 1050000
+entailment:
+  assessed: 4
+  unassessed: 0
+  entails: 3
+  neutral: 0
+  contradicts: 1
+  entailed_by_quote: 2
+  entailed_by_window: 1
+  entailed_by_quote_fraction: 0.5
+  entailed_by_window_fraction: 0.25
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -28,10 +38,10 @@ related_nodes:
     node_type: person
     slug: ross-coulthart
     shared_claims: 3
-  - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-    title: Kaikoura UAP Sighting
+  - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+    title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
     node_type: event
-    slug: kaikoura-uap-sighting
+    slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
     shared_claims: 1
   - node_id: e4044a2b-73aa-4513-879d-342b4a4a522a
     title: New Zealand, Auckland
@@ -45,7 +55,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: b2983232-5479-4ef2-93cd-a0361e297ab1
-    claim_hash: 411f677798111a7e0c9666a3dde36e90487d8cf5d448970b8ff74cd97ce92bf7
+    claim_hash: 5d76eecd9183a122f8381ecff0748d66efed3bf8daa874cae732ca833453c1f3
     content: Ross Coulthart followed the Kaikoura case as a young journalist for the New Zealand Herald newspaper in the early
       1980s.
     original_excerpt: I followed the Kaikoura case as a young journalist for the New Zealand Herald newspaper in the early
@@ -61,16 +71,21 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
+      - node_id: 44f06bbf-20ab-4a0f-ba88-e205add20535
+        title: 1978 Kaikoura Unidentified Aerial Phenomena (UAP) sighting
+        slug: 1978-kaikoura-unidentified-aerial-phenomena-uap-sighting
       - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
         title: New Zealand Herald
         slug: new-zealand-herald
       - node_id: e35bbf74-c136-4298-a2fe-c6d56968b926
         title: Ross Coulthart
         slug: ross-coulthart
-      - node_id: f1f3fbdf-1d40-4497-b859-d6bf312f802d
-        title: Kaikoura UAP Sighting
-        slug: kaikoura-uap-sighting
     date: null
     date_end: null
     location_in_record: ch12:2692-2795
@@ -80,7 +95,7 @@ claims:
     provenance:
       record_id: e381660c-87c0-40d6-b275-32a5874dc085
       record_title: In Plain Sight
-      record_date: '2021'
+      record_date: '2023-11-17'
       record_reference: null
       content_hash: sha256:2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c3d3d9d04
       friendly_name: 2023-11-17-ebook-in-plain-sight
@@ -100,6 +115,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
         title: New Zealand Herald
@@ -138,6 +158,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: contradicts
+      score: 0.994
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: cf4a0eff-8912-4a1e-bd3e-b8a60a8fc1fb
         title: New Zealand Herald
@@ -172,6 +197,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 1.0
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 9926a63a-c90d-47b1-923b-7163c1ee382d
         title: Robert Muldoon

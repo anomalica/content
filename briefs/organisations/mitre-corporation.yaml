@@ -1,5 +1,5 @@
 schema: anomalica/brief/1
-brief_hash: ba978e1c0d6a77908ee8d5018d899c761a93d1eceff5213938cfc4ab709e0b0d
+brief_hash: 3612e87310a7133d1ff404789804c8d985d4562dd078651902bb9e198149472e
 page:
   kind: entity
   node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
@@ -9,11 +9,21 @@ page:
   claim_count: 5
   claim_count_total: 5
 generated:
-  graph_version: '2026-09-01T10:10:49.863545+00:00'
+  graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
   claims: 5
   tokens_estimated: 637
   sized_against: 1050000
+entailment:
+  assessed: 5
+  unassessed: 0
+  entails: 5
+  neutral: 0
+  contradicts: 0
+  entailed_by_quote: 1
+  entailed_by_window: 4
+  entailed_by_quote_fraction: 0.2
+  entailed_by_window_fraction: 0.8
 publication:
   status: published
   note: Prepared for publication. Claim excerpts are short attributed quotations and are carried through; full bodies and
@@ -23,6 +33,11 @@ belonging:
   suspect_excluded: 0
   unreviewed: 5
 related_nodes:
+  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+    title: Unidentified Aerial Phenomena (UAP) Gerb
+    node_type: person
+    slug: unidentified-aerial-phenomena-uap-gerb
+    shared_claims: 2
   - node_id: ec810255-5617-4bcd-9a17-346323c85a5f
     title: Battelle Memorial Institute (BMI)
     node_type: organisation
@@ -48,16 +63,6 @@ related_nodes:
     node_type: organisation
     slug: mit-lincoln-laboratory
     shared_claims: 1
-  - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-    title: UAP Gerb
-    node_type: person
-    slug: uap-gerb
-    shared_claims: 1
-  - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
-    title: Unidentified Aerial Phenomena (UAP) Gerb
-    node_type: person
-    slug: unidentified-aerial-phenomena-uap-gerb
-    shared_claims: 1
   - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
     title: Unidentified Flying Object (UFO)
     node_type: topic
@@ -65,7 +70,7 @@ related_nodes:
     shared_claims: 1
 claims:
   - claim_id: e883e5c7-6cf9-4be4-9d96-4b5897a88054
-    claim_hash: 1aa3e9ba8ecba2289520f01859607d232cf3a4d7be133d44e396ae9a18078caa
+    claim_hash: 2c2f4483dfa5151b904b14671651798c38bab277e0f5ba23a016fa4be34d08ac
     content: UAP Gerb considers that legal interrogatives sent to the MITRE Corporation, MIT Lincoln Laboratory, and cabinet-level
       agencies and services are more effective in pursuit of Unidentified Aerial Phenomena (UAP) disclosure than the released
       document files and videos.
@@ -74,21 +79,26 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.968
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
+      - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+        title: Unidentified Aerial Phenomena (UAP) Gerb
+        slug: unidentified-aerial-phenomena-uap-gerb
       - node_id: 44c2be53-a004-4eff-9d02-05e6f12fe2fc
         title: MIT Lincoln Laboratory
         slug: mit-lincoln-laboratory
-      - node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-        title: UAP Gerb
-        slug: uap-gerb
       - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
         title: MITRE Corporation
         slug: mitre-corporation
@@ -106,20 +116,25 @@ claims:
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
       friendly_name: null
   - claim_id: 02c5167f-7f47-4c63-86d1-0f60eb78ed8b
-    claim_hash: 7bab55649ea499dc206f13a8e6f1cc27059116bde2fa3622f7f17e73cc4902d0
+    claim_hash: 8410cea19e9b15adffbd970fb2e1e1e5ede0fbf46d9accb684a29917103cf551
     content: The MITRE Corporation receives 99 percent of its funding from the US government.
     original_excerpt: such semi-private systems like the MITRE Corporation that receives 99% of its funding from the US government
     claim_type: testimony
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.996
+      model: MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli
+      premise: quote
     node_refs:
       - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
         title: MITRE Corporation
@@ -138,7 +153,7 @@ claims:
       content_hash: sha256:ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230a948eb3d
       friendly_name: null
   - claim_id: 1d168b56-745a-496a-893b-d6a9c363f19f
-    claim_hash: fbd07e4a85126f12f16ac00ba44040f9686e67e042aa95008d0890546d2ef823
+    claim_hash: 63de7a741a3ad02320291ffae50f0583e3b04151424d4ef52e7f8a0d1e3c689f
     content: UAP Gerb states that semi-private institutions such as the MITRE Corporation are used as a method to keep programmes
       outside government control while the US government still retains possession of the programme, materials, and institutional
       knowledge.
@@ -147,14 +162,19 @@ claims:
     claim_type: opinion
     attestation: first_hand
     speaker:
-      node_id: 78ca02a3-3c5f-4295-9c7b-3d547643603f
-      title: UAP Gerb
+      node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
+      title: Unidentified Aerial Phenomena (UAP) Gerb
     provenance_chain:
       origin_kind: speaker
       origin: UAP Gerb
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.998
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 7fa3fec0-3ba0-4dc7-9779-8ed56b3bbeb5
         title: MITRE Corporation
@@ -188,6 +208,11 @@ claims:
       relay: []
     attribution_mode: bare_ok
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.649
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 0b47cac5-b9cc-44ea-a2aa-5cbd39a0d21a
         title: Unidentified Aerial Phenomena (UAP) Gerb
@@ -230,6 +255,11 @@ claims:
       relay: []
     attribution_mode: unknown
     attachment: unreviewed
+    entailment:
+      label: entails
+      score: 0.466
+      model: MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+      premise: window
     node_refs:
       - node_id: 24d00311-06ac-46a1-a2f5-c99f3f8e21b2
         title: Chris Ramsay
