@@ -7,6 +7,8 @@ aliases:
 - /en/topics/unidentified-aerial-phenomena-uap-disclosure/
 - /topics/unidentified-aerial-phenomena-uap/
 - /en/topics/unidentified-aerial-phenomena-uap/
+- /topics/unidentified-anomalous-phenomena-uap/
+- /en/topics/unidentified-anomalous-phenomena-uap/
 - /topics/unidentified-anomalous-phenomena/
 - /en/topics/unidentified-anomalous-phenomena/
 - /topics/unidentified-aerial-phenomena-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap/
@@ -27,16 +29,15 @@ aliases:
 - /en/topics/unidentified-flying-object-ufo-crash-retrieval/
 - /topics/unidentified-flying-object-ufo-phenomenon/
 - /en/topics/unidentified-flying-object-ufo-phenomenon/
-description: UFOs and UAPs are reports of objects or phenomena that are not immediately
-  identifiable, encompassing ordinary misidentifications, unresolved observations
-  and disputed claims of advanced or non-human technology.
+description: UFOs and unidentified anomalous phenomena are reported objects or events
+  that cannot initially be identified, encompassing cases later attributed to ordinary
+  causes as well as cases that remain unresolved because evidence is limited or inconclusive.
 tags:
 - phenomenon
-- hypothesis
 - secrecy and disclosure
 metadata:
-  type: Phenomenon and research topic
-  status: Subject to continuing scientific, military and governmental investigation
+  type: Research topic
+  scope: Unidentified airborne, transmedium and submerged objects or devices
 built_from:
   brief_hash: ddfff00d423583668c2f74b46013bd6f6f37920f201590c02cc0e004ef02e75b
   claims:
@@ -4177,8 +4178,21 @@ built_from:
   - id: 63c2cef4-1ecf-4ca0-bd08-05543e4c4e90
     hash: 50bd42cc09c0a6f0907df5eb6782ca3c290c0dd8fa499a15b6ae5da2934d7103
 references:
-- text: US legislation defined UAP to include unidentified airborne, transmedium and
-    submerged objects or devices.
+- text: The UAP Task Force investigated objects formerly called UFOs and now officially
+    termed unidentified anomalous phenomena.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:1541-1718
+  quote: The task force was established to investigate what were once called “unidentified
+    flying objects,” or UFOs, and are now officially called “unidentified anomalous
+    phenomena,” or UAP.
+  claim_id: fb3e4262-3744-49c6-9f89-fee921b5cb90
+  claim_fingerprint: 784ca9a50e5b57166c33720db20398a99533bf8acd44d50a491f29610613b6d8
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
+- text: The FY2023 defence legislation defined UAP to include unidentified airborne,
+    transmedium and submerged objects or devices.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: char:3635-3913
@@ -4192,23 +4206,7 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-e18420e9-c9a5-475a-8981-1b68e76e6300
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-e18420e9-c9a5-475a-8981-1b68e76e6300
-- text: The ODNI preliminary assessment described UAP as objects that are not immediately
-    identifiable and lack a single explanation.
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:4256-4647
-  quote: 'According to the Office of the Director of National Intelligence''s Preliminary
-    Assessment on UAP, UAP are objects that are not immediately identifiable, lack
-    a single explanation, and fall into one of five potential explanatory categories:
-    airborne clutter, natural atmospheric phenomena, U.S. Government or industry developmental
-    programs, foreign adversary systems, and a catchall "other" category.'
-  claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
-  claim_fingerprint: 1a3f316e82dc305dfc93726ec1a5d9749ce7f48a80300d2c2ae9736403e69728
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5afddb76-a662-4f95-b1df-e913f48a657c
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-5afddb76-a662-4f95-b1df-e913f48a657c
-- text: AARO stated that the only shared characteristic of objects and events classified
+- text: AARO stated that the only common feature of objects and events classified
     as UAP is that each is initially unidentified.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -4221,20 +4219,7 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a2e9b2fc-2d19-43c6-a020-e4ef497afdc3
   inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-a2e9b2fc-2d19-43c6-a020-e4ef497afdc3
-- text: The UAP Task Force investigated objects formerly called UFOs and officially
-    termed unidentified anomalous phenomena.
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:1541-1718
-  quote: The task force was established to investigate what were once called “unidentified
-    flying objects,” or UFOs, and are now officially called “unidentified anomalous
-    phenomena,” or UAP.
-  claim_id: fb3e4262-3744-49c6-9f89-fee921b5cb90
-  claim_fingerprint: 784ca9a50e5b57166c33720db20398a99533bf8acd44d50a491f29610613b6d8
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
-- text: UFOs became a national issue in the United States during the late 1940s.
+- text: UFOs became a national issue in the United States in the late 1940s.
   source: Surviving Death
   location: ch44:20860-21025
   quote: In this country, UFOs became a national issue in the late 1940s, when there
@@ -4271,8 +4256,8 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
-- text: Air Force studies beginning in 1947 investigated more than 12,000 claimed
-    sightings before ending in 1969.
+- text: Air Force studies begun in 1947 investigated more than 12,000 claimed sightings
+    before ending in 1969.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
   location: char:6377-6477
   quote: In 1947, the Air Force began a series of studies that investigated more than
@@ -4283,7 +4268,7 @@ references:
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
-- text: Of more than 12,000 sightings investigated by the Air Force project, 701 remained
+- text: Of the Air Force project's more than 12,000 investigated sightings, 701 remained
     unexplained.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
   location: char:6818-6840
@@ -4294,19 +4279,94 @@ references:
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
-- text: The 1968 Condon Report concluded that further UAP study could not be justified.
-  source: In Plain Sight
-  location: ch10:23018-23130
-  quote: Condon rejected the extra-terrestrial hypothesis for UAPs and concluded that
-    further study of them could not be justified.
-  claim_id: 36bbf57e-7985-4757-a2dc-80c5e73853d4
-  claim_fingerprint: 3915ab8d8562ee4a7050efbcdc1528f912dad5e80eed51f97c51022d9cd63863
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+- text: The University of Colorado project produced the Condon Report, which concluded
+    that there was no evidence for the reality of UFOs.
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch6:5913-6099
+  quote: Professor Condon and his team, who had been picked because they were presumably
+    impartial and unprejudiced, went on to write a report stating that no evidence
+    existed for the reality of UFOs.
+  claim_id: 9e17534a-19bf-43f1-926d-ce2e96f05bcd
+  claim_fingerprint: 2298e81f7bacad45f76ccb75ebc683f3b82ba72b8b879fb851448336473bff74
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-36bbf57e-7985-4757-a2dc-80c5e73853d4
-- text: In 2008, members of Congress initiated and funded AAWSAP under the Defense
-    Intelligence Agency.
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9e17534a-19bf-43f1-926d-ce2e96f05bcd
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-9e17534a-19bf-43f1-926d-ce2e96f05bcd
+- text: By 1978, Jacques Vallée had spent more than fifteen years studying official
+    and unofficial UFO reports in France and the United States.
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch16:3747-3892
+  quote: I have spent more than fifteen years conducting studies of the reports made
+    through official and unofficial channels in France and in the United States.
+  claim_id: 67ad9fbc-1dc9-474e-b04a-590d0fea0c46
+  claim_fingerprint: dd0805507e829e1729a29c8913c297fa51919f71ded65a118ceb7d5440985c7d
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-67ad9fbc-1dc9-474e-b04a-590d0fea0c46
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-67ad9fbc-1dc9-474e-b04a-590d0fea0c46
+- text: Vallée's studies were supported by extensive computer statistics.
+  source: 'Messengers of Deception: UFO Contacts and Cults'
+  location: ch16:3900-3957
+  quote: These analyses have been supported by extensive computer statistics.
+  claim_id: f770f415-de5b-4400-a35a-f43acfa3ca35
+  claim_fingerprint: 845763fd3911903cd73f9bade0ae38e31a297d4ddebd6417198ff21f0b9a4b37
+  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f770f415-de5b-4400-a35a-f43acfa3ca35
+  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-f770f415-de5b-4400-a35a-f43acfa3ca35
+- text: James McDonald addressed the UN Outer Space Affairs Group about UFOs on 1967-06-07.
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour (1967)
+  location: 00:15:58.7-00:16:11.5
+  quote: On the 7th of June, I was at the United Nations speaking to the Outer Space
+    Affairs Group about the UFO problem, submitted some formal statements to them,
+    urging UN action on the UFO problem.
+  claim_id: f68a4026-c3e8-4f4e-9246-d0b58ec919bd
+  claim_fingerprint: d7416bf37b4c0d4757ffc58ce85b2ae7654a704e7865f1fae958a58abc095803
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-f68a4026-c3e8-4f4e-9246-d0b58ec919bd
+- text: McDonald examined psychological, advanced-technology, hoax, fraud and geophysical
+    explanations during the year before 1967.
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour (1967)
+  location: 00:37:12.6-00:37:31.8
+  quote: When you look at these various hypotheses, psychological, advanced technology,
+    hoax, fabrication, fraud, poorly understood geophysical phenomena, you run through
+    all of those. This is certainly what I've done in the past year of checking.
+  claim_id: 2ff0b138-4cad-4a6e-aa68-d501ec955b1e
+  claim_fingerprint: 93a9fc2def7181e1d41682f6f05bd798267144a62f150cd49d792dda0b8e50df
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2ff0b138-4cad-4a6e-aa68-d501ec955b1e
+- text: McDonald concluded that the reports he examined reduced to machine-like craft
+    of some kind.
+  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
+    Investigative Tour (1967)
+  location: 00:40:58.9-00:41:14.7
+  quote: looking at Australian, American and other sightings, examining the credibility
+    of the observers looking at the content of these observations, I'm afraid that
+    it boils down to to craft of some kind machine-like objects
+  claim_id: 2526f0a5-2d76-40b8-8433-bb8b096e5652
+  claim_fingerprint: 8eb04cb58c57a43f2517c2226adcc6e60d39ceb8fd160ea5f049ac804d8c606f
+  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2526f0a5-2d76-40b8-8433-bb8b096e5652
+- text: Harry Reid earmarked $22 million in Department of Defense funds for a UAP
+    investigation in 2008.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch6:18285-18471
+  quote: an investigation into the UAP issue that had been undertaken by an aerospace
+    contractor using $22 million in DoD funds earmarked for UAP analysis by Senate
+    Majority Leader Harry Reid in 2008.
+  claim_id: 684f439e-a237-44b8-ba5f-e768d5495605
+  claim_fingerprint: 60b40e1784edcbbbbd7ff40f98f647aed8286d227462b223f7d363ebc5114aa9
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-684f439e-a237-44b8-ba5f-e768d5495605
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-684f439e-a237-44b8-ba5f-e768d5495605
+- text: The DoD Inspector General summary described AAWSAP as a congressionally initiated
+    and funded programme directed by the DIA.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: char:1813-2066
@@ -4320,8 +4380,7 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7b527140-6627-42ac-a2de-3e550e9beb3b
-- text: A Department of Defense spokesperson confirmed that AATIP existed and pursued
-    UAP research and investigation.
+- text: A Pentagon spokesperson confirmed that AATIP existed and investigated UAP.
   source: The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon
     Program. Did He?
   location: char:2135-2286
@@ -4333,8 +4392,18 @@ references:
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-65efb0c2-df6c-47e7-aed2-897a4b719c45
   inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-65efb0c2-df6c-47e7-aed2-897a4b719c45
-- text: AATIP collected video and audio recordings, including footage from a Navy
-    F/A-18.
+- text: Luis Elizondo took over AATIP in 2010 and focused on national-security implications
+    of service members' reports.
+  source: Navy pilots describe encounters with UFOs
+  location: 00:02:01.6-00:02:11.4
+  quote: When Elizondo took over in 2010, he focused on the national security implications
+    of unidentified aerial phenomena documented by U.S. service members.
+  claim_id: 0cbce81d-a515-4010-a02d-2c91ea0558f9
+  claim_fingerprint: 8fff8d1f3c495885426a4a26c5d34ccb47b4c8ecad9e759a25981b4b76a44092
+  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-0cbce81d-a515-4010-a02d-2c91ea0558f9
+- text: AATIP collected video and audio recordings of reported UFO incidents.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
   location: char:10275-10507
   quote: The program collected video and audio recordings of reported U.F.O. incidents,
@@ -4346,7 +4415,20 @@ references:
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
   inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-- text: The phenomena in three officially released Navy videos remained characterised
+- text: The Department of Defense authorised the release of three unclassified Navy
+    videos on 2020-04-27.
+  source: Statement by the Department of Defense on the Release of Historical Navy
+    Videos
+  location: char:660-766
+  quote: does not impinge on any subsequent investigations of military air space incursions
+    by unidentified aerial phenomena
+  claim_id: 59672a0f-11a4-42a9-8f73-ac5708f58a91
+  claim_fingerprint: 2284118c37b80d62e7eb397eb64b3c48a82109494a5bf1648be7ddacee5f7e43
+  record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-59672a0f-11a4-42a9-8f73-ac5708f58a91
+  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-59672a0f-11a4-42a9-8f73-ac5708f58a91
+- text: The phenomena shown in the three released Navy videos remained characterised
     as unidentified.
   source: Statement by the Department of Defense on the Release of Historical Navy
     Videos
@@ -4358,8 +4440,244 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-e105e92a-5c60-4d5b-a6c7-f2b5caca1425
   inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-e105e92a-5c60-4d5b-a6c7-f2b5caca1425
-- text: Ryan Graves's squadron began seeing UAP over restricted airspace near Virginia
-    Beach in 2014.
+- text: The Department of Defense established the UAP Task Force in August 2020.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:6264-6414
+  quote: In response to Congress' concerns, in August 2020 the DoD established a UAP
+    Task Force (UAPTF) to develop standardized reporting requirements for UAP encounters.
+  claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
+  claim_fingerprint: 857cf35c3e010ab343e2ba409f2a1c96877e687703eeca09f6e48330faa4481d
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0ea18651-8df3-4a40-9448-c475da9f5895
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0ea18651-8df3-4a40-9448-c475da9f5895
+- text: The FY2022 NDAA required a central office for all UAP matters.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:7435-7606
+  quote: The FY 2022 NDAA required the DoD to establish a central office for all UAP
+    matters with sufficient scope, authorities, responsibilities, and capabilities
+    to continue UAP efforts.
+  claim_id: 56afb56a-96a9-4f6c-b407-56c446b8cc17
+  claim_fingerprint: 37e13d0acd2c641cf452b7c423b4d9320eea47d52950d83670848a0047a4cc4c
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-56afb56a-96a9-4f6c-b407-56c446b8cc17
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-56afb56a-96a9-4f6c-b407-56c446b8cc17
+- text: AARO was tasked with investigating UAP from July 2022.
+  source: In Plain Sight
+  location: ch29:14637-14794
+  quote: It was arguably within the remit of the Pentagon's newly formed AARO agency,
+    the All-domain Anomaly Resolution Office, tasked since July 2022 to investigate
+    UAPs
+  claim_id: f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
+  claim_fingerprint: a8660d2dc165aec66926919d41c657c6927bb780434647c58b76909dd0298086
+  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
+  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
+- text: The FY2022 NDAA assigned AARO responsibility for standardising and synchronising
+    UAP collection, analysis and identification.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:14696-14851
+  quote: The FY 2022 NDAA assigns AARO, under the OUSD(I&S), responsibility for synchronizing
+    and standardizing the collection, analysis, and identification of UAP incidents.
+  claim_id: 555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
+  claim_fingerprint: a6a1f81b719c6605a55e8462925b6d1ba6620821296b0fabd126836b468b7d48
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-555ad2b2-8cd5-49bc-bb94-e0ab51ef1411
+- text: NASA announced an independent UAP study on 2022-06-09.
+  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
+    Safety, and Government Transparency'
+  location: char:20404-20527
+  quote: and on June 9, 2022, NASA announced that the agency is commissioning a study
+    to, of course, examine unidentified anomalous phenomena.
+  claim_id: ae8629b6-3341-4665-b217-76dee93c6104
+  claim_fingerprint: 4b1fda4f1eda0dabfa73a2d0c020e7ac1a685b8ba17aff6ef94d6b4d267f808a
+  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ae8629b6-3341-4665-b217-76dee93c6104
+  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ae8629b6-3341-4665-b217-76dee93c6104
+- text: By June 2023, Congress had held two public hearings and many classified UAP
+    briefings.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:3749-3850
+  quote: Now, with two public hearings and many classified briefings under its belt,
+    Congress is pressing for answers.
+  claim_id: 7d1ae33f-daa8-4c46-834e-46a26bd548b1
+  claim_fingerprint: 248e4b2cff05b95b8568237808bc44b2d3ffde90e9f19bc9393416642add2f93
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
+- text: David Fravor, Ryan Graves and David Grusch testified under oath at a bipartisan
+    congressional hearing in July 2023.
+  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
+  location: ch32:2345-2593
+  quote: members of Congress held another historic bipartisan UAP hearing. This time
+    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
+    Graves, and Dave Grusch, who were now testifying to the American people in Congress
+    *under oath*
+  claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
+  claim_fingerprint: 46a612f3633db9868584afbc20f4438c460cafac56d80454fca22e1160923e60
+  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
+- text: David Grusch served as NGA co-lead for UAP analysis and as its UAP Task Force
+    representative.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:1284-1390
+  quote: From late 2021 to July 2022, he was the NGA’s co-lead for UAP analysis and
+    its representative to the task force.
+  claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
+  claim_fingerprint: 7df280dd61facc479a131de2a5c9e41d458954229708f018401b59dac492b9b9
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
+- text: Grusch's unclassified complaint alleged that classified UAP information had
+    been concealed from Congress.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:11364-11678
+  quote: An unclassified version of the complaint provided to us states that Grusch
+    has direct knowledge that UAP-related classified information has been withheld
+    and/or concealed from Congress by “elements” of the intelligence community “to
+    purposely and intentionally thwart legitimate Congressional oversight of the UAP
+    Program.”
+  claim_id: 432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
+  claim_fingerprint: 3eef2c84c740eb4cda706622cf756c18154c9fbcc1d7de1bffb51453ce52e485
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
+- text: Grusch supplied Congress and the Intelligence Community Inspector General
+    with claims about covert craft-retrieval programmes.
+  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
+  location: char:258-518
+  quote: A former intelligence official turned whistleblower has given Congress and
+    the Intelligence Community Inspector General extensive classified information
+    about deeply covert programs that he says possess retrieved intact and partially
+    intact craft of non-human origin.
+  claim_id: 820875ac-d3d4-4970-9972-12fdd2ad8726
+  claim_fingerprint: b0cbced4c519a8aefad23d3d9b976e8904179e1a57f991d18466e9d04af6ba8b
+  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
+  copyright_status: publicly_accessible
+  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
+  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
+- text: AARO confirmed that one controlled-access programme was expanded in 2021 to
+    include a UAP reverse-engineering mission.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:102973-103093
+  quote: AARO confirmed the existence of one IC CAP that was unnecessarily expanded
+    in 2021 to include a UAP reverse-engineering mission.
+  claim_id: 153cc145-a710-4ea7-8959-8fa09d0ff678
+  claim_fingerprint: abbdbf31b18161b4a13ec35eb6fbcd172a472fd10b82c16df44a5f20352de853
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-153cc145-a710-4ea7-8959-8fa09d0ff678
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-153cc145-a710-4ea7-8959-8fa09d0ff678
+- text: The expanded programme never recovered or reverse-engineered a UAP or extraterrestrial
+    spacecraft.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:11430-11509
+  quote: This program never recovered or reverse-engineered any UAP or extraterrestrial
+    spacecraft.
+  claim_id: 7d63711e-e308-44c0-9cc4-d3df10683f0c
+  claim_fingerprint: aed7fe1e8f8c7265476239f9a1a8847b62419932e3a9be99406be0beed6a743a
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7d63711e-e308-44c0-9cc4-d3df10683f0c
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-7d63711e-e308-44c0-9cc4-d3df10683f0c
+- text: AARO found no official investigation or academic review that confirmed a UAP
+    sighting as extraterrestrial technology.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:4289-4464
+  quote: AARO found no evidence that any USG investigation, academic-sponsored research,
+    or official review panel has confirmed that any sighting of a UAP represented
+    extraterrestrial technology.
+  claim_id: 1797f937-1347-439e-b37e-eaa04c06c067
+  claim_fingerprint: 81f11fb8f26334ef24860f2f453611f0b9d14b76f55574268c245e219745027d
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1797f937-1347-439e-b37e-eaa04c06c067
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-1797f937-1347-439e-b37e-eaa04c06c067
+- text: Official investigative efforts concluded that most UAP sightings were ordinary
+    objects, phenomena or misidentifications.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:4479-4623
+  quote: All investigative efforts, at all levels of classification, concluded that
+    most sightings were ordinary objects and phenomena and the result of misidentification.
+  claim_id: 6121a2ee-8a40-42ce-bdc9-1433f618d225
+  claim_fingerprint: 83dbfd4e6e8a5ea88a892abc7b9e1029fa9999f00792466522858aac7344e0e9
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6121a2ee-8a40-42ce-bdc9-1433f618d225
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-6121a2ee-8a40-42ce-bdc9-1433f618d225
+- text: The ODNI assessment listed five possible explanatory categories for UAP.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:4440-4647
+  quote: '...fall into one of five potential explanatory categories: airborne clutter,
+    natural atmospheric phenomena, U.S. Government or industry developmental programs,
+    foreign adversary systems, and a catchall "other" category.'
+  claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
+  claim_fingerprint: 093d8db152947bf1e6fe1c1262c2cd678fe079ec723d9925c834b1d60167cfb1
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
+- text: Most UAP sightings have only a vague narrative, while available hard data
+    are often incomplete or poor quality.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:111689-111846
+  quote: Most UAP sightings have no data associated with them beyond an often vague
+    narrative account; and when there is hard data, it is often incomplete or of poor
+    quality.
+  claim_id: 14d781b8-2260-4ebe-ab26-4b9dbd9f6de7
+  claim_fingerprint: 2c6543e3a4812ad2371d853cc5a4bc505327d062b3f8b6d47890e269c5c95e46
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-14d781b8-2260-4ebe-ab26-4b9dbd9f6de7
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-14d781b8-2260-4ebe-ab26-4b9dbd9f6de7
+- text: Military sensors that capture UAP are optimised for combat rather than scientific
+    data collection.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:111887-111974
+  quote: the sensors on which UAP most frequently are captured are calibrated and
+    optimized for combat.
+  claim_id: 08fccb52-8da0-41fa-ad3a-deb73f1bce6b
+  claim_fingerprint: 9f9dd1c239e5f3317d9e314d2b31d6b2491cfb8a903104c99cb63f53cbbbb181
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08fccb52-8da0-41fa-ad3a-deb73f1bce6b
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-08fccb52-8da0-41fa-ad3a-deb73f1bce6b
+- text: AARO assessed that better-quality data would probably allow most unresolved
+    cases to be identified as ordinary objects or phenomena.
+  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
+    Anomalous Phenomena (UAP), Volume I
+  location: char:144694-144881
+  quote: Although many UAP reports remain unsolved, AARO assesses that if additional,
+    quality data were available, most of these cases also could be identified and
+    resolved as ordinary objects or phenomena.
+  claim_id: becb1251-b26a-4d0d-bb1e-507ce36eb5dc
+  claim_fingerprint: db4fa4a032d101e469d9391943313bcdfdc49632d920fb0407a89d43b90b2440
+  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-becb1251-b26a-4d0d-bb1e-507ce36eb5dc
+  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-becb1251-b26a-4d0d-bb1e-507ce36eb5dc
+- text: Ryan Graves' squadron began observing UAP in restricted airspace southeast
+    of Virginia Beach in 2014.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:12.9-00:04:21.5
   quote: He told us his F-18 squadron began seeing UAPs hovering over restricted airspace
@@ -4369,18 +4687,8 @@ references:
   record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5916067d-eb0b-4ac6-b4b1-c268fdb3ecf8
-- text: A 2014 radar update allowed Graves's squadron to use infrared targeting cameras
-    on UAP.
-  source: Navy pilots describe encounters with UFOs
-  location: 00:04:22.4-00:04:28.5
-  quote: when they updated their jet's radar, making it possible to zero in with infrared
-    targeting cameras
-  claim_id: 5c687d22-4f9b-4eed-93eb-8aaff24e549e
-  claim_fingerprint: 65a96635eb0df37b38aaf8caed48b9a62de26c3ebb01664f2b388ebcb6b85b56
-  record_hash: 83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/83d5b3312a36c75cc74ab887e9a02bebfd8559f00713870991853a14#claim-5c687d22-4f9b-4eed-93eb-8aaff24e549e
-- text: Graves considered simultaneous radar and infrared detection difficult to spoof.
+- text: Graves considered dual radar and infrared detection of the Virginia objects
+    difficult to spoof.
   source: Navy pilots describe encounters with UFOs
   location: 00:04:29.7-00:04:37.9
   quote: So you're seeing it both with the radar and with the infrared, and that tells
@@ -4403,7 +4711,7 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
-- text: The object was described as a dark cube inside a clear sphere.
+- text: The object was described as a dark grey or black cube inside a clear sphere.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:33625-33696
@@ -4426,8 +4734,8 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
-- text: The encounters became frequent enough to be discussed during regular preflight
-    briefings.
+- text: Graves' squadron discussed UAP risk during regular preflight briefings because
+    encounters had become frequent.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
   location: char:34076-34195
@@ -4439,106 +4747,50 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bbcf0963-bde8-4b29-a7ee-1707ffefa060
   inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-bbcf0963-bde8-4b29-a7ee-1707ffefa060
-- text: Fravor, Graves and Grusch testified under oath at a bipartisan congressional
-    hearing in July 2023.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch32:2345-2593
-  quote: members of Congress held another historic bipartisan UAP hearing. This time
-    the hearing had highly credible military witnesses, Commander Fravor, Lieutenant
-    Graves, and Dave Grusch, who were now testifying to the American people in Congress
-    *under oath*
-  claim_id: bfb42c69-0416-49a7-87b0-4e3047b26a19
-  claim_fingerprint: 46a612f3633db9868584afbc20f4438c460cafac56d80454fca22e1160923e60
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-- text: More than 1,000 military UAP reports have been logged since 2004.
-  source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
-  location: ch6:22161-22230
-  quote: Military reports are pouring in—over one thousand since 2004 at last count
-  claim_id: 7fc9e25a-d907-40c7-bafd-bf5b5991bc6d
-  claim_fingerprint: 54060ffbdb3a868675cf63e2d3ddab6da27a59450bce5a9f2be475fcc9c9d58d
-  record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7fc9e25a-d907-40c7-bafd-bf5b5991bc6d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7fc9e25a-d907-40c7-bafd-bf5b5991bc6d
-- text: The Department of Defense established a UAP Task Force in August 2020.
+- text: An aircrew observed one UAP in the Arabian Gulf on 2020-08-08 without mission
+    impact.
+  source: Misrep 4592219
+  location: char:5228-5336
+  quote: 'AT 0726Z, {{redacted: 1.4a}} OBSERVED 1X UAP IVO 39RWL08{{redacted: 1.4a}}52{{redacted:
+    1.4a}} NO IMPACT TO MISSION.'
+  claim_id: 11775af9-938c-493a-aad6-46020ef265ee
+  claim_fingerprint: 4cc8f63f0ee5961385ebf9b3449e93567a621451ba05e5dd03d7205d0a911323
+  record_hash: 39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/39126406547c89dbc81112c5638612858fcfe7e38179dd89e6d725dc#claim-11775af9-938c-493a-aad6-46020ef265ee
+- text: A UAP observation near Deir ez-Zor lasted less than one minute.
+  source: Misrep-7816710
+  location: char:14107-14138
+  quote: THE UAP OCCURED IN LESS THAN A MINUTE
+  claim_id: a1d49b25-1fe3-425b-bd93-589a95dea323
+  claim_fingerprint: 15a1a9e6b7eae4d82cff35cc5dd0098d8d040178fbc2efb8e09eb04a10beaeb0
+  record_hash: b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e#claim-a1d49b25-1fe3-425b-bd93-589a95dea323
+- text: The object observed near Deir ez-Zor moved from north to south.
+  source: Misrep-7816710
+  location: char:14146-14176
+  quote: WITH THE UAP MOVING FROM N TO S.
+  claim_id: 6432a92d-c125-4824-8e98-817383ce3a01
+  claim_fingerprint: 1688fb54ece75d30fa5839cfdc072f4b39dbd7c11e1ea6ca20d0eb770b2c5317
+  record_hash: b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/b3b3f023d70bcce3178de9fe6a019ea6db5e5145bc7e28a49308442e#claim-6432a92d-c125-4824-8e98-817383ce3a01
+- text: The Air Force and Navy have led the development of UAP reporting policies
+    and procedures.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:6264-6414
-  quote: In response to Congress' concerns, in August 2020 the DoD established a UAP
-    Task Force (UAPTF) to develop standardized reporting requirements for UAP encounters.
-  claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
-  claim_fingerprint: 857cf35c3e010ab343e2ba409f2a1c96877e687703eeca09f6e48330faa4481d
+  location: char:1037-1158
+  quote: Also, the Air Force and Navy have been at the forefront of developing policies,
+    procedures, and mechanisms for reporting UAP.
+  claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  claim_fingerprint: 2126acd058a6952df0a2b727afa6b4e71ccfba9a72249336cbc3f1023350c01b
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0ea18651-8df3-4a40-9448-c475da9f5895
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-0ea18651-8df3-4a40-9448-c475da9f5895
-- text: Congress included UAP provisions in National Defense Authorization Acts for
-    fiscal years 2019 through 2023.
-  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
-    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:5017-5228
-  quote: As a result, Congressional committees included language about their UAP concerns
-    in the FYs 2019 through 2023 NDAAs and a Senate Select Committee on Intelligence
-    Report on the FY 2021 Intelligence Authorization Act.
-  claim_id: cf742e52-c274-492e-b12a-1c4dc09d4ea1
-  claim_fingerprint: b81966fcc7c5380a00d200973894bd600b181bf322fd21e69f2650742111c971
-  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-cf742e52-c274-492e-b12a-1c4dc09d4ea1
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-cf742e52-c274-492e-b12a-1c4dc09d4ea1
-- text: Two senior Defense intelligence officials appeared at a public congressional
-    UAP hearing on 2022-05-17.
-  source: In Plain Sight
-  location: ch30:21911-22058
-  quote: On 17 May 2022, two top Defense Department intelligence officials appeared
-    before the first public congressional hearing8 into UAPs in over half a century.
-  claim_id: 58246c00-ada8-475f-b3bd-0de4ff165210
-  claim_fingerprint: 1787c529d6ccb2da0e9c335578baa3198a15ce21789ca30aab12c3d90fd4fd7a
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-58246c00-ada8-475f-b3bd-0de4ff165210
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-58246c00-ada8-475f-b3bd-0de4ff165210
-- text: The Pentagon team was investigating 400 unresolved incidents at the 2022-05-17
-    hearing.
-  source: In Plain Sight
-  location: ch30:22447-22574
-  quote: they admitted that since a preliminary UAP report in mid-2021 the Pentagon’s
-    UAP team was now investigating 400 unresolved UAP incidents.
-  claim_id: 2dbea421-236c-427a-bb37-311c57ee0a60
-  claim_fingerprint: 391717e2126d1c7ded525232da938e2e5906b50048f61019bb38c2f0495ef79d
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2dbea421-236c-427a-bb37-311c57ee0a60
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2dbea421-236c-427a-bb37-311c57ee0a60
-- text: NASA announced a study of unidentified anomalous phenomena on 2022-06-09.
-  source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
-    Safety, and Government Transparency'
-  location: char:20404-20527
-  quote: and on June 9, 2022, NASA announced that the agency is commissioning a study
-    to, of course, examine unidentified anomalous phenomena.
-  claim_id: ae8629b6-3341-4665-b217-76dee93c6104
-  claim_fingerprint: 4b1fda4f1eda0dabfa73a2d0c020e7ac1a685b8ba17aff6ef94d6b4d267f808a
-  record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ae8629b6-3341-4665-b217-76dee93c6104
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ae8629b6-3341-4665-b217-76dee93c6104
-- text: AARO was tasked with investigating UAP from July 2022.
-  source: In Plain Sight
-  location: ch29:14637-14794
-  quote: It was arguably within the remit of the Pentagon's newly formed AARO agency,
-    the All-domain Anomaly Resolution Office, tasked since July 2022 to investigate
-    UAPs
-  claim_id: f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
-  claim_fingerprint: a8660d2dc165aec66926919d41c657c6927bb780434647c58b76909dd0298086
-  record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
-- text: The Defense Inspector General found that the Department of Defense had not
-    used a coordinated approach to UAP.
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
+- text: The DoD Inspector General found that the department had not used a coordinated
+    approach to UAP.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
   location: char:12097-12191
@@ -4550,115 +4802,80 @@ references:
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4df2b521-90f1-4b7a-8caf-ce2517c2e51d
   inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-4df2b521-90f1-4b7a-8caf-ce2517c2e51d
-- text: The Defense Inspector General found that no comprehensive UAP response plan
-    had been issued.
+- text: The Inspector General found no overarching DoD UAP policy and no assurance
+    that threats had been identified and mitigated.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:13007-13216
-  quote: The DoD has not issued a comprehensive UAP response plan that identifies
-    roles, responsibilities, requirements, and coordination procedures for detecting,
-    reporting, collecting, analyzing, and identifying UAP incidents.
-  claim_id: e7398ca3-a67e-41e0-88d3-c0e9ca10e111
-  claim_fingerprint: 3bf8436bc6cc2c560ca251cc2bd5d4d258b1a432d65cabbc6f2d769b452970f7
+  location: char:16454-16652
+  quote: We determined that the DoD has no overarching UAP policy and, as a result,
+    it lacks assurance that national security and flight safety threats to the United
+    States from UAP have been identified and mitigated.
+  claim_id: 7bc4e921-c3da-4f00-ab42-367ef5f1a3a8
+  claim_fingerprint: aa1229c4c97b466fc219dd7a364f3fff2cd045c4be903b0cfe1eaae9fee2f063
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-e7398ca3-a67e-41e0-88d3-c0e9ca10e111
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-e7398ca3-a67e-41e0-88d3-c0e9ca10e111
-- text: Grusch served as an NGA co-lead for UAP analysis and a representative to the
-    UAP Task Force.
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:1284-1390
-  quote: From late 2021 to July 2022, he was the NGA’s co-lead for UAP analysis and
-    its representative to the task force.
-  claim_id: 25e2465b-f5e8-41b9-a166-8d71aeff6276
-  claim_fingerprint: 7df280dd61facc479a131de2a5c9e41d458954229708f018401b59dac492b9b9
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-- text: Grusch gave Congress and the intelligence community inspector general classified
-    information about alleged covert retrieval programmes.
-  source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-  location: char:258-518
-  quote: A former intelligence official turned whistleblower has given Congress and
-    the Intelligence Community Inspector General extensive classified information
-    about deeply covert programs that he says possess retrieved intact and partially
-    intact craft of non-human origin.
-  claim_id: 820875ac-d3d4-4970-9972-12fdd2ad8726
-  claim_fingerprint: b0cbced4c519a8aefad23d3d9b976e8904179e1a57f991d18466e9d04af6ba8b
-  record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
-- text: AARO reported finding no empirical evidence of off-world technology or an
-    improperly reported classified programme.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:144363-144556
-  quote: To date, AARO has not discovered any empirical evidence that any sighting
-    of a UAP represented off-world technology or the existence a classified program
-    that had not been properly reported to Congress.
-  claim_id: d14e4c54-fccb-413a-8613-d618b6d899d6
-  claim_fingerprint: 3024f2c98fbebf4555e0ac4323510ac79286cf04ec403f907476e652219bfc4f
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d14e4c54-fccb-413a-8613-d618b6d899d6
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-d14e4c54-fccb-413a-8613-d618b6d899d6
-- text: AARO determined that most sightings resulted from misidentification of ordinary
-    objects and phenomena.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:144569-144683
-  quote: Investigative efforts determined that most sightings were the result of misidentification
-    of ordinary objects and phenomena.
-  claim_id: 6d1e2531-819e-4238-bb1a-8708139d178e
-  claim_fingerprint: 67ba02e3d71373782a011b6227060e54dd9bc472517728f835218eb440296dc9
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6d1e2531-819e-4238-bb1a-8708139d178e
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-6d1e2531-819e-4238-bb1a-8708139d178e
-- text: Most UAP sightings have only a vague narrative, while associated hard data
-    are often incomplete or poor.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:111689-111846
-  quote: Most UAP sightings have no data associated with them beyond an often vague
-    narrative account; and when there is hard data, it is often incomplete or of poor
-    quality.
-  claim_id: 14d781b8-2260-4ebe-ab26-4b9dbd9f6de7
-  claim_fingerprint: 2c6543e3a4812ad2371d853cc5a4bc505327d062b3f8b6d47890e269c5c95e46
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-14d781b8-2260-4ebe-ab26-4b9dbd9f6de7
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-14d781b8-2260-4ebe-ab26-4b9dbd9f6de7
-- text: Military sensors recording UAP are optimised for combat rather than scientific
-    data collection.
-  source: Report on the Historical Record of U.S. Government Involvement with Unidentified
-    Anomalous Phenomena (UAP), Volume I
-  location: char:111887-111974
-  quote: the sensors on which UAP most frequently are captured are calibrated and
-    optimized for combat.
-  claim_id: 08fccb52-8da0-41fa-ad3a-deb73f1bce6b
-  claim_fingerprint: 9f9dd1c239e5f3317d9e314d2b31d6b2491cfb8a903104c99cb63f53cbbbb181
-  record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-08fccb52-8da0-41fa-ad3a-deb73f1bce6b
-  inspection_url: /records/2024-02-01-pdf-report-on-the-historical-record-of-us-government-involvement-with-unidentified-a#claim-08fccb52-8da0-41fa-ad3a-deb73f1bce6b
-- text: The ODNI assessment listed five potential explanatory categories for UAP.
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7bc4e921-c3da-4f00-ab42-367ef5f1a3a8
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-7bc4e921-c3da-4f00-ab42-367ef5f1a3a8
+- text: The Air Force designated UAP a Special Interest Item requiring aircrew reports
+    within 24 hours.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
-  location: char:4440-4647
-  quote: '...fall into one of five potential explanatory categories: airborne clutter,
-    natural atmospheric phenomena, U.S. Government or industry developmental programs,
-    foreign adversary systems, and a catchall "other" category.'
-  claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
-  claim_fingerprint: 093d8db152947bf1e6fe1c1262c2cd678fe079ec723d9925c834b1d60167cfb1
+  location: char:15061-15403
+  quote: For example, an Air Force Remotely Piloted Aircraft and Airborne Intelligence,
+    Surveillance, and Reconnaissance Technical Advisor stated that the Air Force designated
+    UAP as a "Special Interest Item," which requires aircrews to document and report
+    UAP observations within 24 hours of engine shutdown and mission completion using
+    the Marauder system.
+  claim_id: f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+  claim_fingerprint: efbe6ef96bd4bceb70af2cdb2610f752f3da8614d8c3ce405dd3bb44b4595190
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
   copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
-  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
-- text: Vallée divided the phenomenon into physical, psycho-physiological and social-belief
-    aspects.
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-f3cd6ba7-6e21-49cf-97f5-85be9b0b2b5c
+- text: Some military components sent reports to AARO even though the DoD did not
+    formally require them to do so.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:16175-16311
+  quote: The Military Services and MDCOs have sent some UAP incident reports to AARO,
+    but the DoD does not currently formally require them to do so.
+  claim_id: 1710a4d2-5b3e-4093-94e1-1f1b94926bbf
+  claim_fingerprint: a3c215896147b6fead2442f1edefdb87ab74098950bbcbcbb071c6bc15920421
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-1710a4d2-5b3e-4093-94e1-1f1b94926bbf
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-1710a4d2-5b3e-4093-94e1-1f1b94926bbf
+- text: The Inspector General recommended an integrated DoD policy covering UAP roles,
+    requirements and coordination.
+  source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
+    Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
+  location: char:16785-17170
+  quote: We recommend that the Under Secretary of Defense for Intelligence and Security,
+    in coordination with the All-domain Anomaly Resolution Office Director, issue
+    a Department of Defense policy to integrate unidentified anomalous phenomena roles,
+    responsibilities, requirements, and coordination procedures into existing intelligence,
+    counterintelligence, and force protection policies and procedures.
+  claim_id: b2461f07-88ad-4e00-809f-b213d1ff431c
+  claim_fingerprint: 35e2aa76f413d13df3fd553066ab2eee6a1286bf85374aac90e933b83505d738
+  record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
+  copyright_status: public_domain
+  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
+  inspection_url: /records/2024-01-24-pdf-unclassified-summary-of-report-no-dodig-2023-109-evaluation-of-the-dods-actions-#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
+- text: Vallée identified technological and psychological approaches among scientific
+    colleagues studying UFOs.
+  source: 'THE INVISIBLE COLLEGE: What a Group of Scientists Has Discovered About
+    UFO Influences on the Human Race'
+  location: ch8:2079-2160
+  quote: there have been two major approaches, which might be termed "technological"
+    and "psychological."
+  claim_id: 267e54f7-ce5e-4c73-b25d-d1450d6e2e61
+  claim_fingerprint: 692ffed13ba3e14b205826bdd7e74fe18b417d3c7711fd12da1ff76b7516be0a
+  record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
+  copyright_status: restricted
+  workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
+  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
+- text: Vallée described the phenomenon as having physical, psycho-physiological and
+    social aspects.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch16:1847-1921
   quote: Instead it is my conclusion, Mr. Chairman, that this phenomenon has three
@@ -4669,126 +4886,122 @@ references:
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
   inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
-- text: Vallée said he had found no evidence that the phenomenon represented visitors
-    from outer space.
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch16:1643-1839
-  quote: Although the UFO phenomenon is real, and appears to be caused by an unknown
-    physical stimulus, I have so far failed to discover any evidence that it represented
-    the arrival of visitors from outer space.
-  claim_id: a8729e4c-b4fd-4d55-b361-47c714a445a8
-  claim_fingerprint: b0ca1f5ab8226b0f846bb01350b375be080e1300639bd86610b157cc48be5624
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-a8729e4c-b4fd-4d55-b361-47c714a445a8
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-a8729e4c-b4fd-4d55-b361-47c714a445a8
-- text: Pasulka characterised Vallée's approach as addressing physical, testimonial
-    and social aspects.
+- text: Pasulka argued that social media, bots and algorithms amplify interpretations
+    of the UFO phenomenon.
   source: American Cosmic
-  location: ch1:55341-55734
-  quote: 'We were all well acquainted with the theories of Jacques Vallee, the famous
-    researcher, astronomer, and computer scientist. Vallee''s approach addressed three
-    aspects: the physical aspect, which Tyler represented; the testimonial aspect,
-    represented by experiencers; and the social aspect, how belief in the phenomenon
-    persists regardless of whether there is any verifiable evidence to support it.'
-  claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
-  claim_fingerprint: 99f2dab116c1c49789be4798b630325045faa049ae7101dbabf0c62a266dea26
+  location: ch3:53177-53345
+  quote: Seventy years on, interpretations of the phenomenon were being amplified
+    exponentially through a new social medium that included bots and computer algorithms,
+    not just people.
+  claim_id: dbc68e97-1e3e-498f-bf4d-179673fd29f5
+  claim_fingerprint: c1e6813ab7624ec3f4d1ecb405c411436c40c2f2ed5de0fa91710638e7fd3c56
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
   copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
-  inspection_url: /records/2019-ebook-american-cosmic#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
-- text: McDonald expressed dissatisfaction with relying on hearsay in UFO cases.
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:00:00.0-00:00:06.1
-  quote: Certainly as a scientist, I am not entirely happy with taking hearsay evidence
-  claim_id: 2eb45115-f57f-4763-a04c-7c974abec922
-  claim_fingerprint: c9fd69d1d98f76b6b31d660d8793c7646c108abac220e2eac094dec232966e41
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-dbc68e97-1e3e-498f-bf4d-179673fd29f5
+  inspection_url: /records/2019-ebook-american-cosmic#claim-dbc68e97-1e3e-498f-bf4d-179673fd29f5
+- text: Ross Coulthart conducted a year-long investigation into UAP for a book and
+    documentary.
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:04:11.7-00:04:23.1
+  quote: Ross Coulthard has been on a year-long investigation. Along the way, recording
+    every moment, every revelation in a book and on camera.
+  claim_id: 8741f993-3d50-40d4-ba94-95559b91b461
+  claim_fingerprint: b6a9deb1507b34e2e9aec231c99a5b2b405be821194af28dd571fb23ca52df9f
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-2eb45115-f57f-4763-a04c-7c974abec922
-- text: McDonald called simple lights in the sky especially vulnerable to misinterpretation.
-  source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
-    Investigative Tour (1967)
-  location: 00:05:46.5-00:05:53.8
-  quote: this general category of observation in which it is simply a light in the
-    sky is an extremely dangerous category with respect to misinterpretation
-  claim_id: 3e8065aa-ee52-454b-a60e-10ddce977686
-  claim_fingerprint: 130eb4a00cbf0f2dbc7b094e07ae9e57db10f46874f6cc95369c96e588cc78bf
-  record_hash: 1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-8741f993-3d50-40d4-ba94-95559b91b461
+- text: The Australian government holds thousands of historical UFO sighting reports,
+    many formerly classified.
+  source: The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight
+  location: 00:45:18.1-00:45:27.9
+  quote: The Australian government holds thousands of UFO sightings reports going
+    back decades, many of them once classified secret or top secret.
+  claim_id: 0ad2ddc9-4c8b-49d3-a480-b3576c841583
+  claim_fingerprint: 4c448941da071e81c05150b34645e3ac93dc02d658b7dd2717e9bf8b3b1f3941
+  record_hash: 957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643
   copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/1d24cbe9e49ad5279cd4975a2b37b3b3ab60a260be30a9264e34ef16#claim-3e8065aa-ee52-454b-a60e-10ddce977686
-- text: Coulthart said a video alone was nearly pointless without independent witnesses
-    or radar evidence.
-  source: The DANGEROUS Truth About UFOs - Ross Coulthart | DEBRIEFED ep. 76
-  location: 02:12:28.0-02:12:37.9
-  quote: unless there's multiple independent witnesses who are prepared to say, I
-    saw that object... I will sign a statutory declaration... Or, you know, it's caught
-    on radar traveling at 2000 miles an hour.
-  claim_id: d70ac8be-56cb-4098-b2fd-84cea89a6742
-  claim_fingerprint: 4d58fe31a6cbd587c67ae47870f842710b2a50e1c6d76b9fa2a75693512e28ee
-  record_hash: 73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653b
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/73be106d406f6d35a063a894e8384e7da0918eb8597d2107a9e3653b#claim-d70ac8be-56cb-4098-b2fd-84cea89a6742
-- text: A 1973 Gallup poll found that 93 per cent of Americans knew about UFOs.
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch15:10051-10129
-  quote: a 1973 Gallup poll found that almost all Americans (93 percent) were aware
-    of UFOs
-  claim_id: 26cbbeba-5bef-4840-b503-4e0bff50ee2f
-  claim_fingerprint: d00e7ae876aaf12e7a26a7262a0c0a8df950b809be635b6765f7d439725943b4
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-26cbbeba-5bef-4840-b503-4e0bff50ee2f
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-26cbbeba-5bef-4840-b503-4e0bff50ee2f
-- text: The same poll found that 15 million American adults thought they had seen
-    a UFO.
-  source: 'Messengers of Deception: UFO Contacts and Cults'
-  location: ch15:10139-10188
-  quote: 15 million adults thought they had actually seen one.
-  claim_id: 182a93ca-1794-46c3-8832-eb4ea62ffbff
-  claim_fingerprint: 2a04de7ffddf0e9ee7595defd9f4301e58bedcab535d7ee73051cfdddba8ba94
-  record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
-  copyright_status: restricted
-  workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-182a93ca-1794-46c3-8832-eb4ea62ffbff
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-182a93ca-1794-46c3-8832-eb4ea62ffbff
-- text: Benjamin Simon defined UFO as an unidentified object, not inherently a vehicle
-    from outer space.
-  source: The Hypnotist Who Unlocked Betty & Barney Hill’s Alien Memories | Dr. Benjamin
-    Simon Speaks
-  location: 00:14:12.3-00:14:28.4
-  quote: I must define UFO as I see it. It means an unidentified flying object, and
-    that's all it means. It can be Mendel's balloons, weather balloons, misinterpreted,
-    or anything else. It does not by its definition, imply visitation from out of
-    space
-  claim_id: ceb94734-e3e8-4357-80f7-36030104c196
-  claim_fingerprint: 9447c0af7dc6bdda661ad3a19136715279cb6acddc59d1aff870698be86aa36b
-  record_hash: 30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b
-  copyright_status: publicly_accessible
-  workbench_url: https://workbench.anomalica.is/30f8c30c6c37f3e3a2f61e3a451cc200ad17dead4830f0088f8e0e7b#claim-ceb94734-e3e8-4357-80f7-36030104c196
+  workbench_url: https://workbench.anomalica.is/957f730c1d53cbfc4f87d1db882a409506030e2e49338b530c4ab643#claim-0ad2ddc9-4c8b-49d3-a480-b3576c841583
 built_by:
   model: openai/gpt-5.6-sol
   model_version: openai/gpt-5.6-sol
   transport: cli
-  prompt_sha256: 33ae76a6563fc1b2708d5af107a4a110e508f83583c85e88daf340d8d2fe9bf9
+  prompt_sha256: a670c1218c7cab1f9593a3cc9fb4aaad2446a1f8d6e4209bada4320b7c20358b
   system_prompt_sha256: c57aa15e4af52a55ffc2e07293b05862873ef98fae298b2a1ef1a3a49f7070dd
   directives_sha256: 4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945
   tokens:
-    input: 269785
-    output: 7273
-    real_input: 269785
+    input: 269847
+    output: 8060
+    real_input: 269847
     cache_read: 0
     cache_write: 0
     calls: 0
-  body_sha256: 06cb06b015bd5f0b9525b6dbd870f129c7ff410ca033bc346dc34312a7ab5f21
+  body_sha256: a6d4b71b701edccb8949ed7cf4b48be430a0c80cfa78b406af0752716a4e477b
 ---
 
-UFO, meaning unidentified flying object, and UAP, now generally expanded as unidentified anomalous phenomena, are umbrella terms for observations that cannot immediately be identified. The James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 defined UAP to include unidentified airborne objects, transmedium objects or devices, and submerged objects or devices.<sup>1</sup> According to the Office of the Director of National Intelligence’s preliminary assessment, such objects lack both immediate identification and a single explanation.<sup>2</sup> The [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) has stressed that the only characteristic necessarily shared by events placed in this category is that each is initially unidentified.<sup>3</sup> The terminology therefore does not establish that reports have one cause or that they involve extraterrestrial craft. The Unidentified Aerial Phenomena Task Force described the newer official language as applying to objects once popularly called UFOs,<sup>4</sup> while the broader word “anomalous” permits investigation across air, space and water rather than limiting the subject to things apparently flying.
+UFOs, or unidentified flying objects, are now commonly addressed in official US usage as unidentified anomalous phenomena (UAP). The newer term covers reported objects or devices in airborne, transmedium and submerged domains,<sup>1</sup><sup>2</sup> but does not identify a common cause: according to the official historical review, the defining feature of the category is simply that each case is initially unidentified.<sup>3</sup>
 
-UFOs became a national issue in the United States during the late 1940s.<sup>5</sup> In December 1947, the Chief of Staff of the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) established Project Sign,<sup>6</sup> followed in 1952 by Project Blue Book.<sup>7</sup> The Air Force’s successive studies investigated more than 12,000 claimed sightings before ending in 1969,<sup>8</sup> with 701 cases recorded as unexplained.<sup>9</sup> According to *In Plain Sight*, the 1968 Condon Report concluded that further study could not be justified.<sup>10</sup> Government activity later resumed: in 2008, members of the [United States Congress](/organisations/united-states-congress) initiated and funded the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) under the Defense Intelligence Agency.<sup>11</sup> The [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) subsequently existed as a programme investigating UAP,<sup>12</sup> and collected audio and video records, including footage from a [United States Navy (USN)](/organisations/united-states-navy-usn) F/A-18.<sup>13</sup> On 2020-04-27, the [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) stated that the phenomena visible in three released Navy videos remained characterised as unidentified.<sup>14</sup>
+## Terminology and scope
 
-Military aviation reports have become a prominent part of contemporary UAP research. [Ryan Graves](/people/ryan-graves) testified that his F/A-18 squadron began observing UAP over restricted airspace south-east of Virginia Beach in 2014.<sup>15</sup> A radar upgrade allowed the squadron to direct infrared targeting cameras towards the objects,<sup>16</sup> and Graves considered the resulting combination of radar and infrared detection difficult to spoof.<sup>17</sup> In one training incident, two F/A-18F Super Hornets were split apart by an object approximately 16 kilometres off Virginia Beach.<sup>18</sup> It was described as a dark grey or black cube inside a clear sphere,<sup>19</sup> and reportedly passed within approximately 15 metres of the lead aircraft.<sup>20</sup> Encounters became frequent enough for the squadron to discuss UAP risk during regular preflight briefings.<sup>21</sup> In July 2023, Graves, [David Fravor](/people/david-fravor) and [David Charles Grusch](/people/david-charles-grusch) testified under oath at a bipartisan congressional hearing.<sup>22</sup> More than 1,000 military UAP reports have been logged since 2004,<sup>23</sup> although inclusion in that total does not establish that every report remains unexplained or has the same origin.
+“UFO” is the older popular and official expression. UAP was initially expanded as “unidentified aerial phenomena”, while subsequent legislation adopted “unidentified anomalous phenomena” to include events outside the atmosphere as well as objects moving between air, water and other domains. The category therefore describes a status within an investigative process rather than a conclusion about origin, technology or intent.
 
-Institutional handling has expanded since 2020. The DoD established a UAP Task Force in August 2020 to develop standardised reporting requirements,<sup>24</sup> while Congress included UAP-related language in National Defense Authorization Acts for fiscal years 2019 through 2023.<sup>25</sup> Two senior Defense intelligence officials appeared at a public hearing on 2022-05-17,<sup>26</sup> when the Pentagon team was investigating 400 unresolved incidents.<sup>27</sup> The [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) announced an independent study on 2022-06-09,<sup>28</sup> and AARO was tasked with investigating UAP from July 2022.<sup>29</sup> Nevertheless, the DoD Inspector General found that the department had not adopted a coordinated approach to detection, reporting, collection, analysis and identification,<sup>30</sup> and had not issued a comprehensive response plan.<sup>31</sup> Grusch had served as the National Geospatial-Intelligence Agency’s co-lead for UAP analysis and its representative to the task force,<sup>32</sup> and later supplied Congress and the intelligence community inspector general with classified information concerning covert programmes that he said possessed retrieved craft of non-human origin.<sup>33</sup> By contrast, AARO’s historical report said it had found no empirical evidence that a sighting represented off-world technology or that an unreported classified programme existed,<sup>34</sup> and stated that most investigated sightings resulted from ordinary objects, natural phenomena or misidentification.<sup>35</sup>
+This distinction allows the term to encompass reports that are later attributed to aircraft, balloons, atmospheric effects, satellites or other ordinary sources, alongside reports that remain unresolved. An unresolved classification does not by itself establish that an object is extraterrestrial, artificial or technologically advanced.
 
-Research is constrained by evidence quality and by disagreement over what kinds of evidence matter. AARO reported that most sightings are supported only by a vague narrative and that available hard data are often incomplete or poor,<sup>36</sup> while military sensors are generally optimised for combat rather than scientific collection.<sup>37</sup> The ODNI assessment grouped possible explanations into airborne clutter, natural atmospheric phenomena, US developmental programmes, foreign adversary systems and an “other” category.<sup>38</sup> [Jacques Vallée](/people/jacques-vallee) instead described three interacting aspects: physical manifestation, psycho-physiological effects and a social belief system,<sup>39</sup> while stating that he had found no evidence that the phenomenon represented visitors from outer space.<sup>40</sup> [Diana Walsh Pasulka](/people/diana-walsh-pasulka) similarly characterised his approach as encompassing physical evidence, experiencer testimony and the persistence of social belief.<sup>41</sup> Methodological caution has also been longstanding: [James MacDonald](/people/james-macdonald) objected to reliance on hearsay,<sup>42</sup> and warned that reports consisting only of lights in the sky were especially vulnerable to misinterpretation.<sup>43</sup> [Ross Coulthart](/people/ross-coulthart) has likewise argued that a submitted video has little evidential value without independent witnesses or radar corroboration.<sup>44</sup> Public interest nevertheless has deep roots: a 1973 Gallup poll found 93 per cent awareness of UFOs among Americans,<sup>45</sup> and 15 million American adults thought they had seen one.<sup>46</sup> As psychiatrist Benjamin Simon emphasised, however, calling something a UFO means only that it is unidentified; the label itself does not imply an origin in outer space.<sup>47</sup>
+## Historical investigation
+
+UFOs became a national issue in the United States during the late 1940s.<sup>4</sup> In December 1947, the [United States Air Force (USAF)](/organisations/united-states-air-force-usaf) Chief of Staff established Project Sign to investigate the first recorded observations covered by the official inquiry.<sup>5</sup> Project Blue Book followed in 1952 under the Air Force Director of Intelligence.<sup>6</sup>
+
+The sequence of Air Force studies begun in 1947 investigated more than 12,000 claimed sightings before ending in 1969,<sup>7</sup> with 701 cases recorded as unexplained.<sup>8</sup> The University of Colorado project led by Edward Condon produced the Condon Report, which concluded that no evidence existed for the reality of UFOs.<sup>9</sup> Its conclusions became central to the subsequent official and scientific treatment of the subject.
+
+Independent researchers disputed whether the available evidence had been adequately examined. By 1978, [Jacques Vallée](/people/jacques-vallee) had spent more than fifteen years studying reports made through official and unofficial channels in France and the United States,<sup>10</sup> using extensive computer statistics in his work.<sup>11</sup> [James MacDonald](/people/james-macdonald) addressed the United Nations Outer Space Affairs Group about the UFO problem on 1967-06-07.<sup>12</sup> During the preceding year, he examined psychological, advanced-technology, hoax, fraud and poorly understood geophysical explanations,<sup>13</sup> and concluded that the reports he considered reduced to machine-like craft of some kind.<sup>14</sup> These were McDonald’s conclusions rather than an official finding.
+
+## Renewed US programmes
+
+In 2008, [Harry Reid](/people/harry-reid) earmarked $22 million in [United States Department of Defense (DoD)](/organisations/united-states-department-of-defense-dod) funding for a UAP investigation conducted by an aerospace contractor.<sup>15</sup> A Department of Defense Inspector General summary described the [Advanced Aerospace Weapon System Applications Program (AAWSAP)](/projects/advanced-aerospace-weapon-system-applications-program-aawsap) as a congressionally initiated and funded effort directed by the Defense Intelligence Agency.<sup>16</sup>
+
+The [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip) also existed and pursued research and investigation into UAP.<sup>17</sup> [Luis Elizondo](/people/luis-elizondo) took over AATIP in 2010 and focused on the national-security implications of reports documented by US service personnel.<sup>18</sup> The programme collected video and audio recordings of reported incidents, including footage acquired by military aircraft.<sup>19</sup>
+
+On 2020-04-27, the Department of Defense authorised the public release of three unclassified [United States Navy (USN)](/organisations/united-states-navy-usn) videos.<sup>20</sup> The Department stated that the phenomena visible in those recordings remained characterised as unidentified.<sup>21</sup> This designation did not assign an extraterrestrial or non-human origin to them.
+
+The Department established the UAP Task Force in August 2020 to develop standardised reporting requirements.<sup>22</sup> The National Defense Authorization Act for Fiscal Year 2022 subsequently required a central office for all UAP matters,<sup>23</sup> and the [All-domain Anomaly Resolution Office (AARO)](/organisations/all-domain-anomaly-resolution-office-aaro) was tasked with investigating UAP from July 2022.<sup>24</sup> The legislation assigned AARO responsibility for synchronising and standardising collection, analysis and identification across the Department of Defense.<sup>25</sup>
+
+The [National Aeronautics and Space Administration (NASA)](/organisations/national-aeronautics-and-space-administration-nasa) announced an independent UAP study on 2022-06-09.<sup>26</sup> By June 2023, the [United States Congress](/organisations/united-states-congress) had held two public hearings and numerous classified briefings on the subject.<sup>27</sup>
+
+## Congressional testimony and disputed retrieval claims
+
+At a bipartisan congressional hearing in July 2023, [David Fravor](/people/david-fravor), [Ryan Graves](/people/ryan-graves) and [David Charles Grusch](/people/david-charles-grusch) testified under oath.<sup>28</sup> Grusch had served as the National Geospatial-Intelligence Agency’s co-lead for UAP analysis and as its representative to the UAP Task Force from late 2021 to July 2022.<sup>29</sup>
+
+According to Grusch’s unclassified complaint, elements of the intelligence community had withheld classified UAP information from Congress in order to obstruct legitimate oversight.<sup>30</sup> He also supplied Congress and the Intelligence Community Inspector General with information about covert programmes that he said possessed retrieved intact and partially intact craft of non-human origin.<sup>31</sup> These statements were allegations presented by Grusch, not findings established by the cited record.
+
+AARO’s historical review reached different conclusions. It confirmed that one Intelligence Community controlled-access programme had been expanded in 2021 to include a UAP reverse-engineering mission,<sup>32</sup> but reported that the programme never recovered or reverse-engineered any UAP or extraterrestrial spacecraft.<sup>33</sup> AARO also found no evidence that any US government investigation, academic research effort or official review panel had confirmed a sighting as extraterrestrial technology.<sup>34</sup>
+
+## Explanations and evidential limits
+
+AARO reported that official investigative efforts generally concluded that most sightings involved ordinary objects, natural phenomena or misidentification.<sup>35</sup> The Office of the Director of National Intelligence identified five broad explanatory categories: airborne clutter, natural atmospheric phenomena, US government or industrial development programmes, foreign adversary systems and an “other” category.<sup>36</sup>
+
+A continuing obstacle is the quality of the underlying evidence. Most reports have no associated data beyond a potentially vague narrative, while available hard data are often incomplete or poor in quality.<sup>37</sup> Military sensors that record UAP are normally calibrated and optimised for combat rather than scientific measurement.<sup>38</sup> AARO consequently assessed that better-quality information would probably allow most unresolved cases to be identified as ordinary objects or phenomena.<sup>39</sup>
+
+These limitations do not mean that every unresolved case has already been explained. They mean that an unidentified classification frequently reflects insufficient information rather than a demonstrated extraordinary cause.
+
+## Military observations and flight safety
+
+Graves’ F/A-18 squadron began observing UAP in restricted airspace south-east of Virginia Beach in 2014.<sup>40</sup> Graves said that detection by both radar and infrared systems made those observations difficult to spoof.<sup>41</sup>
+
+During one training mission approximately 16 kilometres off Virginia Beach, two F/A-18F Super Hornets were split apart by a UAP.<sup>42</sup> The object was described as a dark grey or black cube inside a clear sphere,<sup>43</sup> and it reportedly passed within approximately 15 metres of the lead aircraft.<sup>44</sup> Encounters became frequent enough for Graves’ squadron to discuss UAP risk during regular preflight briefings.<sup>45</sup>
+
+Military reporting also includes less dramatic observations. On 2020-08-08, an aircrew in the Arabian Gulf observed one UAP without any effect on its mission.<sup>46</sup> A report concerning an observation near Deir ez-Zor on 2022-07-31 recorded an event lasting less than one minute,<sup>47</sup> during which the object moved from north to south.<sup>48</sup> Such reports document what crews and sensors recorded without necessarily determining the nature of the object.
+
+## Reporting and institutional coordination
+
+The Air Force and Navy have led the development of military UAP reporting policies, procedures and mechanisms.<sup>49</sup> Nevertheless, the Department of Defense Inspector General found that the Department had not adopted a coordinated approach to detecting, reporting, collecting, analysing and identifying UAP.<sup>50</sup> The Inspector General further found that there was no overarching UAP policy and therefore no assurance that possible national-security and flight-safety threats had been identified and mitigated.<sup>51</sup>
+
+The Air Force designated UAP a “Special Interest Item”, requiring aircrews to document observations within 24 hours after engine shutdown and mission completion.<sup>52</sup> Some military services and counterintelligence organisations sent incident reports to AARO even though the Department did not formally require them to do so.<sup>53</sup> The Inspector General recommended an integrated policy defining UAP roles, responsibilities, requirements and coordination procedures across existing intelligence, counterintelligence and force-protection systems.<sup>54</sup>
+
+## Interpretive approaches and cultural effects
+
+Researchers have approached the subject through different frameworks. Vallée identified a technological or “nuts and bolts” approach among physicists and engineers, and a psychological approach among researchers interpreting reports as archetypes or expressions of human needs.<sup>55</sup> He himself described the phenomenon as having physical, psycho-physiological and social aspects.<sup>56</sup> These categories represent an interpretive model rather than an official scientific consensus.
+
+The cultural circulation of UFO claims is also a subject of study. [Diana Walsh Pasulka](/people/diana-walsh-pasulka) argued that social media, bots and algorithms have exponentially amplified interpretations of the phenomenon.<sup>57</sup> This amplification can include witness testimony, official records, speculation, misidentification, fabricated imagery and claims of government secrecy, making provenance and independent corroboration central to evaluating individual cases.
+
+Journalistic investigation has contributed to public discussion. [Ross Coulthart](/people/ross-coulthart) conducted a year-long UAP investigation for a book and documentary,<sup>58</sup> and reported that the Australian government holds thousands of historical sighting reports, many of which were once classified secret or top secret.<sup>59</sup> The existence of classified or formerly classified records establishes official interest in reported events, but does not by itself establish the origin or nature of the phenomena described.
+
+UFO and UAP research therefore encompasses several distinct questions: how observations should be reported, how sensor and witness data should be assessed, which cases can be resolved through ordinary explanations, whether unresolved incidents present aviation or security risks, and how institutional secrecy and popular culture affect interpretation. Official findings support continued collection and analysis while distinguishing the existence of unexplained reports from claims that they demonstrate extraterrestrial technology.
