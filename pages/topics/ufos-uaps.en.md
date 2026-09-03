@@ -34,6 +34,7 @@ description: UFOs and unidentified anomalous phenomena are reported objects or e
   causes as well as cases that remain unresolved because evidence is limited or inconclusive.
 tags:
 - phenomenon
+- hypothesis
 - secrecy and disclosure
 metadata:
   type: Research topic
