@@ -454,7 +454,7 @@ built_by:
   body_sha256: ab645639cbbec962445fb5300129ed709d8622c1a9f6e75ded6bbbf80077f0ac
 ---
 
-This 2017-12-16 article reports on the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), a US government effort that investigated reports of [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) sightings.<sup>1</sup> It is notable for describing the programme’s funding, activities and disputed status through accounts attributed to officials, participants and records obtained by [The New York Times](/organisations/the-new-york-times).
+This 2017-12-16 article reports on the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), a US government effort that investigated reports of [Unidentified Flying Object (UFO)](/topics/ufos-uaps) sightings.<sup>1</sup> It is notable for describing the programme’s funding, activities and disputed status through accounts attributed to officials, participants and records obtained by [The New York Times](/organisations/the-new-york-times).
 
 ## Programme and funding
 

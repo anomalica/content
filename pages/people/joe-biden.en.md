@@ -289,7 +289,7 @@ built_by:
   body_sha256: 508c80c3da9bb69a3235be0ca84728bc0b03cfaffef4e31035514c38a4a1cada
 ---
 
-Joe Biden served as President of the United States. During his presidency, the [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) topic intersected with his administration through legislation, a military shoot-down controversy, and congressional whistleblower testimony. Earlier in his career, Claiborne Pell, a senator, served as an advisor to Biden.<sup>1</sup>
+Joe Biden served as President of the United States. During his presidency, the [Unidentified Anomalous Phenomena (UAP)](/topics/ufos-uaps) topic intersected with his administration through legislation, a military shoot-down controversy, and congressional whistleblower testimony. Earlier in his career, Claiborne Pell, a senator, served as an advisor to Biden.<sup>1</sup>
 
 In December 2021, the US Senate passed the National Defense Authorization Act (NDAA) with its UAP language untouched on 2021-12-15, sending the bill to Biden for signature.<sup>2</sup> Luis Elizondo said that [Harry Reid](/people/harry-reid) had vowed to keep fighting his cancer until Biden signed the UAP legislation into law.<sup>3</sup> Biden signed the second UAP bill into law two days after Christmas, on 2021-12-27,<sup>4</sup> and Reid died peacefully in his sleep the following day, 2021-12-28.<sup>5</sup>
 

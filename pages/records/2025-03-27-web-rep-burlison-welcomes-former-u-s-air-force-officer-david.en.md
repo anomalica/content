@@ -326,7 +326,7 @@ built_by:
   body_sha256: 637fd06d49c8f423cde2532a9f6729744e38df1461e76679428262ca02e7d118
 ---
 
-The source record dated 2025-03-27 reports that [Eric Burlison](/people/eric-burlison) announced David Grusch as a Special Advisor.<sup>1</sup> It identifies Grusch as a decorated former US Air Force officer and senior civilian intelligence official, and refers to his sworn testimony before the US House Oversight & Accountability Committee concerning federal government activities involving [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap).<sup>2</sup><sup>3</sup><sup>4</sup>
+The source record dated 2025-03-27 reports that [Eric Burlison](/people/eric-burlison) announced David Grusch as a Special Advisor.<sup>1</sup> It identifies Grusch as a decorated former US Air Force officer and senior civilian intelligence official, and refers to his sworn testimony before the US House Oversight & Accountability Committee concerning federal government activities involving [Unidentified Anomalous Phenomena (UAP)](/topics/ufos-uaps).<sup>2</sup><sup>3</sup><sup>4</sup>
 
 ## Appointment and stated purpose
 

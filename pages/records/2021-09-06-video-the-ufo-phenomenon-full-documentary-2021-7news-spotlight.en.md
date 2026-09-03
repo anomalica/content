@@ -412,7 +412,7 @@ built_by:
   body_sha256: 249b31b888c8da7000442a318610b14cf03aa4588a1b8a3b7c2638a6ef6657d4
 ---
 
-*The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight* is a 2021 documentary examining reported [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) and [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) encounters. It combines interviews, historical cases, military accounts and claims about government investigations, making it a record of both reported observations and the interpretations offered by participants.
+*The UFO Phenomenon | Full Documentary 2021 | 7NEWS Spotlight* is a 2021 documentary examining reported [Unidentified Flying Object (UFO)](/topics/ufos-uaps) and [Unidentified Aerial Phenomena (UAP)](/topics/unidentified-aerial-phenomena-uap) encounters. It combines interviews, historical cases, military accounts and claims about government investigations, making it a record of both reported observations and the interpretations offered by participants.
 
 ## Scope and participants
 

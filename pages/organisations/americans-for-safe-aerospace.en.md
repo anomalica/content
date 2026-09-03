@@ -157,7 +157,7 @@ built_by:
   body_sha256: bfe2c2825bf3116d9116844c2946052c7d8200cf8abb3a269aac2060790706d2
 ---
 
-Americans for Safe Aerospace (ASA) is a nonprofit organisation founded by [Ryan Graves](/people/ryan-graves), a former US Navy pilot, which advocates for aerospace safety and national security.<sup>1</sup> Graves also serves as its Executive Director.<sup>2</sup><sup>3</sup> The organisation supports military and civilian pilots and others in the aerospace industry who report [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap), and campaigns for greater disclosure from public officials on the subject.<sup>4</sup>
+Americans for Safe Aerospace (ASA) is a nonprofit organisation founded by [Ryan Graves](/people/ryan-graves), a former US Navy pilot, which advocates for aerospace safety and national security.<sup>1</sup> Graves also serves as its Executive Director.<sup>2</sup><sup>3</sup> The organisation supports military and civilian pilots and others in the aerospace industry who report [Unidentified Anomalous Phenomena (UAP)](/topics/ufos-uaps), and campaigns for greater disclosure from public officials on the subject.<sup>4</sup>
 
 By the time of the House Hearing on Unidentified Anomalous Phenomena (2023-07-26), Graves said more than thirty witnesses had come forward to ASA and that almost 5,000 Americans had joined the organisation's push for transparency.<sup>5</sup> According to the hearing record, Graves testified at that session in his capacity as ASA's Executive Director.<sup>6</sup> Graves stated that the majority of witnesses approaching ASA are commercial pilots at major airlines, often veterans with decades of flying experience.<sup>7</sup>
 

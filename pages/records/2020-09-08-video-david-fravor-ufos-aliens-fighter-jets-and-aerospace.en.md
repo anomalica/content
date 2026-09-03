@@ -513,7 +513,7 @@ This source is a podcast interview with [David Fravor](/people/david-fravor), a 
 
 ## Background and aviation career
 
-According to Lex Fridman, Fravor personally saw and chased a [Unidentified Flying Object (UFO)](/topics/unidentified-flying-object-ufo) in 2004. The source identifies that encounter as the Tic Tac, more formally the USS Nimitz UFO incident.<sup>3</sup><sup>4</sup> Fridman said that Fravor's account, corroborated by several other pilots, was the most credible UFO sighting in history that he was aware of.<sup>5</sup>
+According to Lex Fridman, Fravor personally saw and chased a [Unidentified Flying Object (UFO)](/topics/ufos-uaps) in 2004. The source identifies that encounter as the Tic Tac, more formally the USS Nimitz UFO incident.<sup>3</sup><sup>4</sup> Fridman said that Fravor's account, corroborated by several other pilots, was the most credible UFO sighting in history that he was aware of.<sup>5</sup>
 
 Fridman also said that Fravor was a graduate of the United States Navy Fighter Weapons School (Top Gun). Fravor said he attended the school in Class 4 of 1997.<sup>6</sup><sup>7</sup> The interview discusses the school's training practices, including the distinction between its depiction in the film Top Gun (film) and Fravor's description of training as not being competitive between students in that manner.
 

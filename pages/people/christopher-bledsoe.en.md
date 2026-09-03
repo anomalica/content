@@ -171,7 +171,7 @@ built_by:
   body_sha256: 5f7a6be0ad66bebc0a764842eb9d3ae5da63bb3c4279a8e397f7a363a6d99866
 ---
 
-Christopher Bledsoe is a Baptist from North Carolina who had worked as a pilot and built a successful construction business before a sighting altered the course of his life.<sup>1</sup> Bledsoe has said that he had a profound [UFO](/topics/unidentified-flying-object-ufo) sighting which he came to interpret as an extension of his own religious tradition.<sup>2</sup>
+Christopher Bledsoe is a Baptist from North Carolina who had worked as a pilot and built a successful construction business before a sighting altered the course of his life.<sup>1</sup> Bledsoe has said that he had a profound [UFO](/topics/ufos-uaps) sighting which he came to interpret as an extension of his own religious tradition.<sup>2</sup>
 
 His congregation did not share this interpretation: church members rejected his account and characterised the experience as demonic.<sup>3</sup> The rejection contributed to several difficult years in which Bledsoe felt alienated from his community, though he later appeared to have reached a settled understanding of what the experience meant to him.<sup>4</sup>
 

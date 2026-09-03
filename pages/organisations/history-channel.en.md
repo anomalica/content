@@ -79,7 +79,7 @@ built_by:
   body_sha256: ab0f19dbd187411e4cc4b31a31e35cb25092e2fba69a6a490305d7809e72648a
 ---
 
-The History Channel is an American cable television network that has produced documentaries and factual programming touching on [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap). Sandra O'Hara has said that [Leslie Kean](/people/leslie-kean) was involved both behind and in front of the camera on the History Channel documentary based on UFOS: Generals, Pilots, and Government Officials Go on the Record, a production based on Kean's UFO book that O'Hara said aired the month Budd Hopkins died; O'Hara said she served as the documentary's field producer and also appeared on camera as an interviewee.<sup>1</sup>
+The History Channel is an American cable television network that has produced documentaries and factual programming touching on [Unidentified Anomalous Phenomena (UAP)](/topics/ufos-uaps). Sandra O'Hara has said that [Leslie Kean](/people/leslie-kean) was involved both behind and in front of the camera on the History Channel documentary based on UFOS: Generals, Pilots, and Government Officials Go on the Record, a production based on Kean's UFO book that O'Hara said aired the month Budd Hopkins died; O'Hara said she served as the documentary's field producer and also appeared on camera as an interviewee.<sup>1</sup>
 
 The production company Impossible Factual has counted the History Channel among its clients, alongside National Geographic and the Smithsonian Institution.<sup>2</sup>
 

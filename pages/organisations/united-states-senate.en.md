@@ -193,7 +193,7 @@ built_by:
   body_sha256: 37593dabfae02c97f96ba78d3a7038eb88daa2b82cb7e2ce709240eee6144704
 ---
 
-The United States Senate is the upper chamber of the US Congress. Its association with the topic of [Unidentified Anomalous Phenomena (UAP)](/topics/unidentified-anomalous-phenomena-uap) dates to 1989, when journalist [George Knapp](/people/george-knapp) first told Senator [Harry Reid](/people/harry-reid) — then in his first term — about accounts of a crashed saucer he had gathered outside his newsroom.<sup>1</sup>
+The United States Senate is the upper chamber of the US Congress. Its association with the topic of [Unidentified Anomalous Phenomena (UAP)](/topics/ufos-uaps) dates to 1989, when journalist [George Knapp](/people/george-knapp) first told Senator [Harry Reid](/people/harry-reid) — then in his first term — about accounts of a crashed saucer he had gathered outside his newsroom.<sup>1</sup>
 
 Reid, Senate majority leader at the time, was the driving force behind funding for the [Advanced Aerospace Threat Identification Program (AATIP)](/projects/advanced-aerospace-threat-identification-program-aatip), which he requested be largely funded during his tenure in that role.<sup>2</sup> The programme formed part of a $22 million effort Reid sponsored to investigate UFOs.<sup>3</sup> Senior members of a defense spending subcommittee, [Ted Stevens](/people/ted-stevens) of Alaska and [Daniel K. Inouye](/people/daniel-k-inouye) of Hawaii, supported the programme.<sup>4</sup> None of Reid, Stevens or Inouye wanted a public debate on the Senate floor about the funding.<sup>5</sup>
 
