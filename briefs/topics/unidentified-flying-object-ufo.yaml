@@ -4,7 +4,7 @@ page:
   kind: entity
   node_id: 98bef724-cfbc-458b-812f-02a59097adc9
   node_type: topic
-  title: UFO
+  title: UFOs
   slug: unidentified-flying-object-ufo
   claim_count: 961
   claim_count_total: 961
@@ -64,9 +64,9 @@ related_nodes:
     slug: jason-samosa
     shared_claims: 31
   - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-    title: Unidentified Anomalous Phenomena (UAP)
+    title: UAPs
     node_type: topic
-    slug: unidentified-anomalous-phenomena-uap
+    slug: uaps
     shared_claims: 26
   - node_id: 32b98a17-be55-4b0f-8e10-9d377e1e8b33
     title: United States Air Force (USAF)
@@ -1461,8 +1461,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2375,8 +2375,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -21236,8 +21236,8 @@ claims:
         title: Advanced Aerospace Threat Identification Program (AATIP)
         slug: advanced-aerospace-threat-identification-program-aatip
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -22116,8 +22116,8 @@ claims:
         title: Anna Paulina Luna
         slug: anna-paulina-luna
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -22157,8 +22157,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -23126,8 +23126,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -23173,8 +23173,8 @@ claims:
         title: Edgar Mitchell
         slug: edgar-mitchell
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -23226,8 +23226,8 @@ claims:
         title: Defense Intelligence Agency (DIA)
         slug: defense-intelligence-agency-dia
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -23970,8 +23970,8 @@ claims:
         title: Howard Blum
         slug: howard-blum
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -24441,8 +24441,8 @@ claims:
         title: Nat Kobitz
         slug: nat-kobitz
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -24619,8 +24619,8 @@ claims:
         title: Advanced Aerospace Threat Identification Program (AATIP)
         slug: advanced-aerospace-threat-identification-program-aatip
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -25282,8 +25282,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -25532,8 +25532,8 @@ claims:
         title: James Lacatski
         slug: james-lacatski
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
         slug: luis-elizondo
@@ -25578,8 +25578,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -25710,8 +25710,8 @@ claims:
         title: Jay Stratton
         slug: jay-stratton
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -25753,8 +25753,8 @@ claims:
         title: Advanced Aerospace Threat Identification Program (AATIP)
         slug: advanced-aerospace-threat-identification-program-aatip
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
         slug: luis-elizondo
@@ -25839,8 +25839,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 87788ebc-018b-47aa-a6e2-a7773c5a3d1d
         title: Luis Elizondo
         slug: luis-elizondo
@@ -25889,8 +25889,8 @@ claims:
         title: James Lacatski
         slug: james-lacatski
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -26533,8 +26533,8 @@ claims:
         title: J. Robert Oppenheimer
         slug: j-robert-oppenheimer
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 8b84db66-d907-4aef-b600-00e4d46009d3
         title: Albert Einstein
         slug: albert-einstein
@@ -27574,8 +27574,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 95cefe75-5f57-4e57-b8bc-2dccc1d958aa
         title: Watergate scandal
         slug: watergate-scandal
@@ -27665,7 +27665,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 7ad044f7-858d-4a81-9fbb-b67ada234c84
-        title: noble cause corruption
+        title: Noble cause corruption
         slug: noble-cause-corruption
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -28151,7 +28151,7 @@ claims:
       premise: window
     node_refs:
       - node_id: 22d5cfc1-a852-4b60-b837-9a0983bd836d
-        title: artificial intelligence generated video fakery
+        title: Artificial intelligence generated video fakery
         slug: artificial-intelligence-generated-video-fakery
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
@@ -35083,8 +35083,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -35770,8 +35770,8 @@ claims:
         title: Whitley Strieber
         slug: whitley-strieber
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 71870cd7-3e97-4671-a9a5-f7d144e24375
         title: The close encounter experience
         slug: the-close-encounter-experience
@@ -38673,8 +38673,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 8023cd65-840a-467b-b6e8-2a874c459820
         title: Matthew Tuttle
         slug: matthew-tuttle
@@ -38982,8 +38982,8 @@ claims:
         title: The UFO Book
         slug: the-ufo-book
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -41288,8 +41288,8 @@ claims:
         title: Poltergeist phenomena
         slug: poltergeist-phenomena
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -41692,8 +41692,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 708dfc6c-1de6-4e4c-bed6-78f27dd2a151
-        title: Unidentified Anomalous Phenomena (UAP)
-        slug: unidentified-anomalous-phenomena-uap
+        title: UAPs
+        slug: uaps
       - node_id: 8d3ca113-3f28-4808-998e-34d2837332a5
         title: Julia Mossbridge
         slug: julia-mossbridge
