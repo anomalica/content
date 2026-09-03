@@ -1,5 +1,5 @@
 ---
-title: UAP
+title: UAPs
 aliases:
 - /topics/unidentified-aerial-phenomena-unidentified-anomalous-phenomena-unidentified-aerial-phenomena-uap/
 - /en/topics/unidentified-aerial-phenomena-unidentified-anomalous-phenomena-unidentified-aerial-phenomena-uap/
