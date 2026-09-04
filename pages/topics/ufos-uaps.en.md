@@ -9,6 +9,8 @@ aliases:
 - /en/topics/unidentified-aerial-phenomena-uap/
 - /topics/unidentified-anomalous-phenomena-uap/
 - /en/topics/unidentified-anomalous-phenomena-uap/
+- /topics/unidentified-flying-object-ufo/
+- /en/topics/unidentified-flying-object-ufo/
 - /topics/unidentified-anomalous-phenomena/
 - /en/topics/unidentified-anomalous-phenomena/
 - /topics/unidentified-aerial-phenomena-unidentified-aerial-phenomena-unidentified-anomalous-phenomena-uap/
