@@ -4,15 +4,15 @@ page:
   kind: entity
   nodes:
     - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      name: James MacDonald
+      name: James E. McDonald
       node_type: person
   node_type: person
-  title: James MacDonald
-  slug: james-macdonald
+  title: James E. McDonald
+  slug: james-e-mcdonald
   claim_count: 118
   claim_count_total: 118
 generated:
-  graph_version: '2026-09-02T21:18:50.669459+00:00'
+  graph_version: '2026-09-07T01:23:04.967905+00:00'
 size:
   claims: 118
   tokens_estimated: 16263
@@ -213,8 +213,8 @@ claims:
         title: Barry Greenwood
         slug: barry-greenwood
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: bee030cd-fa0d-42c7-ae0f-8a4e15f3f938
         title: Westall Unidentified Flying Object (UFO) sighting 1966
         slug: westall-unidentified-flying-object-ufo-sighting-1966
@@ -253,8 +253,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 5ee4362d-c09b-44a8-a3be-8bd9c05f4c78
         title: United States Navy (USN)
         slug: united-states-navy-usn
@@ -292,8 +292,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -333,8 +333,8 @@ claims:
         title: Brian King
         slug: brian-king
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
         title: Australia, Victoria, Melbourne
         slug: victoria-melbourne-australia
@@ -359,7 +359,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James McDonald
@@ -373,8 +373,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:54:33.4-00:54:38.8
@@ -397,7 +397,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James McDonald
@@ -411,8 +411,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:54:39.5-00:54:43.8
@@ -435,7 +435,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James McDonald
@@ -449,8 +449,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:54:48.2-00:54:55.7
@@ -472,7 +472,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James McDonald
@@ -486,8 +486,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:54:56.0-00:54:57.0
@@ -509,7 +509,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James McDonald
@@ -523,8 +523,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:54:58.7-00:55:00.5
@@ -546,7 +546,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James McDonald
@@ -560,8 +560,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:55:00.8-00:55:02.2
@@ -584,7 +584,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -598,8 +598,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -628,7 +628,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -645,8 +645,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: db7170bd-ea41-4851-8bd2-8aba8c0fa4f4
         title: Australia, Victoria, Melbourne
         slug: victoria-melbourne-australia
@@ -672,7 +672,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -686,8 +686,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 9d8382f0-71d5-403b-a54c-b75b05fafe41
         title: 1949 Hawthorn cigar-shaped object sighting
         slug: 1949-hawthorn-cigar-shaped-object-sighting
@@ -716,7 +716,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -730,8 +730,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 9d8382f0-71d5-403b-a54c-b75b05fafe41
         title: 1949 Hawthorn cigar-shaped object sighting
         slug: 1949-hawthorn-cigar-shaped-object-sighting
@@ -757,7 +757,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -771,8 +771,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -798,7 +798,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -812,8 +812,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -857,8 +857,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -906,8 +906,8 @@ claims:
         title: University of Arizona Press
         slug: university-of-arizona-press
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:04:12.0-00:04:16.4
@@ -931,7 +931,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -945,8 +945,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -973,7 +973,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -987,8 +987,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1014,7 +1014,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1028,8 +1028,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1056,7 +1056,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1070,8 +1070,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:06:21.1-00:06:27.9
@@ -1095,7 +1095,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1109,8 +1109,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1137,7 +1137,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1151,8 +1151,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:06:57.0-00:07:02.9
@@ -1175,7 +1175,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1189,8 +1189,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1216,7 +1216,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1230,8 +1230,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: f5459057-15cc-4675-b177-d8eff2eb5afe
         title: Australia, Victoria, East Melbourne
         slug: victoria-east-melbourne-australia
@@ -1258,7 +1258,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1272,8 +1272,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1300,7 +1300,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1314,8 +1314,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1341,7 +1341,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1355,8 +1355,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1384,7 +1384,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1401,8 +1401,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1429,7 +1429,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1443,8 +1443,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1470,7 +1470,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1490,8 +1490,8 @@ claims:
         title: Australia, Tasmania, Hobart
         slug: tasmania-hobart-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: '1967'
     date_end: null
     location_in_record: 00:13:07.6-00:13:11.8
@@ -1516,7 +1516,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1530,8 +1530,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1565,7 +1565,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1579,8 +1579,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1606,7 +1606,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1620,8 +1620,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -1650,7 +1650,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1664,8 +1664,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: d6975c8c-453e-46cc-8f02-395d0940cf77
         title: Carl Gustav Jung
         slug: carl-gustav-jung
@@ -1695,7 +1695,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1712,8 +1712,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: c87f5b30-7b91-42c8-8987-bee89c1c1c84
         title: Victorian Flying Saucer Society
         slug: victorian-flying-saucer-society
@@ -1742,7 +1742,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1759,8 +1759,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: cb00f2f4-e720-4d5f-b966-08cd84761f63
         title: 1963-02 Moe farm disc sighting reported by farmer Brew
         slug: 1963-02-moe-farm-disc-sighting-reported-by-farmer-brew
@@ -1790,7 +1790,7 @@ claims:
     attestation: second_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: named
       origin: a farmer named Brew of Moe, Victoria
@@ -1805,8 +1805,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: cb00f2f4-e720-4d5f-b966-08cd84761f63
         title: 1963-02 Moe farm disc sighting reported by farmer Brew
         slug: 1963-02-moe-farm-disc-sighting-reported-by-farmer-brew
@@ -1835,7 +1835,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1849,8 +1849,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: cb00f2f4-e720-4d5f-b966-08cd84761f63
         title: 1963-02 Moe farm disc sighting reported by farmer Brew
         slug: 1963-02-moe-farm-disc-sighting-reported-by-farmer-brew
@@ -1880,7 +1880,7 @@ claims:
     attestation: second_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: named
       origin: a farmer named Brew of Moe, Victoria
@@ -1895,8 +1895,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: cb00f2f4-e720-4d5f-b966-08cd84761f63
         title: 1963-02 Moe farm disc sighting reported by farmer Brew
         slug: 1963-02-moe-farm-disc-sighting-reported-by-farmer-brew
@@ -1922,7 +1922,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1936,8 +1936,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: cb00f2f4-e720-4d5f-b966-08cd84761f63
         title: 1963-02 Moe farm disc sighting reported by farmer Brew
         slug: 1963-02-moe-farm-disc-sighting-reported-by-farmer-brew
@@ -1967,7 +1967,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -1984,8 +1984,8 @@ claims:
         title: Outer Space Affairs Group
         slug: outer-space-affairs-group
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
         title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
         slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
@@ -2016,7 +2016,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2036,8 +2036,8 @@ claims:
         title: 1967 Middle East crisis (Six-Day War)
         slug: 1967-middle-east-crisis-six-day-war
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: 1967-06
     date_end: null
     location_in_record: 00:16:12.0-00:16:14.1
@@ -2063,7 +2063,7 @@ claims:
     attestation: third_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: named
       origin: U Thant
@@ -2082,8 +2082,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
         title: Vietnam War
         slug: vietnam-war
@@ -2115,7 +2115,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2132,8 +2132,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2161,7 +2161,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2178,8 +2178,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
         title: Vietnam War
         slug: vietnam-war
@@ -2207,7 +2207,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2221,8 +2221,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2249,7 +2249,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2263,8 +2263,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2315,8 +2315,8 @@ claims:
         title: Wairakei flying saucer sighting by surveying engineer, circa 1957
         slug: circa-1957-wairakei-flying-saucer-sighting-by-surveying-engineer
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:19:04.2-00:19:20.0
@@ -2358,8 +2358,8 @@ claims:
         title: Royal New Zealand Air Force
         slug: royal-new-zealand-air-force
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:20:39.9-00:20:44.9
@@ -2382,7 +2382,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2396,8 +2396,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2424,7 +2424,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2441,8 +2441,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2469,7 +2469,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2486,8 +2486,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2514,7 +2514,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2531,8 +2531,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
@@ -2571,8 +2571,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: ed5bdb80-f0b3-46b0-8d8e-a27b693a8b88
         title: 1955-11-17 New Zealand West Coast train spinning objects sighting
         slug: 1955-11-17-new-zealand-west-coast-train-spinning-objects-sighting
@@ -2611,8 +2611,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: ed5bdb80-f0b3-46b0-8d8e-a27b693a8b88
         title: 1955-11-17 New Zealand West Coast train spinning objects sighting
         slug: 1955-11-17-new-zealand-west-coast-train-spinning-objects-sighting
@@ -2639,7 +2639,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2656,8 +2656,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: e4044a2b-73aa-4513-879d-342b4a4a522a
         title: New Zealand, Auckland
         slug: auckland-new-zealand
@@ -2699,8 +2699,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 75f253f7-8423-4080-9433-731fccee4d19
         title: 1965-03-08 East Preston iridescent blue object sighting
         slug: 1965-03-08-east-preston-iridescent-blue-object-sighting
@@ -2739,8 +2739,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 75f253f7-8423-4080-9433-731fccee4d19
         title: 1965-03-08 East Preston iridescent blue object sighting
         slug: 1965-03-08-east-preston-iridescent-blue-object-sighting
@@ -2766,7 +2766,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2780,8 +2780,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 75f253f7-8423-4080-9433-731fccee4d19
         title: 1965-03-08 East Preston iridescent blue object sighting
         slug: 1965-03-08-east-preston-iridescent-blue-object-sighting
@@ -2807,7 +2807,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2827,8 +2827,8 @@ claims:
         title: Australia, Tasmania, Hobart
         slug: tasmania-hobart-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:26:47.1-00:26:51.1
@@ -2852,7 +2852,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2866,8 +2866,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2894,7 +2894,7 @@ claims:
     attestation: second_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2909,8 +2909,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -2939,7 +2939,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -2956,8 +2956,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:28:22.9-00:28:40.4
@@ -2983,7 +2983,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3000,8 +3000,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3028,7 +3028,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3042,8 +3042,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3070,7 +3070,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3087,8 +3087,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:29:50.7-00:30:02.6
@@ -3110,7 +3110,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3127,8 +3127,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:30:15.9-00:30:20.8
@@ -3150,7 +3150,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3167,8 +3167,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:30:21.7-00:30:25.7
@@ -3191,7 +3191,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3211,8 +3211,8 @@ claims:
         title: Australia, Tasmania, Hobart
         slug: tasmania-hobart-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:30:27.1-00:30:31.3
@@ -3238,7 +3238,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3252,8 +3252,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3280,7 +3280,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3297,8 +3297,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: d737ef1a-34ac-41fc-b1c6-9d0c7dd87d03
         title: Royal Australian Air Force
         slug: royal-australian-air-force
@@ -3326,7 +3326,7 @@ claims:
     attestation: second_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: anonymous
       origin: a woman claiming to be a UFO witness interviewed by James E. McDonald
@@ -3341,8 +3341,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3368,7 +3368,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3385,8 +3385,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
@@ -3415,7 +3415,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3429,8 +3429,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
@@ -3459,7 +3459,7 @@ claims:
     attestation: second_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3477,8 +3477,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 769601ed-5b7f-4833-ae21-5d60d0fddaaa
         title: Project Blue Book
         slug: project-blue-book
@@ -3507,7 +3507,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3524,8 +3524,8 @@ claims:
         title: United States Air Force (USAF)
         slug: united-states-air-force-usaf
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3552,7 +3552,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3566,8 +3566,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3592,7 +3592,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3606,8 +3606,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3634,7 +3634,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3648,8 +3648,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3676,7 +3676,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3690,8 +3690,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3718,7 +3718,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3732,8 +3732,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3760,7 +3760,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3774,8 +3774,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3802,7 +3802,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3816,8 +3816,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3848,7 +3848,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3865,8 +3865,8 @@ claims:
         title: Australia, Tasmania, Hobart
         slug: tasmania-hobart-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3900,7 +3900,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3917,8 +3917,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3943,7 +3943,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3957,8 +3957,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -3984,7 +3984,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -3998,8 +3998,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4027,7 +4027,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4041,8 +4041,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4069,7 +4069,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4083,8 +4083,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4110,7 +4110,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4124,8 +4124,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4153,7 +4153,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4167,8 +4167,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4195,7 +4195,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4209,8 +4209,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4240,7 +4240,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4254,8 +4254,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4285,7 +4285,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4299,8 +4299,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4331,7 +4331,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4345,8 +4345,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
         title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
@@ -4372,7 +4372,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4386,8 +4386,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:39:16.8-00:39:22.9
@@ -4414,7 +4414,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4428,8 +4428,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:39:24.2-00:39:55.1
@@ -4451,7 +4451,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4465,8 +4465,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:39:55.4-00:40:02.4
@@ -4490,7 +4490,7 @@ claims:
     attestation: null
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: unattributed
       origin: astronomers generally, as characterised by James E. McDonald
@@ -4505,8 +4505,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
         title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
@@ -4534,7 +4534,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4548,8 +4548,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4579,7 +4579,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4593,8 +4593,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: f2829b06-90b3-4a65-a9ce-e707735ccea6
         title: Extraterrestrial hypothesis for Unidentified Flying Objects (UFOs)
         slug: extraterrestrial-hypothesis-for-unidentified-flying-objects-ufos
@@ -4622,7 +4622,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4639,8 +4639,8 @@ claims:
         title: James E. McDonald 1967 Australia, New Zealand and Tasmania Unidentified Flying Object (UFO) investigation tour
         slug: new-zealand-and-tasmania-unidentified-flying-object-ufo-investigation-tour-james-e-mcdonald-1967-australia
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4668,7 +4668,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4682,8 +4682,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4710,7 +4710,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4724,8 +4724,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -4752,7 +4752,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4769,8 +4769,8 @@ claims:
         title: Outer Space Affairs Group
         slug: outer-space-affairs-group
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
         title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
         slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
@@ -4801,7 +4801,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4818,8 +4818,8 @@ claims:
         title: Outer Space Affairs Group
         slug: outer-space-affairs-group
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 7f2106c6-6a69-4d27-86d5-847bafd5796e
         title: James E. McDonald statement to the United Nations Outer Space Affairs Group, 1967-06-07
         slug: 1967-06-07-james-e-mcdonald-statement-to-the-united-nations-outer-space-affairs-group
@@ -4846,7 +4846,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4866,8 +4866,8 @@ claims:
         title: 1967 Middle East crisis (Six-Day War)
         slug: 1967-middle-east-crisis-six-day-war
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 9b2ab989-b9c0-48fa-83ec-82ff34ff004f
         title: United Nations Security Council
         slug: united-nations-security-council
@@ -4892,7 +4892,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -4909,8 +4909,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:42:28.7-00:42:30.6
@@ -4936,7 +4936,7 @@ claims:
     attestation: third_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: named
       origin: U Thant
@@ -4955,8 +4955,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 79798a26-5342-45d4-b0e7-a60385e4f779
         title: Vietnam War
         slug: vietnam-war
@@ -4991,7 +4991,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -5008,8 +5008,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -5035,7 +5035,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -5055,8 +5055,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:42:56.3-00:43:02.2
@@ -5079,7 +5079,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -5099,8 +5099,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -5127,7 +5127,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -5144,8 +5144,8 @@ claims:
         title: U Thant
         slug: u-thant
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -5171,7 +5171,7 @@ claims:
     attestation: first_hand
     speaker:
       node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-      title: James MacDonald
+      title: James E. McDonald
     provenance_chain:
       origin_kind: speaker
       origin: James E. McDonald
@@ -5185,8 +5185,8 @@ claims:
       premise: window
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
       - node_id: 98bef724-cfbc-458b-812f-02a59097adc9
         title: Unidentified Flying Object (UFO)
         slug: unidentified-flying-object-ufo
@@ -5223,8 +5223,8 @@ claims:
       premise: quote
     node_refs:
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:43:28.0-00:43:34.3
@@ -5261,8 +5261,8 @@ claims:
         title: University of Arizona Press
         slug: university-of-arizona-press
       - node_id: 46886954-19d1-4d21-861a-9e653fb096a3
-        title: James MacDonald
-        slug: james-macdonald
+        title: James E. McDonald
+        slug: james-e-mcdonald
     date: null
     date_end: null
     location_in_record: 00:43:29.4-00:43:34.3
