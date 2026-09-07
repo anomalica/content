@@ -1,5 +1,8 @@
 ---
 title: Donald Menzel
+aliases:
+- /people/donald-howard-menzel/
+- /en/people/donald-howard-menzel/
 description: American astronomer at Harvard University known as a prominent public
   sceptic of UFOs, who was posthumously revealed to have held a clandestine top-secret
   security clearance and associations with US intelligence and military agencies.

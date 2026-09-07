@@ -1,5 +1,8 @@
 ---
 title: Strike Fighter Squadron 41 (VFA-41)
+aliases:
+- /organisations/fighter-squadron-41-vf-41/
+- /en/organisations/fighter-squadron-41-vf-41/
 description: Strike Fighter Squadron 41 (VFA-41), nicknamed the Black Aces, is a US
   Navy F/A-18F Super Hornet squadron whose pilots intercepted the Anomalous Aerial
   Vehicle during the 2004 USS Nimitz encounter.

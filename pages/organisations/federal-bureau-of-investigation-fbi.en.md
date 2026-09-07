@@ -1,5 +1,10 @@
 ---
 title: Federal Bureau of Investigation (FBI)
+aliases:
+- /organisations/united-states-federal-bureau-of-investigation-fbi/
+- /en/organisations/united-states-federal-bureau-of-investigation-fbi/
+- /organisations/fbi/
+- /en/organisations/fbi/
 description: The Federal Bureau of Investigation is the United States' domestic security
   and law-enforcement agency, which has repeatedly intersected with UFO and UAP matters,
   from the 1950 Guy Hottel memo to cattle mutilation investigations and modern task

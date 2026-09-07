@@ -1,5 +1,8 @@
 ---
 title: National Geospatial-Intelligence Agency (NGA)
+aliases:
+- /organisations/national-geospatial-intelligence-agency/
+- /en/organisations/national-geospatial-intelligence-agency/
 description: The National Geospatial-Intelligence Agency (NGA) is a US defence intelligence
   agency that processes, exploits, and disseminates satellite imagery, and the agency
   where whistleblower David Charles Grusch held several senior UAP-related roles.

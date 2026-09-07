@@ -1,5 +1,8 @@
 ---
 title: 1980 Texas diamond-shaped UAP encounter
+aliases:
+- /events/1980-12-texas-diamond-shaped-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1980-12-texas-diamond-shaped-unidentified-aerial-phenomena-uap-encounter/
 description: A December 1980 encounter near Dayton, Texas, in which two women and
   a boy reported a diamond-shaped object hovering nearby, followed by physical symptoms
   and an unsuccessful lawsuit against the US government.

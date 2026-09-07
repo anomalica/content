@@ -1,5 +1,8 @@
 ---
 title: National Institute for Discovery Science
+aliases:
+- /organisations/national-institute-for-discovery-science-nids/
+- /en/organisations/national-institute-for-discovery-science-nids/
 description: The National Institute for Discovery Science was a private research organisation
   founded by Robert Bigelow in the mid-1990s to investigate UFOs, cattle mutilations,
   and paranormal phenomena, including a long-running study of Skinwalker Ranch.

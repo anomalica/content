@@ -7,6 +7,8 @@ aliases:
 - /en/topics/topic-apparition/
 - /topics/topic-retrocognition/
 - /en/topics/topic-retrocognition/
+- /topics/retrocognition/
+- /en/topics/retrocognition/
 description: Precognition is the reported ability to perceive or know about a future
   event before it happens, examined in parapsychology and remote-viewing research
   through personal testimony, spontaneous premonitions, and laboratory studies of

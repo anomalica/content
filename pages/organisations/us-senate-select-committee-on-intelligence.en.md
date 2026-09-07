@@ -1,5 +1,16 @@
 ---
 title: US Senate Select Committee on Intelligence
+aliases:
+- /organisations/senate-select-committee-on-intelligence/
+- /en/organisations/senate-select-committee-on-intelligence/
+- /organisations/senate-select-committee-for-intelligence/
+- /en/organisations/senate-select-committee-for-intelligence/
+- /organisations/united-states-senate-select-committee-on-intelligence/
+- /en/organisations/united-states-senate-select-committee-on-intelligence/
+- /organisations/senate-select-committee-on-intelligence-ssci/
+- /en/organisations/senate-select-committee-on-intelligence-ssci/
+- /organisations/united-states-senate-select-committee-on-intelligence-ssci/
+- /en/organisations/united-states-senate-select-committee-on-intelligence-ssci/
 description: The US Senate Select Committee on Intelligence (SSCI) is a standing committee
   of the US Senate that oversees the US intelligence community and has repeatedly
   pressed for government reporting on unidentified anomalous phenomena.

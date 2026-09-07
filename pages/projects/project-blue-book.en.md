@@ -1,5 +1,8 @@
 ---
 title: Project Blue Book
+aliases:
+- /documents/project-blue-book/
+- /en/documents/project-blue-book/
 description: Project Blue Book was the United States Air Force's official investigation
   into UFO and UAP sightings, run from 1952 to 1969 out of Wright-Patterson Air Force
   Base and eventually examining more than 12,000 reported cases.

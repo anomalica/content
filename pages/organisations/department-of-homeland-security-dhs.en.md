@@ -1,5 +1,12 @@
 ---
 title: Department of Homeland Security (DHS)
+aliases:
+- /organisations/department-of-homeland-security/
+- /en/organisations/department-of-homeland-security/
+- /organisations/united-states-department-of-homeland-security-dhs/
+- /en/organisations/united-states-department-of-homeland-security-dhs/
+- /organisations/united-states-department-of-health-and-human-services-hhs/
+- /en/organisations/united-states-department-of-health-and-human-services-hhs/
 description: The Department of Homeland Security (DHS) is a US federal department
   whose personnel and assets have repeatedly featured in accounts of UAP sightings,
   video-release decisions, and a failed bid to revive a cancelled Pentagon research

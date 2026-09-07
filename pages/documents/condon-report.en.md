@@ -1,5 +1,8 @@
 ---
 title: Condon Report
+aliases:
+- /documents/the-condon-report/
+- /en/documents/the-condon-report/
 description: A 1968 University of Colorado study, directed by physicist Edward U.
   Condon under a United States Air Force contract, that examined UFO reports and concluded
   further scientific study of the phenomenon could not be justified.

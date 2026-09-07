@@ -1,5 +1,8 @@
 ---
 title: Eric Burlison
+aliases:
+- /people/eric-burleson/
+- /en/people/eric-burleson/
 description: US Representative for Missouri's 7th congressional district who has pressed
   the Department of Defense and intelligence community for answers on unidentified
   anomalous phenomena and appointed David Charles Grusch as a special advisor.

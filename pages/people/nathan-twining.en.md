@@ -1,5 +1,10 @@
 ---
 title: Nathan Twining
+aliases:
+- /people/general-nathan-twining/
+- /en/people/general-nathan-twining/
+- /people/nathan-f-twining/
+- /en/people/nathan-f-twining/
 description: US Air Force general whose 1947 investigation of flying disc reports,
   while heading the Air Materiel Command, led to Project Sign and Project SAUCER.
 metadata:

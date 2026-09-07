@@ -1,5 +1,12 @@
 ---
 title: Apollo 14
+aliases:
+- /projects/apollo-14-lunar-landing-mission/
+- /en/projects/apollo-14-lunar-landing-mission/
+- /projects/1971-apollo-14-landing/
+- /en/projects/1971-apollo-14-landing/
+- /projects/apollo-14-mission/
+- /en/projects/apollo-14-mission/
 description: Apollo 14 was a NASA crewed lunar landing mission flown in February 1971
   by Alan Shepard and Edgar Mitchell, whose mission photographs and footage were later
   examined by researchers for anomalous lights and for evidence cited in support of

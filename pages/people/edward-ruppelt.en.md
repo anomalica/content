@@ -1,5 +1,8 @@
 ---
 title: Edward Ruppelt
+aliases:
+- /people/edward-j-ruppelt/
+- /en/people/edward-j-ruppelt/
 description: US Air Force officer who led the reestablished Project GRUDGE and became
   the first director of Project Blue Book, the Air Force's principal UFO investigation
   programme of the 1950s.

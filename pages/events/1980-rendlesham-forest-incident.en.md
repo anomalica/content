@@ -7,6 +7,10 @@ aliases:
 - /en/events/1980-12-rendlesham-forest-incident/
 - /events/raf-woodbridge-rendlesham-forest-incident/
 - /en/events/raf-woodbridge-rendlesham-forest-incident/
+- /events/1980-rendlesham-forest-royal-air-force-raf-bentwaters-unidentified-flying-object-ufo-incident/
+- /en/events/1980-rendlesham-forest-royal-air-force-raf-bentwaters-unidentified-flying-object-ufo-incident/
+- /events/1980-rendlesham-forest-unidentified-aerial-phenomena-uap-incident/
+- /en/events/1980-rendlesham-forest-unidentified-aerial-phenomena-uap-incident/
 description: A series of unexplained lights and an alleged landed craft reported by
   United States Air Force personnel in Rendlesham Forest, Suffolk, England, over three
   nights in December 1980, investigated at the time by deputy base commander Charles

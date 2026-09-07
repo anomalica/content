@@ -1,5 +1,8 @@
 ---
 title: United Nations (UN)
+aliases:
+- /organisations/united-nations/
+- /en/organisations/united-nations/
 description: The United Nations (UN) is the international organisation whose Secretary-General
   mediated the 1962 Cuban Missile Crisis and whose General Assembly and committees
   have, at various points since the 1960s, been approached with UFO testimony, formal

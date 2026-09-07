@@ -1,5 +1,8 @@
 ---
 title: Lockheed Martin Skunk Works
+aliases:
+- /organisations/lockheed-skunk-works/
+- /en/organisations/lockheed-skunk-works/
 description: Lockheed Martin's secretive Advanced Development Programs division, responsible
   for a lineage of classified US aircraft and a recurring point of contact in accounts
   of UAP-related outreach.

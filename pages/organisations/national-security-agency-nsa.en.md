@@ -1,5 +1,8 @@
 ---
 title: National Security Agency (NSA)
+aliases:
+- /organisations/national-security-agency/
+- /en/organisations/national-security-agency/
 description: The National Security Agency is a US intelligence agency whose historical
   document holdings, personnel connections, and interagency cooperation have repeatedly
   featured in accounts of official UFO and UAP-related activity.

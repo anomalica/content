@@ -1,5 +1,8 @@
 ---
 title: Kecksburg UAP Crash 1965
+aliases:
+- /events/1965-kecksburg-unidentified-aerial-phenomena-uap-crash/
+- /en/events/1965-kecksburg-unidentified-aerial-phenomena-uap-crash/
 description: A 1965 incident in which an unidentified object crashed near Kecksburg,
   Pennsylvania, prompting a large military response and later attracting legal efforts
   to obtain government records about it.

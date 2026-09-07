@@ -1,5 +1,10 @@
 ---
 title: Go-Fast Video
+aliases:
+- /documents/go-fast-us-military-unidentified-aerial-phenomena-uap-video/
+- /en/documents/go-fast-us-military-unidentified-aerial-phenomena-uap-video/
+- /documents/2017-pentagon-unidentified-aerial-phenomena-uap-videos/
+- /en/documents/2017-pentagon-unidentified-aerial-phenomena-uap-videos/
 description: A 34-second infrared video filmed by a US Navy pilot showing an unidentified
   aerial object skimming low over water, released by the Department of Defense in
   2018.

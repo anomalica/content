@@ -1,5 +1,8 @@
 ---
 title: The Monroe Institute
+aliases:
+- /organisations/monroe-institute/
+- /en/organisations/monroe-institute/
 description: The Monroe Institute is a research and educational organisation in Nelliesford,
   Virginia, known for its work on sound wave forms and consciousness-exploration programmes
   such as the Gateway Voyage and Gateway Experience.

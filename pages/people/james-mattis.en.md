@@ -1,5 +1,8 @@
 ---
 title: James Mattis
+aliases:
+- /people/jim-mattis/
+- /en/people/jim-mattis/
 description: James Mattis is a former United States Secretary of Defense who received
   Luis Elizondo's 2017 Pentagon resignation letter raising concerns about unidentified
   anomalous phenomena.

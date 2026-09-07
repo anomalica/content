@@ -1,5 +1,10 @@
 ---
 title: Office of the Intelligence Community Inspector General (ICIG)
+aliases:
+- /organisations/intelligence-community-inspector-general/
+- /en/organisations/intelligence-community-inspector-general/
+- /organisations/intelligence-community-inspector-general-icig/
+- /en/organisations/intelligence-community-inspector-general-icig/
 description: The Office of the Intelligence Community Inspector General is a US federal
   oversight body that received and evaluated David Grusch's 2022 whistleblower complaint
   alleging inappropriate withholding of UFO-related information from Congress.

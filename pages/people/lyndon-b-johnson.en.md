@@ -3,6 +3,8 @@ title: Lyndon B. Johnson
 aliases:
 - /people/president-lyndon-b-johnson/
 - /en/people/president-lyndon-b-johnson/
+- /people/lyndon-johnson/
+- /en/people/lyndon-johnson/
 description: Lyndon B. Johnson was the 36th President of the United States who, as
   Vice President, helped secure Houston as the site of NASA's Manned Spacecraft Center
   and succeeded John F. Kennedy after his assassination on 1963-11-22.

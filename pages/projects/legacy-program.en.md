@@ -1,5 +1,10 @@
 ---
 title: Legacy Program
+aliases:
+- /projects/the-legacy-program/
+- /en/projects/the-legacy-program/
+- /projects/unidentified-aerial-phenomena-uap-deep-legacy-program/
+- /en/projects/unidentified-aerial-phenomena-uap-deep-legacy-program/
 description: The Legacy Program is a name used by former officials and researchers
   for an alleged long-running, informally structured effort within the US government
   and defence industry to retrieve and reverse-engineer crashed craft of nonhuman

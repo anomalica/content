@@ -1,5 +1,14 @@
 ---
 title: James R. Clapper
+aliases:
+- /people/james-r-clapper-jr/
+- /en/people/james-r-clapper-jr/
+- /people/james-r-jr-clapper/
+- /en/people/james-r-jr-clapper/
+- /people/james-clapper/
+- /en/people/james-clapper/
+- /people/jr-james-r-clapper/
+- /en/people/jr-james-r-clapper/
 description: James R. Clapper is a former US Director of National Intelligence and
   Defense Intelligence Agency director whose Pentagon career intersected with the
   early history of US government UAP programmes and with Luis Elizondo's tenure at

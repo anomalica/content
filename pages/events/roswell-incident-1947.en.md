@@ -3,6 +3,32 @@ title: Roswell incident (1947)
 aliases:
 - /events/roswell-incident/
 - /en/events/roswell-incident/
+- /events/1947-roswell-unidentified-aerial-phenomena-uap-crash/
+- /en/events/1947-roswell-unidentified-aerial-phenomena-uap-crash/
+- /events/1947-roswell-unidentified-flying-object-ufo-crash/
+- /en/events/1947-roswell-unidentified-flying-object-ufo-crash/
+- /events/roswell-unidentified-flying-object-ufo-crash/
+- /en/events/roswell-unidentified-flying-object-ufo-crash/
+- /events/1947-roswell-ufo-incident/
+- /en/events/1947-roswell-ufo-incident/
+- /events/1947-roswell-incident/
+- /en/events/1947-roswell-incident/
+- /events/1947-roswell-crash-and-debris-retrieval/
+- /en/events/1947-roswell-crash-and-debris-retrieval/
+- /events/roswell-crash/
+- /en/events/roswell-crash/
+- /events/roswell-uap-crash/
+- /en/events/roswell-uap-crash/
+- /events/1947-roswell-ufo-crash/
+- /en/events/1947-roswell-ufo-crash/
+- /events/1947-07-roswell-unidentified-flying-object-ufo-incident/
+- /en/events/1947-07-roswell-unidentified-flying-object-ufo-incident/
+- /events/1947-roswell-unidentified-flying-object-ufo-incident/
+- /en/events/1947-roswell-unidentified-flying-object-ufo-incident/
+- /events/1947-roswell-crash-retrieval/
+- /en/events/1947-roswell-crash-retrieval/
+- /events/1947-roswell-alleged-crash/
+- /en/events/1947-roswell-alleged-crash/
 description: A disputed July 1947 crash near Roswell, New Mexico, in which the US
   military recovered debris briefly described as a 'flying disc' before attributing
   it to a weather balloon, later officially linked to the classified Project Mogul

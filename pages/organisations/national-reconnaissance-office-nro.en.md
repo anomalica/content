@@ -1,5 +1,12 @@
 ---
 title: National Reconnaissance Office (NRO)
+aliases:
+- /organisations/national-reconnaissance-office/
+- /en/organisations/national-reconnaissance-office/
+- /organisations/united-states-national-reconnaissance-office/
+- /en/organisations/united-states-national-reconnaissance-office/
+- /organisations/national-underwater-reconnaissance-office-nuro/
+- /en/organisations/national-underwater-reconnaissance-office-nuro/
 description: The National Reconnaissance Office is a US intelligence agency that designs,
   builds and operates the country's reconnaissance satellites, and has been named
   in connection with several UAP-related claims and personnel.

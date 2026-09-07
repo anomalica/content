@@ -1,5 +1,8 @@
 ---
 title: United States Space Force (USSF)
+aliases:
+- /organisations/united-states-space-force/
+- /en/organisations/united-states-space-force/
 description: The United States Space Force is the sixth branch of the US military,
   established in December 2019, whose personnel have included a contractor supporting
   Pentagon UAP investigations.

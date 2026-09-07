@@ -1,5 +1,10 @@
 ---
 title: John Greenewald
+aliases:
+- /people/john-greenewald-jr/
+- /en/people/john-greenewald-jr/
+- /people/john-jr-greenewald/
+- /en/people/john-jr-greenewald/
 description: John Greenewald is the founder of The Black Vault, a Freedom of Information
   Act archive, whose reporting has scrutinised US government UFO-related disclosures
   and figures such as Luis Elizondo.

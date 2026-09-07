@@ -3,6 +3,8 @@ title: Anomalous Aerial Vehicle (AAV)
 aliases:
 - /concepts/anomalous-aerial-vehicle-aav/
 - /en/concepts/anomalous-aerial-vehicle-aav/
+- /topics/anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav/
+- /en/topics/anomalous-aerial-vehicle-anomalous-aerial-vehicle-aav/
 description: A term used by the US Navy and the Advanced Aerospace Threat Identification
   Program for unidentified airborne objects encountered during military operations,
   most notably a 2004 incident involving the Nimitz Carrier Strike Group off the coast

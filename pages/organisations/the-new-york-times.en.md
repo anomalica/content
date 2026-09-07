@@ -1,5 +1,10 @@
 ---
 title: The New York Times
+aliases:
+- /organisations/new-york-times/
+- /en/organisations/new-york-times/
+- /organisations/the-new-york-times-nyt/
+- /en/organisations/the-new-york-times-nyt/
 description: The New York Times is an American newspaper whose reporting, most notably
   a December 2017 front-page story on the Pentagon's Advanced Aerospace Threat Identification
   Program, has featured prominently in the history of UAP journalism.

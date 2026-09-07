@@ -1,5 +1,14 @@
 ---
 title: Out-of-Body Experience (OBE)
+aliases:
+- /topics/out-of-the-body-experience-oobe/
+- /en/topics/out-of-the-body-experience-oobe/
+- /topics/out-of-body-experience-oobe/
+- /en/topics/out-of-body-experience-oobe/
+- /topics/out-of-body-experience/
+- /en/topics/out-of-body-experience/
+- /topics/out-of-body-experience-out-of-body-experience-obe/
+- /en/topics/out-of-body-experience-out-of-body-experience-obe/
 description: An overview of the out-of-body experience, a reported state in which
   a person perceives being present at a location away from their physical body, and
   its documented connections to remote viewing and near-death experience research.

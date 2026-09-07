@@ -3,6 +3,8 @@ title: 1964 Socorro UAP encounter
 aliases:
 - /events/socorro-new-mexico-uap-sighting/
 - /en/events/socorro-new-mexico-uap-sighting/
+- /events/1964-socorro-unidentified-aerial-phenomena-uap-encounter/
+- /en/events/1964-socorro-unidentified-aerial-phenomena-uap-encounter/
 description: A police officer's close-range encounter with a landed, unidentified
   egg-shaped object near Socorro, New Mexico, on 24 April 1964, which left physical
   traces at the site and drew investigation from the US Air Force, US Army and Federal
