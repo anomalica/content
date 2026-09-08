@@ -353,7 +353,7 @@ The source records Graves's view that the [Federal Aviation Administration] (FAA
 
 ## The 2004 USS Nimitz account
 
-Fravor discussed the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter), which took place during a training deployment off the coast of [USA, California, San Diego](/places/california-san-diego-usa). He said that the flight had been scheduled as a two-versus-two air-to-air exercise, with the [USS Princeton](/objects/uss-princeton-cg-59) acting as control, before the exercise was suspended and the aircraft were directed to real-world tasking involving unidentified objects.<sup>13</sup>
+Fravor discussed the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter), which took place during a training deployment off the coast of [San Diego](/places/california-san-diego-usa). He said that the flight had been scheduled as a two-versus-two air-to-air exercise, with the [USS Princeton](/objects/uss-princeton-cg-59) acting as control, before the exercise was suspended and the aircraft were directed to real-world tasking involving unidentified objects.<sup>13</sup>
 
 Fravor said that the [USS Princeton](/objects/uss-princeton-cg-59) had tracked unidentified objects for two weeks before the encounter. He described the object as a white Tic Tac object, approximately 12 metres long, and said that it had no visible rotors, rotor wash, control surfaces, or wings.<sup>14</sup> The account includes a report of whitewater disturbance on the ocean surface in clear weather with light winds, calm seas, and no whitecaps.
 

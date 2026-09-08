@@ -503,7 +503,7 @@ The article states that Congress had not been provided with physical materials r
 
 ## Complaint and alleged retaliation
 
-Grusch was represented by Charles McCullough III, a senior partner at the [Compass Rose Legal Group](/organisations/compass-rose-legal-group) in [USA, Washington, D.C.](/places/washington-dc-usa).<sup>27</sup> The article identifies McCullough as the first Inspector General of the Intelligence Community and reports that he filed a reprisal complaint on Grusch's behalf with the ICIG in May 2022.<sup>28</sup>
+Grusch was represented by Charles McCullough III, a senior partner at the [Compass Rose Legal Group](/organisations/compass-rose-legal-group) in [D.C.](/places/washington-dc-usa).<sup>27</sup> The article identifies McCullough as the first Inspector General of the Intelligence Community and reports that he filed a reprisal complaint on Grusch's behalf with the ICIG in May 2022.<sup>28</sup>
 
 According to the article, the Unclassified complaint of David Charles Grusch stated that UAP-related classified information had been withheld or concealed from Congress by elements of the Intelligence Community to thwart Congressional oversight of the UAP programme.<sup>29</sup> The source states that Grusch's testimony for the classified complaint was provided under oath.<sup>30</sup> The ICIG found the complaint “credible and urgent” in July 2022, according to the article.<sup>31</sup>
 

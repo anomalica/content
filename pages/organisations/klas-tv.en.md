@@ -93,9 +93,9 @@ built_by:
   body_sha256: 3e41db635e4df2dd4759cd9b60afd6e9c90fefc6c530ab84bbfb41ff04a10c1f
 ---
 
-KLAS-TV is a television station based in [USA, Nevada, Las Vegas](/places/nevada-las-vegas-usa).<sup>1</sup> It is closely associated with the UAP topic through the work of investigative journalist [George Knapp](/people/george-knapp), who has worked for the station for 40 years and has broken numerous UAP-related stories during that time.<sup>2</sup>
+KLAS-TV is a television station based in [Las Vegas](/places/nevada-las-vegas-usa).<sup>1</sup> It is closely associated with the UAP topic through the work of investigative journalist [George Knapp](/people/george-knapp), who has worked for the station for 40 years and has broken numerous UAP-related stories during that time.<sup>2</sup>
 
-The station's best-known contribution to the subject came in 1989, when [Bob Lazar](/people/bob-lazar) went public in an interview with Knapp, broadcast on KLAS-TV, in which Lazar anonymously asserted that he had worked on a recovered craft at a facility he described as Site 4 (S-4), located near USA, Nevada, Papoose Lake adjacent to [USA, Nevada, Area 51](/places/nevada-area-51-usa).<sup>3</sup> This broadcast is recorded as the 1989 Bob Lazar KLAS interview.
+The station's best-known contribution to the subject came in 1989, when [Bob Lazar](/people/bob-lazar) went public in an interview with Knapp, broadcast on KLAS-TV, in which Lazar anonymously asserted that he had worked on a recovered craft at a facility he described as Site 4 (S-4), located near USA, Nevada, Papoose Lake adjacent to [Area 51](/places/nevada-area-51-usa).<sup>3</sup> This broadcast is recorded as the 1989 Bob Lazar KLAS interview.
 
 KLAS-TV's handling of the Harry Reid memo to William Lynn III on Advanced Aerospace Threat Identification Program (AATIP) Special Access Program status (2009-07-24) has also drawn attention: one page of the memo, as released by the station, shows the names of [Luis Elizondo](/people/luis-elizondo) and [Harold E. Puthoff](/people/harold-e-puthoff) redacted, for reasons that are not documented.<sup>4</sup>
 

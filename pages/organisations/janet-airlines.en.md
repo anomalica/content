@@ -86,8 +86,8 @@ built_by:
   body_sha256: 69bf0bc7be5d7d5ddb165e3774cda7b1a26105a75de5c0db0dbfa3baf70db0e3
 ---
 
-Janet Airlines is a private charter airline used to ferry personnel to the secure facility at [USA, Nevada, Area 51](/places/nevada-area-51-usa). David Fruehauf worked at Area 51 for six years, from 1979 to 1985, commuting daily from [USA, Nevada, Las Vegas](/places/nevada-las-vegas-usa) on a private charter flight named Janet Airlines.<sup>1</sup>
+Janet Airlines is a private charter airline used to ferry personnel to the secure facility at [Area 51](/places/nevada-area-51-usa). David Fruehauf worked at Area 51 for six years, from 1979 to 1985, commuting daily from [Las Vegas](/places/nevada-las-vegas-usa) on a private charter flight named Janet Airlines.<sup>1</sup>
 
-Luigi Venditelli said that a pilot who had previously served as a co-pilot for EG&G, flying Janet Airlines flights into [USA, Nevada, Groom Lake](/places/nevada-groom-lake-usa) sometime between approximately 1987 and 1991, reached out to [Chris Ramsay](/people/chris-ramsay).<sup>2</sup> Venditelli said the same co-pilot told him he knew Dennis Mariani.<sup>3</sup>
+Luigi Venditelli said that a pilot who had previously served as a co-pilot for EG&G, flying Janet Airlines flights into [Groom Lake](/places/nevada-groom-lake-usa) sometime between approximately 1987 and 1991, reached out to [Chris Ramsay](/people/chris-ramsay).<sup>2</sup> Venditelli said the same co-pilot told him he knew Dennis Mariani.<sup>3</sup>
 
 Ramsay said the co-pilot told him he had met Mariani over a dozen times and had a regular rapport with him, and that he was later informed of Mariani's death.<sup>4</sup> Venditelli said the co-pilot's testimony establishes that a real person named Dennis Mariani existed and flew on Janet Airlines jets to Groom Lake.<sup>5</sup>

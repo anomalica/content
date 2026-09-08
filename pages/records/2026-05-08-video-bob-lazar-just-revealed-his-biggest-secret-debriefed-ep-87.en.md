@@ -441,7 +441,7 @@ built_by:
   body_sha256: 3c80259c1b25c4d4a474046733f28a613e29412a049fc3524e80c405e1d775bd
 ---
 
-DEBRIEFED ep. 87: Bob Lazar Just Revealed His BIGGEST Secret is a source recording in which [Bob Lazar](/people/bob-lazar) discusses people and events associated with [USA, Nevada, S4](/places/nevada-s4-usa). Its principal subjects are Lazar's account of Chuck Payne, Dennis Mariani, security arrangements and technical information he says he encountered there.
+DEBRIEFED ep. 87: Bob Lazar Just Revealed His BIGGEST Secret is a source recording in which [Bob Lazar](/people/bob-lazar) discusses people and events associated with [S4](/places/nevada-s4-usa). Its principal subjects are Lazar's account of Chuck Payne, Dennis Mariani, security arrangements and technical information he says he encountered there.
 
 ## Chuck Payne and Dennis Mariani
 
@@ -449,9 +449,9 @@ Lazar said that he had deliberately withheld Payne's name because Payne was a we
 
 Lazar discussed the uncertain fate of Dennis Mariani, reporting that people he knew who had investigated Mariani's fate believed that Mariani had died.<sup>3</sup> Lazar said that he had seen a photograph of a gravestone which he believed, together with other connecting details, belonged to Mariani.<sup>4</sup> Luigi Venditelli said that he had been surprised when Lazar first disclosed the name Payne in an interview approximately three years before the recording.<sup>5</sup>
 
-Venditelli also described information received during work associated with Project Gravator. He said that the film crew filmed Lazar with a DeLorean time machine prop in the desert near [USA, Nevada, Las Vegas](/places/nevada-las-vegas-usa).<sup>6</sup> Venditelli said that, during the filming trip, Lazar told him that he had information to share which he had not shared previously.
+Venditelli also described information received during work associated with Project Gravator. He said that the film crew filmed Lazar with a DeLorean time machine prop in the desert near [Las Vegas](/places/nevada-las-vegas-usa).<sup>6</sup> Venditelli said that, during the filming trip, Lazar told him that he had information to share which he had not shared previously.
 
-The episode discusses alleged independent testimony concerning Mariani. Venditelli said that a former [EG&G](/organisations/egg) co-pilot who had flown [Janet Airlines](/organisations/janet-airlines) flights into [USA, Nevada, Groom Lake](/places/nevada-groom-lake-usa) contacted [Chris Ramsay](/people/chris-ramsay).<sup>7</sup> Ramsay said that the co-pilot had met Mariani more than a dozen times, had a regular rapport with him and had been informed of his passing.<sup>8</sup> Venditelli regarded this reported testimony as independent corroboration that Mariani existed and flew on Janet Airlines aircraft to Groom Lake, and considered it supportive of Lazar's account.<sup>9</sup>
+The episode discusses alleged independent testimony concerning Mariani. Venditelli said that a former [EG&G](/organisations/egg) co-pilot who had flown [Janet Airlines](/organisations/janet-airlines) flights into [Groom Lake](/places/nevada-groom-lake-usa) contacted [Chris Ramsay](/people/chris-ramsay).<sup>7</sup> Ramsay said that the co-pilot had met Mariani more than a dozen times, had a regular rapport with him and had been informed of his passing.<sup>8</sup> Venditelli regarded this reported testimony as independent corroboration that Mariani existed and flew on Janet Airlines aircraft to Groom Lake, and considered it supportive of Lazar's account.<sup>9</sup>
 
 ## The Union Plaza Hotel meeting
 

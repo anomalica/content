@@ -452,7 +452,7 @@ Salas's account of the 1967 Malmstrom Air Force Base UFO incident is also includ
 
 ## Australian historical cases
 
-The documentary discusses the 1966 Westall High School UFO sighting at Westall High School in [Australia, Victoria, Melbourne](/places/victoria-melbourne-australia). Greenwood said that he was teaching a year nine science class when a pupil reported a flying saucer. Greenwood then saw a grey, almost cylindrical or cigar-shaped object over the far side of the school oval, moving with some precision.<sup>26</sup> He said that students ran across the oval after the object moved behind pine trees. The documentary reports that more than 200 people witnessed the sighting.<sup>27</sup>
+The documentary discusses the 1966 Westall High School UFO sighting at Westall High School in [Melbourne](/places/victoria-melbourne-australia). Greenwood said that he was teaching a year nine science class when a pupil reported a flying saucer. Greenwood then saw a grey, almost cylindrical or cigar-shaped object over the far side of the school oval, moving with some precision.<sup>26</sup> He said that students ran across the oval after the object moved behind pine trees. The documentary reports that more than 200 people witnessed the sighting.<sup>27</sup>
 
 Other testimony in the programme describes an object on the ground surrounded by heat and purple lights before it rose slowly to approximately three or four metres and flew straight upwards. Air Force and Army personnel reportedly arrived within 40 minutes, and returning witnesses found a circular area of trampled grass with guards and people using equipment.
 
@@ -462,7 +462,7 @@ McDonald is described as having worked officially for the [United States Navy](/
 
 ## Roswell and alleged recovered technology
 
-The documentary presents the 1948 Roswell UFO incident through David Mahler, [Scott Ramsey](/people/scott-ramsey) and [Suzanne Ramsey](/people/suzanne-ramsey). An anonymous source claiming to be a senior US defence or intelligence official told Coulthart that the United States had recovered alien extraterrestrial technology, including spacecraft, and that one recovered craft came from near [USA, New Mexico, Roswell](/places/new-mexico-roswell-usa).<sup>28</sup> The attribution to an anonymous source is retained in the documentary's account.
+The documentary presents the 1948 Roswell UFO incident through David Mahler, [Scott Ramsey](/people/scott-ramsey) and [Suzanne Ramsey](/people/suzanne-ramsey). An anonymous source claiming to be a senior US defence or intelligence official told Coulthart that the United States had recovered alien extraterrestrial technology, including spacecraft, and that one recovered craft came from near [Roswell](/places/new-mexico-roswell-usa).<sup>28</sup> The attribution to an anonymous source is retained in the documentary's account.
 
 According to Scott Ramsey, oil workers discovered a lenticular craft on 1948-03-25 after being called out because of a brush fire. He estimated the object as approximately 5.5 metres tall and just under 30 metres across.<sup>29</sup> Suzanne Ramsey said that research by her and Scott indicated that 16 dead alien bodies were found aboard the recovered craft. She described the bodies as between approximately 1.1 and 1.2 metres tall, childlike in appearance, with perfect teeth, and wearing charred powder-blue jumpsuits without visible rank markings.
 

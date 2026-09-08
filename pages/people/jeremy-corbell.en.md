@@ -158,7 +158,7 @@ built_by:
   body_sha256: ddb5be085990d511f9f3023b9e304a41531f7fc57d015cea0c385bfc605c3bf9
 ---
 
-Jeremy Corbell is a documentary filmmaker whose work concerns unidentified aerial phenomena (UAP) and associated government secrecy. His 2021 film *In Plain Sight* centres on [Bob Lazar](/people/bob-lazar) and his account of working at [USA, Nevada, Area 51](/places/nevada-area-51-usa); during its making, Corbell found a witness whom Lazar said had vetted him for his Area 51 security clearance.<sup>1</sup>
+Jeremy Corbell is a documentary filmmaker whose work concerns unidentified aerial phenomena (UAP) and associated government secrecy. His 2021 film *In Plain Sight* centres on [Bob Lazar](/people/bob-lazar) and his account of working at [Area 51](/places/nevada-area-51-usa); during its making, Corbell found a witness whom Lazar said had vetted him for his Area 51 security clearance.<sup>1</sup>
 
 Corbell's film Sleeping Dog contains footage that has drawn comment from journalist [Ross Coulthart](/people/ross-coulthart). One image from the film, which Coulthart calls Caspar's Ghost, appears to show a plasmatic, humanoid-shaped object moving strangely.<sup>2</sup> Coulthart has said he rejects the theory that Corbell must have been working with government gatekeepers to obtain the footage, calling it a silly theory and describing it as normal for journalists to receive leaked information.<sup>3</sup>
 

@@ -466,7 +466,7 @@ According to the article, Bigelow believes that UFOs have visited Earth.<sup>8</
 
 ## Investigated incidents and materials
 
-The article states that, in August 2017, AATIP released a video of a whitish oval object, described as about the size of a commercial aeroplane, being chased by two Navy [F/A-18F Super Hornet](/objects/fa-18f-super-hornet) fighters from the aircraft carrier [USS Nimitz](/objects/uss-nimitz-cvn-68) off [USA, California, San Diego](/places/california-san-diego-usa) in 2004. The account concerns the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter).<sup>10</sup>
+The article states that, in August 2017, AATIP released a video of a whitish oval object, described as about the size of a commercial aeroplane, being chased by two Navy [F/A-18F Super Hornet](/objects/fa-18f-super-hornet) fighters from the aircraft carrier [USS Nimitz](/objects/uss-nimitz-cvn-68) off [San Diego](/places/california-san-diego-usa) in 2004. The account concerns the [2004 USS Nimitz UAP encounter](/events/2004-uss-nimitz-uap-encounter).<sup>10</sup>
 
 The article reports that AATIP funding was used for programme management, research and assessments of the threat posed by the objects.<sup>11</sup> It says that contracts obtained by The New York Times showed a congressional appropriation of just under $22 million beginning in late 2008 and continuing through 2011.<sup>12</sup> The funding reportedly went to [Bigelow Aerospace](/organisations/bigelow-aerospace), which hired subcontractors and solicited research.<sup>13</sup>
 
