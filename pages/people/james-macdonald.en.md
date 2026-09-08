@@ -1,5 +1,5 @@
 ---
-title: James MacDonald
+title: James E. McDonald
 aliases:
 - /people/james-mcdonald/
 - /en/people/james-mcdonald/
