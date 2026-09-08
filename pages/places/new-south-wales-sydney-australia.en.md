@@ -1,5 +1,6 @@
 ---
 title: Australia, New South Wales, Sydney
+display_title: Sydney
 description: Sydney is a city in New South Wales, Australia, where researcher Bill
   Chalker documented the Peter Khoury alien abduction case, including a hair sample
   later found to carry an unusual mitochondrial DNA profile.

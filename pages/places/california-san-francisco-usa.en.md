@@ -1,5 +1,6 @@
 ---
 title: USA, California, San Francisco
+display_title: San Francisco
 aliases:
 - /places/california-oak-knoll-naval-hospital-san-francisco-usa/
 - /en/places/california-oak-knoll-naval-hospital-san-francisco-usa/

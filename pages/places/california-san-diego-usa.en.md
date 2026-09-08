@@ -1,5 +1,6 @@
 ---
 title: USA, California, San Diego
+display_title: San Diego
 description: San Diego is a coastal city in southern California off which the US Navy's
   2004 USS Nimitz UAP encounter took place.
 metadata:

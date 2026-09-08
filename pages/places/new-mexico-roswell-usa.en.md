@@ -1,5 +1,6 @@
 ---
 title: USA, New Mexico, Roswell
+display_title: Roswell
 description: A city in south-eastern New Mexico, USA, best known as the site of a
   reported 1947 crash and debris recovery central to UFO lore, and now home to an
   annual UFO festival.

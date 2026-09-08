@@ -1,5 +1,6 @@
 ---
 title: USA, Ohio, Wright-Patterson Air Force Base
+display_title: Wright-Patterson Air Force Base
 aliases:
 - /places/ohio-dayton-wright-patterson-air-force-base-usa/
 - /en/places/ohio-dayton-wright-patterson-air-force-base-usa/

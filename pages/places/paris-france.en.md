@@ -1,5 +1,6 @@
 ---
 title: France, Paris
+display_title: Paris
 aliases:
 - /places/ile-de-france-paris-france/
 - /en/places/ile-de-france-paris-france/

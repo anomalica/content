@@ -1,5 +1,6 @@
 ---
 title: USA, Nevada, Las Vegas
+display_title: Las Vegas
 description: A city in Nevada, USA, that has been a base for individuals, journalists
   and organisations central to modern UAP research, including Bigelow Aerospace, KLAS-TV
   and the Advanced Aerospace Threat Identification Program.

@@ -1,5 +1,6 @@
 ---
 title: USA, New Mexico, Los Alamos
+display_title: Los Alamos
 description: Los Alamos is a town in New Mexico, USA, that grew out of the Manhattan
   Project and remains home to Los Alamos National Laboratory, and which recurs in
   decades of accounts of unexplained aerial sightings and testimony about classified

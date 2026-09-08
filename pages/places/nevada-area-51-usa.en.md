@@ -1,5 +1,6 @@
 ---
 title: USA, Nevada, Area 51
+display_title: Area 51
 description: A secretive United States Air Force base in the Nevada desert, long associated
   with claims of reverse-engineered alien technology, classified aircraft testing
   and UAP sightings.
