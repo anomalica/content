@@ -11,6 +11,10 @@ page:
   slug: neil-armstrong
   claim_count: 35
   claim_count_total: 35
+  listing:
+    work_count: 4
+    subject_claim_count: 12
+    claim_count: 41
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

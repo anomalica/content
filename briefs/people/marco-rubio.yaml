@@ -11,6 +11,10 @@ page:
   slug: marco-rubio
   claim_count: 29
   claim_count_total: 29
+  listing:
+    work_count: 10
+    subject_claim_count: 22
+    claim_count: 36
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

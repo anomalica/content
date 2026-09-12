@@ -11,6 +11,10 @@ page:
   slug: matthew-brown
   claim_count: 9
   claim_count_total: 9
+  listing:
+    work_count: 4
+    subject_claim_count: 28
+    claim_count: 37
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

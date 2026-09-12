@@ -11,6 +11,10 @@ page:
   slug: christopher-sharp
   claim_count: 15
   claim_count_total: 15
+  listing:
+    work_count: 12
+    subject_claim_count: 11
+    claim_count: 81
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

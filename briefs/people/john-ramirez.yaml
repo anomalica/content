@@ -11,6 +11,10 @@ page:
   slug: john-ramirez
   claim_count: 8
   claim_count_total: 8
+  listing:
+    work_count: 7
+    subject_claim_count: 7
+    claim_count: 12
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

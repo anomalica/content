@@ -11,6 +11,10 @@ page:
   slug: l-ron-hubbard
   claim_count: 40
   claim_count_total: 40
+  listing:
+    work_count: 4
+    subject_claim_count: 16
+    claim_count: 40
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

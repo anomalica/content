@@ -11,6 +11,10 @@ page:
   slug: edgar-cayce
   claim_count: 9
   claim_count_total: 9
+  listing:
+    work_count: 5
+    subject_claim_count: 3
+    claim_count: 9
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

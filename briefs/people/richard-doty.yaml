@@ -11,6 +11,10 @@ page:
   slug: richard-doty
   claim_count: 5
   claim_count_total: 5
+  listing:
+    work_count: 6
+    subject_claim_count: 115
+    claim_count: 170
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

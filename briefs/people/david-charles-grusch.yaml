@@ -11,6 +11,10 @@ page:
   slug: david-charles-grusch
   claim_count: 447
   claim_count_total: 447
+  listing:
+    work_count: 24
+    subject_claim_count: 320
+    claim_count: 487
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

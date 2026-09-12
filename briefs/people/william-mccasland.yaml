@@ -11,6 +11,10 @@ page:
   slug: william-mccasland
   claim_count: 19
   claim_count_total: 19
+  listing:
+    work_count: 8
+    subject_claim_count: 28
+    claim_count: 52
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

@@ -11,6 +11,10 @@ page:
   slug: isaac-newton
   claim_count: 5
   claim_count_total: 5
+  listing:
+    work_count: 5
+    subject_claim_count: 3
+    claim_count: 10
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

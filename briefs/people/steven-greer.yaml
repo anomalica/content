@@ -11,6 +11,10 @@ page:
   slug: steven-greer
   claim_count: 68
   claim_count_total: 68
+  listing:
+    work_count: 8
+    subject_claim_count: 30
+    claim_count: 74
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

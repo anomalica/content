@@ -11,6 +11,10 @@ page:
   slug: luis-elizondo
   claim_count: 1403
   claim_count_total: 1403
+  listing:
+    work_count: 36
+    subject_claim_count: 413
+    claim_count: 1532
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

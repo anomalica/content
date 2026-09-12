@@ -11,6 +11,10 @@ page:
   slug: donald-trump
   claim_count: 123
   claim_count_total: 123
+  listing:
+    work_count: 34
+    subject_claim_count: 54
+    claim_count: 252
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

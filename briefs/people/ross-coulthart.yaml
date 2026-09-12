@@ -11,6 +11,10 @@ page:
   slug: ross-coulthart
   claim_count: 1253
   claim_count_total: 1253
+  listing:
+    work_count: 23
+    subject_claim_count: 557
+    claim_count: 1570
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

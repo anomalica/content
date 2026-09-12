@@ -11,6 +11,10 @@ page:
   slug: art-bell
   claim_count: 25
   claim_count_total: 25
+  listing:
+    work_count: 5
+    subject_claim_count: 13
+    claim_count: 31
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

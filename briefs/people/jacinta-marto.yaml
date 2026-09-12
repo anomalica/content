@@ -11,6 +11,10 @@ page:
   slug: jacinta-marto
   claim_count: 137
   claim_count_total: 137
+  listing:
+    work_count: 3
+    subject_claim_count: 38
+    claim_count: 137
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

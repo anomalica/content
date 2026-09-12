@@ -11,6 +11,10 @@ page:
   slug: whitley-strieber
   claim_count: 2461
   claim_count_total: 2461
+  listing:
+    work_count: 18
+    subject_claim_count: 1392
+    claim_count: 2477
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

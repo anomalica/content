@@ -11,6 +11,10 @@ page:
   slug: nick-pope
   claim_count: 15
   claim_count_total: 15
+  listing:
+    work_count: 4
+    subject_claim_count: 14
+    claim_count: 18
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

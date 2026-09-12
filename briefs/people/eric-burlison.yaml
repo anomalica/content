@@ -11,6 +11,10 @@ page:
   slug: eric-burlison
   claim_count: 34
   claim_count_total: 34
+  listing:
+    work_count: 14
+    subject_claim_count: 22
+    claim_count: 48
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

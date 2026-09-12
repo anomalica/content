@@ -11,6 +11,10 @@ page:
   slug: chris-ramsay
   claim_count: 704
   claim_count_total: 704
+  listing:
+    work_count: 20
+    subject_claim_count: 576
+    claim_count: 1187
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

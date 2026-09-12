@@ -11,6 +11,10 @@ page:
   slug: buzz-aldrin
   claim_count: 87
   claim_count_total: 87
+  listing:
+    work_count: 6
+    subject_claim_count: 66
+    claim_count: 119
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

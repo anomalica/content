@@ -11,6 +11,10 @@ page:
   slug: steven-spielberg
   claim_count: 14
   claim_count_total: 14
+  listing:
+    work_count: 8
+    subject_claim_count: 4
+    claim_count: 24
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

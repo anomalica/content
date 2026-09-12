@@ -11,6 +11,10 @@ page:
   slug: jeremy-corbell
   claim_count: 16
   claim_count_total: 16
+  listing:
+    work_count: 12
+    subject_claim_count: 186
+    claim_count: 395
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

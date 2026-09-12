@@ -11,6 +11,10 @@ page:
   slug: donald-menzel
   claim_count: 27
   claim_count_total: 27
+  listing:
+    work_count: 7
+    subject_claim_count: 13
+    claim_count: 31
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

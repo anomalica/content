@@ -11,6 +11,10 @@ page:
   slug: grant-cameron
   claim_count: 12
   claim_count_total: 12
+  listing:
+    work_count: 6
+    subject_claim_count: 160
+    claim_count: 598
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

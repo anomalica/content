@@ -11,6 +11,10 @@ page:
   slug: albert-einstein
   claim_count: 67
   claim_count_total: 67
+  listing:
+    work_count: 16
+    subject_claim_count: 19
+    claim_count: 80
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

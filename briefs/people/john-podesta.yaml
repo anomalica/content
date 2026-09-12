@@ -11,6 +11,10 @@ page:
   slug: john-podesta
   claim_count: 53
   claim_count_total: 53
+  listing:
+    work_count: 7
+    subject_claim_count: 27
+    claim_count: 63
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

@@ -11,6 +11,10 @@ page:
   slug: chuck-schumer
   claim_count: 8
   claim_count_total: 8
+  listing:
+    work_count: 4
+    subject_claim_count: 11
+    claim_count: 14
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

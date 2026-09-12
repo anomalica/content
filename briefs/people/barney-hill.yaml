@@ -11,6 +11,10 @@ page:
   slug: barney-hill
   claim_count: 95
   claim_count_total: 95
+  listing:
+    work_count: 8
+    subject_claim_count: 20
+    claim_count: 97
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

@@ -11,6 +11,10 @@ page:
   slug: budd-hopkins
   claim_count: 217
   claim_count_total: 217
+  listing:
+    work_count: 11
+    subject_claim_count: 77
+    claim_count: 217
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

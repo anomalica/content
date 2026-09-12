@@ -11,6 +11,10 @@ page:
   slug: anne-strieber
   claim_count: 238
   claim_count_total: 238
+  listing:
+    work_count: 5
+    subject_claim_count: 101
+    claim_count: 238
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

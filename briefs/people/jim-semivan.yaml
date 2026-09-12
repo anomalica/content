@@ -11,6 +11,10 @@ page:
   slug: jim-semivan
   claim_count: 59
   claim_count_total: 59
+  listing:
+    work_count: 7
+    subject_claim_count: 44
+    claim_count: 68
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

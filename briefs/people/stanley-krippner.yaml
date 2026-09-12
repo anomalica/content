@@ -11,6 +11,10 @@ page:
   slug: stanley-krippner
   claim_count: 6
   claim_count_total: 6
+  listing:
+    work_count: 3
+    subject_claim_count: 4
+    claim_count: 10
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

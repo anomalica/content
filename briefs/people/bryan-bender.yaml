@@ -11,6 +11,10 @@ page:
   slug: bryan-bender
   claim_count: 16
   claim_count_total: 16
+  listing:
+    work_count: 4
+    subject_claim_count: 11
+    claim_count: 16
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

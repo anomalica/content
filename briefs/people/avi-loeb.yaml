@@ -11,6 +11,10 @@ page:
   slug: avi-loeb
   claim_count: 49
   claim_count_total: 49
+  listing:
+    work_count: 5
+    subject_claim_count: 37
+    claim_count: 61
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

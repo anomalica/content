@@ -11,6 +11,10 @@ page:
   slug: ronald-reagan
   claim_count: 16
   claim_count_total: 16
+  listing:
+    work_count: 7
+    subject_claim_count: 4
+    claim_count: 19
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

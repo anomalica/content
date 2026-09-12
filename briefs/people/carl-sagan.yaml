@@ -11,6 +11,10 @@ page:
   slug: carl-sagan
   claim_count: 81
   claim_count_total: 81
+  listing:
+    work_count: 9
+    subject_claim_count: 49
+    claim_count: 120
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

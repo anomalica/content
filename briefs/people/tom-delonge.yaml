@@ -11,6 +11,10 @@ page:
   slug: tom-delonge
   claim_count: 256
   claim_count_total: 256
+  listing:
+    work_count: 18
+    subject_claim_count: 163
+    claim_count: 275
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

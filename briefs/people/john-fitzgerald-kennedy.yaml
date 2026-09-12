@@ -11,6 +11,10 @@ page:
   slug: john-fitzgerald-kennedy
   claim_count: 98
   claim_count_total: 98
+  listing:
+    work_count: 10
+    subject_claim_count: 42
+    claim_count: 106
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

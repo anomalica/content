@@ -11,6 +11,10 @@ page:
   slug: bob-lazar
   claim_count: 111
   claim_count_total: 111
+  listing:
+    work_count: 20
+    subject_claim_count: 71
+    claim_count: 182
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

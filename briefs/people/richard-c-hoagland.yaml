@@ -11,6 +11,10 @@ page:
   slug: richard-c-hoagland
   claim_count: 1432
   claim_count_total: 1432
+  listing:
+    work_count: 4
+    subject_claim_count: 760
+    claim_count: 1446
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

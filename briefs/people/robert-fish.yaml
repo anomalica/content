@@ -11,6 +11,10 @@ page:
   slug: robert-fish
   claim_count: 31
   claim_count_total: 31
+  listing:
+    work_count: 3
+    subject_claim_count: 25
+    claim_count: 32
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

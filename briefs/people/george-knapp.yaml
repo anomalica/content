@@ -11,6 +11,10 @@ page:
   slug: george-knapp
   claim_count: 158
   claim_count_total: 158
+  listing:
+    work_count: 18
+    subject_claim_count: 52
+    claim_count: 230
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

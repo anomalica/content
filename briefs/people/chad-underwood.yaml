@@ -11,6 +11,10 @@ page:
   slug: chad-underwood
   claim_count: 52
   claim_count_total: 52
+  listing:
+    work_count: 4
+    subject_claim_count: 29
+    claim_count: 52
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

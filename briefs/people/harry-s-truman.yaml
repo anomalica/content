@@ -11,6 +11,10 @@ page:
   slug: harry-s-truman
   claim_count: 36
   claim_count_total: 36
+  listing:
+    work_count: 10
+    subject_claim_count: 6
+    claim_count: 36
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:

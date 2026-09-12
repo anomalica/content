@@ -11,6 +11,10 @@ page:
   slug: mark-c-carlotto
   claim_count: 234
   claim_count_total: 234
+  listing:
+    work_count: 5
+    subject_claim_count: 68
+    claim_count: 245
 generated:
   graph_version: '2026-09-02T21:18:50.669459+00:00'
 size:
