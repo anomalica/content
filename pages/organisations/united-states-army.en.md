@@ -276,7 +276,6 @@ references:
   claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
   copyright_status: publicly_accessible
 - text: The CIA's ESP work ended in the late 1970s; the programme moved to the Army's
     Fort Meade base
@@ -351,7 +350,6 @@ references:
   claim_id: 89143734-1d5f-4192-9d95-2e00e30542cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89143734-1d5f-4192-9d95-2e00e30542cc
-  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-89143734-1d5f-4192-9d95-2e00e30542cc
   copyright_status: restricted
 - text: McMoneagle helped the Army locate hostages in Iran
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -381,7 +379,6 @@ references:
   claim_id: 4db39899-5a7f-447b-98bc-13778b341d64
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
   copyright_status: publicly_accessible
 - text: Puthoff told Swann the Army was funding the remote-viewing training
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary

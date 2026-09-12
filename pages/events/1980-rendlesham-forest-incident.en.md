@@ -131,7 +131,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-95a6a639-6e27-484b-9278-08a422076163
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-95a6a639-6e27-484b-9278-08a422076163
 - text: Burroughs and Penniston found a landed UAP near a nuclear-armed UK-US facility
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:4677-4925
@@ -144,7 +143,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d81cc4be-6bc9-487c-834e-f8cb317e3de9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d81cc4be-6bc9-487c-834e-f8cb317e3de9
 - text: The UAP hovered over the underground nuclear weapons bunker
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:32146-32411
@@ -157,7 +155,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3da0d335-124f-469d-bf79-216973759877
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3da0d335-124f-469d-bf79-216973759877
 - text: 'Fowler: a document describes a triangular object landing at RAF Woodbridge''s
     back gate'
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -182,7 +179,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d048e30a-67a1-4f6a-88d3-4a5c7611b25f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d048e30a-67a1-4f6a-88d3-4a5c7611b25f
 - text: Penniston described a three-metre-wide craft with inscribed symbols
   source: In Plain Sight
   location: ch12:7720-7918
@@ -194,7 +190,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fab06b-afa8-48e1-99b1-081d406beffe
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61fab06b-afa8-48e1-99b1-081d406beffe
 - text: Witnesses said the craft's symbols resembled those at other UAP encounters
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch13:571-663
@@ -205,7 +200,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-3f1a0d3c-7e2f-4658-81e8-298b829d24fc
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-3f1a0d3c-7e2f-4658-81e8-298b829d24fc
 - text: Burroughs saw flashing lights that distorted a craft's image but no metal
   source: In Plain Sight
   location: ch12:7534-7713
@@ -217,7 +211,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7618c631-209b-4bff-89bf-03d63723aa6e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7618c631-209b-4bff-89bf-03d63723aa6e
 - text: Penniston said he touched the craft and sketched its inscriptions
   source: In Plain Sight
   location: ch12:7924-8058
@@ -228,7 +221,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-6c345463-54d2-4a10-a007-dd9fcc2d9716
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-6c345463-54d2-4a10-a007-dd9fcc2d9716
 - text: A sketch of the object was drawn by Penniston
   source: In Plain Sight
   location: ch37:5528-5612
@@ -239,7 +231,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2681d130-76e7-40d1-b272-a847f6c9a796
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2681d130-76e7-40d1-b272-a847f6c9a796
 - text: 'Fowler: investigators found three landing-gear depressions in the ground'
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -273,7 +264,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-61fed439-9d19-4b0e-a712-f92ec9705db1
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-61fed439-9d19-4b0e-a712-f92ec9705db1
 - text: 'Fowler: armed security police advanced on the object before it flew into
     the woods'
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -308,7 +298,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a4da6a6-833d-4b4c-93fa-2b6ed1ea36c9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1a4da6a6-833d-4b4c-93fa-2b6ed1ea36c9
 - text: Penniston said he and colleagues suffered 'missing time' with blocked memories
   source: In Plain Sight
   location: ch12:8069-8246
@@ -320,7 +309,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-79c08b1f-9948-4a79-80f0-1066ec0b66f5
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-79c08b1f-9948-4a79-80f0-1066ec0b66f5
 - text: 'Elizondo: Puthoff calls the lost-time phenomenon the Rip Van Winkle Effect'
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:5102-5144
@@ -330,7 +318,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-30b8f90f-131f-4d9c-97df-8a287beb39eb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-30b8f90f-131f-4d9c-97df-8a287beb39eb
 - text: Burroughs' worsening health, culminating in mitral valve surgery
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch18:5153-5367
@@ -342,7 +329,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-82288b0a-8414-4d85-9dc8-7e199716b606
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-82288b0a-8414-4d85-9dc8-7e199716b606
 - text: 'Fravor: witnesses received radiation burns'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
     Fridman Podcast #122'
@@ -364,7 +350,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfec8596-31f4-48bf-944e-a68a7fac0af6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfec8596-31f4-48bf-944e-a68a7fac0af6
 - text: 'Fravor: McCain''s office helped reinstate a witness''s denied disability
     status'
   source: 'David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering | Lex
@@ -387,7 +372,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c57a3cab-38ea-455f-aa73-7ac415325c86
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c57a3cab-38ea-455f-aa73-7ac415325c86
 - text: Halt led a follow-up patrol two nights later and wrote a memorandum
   source: In Plain Sight
   location: ch12:8464-8747
@@ -400,7 +384,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c869e03b-01c8-4d9e-b714-7627028fabde
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c869e03b-01c8-4d9e-b714-7627028fabde
 - text: Halt's patrol witnessed an 'intelligently-controlled' object
   source: In Plain Sight
   location: ch37:5795-5987
@@ -412,7 +395,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-489957f8-1f1e-4661-8ba5-ae6a6b70ff8e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-489957f8-1f1e-4661-8ba5-ae6a6b70ff8e
 - text: Halt's audiotape described the object as 'like an eye winking at you'
   source: In Plain Sight
   location: ch12:9293-9461
@@ -423,7 +405,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0cd61948-4a57-446f-97ad-1581d482eefa
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0cd61948-4a57-446f-97ad-1581d482eefa
 - text: The object shed sparks like molten metal amid static electricity
   source: In Plain Sight
   location: ch12:9467-9656
@@ -435,7 +416,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a8584710-8026-459e-8000-8c55bfa4e7a0
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a8584710-8026-459e-8000-8c55bfa4e7a0
 - text: The object shone light into the nuclear weapons storage area
   source: In Plain Sight
   location: ch12:9661-9757
@@ -446,7 +426,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-8d9ac7b8-2c0f-4f9a-be71-924afbbf03dc
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-8d9ac7b8-2c0f-4f9a-be71-924afbbf03dc
 - text: 'Halt: the lighthouse was distinct, at least 30 degrees away'
   source: In Plain Sight
   location: ch12:10438-10546
@@ -457,7 +436,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-e89fc043-d879-4729-a6c9-4a7485993486
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-e89fc043-d879-4729-a6c9-4a7485993486
 - text: Halt believed the object was probably extra-terrestrial
   source: In Plain Sight
   location: ch12:8942-9079
@@ -468,7 +446,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-afee89be-47b5-4527-acf6-3bd414fff051
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-afee89be-47b5-4527-acf6-3bd414fff051
 - text: 'Halt: the objects were intelligently controlled and probably non-human'
   source: In Plain Sight
   location: ch12:9946-10140
@@ -480,7 +457,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0ddd5e7d-2ff6-4231-9224-074a03610205
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0ddd5e7d-2ff6-4231-9224-074a03610205
 - text: 'Halt: something was controlling what he saw, ''a bit scary'''
   source: In Plain Sight
   location: ch12:10152-10270
@@ -491,7 +467,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-992f9cb0-522d-4823-a18c-6fd05d13b283
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-992f9cb0-522d-4823-a18c-6fd05d13b283
 - text: 'Ridpath: witnesses only saw the nearby lighthouse'
   source: In Plain Sight
   location: ch12:9764-9935
@@ -503,7 +478,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-bc2690a9-8a34-47b5-b1db-f577a57b7c63
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-bc2690a9-8a34-47b5-b1db-f577a57b7c63
 - text: AFOSI attacked the credibility of Halt's sighting
   source: In Plain Sight
   location: ch12:10279-10375
@@ -514,7 +488,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ae4e2f6d-3ed1-4b21-9367-4b933068e9f7
 - text: Halt believes there was a cover-up
   source: In Plain Sight
   location: ch12:10386-10432
@@ -524,7 +497,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-633a87cb-0e91-4a8e-96fd-1f90d870f184
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-633a87cb-0e91-4a8e-96fd-1f90d870f184
 - text: Radar operators testified an unknown object was tracked that night
   source: In Plain Sight
   location: ch12:10693-10787
@@ -535,7 +507,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ce5be259-4f3c-4c9a-914f-77536e5ce1e2
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ce5be259-4f3c-4c9a-914f-77536e5ce1e2
 - text: Thatcher reportedly said 'You can't tell the people'
   source: In Plain Sight
   location: ch12:10825-11134
@@ -548,7 +519,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0c0cbf5e-cbc8-4f26-bf5d-b8ede1b34cc4
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0c0cbf5e-cbc8-4f26-bf5d-b8ede1b34cc4
 - text: Caplan calls it an interesting UK UAP case
   source: Watergate, the JFK assassination and a UFO secret at the center of it all
     | Reality Check
@@ -569,7 +539,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9331fe6f-d569-4cb0-8040-07a35396bb91
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9331fe6f-d569-4cb0-8040-07a35396bb91
 - text: Base communications switched to flash override protocol
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:32625-32854
@@ -581,7 +550,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-dbae433c-6d0f-4544-87c9-36db3b1ffd14
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-dbae433c-6d0f-4544-87c9-36db3b1ffd14
 - text: A private plane landed and defence-contractor men were driven onto base
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:32997-33261
@@ -594,7 +562,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-e6f32947-0f17-496d-b901-7ff43fc908d2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-e6f32947-0f17-496d-b901-7ff43fc908d2
 - text: The same men loaded crates onto the plane before leaving
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33267-33349
@@ -605,7 +572,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-c142ed8c-a501-4384-9f93-0f9bb062f3ba
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-c142ed8c-a501-4384-9f93-0f9bb062f3ba
 - text: Eyewitnesses were called to the base's AFOSI office the next day
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33353-33488
@@ -616,7 +582,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-21d4bb7f-0e42-4ac3-b3c1-8c990b6dacb2
 - text: Servicemen say they were told to stay silent and were drugged and hypnotised
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33565-33705
@@ -627,7 +592,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d6041fb8-9332-4385-b486-3c3183d58cf3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d6041fb8-9332-4385-b486-3c3183d58cf3
 - text: Servicemen said a CIA officer was in the room with AFOSI
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33715-33812
@@ -638,7 +602,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ee418f3c-c6ec-4bc1-a3ed-2c52d5997b21
 - text: A serviceman later recognised a CIA UAP official from a photo
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:33817-33991
@@ -650,7 +613,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b195e000-c947-4270-909f-e2a69520cf34
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b195e000-c947-4270-909f-e2a69520cf34
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

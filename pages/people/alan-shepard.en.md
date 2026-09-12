@@ -171,7 +171,6 @@ references:
   claim_id: d8cbe084-f2a0-4939-9404-a2aa8d27afc1
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-d8cbe084-f2a0-4939-9404-a2aa8d27afc1
-  inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-d8cbe084-f2a0-4939-9404-a2aa8d27afc1
   copyright_status: public_domain
 - text: Some flashes spanned 50 to 60 degrees of peripheral vision.
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971

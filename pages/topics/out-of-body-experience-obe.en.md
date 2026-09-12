@@ -589,7 +589,6 @@ references:
   claim_id: 16610bea-d273-40a2-a9f3-c2147bcde4e6
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
-  inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-16610bea-d273-40a2-a9f3-c2147bcde4e6
   copyright_status: restricted
 - text: Monroe correctly described the technician out of the room and her husband
     in the corridor
@@ -600,7 +599,6 @@ references:
   claim_id: 678bc207-ee83-4160-a6f8-c7de75d30656
   record_hash: b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029
   workbench_url: https://workbench.anomalica.is/b3c3fc6596957cae666e7bdd530386bec10020f8261bf6be43ca1029#claim-678bc207-ee83-4160-a6f8-c7de75d30656
-  inspection_url: /records/2014-11-11-ebook-journeys-out-of-the-body#claim-678bc207-ee83-4160-a6f8-c7de75d30656
   copyright_status: restricted
 - text: Two brief OOBEs under improved conditions, California 1968
   source: Journeys Out of the Body
@@ -763,7 +761,6 @@ references:
   claim_id: 5c9160c2-8e52-4f9d-a832-06fbd0e76573
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-5c9160c2-8e52-4f9d-a832-06fbd0e76573
-  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-5c9160c2-8e52-4f9d-a832-06fbd0e76573
   copyright_status: publicly_accessible
 - text: Nichols developed the G Technique
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -794,7 +791,6 @@ references:
   claim_id: 2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
-  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-2aa52451-6dba-48d4-90b2-1a24ec9cc2bd
   copyright_status: publicly_accessible
 - text: Framed as an unusually strong remote-viewing session resulting in an OBE
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -804,7 +800,6 @@ references:
   claim_id: 92a54f95-936a-470b-8a83-bffbb99d637f
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-92a54f95-936a-470b-8a83-bffbb99d637f
-  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-92a54f95-936a-470b-8a83-bffbb99d637f
   copyright_status: publicly_accessible
 - text: Nichols felt physical pressure strike his chest after witnessing the explosion
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -922,7 +917,6 @@ references:
   claim_id: a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
-  inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-a8fdcd02-1c1e-4c8b-a2c6-7cc185b6f7f1
   copyright_status: publicly_accessible
 - text: Ramsay raises bilocation as an alternative explanation
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

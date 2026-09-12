@@ -324,7 +324,6 @@ references:
   claim_id: 2f56d684-e8b8-4063-874e-1473fce23c99
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2f56d684-e8b8-4063-874e-1473fce23c99
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-2f56d684-e8b8-4063-874e-1473fce23c99
   copyright_status: publicly_accessible
 - text: Witnesses were sometimes threatened with prison time
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -366,7 +365,6 @@ references:
   claim_id: 83c1bcc4-2c33-4587-acd7-e3097a9edef2
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-83c1bcc4-2c33-4587-acd7-e3097a9edef2
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-83c1bcc4-2c33-4587-acd7-e3097a9edef2
   copyright_status: publicly_accessible
 - text: Documents due for release contain radar tracks
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -378,7 +376,6 @@ references:
   claim_id: 0aa874f1-e8d3-4187-b50d-dbf95db27a4c
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0aa874f1-e8d3-4187-b50d-dbf95db27a4c
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-0aa874f1-e8d3-4187-b50d-dbf95db27a4c
   copyright_status: publicly_accessible
 - text: McGraw likened the suppression to a psyop used in past war efforts to fabricate
     atrocities
@@ -425,7 +422,6 @@ references:
   claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
   copyright_status: publicly_accessible
 - text: The Air Force denied for decades that Twining's assessment existed
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -435,7 +431,6 @@ references:
   claim_id: de814c2e-12f9-458d-b92f-819d4aac1bc6
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-de814c2e-12f9-458d-b92f-819d4aac1bc6
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-de814c2e-12f9-458d-b92f-819d4aac1bc6
   copyright_status: publicly_accessible
 - text: In 1949 a classified conference addressed sightings over nuclear weapon sites
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -447,7 +442,6 @@ references:
   claim_id: ec36506f-4715-4398-ac9b-00f3dba02351
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-ec36506f-4715-4398-ac9b-00f3dba02351
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-ec36506f-4715-4398-ac9b-00f3dba02351
   copyright_status: publicly_accessible
 - text: Sightings over the Pantex Plant nuclear site in recent years
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -480,7 +474,6 @@ references:
   claim_id: cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-cb7d4b21-18e8-439d-99c7-b2bd71c62ab9
   copyright_status: publicly_accessible
 - text: JNAP 146E extended restrictions to retired pilots
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -491,7 +484,6 @@ references:
   claim_id: bc03950c-07aa-4311-b11f-ca3b9dc83a58
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-bc03950c-07aa-4311-b11f-ca3b9dc83a58
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-bc03950c-07aa-4311-b11f-ca3b9dc83a58
   copyright_status: publicly_accessible
 - text: JNAP 146E imposed the Espionage Act on the pilots it covered
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -502,7 +494,6 @@ references:
   claim_id: fcd86ba8-d286-476a-a47f-5a0d29a06981
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-fcd86ba8-d286-476a-a47f-5a0d29a06981
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-fcd86ba8-d286-476a-a47f-5a0d29a06981
   copyright_status: publicly_accessible
 - text: Trump signed an executive order to declassify and disclose UFO information
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -531,7 +522,6 @@ references:
   claim_id: 1760ef96-cd9a-4400-869a-58f84aac5d92
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-1760ef96-cd9a-4400-869a-58f84aac5d92
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-1760ef96-cd9a-4400-869a-58f84aac5d92
   copyright_status: publicly_accessible
 - text: McGraw reviewed the fourth tranche before it became public
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -542,7 +532,6 @@ references:
   claim_id: 2c758af2-c69a-4106-ab64-7d1d41080884
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-2c758af2-c69a-4106-ab64-7d1d41080884
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-2c758af2-c69a-4106-ab64-7d1d41080884
   copyright_status: publicly_accessible
 - text: McGraw concluded there has been a massive cover-up
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -552,7 +541,6 @@ references:
   claim_id: abc8af2a-8e77-42a4-b960-0a36f39f27ce
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-abc8af2a-8e77-42a4-b960-0a36f39f27ce
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-abc8af2a-8e77-42a4-b960-0a36f39f27ce
   copyright_status: publicly_accessible
 - text: McGraw concluded there is no question unexplained phenomena occur in Earth's
     atmosphere
@@ -564,7 +552,6 @@ references:
   claim_id: 33773c86-2867-47eb-8409-2557eff0d055
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-33773c86-2867-47eb-8409-2557eff0d055
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-33773c86-2867-47eb-8409-2557eff0d055
   copyright_status: publicly_accessible
 - text: Five tranches of UAP material have been released in total
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'
@@ -699,7 +686,6 @@ references:
   claim_id: b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-b425cd99-89b3-4aec-9311-aa3bc4f5e7b5
   copyright_status: publicly_accessible
 - text: G-force estimates for some UAP range between 10,000 and one million G
   source: Dr. Phil read the UAP files before the public, here's what he found | Reality
@@ -710,7 +696,6 @@ references:
   claim_id: 0a1a1255-9d9e-40fe-b9b1-62ac3941291b
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-0a1a1255-9d9e-40fe-b9b1-62ac3941291b
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-0a1a1255-9d9e-40fe-b9b1-62ac3941291b
   copyright_status: publicly_accessible
 - text: Highest G-force tracked on a rocket sled was approximately 25 G for half a
     second
@@ -972,7 +957,6 @@ references:
   claim_id: 6131bfda-f2c1-4f85-8010-da79040ff2cf
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-6131bfda-f2c1-4f85-8010-da79040ff2cf
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-6131bfda-f2c1-4f85-8010-da79040ff2cf
   copyright_status: publicly_accessible
 - text: Searches for UAP rose approximately 400% after McGraw began discussing the
     topic

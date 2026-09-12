@@ -4193,7 +4193,6 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-fb3e4262-3744-49c6-9f89-fee921b5cb90
 - text: The FY2023 defence legislation defined UAP to include unidentified airborne,
     transmedium and submerged objects or devices.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -4233,7 +4232,6 @@ references:
   record_hash: 5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449
   copyright_status: licensed
   workbench_url: https://workbench.anomalica.is/5ad3b30b7f6c3ce7d4cd3e6d1768b6fb61c9c02162b7324703151449#claim-65bbfeb3-cc3c-42c4-8173-bdb366eb7a53
-  inspection_url: /records/2017-03-07-ebook-surviving-death#claim-65bbfeb3-cc3c-42c4-8173-bdb366eb7a53
 - text: The Air Force Chief of Staff established Project Sign in December 1947.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -4270,7 +4268,6 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-6e26e335-a4f3-48ad-9b9c-3254e62d3504
 - text: Of the Air Force project's more than 12,000 investigated sightings, 701 remained
     unexplained.
   source: 'Glowing Auras and ‘Black Money’: The Pentagon’s Mysterious U.F.O. Program'
@@ -4281,7 +4278,6 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-9b40366f-7bfc-4e5f-86fc-accc9528032f
 - text: The University of Colorado project produced the Condon Report, which concluded
     that there was no evidence for the reality of UFOs.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -4294,7 +4290,6 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-9e17534a-19bf-43f1-926d-ce2e96f05bcd
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-9e17534a-19bf-43f1-926d-ce2e96f05bcd
 - text: By 1978, Jacques Vallée had spent more than fifteen years studying official
     and unofficial UFO reports in France and the United States.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -4306,7 +4301,6 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-67ad9fbc-1dc9-474e-b04a-590d0fea0c46
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-67ad9fbc-1dc9-474e-b04a-590d0fea0c46
 - text: Vallée's studies were supported by extensive computer statistics.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch16:3900-3957
@@ -4316,7 +4310,6 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-f770f415-de5b-4400-a35a-f43acfa3ca35
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-f770f415-de5b-4400-a35a-f43acfa3ca35
 - text: James McDonald addressed the UN Outer Space Affairs Group about UFOs on 1967-06-07.
   source: UFOs in Australia – Eyewitnesses Talk to Dr. James E. McDonald During His
     Investigative Tour (1967)
@@ -4367,7 +4360,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-684f439e-a237-44b8-ba5f-e768d5495605
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-684f439e-a237-44b8-ba5f-e768d5495605
 - text: The DoD Inspector General summary described AAWSAP as a congressionally initiated
     and funded programme directed by the DIA.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -4394,7 +4386,6 @@ references:
   record_hash: f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/f6e5fb77226638f01db033f2f157e830aba705e5fbf996540cdd0cf2#claim-65efb0c2-df6c-47e7-aed2-897a4b719c45
-  inspection_url: /records/2019-06-01-web-the-media-loves-this-ufo-expert-who-says-he-worked-for-an#claim-65efb0c2-df6c-47e7-aed2-897a4b719c45
 - text: Luis Elizondo took over AATIP in 2010 and focused on national-security implications
     of service members' reports.
   source: Navy pilots describe encounters with UFOs
@@ -4417,7 +4408,6 @@ references:
   record_hash: 04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/04d6a5c2ff182e5392c0b7d5da6a6ee29cc427eb4093ce28651fcb64#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
-  inspection_url: /records/2017-12-16-web-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f#claim-256731ef-c86b-4e5c-a799-74579ec38f8f
 - text: The Department of Defense authorised the release of three unclassified Navy
     videos on 2020-04-27.
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -4430,7 +4420,6 @@ references:
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-59672a0f-11a4-42a9-8f73-ac5708f58a91
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-59672a0f-11a4-42a9-8f73-ac5708f58a91
 - text: The phenomena shown in the three released Navy videos remained characterised
     as unidentified.
   source: Statement by the Department of Defense on the Release of Historical Navy
@@ -4442,7 +4431,6 @@ references:
   record_hash: c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/c6c19e12b680ce6eadb112abc74f374fe25e56ce8f06a6fec379fda9#claim-e105e92a-5c60-4d5b-a6c7-f2b5caca1425
-  inspection_url: /records/2020-04-27-web-statement-by-the-department-of-defense-on-the-release-of#claim-e105e92a-5c60-4d5b-a6c7-f2b5caca1425
 - text: The Department of Defense established the UAP Task Force in August 2020.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -4479,7 +4467,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-f2d39363-0d5b-4fdf-9f77-9cc21ae5b066
 - text: The FY2022 NDAA assigned AARO responsibility for standardising and synchronising
     UAP collection, analysis and identification.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -4504,7 +4491,6 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-ae8629b6-3341-4665-b217-76dee93c6104
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-ae8629b6-3341-4665-b217-76dee93c6104
 - text: By June 2023, Congress had held two public hearings and many classified UAP
     briefings.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -4516,7 +4502,6 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-7d1ae33f-daa8-4c46-834e-46a26bd548b1
 - text: David Fravor, Ryan Graves and David Grusch testified under oath at a bipartisan
     congressional hearing in July 2023.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -4530,7 +4515,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bfb42c69-0416-49a7-87b0-4e3047b26a19
 - text: David Grusch served as NGA co-lead for UAP analysis and as its UAP Task Force
     representative.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -4542,7 +4526,6 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-25e2465b-f5e8-41b9-a166-8d71aeff6276
 - text: Grusch's unclassified complaint alleged that classified UAP information had
     been concealed from Congress.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -4557,7 +4540,6 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-432b84aa-d5fd-4240-9d1e-fe7054eaa6a4
 - text: Grusch supplied Congress and the Intelligence Community Inspector General
     with claims about covert craft-retrieval programmes.
   source: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
@@ -4571,7 +4553,6 @@ references:
   record_hash: 5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5
   copyright_status: publicly_accessible
   workbench_url: https://workbench.anomalica.is/5ce8e38071f914d4dbb950938474d8e00a0a59d120d4391a2e90baa5#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
-  inspection_url: /records/2023-06-05-web-intelligence-officials-say-u-s-has-retrieved-craft-of-non#claim-820875ac-d3d4-4970-9972-12fdd2ad8726
 - text: AARO confirmed that one controlled-access programme was expanded in 2021 to
     include a UAP reverse-engineering mission.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -4713,7 +4694,6 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-63a416b2-3a51-4242-be1e-cf61f391fb01
 - text: The object was described as a dark grey or black cube inside a clear sphere.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
     Safety, and Government Transparency'
@@ -4724,7 +4704,6 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-3888eb6a-6598-4a2e-82b2-929760af715d
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-3888eb6a-6598-4a2e-82b2-929760af715d
 - text: The cube-in-sphere object came within approximately 15 metres of the lead
     aircraft.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -4736,7 +4715,6 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-9bc03c9c-ae88-4393-9c0f-c6352fd7b030
 - text: Graves' squadron discussed UAP risk during regular preflight briefings because
     encounters had become frequent.
   source: 'Unidentified Anomalous Phenomena: Implications on National Security, Public
@@ -4749,7 +4727,6 @@ references:
   record_hash: e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6
   copyright_status: public_domain
   workbench_url: https://workbench.anomalica.is/e27169e8198c2a69e4a11612efef16891f33b86209a5d1721246fed6#claim-bbcf0963-bde8-4b29-a7ee-1707ffefa060
-  inspection_url: /records/2023-07-26-pdf-unidentified-anomalous-phenomena-implications-on-national-security-public-safety#claim-bbcf0963-bde8-4b29-a7ee-1707ffefa060
 - text: An aircrew observed one UAP in the Arabian Gulf on 2020-08-08 without mission
     impact.
   source: Misrep 4592219
@@ -4876,7 +4853,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-267e54f7-ce5e-4c73-b25d-d1450d6e2e61
 - text: Vallée described the phenomenon as having physical, psycho-physiological and
     social aspects.
   source: 'Messengers of Deception: UFO Contacts and Cults'
@@ -4888,7 +4864,6 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-6d508a55-9b7c-4a6d-8c07-8d5e242e1ca2
 - text: Pasulka argued that social media, bots and algorithms amplify interpretations
     of the UFO phenomenon.
   source: American Cosmic

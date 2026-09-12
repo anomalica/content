@@ -848,7 +848,6 @@ references:
   claim_id: 3c53b2e0-32af-4457-92f0-997e0c2c8d78
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
-  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-3c53b2e0-32af-4457-92f0-997e0c2c8d78
   copyright_status: publicly_accessible
 - text: Aldrin did not comment on Clarke's Mars claim, instead raising zero-point
     energy.
@@ -859,7 +858,6 @@ references:
   claim_id: 4e01a7f4-89dc-474a-81ce-41f57bb01834
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
-  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-4e01a7f4-89dc-474a-81ce-41f57bb01834
   copyright_status: publicly_accessible
 - text: Aldrin said reaching Alpha Centauri may take 200 to 400 years and will need
     zero-point energy.
@@ -870,7 +868,6 @@ references:
   claim_id: 1a31cf29-db3b-4d45-805e-80e5301fb1e2
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
-  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1a31cf29-db3b-4d45-805e-80e5301fb1e2
   copyright_status: publicly_accessible
 - text: Aldrin asked Clarke to confirm agreement on the need for zero-point energy
     to reach Alpha Centauri.
@@ -880,7 +877,6 @@ references:
   claim_id: 1ea62656-0eb1-411b-94fb-617dc313159b
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-1ea62656-0eb1-411b-94fb-617dc313159b
-  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-1ea62656-0eb1-411b-94fb-617dc313159b
   copyright_status: publicly_accessible
 - text: Clarke said he was glad Aldrin raised the question of zero-point energy.
   source: Clarke's Believe It or Not
@@ -890,7 +886,6 @@ references:
   claim_id: 8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   record_hash: e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3
   workbench_url: https://workbench.anomalica.is/e57edc988dffb5ac09ab6e6ee94b8fbe28c5fe01801907e1addcf9b3#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
-  inspection_url: /records/2001-02-27-web-clarke-s-believe-it-or-not#claim-8c8d3fcc-be70-44b6-bb70-6d8e596917dc
   copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5

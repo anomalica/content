@@ -905,7 +905,6 @@ references:
   claim_id: 749f9efb-6fac-4b46-b626-0e05da9e82a6
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
-  inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-749f9efb-6fac-4b46-b626-0e05da9e82a6
   copyright_status: public_domain
 - text: Described a 'nova' phenomenon as an expanding, diffusing blob
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -915,7 +914,6 @@ references:
   claim_id: 4255c275-b9b5-4893-9dc6-c11260a8be95
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
-  inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-4255c275-b9b5-4893-9dc6-c11260a8be95
   copyright_status: public_domain
 - text: Reported 12 light flashes in right eye, 6 in left
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -924,7 +922,6 @@ references:
   claim_id: 5f81748e-787b-4077-9b40-66143757e3cc
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-5f81748e-787b-4077-9b40-66143757e3cc
-  inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-5f81748e-787b-4077-9b40-66143757e3cc
   copyright_status: public_domain
 - text: Saw one flash, silver blue-white, like a blue diamond
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971
@@ -935,7 +932,6 @@ references:
   claim_id: fc934658-370a-447c-8487-dece2cd38949
   record_hash: 0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995
   workbench_url: https://workbench.anomalica.is/0f913eefce56c6e2b515b973bf3ecf5dd69db0968c6beb716459a995#claim-fc934658-370a-447c-8487-dece2cd38949
-  inspection_url: /records/2026-07-11-audio-nasa-uap-d027-apollo-14-debriefing-continued-1971#claim-fc934658-370a-447c-8487-dece2cd38949
   copyright_status: public_domain
 - text: Hardly any night without light flashes, except possibly on the lunar surface
   source: NASA-UAP-D027, Apollo 14 Debriefing (Continued), 1971

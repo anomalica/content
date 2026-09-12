@@ -283,7 +283,6 @@ references:
   claim_id: 8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-8453725e-00ca-4b7b-a9ab-9ebc1b4a9893
   copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5

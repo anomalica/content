@@ -118,7 +118,6 @@ references:
   claim_id: e883e5c7-6cf9-4be4-9d96-4b5897a88054
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-e883e5c7-6cf9-4be4-9d96-4b5897a88054
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-e883e5c7-6cf9-4be4-9d96-4b5897a88054
   copyright_status: publicly_accessible
 - text: Legal interrogatives are likely leading to a domino effect of further discoveries
   source: 'Episode 73: Science vs. Secrecy'
@@ -331,7 +330,6 @@ references:
   claim_id: 39052f6b-54da-4662-b726-c6b92929b9b7
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-39052f6b-54da-4662-b726-c6b92929b9b7
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-39052f6b-54da-4662-b726-c6b92929b9b7
   copyright_status: publicly_accessible
 - text: Data would be held within the NGA
   source: 'Episode 73: Science vs. Secrecy'

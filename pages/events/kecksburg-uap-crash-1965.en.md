@@ -42,7 +42,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-b7b08eb1-2707-4431-ba3f-f586e72e4751
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-b7b08eb1-2707-4431-ba3f-f586e72e4751
 - text: Witnesses described the object as acorn-shaped and approximately 2.74 to 3.66
     metres in diameter.
   source: In Plain Sight
@@ -54,7 +53,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-d7f48495-0f48-44f9-9bc8-33454d210147
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-d7f48495-0f48-44f9-9bc8-33454d210147
 - text: Witnesses Jim Romansky and Bill Bulebush said the object had a gold band with
     writing resembling Egyptian hieroglyphics.
   source: In Plain Sight
@@ -66,7 +64,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-df260e89-8106-4285-ab89-d691d3a12875
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-df260e89-8106-4285-ab89-d691d3a12875
 - text: Multiple witnesses describe the retrieval as a major military operation conducted
     under extremely tight secrecy.
   source: In Plain Sight
@@ -78,7 +75,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-a65c4de5-7101-49db-8a1c-00a73885ed8f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-a65c4de5-7101-49db-8a1c-00a73885ed8f
 - text: Project Blue Book officially wrote off the object as a meteorite.
   source: In Plain Sight
   location: ch10:8845-8893
@@ -88,7 +84,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-2947523b-88f1-4abc-811d-45f31ce3ced7
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-2947523b-88f1-4abc-811d-45f31ce3ced7
 - text: It has been suggested the object was a Russian or US satellite, but what crashed
     remains an open question.
   source: In Plain Sight
@@ -100,7 +95,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c571ddf2-6108-4253-8223-d0da1df90a97
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c571ddf2-6108-4253-8223-d0da1df90a97
 - text: John Podesta supported a 2002 lawsuit seeking government records on the incident.
   source: In Plain Sight
   location: ch14:26457-26619
@@ -112,7 +106,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-c5d92a41-e368-42fe-b2fb-763f561d9c5e
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-c5d92a41-e368-42fe-b2fb-763f561d9c5e
 - text: Leslie Kean won a court case against NASA over release of documents relating
     to the incident.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -124,7 +117,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-a4675688-3d0e-49ff-b73f-0a1f505d1e92
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

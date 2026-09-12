@@ -567,7 +567,6 @@ references:
   claim_id: bea31e22-ed15-4ef4-8434-4bdcee09b8df
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bea31e22-ed15-4ef4-8434-4bdcee09b8df
   copyright_status: publicly_accessible
 - text: Project Stargate was run for years by the CIA and later by DIA, training recruits
     to use psychic abilities

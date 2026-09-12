@@ -283,7 +283,6 @@ references:
   claim_id: d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
   record_hash: 524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008
   workbench_url: https://workbench.anomalica.is/524f46e5addac20bea4a80ebc06e3b5c3d252cab8b11b88b7b92d008#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
-  inspection_url: /records/2025-01-15-ebook-the-fourth-mind#claim-d9ea78cb-fe2d-4b5e-be16-b2fb972bfa02
   copyright_status: restricted
 - text: The third eye as a telepathic transceiver in Hindu tradition
   source: The Fourth Mind
@@ -346,7 +345,6 @@ references:
   claim_id: 9748223e-e5ef-488c-91f7-7af1f8a322a7
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
-  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
   copyright_status: publicly_accessible
 - text: Strieber's experience that 'the boy' was telepathic
   source: The Fourth Mind
@@ -424,7 +422,6 @@ references:
   claim_id: 6a18bedf-c03a-4e34-98b7-3f12332fbe38
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-6a18bedf-c03a-4e34-98b7-3f12332fbe38
   copyright_status: publicly_accessible
 - text: Nanstiel's 2020 garage grey communicating in English words
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -435,7 +432,6 @@ references:
   claim_id: 02eb55e5-1a5b-4170-85a7-0f32ca3540ad
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-02eb55e5-1a5b-4170-85a7-0f32ca3540ad
   copyright_status: publicly_accessible
 - text: Nanstiel's description of grey entrancement
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -457,7 +453,6 @@ references:
   claim_id: 4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-4a5c30bd-b9d9-4ecd-b014-21ad592fcc7f
   copyright_status: publicly_accessible
 - text: Nanstiel belligerent toward the doctor creature, hearing grey telepathy
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -519,7 +514,6 @@ references:
   claim_id: 166df7e1-469a-41f2-931a-2daf2366ae04
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-166df7e1-469a-41f2-931a-2daf2366ae04
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-166df7e1-469a-41f2-931a-2daf2366ae04
   copyright_status: publicly_accessible
 - text: Nanstiel on a purely telepathic species losing human art forms
   source: '"Skinny Bob is Real" - Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -590,7 +584,6 @@ references:
   claim_id: 1cb82712-e941-49ea-987f-9e33ae7b6b46
   record_hash: 99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df
   workbench_url: https://workbench.anomalica.is/99a53c9b2f419c30722bbc6a36359c17a9eda0094d02cb415fbd64df#claim-1cb82712-e941-49ea-987f-9e33ae7b6b46
-  inspection_url: /records/2026-03-04-video-tom-delonge-s-sekret-machines-full-documentary-ufo-uap#claim-1cb82712-e941-49ea-987f-9e33ae7b6b46
   copyright_status: publicly_accessible
 - text: Mossbridge on telepathy and non-speaking autistic people
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

@@ -115,7 +115,6 @@ references:
   claim_id: 5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
   record_hash: 8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c
   workbench_url: https://workbench.anomalica.is/8ccc822b36fc9c8e5e7410ff6e8e89c31398b7b1e098e28f2c37a27c#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
-  inspection_url: /records/2024-10-18-video-journalist-leaked-uap-program-immaculate-constellation#claim-5c0f9d8b-6f33-4c5a-ac64-83bed3445f8a
   copyright_status: publicly_accessible
 - text: Ramsay said the driveway account predates public discussion of angel hair
     by years
@@ -141,7 +140,6 @@ references:
   claim_id: fc8935e9-c612-44bb-afb0-229b0a10384e
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-fc8935e9-c612-44bb-afb0-229b0a10384e
   copyright_status: publicly_accessible
 - text: Jason Samosa said Ryan Bledsoe recounted Jim Semivan telling him the Bledsoe
     family are thought to be hybrids with non-human DNA

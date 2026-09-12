@@ -99,7 +99,6 @@ references:
   claim_id: 770f3c59-13d2-48be-a8cc-e507a8a2faf6
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-770f3c59-13d2-48be-a8cc-e507a8a2faf6
   copyright_status: publicly_accessible
 - text: Twining recommended a detailed study that became Project Sign.
   source: In Plain Sight

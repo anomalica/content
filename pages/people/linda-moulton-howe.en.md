@@ -57,7 +57,6 @@ references:
   claim_id: 092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
-  inspection_url: /records/2007-06-20-web-project-serpo#claim-092ab7bb-81b1-4f7a-9b1f-7f93b8f47a5c
   copyright_status: publicly_accessible
 - text: Interview took place 1995-04-08 in Las Vegas, Nevada, 12:24 to 17:13
   source: Project Serpo
@@ -75,7 +74,6 @@ references:
   claim_id: 3ac25e82-232c-421b-8a14-ff846d88768c
   record_hash: a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7
   workbench_url: https://workbench.anomalica.is/a480652ec3d9c2b6a07626bd138411ab3b6beb087808f018c5372ad7#claim-3ac25e82-232c-421b-8a14-ff846d88768c
-  inspection_url: /records/2007-06-20-web-project-serpo#claim-3ac25e82-232c-421b-8a14-ff846d88768c
   copyright_status: publicly_accessible
 - text: 2019 TTSA SEC filing recorded that Howe had held and studied the Art's Parts
     samples
@@ -224,7 +222,6 @@ references:
   claim_id: 58060803-f2bc-409b-b0a5-03de88065905
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-58060803-f2bc-409b-b0a5-03de88065905
   copyright_status: publicly_accessible
 - text: 'Nanstiel: big-nosed Greys as Sumerian-gods engineering emissaries, discussed
     by Howe in a documentary'

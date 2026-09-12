@@ -878,7 +878,6 @@ references:
   claim_id: b2640a27-6161-4432-9c3c-3cd27f2c0c21
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-b2640a27-6161-4432-9c3c-3cd27f2c0c21
   copyright_status: publicly_accessible
 - text: Grusch attended a classified meeting in which he challenged AARO
   source: 'David Grusch: The Whistleblower Who Told Congress We''re Not Alone'

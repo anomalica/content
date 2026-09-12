@@ -43,7 +43,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-7164d57c-30e5-4da3-a902-b43f6b46b67f
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-7164d57c-30e5-4da3-a902-b43f6b46b67f
 - text: Two women and a boy driving on a Texas road saw a diamond-shaped object descend
     and hover over a nearby tree.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -55,7 +54,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-79cdcd5d-830c-43be-888b-02f1bac263e7
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-79cdcd5d-830c-43be-888b-02f1bac263e7
 - text: The women sensed a massive amount of heat emanating from the object.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
   location: ch18:4136-4192
@@ -65,7 +63,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-d348d06b-54fd-4a0f-ab5b-44e9d56f33bd
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-d348d06b-54fd-4a0f-ab5b-44e9d56f33bd
 - text: The two women later developed headaches, severe skin burns, nausea, diarrhoea,
     eye damage, lesions, exhaustion, hair loss, and shedding fingernails.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -78,7 +75,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fe884ed0-4846-470c-a074-115333ad7d0d
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fe884ed0-4846-470c-a074-115333ad7d0d
 - text: The boy, who stayed in the car, later developed eye problems requiring glasses
     for schoolwork.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -90,7 +86,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-ec4d535a-bb47-48ad-9a0e-1584fa2c8859
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-ec4d535a-bb47-48ad-9a0e-1584fa2c8859
 - text: One woman later developed severe cataracts and the other developed breast
     cancer.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs (2024)'
@@ -101,7 +96,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-4bc207a5-5a08-4cfb-a571-f65c9243ddb4
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-4bc207a5-5a08-4cfb-a571-f65c9243ddb4
 - text: A person in Dayton, Texas who developed cancer after the encounter sued the
     United States government; the case was rejected, including on appeal.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full

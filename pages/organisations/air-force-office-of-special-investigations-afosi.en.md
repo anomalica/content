@@ -321,7 +321,6 @@ references:
   claim_id: 3264303e-1794-4c28-a3d8-3b4892dd6db6
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-3264303e-1794-4c28-a3d8-3b4892dd6db6
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-3264303e-1794-4c28-a3d8-3b4892dd6db6
   copyright_status: publicly_accessible
 - text: Jesse Mitchells said AFOSI recurs in UFO lore, arriving after sightings at
     nuclear bases to seize radar data and silence witnesses

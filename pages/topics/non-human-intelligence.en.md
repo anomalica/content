@@ -109,7 +109,6 @@ references:
   claim_id: b897aa93-707c-4009-ac21-0d32990d8938
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-b897aa93-707c-4009-ac21-0d32990d8938
-  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-b897aa93-707c-4009-ac21-0d32990d8938
   copyright_status: publicly_accessible
 - text: Coulthart says Grush discussed DOPSR-cleared agreements potentially involving
     foreign powers or non-human intelligence

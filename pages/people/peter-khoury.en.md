@@ -511,7 +511,6 @@ references:
   claim_id: 1517b2c6-1ac3-4cf5-83c7-429797f4a027
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-1517b2c6-1ac3-4cf5-83c7-429797f4a027
   copyright_status: publicly_accessible
 - text: Rooftop in neighbourhood where children regularly played
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -586,7 +585,6 @@ references:
   claim_id: d65457f7-31d6-4336-82bf-2b6606ac3ca1
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-d65457f7-31d6-4336-82bf-2b6606ac3ca1
   copyright_status: publicly_accessible
 - text: Craft was silver with a large, darkly tinted windscreen
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -598,7 +596,6 @@ references:
   claim_id: 6e62fe34-8f8b-4b66-87ca-bed4c45320d0
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-6e62fe34-8f8b-4b66-87ca-bed4c45320d0
   copyright_status: publicly_accessible
 - text: No landing gear, propeller or doors
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -610,7 +607,6 @@ references:
   claim_id: 428a2f13-18f9-46cc-845a-72b4cb3feb01
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-428a2f13-18f9-46cc-845a-72b4cb3feb01
   copyright_status: publicly_accessible
 - text: Craft similar in size to a neighbour's Volkswagen Beetle
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -667,7 +663,6 @@ references:
   claim_id: 3a30185b-58ac-4766-99ed-b73e3313bed0
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-3a30185b-58ac-4766-99ed-b73e3313bed0
   copyright_status: publicly_accessible
 - text: Children grounded for one to two weeks afterwards
   source: UFO Witness Reveals CHILLING Daytime Alien Encounter - Peter Khoury - DEBRIEFED
@@ -745,7 +740,6 @@ references:
   claim_id: 6daa6be0-1eb0-4466-98ed-915733ea7dd4
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-6daa6be0-1eb0-4466-98ed-915733ea7dd4
   copyright_status: publicly_accessible
 - text: Khoury maintains the paralysis began before he fell asleep, ruling out a sleep-related
     explanation
@@ -769,7 +763,6 @@ references:
   claim_id: 48250fb2-2e5a-46e2-99ba-3cd2baf6728f
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-48250fb2-2e5a-46e2-99ba-3cd2baf6728f
   copyright_status: publicly_accessible
 - text: Figure described as horrific and evil-looking, robe and hood enlarging its
     head
@@ -838,7 +831,6 @@ references:
   claim_id: 9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
   record_hash: b75101566131346a95237998494f68630d802a73409e5a64893cf350
   workbench_url: https://workbench.anomalica.is/b75101566131346a95237998494f68630d802a73409e5a64893cf350#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
-  inspection_url: /records/2025-10-17-video-ufo-witness-reveals-chilling-daytime-alien-encounter-peter#claim-9fbcbeec-e0c6-4027-8c5d-f7e5c3300e2e
   copyright_status: publicly_accessible
 - text: Sam Khoury described witnessing Peter floated through the hallway by three
     beings

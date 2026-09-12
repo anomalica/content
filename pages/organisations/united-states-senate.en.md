@@ -155,7 +155,6 @@ references:
   claim_id: ed3655e8-3359-45d6-840a-2333bcd2e474
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
-  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-ed3655e8-3359-45d6-840a-2333bcd2e474
   copyright_status: publicly_accessible
 - text: A UAP forum was held in the Kennedy Caucus Room of the Senate
   source: 'Episode 73: Science vs. Secrecy'
@@ -165,7 +164,6 @@ references:
   claim_id: 2ea6c150-144d-4774-8ee8-ea048c0a414a
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-2ea6c150-144d-4774-8ee8-ea048c0a414a
   copyright_status: publicly_accessible
 - text: The Kennedy Caucus Room forum took place in June 2026
   source: 'Episode 73: Science vs. Secrecy'

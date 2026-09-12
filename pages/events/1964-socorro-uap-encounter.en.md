@@ -111,7 +111,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-0995e06c-1239-4fe8-985a-1a436b38be7c
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-0995e06c-1239-4fe8-985a-1a436b38be7c
 - text: Zamora recalled finding an egg- or Tic Tac-shaped object with a metallic surface
     and spindly landing gear in an arroyo.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -126,7 +125,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-fdf2b279-9840-4d7d-bd1c-1c87eef52c56
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-fdf2b279-9840-4d7d-bd1c-1c87eef52c56
 - text: A shiny, aluminium-coloured craft with two small figures in white coveralls
     was found in a dry creek bed.
   source: In Plain Sight
@@ -138,7 +136,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-22345138-7b2c-4255-ab8f-adbce8d1ed23
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-22345138-7b2c-4255-ab8f-adbce8d1ed23
 - text: The object rose off the ground as Zamora approached, showing red lettering
     on its side.
   source: In Plain Sight
@@ -150,7 +147,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-ed20fb76-7386-4f0b-b88e-c3a576f0ff90
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-ed20fb76-7386-4f0b-b88e-c3a576f0ff90
 - text: Zamora was the main witness at the Socorro landing site.
   source: 'Messengers of Deception: UFO Contacts and Cults'
   location: ch4:17963-18030
@@ -160,7 +156,6 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-8f86b4ae-a001-44f0-8295-3f9a18924057
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-8f86b4ae-a001-44f0-8295-3f9a18924057
 - text: Ground indentations and charred bushes were found at the landing site.
   source: In Plain Sight
   location: ch10:8161-8244
@@ -171,7 +166,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-5743ccc0-8238-40eb-b45b-1d0e55c76621
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-5743ccc0-8238-40eb-b45b-1d0e55c76621
 - text: Independent witnesses reported an egg-shaped craft or bluish flame around
     the same time.
   source: In Plain Sight
@@ -183,7 +177,6 @@ references:
   record_hash: 2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/2f15494819ab3b95187e63c8a8a8006ea4a716da185a7a65f9b9346c#claim-44e33e46-e8db-46f4-8c17-168b44e8ac63
-  inspection_url: /records/2023-11-17-ebook-in-plain-sight#claim-44e33e46-e8db-46f4-8c17-168b44e8ac63
 - text: Fowler said the site showed scorched areas, still-burning greasewood and a
     melted, calcined bottle.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -209,7 +202,6 @@ references:
   record_hash: 0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/0995af40b4b9135658358c77e92a364395a84975e1eb288dcacf4c5a#claim-79a163f3-c8a5-4b26-86ce-4385682bcd0a
-  inspection_url: /records/0101-01-01-ebook-messengers-of-deception-ufo-contacts-and-cults#claim-79a163f3-c8a5-4b26-86ce-4385682bcd0a
 - text: Fowler said a ton of weight was measured on each pad mark with a penetrometer.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -252,7 +244,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-0c28bec3-ea4b-46a7-bb2c-b7a33d9e1810
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-0c28bec3-ea4b-46a7-bb2c-b7a33d9e1810
 - text: The US Army investigated the encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch9:140-147
@@ -262,7 +253,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-50728311-7d99-417e-9fde-91d15f81b7fb
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-50728311-7d99-417e-9fde-91d15f81b7fb
 - text: The FBI investigated the encounter.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22897-23016
@@ -273,7 +263,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1a16ce6e-b476-4bb6-9b86-c5de8491bb5a
 - text: J. Allen Hynek travelled to Socorro to investigate.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23023-23043
@@ -283,7 +272,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-32065d35-6634-41eb-b9d2-d3ccc13850a6
 - text: The object was seen or heard by about 13 people.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -358,7 +346,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-bb349617-191d-4c6c-b51f-efd9e90de347
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-bb349617-191d-4c6c-b51f-efd9e90de347
 - text: The two figures dashed aboard the object when they noticed Zamora.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22032-22074
@@ -368,7 +355,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35f24cf3-2169-40e8-9fc1-0dbba530f2ab
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35f24cf3-2169-40e8-9fc1-0dbba530f2ab
 - text: The object rose with a roar, spewing blue-orange flames and scorching vegetation.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:22082-22265
@@ -380,7 +366,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-9256beb2-c92f-4f5c-9040-569e847aa75c
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-9256beb2-c92f-4f5c-9040-569e847aa75c
 - text: Elizondo wrote that the craft took off with a loud roar and a blast of blue
     flame.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -392,7 +377,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-621cbaaa-a666-48a2-8476-f93d43854587
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-621cbaaa-a666-48a2-8476-f93d43854587
 - text: Elizondo wrote that Zamora ran up a ravine, fearing the craft might explode.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:3811-3904
@@ -403,7 +387,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-84f32bbb-0f5c-4d2f-9483-ba57240ef0b9
 - text: Elizondo wrote that the craft flew away silently after reaching height.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch25:3913-4024
@@ -414,7 +397,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-14420594-8506-4f5d-833f-9ea6daed0c03
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-14420594-8506-4f5d-833f-9ea6daed0c03
 - text: Zamora saw markings or an insignia on the object's side.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch13:102-257
@@ -426,7 +408,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-aa8af8a0-9b62-45c5-87af-8e718ec4eb5e
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-aa8af8a0-9b62-45c5-87af-8e718ec4eb5e
 - text: Vallée wrote that Zamora saw a red sign, an arrow over a bar, unexplained
     at the time.
   source: 'The Invisible College: What a Group of Scientists Has Discovered About
@@ -440,7 +421,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-51b66edd-2a1d-4060-ba60-0ac2781877fa
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-51b66edd-2a1d-4060-ba60-0ac2781877fa
 - text: Vallée wrote that Zamora saw an egg-shaped object with two small men near
     it.
   source: 'The Invisible College: What a Group of Scientists Has Discovered About
@@ -453,7 +433,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-693b0919-3b9e-4f63-9e70-9014cbd53e81
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-693b0919-3b9e-4f63-9e70-9014cbd53e81
 - text: The object bore a representation of the Arabic astrological sign for Venus.
   source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -465,7 +444,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-aff7a0e5-c603-4d1a-a145-0afd0f262bb3
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-aff7a0e5-c603-4d1a-a145-0afd0f262bb3
 - text: A Stanford friend of Vallée's matched the symbol to a medieval Arabic sign
     for Venus.
   source: 'The Invisible College: What a Group of Scientists Has Discovered About
@@ -481,7 +459,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-9ae717f4-c126-43a8-8df8-c4a04b965fe8
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-9ae717f4-c126-43a8-8df8-c4a04b965fe8
 - text: The USAF warned Zamora not to share knowledge of the markings with civilians.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch13:263-363
@@ -492,7 +469,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-10d5c854-b36d-4cdc-bb5c-9ba70a1a4490
 - text: Zamora said a highway patrolman also saw a white object with two small occupants.
   source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -505,7 +481,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-7af2ddb4-bd06-450d-aa8f-396ddae6ba13
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-7af2ddb4-bd06-450d-aa8f-396ddae6ba13
 - text: Zamora asked to be left alone with a priest before reporting the sighting.
   source: 'The Invisible College: What a Group of Scientists Has Discovered About
     UFO Influences on the Human Race'
@@ -516,7 +491,6 @@ references:
   record_hash: 5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/5ed5a6064c9f01395f08d69e151bc45a40b8897183aa86aa3fc0b848#claim-a8207411-7256-4060-944f-d981009dbde4
-  inspection_url: /records/2014-09-27-ebook-the-invisible-college-what-a-group-of-scientists-has#claim-a8207411-7256-4060-944f-d981009dbde4
 - text: Other witnesses reported an egg-shaped object streaking across the landscape.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:23549-23630
@@ -527,7 +501,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-7ed0baa9-04da-4ba9-acc6-402500728983
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-7ed0baa9-04da-4ba9-acc6-402500728983
 - text: A nearby witness described a butane-tank-like object landing and frightening
     horses.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
@@ -541,7 +514,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-1fea86e5-585b-44f0-98fa-b171fca7dca3
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-1fea86e5-585b-44f0-98fa-b171fca7dca3
 - text: The story appeared in newspapers, radio and television across the United States.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:24115-24252
@@ -552,7 +524,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-35d1d6b2-11b6-4f66-b3b4-78fd168a14ec
 - text: Zamora never tried to profit from the encounter or seek media attention.
   source: 'Imminent: Inside the Pentagon''s Hunt for UFOs'
   location: ch12:24260-24335
@@ -563,7 +534,6 @@ references:
   record_hash: 303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626
   copyright_status: restricted
   workbench_url: https://workbench.anomalica.is/303c2190ff7a59f71ae6cf80b9e39e686bb81326efbfd76f23f40626#claim-b13d053a-6f49-4340-a6ba-1d7161afb49f
-  inspection_url: /records/2024-08-19-ebook-imminent-inside-the-pentagon-s-hunt-for-ufos#claim-b13d053a-6f49-4340-a6ba-1d7161afb49f
 built_by:
   model: claude-sonnet-5
   model_version: claude-sonnet-5

@@ -311,7 +311,6 @@ references:
   claim_id: a343c04d-986e-4298-aa12-fe6bc66e4a8c
   record_hash: eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121
   workbench_url: https://workbench.anomalica.is/eda11247c8b061a87c50e7b919534a7201f12ef917f25680fe585121#claim-a343c04d-986e-4298-aa12-fe6bc66e4a8c
-  inspection_url: /records/2025-04-11-video-aliens-and-albert-einstein-the-secret-document-debriefed-ep#claim-a343c04d-986e-4298-aa12-fe6bc66e4a8c
   copyright_status: publicly_accessible
 - text: The Predator UAV supported UN and NATO operations in Bosnia and was widely
     used in counterterrorism

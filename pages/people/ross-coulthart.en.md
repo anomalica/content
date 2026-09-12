@@ -722,7 +722,6 @@ references:
   claim_id: 48a9b1f7-427c-4644-bfef-9482e2dced6d
   record_hash: 5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e
   workbench_url: https://workbench.anomalica.is/5e9a8cfd3f58f829fccdbc1cc057d06bed9f9e59e703cb29c1593e6e#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
-  inspection_url: /records/2026-07-21-video-dr-phil-read-the-uap-files-before-the-public-here-s-what-he#claim-48a9b1f7-427c-4644-bfef-9482e2dced6d
   copyright_status: publicly_accessible
 - text: Trump's remarks made at a cabinet meeting with Rubio and Hegseth, 2026-08-11
   source: Ross Coulthart Answers Your Biggest UAP Questions | Reality Check with Ross
@@ -842,7 +841,6 @@ references:
   claim_id: 6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
-  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-6f0b8b6c-60f7-4603-aaa7-e09c0c6a3b31
   copyright_status: publicly_accessible
 - text: Communion was a New York Times bestseller
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality
@@ -853,7 +851,6 @@ references:
   claim_id: 033ad397-ee14-45b6-a23c-88da5e051bf0
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
-  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-033ad397-ee14-45b6-a23c-88da5e051bf0
   copyright_status: publicly_accessible
 - text: Coulthart regards Strieber as a controversial, leading figure
   source: Whitley Strieber Reveals What 40 Years of Encounters Taught Him | Reality

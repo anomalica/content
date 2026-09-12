@@ -820,7 +820,6 @@ references:
   claim_id: 48d59ec0-2093-4bda-807e-fcbc0cf0b05e
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-48d59ec0-2093-4bda-807e-fcbc0cf0b05e
   copyright_status: publicly_accessible
 - text: 'Ramsay: Lazar said the Meier beam ship matched craft he was familiar with'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -831,7 +830,6 @@ references:
   claim_id: 27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-27a3b7cd-f103-4b79-a5dc-6c55cda5d0de
   copyright_status: publicly_accessible
 - text: 'Ramsay: he and Lazar agree the later Meier material is questionable'
   source: Revealing The Nordic Alien Prophecies - Michael Horn | DEBRIEFED ep. 92
@@ -840,7 +838,6 @@ references:
   claim_id: 44964627-c9e9-421b-9769-df2b17f5534b
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-44964627-c9e9-421b-9769-df2b17f5534b
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-44964627-c9e9-421b-9769-df2b17f5534b
   copyright_status: publicly_accessible
 - text: 'Ramsay: the beam ship shown to Lazar matches the 1975 photo, perhaps not
     in size'
@@ -881,7 +878,6 @@ references:
   claim_id: 4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-4c5b1b7f-564c-46dd-92ae-2a3e8a8d2b00
   copyright_status: publicly_accessible
 - text: 'Nanstiel: military briefing papers described the Greys viewing humans as
     containers'

@@ -180,7 +180,6 @@ references:
   claim_id: 57181f11-0b26-4d64-9401-d7c451812048
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-57181f11-0b26-4d64-9401-d7c451812048
-  inspection_url: /records/2013-06-16-ebook-communion#claim-57181f11-0b26-4d64-9401-d7c451812048
   copyright_status: restricted
 - text: Strieber provided Klein with a document outlining all his memories of the
     visitor experiences
@@ -220,7 +219,6 @@ references:
   claim_id: 60ffb135-507e-4cb5-8316-488c8c51f1c0
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
-  inspection_url: /records/2013-06-16-ebook-communion#claim-60ffb135-507e-4cb5-8316-488c8c51f1c0
   copyright_status: restricted
 - text: During hypnosis Klein asked Strieber his age and Strieber answered 'Twelve'
   source: Communion
@@ -253,7 +251,6 @@ references:
   claim_id: 116d5684-c0d2-418c-8c29-a63842866719
   record_hash: 17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517
   workbench_url: https://workbench.anomalica.is/17624f7a61bdc5f1690ba9eadeccedea1383e962f14364519b6c4517#claim-116d5684-c0d2-418c-8c29-a63842866719
-  inspection_url: /records/2026-08-14-video-whitley-strieber-reveals-what-40-years-of-encounters-taught#claim-116d5684-c0d2-418c-8c29-a63842866719
   copyright_status: publicly_accessible
 - text: Strieber emerged spontaneously from hypnosis a second time during the March
     1, 1986 session because of the severity of the emotions relived
@@ -326,7 +323,6 @@ references:
   claim_id: 52160a96-893b-4245-a706-779e90d2bad3
   record_hash: b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4
   workbench_url: https://workbench.anomalica.is/b0d4d2be6d1da6974051643a78b28246d254deac501fe6651fc411f4#claim-52160a96-893b-4245-a706-779e90d2bad3
-  inspection_url: /records/2013-06-16-ebook-communion#claim-52160a96-893b-4245-a706-779e90d2bad3
   copyright_status: restricted
 - text: Klein is Director of Research at the New York State Psychiatric Institute
   source: Communion

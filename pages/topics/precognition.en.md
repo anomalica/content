@@ -310,7 +310,6 @@ references:
   claim_id: d56e4855-a2f5-4943-83f5-5880d38a56a8
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-d56e4855-a2f5-4943-83f5-5880d38a56a8
-  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-d56e4855-a2f5-4943-83f5-5880d38a56a8
   copyright_status: publicly_accessible
 - text: Nichols learned of the bombing via television news and realised the match
   source: I LEFT MY BODY - The Gateway Experience (Part 3)
@@ -341,7 +340,6 @@ references:
   claim_id: 9748223e-e5ef-488c-91f7-7af1f8a322a7
   record_hash: 4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b
   workbench_url: https://workbench.anomalica.is/4733335b86d81aa09b7d41d08bf3b53b1512fc8641c72a9aa78b972b#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
-  inspection_url: /records/2024-08-24-video-i-left-my-body-the-gateway-experience-part-3#claim-9748223e-e5ef-488c-91f7-7af1f8a322a7
   copyright_status: publicly_accessible
 - text: Mossbridge's work in psi and precognition
   source: Non Human Intelligence, GATE Program and Psi Ability with Dr. Julia Mossbridge

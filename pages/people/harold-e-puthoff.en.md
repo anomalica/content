@@ -860,7 +860,6 @@ references:
   claim_id: d740437e-c561-4044-a51a-32d599359751
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-d740437e-c561-4044-a51a-32d599359751
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-d740437e-c561-4044-a51a-32d599359751
   copyright_status: publicly_accessible
 - text: AAWSAP began in 2008
   source: 'Episode 73: Science vs. Secrecy'
@@ -870,7 +869,6 @@ references:
   claim_id: 2ff8c7f5-8482-487a-ae39-5050f5128480
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-2ff8c7f5-8482-487a-ae39-5050f5128480
   copyright_status: publicly_accessible
 - text: AAWSAP started by Senator Harry Reid and a couple of other senators
   source: 'Episode 73: Science vs. Secrecy'
@@ -935,7 +933,6 @@ references:
   claim_id: 54644aec-9eee-4f8d-86e4-f7b18c79af23
   record_hash: ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230
   workbench_url: https://workbench.anomalica.is/ce2605871ff3b10ce6100a26e1c9b066f1a7d953deaa88eb7b0d0230#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
-  inspection_url: /records/2026-06-30-video-episode-73-science-vs-secrecy#claim-54644aec-9eee-4f8d-86e4-f7b18c79af23
   copyright_status: publicly_accessible
 - text: Gatekeepers of the legacy program are unelected security personnel ensuring
     it is not exposed

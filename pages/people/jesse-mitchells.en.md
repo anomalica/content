@@ -417,7 +417,6 @@ references:
   claim_id: e160bb2e-5b7b-4dd9-8448-00a315ebd421
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
-  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-e160bb2e-5b7b-4dd9-8448-00a315ebd421
   copyright_status: publicly_accessible
 - text: David Grush testified before the US Congress as a UFO whistleblower on 2023-07-26
   source: UAPs in Washington - I wasn't supposed to be there..
@@ -427,7 +426,6 @@ references:
   claim_id: 15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
-  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-15c71d5f-8a66-46ad-b0b5-97a205b0f38a
   copyright_status: publicly_accessible
 - text: Mitchells's YouTube channel received a strike after a video featuring David
     Grush was taken down
@@ -438,7 +436,6 @@ references:
   claim_id: 90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
   record_hash: 4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b
   workbench_url: https://workbench.anomalica.is/4e5d974387012aec8420670ad02c17b8287f307f8b3380da8843d19b#claim-90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
-  inspection_url: /records/2024-11-24-video-uaps-in-washington-i-wasn-t-supposed-to-be-there#claim-90ce761a-ba46-4dd9-b0e1-74f62ab41eb2
   copyright_status: publicly_accessible
 - text: Mitchells said the US government has covertly run UFO reverse-engineering
     programmes for about 70 to 80 years
@@ -520,7 +517,6 @@ references:
   claim_id: f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
-  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-f74fd5e7-c20d-47a9-b9ad-8eccdd1f52e0
   copyright_status: publicly_accessible
 - text: A single F-35 Lightning II fighter jet costs 85 million US dollars
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -547,7 +543,6 @@ references:
   claim_id: a84b7e8e-89a0-4568-81ca-7c49fc545683
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-a84b7e8e-89a0-4568-81ca-7c49fc545683
-  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-a84b7e8e-89a0-4568-81ca-7c49fc545683
   copyright_status: publicly_accessible
 - text: Mitchells believes the legacy programme Grush described probably involves
     hundreds of billions to trillions of dollars
@@ -558,7 +553,6 @@ references:
   claim_id: cdc27bb1-54b9-4b2d-9b51-d0b456017133
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-cdc27bb1-54b9-4b2d-9b51-d0b456017133
-  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-cdc27bb1-54b9-4b2d-9b51-d0b456017133
   copyright_status: publicly_accessible
 - text: Mitchells is interested in Thomas Townsend Brown and his anti-gravity research
   source: The UFO Cover-Up Leads to One Secret Society — and One Final Event
@@ -1031,7 +1025,6 @@ references:
   claim_id: 485f18cd-d383-4bce-b6e5-883cbb9a150d
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-485f18cd-d383-4bce-b6e5-883cbb9a150d
-  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-485f18cd-d383-4bce-b6e5-883cbb9a150d
   copyright_status: publicly_accessible
 - text: Mitchells notes hybridisation anecdotes come from senior CIA figures such
     as Jim Semivan

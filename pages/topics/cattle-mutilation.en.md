@@ -53,7 +53,6 @@ references:
   claim_id: 58060803-f2bc-409b-b0a5-03de88065905
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-58060803-f2bc-409b-b0a5-03de88065905
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-58060803-f2bc-409b-b0a5-03de88065905
   copyright_status: publicly_accessible
 - text: Nanstiel theorises the Greys consume bovine blood for its resemblance to human
     blood
@@ -67,7 +66,6 @@ references:
   claim_id: 7bab3765-c623-4083-a197-618f3b457ab6
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-7bab3765-c623-4083-a197-618f3b457ab6
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-7bab3765-c623-4083-a197-618f3b457ab6
   copyright_status: publicly_accessible
 - text: Legend holds Eisenhower was offered a deal permitting abduction of humans
     and cattle from a set list
@@ -82,7 +80,6 @@ references:
   claim_id: 968ad903-a5a6-4f76-b72b-808843a3d587
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-968ad903-a5a6-4f76-b72b-808843a3d587
   copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5

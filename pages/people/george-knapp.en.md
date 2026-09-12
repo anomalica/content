@@ -705,7 +705,6 @@ references:
   claim_id: 3be28e48-7ea0-4d32-9926-f68cf693a709
   record_hash: d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7
   workbench_url: https://workbench.anomalica.is/d23c6f1f129673a513bf912e0e168a6aaba5744447752be724a634c7#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
-  inspection_url: /records/2026-07-14-video-the-ufo-cover-up-leads-to-one-secret-society-and-one-final#claim-3be28e48-7ea0-4d32-9926-f68cf693a709
   copyright_status: publicly_accessible
 - text: Knapp and Jeremy Corbell received UAP videos and worked to provide them to
     Congress

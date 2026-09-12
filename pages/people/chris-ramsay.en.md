@@ -420,7 +420,6 @@ references:
   claim_id: 1c5591a4-eddd-4190-8fe4-17e898a14157
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
-  inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-1c5591a4-eddd-4190-8fe4-17e898a14157
   copyright_status: publicly_accessible
 - text: Performs as a magician
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -458,7 +457,6 @@ references:
   claim_id: c22ba299-656a-40ca-b381-1da8beefa5b7
   record_hash: 64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff
   workbench_url: https://workbench.anomalica.is/64faa27cd07f410a1da33565bcf99a0fb78e2549e12d82b0a0c6f1ff#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
-  inspection_url: /records/2024-09-13-video-the-clearest-video-of-a-tic-tac-uap-debriefed-ep-6#claim-c22ba299-656a-40ca-b381-1da8beefa5b7
   copyright_status: publicly_accessible
 - text: The orbs did not appear to be moving, though it was hard to tell
   source: The Clearest Video of a Tic Tac UAP! - DEBRIEFED ep. 6
@@ -773,7 +771,6 @@ references:
   claim_id: 79c0f3c9-17bb-4324-b5ce-900e6de4fac9
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-79c0f3c9-17bb-4324-b5ce-900e6de4fac9
   copyright_status: publicly_accessible
 - text: Described unbadged military personnel loading people, including children,
     into reverse-engineered craft during the encounter
@@ -787,7 +784,6 @@ references:
   claim_id: f16c8257-7f75-4f7b-ac19-b380850fd79c
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-f16c8257-7f75-4f7b-ac19-b380850fd79c
   copyright_status: publicly_accessible
 - text: Found forced-perspective imperfections in the wedding cake UFO photographs,
     drawing on his background in illusion
@@ -799,7 +795,6 @@ references:
   claim_id: 46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-46e8aeb6-c8d9-4c21-b889-692c8ed79dfe
   copyright_status: publicly_accessible
 - text: Concluded the close-up nighttime wedding cake photograph was a hoax because
     the object being out of focus indicated it was very close and very small
@@ -811,7 +806,6 @@ references:
   claim_id: 5634cb7d-9239-434b-8910-4608973e8163
   record_hash: 68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159
   workbench_url: https://workbench.anomalica.is/68890827242b3c71c1a1df2f1da00ac2d0f033be148be34bf2487159#claim-5634cb7d-9239-434b-8910-4608973e8163
-  inspection_url: /records/2026-06-12-video-revealing-the-nordic-alien-prophecies-michael-horn#claim-5634cb7d-9239-434b-8910-4608973e8163
   copyright_status: publicly_accessible
 - text: Says that although coverage of the abduction phenomenon seems to have dissipated,
     many abductees he speaks to maintain it is still happening
@@ -853,7 +847,6 @@ references:
   claim_id: c234cdd5-3555-45df-855e-3789702c8291
   record_hash: 8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8
   workbench_url: https://workbench.anomalica.is/8771658ae1404cd4067863eced9a17cfa244bdd047b02455712ee5a8#claim-c234cdd5-3555-45df-855e-3789702c8291
-  inspection_url: /records/2026-08-14-video-non-human-intelligence-gate-program-and-psi-ability-with-dr#claim-c234cdd5-3555-45df-855e-3789702c8291
   copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5

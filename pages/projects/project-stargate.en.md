@@ -142,7 +142,6 @@ references:
   claim_id: 89143734-1d5f-4192-9d95-2e00e30542cc
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-89143734-1d5f-4192-9d95-2e00e30542cc
-  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-89143734-1d5f-4192-9d95-2e00e30542cc
   copyright_status: restricted
 - text: The US sought a 'mind reading' weapon to gain an advantage over the Soviet
     Union
@@ -155,7 +154,6 @@ references:
   claim_id: e0021f48-b8f6-41d0-88ae-4e342214c968
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-e0021f48-b8f6-41d0-88ae-4e342214c968
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-e0021f48-b8f6-41d0-88ae-4e342214c968
   copyright_status: publicly_accessible
 - text: Began as a classified California lab project before moving to a Maryland army
     base
@@ -167,7 +165,6 @@ references:
   claim_id: d37c3643-5c69-4a19-8ba7-d255bcbf15ec
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-d37c3643-5c69-4a19-8ba7-d255bcbf15ec
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-d37c3643-5c69-4a19-8ba7-d255bcbf15ec
   copyright_status: publicly_accessible
 - text: A CIA-funded remote viewing programme ran at Stanford Research Institute from
     1972
@@ -443,7 +440,6 @@ references:
   claim_id: 4db39899-5a7f-447b-98bc-13778b341d64
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-4db39899-5a7f-447b-98bc-13778b341d64
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-4db39899-5a7f-447b-98bc-13778b341d64
   copyright_status: publicly_accessible
 - text: Swann developed the remote-viewing structure used to train the prototype team
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -474,7 +470,6 @@ references:
   claim_id: a97304b7-f1fd-4f18-8f29-57e3f5828485
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-a97304b7-f1fd-4f18-8f29-57e3f5828485
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-a97304b7-f1fd-4f18-8f29-57e3f5828485
   copyright_status: publicly_accessible
 - text: Dames was the operations and training officer for the DOD's Project Stargate
     program
@@ -564,7 +559,6 @@ references:
   claim_id: 787f42e0-49f6-4aa4-9794-e5a43c68cd87
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-787f42e0-49f6-4aa4-9794-e5a43c68cd87
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-787f42e0-49f6-4aa4-9794-e5a43c68cd87
   copyright_status: publicly_accessible
 - text: Viewers took part in operations tracing fugitive criminals within the United
     States
@@ -575,7 +569,6 @@ references:
   claim_id: fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-fb0428b1-8f1e-42cd-99ff-4b4fb57af2d8
   copyright_status: publicly_accessible
 - text: 2017 CIA declassification released roughly 12 million pages of records
   source: 'How The CIA Spent Millions On Psychic Spies - PROJECT: STARGATE (Documentary
@@ -586,7 +579,6 @@ references:
   claim_id: bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-bd0a90a5-d5bb-420b-8c6c-5c5244b8aa69
   copyright_status: publicly_accessible
 - text: As of 2013, 99% of Fort Meade operational material remained undeclassified
   source: Remote Viewing Secrets

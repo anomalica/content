@@ -599,7 +599,6 @@ references:
   claim_id: 5a971661-10b4-47ae-916c-906ee8ade654
   record_hash: 7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a
   workbench_url: https://workbench.anomalica.is/7180fcb5127c761edd18177f3e18132e0e38af6a7e2fb279ccff499a#claim-5a971661-10b4-47ae-916c-906ee8ade654
-  inspection_url: /records/2024-10-02-video-horseshoe-uap-video-surfaces-debriefed-ep-08#claim-5a971661-10b4-47ae-916c-906ee8ade654
   copyright_status: publicly_accessible
 built_by:
   model: claude-sonnet-5

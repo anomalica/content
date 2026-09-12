@@ -311,7 +311,6 @@ references:
   claim_id: 9bf9feab-4dfe-4a49-8019-7a96400ec873
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-9bf9feab-4dfe-4a49-8019-7a96400ec873
   copyright_status: publicly_accessible
 - text: Elizondo resigned in October 2017, protesting excessive secrecy and internal
     opposition

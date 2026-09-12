@@ -148,7 +148,6 @@ references:
   claim_id: 968ad903-a5a6-4f76-b72b-808843a3d587
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-968ad903-a5a6-4f76-b72b-808843a3d587
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-968ad903-a5a6-4f76-b72b-808843a3d587
   copyright_status: publicly_accessible
 - text: Erik Nanstiel's account of a second, Nordic deal offered to Eisenhower
   source: '"Skinny Bob is Real" – Lifelong Abductee Reveals Everything - Erik Nanstiel
@@ -160,7 +159,6 @@ references:
   claim_id: 01402fd4-7b00-4818-b2a4-52d68fae58d2
   record_hash: f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c
   workbench_url: https://workbench.anomalica.is/f64f70bd2f82bddc453c0c0ecb5f3923dc71758c8182587687552d8c#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
-  inspection_url: /records/2026-04-24-video-skinny-bob-is-real-lifelong-abductee-reveals-everything#claim-01402fd4-7b00-4818-b2a4-52d68fae58d2
   copyright_status: publicly_accessible
 - text: 1984 microfilm mailed to Jaime Shandera appeared to be a top-secret memo to
     President-elect Eisenhower

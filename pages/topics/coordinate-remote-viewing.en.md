@@ -67,7 +67,6 @@ references:
   claim_id: 65fd1596-d4aa-4112-94f6-8e908d31221c
   record_hash: 784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf
   workbench_url: https://workbench.anomalica.is/784b2feffd5aaa03b664d35f587d270a0838d547916cde4c429670cf#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
-  inspection_url: /records/2023-08-02-video-how-the-cia-spent-millions-on-psychic-spies-project#claim-65fd1596-d4aa-4112-94f6-8e908d31221c
   copyright_status: publicly_accessible
 - text: CRV entails prompting the viewer with specific geographic coordinates for
     a target site
@@ -131,7 +130,6 @@ references:
   claim_id: 9c974499-911c-488e-bb66-fdb4c9977b25
   record_hash: 498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4
   workbench_url: https://workbench.anomalica.is/498d127aaf79401a8aaebe64c4f8488841a8123f9383c7cabd3adab4#claim-9c974499-911c-488e-bb66-fdb4c9977b25
-  inspection_url: /records/2013-03-22-ebook-remote-viewing-secrets#claim-9c974499-911c-488e-bb66-fdb4c9977b25
   copyright_status: restricted
 - text: Swann suggested using map coordinates to identify targets, giving rise to
     the coordinate system
