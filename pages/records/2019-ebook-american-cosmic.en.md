@@ -1,19 +1,37 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: American Cosmic
 description: American Cosmic is a 2019 source presenting D. W. Pasulka's six-year
   research into UFO cultures, contact experiences, religious interpretation and technology.
-noindex: true
-metadata:
-  medium: ebook
-  date: '2019'
-  publisher: Oxford University Press
 record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-source:
-  status: restricted
-  type: ebook
-  display: none
+metadata:
+  source_type: ebook
   publisher: Oxford University Press
-  date_published: '2019'
+  creators: &id001
+  - D.W. Pasulka
+  published_date: '2019'
+source:
+  source_type: ebook
+  publisher: Oxford University Press
+  creators: *id001
+  published_date: '2019'
+  capabilities:
+    source_body:
+      mode: none
+      reason: copyright
+    archived_original:
+      mode: none
+      reason: copyright
+    media:
+      mode: none
+      reason: copyright
+    provider_embed:
+      mode: none
+      reason: copyright
+    external_link:
+      mode: none
+      reason: unavailable
 references:
 - text: D. W. Pasulka conducted six years of research culminating in the events described
     in the source.
@@ -24,9 +42,7 @@ references:
   claim_id: 894af19d-386e-4b94-aebb-bc879bd566e0
   claim_fingerprint: 29fa34309f5acc229f0f8f65689fe87235f30abdd3a22f19ac7e075fa6668e32
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-894af19d-386e-4b94-aebb-bc879bd566e0
   inspection_url: /records/2019-ebook-american-cosmic#claim-894af19d-386e-4b94-aebb-bc879bd566e0
-  copyright_status: restricted
 - text: D. W. Pasulka conducted an ethnography of UFO believers and researched UFOs
     and ufology.
   source: American Cosmic (2019)
@@ -37,9 +53,7 @@ references:
   claim_id: 9d673ad9-e774-4b7d-8315-6daae823096a
   claim_fingerprint: e1ef0fde1b7d41b6b7a48557061354967842ec1cdf2d7cf2e0784f979e05997c
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-9d673ad9-e774-4b7d-8315-6daae823096a
   inspection_url: /records/2019-ebook-american-cosmic#claim-9d673ad9-e774-4b7d-8315-6daae823096a
-  copyright_status: restricted
 - text: D. W. Pasulka sees her task as documenting a new religious form rather than
     resolving the UFO phenomenon's ontology.
   source: American Cosmic (2019)
@@ -49,9 +63,7 @@ references:
   claim_id: 1a4621b0-5e29-4d24-832e-24fc214e2081
   claim_fingerprint: 99d1c758ce575590bce628a5d4bf5e99d13e1047d5fe118125c2fe6687b17285
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-1a4621b0-5e29-4d24-832e-24fc214e2081
   inspection_url: /records/2019-ebook-american-cosmic#claim-1a4621b0-5e29-4d24-832e-24fc214e2081
-  copyright_status: restricted
 - text: Jacques Vallee's approach addresses physical, testimonial and social aspects
     of the UFO phenomenon.
   source: American Cosmic (2019)
@@ -64,9 +76,7 @@ references:
   claim_id: 5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   claim_fingerprint: 99f2dab116c1c49789be4798b630325045faa049ae7101dbabf0c62a266dea26
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
   inspection_url: /records/2019-ebook-american-cosmic#claim-5d6c3c4d-d6e9-4e4d-bd8b-1508ae19696e
-  copyright_status: restricted
 - text: D. W. Pasulka, Tyler D. and James Master travelled together to a site in New
     Mexico.
   source: American Cosmic (2019)
@@ -75,9 +85,7 @@ references:
   claim_id: 6d41abee-9086-4e14-9672-dd03d425a097
   claim_fingerprint: 396de94059de69443c8f60e87acda33040b06bbb6cd5267267a27d5ae64301d7
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-6d41abee-9086-4e14-9672-dd03d425a097
   inspection_url: /records/2019-ebook-american-cosmic#claim-6d41abee-9086-4e14-9672-dd03d425a097
-  copyright_status: restricted
 - text: The group found a small metallic object identified as an artifact by a metal
     detector.
   source: American Cosmic (2019)
@@ -87,9 +95,7 @@ references:
   claim_id: e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
   claim_fingerprint: b1fd562a5da23dc0150cc54a931bf404f0cf9ed3fac5a5217af3b941a328d57b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
   inspection_url: /records/2019-ebook-american-cosmic#claim-e9bf50b4-10f5-4dfb-86e7-242a4ec94bc1
-  copyright_status: restricted
 - text: Research scientists who analysed the artifact concluded that it was so anomalous
     as to be incomprehensible.
   source: American Cosmic (2019)
@@ -99,9 +105,7 @@ references:
   claim_id: faefe3eb-0e92-46ad-945d-92495f84366e
   claim_fingerprint: c946a90ea2568be63db8ab11e49b2d38741e3f73529a187d41e2fde72124905b
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-faefe3eb-0e92-46ad-945d-92495f84366e
   inspection_url: /records/2019-ebook-american-cosmic#claim-faefe3eb-0e92-46ad-945d-92495f84366e
-  copyright_status: restricted
 - text: Jacques Vallee advocates discarding the dichotomy between physical and spiritual
     reality.
   source: American Cosmic (2019)
@@ -111,9 +115,7 @@ references:
   claim_id: a5fe650a-0258-4052-81d8-c3e8dd26c881
   claim_fingerprint: d147eb88186753929dbe8cbc87700cf9d85b09f6c0c78a881f7488f46d6546e8
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-a5fe650a-0258-4052-81d8-c3e8dd26c881
   inspection_url: /records/2019-ebook-american-cosmic#claim-a5fe650a-0258-4052-81d8-c3e8dd26c881
-  copyright_status: restricted
 - text: D. W. Pasulka visited the Vatican Secret Archives and Vatican Observatory
     in Castel Gandolfo.
   source: American Cosmic (2019)
@@ -124,9 +126,7 @@ references:
   claim_id: 215b546c-741d-41ce-8e16-d292c855d556
   claim_fingerprint: 7849dbb73576c03bac2f56bb88bf6c5e72ee06f4d1d0327cf1d5dffa06089ae1
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-215b546c-741d-41ce-8e16-d292c855d556
   inspection_url: /records/2019-ebook-american-cosmic#claim-215b546c-741d-41ce-8e16-d292c855d556
-  copyright_status: restricted
 - text: Tyler D. experienced a profound religious conversion during the trip to Rome.
   source: American Cosmic (2019)
   location: ch7:1519-1588
@@ -134,9 +134,7 @@ references:
   claim_id: bea4fae2-efb1-4ca4-95a2-ec29504d60c0
   claim_fingerprint: 87f3e6b929557157ab81c9177291b2475286feaa95f2d0baf067359bbfa5dc34
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-bea4fae2-efb1-4ca4-95a2-ec29504d60c0
   inspection_url: /records/2019-ebook-american-cosmic#claim-bea4fae2-efb1-4ca4-95a2-ec29504d60c0
-  copyright_status: restricted
 - text: D. W. Pasulka argues that belief in extraterrestrials and UFOs constitutes
     a new form of religion.
   source: American Cosmic (2019)
@@ -146,9 +144,7 @@ references:
   claim_id: b0941270-424f-442d-817f-42d7ae2798b6
   claim_fingerprint: 176e799fb72dfc925e73a5fdd90f328ac9b07bdbe2faf8fac804df37d5eebea9
   record_hash: ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b
-  workbench_url: https://workbench.anomalica.is/ec9d259cf5f95bb3b18358179cff91b26d47dbb7cd34de2c1e1dde3b#claim-b0941270-424f-442d-817f-42d7ae2798b6
   inspection_url: /records/2019-ebook-american-cosmic#claim-b0941270-424f-442d-817f-42d7ae2798b6
-  copyright_status: restricted
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

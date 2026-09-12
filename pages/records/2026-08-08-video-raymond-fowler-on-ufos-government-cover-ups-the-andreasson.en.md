@@ -1,20 +1,36 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
   Interview, 1987)
 description: A 1987 interview in which Raymond Fowler discusses his background, UFO
   investigations, alleged government secrecy, reported physical evidence, crash retrieval
   claims and the Betty Andreasson abduction.
-noindex: true
-metadata:
-  medium: video
-  duration: '55:19'
 record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-source:
-  status: publicly_accessible
-  type: video
-  display: embed
-  url: https://www.youtube.com/watch?v=eIx6NytOGTs
+metadata:
+  source_type: video
   duration: 3319.11
+source:
+  source_type: video
+  duration: 3319.11
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: copyright
+    media:
+      mode: none
+      reason: copyright
+    provider_embed:
+      mode: embed
+      reason: allowed
+      url: https://www.youtube.com/watch?v=eIx6NytOGTs
+    external_link:
+      mode: link
+      reason: allowed
+      url: https://www.youtube.com/watch?v=eIx6NytOGTs
 references:
 - text: Fowler describes 25 years working for GTE Sylvania divisions, usually on contract
     to the United States Air Force.
@@ -28,9 +44,7 @@ references:
   claim_id: f57a3f67-e984-4c89-89c9-c1f2e00c748a
   claim_fingerprint: f6d1670376523ce80499a24bc2ee23c6a470940932bb87b9e3b37e2fba752ebd
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-f57a3f67-e984-4c89-89c9-c1f2e00c748a
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-f57a3f67-e984-4c89-89c9-c1f2e00c748a
-  copyright_status: publicly_accessible
 - text: Fowler says he served as early warning coordinator for the Condon Committee.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -40,9 +54,7 @@ references:
   claim_id: 63781644-d1a8-4c62-8c41-a4990251dc96
   claim_fingerprint: 949b49e6a57a90e92c136872c90e64a1afd137f7184e9f7471c18bf72aa0b396
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-63781644-d1a8-4c62-8c41-a4990251dc96
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-63781644-d1a8-4c62-8c41-a4990251dc96
-  copyright_status: publicly_accessible
 - text: Fowler dates the initiation of Project Sign to January 1948.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
     Interview, 1987)
@@ -51,9 +63,7 @@ references:
   claim_id: 2a23664b-8541-47a1-8dcf-ab5a77e6f7aa
   claim_fingerprint: 2a324f8d042e56e8351d3d2d2403fff11854beb0ab4cbbb3b97da011ebed683e
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-2a23664b-8541-47a1-8dcf-ab5a77e6f7aa
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-2a23664b-8541-47a1-8dcf-ab5a77e6f7aa
-  copyright_status: publicly_accessible
 - text: Fowler says Project Grudge continued covertly until March 1952 while the public
     was told Project Sign had closed.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -64,9 +74,7 @@ references:
   claim_id: 8b00ba96-0c3d-431d-882b-0c10195db4d4
   claim_fingerprint: f39af9da24decb587e804ac4194247a61d8aeec8c63852befd4a85a21b885c27
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-8b00ba96-0c3d-431d-882b-0c10195db4d4
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-8b00ba96-0c3d-431d-882b-0c10195db4d4
-  copyright_status: publicly_accessible
 - text: Fowler says Project Blue Book regulations restricted public disclosure to
     identified cases.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -79,9 +87,7 @@ references:
   claim_id: 8f62b08f-c29e-40be-911b-9c1d5e522424
   claim_fingerprint: b27549c15879f53e6987501c1bbeaa36f96ff46d4b608f7565246b9950e18721
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-8f62b08f-c29e-40be-911b-9c1d5e522424
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-8f62b08f-c29e-40be-911b-9c1d5e522424
-  copyright_status: publicly_accessible
 - text: Fowler discusses the difficulty of obtaining classified material through the
     Freedom of Information Act.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -93,9 +99,7 @@ references:
   claim_id: 189ab2dd-f4ea-44c2-9371-58c6e52df178
   claim_fingerprint: 899cfdd95c18f92b8f9a5c139e6b53cfe5a49b7abdd5372b8408858c2b12fe26
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-189ab2dd-f4ea-44c2-9371-58c6e52df178
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-189ab2dd-f4ea-44c2-9371-58c6e52df178
-  copyright_status: publicly_accessible
 - text: Fowler says the National Security Agency acknowledged holding hundreds of
     UFO-related documents.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -106,9 +110,7 @@ references:
   claim_id: 0679ebe8-bd3f-4140-b1bc-f764d0e94558
   claim_fingerprint: bd4dd0a2d3e1061cf1b1fe48d02bad109faba273fa840d3b21452ec4cdb6159b
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-0679ebe8-bd3f-4140-b1bc-f764d0e94558
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-0679ebe8-bd3f-4140-b1bc-f764d0e94558
-  copyright_status: publicly_accessible
 - text: Fowler reports documents describing UFO landings at Kirtland Air Force Base
     and RAF Woodbridge.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -121,9 +123,7 @@ references:
   claim_id: 55dc8d72-75fc-4dfa-b3b9-83598f90be07
   claim_fingerprint: 3cf9380e617de5471e50f9ef8dbce9c5972dddb14a0b86a6d7589cf0bdf68e9e
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-55dc8d72-75fc-4dfa-b3b9-83598f90be07
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-55dc8d72-75fc-4dfa-b3b9-83598f90be07
-  copyright_status: publicly_accessible
 - text: Fowler classifies the Betty Andreasson case as a close encounter of the third
     kind, Type G.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -134,9 +134,7 @@ references:
   claim_id: 387fe492-d4a0-46e9-845b-8a7426713863
   claim_fingerprint: 15b258b366965961f879d50068f02369a99c7eea970bb77a5475e7df8670dbe3
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-387fe492-d4a0-46e9-845b-8a7426713863
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-387fe492-d4a0-46e9-845b-8a7426713863
-  copyright_status: publicly_accessible
 - text: Fowler describes the alleged abduction of Betty Andreasson from her home on
     1967-01-25.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -147,9 +145,7 @@ references:
   claim_id: 5e99efa5-053d-4810-a5de-2c8a7e8b9012
   claim_fingerprint: 08ce15d880f99ce02192f79519d25cbc378d5a08b65fb36b5b3ee479471bc913
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-5e99efa5-053d-4810-a5de-2c8a7e8b9012
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-5e99efa5-053d-4810-a5de-2c8a7e8b9012
-  copyright_status: publicly_accessible
 - text: Fowler says Betty Andreasson underwent a physical examination during the reported
     incident.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -159,9 +155,7 @@ references:
   claim_id: 7ded151a-b5e5-4a75-99bc-b0d556575668
   claim_fingerprint: 5ff5298dcefce6ccbe254f6e02711cf22469dd4a1ee52c7a638e0f67c7cd1d02
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-7ded151a-b5e5-4a75-99bc-b0d556575668
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-7ded151a-b5e5-4a75-99bc-b0d556575668
-  copyright_status: publicly_accessible
 - text: Fowler says the reported abduction experiences were not known to be factual,
     although he did not consider them hoaxes.
   source: Raymond Fowler on UFOs, Government Cover-Ups & the Andreasson Affair (Full
@@ -173,9 +167,7 @@ references:
   claim_id: 9b810ea1-fce9-4eae-970d-22cded84dd3b
   claim_fingerprint: 90ee7cdd01217a90847480453c69d6817646f764b8a27580b2d78eeec6a490b8
   record_hash: c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac
-  workbench_url: https://workbench.anomalica.is/c37a1f6968db0d7817235b1cb192758a04a3e990d89029bc48ff3fac#claim-9b810ea1-fce9-4eae-970d-22cded84dd3b
   inspection_url: /records/2026-08-08-video-raymond-fowler-on-ufos-government-cover-ups-the-andreasson#claim-9b810ea1-fce9-4eae-970d-22cded84dd3b
-  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

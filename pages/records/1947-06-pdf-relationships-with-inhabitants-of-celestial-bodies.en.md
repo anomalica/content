@@ -1,19 +1,39 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Relationships with Inhabitants of Celestial Bodies
 description: A June 1947 document presenting views attributed to J. Robert Oppenheimer
   and Albert Einstein on the legal, political and security implications of relationships
   between humanity and inhabitants of other celestial bodies.
-noindex: true
-metadata:
-  medium: pdf
-  date: 1947-06
-  publisher: J. Robert Oppenheimer
 record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
+metadata:
+  source_type: pdf
+  creators: &id001
+  - J. Robert Oppenheimer
+  - Albert Einstein
+  published_date: 1947-06
+  pages: 6
 source:
-  status: publicly_accessible
-  type: pdf
-  display: link
-  date_published: 1947-06
+  source_type: pdf
+  creators: *id001
+  published_date: 1947-06
+  pages: 6
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: copyright
+    media:
+      mode: none
+      reason: copyright
+    provider_embed:
+      mode: none
+      reason: unavailable
+    external_link:
+      mode: none
+      reason: unavailable
 references:
 - text: Oppenheimer and Einstein considered relations with extraterrestrial men to
     pose no fundamentally new problem for international law.
@@ -24,9 +44,7 @@ references:
   claim_id: e13d5a03-a2bc-44a7-aa56-6808be2fc1e7
   claim_fingerprint: df9b209f370aeab9af2ee8d5eba10b535c292d01f997e3fab4b57b29849e1575
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-e13d5a03-a2bc-44a7-aa56-6808be2fc1e7
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-e13d5a03-a2bc-44a7-aa56-6808be2fc1e7
-  copyright_status: publicly_accessible
 - text: They considered contact with intelligent non-human beings difficult to address.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:364-509
@@ -35,9 +53,7 @@ references:
   claim_id: b10c9097-43c5-4304-b44c-38198a612b8b
   claim_fingerprint: e7b4a604fc52e1956d0460800330d8f4e0347c6bfe87109e0e557ae95f2a61e4
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-b10c9097-43c5-4304-b44c-38198a612b8b
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-b10c9097-43c5-4304-b44c-38198a612b8b
-  copyright_status: publicly_accessible
 - text: They distinguished the possibility of understanding extraterrestrial beings
     from the difficulty of establishing governing principles.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -49,9 +65,7 @@ references:
   claim_id: 46baedc3-4a0c-42ba-8bd6-151f29d3583d
   claim_fingerprint: 23bcfe5dad67e63a7146dda6f85ee9a435190268d45cb6b6cddb5c59ce6de1d2
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-46baedc3-4a0c-42ba-8bd6-151f29d3583d
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-46baedc3-4a0c-42ba-8bd6-151f29d3583d
-  copyright_status: publicly_accessible
 - text: They proposed language and a sufficiently similar psychology as conditions
     for communication.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -62,9 +76,7 @@ references:
   claim_id: ed180747-a595-48d1-a0f2-df0827623087
   claim_fingerprint: 165289a4cb56fbc51d763bdbbd7056a887b89afa4ea026f53ffe3ab466543843
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-ed180747-a595-48d1-a0f2-df0827623087
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-ed180747-a595-48d1-a0f2-df0827623087
-  copyright_status: publicly_accessible
 - text: They proposed a new law called Law Among Planetary Peoples.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:1023-1187
@@ -74,9 +86,7 @@ references:
   claim_id: 951e710f-c7b0-43c8-aa0c-e927bbbed518
   claim_fingerprint: cfdfc432e1c22a647591f042db441b33e2ef5dc3885748150dd3a184afd7c793
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-951e710f-c7b0-43c8-aa0c-e927bbbed518
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-951e710f-c7b0-43c8-aa0c-e927bbbed518
-  copyright_status: publicly_accessible
 - text: They argued that culturally and politically organised extraterrestrial beings
     would have a right to recognition as sovereign peoples.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -87,9 +97,7 @@ references:
   claim_id: 4a5267fb-03e2-437a-9e53-8feb20d1b885
   claim_fingerprint: d8d386c97c47b89fcb168ef2322be7009ab1dff8bfc2721955c9de165333ac77
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-4a5267fb-03e2-437a-9e53-8feb20d1b885
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-4a5267fb-03e2-437a-9e53-8feb20d1b885
-  copyright_status: publicly_accessible
 - text: They allowed for a limited right of legitimate defence against an imminent
     extraterrestrial threat.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -100,9 +108,7 @@ references:
   claim_id: 993b84eb-eb81-4920-95ad-eaa489f26c9e
   claim_fingerprint: 99a753803444535310e3475b69cd76ea1badbe419ee63b3d3786695ca8b27985
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-993b84eb-eb81-4920-95ad-eaa489f26c9e
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-993b84eb-eb81-4920-95ad-eaa489f26c9e
-  copyright_status: publicly_accessible
 - text: They discussed conditions for independent settlement on the moon or Mars.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:2634-2812
@@ -112,9 +118,7 @@ references:
   claim_id: af83eb16-1d91-42c0-bd7c-4a6e7d5e1f13
   claim_fingerprint: 93e07bd8add0bec648a15a30ee011e9807254ece416356ccf859b7e68f3b3361
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-af83eb16-1d91-42c0-bd7c-4a6e7d5e1f13
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-af83eb16-1d91-42c0-bd7c-4a6e7d5e1f13
-  copyright_status: publicly_accessible
 - text: They used the term extraterrestrial biological entities for inhabitants of
     celestial bodies in a settlement scenario.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -125,9 +129,7 @@ references:
   claim_id: 90d7a6ae-6d0a-4d8c-bf2a-c2d13a3f1370
   claim_fingerprint: 95a739ddc042b9bb98ca0d809073d5127b00a773579351aa8eb9efb4900696bc
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-90d7a6ae-6d0a-4d8c-bf2a-c2d13a3f1370
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-90d7a6ae-6d0a-4d8c-bf2a-c2d13a3f1370
-  copyright_status: publicly_accessible
 - text: They proposed that the United Nations might tacitly approve a form of tutelage.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:4531-4672
@@ -136,9 +138,7 @@ references:
   claim_id: 8fb1b337-1197-473a-b3d5-9a1f0e16daac
   claim_fingerprint: 9eb68af62f7454f04760ad9b17250e18e056e4f595c24bf6d74ba0651b87824c
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-8fb1b337-1197-473a-b3d5-9a1f0e16daac
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-8fb1b337-1197-473a-b3d5-9a1f0e16daac
-  copyright_status: publicly_accessible
 - text: They argued that the United Nations would not automatically possess authority
     over humanity.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -149,9 +149,7 @@ references:
   claim_id: 69fd61f5-cd54-41b1-8ae4-cd91137a3857
   claim_fingerprint: 5dd89e11e3713c6a539e83606e09905ad2009aea8a3814984f75b172d0d8ee9a
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-69fd61f5-cd54-41b1-8ae4-cd91137a3857
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-69fd61f5-cd54-41b1-8ae4-cd91137a3857
-  copyright_status: publicly_accessible
 - text: They described res nullius as territory belonging to nobody.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:8250-8419
@@ -161,9 +159,7 @@ references:
   claim_id: e73db489-e856-4738-81ff-b049ca277be2
   claim_fingerprint: 8a34969dafa1a7e5cf0bac00622406ab1d9683adfdb85fcce5154db77e6110ad
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-e73db489-e856-4738-81ff-b049ca277be2
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-e73db489-e856-4738-81ff-b049ca277be2
-  copyright_status: publicly_accessible
 - text: They proposed that an inhabited celestial body would instead be res communis.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:8428-8800
@@ -175,9 +171,7 @@ references:
   claim_id: ed6a3eb3-6e4e-4949-b628-74f924c5a906
   claim_fingerprint: 891427bef2717c1bf93f012767cdcf603da353c2eea01b0bb2077f89718bf269
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-ed6a3eb3-6e4e-4949-b628-74f924c5a906
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-ed6a3eb3-6e4e-4949-b628-74f924c5a906
-  copyright_status: publicly_accessible
 - text: They stated that the US military accepted unidentified spacecraft in Earth's
     atmosphere as a de facto presence.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -188,9 +182,7 @@ references:
   claim_id: 88c8fa8f-54da-42ec-ae38-030de8a4d4f3
   claim_fingerprint: 43bf1b52a9a726eec9494b4f2f8fcdedbc265f0203f1bc07b38a145c0c82b626
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-88c8fa8f-54da-42ec-ae38-030de8a4d4f3
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-88c8fa8f-54da-42ec-ae38-030de8a4d4f3
-  copyright_status: publicly_accessible
 - text: They connected unidentified space vehicles with security anxiety among major
     powers.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -204,9 +196,7 @@ references:
   claim_id: 852024f3-eed3-477d-afde-6a89b002c11f
   claim_fingerprint: 314b3d18488715ee2203eacc33bac31d9ed3c866d262566c2cec62700e5df876
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-852024f3-eed3-477d-afde-6a89b002c11f
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-852024f3-eed3-477d-afde-6a89b002c11f
-  copyright_status: publicly_accessible
 - text: They warned that misidentifying an unidentified spacecraft as a missile could
     lead to accidental nuclear war.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -217,9 +207,7 @@ references:
   claim_id: f6b5362d-bbbb-4179-aea5-6acfdc46b011
   claim_fingerprint: 2c9d04e68ef3c90580272bc5a2cbf5446ad98ad90ca860be0d6f34c93477c13a
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-f6b5362d-bbbb-4179-aea5-6acfdc46b011
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-f6b5362d-bbbb-4179-aea5-6acfdc46b011
-  copyright_status: publicly_accessible
 - text: They concluded that the situation concerning celestial spacecraft was extremely
     perilous.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -230,9 +218,7 @@ references:
   claim_id: a37f570d-adbc-4d7d-bb9f-2f6f206e1ade
   claim_fingerprint: ccd477f4501cb0b1e04f7574bbc3e3aac16d8daa8b0f159efce9d037a6ccb78b
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-a37f570d-adbc-4d7d-bb9f-2f6f206e1ade
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-a37f570d-adbc-4d7d-bb9f-2f6f206e1ade
-  copyright_status: publicly_accessible
 - text: Oppenheimer was identified as Director of Advanced Studies, based in Princeton,
     New Jersey.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -242,9 +228,7 @@ references:
   claim_id: 83bc5b13-e3eb-4893-a351-6521f181d563
   claim_fingerprint: 03d4e5f36032f028665fc7e7fca86d31c6a04a8ce9a9e8f8b4d18198cc6f0642
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-83bc5b13-e3eb-4893-a351-6521f181d563
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-83bc5b13-e3eb-4893-a351-6521f181d563
-  copyright_status: publicly_accessible
 - text: Einstein was identified as Professor, based in Princeton, New Jersey.
   source: Relationships with Inhabitants of Celestial Bodies
   location: char:12052-12094
@@ -252,9 +236,7 @@ references:
   claim_id: ff58e06b-590e-45a1-8c7a-4bfb420bcf84
   claim_fingerprint: d4edceab5d509f775f37cced60c68e2b8507fb9b99a9ddd6c8fee46360d2cc4c
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-ff58e06b-590e-45a1-8c7a-4bfb420bcf84
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-ff58e06b-590e-45a1-8c7a-4bfb420bcf84
-  copyright_status: publicly_accessible
 - text: An unnamed annotator understood that Oppenheimer approached George Marshall
     about discussing the document with the President, but that Marshall rebuffed the
     idea.
@@ -266,9 +248,7 @@ references:
   claim_id: 531f746a-35bf-44a9-95da-b66b81375599
   claim_fingerprint: 5696701daec5043123ea191a69e8ed05240d4cc2e609c2f15fe33c82b1a039a4
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-531f746a-35bf-44a9-95da-b66b81375599
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-531f746a-35bf-44a9-95da-b66b81375599
-  copyright_status: publicly_accessible
 - text: An unnamed annotator wrote that Gordon agreed the President was unlikely to
     consider the document.
   source: Relationships with Inhabitants of Celestial Bodies
@@ -277,9 +257,7 @@ references:
   claim_id: 56ffdf06-79a4-4ffc-8b89-ab5c2c254997
   claim_fingerprint: 724a2f303aeb26fadec405b13df1fd2078c80f8152bfadf06f37cbe639ab8665
   record_hash: d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43
-  workbench_url: https://workbench.anomalica.is/d350756c74bd818d745fdb0a21a892ba1e5d9a7118971a4690f70e43#claim-56ffdf06-79a4-4ffc-8b89-ab5c2c254997
   inspection_url: /records/1947-06-pdf-relationships-with-inhabitants-of-celestial-bodies#claim-56ffdf06-79a4-4ffc-8b89-ab5c2c254997
-  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

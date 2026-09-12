@@ -1,17 +1,39 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Statement to Congress
 description: Statement to Congress is a congressional source in which George Knapp
   describes his investigation of UFO reports, Russian military studies and United
   States government programmes concerned with anomalous aerospace phenomena.
-noindex: true
-metadata:
-  medium: pdf
 record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
+metadata:
+  source_type: pdf
+  document_type: statement
+  creators: &id001
+  - George Knapp
+  pages: 4
 source:
-  status: public_domain
-  type: pdf
-  display: text
-  url: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
+  source_type: pdf
+  document_type: statement
+  creators: *id001
+  pages: 4
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: unavailable
+    media:
+      mode: none
+      reason: unavailable
+    provider_embed:
+      mode: none
+      reason: unsupported
+    external_link:
+      mode: link
+      reason: allowed
+      url: http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-20230726-SD004.pdf
 references:
 - text: George Knapp said his interest in UFO secrecy began in 1987.
   source: Statement to Congress
@@ -20,9 +42,7 @@ references:
   claim_id: c6e5470a-3fc4-4d06-9140-cdd9e7c70023
   claim_fingerprint: b4fb1e91688326b28295e83c129a75f163c5f1b6ab82d72024f40dadc4f0b4b1
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-c6e5470a-3fc4-4d06-9140-cdd9e7c70023
   inspection_url: /records/undated-pdf-statement-to-congress#claim-c6e5470a-3fc4-4d06-9140-cdd9e7c70023
-  copyright_status: public_domain
 - text: George Knapp said he had written hundreds of UFO-related news stories and
     series.
   source: Statement to Congress
@@ -31,9 +51,7 @@ references:
   claim_id: f6e9656c-8aaf-4896-98eb-8034fcf02131
   claim_fingerprint: 258ca828f670c08730cdaf7a2bdc50e91b97e8c653ddc5d5edb7414863f80243
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-f6e9656c-8aaf-4896-98eb-8034fcf02131
   inspection_url: /records/undated-pdf-statement-to-congress#claim-f6e9656c-8aaf-4896-98eb-8034fcf02131
-  copyright_status: public_domain
 - text: George Knapp said the United States military's official position since 1969
     was that UFOs posed no national-security threat and did not merit further study.
   source: Statement to Congress
@@ -43,9 +61,7 @@ references:
   claim_id: da239490-20b5-4903-b1f9-132aa01d680d
   claim_fingerprint: f534818ba2c39480efa5fb365d95be1c2d31d113689af94d6ca2038079fb8494
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-da239490-20b5-4903-b1f9-132aa01d680d
   inspection_url: /records/undated-pdf-statement-to-congress#claim-da239490-20b5-4903-b1f9-132aa01d680d
-  copyright_status: public_domain
 - text: George Knapp said Freedom of Information Act documents showed that senior
     military officers regarded the UFO mystery as serious.
   source: Statement to Congress
@@ -55,9 +71,7 @@ references:
   claim_id: 19372698-a524-4f57-90c5-634deae2daf5
   claim_fingerprint: 78232a0199166b930428b9a9e45d0684b6e91d0acd0346c947b13969d139fdb1
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-19372698-a524-4f57-90c5-634deae2daf5
   inspection_url: /records/undated-pdf-statement-to-congress#claim-19372698-a524-4f57-90c5-634deae2daf5
-  copyright_status: public_domain
 - text: George Knapp said he first told Harry Reid about crashed-saucer accounts in
     1989.
   source: Statement to Congress
@@ -67,9 +81,7 @@ references:
   claim_id: 5f5fac46-542d-455f-81e8-65dd77fa2e77
   claim_fingerprint: 392d4bf13949e11fdb9efa0ad74936fa85dae0d1c3d5e942d42fa58a8ba6b196
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5f5fac46-542d-455f-81e8-65dd77fa2e77
-  copyright_status: public_domain
 - text: George Knapp said Robert Bigelow created the National Institute for Discovery
     Science in 1996.
   source: Statement to Congress
@@ -79,9 +91,7 @@ references:
   claim_id: 5aed1c88-2c4a-4001-bd78-15d158e22b9f
   claim_fingerprint: 53d2739945044452928189bf5f9c1502e6bb6eb50b6d368290499f4179bee5e1
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
   inspection_url: /records/undated-pdf-statement-to-congress#claim-5aed1c88-2c4a-4001-bd78-15d158e22b9f
-  copyright_status: public_domain
 - text: George Knapp said he travelled to Moscow in spring 1993 and interviewed more
     than a dozen officials, operatives and scientists.
   source: Statement to Congress
@@ -93,9 +103,7 @@ references:
   claim_id: 513bfbfe-de67-4234-abcf-ac1c09bb60e2
   claim_fingerprint: 4e4de0ce82eaba888732cd91b6d23b100e67738e4f982accfcd1a2a7f7a2511b
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-513bfbfe-de67-4234-abcf-ac1c09bb60e2
   inspection_url: /records/undated-pdf-statement-to-congress#claim-513bfbfe-de67-4234-abcf-ac1c09bb60e2
-  copyright_status: public_domain
 - text: George Knapp said the Russian military investigation was directed by Colonel
     Boris Sokolov.
   source: Statement to Congress
@@ -105,9 +113,7 @@ references:
   claim_id: 79d06602-1986-4a68-b5e2-b83be4c094dd
   claim_fingerprint: c1f629b3a6ea561f8f68786008d42be659aaa6efbfb0973bbf8c99c74646a390
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-79d06602-1986-4a68-b5e2-b83be4c094dd
   inspection_url: /records/undated-pdf-statement-to-congress#claim-79d06602-1986-4a68-b5e2-b83be4c094dd
-  copyright_status: public_domain
 - text: George Knapp said Boris Sokolov described 45 incidents involving Russian warplanes
     and UFOs.
   source: Statement to Congress
@@ -117,9 +123,7 @@ references:
   claim_id: 72d91abf-de74-4b17-9c8e-806622d00dd3
   claim_fingerprint: f116bde5e77b196e8f27648c4db56f991c652af5737b272701ec40aa2e471a42
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-72d91abf-de74-4b17-9c8e-806622d00dd3
   inspection_url: /records/undated-pdf-statement-to-congress#claim-72d91abf-de74-4b17-9c8e-806622d00dd3
-  copyright_status: public_domain
 - text: George Knapp said AATIP was launched from OUSDI and managed by Lue Elizondo.
   source: Statement to Congress
   location: char:8712-8867
@@ -129,9 +133,7 @@ references:
   claim_id: b267f3e4-23d0-47f8-8216-4eb4b65bc161
   claim_fingerprint: 283e6f591fe84ae1edae2e24aa2c07db319ba8db34fcd1712f640d2058c54bfc
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
   inspection_url: /records/undated-pdf-statement-to-congress#claim-b267f3e4-23d0-47f8-8216-4eb4b65bc161
-  copyright_status: public_domain
 - text: George Knapp said the AAWSAP contract was awarded to a subsidiary of Bigelow
     Aerospace.
   source: Statement to Congress
@@ -141,9 +143,7 @@ references:
   claim_id: d314c627-a752-43d3-a286-835241ddff40
   claim_fingerprint: 727108a37cccfe4b1fd281694d5ae85f984e8b75a36f67484c512025de323437
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-d314c627-a752-43d3-a286-835241ddff40
   inspection_url: /records/undated-pdf-statement-to-congress#claim-d314c627-a752-43d3-a286-835241ddff40
-  copyright_status: public_domain
 - text: George Knapp said AAWSAP catalogued more than 200,000 cases.
   source: Statement to Congress
   location: char:10526-10655
@@ -152,9 +152,7 @@ references:
   claim_id: 0accc97a-0032-4d29-910c-9fa78781603a
   claim_fingerprint: 5897a05429494ef38e1c58452f7f38f67271d155c6df3f16e9a3e97f9fafe312
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-0accc97a-0032-4d29-910c-9fa78781603a
   inspection_url: /records/undated-pdf-statement-to-congress#claim-0accc97a-0032-4d29-910c-9fa78781603a
-  copyright_status: public_domain
 - text: George Knapp said the first case investigated by AAWSAP was the 2004 USS Nimitz
     Tic Tac UAP incident.
   source: Statement to Congress
@@ -164,9 +162,7 @@ references:
   claim_id: 65d88cba-4964-4404-8317-4d894accebdf
   claim_fingerprint: 8275c3e9dfda9b874081484f9775caf16ea80e6419342496ba392001f5cdcf6b
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-65d88cba-4964-4404-8317-4d894accebdf
   inspection_url: /records/undated-pdf-statement-to-congress#claim-65d88cba-4964-4404-8317-4d894accebdf
-  copyright_status: public_domain
 - text: George Knapp said AAWSAP lasted 27 months rather than the five years planned
     by DIA.
   source: Statement to Congress
@@ -176,9 +172,7 @@ references:
   claim_id: 436e3cff-0ec4-447f-9ab6-ac40c8481c55
   claim_fingerprint: be728490f20f2b56ea5c350edc64e370e69cdef5764a2ffbc2476b98751e6701
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
   inspection_url: /records/undated-pdf-statement-to-congress#claim-436e3cff-0ec4-447f-9ab6-ac40c8481c55
-  copyright_status: public_domain
 - text: George Knapp said AATIP was created from the remnants of AAWSAP.
   source: Statement to Congress
   location: char:13090-13137
@@ -186,9 +180,7 @@ references:
   claim_id: 39f3502f-9fd9-4e8c-a87c-9db4afeb82a1
   claim_fingerprint: f19c40a417c06fdb8953cd72daa445212af167bda9c3d65a952c52ce25baf41a
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-39f3502f-9fd9-4e8c-a87c-9db4afeb82a1
   inspection_url: /records/undated-pdf-statement-to-congress#claim-39f3502f-9fd9-4e8c-a87c-9db4afeb82a1
-  copyright_status: public_domain
 - text: George Knapp said Elizondo's public exposure of AATIP contributed to the creation
     of the UAP Task Force and AARO.
   source: Statement to Congress
@@ -198,9 +190,7 @@ references:
   claim_id: 2c6d675d-7607-4b7b-a081-8af471fcda73
   claim_fingerprint: 291984b97f40960a8cb2f7ac7cccd8d434e9635bd92b13213b13bd63be88b36b
   record_hash: 4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f
-  workbench_url: https://workbench.anomalica.is/4a716ca59d59506698f169478b0104cb63237c855c142e7be8c75a5f#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
   inspection_url: /records/undated-pdf-statement-to-congress#claim-2c6d675d-7607-4b7b-a081-8af471fcda73
-  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

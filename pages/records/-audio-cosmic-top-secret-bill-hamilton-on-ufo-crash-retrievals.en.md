@@ -1,20 +1,36 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
   Being Tested'
 description: A recorded interview in which William F. Hamilton discusses alleged UFO
   crash retrievals, the study of recovered technology, reports from secret installations,
   and the 1988 Tehachapi encounter.
-noindex: true
-metadata:
-  medium: video
-  duration: '14:19'
 record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-source:
-  status: publicly_accessible
-  type: video
-  display: embed
-  url: https://www.youtube.com/watch?v=0DS5aPfuwiM
+metadata:
+  source_type: video
   duration: 859.39
+source:
+  source_type: video
+  duration: 859.39
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: copyright
+    media:
+      mode: none
+      reason: copyright
+    provider_embed:
+      mode: embed
+      reason: allowed
+      url: https://www.youtube.com/watch?v=0DS5aPfuwiM
+    external_link:
+      mode: link
+      reason: allowed
+      url: https://www.youtube.com/watch?v=0DS5aPfuwiM
 references:
 - text: Hamilton described tracing alleged government crash-retrieval operations from
     the 1947 Roswell incident to the present.
@@ -27,9 +43,7 @@ references:
   claim_id: 13591652-13b9-41f6-8df5-02b32e07cd51
   claim_fingerprint: 54365702de15b525008b6bd863f74097183e2fce463d9d36d17668e1f9101c23
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-13591652-13b9-41f6-8df5-02b32e07cd51
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-13591652-13b9-41f6-8df5-02b32e07cd51
-  copyright_status: publicly_accessible
 - text: Hamilton said recovered spacecraft and bodies were scientifically and technologically
     studied at Wright-Patterson Air Force Base.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -42,9 +56,7 @@ references:
   claim_id: 8a287f22-87fc-4ace-b582-f34adc292142
   claim_fingerprint: ce5543f7a6b3c6502829942afcdd99a2155e8062fd8234234fd196c634afe7e5
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-8a287f22-87fc-4ace-b582-f34adc292142
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-8a287f22-87fc-4ace-b582-f34adc292142
-  copyright_status: publicly_accessible
 - text: Hamilton believed knowledge from recovered technology was being used by scientific
     agencies and aerospace industries.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -55,9 +67,7 @@ references:
   claim_id: 1468a87c-bcdf-4bbc-b187-3f698c4eb878
   claim_fingerprint: e8e048c941326c4ee8d25c0ca6a3a07d16cb0ce4bbb31b5de9eb36319bd543e1
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-1468a87c-bcdf-4bbc-b187-3f698c4eb878
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-1468a87c-bcdf-4bbc-b187-3f698c4eb878
-  copyright_status: publicly_accessible
 - text: Hamilton identified informants and observations at secret installations as
     two routes through which evidence reached him.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -71,9 +81,7 @@ references:
   claim_id: b0cbed9d-efb1-4bc2-8545-05f5af7c9b54
   claim_fingerprint: 3d80f1dc51c3236fe24543b4dfed368b4ca17c74b348919b3a759a5e95af1f73
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-b0cbed9d-efb1-4bc2-8545-05f5af7c9b54
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-b0cbed9d-efb1-4bc2-8545-05f5af7c9b54
-  copyright_status: publicly_accessible
 - text: Hamilton referred to witnesses who had seen advanced technology principally
     at the Nevada Test Site.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -85,9 +93,7 @@ references:
   claim_id: af7f5268-2212-4d80-9dae-a463067b8f22
   claim_fingerprint: 8345c6b7a2d9cd75db7da493a1cfb354fbe2c7b754066a872b88a714f3718758
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-af7f5268-2212-4d80-9dae-a463067b8f22
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-af7f5268-2212-4d80-9dae-a463067b8f22
-  copyright_status: publicly_accessible
 - text: Hamilton said he had followed developments at the Nevada Test Site for almost
     ten years.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -99,9 +105,7 @@ references:
   claim_id: 9739e895-e885-43d0-a53c-a14d252d9376
   claim_fingerprint: 6db9199c8bb0140f66699a99685a611713300ba35d29eaa76f9ba4d7fa1e8811
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-9739e895-e885-43d0-a53c-a14d252d9376
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-9739e895-e885-43d0-a53c-a14d252d9376
-  copyright_status: publicly_accessible
 - text: Hamilton relayed an early-1980s report about Project Red Light at the Nevada
     Test Site.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -113,9 +117,7 @@ references:
   claim_id: e7655c2f-f573-4603-9a1e-9d4dd449b6a8
   claim_fingerprint: d25d7efd3a558c3231ab555bea912315be7e10fd9bb6a200066d98abf58b6f20
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-e7655c2f-f573-4603-9a1e-9d4dd449b6a8
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-e7655c2f-f573-4603-9a1e-9d4dd449b6a8
-  copyright_status: publicly_accessible
 - text: Hamilton said stories from the site led him to consider the possibility that
     alien technology was being tested there.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -127,9 +129,7 @@ references:
   claim_id: 4f1b95e4-54d7-42f8-b1ad-d8645a06bdb4
   claim_fingerprint: 69fabfb8a880c8bd0e49e1086c43fc094417a0590d91ed3076bc82319aa6cc2a
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-4f1b95e4-54d7-42f8-b1ad-d8645a06bdb4
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-4f1b95e4-54d7-42f8-b1ad-d8645a06bdb4
-  copyright_status: publicly_accessible
 - text: Hamilton considered any testing at the Nevada Test Site part of a larger programme
     with other activities elsewhere.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -141,9 +141,7 @@ references:
   claim_id: f5700c5c-0c69-43d6-8fb5-9cb5ba150785
   claim_fingerprint: dc0a123d3e374cc9b7a382a9597c455ffa3e8b748da344ec5dffd547f8b384d0
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-f5700c5c-0c69-43d6-8fb5-9cb5ba150785
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-f5700c5c-0c69-43d6-8fb5-9cb5ba150785
-  copyright_status: publicly_accessible
 - text: Hamilton said he moved to ten acres in West Antelope Valley and was approximately
     13 kilometres from a secret Northrop installation.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -153,9 +151,7 @@ references:
   claim_id: 26d24f66-4f88-4f2e-833d-5dd587a10625
   claim_fingerprint: 19b4d343762bd947eb57c8f6f4cf3d054ec86d8a1345fa50b0bdd0123071bcb2
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-26d24f66-4f88-4f2e-833d-5dd587a10625
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-26d24f66-4f88-4f2e-833d-5dd587a10625
-  copyright_status: publicly_accessible
 - text: Hamilton connected the installation with Ray, an inspector on Northrop's B-2
     project.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -167,9 +163,7 @@ references:
   claim_id: d5f1f7dc-1212-477d-810c-1e5e085d68b5
   claim_fingerprint: 7000abb6c2a503dca4ed017b5fdce0602289a81919205dccc64d68e242eb1799
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-d5f1f7dc-1212-477d-810c-1e5e085d68b5
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-d5f1f7dc-1212-477d-810c-1e5e085d68b5
-  copyright_status: publicly_accessible
 - text: Hamilton recounted Ray and Nancy seeing a basketball-sized glowing orb rise
     from the ground near the installation.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -181,9 +175,7 @@ references:
   claim_id: 1bcc355c-01ea-4f10-aff1-18f134ba78df
   claim_fingerprint: 0e16002dc0f8fc1df9366928bb38308ee8458671f70bff22f21d3d629b09364a
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-1bcc355c-01ea-4f10-aff1-18f134ba78df
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-1bcc355c-01ea-4f10-aff1-18f134ba78df
-  copyright_status: publicly_accessible
 - text: Hamilton said the orb came within about 91 metres, emitted electrical sparks,
     and was observed for several minutes.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -194,9 +186,7 @@ references:
   claim_id: 47d8870f-eb60-4c70-be4a-c9daad0faebf
   claim_fingerprint: 1397e88dfa3a0e24b62a6b9aca72740d9d574c6c583d0dcab3102725911cc88d
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-47d8870f-eb60-4c70-be4a-c9daad0faebf
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-47d8870f-eb60-4c70-be4a-c9daad0faebf
-  copyright_status: publicly_accessible
 - text: Hamilton said Ray and Nancy experienced missing time and that Ray later recounted
     the event under hypnosis.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -207,9 +197,7 @@ references:
   claim_id: ba2b8f4d-0598-4f23-977d-a18f5a12fcfa
   claim_fingerprint: 3dd544840ac61fcf4e18d57306284ae0c34573ce1b45b2c4ea79edf91438324f
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-ba2b8f4d-0598-4f23-977d-a18f5a12fcfa
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-ba2b8f4d-0598-4f23-977d-a18f5a12fcfa
-  copyright_status: publicly_accessible
 - text: Hamilton said Ray recounted seeing Nancy surrounded by small grey beings during
     hypnosis.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -221,9 +209,7 @@ references:
   claim_id: 31825b96-533e-4712-a51f-6ef3fbf6bfd5
   claim_fingerprint: 7988261c189cadf681c2030712eb6c814951af2448931a1fe3174f4dcdd17c46
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-31825b96-533e-4712-a51f-6ef3fbf6bfd5
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-31825b96-533e-4712-a51f-6ef3fbf6bfd5
-  copyright_status: publicly_accessible
 - text: Hamilton said Ray and Nancy reported the encounter at Edwards Air Force Base
     and subsequently withdrew after experiencing harassment.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -234,9 +220,7 @@ references:
   claim_id: cf23d3c1-48ee-480b-babb-61f885a49804
   claim_fingerprint: a43efab5a16cfeb30465121dd6862cdc2ecb71f87fa1383bf8cc25c879cbcb16
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-cf23d3c1-48ee-480b-babb-61f885a49804
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-cf23d3c1-48ee-480b-babb-61f885a49804
-  copyright_status: publicly_accessible
 - text: Hamilton described two boomerang-shaped objects and approximately 17 disks
     flying over the area on 1988-10-26.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -248,9 +232,7 @@ references:
   claim_id: 11ce555c-1a3f-430e-aa5a-360d724cf380
   claim_fingerprint: 304967eac6ece5ed5dbcf570e6e35a9600243b80ab1700dc4a315751dd310924
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-11ce555c-1a3f-430e-aa5a-360d724cf380
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-11ce555c-1a3f-430e-aa5a-360d724cf380
-  copyright_status: publicly_accessible
 - text: Hamilton said the objects were later seen near Fresno and reported in newspapers.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
     Being Tested'
@@ -260,9 +242,7 @@ references:
   claim_id: e7a04f66-0333-40c1-ad9b-d881d7e3201d
   claim_fingerprint: aad51c4bf7efb9c18baeb4822a807374272b1b2172cafc9f93b0e2e6cc76a8c1
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-e7a04f66-0333-40c1-ad9b-d881d7e3201d
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-e7a04f66-0333-40c1-ad9b-d881d7e3201d
-  copyright_status: publicly_accessible
 - text: Hamilton supported airing crash-retrieval testimony through the media to encourage
     a congressional investigation.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -274,9 +254,7 @@ references:
   claim_id: 9c8e14c3-d6ce-4256-9a74-79ff2917829a
   claim_fingerprint: 3979bb0a9aed4d68b3225972a212db5fb7c2d23c5f6786d0f6d612f27e16ea42
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-9c8e14c3-d6ce-4256-9a74-79ff2917829a
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-9c8e14c3-d6ce-4256-9a74-79ff2917829a
-  copyright_status: publicly_accessible
 - text: Hamilton said testimony about Roswell was being brought to members of Congress
     for ethical oversight.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -289,9 +267,7 @@ references:
   claim_id: 48fd9fe2-8f70-48e5-ab17-2c6466b5b4ef
   claim_fingerprint: 9d7698cfc754a75b0efbd1f87c32922cd5186bcb3ef5220107bdb220943d4e24
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-48fd9fe2-8f70-48e5-ab17-2c6466b5b4ef
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-48fd9fe2-8f70-48e5-ab17-2c6466b5b4ef
-  copyright_status: publicly_accessible
 - text: Hamilton said most UFO research evidence consisted of testimony, with some
     corroboration from photographs or ground traces.
   source: 'Cosmic Top Secret: Bill Hamilton on UFO Crash Retrievals & Alien Technology
@@ -303,9 +279,7 @@ references:
   claim_id: cd6a1632-87aa-4b58-9bbc-5038c2b82d3e
   claim_fingerprint: 8364bcd54b53dcd9fc83a64099c61fa9bfa54e9e8f48bdb284fab40b4ec910df
   record_hash: 597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493
-  workbench_url: https://workbench.anomalica.is/597b7fc0f0713f00cd7ea3119926cbf6a0497bab650237d28c00b493#claim-cd6a1632-87aa-4b58-9bbc-5038c2b82d3e
   inspection_url: /records/-audio-cosmic-top-secret-bill-hamilton-on-ufo-crash-retrievals#claim-cd6a1632-87aa-4b58-9bbc-5038c2b82d3e
-  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

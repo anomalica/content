@@ -1,16 +1,35 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: UAP Sighting Report
 description: The UAP Sighting Report is a source record describing two round, white,
   thermally hot Unidentified Aerial Phenomena observed moving south at approximately
   440 kilometres per hour and a SECRET classification with specified release permissions.
-noindex: true
-metadata:
-  medium: pdf
 record_hash: 0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1
+metadata:
+  source_type: pdf
+  document_type: report
+  pages: 7
 source:
-  status: public_domain
-  type: pdf
-  display: text
+  source_type: pdf
+  document_type: report
+  pages: 7
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: unavailable
+    media:
+      mode: none
+      reason: unavailable
+    provider_embed:
+      mode: none
+      reason: unavailable
+    external_link:
+      mode: none
+      reason: unavailable
 references:
 - text: The report records two round, white, thermally hot UAP moving south at approximately
     440 kilometres per hour near grid coordinate 35SQT3423692957 at 1653Z.
@@ -21,9 +40,7 @@ references:
   claim_id: b55b7784-3854-4f6e-bfa7-a426a7556b61
   claim_fingerprint: 788384bc66bb895f05169f76dafc937c2e7e3b0e1b8a8b101e0d3958b0457b10
   record_hash: 0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1
-  workbench_url: https://workbench.anomalica.is/0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1#claim-b55b7784-3854-4f6e-bfa7-a426a7556b61
   inspection_url: /records/undated-pdf-uap-sighting-report#claim-b55b7784-3854-4f6e-bfa7-a426a7556b61
-  copyright_status: public_domain
 - text: The report states that the sighting was classified SECRET and releasable to
     the United States, Finland, Sweden, Five Eyes, and NATO.
   source: UAP Sighting Report
@@ -33,9 +50,7 @@ references:
   claim_id: 6e4c201a-bb1d-4ba0-b5e5-767c57da05be
   claim_fingerprint: c5b690b36a39a5659a27bb590ad62bbc8e50e57ca679e6ba4e1fafd8b2544111
   record_hash: 0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1
-  workbench_url: https://workbench.anomalica.is/0a8548a845c3b45f90ee512bdfd8eac1af073072228e7e4d24e779d1#claim-6e4c201a-bb1d-4ba0-b5e5-767c57da05be
   inspection_url: /records/undated-pdf-uap-sighting-report#claim-6e4c201a-bb1d-4ba0-b5e5-767c57da05be
-  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

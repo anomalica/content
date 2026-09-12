@@ -1,22 +1,37 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Buzz Aldrin on Late Night with Conan O'Brien (2000)
 description: A record of Buzz Aldrin's 2000 appearance on Late Night with Conan O'Brien,
   in which he discussed the Apollo 11 landing, lunar movement, landing communications
   and events shown in Moon footage.
-noindex: true
-metadata:
-  medium: video
-  date: '2021-08-02'
-  publisher: Kevin Cable
-  duration: '2:43'
 record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-source:
-  status: publicly_accessible
-  type: video
-  display: embed
-  url: https://www.youtube.com/watch?v=AMU_84_Re3o
-  date_published: '2000'
+metadata:
+  source_type: video
+  published_date: '2000'
   duration: 163.65
+source:
+  source_type: video
+  published_date: '2000'
+  duration: 163.65
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: copyright
+    media:
+      mode: none
+      reason: copyright
+    provider_embed:
+      mode: embed
+      reason: allowed
+      url: https://www.youtube.com/watch?v=AMU_84_Re3o
+    external_link:
+      mode: link
+      reason: allowed
+      url: https://www.youtube.com/watch?v=AMU_84_Re3o
 references:
 - text: Buzz Aldrin said that viewers saw animation rather than a television picture
     at the moment of the Apollo 11 landing.
@@ -27,9 +42,7 @@ references:
   claim_id: 1a791a5f-0333-4b8c-8c50-d99d571033c2
   claim_fingerprint: ad554afd79bb57f21442ca72172e720031c58ab99a6d7dfbd77fcd1e6eb809f2
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-1a791a5f-0333-4b8c-8c50-d99d571033c2
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that he called out the distances the Apollo Lunar Module
     Eagle was moving left and right during the descent.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -39,9 +52,7 @@ references:
   claim_id: e3f2e0ee-a758-4f13-877f-1e0a9ca483af
   claim_fingerprint: 90de7c63a24077526b37e2a63bda3364798b44b1b244d57463138eadbd8525bb
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-e3f2e0ee-a758-4f13-877f-1e0a9ca483af
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-e3f2e0ee-a758-4f13-877f-1e0a9ca483af
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said 'contact light, engine stop' at the landing.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:38.8-00:00:41.0
@@ -49,9 +60,7 @@ references:
   claim_id: 38b02d39-ab47-4f96-8e59-42a6db1d98cc
   claim_fingerprint: 4789a4f5b091e266fde41d4160ce1af74214c77ac647ee046c92e16ad9b65b52
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-38b02d39-ab47-4f96-8e59-42a6db1d98cc
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-38b02d39-ab47-4f96-8e59-42a6db1d98cc
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that Neil Armstrong announced 'Houston, Tranquility Base,
     the Eagle has landed'.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -61,9 +70,7 @@ references:
   claim_id: 9e8c2682-4df1-40bc-b400-9ca8cb40f54e
   claim_fingerprint: 5b2d0e9d8ace819b2b21063ea44f35461d9406192d2cec8d7543b1129ee2bcd5
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-9e8c2682-4df1-40bc-b400-9ca8cb40f54e
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin regarded Neil Armstrong's landing announcement as a good line.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:00:48.6-00:00:49.4
@@ -71,9 +78,7 @@ references:
   claim_id: a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
   claim_fingerprint: d60ff5b5c83f40d7daec5df1c5ce90a1fb012dc88314d84f98cb166bf0fd51b0
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-a0c0a5d4-28c8-4b08-b6dc-24ee8dd78743
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that he and the Apollo 11 crew were focused rather than worried
     about what they would say.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -82,9 +87,7 @@ references:
   claim_id: b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
   claim_fingerprint: cefa5580392fd160c342f5beba911868cea050df3c8a4fb70ee331332948ef25
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-b2486b24-9ceb-4a3b-85c2-87b6c89d55e9
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that he was afraid Neil Armstrong might tell him to go out
     first and think up lines.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -94,9 +97,7 @@ references:
   claim_id: 8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
   claim_fingerprint: ba436ec57ec011baa433cd44548d72fd874ee8b1ee6526ba44d53f8870f85578
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-8c5a94ad-9e4c-4a94-92ef-2cb3473f08da
-  copyright_status: publicly_accessible
 - text: Conan O'Brien said that Buzz Aldrin was not the first man to walk on the Moon.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:01:24.9-00:01:26.6
@@ -104,9 +105,7 @@ references:
   claim_id: f87315e5-2028-4c81-ad62-0ecefa44f188
   claim_fingerprint: 79fb13d5a33cbcd088081cae128c9288f6f1b420baacbf8115cf2c6248d97d7c
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-f87315e5-2028-4c81-ad62-0ecefa44f188
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-f87315e5-2028-4c81-ad62-0ecefa44f188
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that he was the first man to relieve himself on the Moon.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
   location: 00:01:28.4-00:01:32.7
@@ -115,9 +114,7 @@ references:
   claim_id: 8b300c92-6572-4a1a-912a-bd171db4348a
   claim_fingerprint: 07e92bb09f413517d855334de6670fc26497b142670c08ab4cf18d4ba33690ae
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-8b300c92-6572-4a1a-912a-bd171db4348a
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-8b300c92-6572-4a1a-912a-bd171db4348a
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that an astronaut could not unzip the suit on the Moon and
     that the Apollo 11 crew used a device instead.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -127,9 +124,7 @@ references:
   claim_id: 62367ea6-bf8d-47b2-837f-0d3428b87377
   claim_fingerprint: fe9290d8fda7c871bdc8e671c779d99ebf3b6be43df5f30f3abc40d640de1b3c
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-62367ea6-bf8d-47b2-837f-0d3428b87377
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-62367ea6-bf8d-47b2-837f-0d3428b87377
-  copyright_status: publicly_accessible
 - text: Conan O'Brien said that Buzz Aldrin was the astronaut seen hopping in Apollo
     11 Moon footage.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -140,9 +135,7 @@ references:
   claim_id: 6fd89f57-cc75-45d9-a580-8c5c93c20e9c
   claim_fingerprint: 81db360312e7dc5e86b1abb5d83839d752cc74c7b194f410d67ac21c36e6695d
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-6fd89f57-cc75-45d9-a580-8c5c93c20e9c
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-6fd89f57-cc75-45d9-a580-8c5c93c20e9c
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin called his two-feet-at-a-time hop a kangaroo hop rather than a
     bunny hop.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -151,9 +144,7 @@ references:
   claim_id: 64b43009-6fb7-488d-b676-27abc7b36634
   claim_fingerprint: f5cf2a1222d95da1e23f4e46bb8366534341e7c4ec29bc186d005a51b1e25f5b
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-64b43009-6fb7-488d-b676-27abc7b36634
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-64b43009-6fb7-488d-b676-27abc7b36634
-  copyright_status: publicly_accessible
 - text: Buzz Aldrin said that he hopped about on the Moon to demonstrate how easily
     a person could move around on its surface.
   source: Buzz Aldrin on Late Night with Conan O'Brien (2000)
@@ -163,9 +154,7 @@ references:
   claim_id: b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
   claim_fingerprint: 23bff33251f4d6fb29f79e91c9f4d42424a98fae36d437fd15dce5458a40a4b9
   record_hash: 8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c
-  workbench_url: https://workbench.anomalica.is/8eff735eed62465494c65808967b25024a1fc0f07be5074b8ece521c#claim-b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
   inspection_url: /records/2021-08-02-video-buzz-aldrin-on-late-night-with-conan-o-brien-2000#claim-b23cfcdd-5f9e-4c7e-bba0-136ee6a1b38a
-  copyright_status: publicly_accessible
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

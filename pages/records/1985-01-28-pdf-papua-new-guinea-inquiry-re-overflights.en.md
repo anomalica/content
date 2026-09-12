@@ -1,19 +1,38 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Papua New Guinea Inquiry Re Overflights
 description: A 1985-01-28 Embassy record of an informal Papua New Guinea National
   Intelligence Organization inquiry into reported high-altitude, high-speed aircraft
   sightings over Papua New Guinea on 1985-01-24.
-noindex: true
-metadata:
-  medium: pdf
-  date: '1985-01-28'
-  publisher: Gardner (AMEMBASSY PORT MORESBY)
 record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
+metadata:
+  source_type: pdf
+  creators: &id001
+  - Gardner (AMEMBASSY PORT MORESBY)
+  published_date: '1985-01-28'
+  pages: 3
 source:
-  status: public_domain
-  type: pdf
-  display: text
-  date_published: 1985-01-28
+  source_type: pdf
+  creators: *id001
+  published_date: '1985-01-28'
+  pages: 3
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: unavailable
+    media:
+      mode: none
+      reason: unavailable
+    provider_embed:
+      mode: none
+      reason: unavailable
+    external_link:
+      mode: none
+      reason: unavailable
 references:
 - text: The Embassy received an informal inquiry from the Papua New Guinea National
     Intelligence Organization about reported high-altitude, high-speed aircraft sightings.
@@ -25,9 +44,7 @@ references:
   claim_id: fe7c0f15-96de-4672-b403-78a1d3b017c0
   claim_fingerprint: b975ae95d4fc84e8fc496cdb4b8a61f6f7741bdfd7ac2d54f93fa40d67dea722
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-fe7c0f15-96de-4672-b403-78a1d3b017c0
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-fe7c0f15-96de-4672-b403-78a1d3b017c0
-  copyright_status: public_domain
 - text: An NIO officer in Wewak reported that local residents had been frightened
     by the overflights.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -37,9 +54,7 @@ references:
   claim_id: 230669ef-5fe4-4305-ba3e-cfb4e8303de0
   claim_fingerprint: 254a1c5b16dad262ac21aa833353b321bd1d758eb14800bdc4440e27b22f2547
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-230669ef-5fe4-4305-ba3e-cfb4e8303de0
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-230669ef-5fe4-4305-ba3e-cfb4e8303de0
-  copyright_status: public_domain
 - text: The reaction led the provincial premier to call a public meeting.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
   location: char:1226-1299
@@ -48,9 +63,7 @@ references:
   claim_id: 71b7741e-1229-4662-ba7f-37796b827ceb
   claim_fingerprint: a78136c6f94293ac0489c9860b9c8dd8ea7d0dd559c7f6d5a52568d060e84786
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-71b7741e-1229-4662-ba7f-37796b827ceb
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-71b7741e-1229-4662-ba7f-37796b827ceb
-  copyright_status: public_domain
 - text: The Prime Minister of Papua New Guinea attended the public meeting.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
   location: char:1307-1374
@@ -58,9 +71,7 @@ references:
   claim_id: 1f5726b8-32aa-4e0f-9de7-e295a7f20894
   claim_fingerprint: 4a2ab4e2433a896e2771247937ee99d1c759c066fa2dfa61a7c70d1bd48b0f26
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-1f5726b8-32aa-4e0f-9de7-e295a7f20894
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-1f5726b8-32aa-4e0f-9de7-e295a7f20894
-  copyright_status: public_domain
 - text: The NIO reported UAP reports involving fast-moving objects with lights, contrails,
     and noise.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -71,9 +82,7 @@ references:
   claim_id: 329eaba0-c019-454e-921e-0eb514c8d7d0
   claim_fingerprint: 1eaa151cf422904d2a0aba7b6b8fc89e26b9a85485b83b707d7d4109a611e8ee
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-329eaba0-c019-454e-921e-0eb514c8d7d0
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-329eaba0-c019-454e-921e-0eb514c8d7d0
-  copyright_status: public_domain
 - text: The NIO gave some credence to a report from an Air Niugini pilot who had taken
     off from Wewak.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -83,9 +92,7 @@ references:
   claim_id: 2efbfa70-f28a-4797-94de-4d29c6b9fae7
   claim_fingerprint: 52844553caf255c6147661298eac9e5144bab55b6007b34c03e0650b50a29ea5
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-2efbfa70-f28a-4797-94de-4d29c6b9fae7
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-2efbfa70-f28a-4797-94de-4d29c6b9fae7
-  copyright_status: public_domain
 - text: An Air Niugini pilot reported radar contacts travelling south to north at
     high altitude and high speed over Angoram.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -95,9 +102,7 @@ references:
   claim_id: 2c3ebfee-987a-44b1-849e-a258233483be
   claim_fingerprint: 95c08315cb9bdd400f377bfc230b5f2d18110d359cf3fd6d04a96c6d365706dc
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-2c3ebfee-987a-44b1-849e-a258233483be
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-2c3ebfee-987a-44b1-849e-a258233483be
-  copyright_status: public_domain
 - text: Visual contrail sightings included an aircraft travelling north to south at
     19:00 local time.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -107,9 +112,7 @@ references:
   claim_id: cfea33d9-78d3-4daa-af9a-9d5c786559d8
   claim_fingerprint: e3cdfd0cd40c7e9bcab8884c2207fc2257dfc0ded7d33994ce187eb491caa746
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-cfea33d9-78d3-4daa-af9a-9d5c786559d8
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-cfea33d9-78d3-4daa-af9a-9d5c786559d8
-  copyright_status: public_domain
 - text: Further visual reports described six to eight aircraft travelling south to
     north at 22:00 local time.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -118,9 +121,7 @@ references:
   claim_id: 8286fa9e-d590-45d3-822b-a5caecef118a
   claim_fingerprint: 61d5a1cd163f654bd8cd97e0eb6041c99d8f5372afb23c39b580036b56276aa8
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-8286fa9e-d590-45d3-822b-a5caecef118a
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-8286fa9e-d590-45d3-822b-a5caecef118a
-  copyright_status: public_domain
 - text: The Embassy told the NIO that it knew of no B-52 overflights or US aircraft
     in Papua New Guinea airspace.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -130,9 +131,7 @@ references:
   claim_id: b41edd22-3451-491e-b2fc-57ff9c6c0183
   claim_fingerprint: 9ff0f04684e8f70e3dcda88e703be75c680c4909be27f5b7478243fb79f76e7c
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-b41edd22-3451-491e-b2fc-57ff9c6c0183
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-b41edd22-3451-491e-b2fc-57ff9c6c0183
-  copyright_status: public_domain
 - text: Gardner described the information as sketchy and said sources were unsure
     of the aircraft directions.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -142,9 +141,7 @@ references:
   claim_id: 9b9bd4e4-88b3-4bc9-a802-899d76481eb0
   claim_fingerprint: a65c633df821bf6f853fde5b9d8e0a2d2c4ee627b7714c07a0be1cf0a7d45de7
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-9b9bd4e4-88b3-4bc9-a802-899d76481eb0
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-9b9bd4e4-88b3-4bc9-a802-899d76481eb0
-  copyright_status: public_domain
 - text: Gardner requested confirmation of the absence of B-52 overflights or US aircraft
     and further information about the reports.
   source: Papua New Guinea Inquiry Re Overflights (1985-01-28)
@@ -154,9 +151,7 @@ references:
   claim_id: edd774ec-ce5f-41cb-80f5-1b13bf1f881e
   claim_fingerprint: 9fd41a8ed017e0286eac7a93fc71704b3746ac7f51201c71e8612bf4afafe61f
   record_hash: 566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75
-  workbench_url: https://workbench.anomalica.is/566894d9cb31e15818e87d54e848a634ddd711aa7fb9ed72402d4a75#claim-edd774ec-ce5f-41cb-80f5-1b13bf1f881e
   inspection_url: /records/1985-01-28-pdf-papua-new-guinea-inquiry-re-overflights#claim-edd774ec-ce5f-41cb-80f5-1b13bf1f881e
-  copyright_status: public_domain
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

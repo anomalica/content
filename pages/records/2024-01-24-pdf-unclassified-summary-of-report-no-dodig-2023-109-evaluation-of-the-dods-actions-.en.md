@@ -1,24 +1,45 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
   Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
 description: An unclassified summary of an Inspector General, U.S. Department of Defense
   evaluation of the Department of Defense's policies, processes and coordination for
   detecting, reporting, collecting, analysing and identifying unidentified anomalous
   phenomena.
-noindex: true
-metadata:
-  medium: pdf
-  date: '2024-01-24'
-  publisher: U.S. Department of Defense Inspector General
 record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-source:
-  status: public_domain
-  effective_status: public_domain
-  type: pdf
-  display: text
-  url: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
+metadata:
+  source_type: pdf
+  document_type: report
   publisher: U.S. Department of Defense Inspector General
-  date_published: 2024-01-24
+  creators: &id001
+  - Inspector General, U.S. Department of Defense
+  published_date: '2024-01-24'
+  pages: 16
+source:
+  source_type: pdf
+  document_type: report
+  publisher: U.S. Department of Defense Inspector General
+  creators: *id001
+  published_date: '2024-01-24'
+  pages: 16
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: unavailable
+    media:
+      mode: none
+      reason: unavailable
+    provider_embed:
+      mode: none
+      reason: unsupported
+    external_link:
+      mode: link
+      reason: allowed
+      url: https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF
 references:
 - text: The Department of Defense made infrequent and inconclusive efforts over preceding
     decades to identify and understand UAP.
@@ -31,8 +52,6 @@ references:
   claim_id: c1725b78-4b57-4aaf-9147-9b4bff05178b
   claim_fingerprint: a8ab7bcbbe52b8c19f20cb80850b1d0f6414ffd03ef9c24e7601697220bfc3e7
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c1725b78-4b57-4aaf-9147-9b4bff05178b
 - text: The Inspector General determined that the Department of Defense had not used
     a coordinated approach to address UAP.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -43,8 +62,6 @@ references:
   claim_id: 4df2b521-90f1-4b7a-8caf-ce2517c2e51d
   claim_fingerprint: 90375c15a1f53e69f04c0d150a7f25409c58f7d1d2d7df73985c078d1e6e8554
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-4df2b521-90f1-4b7a-8caf-ce2517c2e51d
 - text: Military pilots have historically reported many UAP sightings.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -53,8 +70,6 @@ references:
   claim_id: 2eeb6253-9a47-4f4a-ad8b-32622f3fb4bc
   claim_fingerprint: b9418d6a7fa5b00764f9531cf86d841a2431516bae570953c975820805f6ae3e
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2eeb6253-9a47-4f4a-ad8b-32622f3fb4bc
 - text: The United States Air Force and United States Navy were at the forefront of
     developing UAP reporting policies and procedures.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -65,8 +80,6 @@ references:
   claim_id: adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
   claim_fingerprint: 2126acd058a6952df0a2b727afa6b4e71ccfba9a72249336cbc3f1023350c01b
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-adf2458f-3b8f-4a82-bfd2-fd8058d1bb7e
 - text: The Department of Defense relied heavily on its Services and Components to
     address UAP from the 1940s.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -77,8 +90,6 @@ references:
   claim_id: 39f342c1-4774-4a10-8bc8-195168189503
   claim_fingerprint: a8eee5adbef297103b846525c8ebd00093233cd61e4c5f14bb510a0e6bfe1978
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-39f342c1-4774-4a10-8bc8-195168189503
 - text: Project Sign was established in December 1947 to investigate recorded UFO
     observations.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -90,8 +101,6 @@ references:
   claim_id: 0fb0177d-e6b8-4815-80bf-3d33b244703a
   claim_fingerprint: 6aabc0957c1cf64737d416c7a508b970776cc408a4d225f985d4bb86885e050f
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0fb0177d-e6b8-4815-80bf-3d33b244703a
 - text: Air Force personnel investigated 243 reported UAP sightings between 1947 and
     1949.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -101,8 +110,6 @@ references:
   claim_id: 447d013a-77f2-4f73-a343-741ae02dda20
   claim_fingerprint: 03af3d51731014a0c3a1ad9a52e897a0d672feb0d4e5b06019963ccdd70e5aab
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-447d013a-77f2-4f73-a343-741ae02dda20
 - text: Project Blue Book was initiated in 1952 to investigate UFOs.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -112,8 +119,6 @@ references:
   claim_id: 2dd5f031-2e30-406b-8b46-80784f91c1bf
   claim_fingerprint: d47b1a2fad0b8e206194b312485e32aa61b2ced42d978e2f31f10246932e58e8
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2dd5f031-2e30-406b-8b46-80784f91c1bf
 - text: Air Force personnel investigated over 12,000 reported UFO sightings between
     1952 and 1969.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -124,8 +129,6 @@ references:
   claim_id: a38255b6-11cf-4643-850e-28567b670f7a
   claim_fingerprint: 78c691fe6b122317c2e69d9327dad5e5b8c9641d127d51760879dbe464bd4dfb
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a38255b6-11cf-4643-850e-28567b670f7a
 - text: Congress directed the Department of Defense in 2020 to establish a formal
     interagency entity for UAP matters through the FY 2022 NDAA.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -138,8 +141,6 @@ references:
   claim_id: abf4b9ff-6de1-4428-a7f7-9fc33485c05f
   claim_fingerprint: bf3a0b056b88091a235cd3f23ad7073d59440ef77b857fd6e067aeec904c26b0
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-abf4b9ff-6de1-4428-a7f7-9fc33485c05f
 - text: The Department of Defense established AARO on 2022-07-20.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -149,8 +150,6 @@ references:
   claim_id: 826683ed-2157-4692-85d4-8e9d9df2a863
   claim_fingerprint: 7126d3a8118e741b543fd0b0b79f210ac3233826bd48c2a0b214fdbcfa4d300e
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-826683ed-2157-4692-85d4-8e9d9df2a863
 - text: The UAP Task Force was established in August 2020 to develop standardised
     reporting requirements.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -161,8 +160,6 @@ references:
   claim_id: 0ea18651-8df3-4a40-9448-c475da9f5895
   claim_fingerprint: 857cf35c3e010ab343e2ba409f2a1c96877e687703eeca09f6e48330faa4481d
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0ea18651-8df3-4a40-9448-c475da9f5895
 - text: The UAP Task Force and ODNI issued the congressionally mandated Preliminary
     Assessment in June 2021.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -175,8 +172,6 @@ references:
   claim_id: c5d55aee-7a8a-4c75-9e53-c966c559a644
   claim_fingerprint: fd63bada5d41483b4d56cd319f8ac671d3b236874ae85accbd80428d0910cb1a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-c5d55aee-7a8a-4c75-9e53-c966c559a644
 - text: A November 2021 memorandum directed OUSD(I&S) to establish AOIMSG as the successor
     to the UAP Task Force.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -190,8 +185,6 @@ references:
   claim_id: 5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
   claim_fingerprint: df07ed270b5d91aca5170c3919fc7203728e625fbbc5a138245bcebaa77196f3
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5907e811-5c8e-4c40-9ebd-4cc1be5f95aa
 - text: AOIMSG did not reach operational capability.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -201,8 +194,6 @@ references:
   claim_id: 3543416e-6efc-485a-a2a1-c86de571ad0d
   claim_fingerprint: fcd0ac0855072695fae33e0a7f636e08089bb46208817366661f720491620a89
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-3543416e-6efc-485a-a2a1-c86de571ad0d
 - text: AOIMSG was disestablished on 2022-07-15.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -212,8 +203,6 @@ references:
   claim_id: 0d7d258e-39fd-4053-914f-e3a1835b729e
   claim_fingerprint: e65d97ce80a134f3c8fcda6df8688fa9a8c788973ea32280e7830be78821f7f4
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-0d7d258e-39fd-4053-914f-e3a1835b729e
 - text: AARO was established in July 2022 to implement duties previously assigned
     to AOIMSG.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -224,8 +213,6 @@ references:
   claim_id: a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
   claim_fingerprint: 134da3a1ff2334e7879d93dd7f92721977460d18e1e682b11c71b09b40c59cec
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-a34da0f9-32f5-43c2-9740-2e30ce4b1bfd
 - text: The FY 2022 NDAA expanded UAP to include the water and space domains.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -235,8 +222,6 @@ references:
   claim_id: 7b021bbf-d3d1-4e0c-80bb-9f7d0a4e8e65
   claim_fingerprint: cadf51be7ebcc92f880d8c6827e27943b502307ec3204ed4e9f2030ecb6d1a53
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-7b021bbf-d3d1-4e0c-80bb-9f7d0a4e8e65
 - text: The Preliminary Assessment described UAP as objects that are not immediately
     identifiable and lack a single explanation.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -250,8 +235,6 @@ references:
   claim_id: 5afddb76-a662-4f95-b1df-e913f48a657c
   claim_fingerprint: 1a3f316e82dc305dfc93726ec1a5d9749ce7f48a80300d2c2ae9736403e69728
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-5afddb76-a662-4f95-b1df-e913f48a657c
 - text: The Preliminary Assessment identified five potential explanatory categories
     for UAP.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -263,8 +246,6 @@ references:
   claim_id: b46f2e8d-0b73-4188-9301-84e03511bd1e
   claim_fingerprint: 093d8db152947bf1e6fe1c1262c2cd678fe079ec723d9925c834b1d60167cfb1
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b46f2e8d-0b73-4188-9301-84e03511bd1e
 - text: The Inspector General found that DoD Components developed varying processes
     for collecting, analysing and identifying UAP incidents.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -275,8 +256,6 @@ references:
   claim_id: 2fb3dab0-cec5-42e6-94c2-1ba7f2f460a2
   claim_fingerprint: 4fb2da5c477d108b682266f1e17be4601f3167f0cc159e3c7dce5023bb819a66
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-2fb3dab0-cec5-42e6-94c2-1ba7f2f460a2
 - text: The Inspector General found that the Department of Defense had not issued
     a comprehensive UAP response plan.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -288,8 +267,6 @@ references:
   claim_id: e7398ca3-a67e-41e0-88d3-c0e9ca10e111
   claim_fingerprint: 3bf8436bc6cc2c560ca251cc2bd5d4d258b1a432d65cabbc6f2d769b452970f7
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-e7398ca3-a67e-41e0-88d3-c0e9ca10e111
 - text: The Department of Defense response to UAP incidents was described as uncoordinated
     and concentrated within individual Military Departments.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -300,8 +277,6 @@ references:
   claim_id: fc3ebd43-5d68-4e6b-a13a-ddab2eb5c203
   claim_fingerprint: e5f7ddce8bf8e02730e33d20adf9ca97addbd3b511d02e427d255f9e2c529580
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-fc3ebd43-5d68-4e6b-a13a-ddab2eb5c203
 - text: Officials said they were waiting for comprehensive Department of Defense guidance
     before developing their own UAP guidance.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -313,8 +288,6 @@ references:
   claim_id: db3dbcb6-ca17-45fd-914e-33c4025671c9
   claim_fingerprint: 72b5b3e9b4350025d144e08f0c7267cc8fe056f0c4002765ebb3db4431eeb12a
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-db3dbcb6-ca17-45fd-914e-33c4025671c9
 - text: The Inspector General found that existing UAP processes largely excluded geographic
     combatant commands.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -326,8 +299,6 @@ references:
   claim_id: 6a3102d3-0c01-442a-a03c-4e0e3788e86c
   claim_fingerprint: f711a6de6b6a6df4d15fe8b9280a94e6ce4e7437dd7b997c866289f1bd04f279
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-6a3102d3-0c01-442a-a03c-4e0e3788e86c
 - text: The Inspector General recommended a Department of Defense policy integrating
     UAP roles, responsibilities, requirements and coordination procedures into existing
     policies.
@@ -342,8 +313,6 @@ references:
   claim_id: b2461f07-88ad-4e00-809f-b213d1ff431c
   claim_fingerprint: 35e2aa76f413d13df3fd553066ab2eee6a1286bf85374aac90e933b83505d738
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b2461f07-88ad-4e00-809f-b213d1ff431c
 - text: The recommended policy was to address UAP incidents while protecting United
     States persons'' civil liberties.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -355,8 +324,6 @@ references:
   claim_id: 746f453b-cd6c-4027-9dca-3e0b33136f0a
   claim_fingerprint: 0f78203e011c81200a5d4ac5b4d65acbecbd39ead93152570734ded12f228f04
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-746f453b-cd6c-4027-9dca-3e0b33136f0a
 - text: The Under Secretary of Defense for Intelligence and Security agreed with the
     recommendation to issue a Department of Defense UAP policy.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -367,8 +334,6 @@ references:
   claim_id: f4d062e5-0642-42fd-8e21-0e1d94fefea5
   claim_fingerprint: ca4d70b5db34197e16873b426094fbfa7ab6ea050d1671aeddedb3525b14e4df
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-f4d062e5-0642-42fd-8e21-0e1d94fefea5
 - text: The Inspector General considered the recommendation resolved but open pending
     issuance of the policy.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -380,8 +345,6 @@ references:
   claim_id: b1a4b2b0-7f49-4b01-ac21-8703f3910166
   claim_fingerprint: 4f261eb2e7f8ce7dae2efafe72d0fead73209e634cab561b29a2ac4376196ca0
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-b1a4b2b0-7f49-4b01-ac21-8703f3910166
 - text: The evaluation was conducted from May 2021 through June 2023.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
     Actions Regarding Unidentified Anomalous Phenomena," August 15, 2023
@@ -392,8 +355,6 @@ references:
   claim_id: 1718ba2c-b6b3-4730-ac7c-ee86f11bebb3
   claim_fingerprint: 63c4d155de289af002e5829e51fd59df82e71f12896de61131691b06843d3bbe
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-1718ba2c-b6b3-4730-ac7c-ee86f11bebb3
 - text: The Inspector General reviewed policies and guidance concerning intelligence
     gathering, counterintelligence, force protection and civil-liberty protections.
   source: Unclassified Summary of Report No. DODIG-2023-109, "Evaluation of the DoD's
@@ -405,8 +366,6 @@ references:
   claim_id: 8b600e4f-7926-4ce8-98a7-1743a14092e1
   claim_fingerprint: e3b7dab7cd2c2b65af34f75f710968075a3975a20bdaae2de5391c60fd582dab
   record_hash: e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/e0b2ceb193d4e10a4cd75e5131257c453d15b7b5999d8d5245de9ab8#claim-8b600e4f-7926-4ce8-98a7-1743a14092e1
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

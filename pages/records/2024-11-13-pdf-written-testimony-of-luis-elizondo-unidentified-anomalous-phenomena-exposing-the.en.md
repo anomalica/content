@@ -1,23 +1,42 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
   the Truth'
 description: Written testimony by Luis Elizondo dated 2024-11-13, presenting his views
   on UAP, government programmes, secrecy, oversight, whistleblower protections, and
   proposed national policy.
-noindex: true
-metadata:
-  medium: pdf
-  date: '2024-11-13'
-  publisher: U.S. House Committee on Oversight and Accountability
 record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-source:
-  status: public_domain
-  effective_status: public_domain
-  type: pdf
-  display: text
-  url: https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf
+metadata:
+  source_type: pdf
   publisher: U.S. House Committee on Oversight and Accountability
-  date_published: 2024-11-13
+  creators: &id001
+  - Luis Elizondo
+  published_date: '2024-11-13'
+  pages: 3
+source:
+  source_type: pdf
+  publisher: U.S. House Committee on Oversight and Accountability
+  creators: *id001
+  published_date: '2024-11-13'
+  pages: 3
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: unavailable
+    media:
+      mode: none
+      reason: unavailable
+    provider_embed:
+      mode: none
+      reason: unsupported
+    external_link:
+      mode: link
+      reason: allowed
+      url: https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf
 references:
 - text: Luis Elizondo considers UAP to be real.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -27,8 +46,6 @@ references:
   claim_id: 3caff0ee-d548-4962-9f9b-d6494609d1bb
   claim_fingerprint: 173eba3f9ec78156d5511a2e8489931d9ac84846c1961a3e3cddc9c856b51c99
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-3caff0ee-d548-4962-9f9b-d6494609d1bb
 - text: Luis Elizondo considers that advanced technologies not made by the United
     States Government or any other government are monitoring sensitive military installations
     around the globe.
@@ -40,8 +57,6 @@ references:
   claim_id: c4b85c68-d037-4fea-bf0d-4812d31ffe58
   claim_fingerprint: 0a970373adf14f4c7207f0dcb1e7589ecc3cde6f86698486e47e43e7d71a6f06
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-c4b85c68-d037-4fea-bf0d-4812d31ffe58
 - text: Luis Elizondo considers that the United States is in possession of UAP technologies.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -51,8 +66,6 @@ references:
   claim_id: 12255359-d143-4c31-bf41-1bbe3c288b5d
   claim_fingerprint: 4e236007ac5a130be6758084ba9d1cdaf597daa065f0a84fd6f9497a3dc320d2
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-12255359-d143-4c31-bf41-1bbe3c288b5d
 - text: Luis Elizondo considers that some adversaries of the United States are in
     possession of UAP technologies.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -62,8 +75,6 @@ references:
   claim_id: e77546e1-b3ed-40dd-9642-85c01b2635bc
   claim_fingerprint: f1620509ce9855fdfd5b59493a43bd67dee7ed1b1994d4ae1fc1b18a182daaca
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-e77546e1-b3ed-40dd-9642-85c01b2635bc
 - text: Luis Elizondo believes a multi-decade, secretive arms race is underway, funded
     by misallocated taxpayer dollars and hidden from elected representatives and oversight
     bodies.
@@ -76,8 +87,6 @@ references:
   claim_id: 67c67da0-2a24-4f33-8fbe-67d8f5f28c45
   claim_fingerprint: a2d3308c7786077a04b610eade6cd044875cb3836f749ca55a6178b30d5e969c
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-67c67da0-2a24-4f33-8fbe-67d8f5f28c45
 - text: Luis Elizondo managed a Special Access Program on behalf of the White House
     and the National Security Council in his last government position.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -88,8 +97,6 @@ references:
   claim_id: acc4e485-74c2-4b1c-a267-cbf1500cad69
   claim_fingerprint: 4b6d6ddba4b4b47a0c0dc59a5d7b5cab8e617f7a0a8d06d8431e9b8cd8963609
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-acc4e485-74c2-4b1c-a267-cbf1500cad69
 - text: Luis Elizondo was entrusted with protecting some of the United States' most
     sensitive government programmes for many years.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -100,8 +107,6 @@ references:
   claim_id: 1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
   claim_fingerprint: bcfe3c260ebfced97fa8c3b9189a358b38031fe30a3a8c584bf89a629e76a72b
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-1567d45e-aa5d-47a9-846f-4f0d7c58b2b4
 - text: Luis Elizondo learned that certain UAP programmes were operating without a
     watchful Congress, a responsive Executive Branch, or an informed public.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -112,8 +117,6 @@ references:
   claim_id: c44b5d0a-0bed-41ba-a99e-0f9afca6c73d
   claim_fingerprint: 8301ee5e06042e303d92b7c146218507b8e16b7285d20ac6b95506b42952eeb1
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-c44b5d0a-0bed-41ba-a99e-0f9afca6c73d
 - text: Luis Elizondo states that much of his government work on UAP remains classified.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -122,8 +125,6 @@ references:
   claim_id: ea93f554-5f6e-4842-9058-22307a632e97
   claim_fingerprint: ace8d57c64983d37835e8cc410b4e524ece35e971a409251a9ba5183c5bfd563
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-ea93f554-5f6e-4842-9058-22307a632e97
 - text: Luis Elizondo considers that excessive secrecy around UAP has led to grave
     misdeeds against civil servants, military personnel, and the public to hide that
     humanity is not alone in the cosmos.
@@ -136,8 +137,6 @@ references:
   claim_id: 31a90630-07cb-48be-a316-a2ef7487f4a7
   claim_fingerprint: acd0805c5538dec4144ffe6583eda2bf3a8681507b58f262e4bedf5ed0db9ed8
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-31a90630-07cb-48be-a316-a2ef7487f4a7
 - text: Luis Elizondo states that a small cadre within the United States Government
     involved in UAP created a culture of suppression and intimidation, of which he
     was personally a victim.
@@ -150,8 +149,6 @@ references:
   claim_id: 5aae8a50-66a5-4865-ab50-7e3a28f142bc
   claim_fingerprint: b8802335d1939ed5f885750bfc3649ac70e0a26fb0f2164d041a36b3e103507c
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-5aae8a50-66a5-4865-ab50-7e3a28f142bc
 - text: Luis Elizondo states that many former colleagues were also victims of this
     culture.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -161,8 +158,6 @@ references:
   claim_id: 57438003-1bad-40fe-a9d4-6cc35b57e014
   claim_fingerprint: 8ee4d1e014f54f3a0df98d42355ff25b4cdad676270e37bee0c4db7e382694b7
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-57438003-1bad-40fe-a9d4-6cc35b57e014
 - text: Luis Elizondo states that the culture included unwarranted criminal investigations,
     harassment, and efforts to destroy the credibility of affected people.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -173,8 +168,6 @@ references:
   claim_id: ea0bf316-577b-41c2-9e9c-7dca062542cd
   claim_fingerprint: b09732777c2ead73178122eb0f4bed05cf15486ca77c80cbae9509b267606553
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-ea0bf316-577b-41c2-9e9c-7dca062542cd
 - text: Luis Elizondo states that the Pentagon Public Affairs Office employs a professional
     psychological operations officer as the sole point of contact for UAP-related
     inquiries from citizens and the media.
@@ -187,8 +180,6 @@ references:
   claim_id: ca54723a-45e2-40a5-a536-6b1c45f6f1eb
   claim_fingerprint: dbba1053713dba3aeacac9024bf65f9095126e8560625ac7fdd28c055a385c44
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-ca54723a-45e2-40a5-a536-6b1c45f6f1eb
 - text: Luis Elizondo states that he and many former colleagues provided classified
     testimony to the United States Department of Defense and the Intelligence Community
     Inspector General.
@@ -200,8 +191,6 @@ references:
   claim_id: fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
   claim_fingerprint: c49b8d75ec0002df443691911f5aa64d170c9ed9d35a08faa13ea7533aa95c3a
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-fd6b4242-ee90-4dd9-99e5-2da25c81b6f2
 - text: Luis Elizondo states that many colleagues who provided classified testimony
     were subsequently targeted with threats to their careers, security clearances,
     and lives.
@@ -213,8 +202,6 @@ references:
   claim_id: 412478e3-782b-4049-ab68-05e092c736d3
   claim_fingerprint: 86baaf855709ca65048c47af03c08697aebc7f1755e2a6e9e4a33fdaa30b4da3
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-412478e3-782b-4049-ab68-05e092c736d3
 - text: Luis Elizondo proposes that the United States Congress and the President create
     a single point of contact responsible for a whole-of-government approach to UAP.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -225,8 +212,6 @@ references:
   claim_id: 3e3fcb90-5510-4846-bb89-80538e0ae2fa
   claim_fingerprint: 8abe9c1e1b74e2062eb110e0a1a26eb4fb2dc5a81dc84b77602721202f11e562
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-3e3fcb90-5510-4846-bb89-80538e0ae2fa
 - text: Luis Elizondo states that the White House, CIA, NASA, the Pentagon, and the
     United States Department of Energy play roles in UAP but that no single entity
     is in charge.
@@ -239,8 +224,6 @@ references:
   claim_id: 303b0beb-37d0-46f8-b135-e8eddb8f6dd8
   claim_fingerprint: b8795412859a7f5cacade4645ed01c952af3417f9f90c3ae971ab74513558ff9
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-303b0beb-37d0-46f8-b135-e8eddb8f6dd8
 - text: Luis Elizondo considers that the lack of a single entity in charge of UAP
     leads to unchecked power and corruption.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -250,8 +233,6 @@ references:
   claim_id: 8aff8208-f8e2-46e7-85c2-26ed5fbc7634
   claim_fingerprint: e07cd84be3c29fd0b676466dcf299f46258a9c97444823bc5385500202672302
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-8aff8208-f8e2-46e7-85c2-26ed5fbc7634
 - text: Luis Elizondo proposes a national UAP strategy to promote transparency and
     restore public trust through a whole-of-government approach.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -265,8 +246,6 @@ references:
   claim_id: 68633342-4681-4883-9f0e-4fc766a78ff6
   claim_fingerprint: 3321bb5e24cd4160064ac3e936726a7b6649bf5b8aae3e408fbe73f782bf2d35
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-68633342-4681-4883-9f0e-4fc766a78ff6
 - text: Luis Elizondo considers public trust relating to UAP to be at an all-time
     low.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -276,8 +255,6 @@ references:
   claim_id: 6ac58014-99fb-4235-a604-9478c44cd182
   claim_fingerprint: aa1a4e740ed62c5a09e06494ee5b976127db100959c021a4dbdcf8faef602fbb
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-6ac58014-99fb-4235-a604-9478c44cd182
 - text: Luis Elizondo proposes that the United States Congress create a protected
     environment for whistleblowers.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -288,8 +265,6 @@ references:
   claim_id: d6334183-d7e6-4938-a00b-e8952d59a556
   claim_fingerprint: 0d778c7d746c0ec110c41974359370fa137d835021ea5575d07aef59946c8ffb
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-d6334183-d7e6-4938-a00b-e8952d59a556
 - text: Luis Elizondo states that UAP whistleblowers suffer because of stigma, a code
     of silence, and concerns about retaliation.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
@@ -300,8 +275,6 @@ references:
   claim_id: 5bbfaa2c-bb44-4297-9abd-eae6262afaf4
   claim_fingerprint: 70cef37068d4e3a98f78c6d57e2866ca64078079b0c830dcb8b9107d6303c57b
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-5bbfaa2c-bb44-4297-9abd-eae6262afaf4
 - text: Luis Elizondo proposes that Members of the United States House Committee on
     Oversight and Accountability and other lawmakers use subpoena power against hostile
     witnesses and prevent additional government funding for UAP efforts hidden from
@@ -315,8 +288,6 @@ references:
   claim_id: 8776646a-5326-4fe2-b769-63ff9f2e5f9e
   claim_fingerprint: 683875215c7234418f3e262d112410419d3fd2413efa114047306bf048416a91
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-8776646a-5326-4fe2-b769-63ff9f2e5f9e
 - text: Luis Elizondo believes that Americans can handle the truth about UAP.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -325,8 +296,6 @@ references:
   claim_id: e48527f2-c1a3-4f30-905a-55cc4a5c8ef1
   claim_fingerprint: 62991218f059e65cfe53a1817614182f1ea6309266869b3f687935df58b327d5
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-e48527f2-c1a3-4f30-905a-55cc4a5c8ef1
 - text: Luis Elizondo believes that the world deserves the truth about UAP.
   source: 'Written Testimony of Luis Elizondo: Unidentified Anomalous Phenomena: Exposing
     the Truth'
@@ -335,8 +304,6 @@ references:
   claim_id: 8ed89e3c-9b46-4e18-9836-c1c3cb794f45
   claim_fingerprint: 2b650878f151657ce32fc8df9f6c4336fa11d7494056575eeedbf8cdaff20c24
   record_hash: f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/f523c71874db66fde0118502c5f7d33293f65f6517bbec044b94dce0#claim-8ed89e3c-9b46-4e18-9836-c1c3cb794f45
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna

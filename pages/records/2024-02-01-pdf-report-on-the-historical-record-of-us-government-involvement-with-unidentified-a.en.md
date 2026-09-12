@@ -1,24 +1,45 @@
 ---
+schema: anomalica/public-record/1
+content_kind: record
 title: Report on the Historical Record of U.S. Government Involvement with Unidentified
   Anomalous Phenomena (UAP), Volume I
 description: A report by the All-domain Anomaly Resolution Office reviewing United
   States Government investigations into unidentified anomalous phenomena since 1945
   and assessing claims concerning extraterrestrial technology, recovered material
   and concealed programmes.
-noindex: true
-metadata:
-  medium: pdf
-  date: '2024-02-01'
-  publisher: All-domain Anomaly Resolution Office
 record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-source:
-  status: public_domain
-  effective_status: public_domain
-  type: pdf
-  display: text
-  url: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
+metadata:
+  source_type: pdf
+  document_type: report
   publisher: All-domain Anomaly Resolution Office
-  date_published: 2024-02-01
+  creators: &id001
+  - The Department of Defense All-Domain Anomaly Resolution Office
+  published_date: '2024-02-01'
+  pages: 63
+source:
+  source_type: pdf
+  document_type: report
+  publisher: All-domain Anomaly Resolution Office
+  creators: *id001
+  published_date: '2024-02-01'
+  pages: 63
+  capabilities:
+    source_body:
+      mode: none
+      reason: unavailable
+    archived_original:
+      mode: none
+      reason: unavailable
+    media:
+      mode: none
+      reason: unavailable
+    provider_embed:
+      mode: none
+      reason: unsupported
+    external_link:
+      mode: link
+      reason: allowed
+      url: https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF
 references:
 - text: Volume I reviews United States Government activity concerning UAP since 1945.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -30,8 +51,6 @@ references:
   claim_id: 3a8721b0-5098-4d82-b6f1-dacf16ab81d7
   claim_fingerprint: 04fb2be0de193e2c7b1a79bafe85b86d040b5244ea0b6d2628ed0741f84b7782
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-3a8721b0-5098-4d82-b6f1-dacf16ab81d7
 - text: The report was provided by the Department of Defense in response to a statutory
     reporting requirement.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -47,8 +66,6 @@ references:
   claim_id: 7646d8bf-dc34-41cc-9a58-fd49c2c178bb
   claim_fingerprint: 8c1404de241f56758986260baadb796724840f0ee2f48a4f133ec49993a06553
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-7646d8bf-dc34-41cc-9a58-fd49c2c178bb
 - text: The report drew on government records, interviews, open-source analysis and
     classified and unclassified archives.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -60,8 +77,6 @@ references:
   claim_id: d9c5b870-768f-488b-a106-ae4d6f75f690
   claim_fingerprint: 79eabb88357b9f07ae5fd53ee640a05ab10a8b16a4ffdcb4a266fc1d1a9bce1a
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d9c5b870-768f-488b-a106-ae4d6f75f690
 - text: AARO conducted approximately 30 interviews during its research.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -71,8 +86,6 @@ references:
   claim_id: 51d292b0-1a26-4210-8edf-11adeebc83c2
   claim_fingerprint: 88a953fa16511dd22f35a3b94ecb2470febfee7648f5d7e6a25655d07f9a0c94
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-51d292b0-1a26-4210-8edf-11adeebc83c2
 - text: AARO used six parallel lines of effort for the historical review.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -83,8 +96,6 @@ references:
   claim_id: e80ef5c4-6acf-4269-a2a0-9c2c9520c499
   claim_fingerprint: d3e1f68ea4f398988b837442bdf03efe58d3aa235de18ddb1d95c94f7f2738ec
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-e80ef5c4-6acf-4269-a2a0-9c2c9520c499
 - text: AARO found no evidence that an official investigation or review panel had
     confirmed a UAP sighting as extraterrestrial technology.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -96,8 +107,6 @@ references:
   claim_id: 1797f937-1347-439e-b37e-eaa04c06c067
   claim_fingerprint: 81f11fb8f26334ef24860f2f453611f0b9d14b76f55574268c245e219745027d
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1797f937-1347-439e-b37e-eaa04c06c067
 - text: Investigative efforts concluded that most sightings involved ordinary objects
     or phenomena and misidentification.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -108,8 +117,6 @@ references:
   claim_id: 6121a2ee-8a40-42ce-bdc9-1433f618d225
   claim_fingerprint: 83dbfd4e6e8a5ea88a892abc7b9e1029fa9999f00792466522858aac7344e0e9
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-6121a2ee-8a40-42ce-bdc9-1433f618d225
 - text: AARO found no empirical evidence for reverse-engineering of extraterrestrial
     technology by the United States Government or private companies.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -120,8 +127,6 @@ references:
   claim_id: 838ba213-acae-4643-8f4d-38ed51f1d2c2
   claim_fingerprint: 27bb3c5ccaa4fac2f71cb7fd9b1903b2449c11102ffd5b41a58a5967f581981b
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-838ba213-acae-4643-8f4d-38ed51f1d2c2
 - text: KONA BLUE was proposed to the Department of Homeland Security but was never
     approved.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -133,8 +138,6 @@ references:
   claim_id: 2a867a89-5ae3-47e4-8844-4c2c06c4de9d
   claim_fingerprint: 897f750af033f8368e043f7d6bbdf699478e7e31d043b9374870b5b9942222ea
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2a867a89-5ae3-47e4-8844-4c2c06c4de9d
 - text: The report describes an Intelligence Community Controlled Access Program expanded
     in 2021 to include UAP reverse-engineering, but states that it recovered or reverse-engineered
     no spacecraft and was later disestablished.
@@ -146,8 +149,6 @@ references:
   claim_id: 153cc145-a710-4ea7-8959-8fa09d0ff678
   claim_fingerprint: abbdbf31b18161b4a13ec35eb6fbcd172a472fd10b82c16df44a5f20352de853
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-153cc145-a710-4ea7-8959-8fa09d0ff678
 - text: Project BLUE BOOK recorded 12,618 sightings between 1947 and 1969, of which
     701 remained unidentified.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -157,8 +158,6 @@ references:
   claim_id: 337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
   claim_fingerprint: 7b0d9edb99fbeb0b5410c25ce907c5576ef98bbe9bdd34e74ba3a51795401d3e
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-337a2fa8-81e6-42c9-a0ff-b621d1e6d2cc
 - text: Project BLUE BOOK concluded that no evaluated sighting indicated a national-security
     threat or technology beyond contemporary scientific knowledge.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -169,8 +168,6 @@ references:
   claim_id: 32d2c583-11de-4c32-ac66-1e89c4a16518
   claim_fingerprint: 1914e68249b11c2351e23bb075dec6fc913c9214eff9987c49b0f591d8f5a7a3
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-32d2c583-11de-4c32-ac66-1e89c4a16518
 - text: AAWSAP was established in 2009 and was also known as AATIP.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -180,8 +177,6 @@ references:
   claim_id: 1d3d4680-6dd7-4260-bb05-f7e581c22808
   claim_fingerprint: c8f4a88d32cfe30a626baa8c0fc88e7bba8c4f682eeb5622c0344f9d8f8588a1
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-1d3d4680-6dd7-4260-bb05-f7e581c22808
 - text: AARO found no substantive AAWSAP/AATIP casework beyond case reviews, observer
     interviews and unrelated paranormal research at a Utah property.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -195,8 +190,6 @@ references:
   claim_id: a01a2cc6-3be1-4b11-b0ff-4be66553e61b
   claim_fingerprint: b776fe3e670b238cc572d509bc74b5d8422df5defe23b897fc3f8f6c7cd8f2c7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a01a2cc6-3be1-4b11-b0ff-4be66553e61b
 - text: The UAPTF was established in 2020 to improve understanding of UAP and assess
     possible threats to national security.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -207,8 +200,6 @@ references:
   claim_id: d81d92c7-b50c-4425-92eb-be9d94981ae3
   claim_fingerprint: 028be90439ef84564401c68ab7bdea5770750ce53cb2b0d67754c12e274bac95
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-d81d92c7-b50c-4425-92eb-be9d94981ae3
 - text: AARO was created by renaming AOIMSG and expanding its mission.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
     Anomalous Phenomena (UAP), Volume I
@@ -219,8 +210,6 @@ references:
   claim_id: 2c4213ce-0bfe-4e5d-be37-93f6574588cd
   claim_fingerprint: a5f283e73a29de6b0a4d5d050d9b812dbd87fe0b8314dd42ed6cca4ba939a49f
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-2c4213ce-0bfe-4e5d-be37-93f6574588cd
 - text: AARO reported that all cases it had investigated and analysed did not represent
     extraterrestrial or off-world technology.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -231,8 +220,6 @@ references:
   claim_id: a6a7a01b-d848-4108-9be6-ec0a891017ac
   claim_fingerprint: 42d65dd0f7acb24ade2d3fa2f2f1c847481817699bb676c089351b516dd2c137
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-a6a7a01b-d848-4108-9be6-ec0a891017ac
 - text: AARO remains open to additional verifiable information that could alter Volume
     I's conclusions.
   source: Report on the Historical Record of U.S. Government Involvement with Unidentified
@@ -244,8 +231,6 @@ references:
   claim_id: 47ee9aba-c282-4b0a-9f7b-f58623a16ad1
   claim_fingerprint: 426626ae4c53f49290e98fd35e21a8f0d2092cf1c84a45bd9e87cc26ade252e7
   record_hash: 8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947
-  copyright_status: public_domain
-  workbench_url: https://workbench.anomalica.is/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a947#claim-47ee9aba-c282-4b0a-9f7b-f58623a16ad1
 built_by:
   model: openai/gpt-5.6-luna
   model_version: openai/gpt-5.6-luna
